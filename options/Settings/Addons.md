@@ -4,14 +4,14 @@ title: Add-ons
 prev: /options/settings/Neutrals.html
 next: /options/settings/Experimental.html
 sidebar: 
+- { text: Custom Settings, link: /options/settings/Custom.html}
+- { text: Game Settings, link: /options/settings/Game.html}
+- { text: Game Modifiers, link: /options/settings/Modifiers.html}
 - { text: Impostors, link: /options/settings/Impostors.html}
 - { text: Crewmates, link: /options/settings/Crewmates.html} 
 - { text: Neutrals, link: /options/settings/Neutrals.html}
 - { text: Add-ons, link: /options/settings/Addons.html}
 - { text: Experimental, link: /options/settings/Experimental.html}
-- { text: Custom Settings, link: /options/settings/Custom.html}
-- { text: Game Settings, link: /options/settings/Game.html}
-- { text: Game Modifiers, link: /options/settings/Modifiers.html}
 ---
 
 # <font color="#ff9ace">➕ <b>All: Add-ons</b></font> <Badge text="Total: 39" type="tip" vertical="middle"/>

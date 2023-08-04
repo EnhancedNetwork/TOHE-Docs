@@ -11,6 +11,6 @@ next: Marshall
 As the Lookout, you can see the IDs of every player at all times.<br>
 This allows you to see through shapeshifts and camouflages.
 * Max
-  * Set the Maximum amount of Judges that can be in a match
+  * Set the Maximum amount of Lookouts that can be in a match
 
 > From: TBD

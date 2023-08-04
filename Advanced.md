@@ -302,11 +302,25 @@ Note: Commands in bold are considered "essential" and are recommended for all pl
 </tr>
 </table>
 
-## Welcome & onMeeting auto messages
+## Welcome, onFirstMeeting & onMeeting auto messages
 
-Open the root directory of game，find `..\Among Us\TOHE_DATA\template.txt` file.
+Open the root directory of game，find `..\Among Us\TOHE-DATA\template.txt` file.
 
 You can see that there are `welcome`, `OnMeeting` and other words in the file, where `welcome` is the message that will be sent when other players enter your lobby, and `OnMeeting` is the message that will be sent when each meeting starts. Where `\n` means newline. While we fully allow you to modify these files as you please, please try not to modify the format of this file to avoid game errors.
+
+Valid variables:
+
+- `{{PlayerSpeedMod}}` `{{CrewLightMod}}` `{{ImpostorLightMod}}` `{{KillCooldown}}`
+- `{{NumCommonTasks}}`  `{{NumLongTasks}}` `{{NumShortTasks}}`
+- `{{AmongUsVersion}}` `{{InternalVersion}}`
+- `{{NumEmergencyMeetings}}` `{{EmergencyCooldown}}`
+- `{{DiscussionTime}}` `{{VotingTime}}`
+- `{{Date}}` `{{Time}}`
+- `{{RoomCode}}`
+- `{{PlayerName}}`
+- `{{ModVersion}}`
+- `{{Map}}`
+---
 
 ## Ban list & banned words & banned name
 

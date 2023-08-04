@@ -8,7 +8,7 @@ heroText: null
 tagline: Keeping Among Us fresh and fun!
 actions:
   - text: About
-    link: /Features.html
+    link: /AboutUs.html
     type: secondary
   - text: Advanced
     link: /Advanced.html

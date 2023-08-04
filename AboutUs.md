@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: About
+title: About Us
 ---
 
 ![Cover](https://npm.elemecdn.com/tohe-doc-resources@1.0.1/Cover.webp)

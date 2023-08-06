@@ -5,7 +5,7 @@ prev: Juggernaut
 next: Pelican
 ---
 
-# <font color="#9900cc">🐍 <b>Medusa</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#663399">🐍 <b>Medusa</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 You can stone bodies to make them un-reportable. Much like Cleaning a body.

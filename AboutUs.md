@@ -53,7 +53,7 @@ Then I discovered Town of Host Edited, and moved on to it. Then I decided to mod
 
 Then came the day Karpe decided to discontinue TOHE and quit the modding, to where I stepped in to continue the man's work and keep the mod's glory alive.
 
-Thus, Town of Host Edited: Restored was born.
+Thus, Town of Host-ReEdited was born.
 
 \- [**LoonieToons**](https://github.com/Loonie-Toons/)
 

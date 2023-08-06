@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Witch
-prev: Pursuer
+prev: Shaman
 next: /options/settings/Neutrals.html
 ---
 

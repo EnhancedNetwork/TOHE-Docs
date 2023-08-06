@@ -2,7 +2,7 @@
 lang: en-US
 title: Gangster
 prev: Fireworker
-next: Morphling
+next: Godfather
 ---
 
 # <font color="red">🤵 Gangster</font> <Badge text="Support" type="tip" vertical="middle"/>

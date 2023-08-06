@@ -2,7 +2,7 @@
 lang: en-US
 title: Rascal
 prev: Oblivious
-next: Unlucky
+next: Sunglasses
 ---
 
 # <font color=#ff6347>👹 <b>Rascal</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>

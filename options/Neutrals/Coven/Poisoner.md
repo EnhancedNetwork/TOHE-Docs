@@ -5,7 +5,7 @@ prev: Plaguebearer
 next: Ritualist
 ---
 
-# <font color="#478800">🧪 <b>Poisoner</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#663399">🧪 <b>Poisoner</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 As the Poisoner, your kills are delayed.<br>

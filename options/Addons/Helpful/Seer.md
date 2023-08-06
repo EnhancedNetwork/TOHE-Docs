@@ -2,7 +2,7 @@
 lang: en-US
 title: Seer
 prev: Schizophrenic
-next: Tiebreaker
+next: Sleuth
 ---
 
 # <font color=#61b26c>🔮 <b>Seer</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>

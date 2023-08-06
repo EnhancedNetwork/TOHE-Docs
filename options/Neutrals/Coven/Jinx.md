@@ -5,7 +5,7 @@ prev: Jackal
 next: Juggernaut
 ---
 
-# <font color="#ff00ff">🤞 <b>Jinx</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#663399">🤞 <b>Jinx</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 When someone attempts to kill a Jinx, they will instead suicide, due to them being “Jinxed” Kill everyone to win.

@@ -238,20 +238,6 @@ sidebar:
       * <font color=red>OFF</font>: Guessers' commands will be shown 
   * <font color=red>OFF</font>: Guesser Mode will be disabled
 * Roles and Add-ons for Guesser Mode
-  * <font size=3.5em color=#19fa8d><b>Double Shot</b></font>
-    * Max
-      * Set the maximum amount of Double Shot that can spawn
-    * Spawn Chance
-      * Set the chance that Double Shot role will spawn
-    * <font color=red>Impostors</font> can have Double Shot
-      * <font color=green>ON</font>: <font color=red>Impostors</font> can have Double Shot
-      * <font color=red>OFF</font>: <font color=red>Impostors</font> cannot have Double Shot
-    * <font color=#8cffff>Crewmates</font> can have Double Shot
-      * <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can have Double Shot
-      * <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot have Double Shot
-    * <font color=#7f8c8d>Neutrals</font> can have Double Shot
-      * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can have Double Shot
-      * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot have Double Shot
   * <font size=3.5em color=#baaae9><b>Onbound</b></font>
     * Max
       * Set the maximum amount of Onbound that can spawn

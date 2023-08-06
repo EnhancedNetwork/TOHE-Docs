@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Last Impostor
-prev: /options/settings/Addons.html
+prev: Clumsy
 next: Madmate
 ---
 

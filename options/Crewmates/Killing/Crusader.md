@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Crusader
-prev: Copycat
+prev: Bodyguard
 next: Deceiver
 ---
 

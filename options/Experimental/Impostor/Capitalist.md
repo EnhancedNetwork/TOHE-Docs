@@ -2,7 +2,7 @@
 lang: en-US
 title: Capitalist
 prev: Butcher
-next: Disperser
+next: Chronomancer
 ---
 
 # <font color=red>🤑 <b>Capitalist</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>

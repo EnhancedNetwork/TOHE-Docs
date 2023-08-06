@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Saboteur
-prev: Ninja
+prev: QuickShooter
 next: Sniper
 ---
 

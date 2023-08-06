@@ -2,7 +2,7 @@
 link: en-US
 title: Bodyguard
 prev: ../support/Tracker.html
-next: Copycat
+next: Crusader
 ---
 
 # <font color="#185abd">🛡️ <b>Bodyguard</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

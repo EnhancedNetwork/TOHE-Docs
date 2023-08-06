@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Dictator
-prev: ../killing/Veteran.html
+prev: Copycat
 next: Guardian
 ---
 

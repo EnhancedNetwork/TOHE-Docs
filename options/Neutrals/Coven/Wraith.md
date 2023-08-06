@@ -5,7 +5,7 @@ prev: Virus
 next: /options/settings/Neutrals.html
 ---
 
-# <font color="#4b0082">🩻 <b>Wraith</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#7223da">🩻 <b>Wraith</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 As the Wraith, you can use vents to temporarily go invisible.<br>

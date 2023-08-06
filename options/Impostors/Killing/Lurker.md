@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Lurker
-prev: Inhibitor
+prev: Ludopath
 next: Mercenary
 ---
 

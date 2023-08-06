@@ -2,7 +2,7 @@
 lang: en-US
 title: Quick Shooter
 prev: Ninja
-next: RoleReaper
+next: Saboteur
 ---
 
 # <font color="red">🔫 Quick Shooter</font> <Badge text="Killing" type="tip" vertical="middle"/>

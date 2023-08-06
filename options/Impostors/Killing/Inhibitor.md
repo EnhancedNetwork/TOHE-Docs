@@ -2,7 +2,7 @@
 lang: en-US
 title: Inhibitor
 prev: Hangman
-next: Lurker
+next: Ludopath
 ---
 
 # <font color=red>🛡️ Inhibitor</font> <Badge text="Killing" type="tip" vertical="middle"/>

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Tiebreaker
-prev: Seer
+prev: Sleuth
 next: Watcher
 ---
 

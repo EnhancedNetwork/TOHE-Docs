@@ -65,9 +65,8 @@ Quoi qu'il en soit, j'espère que vous apprécierez le mod, et j'espère vous vo
 
 ---
 
-<p align="right">Commentaires et contact</p>
-
-<p align="right">
+<p align="right">Commentaires et contact
+<br>
 <a href="https://discord.gg/hkk2p9ggv4" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>&nbsp;
 <a href="https://github.com/Loonie-Toons/TOHE-Restored" target="_blank"><img src="https://img.shields.io/badge/Github%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 </p>

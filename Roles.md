@@ -14,7 +14,7 @@ sidebar:
 
 # Roles
 
-<font size=4em><b>Latest Version 2.5.1_11 Dev 7 (Dev Build 7)</b></font><br><br>
+<font size=4em><b>Latest Version 2.5.1_11 Dev 8.1 (Dev Build 8.1)</b></font><br><br>
 
 [Settings - Custom](/options/settings/custom) | [Settings - System](/options/settings/system) <br>
 [Settings - Game](options/settings/game) | [Settings - Game Modifiers](/options/settings/modifiers) <br> 

@@ -53,7 +53,7 @@ These are roles that are not fully stable and may contain bugs. They can be Impo
 
 ### <font color=red><b>Impostor</b></font>
 ---
-[Butcher](/options/experimental/impostor/Butcher) | [Capitalist](/options/experimental/impostor/Capitalist) | [Disperser](/options/experimental/impostor/Disperser) | [Eraser](/options/experimental/impostor/Eraser) | [Killing Machine](/options/experimental/impostor/KillingMachine) | [Lightning](/options/experimental/impostor/Lightning) | [Trapster](/options/experimental/impostor/Trapster) | [Zombie](/options/experimental/impostor/Zombie)
+[Butcher](/options/experimental/impostor/Butcher) | [Capitalist](/options/experimental/impostor/Capitalist) | [Chronomancer](/options/experimental/impostor/Chronomancer) | [Disperser](/options/experimental/impostor/Disperser) | [Eraser](/options/experimental/impostor/Eraser) | [Killing Machine](/options/experimental/impostor/KillingMachine) | [Lightning](/options/experimental/impostor/Lightning) | [Trapster](/options/experimental/impostor/Trapster) | [Zombie](/options/experimental/impostor/Zombie)
 <br>
 
 ### <font color=#7f8c8d><b>Neutral</b></font>

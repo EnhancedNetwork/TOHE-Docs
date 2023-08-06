@@ -11,8 +11,6 @@ next: Plaguebearer
 As the Pickpocket, you steal votes from your kills.<br>
 These votes are hidden.<br>
 Kill everyone to win.
-* Max
-  * Set the Maximum amount of Pickpockets that can be in a match
 * Kill Cooldown
   * Set how long a Pickpocket has to wait to Kill (and steal votes)
 * Can Vent

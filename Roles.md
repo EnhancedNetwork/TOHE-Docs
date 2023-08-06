@@ -14,11 +14,11 @@ sidebar:
 
 # Roles
 
-<font size=4em><b>Latest Version 2.5.1_11 Dev 8.1 (Dev Build 8.1)</b></font><br><br>
+<font size=4em><b>Latest Version 2.5.1_11 Dev 9 (Dev Build 9)</b></font><br><br>
 
 [Settings - Custom](/options/settings/custom) | [Settings - System](/options/settings/system) <br>
 [Settings - Game](options/settings/game) | [Settings - Game Modifiers](/options/settings/modifiers) <br> 
-[Impostor Roles](/options/settings/impostors) | [Neutral Roles](/options/settings/neutrals) | [Add-On Roles](/options/settings/addons)
+ | [Neutral Roles](/options/settings/neutrals) | [Add-On Roles](/options/settings/addons)
 
 <table>
 <tr>
@@ -29,31 +29,31 @@ sidebar:
 <tr>
 <td><font color=red><b>Impostor</b></font></td>
 <td>Play together and win via killing/voting out all Crewmates/Neutrals</td>
-<td align="center">47</td>
+<td align="center">49</td>
 </tr>
 <tr>
 <td><font color=#8cffff><b>Crewmate</b></font> </td>
 <td>Play together and win by completing all tasks/voting out all Evil</td>
-<td align="center">49</td>
+<td align="center">50</td>
 </tr>
 <tr>
 <td><font color=#7c8c8d><b>Neutral</b></font></td>
 <td>Play alone and win via their own win conditions</td>
-<td align="center">42</td>
+<td align="center">43</td>
 </tr>
 <tr>
 <td><font color=#ff9ace><b>Add-ons</b></font></td>
 <td>Add-ons that can be added to any role for any player</td>
-<td align="center">39</td>
+<td align="center">37</td>
 </tr>
 <tr>
 <td><font color=#76b8e0><b>Experimental</b></font></td>
 <td>Roles that are not fully stable and may contain bugs</td>
-<td align="center">18</td>
+<td align="center">19</td>
 </tr>
 <tr>
 <td colspan=2><b>Total:</b></td>
-<td align="center"><b>195</b></td>
+<td align="center"><b>198</b></td>
 </tr>
 </table>
 <br>

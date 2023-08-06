@@ -14,8 +14,6 @@ Shrouded players kill others.<br>
 If the shrouded player doesn't make a kill, they'll kill themself after a meeting.<br><br>
 Shroud sees shrouded players with a 「◈」 mark next to their name.<br>
 Shrouded players who did not make a kill will also have the 「◈」 mark in meetings, where they'll die if the Shroud is alive by the end of the meeting.
-* Max
-  * Set the Maximum amount of Shrouds that can be in a match
 * Shroud Cooldown
   * Set how long a Shroud needs to wait to use their Ability
 * Can Vent

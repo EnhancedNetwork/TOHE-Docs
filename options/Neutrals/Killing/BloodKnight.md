@@ -9,8 +9,6 @@ next: Glitch
 ---
 
 The Blood Knight wins when they're the last killing role alive and the amount of <font color=#8cffff>Crewmates</font> is lower or equal to the amount of Blood Knights. The Blood Knight gains a temporary shield after every kill that makes them immortal for a few seconds.
-* Max
-  * Set the Maximum amount of Blood Knights that can be in a match
 * Kill Cooldown
   * Set how long a Blood Knight has to wait to Kill
 * Can Vent

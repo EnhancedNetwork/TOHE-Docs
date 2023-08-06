@@ -9,8 +9,6 @@ next: Demon
 ---
 
 Snatch the Victory by living until the End of the Game. You can Snatch the Souls of players, and they will win with you. They count as dead.
-* Max
-  * Set the Maximum amount of Cursed Souls that can be in a match
 * Soul Snatch Cooldown
   * Set how long a Cursed Soul needs to wait to use their ability
 * Soul Snatch Cooldown Increase

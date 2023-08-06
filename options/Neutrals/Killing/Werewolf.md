@@ -12,8 +12,6 @@ As the Werewolf, you're a killer that can only kill during lights.<br>
 Werewolf can call lights (and only lights) to start their rampage.<br>
 You have a low kill cooldown and do not lunge toward your kills.<br><br>
 All your kills will have the Mauled death reason.
-* Max
-  * Set the Maximum amount of Werewolfs that can be in a match
 * Kill Cooldown
   * Set the Werewolf’s kill cooldown
 * Kill Cooldown After Killing

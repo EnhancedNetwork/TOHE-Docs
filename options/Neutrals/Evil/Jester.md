@@ -21,6 +21,9 @@ If the Jester get voted out, the Jester wins the game alone. If the Jester is st
 * * Has Impostor Vision
   * <font color=green>ON</font>: the Jester has the same vision as an Impostor
   * <font color=red>OFF</font>: the Jester has default vision
+* Hide Jester's Vote
+  * <font color=green>ON</font>: the Jester's vote will be hidden from other players
+  * <font color=red>OFF</font>: the Jester's vote will be shown to other players
 * <font color=yellow>(Hidden Role) Sunnyboy - Has a % chance of replacing Jester</font>
   * The Sunnyboy can check the life status of others through the life panel. When the Sunnyboy is alive, the game will not end due to a numerical advantage, (for example, the number of <font color=red>Impostors</font> is greater than the number of Crewmates, or there are no survivors). If the Sunnyboy dies at the end of the game, the Sunnyboy will win with the winning team
     * You must have “Disable Hidden Roles” toggled <font color=red>OFF</font> for this to have a chance to appear

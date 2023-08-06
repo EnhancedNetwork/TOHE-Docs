@@ -10,9 +10,6 @@ next: Virus
 
 As the Traitor, you were an <font color=red>Impostor</font> that betrayed the Impostors.<br>
 You know the <font color=red>Impostors</font> but they don't know you.<br>The twist? They can kill you but you can't kill them.
-
-* Max
-  * Set the Maximum amount of Traitors that can be in a match
 * Kill Cooldown
   * Set how long the Traitor needs to wait to Kill
 * Can Vent

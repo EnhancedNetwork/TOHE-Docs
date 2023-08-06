@@ -9,8 +9,6 @@ next: Opportunist
 ---
 
 You can kill like a Serial Killer, and you win with the winning team rather than alone. If you die, you lose.
-* Max
-  * Set the Maximum amount of Mavericks that can be in a match
 * Kill Cooldown
   * Set how long a Maverick needs to wait to use their kill
 * Can Vent

@@ -11,8 +11,6 @@ next: Poisoner
 Plague everyone using your kill button to turn into Pestilence. Once you turn into Pestilence you will become immortal (for the most part) and gain the ability to kill.<br>
 In addition to this, after turning into Pestilence you will kill anyone who tries to kill you directly.<br><br>
 You can only win if you turn into Pestilence
-* Max
-  * Set the Maximum amount of Plaguebearers that can be in a match
 * Plague Cooldown
   * Set how long the Plaguebearer has to wait to plague a player
 * Pestilence Kill Cooldown

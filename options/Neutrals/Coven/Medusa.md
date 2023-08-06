@@ -9,8 +9,6 @@ next: Pelican
 ---
 
 You can stone bodies to make them un-reportable. Much like Cleaning a body.
-* Max
-  * Set the Maximum amount of Medusa that can be in a match.
 * Kill Cooldown
   * Set the Medusa’s Kill Cooldown
 * Kill Cooldown On Stone Gaze

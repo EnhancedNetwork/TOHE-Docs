@@ -63,7 +63,7 @@ Play for yourself, and eliminate everyone around you. <font color=gray>Neutrals<
 
 ### <font color=#663399><b>Coven</b></font>
 ---
-[Coven Leader](/options/neutrals/coven/CovenLeader) | [Hex Master](/options/neutrals/killing/HexMaster) | [Jinx](/options/neutrals/killing/Jinx) | [Medusa](/options/neutrals/killing/Medusa) | [Necromancer](/options/neutrals/killing/Necromancer) | [Poisoner](/options/neutrals/killing/Poisoner) | [Ritualist](/options/neutrals/killing/Ritualist) | [Wraith](/options/neutrals/killing/Wraith)
+[Banshee](/options/neutrals/coven/Banshee) | [Coven Leader](/options/neutrals/coven/CovenLeader) | [Hex Master](/options/neutrals/coven/HexMaster) | [Jinx](/options/neutrals/coven/Jinx) | [Medusa](/options/neutrals/coven/Medusa) | [Necromancer](/options/neutrals/coven/Necromancer) | [Poisoner](/options/neutrals/coven/Poisoner) | [Ritualist](/options/neutrals/coven/Ritualist) | [Wraith](/options/neutrals/coven/Wraith)
 
 ### <font color=#912900><b>Evil</b></font>
 ---

@@ -15,9 +15,7 @@ You have to kill everyone to win.<br>
 You cannot vent.<br>
 You do not have Impostor vision.<br>
 Sheriff cannot shoot you.<br>
-Snitch cannot find you.<br>
-* Max
-  * Set the Maximum amount of Glitches that can be in a match.
+Snitch cannot find you.
 * Kill Cooldown
   * Set how long a Glitch needs to wait to Kill
 

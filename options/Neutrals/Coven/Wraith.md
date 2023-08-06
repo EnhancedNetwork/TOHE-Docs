@@ -13,8 +13,6 @@ Due to vents toggling your ability to go invisible, you cannot vent.<br>
 Trying to vent while invisible will cause you to become visible again.<br>
 Even when on cooldown, you cannot vent.<br><br>
 Kill everyone to win.
-* Max
-  * Set the Maximum amount of Wraiths that can be in a match
 * Vanish Cooldown
   * Set how long a Wraith needs to wait to Vanish
 * Vanish Duration

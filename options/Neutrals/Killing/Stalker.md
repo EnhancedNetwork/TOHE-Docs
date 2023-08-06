@@ -9,8 +9,6 @@ next: Traitor
 ---
 
 The Stalker can kill anyone, and every kill will immediately cause electricity sabotage (if electricity is already sabotaged, nothing will happen). Stalker cannot vent. If the <font color=red>Impostor</font> wins while the Stalker is alive or the <font color=#8cffff>Crewmate</font> wins by killing the <font color=red>Impostors</font> (according to the host's setting, the Stalker may also win when the <font color=#8cffff>Crewmate</font> wins by killing the Neutrals), then the Stalker win alone.
-* Max
-  * Set the Maximum amount of Stalkers that can be in a match.
 * Kill Cooldown
   * Set how long a Stalker has to wait to kill.
 * Has <font color=red>Impostor</font> Vision

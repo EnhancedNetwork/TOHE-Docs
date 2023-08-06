@@ -9,8 +9,6 @@ next: Wraith
 ---
 
 The task of the virus is to kill or infect all other players. When the virus murders a crewmate, their corpse is infected with a virus. The <font color=#8cffff>Crewmate</font> who reports this corpse is infected and joins the virus team or dies at the end of the meeting if the virus won't get voted out, dependent on the settings. If there are more players on the Virus team than on the <font color=#8cffff>Crewmate</font> team, the Virus team wins.
-* Max
-  * Set the Maximum amount of Viruses that can be in a match
 * Kill Cooldown
   * Set how long a Virus needs to wait to  Contaminate/Kill a player
 * Can Vent

@@ -10,8 +10,6 @@ next: Infectious
 
 As the Hex Master, you can hex players or kill them.<br><br>
 Hexing a player works the same as spelling as a Spellcaster.
-* Max
-  * Set the Maximum amount of Hex Masters that can be in a match
 * Switch Action Via
   * Set how the Hex Master can swap actions between:
     * Double Click

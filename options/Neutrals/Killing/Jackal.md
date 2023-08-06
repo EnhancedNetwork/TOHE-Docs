@@ -9,8 +9,6 @@ next: Jinx
 ---
 
 If there are only the Jackal team and the <font color=#8cffff>Crewmate</font> team are left, and the number of Jackal is greater than the number of <font color=#8cffff>Crewmate</font> members, the Jackal will win. Jackal can kill anyone, and depending on the host's settings, Jackal may be able to vent or has <font color=red>Impostor</font> vision.
-* Max
-  * Set the Maximum amount of Jackals that can be in a match
 * Kill Cooldown
   * Set the time a Jackal needs to wait before killing
 * Can Vent

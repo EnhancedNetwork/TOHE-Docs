@@ -10,8 +10,6 @@ next: Jackal
 
 As the Infectious, your job is to infect as many players as you can.<br><br>
 If you infect all the killers, you then can simply outnumber the crew and win the game.
-* Max
-  * Set the Maximum amount of Infectious that can be in a match
 * Infect Cooldown
   * Set how long an Infectious needs to wait to Infect a player
 * Maximum Infections
@@ -23,8 +21,8 @@ If you infect all the killers, you then can simply outnumber the crew and win th
   * <font color=green>ON</font>: Infected players can see each other
   * <font color=red>OFF</font>: Infected players don’t know who else is an Infected player
 * Has <font color=red>Impostor</font> Vision
-  * <font color=green>ON</font>: the Infectious has the same vision as an Impostor
-  * <font color=red>OFF</font>: the Infectious has default vision
+  * <font color=green>ON</font>: the Infectious has <font color=red>Impostor</font> Vision
+  * <font color=red>OFF</font>: the Infectious does not have <font color=red>Impostor</font> Vision
 * Can Vent
   * <font color=green>ON</font>: the Infectious has the ability to Vent
   * <font color=red>OFF</font>: the Infectious cannot Vent

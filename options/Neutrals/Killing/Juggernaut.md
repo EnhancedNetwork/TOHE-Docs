@@ -9,8 +9,6 @@ next: Medusa
 ---
 
 As the Juggernaut, your kill cooldown decreases with each kill you make.\n\nKill everyone to win.
-* Max
-  * Set the Maximum amount of Juggernauts that can be in a match
 * Default kill cooldown
   * Set the Juggernauts original Kill Cooldown
 * Reduce kill cooldown by

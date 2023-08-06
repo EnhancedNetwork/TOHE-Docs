@@ -1,13 +1,9 @@
 ---
 lang: en-US
-title: Advanced
+title: Binds
 ---
 
-# Advanced
-
 ## HotKeys
-
-Table will be updated soon with organized hotkeys.
 
 <table>
 <tr>

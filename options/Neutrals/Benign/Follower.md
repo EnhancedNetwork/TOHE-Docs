@@ -9,8 +9,6 @@ next: Hater
 ---
 
 The Follower can use their Kill button to Follow players, and use it again to follow another player. They will win with their Target, and they can win after death.
-* Max
-  * Set the Maximum amount of Followers that can be in a match
 * Maximum Number of Follows
   * Set the amount of times a Follower can swap their Target
 * Follow Cooldown

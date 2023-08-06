@@ -9,8 +9,6 @@ next: Juggernaut
 ---
 
 When someone attempts to kill a Jinx, they will instead suicide, due to them being “Jinxed” Kill everyone to win.
-* Max
-  * Set the Maximum amount of Jinxes that can be in a match
 * Kill Cooldown
   * Set how long a Jinx needs to wait to use their Ability
 * Can Vent

@@ -10,8 +10,6 @@ next: Ritualist
 
 As the Poisoner, your kills are delayed.<br>
 Kill everyone to win.
-* Max
-  * Set the Maximum amount of Poisoners that can be in a match
 * Poison Cooldown
   * Set how long a Poisoner has to wait to poison a player
 * Poison Kill Delay

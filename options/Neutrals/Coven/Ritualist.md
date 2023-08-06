@@ -12,8 +12,6 @@ As the Ritualist, you can reveal the roles of other players using your kill butt
 Single click: Reveal role<br>
 Double click: Kill<br><br>
 If you run out of reveal uses, your kill button functions normally.
-* Max
-  * Set the Maximum amount of Ritualists that can be in a match
 * Kill Cooldown
   * Set how long the Ritualist needs to wait to use their Ability
 * Maximum Reveals

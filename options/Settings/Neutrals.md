@@ -14,7 +14,7 @@ sidebar:
 - { text: Experimental, link: /options/settings/Experimental.html}
 ---
 
-# <font color="#7f8c8d">👨‍🚀 <b>Faction: Neutral</b></font> <Badge text="Total: 42" type="tip" vertical="middle"/>
+# <font color="#7f8c8d">👨‍🚀 <b>Faction: Neutral</b></font> <Badge text="Total: 43" type="tip" vertical="middle"/>
 ---
 
 Play for yourself, and eliminate everyone around you. <font color=gray>Neutrals</font> can win alone, but they can also win with other players. Their victory conditions are different from other players. Each <font color=#7f8c8d>Neutral</font> player has a unique victory condition.
@@ -36,7 +36,7 @@ Play for yourself, and eliminate everyone around you. <font color=gray>Neutrals<
 
 <tr>
 <td><font color=#663399><b>Coven</b></font></td>
-<td align="center">8</td>
+<td align="center">9</td>
 </tr>
 
 <tr>

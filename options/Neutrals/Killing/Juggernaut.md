@@ -8,7 +8,8 @@ next: Medusa
 # <font color="#a41342">💪 <b>Juggernaut</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
-As the Juggernaut, your kill cooldown decreases with each kill you make.\n\nKill everyone to win.
+As the Juggernaut, your kill cooldown decreases with each kill you make.<br><br>
+Kill everyone to win.
 * Default kill cooldown
   * Set the Juggernauts original Kill Cooldown
 * Reduce kill cooldown by

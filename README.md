@@ -3,9 +3,8 @@ lang: en-US
 title: Home
 home: true
 heroImage: https://npm.elemecdn.com/tohe-doc-resources@1.0.0/Logo.png
-heroHeight: 200
+heroHeight: 165
 heroText: null
-tagline: Keeping Among Us fresh and fun!
 actions:
   - text: Role Info
     link: /Roles.html

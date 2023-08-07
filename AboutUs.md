@@ -1,6 +1,7 @@
 ---
 lang: en-US
 title: About Us
+contributors: false
 ---
 
 ![Cover](https://npm.elemecdn.com/tohe-doc-resources@1.0.1/Cover.webp)
@@ -75,3 +76,5 @@ Anyways, I hope you enjoy the mod, and I hope to see you on Discord!
 <a href="https://discord.gg/hkk2p9ggv4" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>&nbsp;
 <a href="https://github.com/Loonie-Toons/TOHE-Restored" target="_blank"><img src="https://img.shields.io/badge/Github%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 </p>
+
+---

@@ -16,9 +16,13 @@ sidebar:
 
 <font size=4em><b>Latest Version 2.5.1_11 Dev 9 (Dev Build 9)</b></font><br><br>
 
+<center>
+
 [Settings - Custom](/options/settings/custom) | [Settings - System](/options/settings/system) <br>
 [Settings - Game](options/settings/game) | [Settings - Game Modifiers](/options/settings/modifiers) <br> 
- | [Neutral Roles](/options/settings/neutrals) | [Add-On Roles](/options/settings/addons)
+[Impostor Roles](/options/settings/impostors) | [Crewmates Roles](/options/settings/crewmates) <br>
+[Neutral Roles](/options/settings/neutrals) | [Add-On Roles](/options/settings/addons) | [Experimental Roles](/options/settings/experimental)
+</center>
 
 <table>
 <tr>

@@ -32,6 +32,6 @@ will be maintaining the website.</p>
 <p>We play Among Us a fair amount, so we will do our best to keep it all updated and viable to play with
 each update that comes</p>
 <p>Please keep in mind that we are still in the Canary (Beta) phase, so not everything is optimized/stable.
-We ask for your patience while we continue to make TOHE <i>Restored</i></p>
+We ask for your patience while we continue to make TOH-<i>ReEdited</i></p>
 <p>Ultimately, we thank you for your patience while we continue to update the mod. TOHE will be remembered
-by KARPED1EM with the new name TOHE-R.</p>
+by KARPED1EM with the new name TOH-RE.</p>

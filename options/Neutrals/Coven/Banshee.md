@@ -15,3 +15,7 @@ While the shield is active, you cannot be attacked.
 * Can Vent
   * <font color=green>ON</font>: the Banshee can vent
   * <font color=red>OFF</font>: the Banshee cannot vent
+* Protection Duration
+  * Set how long the Banshee will be protected after killing
+
+> From: TBD

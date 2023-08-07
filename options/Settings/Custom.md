@@ -5,6 +5,7 @@ prev: /Roles
 next: Impostors
 sidebar: 
 - { text: Custom Settings, link: /options/settings/Custom.html}
+- { text: System Settings, link: /options/settings/System.html}
 - { text: Game Settings, link: /options/settings/Game.html}
 - { text: Game Modifiers, link: /options/settings/Modifiers.html}
 - { text: Impostors, link: /options/settings/Impostors.html}

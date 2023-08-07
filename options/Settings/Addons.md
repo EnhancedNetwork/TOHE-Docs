@@ -48,22 +48,22 @@ These are modifiers that any players can acquire. There are helpful, harmful, an
 
 ### <font color=#ff0000><b>Harmful</b></font>
 ---
-[Avenger](/options/addons/harmful/Avenger) | [Bewilder](/options/addons/harmful/Bewilder) | [Diseased](/options/addons/harmful/Diseased) | [Disregarded](/options/addons/harmful/Disregarded) | [Ghoul](/options/addons/harmful/Ghoul) | [Oblivious](/options/addons/harmful/Oblivious) | [Reach](/options/addons/helpful/Reach) | [Rascal](/options/addons/harmful/Rascal) | [Sunglasses](/options/addons/harmful/sunglasses) | [Unlucky](/options/addons/harmful/Unlucky) | [Workhorse](/options/addons/harmful/Workhorse)
+[Avenger](/options/Addons/Harmful/Avenger.html) | [Bewilder](/options/Addons/Harmful/Bewilder.html) | [Diseased](/options/Addons/Harmful/Diseased.html) | [Disregarded](/options/Addons/Harmful/Disregarded.html) | [Ghoul](/options/Addons/Harmful/Ghoul.html) | [Oblivious](/options/Addons/Harmful/Oblivious.html) | [Reach](/options/Addons/Helpful/Reach.html) | [Rascal](/options/Addons/Harmful/Rascal.html) | [Sunglasses](/options/Addons/Harmful/sunglasses.html) | [Unlucky](/options/Addons/Harmful/Unlucky.html) | [Workhorse](/options/Addons/Harmful/Workhorse.html)
 <br>
 
 ### <font color=#00ff00><b>Helpful</b></font>
 ---
-[Antidote](/options/addons/helpful/Antidote) | [Autopsy](/options/addons/helpful/Autopsy) | [Bait](/options/addons/helpful/Bait) | [Beartrap](/options/addons/helpful/Beartrap) | [Burst](/options/addons/helpful/Burst) | [Double Shot](/options/addons/helpful/DoubleShot) | [Glow](/options/addons/helpful/Glow) | [Gravestone](/options/addons/helpful/Gravestone) | [Lazy](/options/addons/helpful/Lazy) | [Lighter](/options/addons/helpful/Lighter) | [Loyal](/options/addons/helpful/Loyal) | [Lucky](/options/addons/helpful/Lucky) | [Necroview](/options/addons/helpful/Necroview) | [Schizophrenic](/options/addons/helpful/Schizophrenic) | [Seer](/options/addons/helpful/Seer) | [Sleuth](/options/addons/helpful/Sleuth) | [Tiebreaker](/options/addons/helpful/Tiebreaker) | [Watcher](/options/addons/helpful/Watcher)
+[Antidote](/options/Addons/Helpful/Antidote.html) | [Autopsy](/options/Addons/Helpful/Autopsy.html) | [Bait](/options/Addons/Helpful/Bait.html) | [Beartrap](/options/Addons/Helpful/Beartrap.html) | [Burst](/options/Addons/Helpful/Burst.html) | [Double Shot](/options/Addons/Helpful/DoubleShot.html) | [Glow](/options/Addons/Helpful/Glow.html) | [Gravestone](/options/Addons/Helpful/Gravestone.html) | [Lazy](/options/Addons/Helpful/Lazy.html) | [Lighter](/options/Addons/Helpful/Lighter.html) | [Loyal](/options/Addons/Helpful/Loyal.html) | [Lucky](/options/Addons/Helpful/Lucky.html) | [Necroview](/options/Addons/Helpful/Necroview.html) | [Schizophrenic](/options/Addons/Helpful/Schizophrenic.html) | [Seer](/options/Addons/Helpful/Seer.html) | [Sleuth](/options/Addons/Helpful/Sleuth.html) | [Tiebreaker](/options/Addons/Helpful/Tiebreaker.html) | [Watcher](/options/Addons/Helpful/Watcher.html)
 <br>
 
 ### <font color=red><b>Impostor</b></font>
 ---
-[Clumsy](/options/addons/impostor/Clumsy) | [LastImpostor](/options/addons/impostor/LastImpostor) | [Madmate](/options/addons/impostor/Madmate) | [Mare](/options/addons/impostor/Mare) | [Mimic](/options/addons/impostor/Mimic) | [Stealer](/options/addons/impostor/Stealer) | [Swift](/options/addons/impostor/Swift)
+[Clumsy](/options/Addons/Impostor/Clumsy.html) | [LastImpostor](/options/Addons/Impostor/LastImpostor.html) | [Madmate](/options/Addons/Impostor/Madmate.html) | [Mare](/options/Addons/Impostor/Mare.html) | [Mimic](/options/Addons/Impostor/Mimic.html) | [Stealer](/options/Addons/Impostor/Stealer.html) | [Swift](/options/Addons/Impostor/Swift.html)
 <br>
 
 ### <font color=#7f8c8d><b>Neutral</b></font>
 ---
-[Lovers](/options/addons/neutral/Lovers)
+[Lovers](/options/Addons/Neutral/Lovers.html)
 
 <br>
 

@@ -5,11 +5,11 @@ title: Installation
 
 ## Manual Installation
 
-1. Click [here](https://github.com/KARPED1EM/TownOfHostEdited/releases/latest) and download the latest relaease.
+1. Click [here](https://github.com/Loonie-Toons/TownOfHost-ReEdited/releases) and download the latest release.
 
 2. If you use Steam, please operate according to the img botton, the folder that pops up is the root directory of the game.
 
-   ![SteamGetFolder](./images/SteamGetFolder.webp)
+   ![SteamGetFolder](./images/SteamGetFolder.png)
 
 3. If you use Epic, please manually find the root directory of the game, there are specific tutorials online.
 

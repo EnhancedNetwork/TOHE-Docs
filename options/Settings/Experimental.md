@@ -49,15 +49,15 @@ These are roles that are not fully stable and may contain bugs. They can be Impo
 
 ### <font color=#ff9ace><b>Add-ons</b></font>
 ---
-[Egoist](/options/experimental/addons/Egoist) | [Fool](/options/experimental/addons/Fool) | [Guesser](/options/experimental/addons/Guesser) | [Neptune](/options/experimental/addons/Neptune) | [YouTuber](/options/experimental/addons/YouTuber)
+[Egoist](/options/Experimental/Addons/Egoist.html) | [Fool](/options/Experimental/Addons/Fool.html) | [Guesser](/options/Experimental/Addons/Guesser.html) | [Neptune](/options/Experimental/Addons/Neptune.html) | [YouTuber](/options/Experimental/Addons/YouTuber.html)
 <br>
 
 ### <font color=red><b>Impostor</b></font>
 ---
-[Butcher](/options/experimental/impostor/Butcher) | [Capitalist](/options/experimental/impostor/Capitalist) | [Chronomancer](/options/experimental/impostor/Chronomancer) | [Disperser](/options/experimental/impostor/Disperser) | [Eraser](/options/experimental/impostor/Eraser) | [Killing Machine](/options/experimental/impostor/KillingMachine) | [Lightning](/options/experimental/impostor/Lightning) | [Trapster](/options/experimental/impostor/Trapster) | [Zombie](/options/experimental/impostor/Zombie)
+[Butcher](/options/Experimental/Impostor/Butcher.html) | [Capitalist](/options/Experimental/Impostor/Capitalist.html) | [Chronomancer](/options/Experimental/Impostor/Chronomancer.html) | [Disperser](/options/Experimental/Impostor/Disperser.html) | [Eraser](/options/Experimental/Impostor/Eraser.html) | [Killing Machine](/options/Experimental/Impostor/KillingMachine.html) | [Lightning](/options/Experimental/Impostor/Lightning.html) | [Trapster](/options/Experimental/Impostor/Trapster.html) | [Zombie](/options/Experimental/Impostor/Zombie.html)
 <br>
 
 ### <font color=#7f8c8d><b>Neutral</b></font>
 ---
-[God](/options/experimental/neutral/God) | [Provocateur](/options/experimental/neutral/Provocateur) | [Revolutionist](/options/experimental/neutral/Revolutionist) | [Spiritcaller](/options/experimental/neutral/Spiritcaller) | [Vector](/options/experimental/neutral/Vector)
+[God](/options/Experimental/Neutral/God.html) | [Provocateur](/options/Experimental/Neutral/Provocateur.html) | [Revolutionist](/options/Experimental/Neutral/Revolutionist.html) | [Spiritcaller](/options/Experimental/Neutral/Spiritcaller.html) | [Vector](/options/Experimental/Neutral/Vector.html)
 <br>

@@ -22,4 +22,4 @@ The Dazzler can Shapeshift into players to reduce their vision permanently, if y
   * <font color=green>ON</font>: the players that were Dazzled will have their vision returned to normal if the Dazzler dies or is ejected
   * <font color=red>OFF</font>: the players that were Dazzled will NOT have their vision remain reduced if the Dazzler dies or is ejected
 
-> From: Idea & Coding: papercut
+> From: Idea & Coding: [papercut](https://github.com/lars-wu)

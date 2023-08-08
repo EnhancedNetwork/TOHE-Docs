@@ -31,4 +31,4 @@ As the Spiritcaller, your victims become Evil Spirits after they die. These spir
 * Evil Spirit ability caused vision time
   * Set how long the players that the Evil Spirits mess with will be blinded for
 
-> From: TBD
+> From: Idea & Coding: [papercut](https://github.com/lars-wu)

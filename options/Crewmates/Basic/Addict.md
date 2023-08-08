@@ -18,4 +18,4 @@ Vent to become Invulnerable for some time when your Vent Cooldown is up.
 * Time the Addict gets frozen in place after Invulnerability
   * Set the time the Addict is stuck in place for after invulnerability
 
-> From: Idea & Coding: papercut 
+> From: Idea & Coding: [papercut](https://github.com/lars-wu) 

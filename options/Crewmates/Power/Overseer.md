@@ -18,4 +18,4 @@ An Overseer can see the Role of the Nearest Player by using their Kill Button, b
 * Overseer Vision
   * Set how far the Overseer can see
 
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: Idea & Coding: [papercut](https://github.com/lars-wu)

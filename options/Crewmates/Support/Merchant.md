@@ -57,4 +57,4 @@ Complete Tasks to give Players a Random Add-On, and receive money that can be us
     * Amount of Short Tasks for Merchant
       * Set the amount of Short Tasks the Merchant will receive
 
-> From: Idea & Coding: papercut 
+> From: Idea & Coding: [papercut](https://github.com/lars-wu)

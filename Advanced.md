@@ -302,7 +302,9 @@ Note: Commands in bold are considered "essential" and are recommended for all pl
 
 You can save your favorite settings as presets and load them later. You can also share your presets with others. Below is a list of presets that you can use in your lobby. Make sure to rename the file to `com.karped1em.townofhostedited.cfg` before using it.
 
-<a href="/presets/Guesser1.cfg" download>Guesser Mode (No Judge/Sheriff Only)</a>
+<a href="/presets/Guesser1.cfg" download>Guesser Mode (No Judge/Sheriff Only)</a> - Drafted by: [Moe](https://github.com/0xDrMoe)
+
+Note: You have to put the file in the following directory: `.\Among Us\BepInEx\config` for it to work.
 
 More presets coming soon!
 

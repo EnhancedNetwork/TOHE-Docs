@@ -15,4 +15,4 @@ The Twister itself will not swap places with anyone and players who are in vents
 * Twist Cooldown
   * Set the amount of time the Twister needs to wait to Twist
 
-> From: TBD
+> From: Idea & Coding: [papercut](https://github.com/lars-wu)

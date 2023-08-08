@@ -23,4 +23,4 @@ As the Devourer, you use your shapeshift to permanently change the appearance of
   * <font color=green>ON</font>: the names of the players that were Devoured will not appear in game
   * <font color=red>OFF</font>: the names of the players that were Devoured will appear in game
 
-> From: Idea & Coding: papercut 
+> From: Idea & Coding: [papercut](https://github.com/lars-wu)

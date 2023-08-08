@@ -34,4 +34,4 @@ The task of the virus is to kill or infect all other players. When the virus mur
     * Original Team
     * Virus Team
   
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: Idea & Coding: [papercut](https://github.com/lars-wu)

@@ -18,4 +18,4 @@ As a Coroner you can’t report bodies, instead when you try to report, you will
   * <font color=green>ON</font>: any body that the Coroner interacts with cannot be reported
   * <font color=red>OFF</font>: the body that a Coroner interacts with can still be reported
 
-> From: Idea & Coding: papercut
+> From: Idea & Coding: [papercut](https://github.com/lars-wu)

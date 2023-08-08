@@ -16,4 +16,4 @@ You get an arrow pointing to the ghost of the body that was reported in the last
 * Ghost arrow duration
   * Set how long a Spiritualist's Ghost arrow pops-up for
 
-> From: Idea & Coding: papercut
+> From: Idea & Coding: [papercut](https://github.com/lars-wu)

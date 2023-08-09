@@ -32,4 +32,4 @@ As the Deathpact, the targets of your shapeshifting are marked for a deathpact. 
   * <font color=green>ON</font>: the Deathpact will kill the players in the Death Pact if they don't meet in time
   * <font color=red>OFF</font>: the Deathpact will not kill the players in the Death Pact if they don't meet in time
 
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: Idea & Coding: [papercut](https://github.com/lars-wu)

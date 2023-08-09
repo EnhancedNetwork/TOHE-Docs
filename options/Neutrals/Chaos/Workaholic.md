@@ -10,7 +10,7 @@ next: /options/settings/Neutrals.html
 
 Workaholics have more tasks and win alone when they complete all quests. (According to the settings of the host, completing the task after the death of the Workaholic may also lead to win)
 * Max
-  * Set the Maximum amount of Paranoids that can be in a match
+  * Set the Maximum amount of Workaholics that can be in a match
 * Can’t win after they died
   * <font color=green>ON</font>: the Workaholic cannot win if they have been killed/voted
   * <font color=red>OFF</font>: the Workaholic can win after death if they continue to do their tasks

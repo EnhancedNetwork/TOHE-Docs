@@ -1,10 +1,9 @@
 ---
 lang: en-US
 title: Frequently Asked Questions
-
 ---
 
-# Common problem
+# FAQ
 
 ## How to install mod on mobile phones, tablets, and Apple
 
@@ -41,10 +40,6 @@ There are two possibilities:
 1. There is a problem with your network that causes the mod to fail to check the integrity.
 2. The files of the mod or game are deleted or modified artificially or by a program, anti-virus software, etc.
     First, please check whether your network is normal, and then please make sure that your network proxy software is not a global proxy. Then please restart the game, if you still get the same prompt, please try to reinstall the vanilla and reinstall the mod.
-
-## We have an important update, please update this mod
-
-Please return to the main menu of the game. There is an "Update" button in the lower left corner, please click this button and wait for the update.
 
 ## After installing the mod, it is still the vanilla
 

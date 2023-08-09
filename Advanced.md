@@ -338,4 +338,4 @@ There are four files:
 - BanList.txt: Banned players - Please use friend codes
 - BanWords.txt: Banned Words - A list of words that will be filtered out in the chat
 - DenyName.txt: Banned Name - A list of names that will be filtered out in the game
-- template.txt: Message template（[above](#Welcome & onMeeting auto messages)）- You can modify the welcome message and onMeeting message here
+- template.txt: Message template ([above](#welcome-onfirstmeeting-onmeeting-auto-messages)) You can modify the welcome message and onMeeting message here

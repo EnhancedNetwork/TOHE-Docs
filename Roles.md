@@ -19,10 +19,10 @@ sidebar:
 
 <center>
 
-[Settings - Custom](/options/settings/custom) | [Settings - System](/options/settings/system) <br>
-[Settings - Game](options/settings/game) | [Settings - Game Modifiers](/options/settings/modifiers) <br> 
-[Impostor Roles](/options/settings/impostors) | [Crewmates Roles](/options/settings/crewmates) <br>
-[Neutral Roles](/options/settings/neutrals) | [Add-On Roles](/options/settings/addons) | [Experimental Roles](/options/settings/experimental)
+[Settings - Custom](/options/settings/custom.html) | [Settings - System](/options/settings/system.html) <br>
+[Settings - Game](options/settings/game.html) | [Settings - Game Modifiers](/options/settings/modifiers.html) <br> 
+[Impostor Roles](/options/settings/impostors.html) | [Crewmates Roles](/options/settings/crewmates.html) <br>
+[Neutral Roles](/options/settings/neutrals.html) | [Add-On Roles](/options/settings/addons.html) | [Experimental Roles](/options/settings/experimental.html)
 </center>
 
 <table>

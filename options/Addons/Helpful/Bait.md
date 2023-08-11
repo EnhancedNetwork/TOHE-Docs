@@ -28,9 +28,9 @@ When a Bait is killed, the murderer who killed the Bait will be forced to report
   * Set the maximum time the killer of Bait will auto report in
 * Warn the killer about the upcoming self-report
   * <font color=green>ON</font>: The killer of the Bait will hear a little tune play before they report
-  * <font color=red>OFF</font>: no tune will play
+  * <font color=red>OFF</font>: No tune will play
 * Reveal Bait at the first meeting
-  * <font color=green>ON</font>: the player who is Bait will be announced to everyone at the first meeting
-  * <font color=red>OFF</font>: nobody will know who the bait is unless they reveal
+  * <font color=green>ON</font>: The player who is Bait will be announced to everyone at the first meeting
+  * <font color=red>OFF</font>: Nobody will know who the bait is unless they reveal
 
 > From: TOH & Coding: [KARPED1EM](https://github.com/KARPED1EM)

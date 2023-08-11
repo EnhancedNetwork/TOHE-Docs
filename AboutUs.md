@@ -4,8 +4,6 @@ title: About Us
 contributors: false
 ---
 
-![Cover](https://npm.elemecdn.com/tohe-doc-resources@1.0.1/Cover.webp)
-
 ::: warning Regarding this mod
 
 This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.

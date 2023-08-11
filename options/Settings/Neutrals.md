@@ -59,7 +59,7 @@ sidebar:
 
 ### <font color=#d4af37><b>Chaos</b></font>
 ---
-[Collector](/options/neutrals/Chaos/Collector.html) | [Cultist](/options/neutrals/Chaos/Cultist.html) | [Phantom](/options/neutrals/Chaos/Phantom.html) | [Pirate](/options/neutrals/Chaos/Pirate.html) | [Terrorist](/options/neutrals/Chaos/Terrorist.html) | [Vulture](/options/neutrals/Chaos/Vulture.html) | [Workaholic](/options/neutrals/Chaos/Workaholic.html)
+[Collector](/options/neutrals/Chaos/Collector.html) | [Cultist](/options/neutrals/Chaos/Cultist.html) | [Phantom](/options/neutrals/Chaos/Phantom.html) | [Pirate](/options/neutrals/Chaos/Pirate.html) | [SoulCollector](/options/neutrals/Chaos/SoulCollector.html) | [Terrorist](/options/neutrals/Chaos/Terrorist.html) | [Vulture](/options/neutrals/Chaos/Vulture.html) | [Workaholic](/options/neutrals/Chaos/Workaholic.html)
 <br>
 
 ### <font color=#663399><b>Coven</b></font>
@@ -68,12 +68,12 @@ sidebar:
 
 ### <font color=#912900><b>Evil</b></font>
 ---
-[Cursed Soul](/options/neutrals/evil/CursedSoul.html) | [Demon](/options/neutrals/evil/Demon.html) | [Doomsayer](/options/neutrals/evil/Doomsayer.html) | [Executioner](/options/neutrals/evil/Executioner.html) | [Innocent](/options/neutrals/evil/Innocent.html) | [Jester](/options/neutrals/evil/Jester.html) | [Masochist](/options/neutrals/evil/Masochist.html)
+[Cursed Soul](/options/neutrals/evil/CursedSoul.html) | [Demon](/options/neutrals/evil/Demon.html) | [Doomsayer](/options/neutrals/evil/Doomsayer.html) | [Executioner](/options/neutrals/evil/Executioner.html) | [Innocent](/options/neutrals/evil/Innocent.html) | [Jester](/options/neutrals/evil/Jester.html) | [Masochist](/options/neutrals/evil/Masochist.html) | [Seeker](/options/neutrals/evil/Seeker.html)
 <br>
 
 ### <font color=red><b>Killing</b></font>
 ---
-[Arsonist](/options/neutrals/Killing/Arsonist.html) | [Blood Knight](/options/neutrals/Killing/BloodKnight.html) | [Glitch](/options/neutrals/Killing/Glitch.html) | [Infectious](/options/neutrals/Killing/Infectious.html) | [Jackal](/options/neutrals/Killing/Jackal.html) | [Juggernaut](/options/neutrals/Killing/Juggernaut.html) | [Pelican](/options/neutrals/Killing/Pelican.html) | [Pickpocket](/options/neutrals/Killing/Pickpocket.html) | [Plaguebearer](/options/neutrals/Killing/Plaguebearer.html) | [Serial Killer](/options/neutrals/Killing/SerialKiller.html) | [Shroud](/options/neutrals/Killing/Shroud.html) | [Stalker](/options/neutrals/Killing/Stalker.html) | [Traitor](/options/neutrals/Killing/Traitor.html) | [Virus](/options/neutrals/Killing/Virus.html) | [Werewolf](/options/neutrals/Killing/Werewolf.html)
+[Agitater](/options/neutrals/Killing/Agitater.html) | [Arsonist](/options/neutrals/Killing/Arsonist.html) | [Blood Knight](/options/neutrals/Killing/BloodKnight.html) | [Glitch](/options/neutrals/Killing/Glitch.html) | [Infectious](/options/neutrals/Killing/Infectious.html) | [Jackal](/options/neutrals/Killing/Jackal.html) | [Juggernaut](/options/neutrals/Killing/Juggernaut.html) | [Occultist](/options/neutrals/Killing/Occultist.html) | [Pelican](/options/neutrals/Killing/Pelican.html) | [Pickpocket](/options/neutrals/Killing/Pickpocket.html) | [Plaguebearer](/options/neutrals/Killing/Plaguebearer.html) | [Serial Killer](/options/neutrals/Killing/SerialKiller.html) | [Shade](/options/neutrals/Killing/Shade.html) | [Shroud](/options/neutrals/Killing/Shroud.html) | [Stalker](/options/neutrals/Killing/Stalker.html) | [Traitor](/options/neutrals/Killing/Traitor.html) | [Virus](/options/neutrals/Killing/Virus.html) | [Werewolf](/options/neutrals/Killing/Werewolf.html)
 <br>
 
 <details>

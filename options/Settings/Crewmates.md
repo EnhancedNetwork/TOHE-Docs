@@ -50,7 +50,7 @@ sidebar:
 
 ### <font color=#e69c9c><b>Basic</b></font>
 ---
-[Addict](/options/Crewmates/Basic/Addict.html) | [Celebrity](/options/Crewmates/Basic/Celebrity.html) | [Doctor](/options/Crewmates/Basic/Doctor.html) | [Lazy Guy](/options/Crewmates/Basic/LazyGuy.html) | [Luckey](/options/Crewmates/Basic/Luckey.html) | [Super Star](/options/Crewmates/Basic/SuperStar.html) | [Tracefinder](/options/Crewmates/Basic/Tracefinder.html) | [Transporter](/options/Crewmates/Basic/Transporter.html)
+[Addict](/options/Crewmates/Basic/Addict.html) | [Celebrity](/options/Crewmates/Basic/Celebrity.html) | [Cleanser](/options/Crewmates/Basic/Cleanser.html) | [Doctor](/options/Crewmates/Basic/Doctor.html) | [Lazy Guy](/options/Crewmates/Basic/LazyGuy.html) | [Luckey](/options/Crewmates/Basic/Luckey.html) | [Super Star](/options/Crewmates/Basic/SuperStar.html) | [Tracefinder](/options/Crewmates/Basic/Tracefinder.html) | [Transporter](/options/Crewmates/Basic/Transporter.html)
 <br>
 
 ### <font color=#b22222><b>Killing</b></font>

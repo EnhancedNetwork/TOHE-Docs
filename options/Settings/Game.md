@@ -44,17 +44,13 @@ sidebar:
   * Random Maps Mode
     * <font color=green>ON</font>: Map will be chosen randomly
       * Include The Skeld
-        * <font color=green>ON</font>: The Skeld will be included
-        * <font color=red>OFF</font>: The Skeld will not be included
+        * Set the percentage that Skeld will be the chosen Map you play on
       * Include MIRA HQ
-        * <font color=green>ON</font>: MIRA HQ will be included
-        * <font color=red>OFF</font>: MIRA HQ will not be included
+        * Set the percentage that MIRA HQ will be the chosen Map you play on
       * Include Polus
-        * <font color=green>ON</font>: Polus will be included
-        * <font color=red>OFF</font>: Polus will not be included
+        * Set the percentage that Polus will be the chosen Map you play on
       * Include Airship
-        * <font color=green>ON</font>: Airship will be included
-        * <font color=red>OFF</font>: Airship will not be included
+        * Set the percentage that Airship will be the chosen Map you play on
     * Random Spawns
       * <font color=green>ON</font>: Spawn locations will be chosen randomly
         * Additional Spawn Locations (Airship)
@@ -95,15 +91,6 @@ sidebar:
   * Disable Vanilla Roles
     * <font color=green>ON</font>: the host can disable Vanilla Roles
     * <font color=red>OFF</font>: Vanilla Roles will be enabled
-  * Disable Hidden Roles
-    * <font color=green>ON</font>: the host can disable Hidden Roles
-      * Disable Sunnyboy
-        * <font color=green>ON</font>: Sunnyboy will be disabled
-        * <font color=red>OFF</font>: Sunnyboy will be enabled
-      * Disable Bard
-        * <font color=green>ON</font>: Bard will be disabled
-        * <font color=red>OFF</font>: Bard will be enabled
-    * <font color=red>OFF</font>: Hidden Roles will be enabled
   * Disable Task Win
     * <font color=green>ON</font>: Task wins will not be possible
     * <font color=red>OFF</font>: Task wins will be possible

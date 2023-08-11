@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Serial Killer
-prev: Ritualist
-next: Shroud
+prev: Plaguebearer
+next: Shade
 ---
 
 # <font color="#233fcc">🔪 <b>Serial Killer</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

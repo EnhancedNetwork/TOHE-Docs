@@ -5,7 +5,7 @@ prev: Phantom
 next: Terrorist
 ---
 
-# <font color="#edc240">🏴‍☠️ <b>Pirate</b></font> <Badge text="Chaos" type="tip" vertical="middle"/><Badge text="Only in Dev 7 (2.5.1_11 Dev 7)" type="warning" vertical="middle"/>
+# <font color="#edc240">🏴‍☠️ <b>Pirate</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
 ---
 
 As the Pirate, use your kill button to select a target every round.<br>

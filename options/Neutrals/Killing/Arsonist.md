@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Arsonist
-prev: /options/settings/Neutrals.html
+prev: Agitater
 next: BloodKnight
 ---
 

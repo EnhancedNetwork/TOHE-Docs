@@ -15,10 +15,10 @@ sidebar:
 - { text: Experimental, link: /options/settings/Experimental.html}
 ---
 
-# <font color="#7f8c8d">👨‍🚀 <b>Faction: Neutral</b></font> <Badge text="Total: 43" type="tip" vertical="middle"/>
+# <font color="#7f8c8d">👨‍🚀 <b>Faction: Neutral</b></font> <Badge text="Total: 48" type="tip" vertical="middle"/>
 ---
 
-Play for yourself, and eliminate everyone around you. <font color=gray>Neutrals</font> can win alone, but they can also win with other players. Their victory conditions are different from other players. Each <font color=#7f8c8d>Neutral</font> player has a unique victory condition.
+<b>Play for yourself, and eliminate everyone around you. <font color=gray>Neutrals</font> can win alone, but they can also win with other players. Their victory conditions are different from other players. Each <font color=#7f8c8d>Neutral</font> player has a unique victory condition.</b>
 
 <table>
 <tr>
@@ -32,7 +32,7 @@ Play for yourself, and eliminate everyone around you. <font color=gray>Neutrals<
 
 <tr>
 <td><font color=#d4af37><b>Chaos</b></font></td>
-<td align="center">7</td>
+<td align="center">8</td>
 </tr>
 
 <tr>
@@ -42,12 +42,12 @@ Play for yourself, and eliminate everyone around you. <font color=gray>Neutrals<
 
 <tr>
 <td><font color=#912900><b>Evil</b></font></td>
-<td align="center">7</td>
+<td align="center">8</td>
 </tr>
 
 <tr>
 <td><font color=#b22222><b>Killing</b></font></td>
-<td align="center">15</td>
+<td align="center">18</td>
 </tr>
 </table>
 <br>

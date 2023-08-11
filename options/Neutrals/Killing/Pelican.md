@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Pelican
-prev: Medusa
+prev: Occultist
 next: Pickpocket
 ---
 

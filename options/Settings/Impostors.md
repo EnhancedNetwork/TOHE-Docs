@@ -15,8 +15,9 @@ sidebar:
 - { text: Experimental, link: /options/settings/Experimental.html}
 ---
 
-# <font color=red>🔴 <b>Faction: Impostor</b></font> <Badge text="Total: 49" type="tip" vertical="middle"/>
+# <font color=red>🔴 <b>Faction: Impostor</b></font> <Badge text="Total: 50" type="tip" vertical="middle"/>
 ---
+
 <b>Eliminate all <font color=#8cffff>Crewmates</font> and <font color=#7f8c8d>Neutrals</font> from the game by any means necessary. Each role has a unique way of accomplishing their goal. From mass-killing to framing others, they have to find any means necessary to win.</b><br>
 
 <table>
@@ -31,7 +32,7 @@ sidebar:
 
 <tr>
 <td><font color=#636363><b>Hindering</b></font></td>
-<td align="center">4</td>
+<td align="center">5</td>
 </tr>
 
 <tr>

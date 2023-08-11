@@ -15,10 +15,6 @@ If the target was a passive neutral or a neutral killer not specified, you'll be
 If the target was a neutral killer of a select few, you'll become the role they are.<br>
 * Max
   * Set the Maximum amount of Amnesiacs that can be in a match
-* Remember Cooldown
-  * Set how long an Amnesiac needs to wait to use their ability
-* Refugee's Kill Cooldown
-  * Set how long the Amnesiac turned Refugee needs to wait to use their kill
 * If neutral is incompatible, turn into
   * Set what role the Amnesiac will become if they try to remember a role that is incompatible with the Amnesiac, choose from:
     * Amnesiac

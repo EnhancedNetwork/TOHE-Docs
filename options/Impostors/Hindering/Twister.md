@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Twister
-prev: Devourer
+prev: Pitfall
 next: /options/settings/Impostors.html
 ---
 

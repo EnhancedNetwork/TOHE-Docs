@@ -17,7 +17,7 @@ sidebar:
 
 # <font color=#76b8e0>🔴 <b>All: Experimental</b></font> <Badge text="Total: 19" type="tip" vertical="middle"/>
 ---
-These are roles that are not fully stable and may contain bugs. They can be Impostor, Crewmate, <font color=#7f8c8d>Neutral</font> roles or Add-ons. <b>USE AT YOUR OWN RISK</b>
+<b>These are roles that are not fully stable and may contain bugs. They can be Impostor, Crewmate, <font color=#7f8c8d>Neutral</font> roles or Add-ons. <u>USE AT YOUR OWN RISK</u></b>
 
 <table>
 <tr>

@@ -17,16 +17,19 @@ If they lose, you lose.
 <summary><b><font color=#008080>Lawyer</font> Target Settings</b></summary>
 
 * Can Target Impostors
-  * <font color=green>ON</font>: a Lawyer can target players from this team
+  * <font color=green>ON</font>: the Lawyer can target players from this team
   * <font color=red>OFF</font>: the Lawyer cannot target players from this team
 * Can Target <font color=#7f8c8d>Neutral</font> Killers
-  * <font color=green>ON</font>: a Lawyer can target players from this team
+  * <font color=green>ON</font>: the Lawyer can target players from this team
   * <font color=red>OFF</font>: the Lawyer cannot target players from this team
 * Can Target Crewmates
-  * <font color=green>ON</font>: a Lawyer can target players from this team
+  * <font color=green>ON</font>: the Lawyer can target players from this team
+  * <font color=red>OFF</font>: the Lawyer cannot target players from this team
+* Can Target Coven Members
+  * <font color=green>ON</font>: the Lawyer can target players from this team
   * <font color=red>OFF</font>: the Lawyer cannot target players from this team
 * Can Target Jester
-  * <font color=green>ON</font>: a Lawyer can target this role
+  * <font color=green>ON</font>: the Lawyer can target this role
   * <font color=red>OFF</font>: the Lawyer cannot target this role
 * Knows role of target
   * <font color=green>ON</font>: the Lawyer knows their target's role

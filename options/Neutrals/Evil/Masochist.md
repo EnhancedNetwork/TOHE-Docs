@@ -2,7 +2,7 @@
 lang: en-US
 title: Masochist
 prev: Jester
-next: /options/settings/Neutrals.html
+next: Seeker
 ---
 
 # <font color="#684405">🤕 <b>Masochist</b></font> <Badge text="Evil" type="tip" vertical="middle"/>

@@ -2,7 +2,7 @@
 lang: en-US
 title: Celebrity
 prev: Addict
-next: Doctor
+next: Cleanser
 ---
 
 # <font color="#ee4a55">🎥 <b>Celebrity</b></font> <Badge text="Basic" type="tip" vertical="middle"/>

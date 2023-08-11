@@ -18,7 +18,7 @@ sidebar:
 # <font color="#ff9ace">➕ <b>All: Add-ons</b></font> <Badge text="Total: 37" type="tip" vertical="middle"/>
 ---
 
-These are modifiers that any players can acquire. There are helpful, harmful, and <font color=red>Impostor</font> add-ons. Each one is unique in the way it affects the player.
+<b>These are modifiers that any players can acquire. There are helpful, harmful, and <font color=red>Impostor</font> add-ons. Each one is unique in the way it affects the player.</b>
 
 <table>
 <tr >

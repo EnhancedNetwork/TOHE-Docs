@@ -2,7 +2,7 @@
 lang: en-US
 title: Juggernaut
 prev: Jinx
-next: Medusa
+next: Occultist
 ---
 
 # <font color="#a41342">💪 <b>Juggernaut</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

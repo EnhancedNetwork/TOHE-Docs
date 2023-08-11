@@ -15,8 +15,9 @@ sidebar:
 - { text: Experimental, link: /options/settings/Experimental.html}
 ---
 
-# <font color="8cffff">👨‍🚀 <b>Faction: Crewmate</b></font> <Badge text="Total: 50" type="tip" vertical="middle"/>
+# <font color="#8cffff">👨‍🚀 <b>Faction: Crewmate</b></font> <Badge text="Total: 51" type="tip" vertical="middle"/>
 ---
+
 <b>Focus on finding the <font color=red>Impostors</font> and completing tasks. These roles very simple, making it easier for new players and the <font color=#8cffff>Crewmates</font> to win.</b>
 
 <table>
@@ -25,7 +26,7 @@ sidebar:
 </tr>
 <tr>
 <td><font color=#e69c9c><b>Basic</b></font></td>
-<td align="center">8</td>
+<td align="center">9</td>
 </tr>
 
 <tr>

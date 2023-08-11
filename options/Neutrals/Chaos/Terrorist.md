@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Terrorist
-prev: Pirate
+prev: SoulCollector
 next: Vulture
 ---
 

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Doctor
-prev: Celebrity
+prev: Cleanser
 next: LazyGuy
 ---
 

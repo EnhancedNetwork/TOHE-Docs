@@ -8,7 +8,7 @@ next: Doctor
 # <font color="#98ff98">🎥 <b>Cleanser</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
 ---
 
-Cleanser can vote for any target at the meeting to erase the target's Add-ons, and the erasure will take effect after the meeting ends. Depending on the settings cleansed player may never get add on in future
+Cleanser can vote for any target at the meeting to erase the target's Add-ons. The erasure will take effect after the meeting ends. Depending on the settings, cleansed players may not receive add ons after being cleansed.
 * Max
   * Set the Maximum amount of Cleansers that can be in a match
 * Max cleanses

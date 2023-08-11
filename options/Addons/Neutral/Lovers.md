@@ -17,5 +17,13 @@ Lovers are a combination of two players. The Lovers wins when only the Lovers is
 * Lovers die together
   * <font color=green>ON</font>: A Lover will Suicide if their Lover dies
   * <font color=red>OFF</font>: Each Lover has to die separately. (If a lover is alive at the end of the match, Lovers will win)
-
+* <font color=red>Impostors</font> can be in love
+  * <font color=green>ON</font>: Impostors can become Lovers
+  * <font color=red>OFF</font>: Impostors cannot become Lovers
+* <font color=#7f8c8d>Neutrals</font> can be in love
+  * <font color=green>ON</font>: Neutrals can become Lovers
+  * <font color=red>OFF</font>: Neutrals cannot become Lovers
+* <font color=#8cffff>Crewmates</font> can be in love
+  * <font color=green>ON</font>: Crewmates can become Lovers
+  * <font color=red>OFF</font>: Crewmates cannot become Lovers
 > From: TOH

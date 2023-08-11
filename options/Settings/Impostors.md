@@ -60,7 +60,7 @@ sidebar:
 
 ### <font color=#636363>Hindering</font>
 ---
-[Anonymous](/options/Impostors/Hindering/anonymous.html) | [Dazzler](/options/Impostors/Hindering/dazzler.html) | [Devourer](/options/Impostors/Hindering/devourer.html) | [Twister](/options/Impostors/Hindering/twister.html)
+[Anonymous](/options/Impostors/Hindering/anonymous.html) | [Dazzler](/options/Impostors/Hindering/dazzler.html) | [Devourer](/options/Impostors/Hindering/devourer.html) | [Pitfall](/options/Impostors/Hindering/pitfall.html) | [Twister](/options/Impostors/Hindering/twister.html)
 <br>
 
 ### <font color=#b22222>Killing</font>

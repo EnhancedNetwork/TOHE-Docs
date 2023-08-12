@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Knight
-prev: Judicator
+prev: Deceiver
 next: Retributionist
 ---
 

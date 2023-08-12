@@ -10,8 +10,8 @@ next: Reach
 
 The Necroview can see the teams of dead players. The following info will be displayed on dead players' names while in meeting:<br>
 \- The <font color=red>Red</font> name indicate the Impostors<br>
-\- The <font color=#8cffff>#8cffff</font> name indicate the Crewmates<br>
-\- The <font color=gray>Gray</font> name indicate the Neutrals
+\- The <font color=#8cffff>Cyan</font> name indicate the Crewmates<br>
+\- The <font color=#7c8c8d>Gray</font> name indicate the Neutrals
 * Max
   * Set the Maximum amount of Necroviews that can be in a match
 * Spawn Chance

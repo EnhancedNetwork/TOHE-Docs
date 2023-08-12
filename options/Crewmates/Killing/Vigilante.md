@@ -2,7 +2,7 @@
 lang: en-US
 title: Vigilante
 prev: Veteran
-next: ../Power/Copycat
+next: /options/settings/Crewmates.html
 ---
 
 # <font color="#eede26">👑 <b>Vigilante</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

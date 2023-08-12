@@ -5,7 +5,7 @@ prev: Stealer
 next: false
 ---
 
-# <font color=#00ff00>🏃 <b>Swift</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🏃 <b>Swift</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 ---
 
 As the Swift, your kills will not cause you to lunge.

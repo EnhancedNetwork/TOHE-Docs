@@ -5,7 +5,7 @@ prev: Mare
 next: Stealer
 ---
 
-# <font color=#ff6347>👥 <b>Mimic</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>👥 <b>Mimic</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 ---
 
 Only <font color=red>Impostor</font> can become Mimic. When the Mimic is dead, other <font color=red>Impostors</font> will receive a message once a meeting is called, this message will include information on roles who were killed by the Mimic.

@@ -33,7 +33,7 @@ sidebar:
   * <font color=red>OFF</font>: All names are allowed to play
 * Apply BanList
   * <font color=green>ON</font>: Players that have been banned in previous lobbies cannot join new lobbies by the host
-  * <font color=red>OFF</font>: Players that have been banned in previous lobbies can rejoin new lobbies by the hosta
+  * <font color=red>OFF</font>: Players that have been banned in previous lobbies can rejoin new lobbies by the host
 * Apply Moderator List
   * <font color=green>ON</font>: Players that have been added to the Host’s Moderator List will be given Moderator Permissions in the lobby
   * <font color=red>OFF</font>: Players that have been added to the Host’s Moderator List will not be given Moderator Permissions in the lobby

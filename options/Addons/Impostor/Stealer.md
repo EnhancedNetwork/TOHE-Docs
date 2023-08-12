@@ -5,7 +5,7 @@ prev: Mimic
 next: Swift
 ---
 
-# <font color=#ff6347>🤑 <b>Stealer</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🤑 <b>Stealer</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 ---
 
 Only <font color=red>Impostor</font> other than Bombers and Booby Traps will become Stealer. Every time a Stealer kills a person, he gets an additional vote (the vote number is set by the host, and the decimal is rounded down). Also, extra votes from the Stealer are hidden during meeting.

@@ -5,7 +5,7 @@ prev: Madmate
 next: Mimic
 ---
 
-# <font color=#ff6347>🐴 <b>Mare</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🐴 <b>Mare</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 ---
 
 You can only kill during Lights Out. Your Kill Cooldown is shorter during Lights Out. However, during Lights Out, your name will show up as Red for everyone.

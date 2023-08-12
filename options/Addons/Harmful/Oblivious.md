@@ -8,7 +8,7 @@ next: Rascal
 # <font color=#424242>🤡 <b>Oblivious</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>
 ---
 
-Detective and Cleaners won't be Oblivious. Oblivious cannot report dead bodies. Note: Bait killed by Oblivious will still be reported automatically, and Oblivious can still be used as a scapegoat for Hacker.
+Detective and Cleaners won't be Oblivious. Oblivious cannot report dead bodies. Note: Bait killed by Oblivious will still be reported automatically unless settings state otherwise, and Oblivious can still be used as a scapegoat for Hacker.
 * Max
   * Set the Maximum amount of Oblivious’ that can be in a match
 * Spawn Chance

@@ -59,7 +59,7 @@ sidebar:
 
 ### <font color=#d4af37><b>Chaos</b></font>
 ---
-[Collector](/options/neutrals/Chaos/Collector.html) | [Cultist](/options/neutrals/Chaos/Cultist.html) | [Phantom](/options/neutrals/Chaos/Phantom.html) | [Pirate](/options/neutrals/Chaos/Pirate.html) | [SoulCollector](/options/neutrals/Chaos/SoulCollector.html) | [Terrorist](/options/neutrals/Chaos/Terrorist.html) | [Vulture](/options/neutrals/Chaos/Vulture.html) | [Workaholic](/options/neutrals/Chaos/Workaholic.html)
+[Collector](/options/neutrals/Chaos/Collector.html) | [Cultist](/options/neutrals/Chaos/Cultist.html) | [Phantom](/options/neutrals/Chaos/Phantom.html) | [Pirate](/options/neutrals/Chaos/Pirate.html) | [Soul Collector](/options/neutrals/Chaos/SoulCollector.html) | [Terrorist](/options/neutrals/Chaos/Terrorist.html) | [Vulture](/options/neutrals/Chaos/Vulture.html) | [Workaholic](/options/neutrals/Chaos/Workaholic.html)
 <br>
 
 ### <font color=#663399><b>Coven</b></font>

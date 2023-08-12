@@ -16,8 +16,8 @@ The Witch can still control you.
 * Spawn Chance
   * Set the percentage players have of getting Lazy
 * <font color=#8cffff>Crewmates</font> without tasks can be Lazy 
-  * <font color=green>ON</font>: all <font color=#8cffff>Crewmates</font> can receive Lazy
-  * <font color=red>OFF</font>: only <font color=#8cffff>Crewmates</font> with tasks can receive Lazy
+  * <font color=green>ON</font>: All <font color=#8cffff>Crewmates</font> can receive Lazy
+  * <font color=red>OFF</font>: Only <font color=#8cffff>Crewmates</font> with tasks can receive Lazy
 * Task based <font color=#8cffff>Crewmates</font> can be Lazy
   * <font color=green>ON</font>: <font color=#8cffff>Crewmate</font> based roles with tasks can receive Lazy
   * <font color=red>OFF</font>: <font color=#8cffff>Crewmate</font> based roles with tasks cannot receive Lazy

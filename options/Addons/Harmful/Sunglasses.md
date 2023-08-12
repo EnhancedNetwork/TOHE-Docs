@@ -15,12 +15,12 @@ As the Sunglasses, your vision is reduced.
   * Set the chance of the Sunglasses spawning
 * Sunglasses Vision
   * Set the Sunglasses vision
-* <font color=red>Impostors</font> can become Sleuths
-  * <font color=green>ON</font>: Impostors can become Sleuths
-  * <font color=red>OFF</font>: Impostors cannot become Sleuths
-* <font color=#8cffff>Crewmates</font> can become Sleuths
-  * <font color=green>ON</font>: Crewmates can become Sleuths
-  * <font color=red>OFF</font>: Crewmates cannot become Sleuths
-* <font color=#7f8c8d>Neutrals</font> can become Sleuths
-  * <font color=green>ON</font>: Neutrals can become Sleuths
-  * <font color=red>OFF</font>: Neutrals cannot become Sleuths
+* <font color=red>Impostors</font> can become Sunglasses
+  * <font color=green>ON</font>: Impostors can become Sunglasses
+  * <font color=red>OFF</font>: Impostors cannot become Sunglasses
+* <font color=#8cffff>Crewmates</font> can become Sunglasses
+  * <font color=green>ON</font>: Crewmates can become Sunglasses
+  * <font color=red>OFF</font>: Crewmates cannot become Sunglasses
+* <font color=#7f8c8d>Neutrals</font> can become Sunglasses
+  * <font color=green>ON</font>: Neutrals can become Sunglasses
+  * <font color=red>OFF</font>: Neutrals cannot become Sunglasses

@@ -49,7 +49,7 @@ sidebar:
 
 ### <font color=#ff9ace><b>Add-ons</b></font>
 ---
-[Egoist](/options/Experimental/Addons/Egoist.html) | [Fool](/options/Experimental/Addons/Fool.html) | [Guesser](/options/Experimental/Addons/Guesser.html) | [Neptune](/options/Experimental/Addons/Neptune.html) | [YouTuber](/options/Experimental/Addons/YouTuber.html)
+[Egoist](/options/Experimental/Addon/Egoist.html) | [Fool](/options/Experimental/Addon/Fool.html) | [Guesser](/options/Experimental/Addon/Guesser.html) | [Neptune](/options/Experimental/Addon/Neptune.html) | [YouTuber](/options/Experimental/Addon/YouTuber.html)
 <br>
 
 ### <font color=red><b>Impostor</b></font>

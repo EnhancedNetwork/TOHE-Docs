@@ -8,7 +8,8 @@ next: Lucky
 # <font color=#b71556>🧑‍🤝‍🧑 <b>Loyal</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 ---
 
-As the Loyal, you cannot be recruited by roles such as Jackal or Cultist.\n\nCannot be assigned to <font color=#7f8c8d>Neutrals</font>.
+As the Loyal, you cannot be recruited by roles such as Jackal or Cultist.<br><br>
+Cannot be assigned to <font color=#7f8c8d>Neutrals</font>.
 * Max
   * Set the Maximum amount of Loyals that can be in a match
 * Spawn Chance

@@ -2,7 +2,7 @@
 lang: en-US
 title: Virus
 prev: Traitor
-next: Wraith
+next: Werewolf
 ---
 
 # <font color="#2e8b57">🦠 <b>Virus</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

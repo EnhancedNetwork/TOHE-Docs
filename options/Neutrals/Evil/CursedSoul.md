@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Cursed Soul
-prev: ../Benign/Witch.html
+prev: /options/settings/Neutrals.html
 next: Demon
 ---
 

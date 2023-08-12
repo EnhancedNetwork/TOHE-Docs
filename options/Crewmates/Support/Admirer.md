@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Admirer
-prev: ../Basic/Transporter.html
+prev: /options/settings/Crewmates.html
 next: Chameleon
 ---
 

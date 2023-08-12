@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Collector
-prev: ../Evil/Masochist.html
+prev: /options/settings/Neutrals.html
 next: Cultist
 ---
 

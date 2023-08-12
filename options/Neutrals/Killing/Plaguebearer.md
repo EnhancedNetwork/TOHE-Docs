@@ -2,7 +2,7 @@
 lang: en-US
 title: Plaguebearer
 prev: Pickpocket
-next: Poisoner
+next: SerialKiller
 ---
 
 # <font color="#e5f6b4">🦠 <b>Plaguebearer</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

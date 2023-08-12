@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Hex Master
-prev: Glitch
-next: Infectious
+prev: CovenLeader
+next: Jinx
 ---
 
-# <font color="#663399">✝️ <b>Hex Master</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#663399">✝️ <b>Hex Master</b></font> <Badge text="Coven" type="tip" vertical="middle"/>
 ---
 
 As the Hex Master, you can hex players or kill them.<br><br>

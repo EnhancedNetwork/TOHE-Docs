@@ -2,7 +2,7 @@
 lang: en-US
 title: Pursuer
 prev: Opportunist
-next: Witch
+next: Shaman
 ---
 
 # <font color="#617218">😘 <b>Pursuer</b></font> <Badge text="Benign" type="tip" vertical="middle"/>

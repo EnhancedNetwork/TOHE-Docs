@@ -1,7 +1,7 @@
 ---
 link: en-US
 title: Bodyguard
-prev: ../support/Tracker.html
+prev: /options/settings/Crewmates.html
 next: Crusader
 ---
 

@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Wraith
-prev: Virus
+prev: Ritualist
 next: /options/settings/Neutrals.html
 ---
 
-# <font color="#7223da">🩻 <b>Wraith</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#7223da">🩻 <b>Wraith</b></font> <Badge text="Coven" type="tip" vertical="middle"/>
 ---
 
 As the Wraith, you can use vents to temporarily go invisible.<br>

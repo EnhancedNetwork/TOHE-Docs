@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: God
-prev: /options/settings/Experimental
+prev: /options/settings/Experimental.html
 next: Provocateur
 ---
 

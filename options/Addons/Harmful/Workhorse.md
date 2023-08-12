@@ -2,7 +2,7 @@
 lang: en-US
 title: Workhorse
 prev: Unlucky
-next: false
+next: /options/settings/Addons.html
 ---
 
 # <font color=#00ffff>🐎 <b>Workhorse</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>

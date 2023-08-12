@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Copycat
-prev: ../killing/Vigilante.html
+prev: /options/settings/Crewmates.html
 next: Dictator
 ---
 

@@ -2,10 +2,10 @@
 lang: en-US
 title: Ritualist
 prev: Poisoner
-next: SerialKiller
+next: Wraith
 ---
 
-# <font color="#663399">🔥 <b>Ritualist</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#663399">🔥 <b>Ritualist</b></font> <Badge text="Coven" type="tip" vertical="middle"/>
 ---
 
 As the Ritualist, you can reveal the roles of other players using your kill button.<br><br>

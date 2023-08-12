@@ -39,7 +39,7 @@ title: Advanced
 </tr>
 <tr>
 <td><kbd>Shift</kbd></td>
-<td>Start game now</td>
+<td>Start game immediately</td>
 </tr>
 <tr>
 <td><kbd>C</kbd></td>

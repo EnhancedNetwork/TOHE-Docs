@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Antidote
-prev: ../../Addons
+prev: /options/settings/Addons.html
 next: Autopsy
 ---
 

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Anonymous
-prev: ../concealing/Wilding
+prev: /options/settings/Impostors.html
 next: Dazzler
 ---
 

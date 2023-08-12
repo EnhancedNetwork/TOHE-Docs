@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Escapist
-prev: ../Support/Visionary
+prev: /options/settings/Impostors.html
 next: Miner
 ---
 

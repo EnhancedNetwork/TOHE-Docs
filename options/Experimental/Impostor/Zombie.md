@@ -2,7 +2,7 @@
 lang: en-US
 title: Zombie
 prev: Trapster
-next: false
+next: /options/settings/Experimental.html
 ---
 
 # <font color=red>🧟 <b>Zombie</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>

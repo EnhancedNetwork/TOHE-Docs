@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Poisoner
-prev: Plaguebearer
+prev: Necromancer
 next: Ritualist
 ---
 
-# <font color="#663399">🧪 <b>Poisoner</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#663399">🧪 <b>Poisoner</b></font> <Badge text="Coven" type="tip" vertical="middle"/>
 ---
 
 As the Poisoner, your kills are delayed.<br>

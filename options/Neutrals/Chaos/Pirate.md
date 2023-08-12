@@ -2,7 +2,7 @@
 lang: en-US
 title: Pirate
 prev: Phantom
-next: Terrorist
+next: SoulCollector
 ---
 
 # <font color="#edc240">🏴‍☠️ <b>Pirate</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>

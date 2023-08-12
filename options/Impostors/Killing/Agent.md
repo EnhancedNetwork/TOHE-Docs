@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Agent
+prev: /options/settings/Impostors.html
 next: Arrogance
-prev: ../../settings/impostors
 ---
 
 # <font color=red>🕵️ Agent</font> <Badge text="Killing" type="tip" vertical="middle"/>

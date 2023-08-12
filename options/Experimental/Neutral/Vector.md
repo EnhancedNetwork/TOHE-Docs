@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Vector
-prev: false
-next: false
+prev: Spiritcaller
+next: /options/settings/Experimental.html
 ---
 
 # <font color=#ff6201>💨 <b>Vector</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>

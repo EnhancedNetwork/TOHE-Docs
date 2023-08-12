@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Addict
-prev: ../../settings/Crewmates
+prev: /options/settings/Crewmates.html
 next: Celebrity
 ---
 

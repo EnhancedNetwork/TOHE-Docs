@@ -2,7 +2,7 @@
 lang: en-US
 title: YouTuber
 prev: Neptune
-next: false
+next: /options/settings/Experimental.html
 ---
 
 # <font color=#fb749b>📹 <b>YouTuber</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>

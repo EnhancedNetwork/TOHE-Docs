@@ -2,7 +2,7 @@
 lang: en-US
 title: Werewolf
 prev: Virus
-next: ../Coven/CovenLeader
+next: /options/settings/Neutrals.html
 ---
 
 # <font color="#191970">🐺 Werewolf</font> <Badge text="Killing" type="tip" vertical="middle"/>

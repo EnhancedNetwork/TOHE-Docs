@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Juggernaut
-prev: Jinx
+prev: Jackal
 next: Occultist
 ---
 

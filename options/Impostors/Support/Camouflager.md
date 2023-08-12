@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Camouflager
-prev: ../Killing/Underdog
+prev: /options/settings/Impostors.html
 next: Cleaner
 ---
 

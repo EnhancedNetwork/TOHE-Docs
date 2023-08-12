@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Swooper
-prev: Shapemaster
+prev: SoulCatcher
 next: Trickster
 ---
 

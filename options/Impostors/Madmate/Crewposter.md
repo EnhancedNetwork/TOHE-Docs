@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Crewposter
-prev: ../hindering/Twister
+prev: /options/settings/Impostors.html
 next: Parasite
 ---
 

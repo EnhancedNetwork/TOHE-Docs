@@ -3,6 +3,16 @@ lang: en-US
 title: Vulture
 prev: Terrorist
 next: Workaholic
+sidebar:
+- { text: Neutrals, link: /options/settings/Neutrals.html}
+- { text: Collector, link: /options/neutrals/Chaos/Collector.html}
+- { text: Cultist, link: /options/neutrals/Chaos/Cultist.html}
+- { text: Phantom, link: /options/neutrals/Chaos/Phantom.html}
+- { text: Pirate, link: /options/neutrals/Chaos/Pirate.html}
+- { text: Soul Collector, link: /options/neutrals/Chaos/SoulCollector.html}
+- { text: Terrorist, link: /options/neutrals/Chaos/Terrorist.html}
+- { text: Vulture, link: /options/neutrals/Chaos/Vulture.html}
+- { text: Workaholic, link: /options/neutrals/Chaos/Workaholic.html}
 ---
 
 # <font color="#556b2f">🕊️ <b>Vulture</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>

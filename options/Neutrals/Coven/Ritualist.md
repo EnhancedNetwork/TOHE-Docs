@@ -2,9 +2,9 @@
 lang: en-US
 title: Ritualist
 prev: Poisoner
-next: SerialKiller
+next: Wraith
 sidebar:
-- { text: Neutrals, link: /options/settings/Neutrals.html}
+- { text: Back to Neutrals, link: /options/settings/Neutrals.html}
 - { text: Banshee, link: /options/neutrals/Coven/Banshee.html}
 - { text: Coven Leader, link: /options/neutrals/Coven/CovenLeader.html}
 - { text: Hex Master, link: /options/neutrals/Coven/HexMaster.html}

@@ -4,7 +4,7 @@ title: Opportunist
 prev: Maverick
 next: Pursuer
 sidebar:
-- { text: Neutrals, link: /options/settings/Neutrals.html}
+- { text: Back to Neutrals, link: /options/settings/Neutrals.html}
 - { text: Amnesiac, link: /options/neutrals/Benign/Amnesiac.html}
 - { text: Follower, link: /options/neutrals/Benign/Follower.html}
 - { text: Hater, link: /options/neutrals/Benign/Hater.html}

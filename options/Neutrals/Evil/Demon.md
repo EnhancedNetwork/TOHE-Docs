@@ -4,7 +4,7 @@ title: Demon
 prev: CursedSoul
 next: Doomsayer
 sidebar:
-- { text: Neutrals, link: /options/settings/Neutrals.html}
+- { text: Back to Neutrals, link: /options/settings/Neutrals.html}
 - { text: Cursed Soul, link: /options/neutrals/Evil/CursedSoul.html}
 - { text: Demon, link: /options/neutrals/Evil/Demon.html}
 - { text: Doomsayer, link: /options/neutrals/Evil/Doomsayer.html}

@@ -2,9 +2,9 @@
 lang: en-US
 title: Werewolf
 prev: Virus
-next: ../Coven/CovenLeader
+next: /options/settings/Neutrals.html
 sidebar:
-- { text: Neutrals, link: /options/settings/Neutrals.html}
+- { text: Back to Neutrals, link: /options/settings/Neutrals.html}
 - { text: Agitater, link: /options/neutrals/Killing/Agitater.html}
 - { text: Arsonist, link: /options/neutrals/Killing/Arsonist.html}
 - { text: Blood Knight, link: /options/neutrals/Killing/BloodKnight.html}

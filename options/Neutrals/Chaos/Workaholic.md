@@ -4,7 +4,7 @@ title: Workaholic
 prev: Vulture
 next: /options/settings/Neutrals.html
 sidebar:
-- { text: Neutrals, link: /options/settings/Neutrals.html}
+- { text: Back to Neutrals, link: /options/settings/Neutrals.html}
 - { text: Collector, link: /options/neutrals/Chaos/Collector.html}
 - { text: Cultist, link: /options/neutrals/Chaos/Cultist.html}
 - { text: Phantom, link: /options/neutrals/Chaos/Phantom.html}

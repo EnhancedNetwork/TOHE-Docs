@@ -3,6 +3,16 @@ lang: en-US
 title: Innocent
 prev: Executioner
 next: Jester
+sidebar:
+- { text: Back to Neutrals, link: /options/settings/Neutrals.html}
+- { text: Cursed Soul, link: /options/neutrals/Evil/CursedSoul.html}
+- { text: Demon, link: /options/neutrals/Evil/Demon.html}
+- { text: Doomsayer, link: /options/neutrals/Evil/Doomsayer.html}
+- { text: Executioner, link: /options/neutrals/Evil/Executioner.html}
+- { text: Innocent, link: /options/neutrals/Evil/Innocent.html}
+- { text: Jester, link: /options/neutrals/Evil/Jester.html}
+- { text: Masochist, link: /options/neutrals/Evil/Masochist.html}
+- { text: Seeker, link: /options/neutrals/Evil/Seeker.html}
 ---
 
 # <font color="#887a59">👼 <b>Innocent</b></font> <Badge text="Evil" type="tip" vertical="middle"/>

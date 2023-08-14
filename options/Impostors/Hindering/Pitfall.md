@@ -26,4 +26,4 @@ As the Pitfall, you use your shapeshift to mark the area around the shapeshift a
 * Trap caused vision time
   * Set how long the vision is affected for
 
-> From: [ryuk](#)
+> From: Idea & Coding: [papercut](https://github.com/lars-wu)

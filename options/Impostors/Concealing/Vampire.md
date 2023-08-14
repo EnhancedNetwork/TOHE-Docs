@@ -5,17 +5,17 @@ prev: Trickster
 next: Warlock
 sidebar:
 - { text: Back to Impostors, link: /options/settings/Impostors.html}
-- { text: Escapist, link: /options/neutrals/Concealing/Escapist.html}
-- { text: Miner, link: /options/neutrals/Concealing/Miner.html}
-- { text: Puppeteer, link: /options/neutrals/Concealing/Puppeteer.html}
-- { text: Scavenger, link: /options/neutrals/Concealing/Scavenger.html}
-- { text: Shapemaster, link: /options/neutrals/Concealing/Shapemaster.html}
-- { text: Soul Catcher, link: /options/neutrals/Concealing/SoulCatcher.html}
-- { text: Swooper, link: /options/neutrals/Concealing/Swooper.html}
-- { text: Trickster, link: /options/neutrals/Concealing/Trickster.html}
-- { text: Vampire, link: /options/neutrals/Concealing/Vampire.html}
-- { text: Warlock, link: /options/neutrals/Concealing/Warlock.html}
-- { text: Wildling, link: /options/neutrals/Concealing/Wildling.html}
+- { text: Escapist, link: /options/impostors/Concealing/Escapist.html}
+- { text: Miner, link: /options/impostors/Concealing/Miner.html}
+- { text: Puppeteer, link: /options/impostors/Concealing/Puppeteer.html}
+- { text: Scavenger, link: /options/impostors/Concealing/Scavenger.html}
+- { text: Shapemaster, link: /options/impostors/Concealing/Shapemaster.html}
+- { text: Soul Catcher, link: /options/impostors/Concealing/SoulCatcher.html}
+- { text: Swooper, link: /options/impostors/Concealing/Swooper.html}
+- { text: Trickster, link: /options/impostors/Concealing/Trickster.html}
+- { text: Vampire, link: /options/impostors/Concealing/Vampire.html}
+- { text: Warlock, link: /options/impostors/Concealing/Warlock.html}
+- { text: Wildling, link: /options/impostors/Concealing/Wildling.html}
 ---
 
 # <font color="red">🧛 Vampire</font> <Badge text="Concealing" type="tip" vertical="middle"/>

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Ritualist
-prev: Poisoner
+prev: PotionMaster
 next: Wraith
 sidebar:
 - { text: Back to Neutrals, link: /options/settings/Neutrals.html}
@@ -12,26 +12,29 @@ sidebar:
 - { text: Medusa, link: /options/neutrals/Coven/Medusa.html} 
 - { text: Necromancer, link: /options/neutrals/Coven/Necromancer.html}
 - { text: Poisoner, link: /options/neutrals/Coven/Poisoner.html}
+- { text: Potion Master, link: /options/neutrals/Coven/PotionMaster.html}
 - { text: Ritualist, link: /options/neutrals/Coven/Ritualist.html}
 - { text: Wraith, link: /options/neutrals/Coven/Wraith.html}
 ---
 
-# <font color="#663399">🔥 <b>Ritualist</b></font> <Badge text="Coven" type="tip" vertical="middle"/>
+# <font color="#7223da">🩻 <b>Ritualist</b></font> <Badge text="Coven" type="tip" vertical="middle"/>
 ---
 
-As the Ritualist, you can reveal the roles of other players using your kill button.<br><br>
-Single click: Reveal role<br>
-Double click: Kill<br><br>
-If you run out of reveal uses, your kill button functions normally.
-* Kill Cooldown
-  * Set how long the Ritualist needs to wait to use their Ability
-* Maximum Reveals
-  * Set the Amount of Ability uses the Ritualist has before they start killing normally
+As the Ritualist, you are the Coven's guesser.<br>
+Guess roles in meetings to kill.<br>
+Guessing incorrectly kills you instead.<br><br>
+The guessing command is: `/bt [player id] [role]`<br>
+You can see the player's id before the player's name, or use the `/id` command to view the id of all players.
+* Maximum number of guesses
+  * Set how many guesses a Ritualist can make per game
+* Can guess add-ons
+  * <font color=green>ON</font>: Ritualist can guess add-ons
+  * <font color=red>OFF</font>: Ritualist cannot guess add-ons
+* Try to hide guesser's commands
+  * <font color=green>ON</font>: The Ritualist's guess command will be hidden from the chat
+  * <font color=red>OFF</font>: The Ritualist's guess command will be visible in the chat
 * Can Vent
-  * <font color=green>ON</font>: the Ritualist can Vent
-  * <font color=red>OFF</font>: the Retualist cannot Vent
-* Has <font color=red>Impostor</font> Vision
-  * <font color=green>ON</font>: the Ritualist can see as far as an <font color=red>Impostor</font> can
-  * <font color=red>OFF</font>: the ritualist will have <font color=#8cffff>Crewmate</font> Vision
+  * <font color=green>ON</font>: The Ritualist can vent
+  * <font color=red>OFF</font>: The Ritualist cannot vent
 
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: TBD

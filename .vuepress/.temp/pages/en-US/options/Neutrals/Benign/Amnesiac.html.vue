@@ -1,0 +1,43 @@
+<template><div><h1 id="🧠-amnesiac" tabindex="-1"><a class="header-anchor" href="#🧠-amnesiac" aria-hidden="true">#</a> <font color="#046300">🧠 <b>Amnesiac</b></font> <Badge text="Benign" type="tip" vertical="middle"/></h1>
+<hr>
+<p>As the Amnesiac, use your kill button on a player to remember their role.<br><br>
+If the target was an Impostor, you'll become a Refugee.<br>
+If the target was a Crewmate, you'll become a Sheriff.<br>
+If the target was a passive neutral or a neutral killer not specified, you'll become the role defined in the settings.<br>
+If the target was a neutral killer of a select few, you'll become the role they are.<br></p>
+<ul>
+<li>Max
+<ul>
+<li>Set the Maximum amount of Amnesiacs that can be in a match</li>
+</ul>
+</li>
+<li>Remember Cooldown
+<ul>
+<li>Set how long an Amnesiac needs to wait to use their ability</li>
+</ul>
+</li>
+<li>Refugee's Kill Cooldown
+<ul>
+<li>Set how long the Amnesiac turned Refugee needs to wait to use their kill</li>
+</ul>
+</li>
+<li>If neutral is incompatible, turn into
+<ul>
+<li>Set what role the Amnesiac will become if they try to remember a role that is incompatible with the Amnesiac, choose from:
+<ul>
+<li>Amnesiac</li>
+<li>Witch</li>
+<li>Pursuer</li>
+<li>Follower</li>
+<li>Maverick</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>From: TBD</p>
+</blockquote>
+</div></template>
+
+

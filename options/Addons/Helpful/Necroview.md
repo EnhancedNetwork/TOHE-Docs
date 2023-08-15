@@ -2,7 +2,7 @@
 lang: en-US
 title: Necroview
 prev: Lucky
-next: Reach
+next: Nimble
 ---
 
 # <font color=#663399>👁️‍🗨️ <b>Necroview</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>

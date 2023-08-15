@@ -1,8 +1,12 @@
 ---
 lang: en-US
 title: Lovers
-prev: /options/settings/Addons.html
-next: false
+prev: Egoist
+next: /options/settings/Addons.html
+sidebar:
+- { text: Back to Addons, link: /options/settings/Addons.html }
+- { text: Egoist, link: /options/Addons/Neutral/Egoist.html }
+- { text: Lovers, link: /options/Addons/Neutral/Lovers.html }
 ---
 
 # <font color=#ff9ace>💞 <b>Lovers</b></font> <Badge text="Neutral" type="tip" vertical="middle"/>

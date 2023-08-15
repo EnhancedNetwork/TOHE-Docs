@@ -2,7 +2,7 @@
 lang: en-US
 title: Autopsy
 prev: Antidote
-next: Bait
+next: Aware
 ---
 
 # <font color=#80ffdd>➕ <b>Autopsy</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>

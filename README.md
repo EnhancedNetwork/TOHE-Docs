@@ -26,7 +26,7 @@ footer: ©2023 By Loonie & Moe
 
 ---
 
-<p>To all the amazing players that keep TOHE in their hearts,</p>
+<p>To all the amazing players that keep TOHE in their hearts:</p>
 <p>We have taken over TOHE to keep the mod maintained. Loonie will be prioritizing development, while Moe
 will be maintaining the website.</p>
 <p>We play Among Us a fair amount, so we will do our best to keep it all updated and viable to play with

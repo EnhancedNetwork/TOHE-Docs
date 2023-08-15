@@ -3,10 +3,6 @@ lang: en-US
 title: Egoist
 prev: /options/settings/Addons.html
 next: Lovers
-sidebar:
-- { text: Back to Addons, link: /options/settings/Addons.html }
-- { text: Egoist, link: /options/Addons/Neutral/Egoist.html }
-- { text: Lovers, link: /options/Addons/Neutral/Lovers.html }
 ---
 
 # <font color=#5600ff>💪 <b>Egoist</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>

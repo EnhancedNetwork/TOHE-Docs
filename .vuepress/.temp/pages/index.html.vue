@@ -4,7 +4,7 @@
 <a href="https://www.patreon.com/TOHRE" target="_blank"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DTOHRE%26type%3Dpatrons&style=for-the-badge"/></a>
 </p>
 <hr>
-<p>To all the amazing players that keep TOHE in their hearts,</p>
+<p>To all the amazing players that keep TOHE in their hearts:</p>
 <p>We have taken over TOHE to keep the mod maintained. Loonie will be prioritizing development, while Moe
 will be maintaining the website.</p>
 <p>We play Among Us a fair amount, so we will do our best to keep it all updated and viable to play with

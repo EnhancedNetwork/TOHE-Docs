@@ -60,7 +60,7 @@ sidebar:
 
 ### <font color=#d4af37><b>Power</b></font>
 ---
-[Copycat](/options/Crewmates/{Power}/Copycat.html) | [Dictator](/options/Crewmates/Power/Dictator.html) | [Guardian](/options/Crewmates/Power/Guardian.html) | [Judge](/options/Crewmates/Power/Judge.html) | [Lookout](/options/Crewmates/Power/Lookout.html) | [Marshall](/options/Crewmates/Power/Marshall.html) | [Mayor](/options/Crewmates/Power/Mayor.html) | [Monarch](/options/Crewmates/Power/Monarch.html) | [Overseer](/options/Crewmates/Power/Overseer.html) | [Telecommunication](/options/Crewmates/Power/Telecommunication.html)
+[Copycat](/options/Crewmates/Power/Copycat.html) | [Dictator](/options/Crewmates/Power/Dictator.html) | [Guardian](/options/Crewmates/Power/Guardian.html) | [Judge](/options/Crewmates/Power/Judge.html) | [Lookout](/options/Crewmates/Power/Lookout.html) | [Marshall](/options/Crewmates/Power/Marshall.html) | [Mayor](/options/Crewmates/Power/Mayor.html) | [Monarch](/options/Crewmates/Power/Monarch.html) | [Overseer](/options/Crewmates/Power/Overseer.html) | [Telecommunication](/options/Crewmates/Power/Telecommunication.html)
 <br>
 
 ### <font color=#7fffd4><b>Support</b></font>

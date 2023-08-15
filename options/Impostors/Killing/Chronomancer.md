@@ -1,8 +1,8 @@
 ---
 lang: en-US
-title: Greedy
-prev: Deathpact
-next: Hangman
+title: Chronomancer
+prev: BountyHunter
+next: Councillor
 sidebar:
 - { text: Back to Impostors, link: /options/settings/Impostors.html}
 - { text: Agent, link: /options/impostors/Killing/Agent.html}
@@ -28,15 +28,13 @@ sidebar:
 - { text: Underdog, link: /options/impostors/Killing/Underdog.html}
 ---
 
-# <font color=red>🤑 Greedy</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>⏳ <b>Chronomancer</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
-Greedy kills with odd and even kills will have different kill cooldowns. Greedy’s kill cooldown is reset every meeting, and Greedy’s first kill is always an odd kill.
+As the Chronomancer, you can charge up your kill button. Once activated the Chronomancer can use their kill button infinitely until they run out of charge.
 * Max
-  * Set the Maximum amount of Greedys that can be in a match
-* Odd Numbered kill cooldown
-  * Set how long the Greedy’s kill cooldown is after killing their 1st, 3rd, 5th[...] person
-* Even-Numbered kill cooldown
-  * Set how long the Greedy’s kill cooldown is after killing their 2nd, 4th, 6th[...] person
+  * Set the Maximum amount of Chronomancers that can be in a match
+* Time to fully charge the kill button
+  * Set the time it takes to fully charge the kill button
 
-> From: TOHY
+> From: TBD

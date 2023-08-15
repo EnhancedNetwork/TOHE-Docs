@@ -2,7 +2,7 @@
 lang: en-US
 title: Poisoner
 prev: Necromancer
-next: Ritualist
+next: PotionMaster
 sidebar:
 - { text: Back to Neutrals, link: /options/settings/Neutrals.html}
 - { text: Banshee, link: /options/neutrals/Coven/Banshee.html}
@@ -12,6 +12,7 @@ sidebar:
 - { text: Medusa, link: /options/neutrals/Coven/Medusa.html} 
 - { text: Necromancer, link: /options/neutrals/Coven/Necromancer.html}
 - { text: Poisoner, link: /options/neutrals/Coven/Poisoner.html}
+- { text: Potion Master, link: /options/neutrals/Coven/PotionMaster.html}
 - { text: Ritualist, link: /options/neutrals/Coven/Ritualist.html}
 - { text: Wraith, link: /options/neutrals/Coven/Wraith.html}
 ---

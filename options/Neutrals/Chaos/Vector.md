@@ -1,8 +1,8 @@
 ---
 lang: en-US
-title: Soul Collector
-prev: Revolutionist
-next: Terrorist
+title: Vector
+prev: Terrorist
+next: Vulture
 sidebar:
 - { text: Back to Neutrals, link: /options/settings/Neutrals.html}
 - { text: Collector, link: /options/neutrals/Chaos/Collector.html}
@@ -18,17 +18,15 @@ sidebar:
 - { text: Workaholic, link: /options/neutrals/Chaos/Workaholic.html}
 ---
 
-# <font color=#a675a1>👻 <b>Soul Collector</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
+# <font color=#ff6201>💨 <b>Vector</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
 ---
 
-As a Soul Collector, you vote players to predict their death. If the prediction is correct and the target dies in the next round you collect their soul.<br><br>
-You win by collecting configurable number of souls set by the host
+Vector will win alone by venting a certain number of times.
 * Max
-  * Set the Maximum amount of Soul Collectors that can be in a match
-* Required number of souls
-  * Set the amount of correct predictions the Soul Collector needs to win
-* Can collect their own soul
-  * <font color=green>ON</font>: the Soul Catcher can predict their own death
-  * <font color=red>OFF</font>: the Soul Catcher cannot predict if they die
-
-> From: [ryuk](#)
+  * Set the Maximum amount of Vectors that can be in a match
+* Number of Vents to win
+  * Set the number of vents needed to win
+* Vent Cooldown
+  * Set how long the Vector has to wait to Vent
+  
+> From: [KARPED1EM](https://github.com/KARPED1EM) &  Coding: [KARPED1EM](https://github.com/KARPED1EM)

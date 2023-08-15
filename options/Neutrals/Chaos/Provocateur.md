@@ -1,8 +1,8 @@
 ---
 lang: en-US
-title: Soul Collector
-prev: Revolutionist
-next: Terrorist
+title: Provocateur
+prev: Pirate
+next: Revolutionist
 sidebar:
 - { text: Back to Neutrals, link: /options/settings/Neutrals.html}
 - { text: Collector, link: /options/neutrals/Chaos/Collector.html}
@@ -18,17 +18,10 @@ sidebar:
 - { text: Workaholic, link: /options/neutrals/Chaos/Workaholic.html}
 ---
 
-# <font color=#a675a1>👻 <b>Soul Collector</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
----
+# <font color=#74ba43>😏 <b>Provocateur</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
 
-As a Soul Collector, you vote players to predict their death. If the prediction is correct and the target dies in the next round you collect their soul.<br><br>
-You win by collecting configurable number of souls set by the host
+The Provocateur can kill any target with the kill button. If the target loses at the end of the game, the Provocateur wins with the winning team.
 * Max
-  * Set the Maximum amount of Soul Collectors that can be in a match
-* Required number of souls
-  * Set the amount of correct predictions the Soul Collector needs to win
-* Can collect their own soul
-  * <font color=green>ON</font>: the Soul Catcher can predict their own death
-  * <font color=red>OFF</font>: the Soul Catcher cannot predict if they die
+  * Set the Maximum amount of Provocateur that can be in a match
 
-> From: [ryuk](#)
+> From: [法师](https://space.bilibili.com/511107305) & Coding: [KARPED1EM](https://github.com/KARPED1EM)

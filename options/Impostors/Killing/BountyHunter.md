@@ -2,7 +2,7 @@
 lang: en-US
 title: Bounty Hunter
 prev: Bomber
-next: Councillor
+next: Chronomancer
 sidebar:
 - { text: Back to Impostors, link: /options/settings/Impostors.html}
 - { text: Agent, link: /options/impostors/Killing/Agent.html}
@@ -10,6 +10,7 @@ sidebar:
 - { text: Assassin, link: /options/impostors/Killing/Assassin.html}
 - { text: Bomber, link: /options/impostors/Killing/Bomber.html}
 - { text: Bounty Hunter, link: /options/impostors/Killing/BountyHunter.html}
+- { text: Chronomancer, link: /options/impostors/Killing/Chronomancer.html}
 - { text: Councillor, link: /options/impostors/Killing/Councillor.html}
 - { text: Cursed Wolf, link: /options/impostors/Killing/CursedWolf.html}
 - { text: Deathpact, link: /options/impostors/Killing/Deathpact.html}

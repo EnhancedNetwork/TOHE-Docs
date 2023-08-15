@@ -1,5 +1,5 @@
 <template><div><h1 id="roles" tabindex="-1"><a class="header-anchor" href="#roles" aria-hidden="true">#</a> Roles</h1>
-<font size=4em><b>Latest Version 3.0.0 Dev 1 (Dev Build 1)</b></font><br><br><center>
+<font size=4em><b>Latest Version 3.0.0 (Dev Build 1)</b></font><br><br><center>
 <p><RouterLink to="/options/settings/Custom.html">Settings - Custom</RouterLink> | <RouterLink to="/options/settings/System.html">Settings - System</RouterLink> <br>
 <RouterLink to="/options/settings/Game.html">Settings - Game</RouterLink> | <RouterLink to="/options/settings/Modifiers.html">Settings - Game Modifiers</RouterLink> <br>
 <RouterLink to="/options/settings/Impostors.html">Impostor Roles</RouterLink> | <RouterLink to="/options/settings/Crewmates.html">Crewmates Roles</RouterLink> <br>

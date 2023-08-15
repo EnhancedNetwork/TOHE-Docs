@@ -1,4 +1,5 @@
-.cache/
-.temp/
-dist/
+.vuepress/.cache/
+.vuepress/.git/
+.vuepress/.temp/
+.vuepress/dist/
 assets

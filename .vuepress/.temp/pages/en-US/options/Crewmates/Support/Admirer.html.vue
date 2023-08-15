@@ -1,0 +1,31 @@
+<template><div><h1 id="💞-admirer" tabindex="-1"><a class="header-anchor" href="#💞-admirer" aria-hidden="true">#</a> <font color="#ee43c3">💞 <b>Admirer</b></font> <Badge text="Support" type="tip" vertical="middle"/></h1>
+<hr>
+<p>As the Admirer, admire a player to make them crewmate aligned.<br>
+They'll win with crewmates and not their original team.<br><br>
+You can only do this once.</p>
+<ul>
+<li>Max
+<ul>
+<li>Set the Maximum amount of Admirers that can be in a match</li>
+</ul>
+</li>
+<li>Admire Cooldown
+<ul>
+<li>Set how long the Admirer has to wait to use their Ability</li>
+</ul>
+</li>
+<li>Know the role of Admired players
+<ul>
+<li>
+<font color=green>ON</font>: the Admirer will know the role of the player they Admire</li>
+<li>
+<font color=red>OFF</font>: the Admirer will not know the role of the player they Admire</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>From: TBD</p>
+</blockquote>
+</div></template>
+
+

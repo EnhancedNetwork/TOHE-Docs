@@ -2,7 +2,7 @@
 lang: en-US
 title: Spiritcaller
 prev: Revolutionist
-next: Vector
+next: /options/settings/Experimental.html
 ---
 
 # <font color=#003366>👻 <b>Spiritcaller</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>

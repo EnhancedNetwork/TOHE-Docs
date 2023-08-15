@@ -59,17 +59,15 @@ sidebar:
 
 ### <font color=#d4af37><b>Chaos</b></font>
 ---
-[Collector](/options/neutrals/Chaos/Collector.html) | [Cultist](/options/neutrals/Chaos/Cultist.html) | [Phantom](/options/neutrals/Chaos/Phantom.html) | [Pirate](/options/neutrals/Chaos/Pirate.html) | [Soul Collector](/options/neutrals/Chaos/SoulCollector.html) | [Terrorist](/options/neutrals/Chaos/Terrorist.html) | [Vulture](/options/neutrals/Chaos/Vulture.html) | [Workaholic](/options/neutrals/Chaos/Workaholic.html)
-<br>
+[Collector](/options/neutrals/Chaos/Collector.html) | [Cultist](/options/neutrals/Chaos/Cultist.html) | [Phantom](/options/neutrals/Chaos/Phantom.html) | [Pirate](/options/neutrals/Chaos/Pirate.html) | [Provocateur](/options/Neutrals/Chaos/Provocateur.html) | [Revolutionist](/options/Neutrals/Chaos/Revolutionist.html) | [Soul Collector](/options/neutrals/Chaos/SoulCollector.html) | [Terrorist](/options/neutrals/Chaos/Terrorist.html) | [Vector](/options/Neutrals/Chaos/Vector.html) | [Vulture](/options/neutrals/Chaos/Vulture.html) | [Workaholic](/options/neutrals/Chaos/Workaholic.html)
 
 ### <font color=#663399><b>Coven</b></font>
 ---
-[Banshee](/options/neutrals/Coven/Banshee.html) | [Coven Leader](/options/neutrals/Coven/CovenLeader.html) | [Hex Master](/options/neutrals/Coven/HexMaster.html) | [Jinx](/options/neutrals/Coven/Jinx.html) | [Medusa](/options/neutrals/Coven/Medusa.html) | [Necromancer](/options/neutrals/Coven/Necromancer.html) | [Poisoner](/options/neutrals/Coven/Poisoner.html) | [Ritualist](/options/neutrals/Coven/Ritualist.html) | [Wraith](/options/neutrals/Coven/Wraith.html)
+[Banshee](/options/neutrals/Coven/Banshee.html) | [Coven Leader](/options/neutrals/Coven/CovenLeader.html) | [Hex Master](/options/neutrals/Coven/HexMaster.html) | [Jinx](/options/neutrals/Coven/Jinx.html) | [Medusa](/options/neutrals/Coven/Medusa.html) | [Necromancer](/options/neutrals/Coven/Necromancer.html) | [Poisoner](/options/neutrals/Coven/Poisoner.html) | [Potion Master](/options/neutrals/Coven/PotionMaster.html) | [Ritualist](/options/neutrals/Coven/Ritualist.html) | [Wraith](/options/neutrals/Coven/Wraith.html)
 
 ### <font color=#912900><b>Evil</b></font>
 ---
 [Cursed Soul](/options/neutrals/evil/CursedSoul.html) | [Demon](/options/neutrals/evil/Demon.html) | [Doomsayer](/options/neutrals/evil/Doomsayer.html) | [Executioner](/options/neutrals/evil/Executioner.html) | [Innocent](/options/neutrals/evil/Innocent.html) | [Jester](/options/neutrals/evil/Jester.html) | [Masochist](/options/neutrals/evil/Masochist.html) | [Seeker](/options/neutrals/evil/Seeker.html)
-<br>
 
 ### <font color=red><b>Killing</b></font>
 ---

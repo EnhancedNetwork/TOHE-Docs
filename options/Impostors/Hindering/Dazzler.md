@@ -3,6 +3,13 @@ lang: en-US
 title: Dazzler
 prev: Anonymous
 next: Devourer
+sidebar:
+- { text: Back to Impostors, link: /options/settings/Impostors.html}
+- { text: Anonymous, link: /options/impostors/Hindering/Anonymous.html}
+- { text: Dazzler, link: /options/impostors/Hindering/Dazzler.html}
+- { text: Devourer, link: /options/impostors/Hindering/Devourer.html}
+- { text: Pifall, link: /options/impostors/Hindering/Pitfall.html}
+- { text: Twister, link: /options/impostors/Hindering/Twister.html}
 ---
 
 # <font color="red">🎇 Dazzler</font> <Badge text="Hindering" type="tip" vertical="middle"/>

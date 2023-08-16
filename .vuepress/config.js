@@ -221,7 +221,32 @@ export default ({
             { text: 'Time Manager', link: '/options/Crewmates/Support/TimeManager.html' },
             { text: 'Time Master', link: '/options/Crewmates/Support/TimeMaster.html' },
             { text: 'Tracker', link: '/options/Crewmates/Support/Tracker.html' },
-          ]
+          ],
+          '/options/Experimental/Addon/': [
+            { text: 'Back to Experimental', link: '/options/settings/Experimental.html' },
+            { text: 'Fool', link: '/options/Experimental/Addon/Fool.html' },
+            { text: 'Guesser', link: '/options/Experimental/Addon/Guesser.html' },
+            { text: 'Neptune', link: '/options/Experimental/Addon/Neptune.html' },
+            { text: 'YouTuber', link: '/options/Experimental/Addon/YouTuber.html' },
+          ],
+          '/options/Experimental/Crewmate/': [
+            { text: 'Back to Experimental', link: '/options/settings/Experimental.html' },
+          ],
+          '/options/Experimental/Impostor/': [
+            { text: 'Back to Experimental', link: '/options/settings/Experimental.html' },
+            { text: 'Butcher', link: '/options/Experimental/Impostor/Butcher.html' },
+            { text: 'Capitalist', link: '/options/Experimental/Impostor/Capitalist.html' },
+            { text: 'Disperser', link: '/options/Experimental/Impostor/Disperser.html' },
+            { text: 'Eraser', link: '/options/Experimental/Impostor/Eraser.html' },
+            { text: 'Killing Machine', link: '/options/Experimental/Impostor/KillingMachine.html' },
+            { text: 'Lightning', link: '/options/Experimental/Impostor/Lightning.html' },
+            { text: 'Trapster', link: '/options/Experimental/Impostor/Trapster.html' },
+          ],
+          '/options/Experimental/Neutral/': [
+            { text: 'Back to Experimental', link: '/options/settings/Experimental.html' },
+            { text: 'God', link: '/options/Experimental/Neutral/God.html' },
+            { text: 'Spiritcaller', link: '/options/Experimental/Neutral/Spiritcaller.html' },
+          ],
         },
         repo: '0xDrMoe/TOHRE-Code',
         repoLabel: 'Contribute!',

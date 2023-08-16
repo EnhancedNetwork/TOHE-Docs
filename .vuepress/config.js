@@ -342,7 +342,7 @@ export default ({
             { text: 'Back to Neutrals', link: '/options/settings/Neutrals.html' },
             { text: 'Banshee', link: '/options/Neutrals/Coven/Banshee.html' },
             { text: 'Coven Leader', link: '/options/Neutrals/Coven/CovenLeader.html' },
-            { text: 'Hex Master', link: '/options/Neutrals/Coven/Hex Master.html' },
+            { text: 'Hex Master', link: '/options/Neutrals/Coven/HexMaster.html' },
             { text: 'Jinx', link: '/options/Neutrals/Coven/Jinx.html' },
             { text: 'Medusa', link: '/options/Neutrals/Coven/Medusa.html' },
             { text: 'Necromancer', link: '/options/Neutrals/Coven/Necromancer.html' },

@@ -3,16 +3,6 @@ lang: en-US
 title: Demon
 prev: CursedSoul
 next: Doomsayer
-sidebar:
-- { text: Back to Neutrals, link: /options/settings/Neutrals.html}
-- { text: Cursed Soul, link: /options/neutrals/Evil/CursedSoul.html}
-- { text: Demon, link: /options/neutrals/Evil/Demon.html}
-- { text: Doomsayer, link: /options/neutrals/Evil/Doomsayer.html}
-- { text: Executioner, link: /options/neutrals/Evil/Executioner.html}
-- { text: Innocent, link: /options/neutrals/Evil/Innocent.html}
-- { text: Jester, link: /options/neutrals/Evil/Jester.html}
-- { text: Masochist, link: /options/neutrals/Evil/Masochist.html}
-- { text: Seeker, link: /options/neutrals/Evil/Seeker.html}
 ---
 
 # <font color="#68bc71">👿 <b>Demon</b></font> <Badge text="Evil" type="tip" vertical="middle"/>

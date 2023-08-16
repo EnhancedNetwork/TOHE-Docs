@@ -8,7 +8,7 @@ The following info will be displayed on the player:<br>
 <ul>
 <li>Max
 <ul>
-<li>Set the Maximum amount of Parasights that can be in a match</li>
+<li>Set the Maximum amount of Visionarys that can be in a match</li>
 </ul>
 </li>
 </ul>

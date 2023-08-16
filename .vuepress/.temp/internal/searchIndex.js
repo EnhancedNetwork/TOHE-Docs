@@ -1150,6 +1150,20 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "God",
+    "headers": [],
+    "path": "/options/Experimental/Neutral/God.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Spiritcaller",
+    "headers": [],
+    "path": "/options/Experimental/Neutral/Spiritcaller.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Butcher",
     "headers": [],
     "path": "/options/Experimental/Impostor/Butcher.html",
@@ -1202,20 +1216,6 @@ export const searchIndex = [
     "title": "Zombie",
     "headers": [],
     "path": "/options/Experimental/Impostor/Zombie.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "God",
-    "headers": [],
-    "path": "/options/Experimental/Neutral/God.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Spiritcaller",
-    "headers": [],
-    "path": "/options/Experimental/Neutral/Spiritcaller.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1328,6 +1328,20 @@ export const searchIndex = [
     "title": "Twister",
     "headers": [],
     "path": "/options/Impostors/Hindering/Twister.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Crewposter",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/Crewposter.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Parasite",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/Parasite.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1475,20 +1489,6 @@ export const searchIndex = [
     "title": "Underdog",
     "headers": [],
     "path": "/options/Impostors/Killing/Underdog.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Crewposter",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/Crewposter.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Parasite",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/Parasite.html",
     "pathLocale": "/",
     "extraFields": []
   },

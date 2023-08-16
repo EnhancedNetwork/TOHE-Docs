@@ -3,10 +3,6 @@ lang: en-US
 title: Parasite
 prev: Crewposter
 next: /options/settings/Impostors.html
-sidebar:
-- { text: Back to Impostors, link: /options/settings/Impostors.html}
-- { text: Crewpostor, link: /options/impostors/Madmate/Crewpostor.html}
-- { text: Parasite, link: /options/impostors/Madmate/Parasite.html}
 ---
 
 # <font color="red">🦠 Parasite</font> <Badge text="Madmate" type="tip" vertical="middle"/>

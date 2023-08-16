@@ -75,7 +75,7 @@ sidebar:
 
 ### <font color=#00ffff>Support</font>
 ---
-[Camouflager](/options/Impostors/Support/Camouflager.html) | [Cleaner](/options/Impostors/Support/Cleaner.html) | [Consigliere](/options/Impostors/Support/Consigliere.html) | [Disruptor](/options/Impostors/Support/Disruptor.html) | [Fireworker](/options/Impostors/Support/Fireworker.html) | [Gangster](/options/Impostors/Support/Gangster.html) | [Godfather](/options/Impostors/Support/Godfather.html) | [Morphling](/options/Impostors/Support/Morphling.html) | [Nemesis](/options/Impostors/Support/Nemesis.html) | [Time Thief](/options/Impostors/Support/Timethief.html) | [Vindicator](/options/Impostors/Support/Vindicator.html) | [Visionary](/options/Impostors/Support/Visionary.html)
+[Camouflager](/options/Impostors/Support/Camouflager.html) | [Cleaner](/options/Impostors/Support/Cleaner.html) | [Consigliere](/options/Impostors/Support/Consigliere.html) | [Disruptor](/options/Impostors/Support/Disruptor.html) | [Fireworker](/options/Impostors/Support/Fireworker.html) | [Gangster](/options/Impostors/Support/Gangster.html) | [Godfather](/options/Impostors/Support/Godfather.html) | [Morphling](/options/Impostors/Support/Morphling.html) | [Nemesis](/options/Impostors/Support/Nemesis.html) | [Time Thief](/options/Impostors/Support/TimeThief.html) | [Vindicator](/options/Impostors/Support/Vindicator.html) | [Visionary](/options/Impostors/Support/Visionary.html)
 <br>
 
 <br>

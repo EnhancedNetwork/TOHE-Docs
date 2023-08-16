@@ -67,7 +67,7 @@ sidebar:
 
 ### <font color=#912900><b>Evil</b></font>
 ---
-[Cursed Soul](/options/Neutrals/evil/CursedSoul.html) | [Demon](/options/Neutrals/evil/Demon.html) | [Doomsayer](/options/Neutrals/evil/Doomsayer.html) | [Executioner](/options/Neutrals/evil/Executioner.html) | [Innocent](/options/Neutrals/evil/Innocent.html) | [Jester](/options/Neutrals/evil/Jester.html) | [Masochist](/options/Neutrals/evil/Masochist.html) | [Seeker](/options/Neutrals/evil/Seeker.html)
+[Cursed Soul](/options/Neutrals/Evil/CursedSoul.html) | [Demon](/options/Neutrals/Evil/Demon.html) | [Doomsayer](/options/Neutrals/Evil/Doomsayer.html) | [Executioner](/options/Neutrals/Evil/Executioner.html) | [Innocent](/options/Neutrals/Evil/Innocent.html) | [Jester](/options/Neutrals/Evil/Jester.html) | [Masochist](/options/Neutrals/Evil/Masochist.html) | [Seeker](/options/Neutrals/Evil/Seeker.html)
 
 ### <font color=red><b>Killing</b></font>
 ---

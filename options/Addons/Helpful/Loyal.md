@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Loyal
-prev: Lighter
+prev: Lazy
 next: Lucky
 ---
 

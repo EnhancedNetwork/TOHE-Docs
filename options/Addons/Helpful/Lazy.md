@@ -2,7 +2,7 @@
 lang: en-US
 title: Lazy
 prev: Gravestone
-next: Lighter
+next: Loyal
 ---
 
 # <font color=#a4dffe>🛋️ <b>Lazy</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>

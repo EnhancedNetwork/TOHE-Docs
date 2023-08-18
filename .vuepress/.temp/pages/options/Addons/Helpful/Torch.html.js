@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-01132122\",\"path\":\"/options/Addons/Helpful/Torch.html\",\"title\":\"Torch\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Torch\",\"prev\":\"Lazy\",\"next\":\"Loyal\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"options/Addons/Helpful/Torch.md\"}")

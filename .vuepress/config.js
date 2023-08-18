@@ -132,7 +132,6 @@ export default ({
             { text: 'Glow', link: '/options/Addons/Helpful/Glow.html' },
             { text: 'Gravestone', link: '/options/Addons/Helpful/Gravestone.html' },
             { text: 'Lazy', link: '/options/Addons/Helpful/Lazy.html' },
-            { text: 'Lighter', link: '/options/Addons/Helpful/Lighter.html' },
             { text: 'Loyal', link: '/options/Addons/Helpful/Loyal.html' },
             { text: 'Lucky', link: '/options/Addons/Helpful/Lucky.html' },
             { text: 'Necroview', link: '/options/Addons/Helpful/Necroview.html' },
@@ -141,6 +140,7 @@ export default ({
             { text: 'Schizophrenic', link: '/options/Addons/Helpful/Schizophrenic.html' },
             { text: 'Seer', link: '/options/Addons/Helpful/Seer.html' },
             { text: 'Sleuth', link: '/options/Addons/Helpful/Sleuth.html' },
+            { text: 'Torch', link: '/options/Addons/Helpful/Torch.html' },
             { text: 'Tiebreaker', link: '/options/Addons/Helpful/Tiebreaker.html' },
             { text: 'Watcher', link: '/options/Addons/Helpful/Watcher.html' }
           ],

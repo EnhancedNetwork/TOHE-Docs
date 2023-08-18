@@ -16,7 +16,7 @@ Only the <font color=#8cffff>Crewmate</font> will be the Torch, who have max vis
 * Torch Vision
   * Set how far the Torch can see
 
-::: Fun Fact
+::: tip Fun Fact
 Torch was originally called "Lighter" in Build 3.0.0 Dev 1 and was renamed to "Torch" in Build 3.0.0 Dev 2!
 :::
 

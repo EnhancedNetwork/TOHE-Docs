@@ -18,9 +18,9 @@
 </ul>
 </li>
 </ul>
-<p>::: Fun Fact
-Torch was originally called &quot;Lighter&quot; in Build 3.0.0 Dev 1 and was renamed to &quot;Torch&quot; in Build 3.0.0 Dev 2!
-:::</p>
+<div class="custom-container tip"><p class="custom-container-title">Fun Fact</p>
+<p>Torch was originally called &quot;Lighter&quot; in Build 3.0.0 Dev 1 and was renamed to &quot;Torch&quot; in Build 3.0.0 Dev 2!</p>
+</div>
 <blockquote>
 <p>From: TOH &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>
 </blockquote>

@@ -2,7 +2,7 @@
 lang: en-US
 title: Vigilante
 prev: Veteran
-next: /options/settings/Crewmates.html
+next: Witness
 ---
 
 # <font color="#eede26">👑 <b>Vigilante</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

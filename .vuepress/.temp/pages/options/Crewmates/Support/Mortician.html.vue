@@ -7,6 +7,14 @@
 <li>Set the Maximum amount of Morticians that can be in a match</li>
 </ul>
 </li>
+<li>Has Arrows pointing toward bodies
+<ul>
+<li>
+<font color=green>ON</font>: the Mortician will see arrows pointing to all dead bodies</li>
+<li>
+<font color=red>OFF</font>: the Mortician will not see arrows pointing to all dead bodies</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: <a href="https://b23.tv/kTnVK2c" target="_blank" rel="noopener noreferrer">草暖<ExternalLinkIcon/></a> &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>

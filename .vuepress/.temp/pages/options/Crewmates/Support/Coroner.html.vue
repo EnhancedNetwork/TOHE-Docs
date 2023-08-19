@@ -23,6 +23,16 @@
 <font color=red>OFF</font>: the body that a Coroner interacts with can still be reported</li>
 </ul>
 </li>
+<li>Initial Ability Use Limit
+<ul>
+<li>Set the amount of Ability Uses a Coroner has at the start of the game</li>
+</ul>
+</li>
+<li>
+<font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font><ul>
+<li>Set the amount of Ability Uses a Coroner gains with each Task completed (0.1 increments)</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: Idea &amp; Coding: <a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer">papercut<ExternalLinkIcon/></a></p>

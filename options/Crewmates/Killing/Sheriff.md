@@ -14,8 +14,11 @@ The Sheriff can kill any Non-Crew player. If the Sheriff tries tries to kill a C
 * Misfire Kills Target
   * <font color=green>ON</font>: the player that the Sheriff shoots will kill them and make the Sheriff suicide if the player not killable
   * <font color=red>OFF</font>: the Sheriff will suicide as they normally would, keeping the Crewmate/Non-shootable player alive
-* Number of Kills
+* Max Number of Kills
   * Set the Maximum amount of kills a Sheriff can commit
+* Display Shot Limit next to Role Name
+  * <font color=green>ON</font>: The amount of bullets that Sheriff has remaining will be displayed beside the Sheriff's name
+  * <font color=red>OFF</font>: The amount of bullets that Sheriff has remaining will not be displayed beside the Sheriff's name
 * Can Kill when everyone is Alive
   * If toggled <font color=green><font color=green>ON</font></font>, the Sheriff can shoot before anyone dies
   * <font color=red>OFF</font>: the Sheriff can only shoot someone after someone dies

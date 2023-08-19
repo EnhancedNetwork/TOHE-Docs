@@ -12,12 +12,12 @@
 <li>Set the Deathpact's Kill Cooldown</li>
 </ul>
 </li>
-<li>Deathpact Assign Cooldown
+<li>Death Pact Assign Cooldown
 <ul>
 <li>Set the Deathpact's Assignment Cooldown</li>
 </ul>
 </li>
-<li>Deathpact duration
+<li>Death Pact duration
 <ul>
 <li>Set the duration of the pact before they die</li>
 </ul>
@@ -38,14 +38,16 @@
 <li>Reduce vision for players in Death Pact
 <ul>
 <li>
-<font color=green>ON</font>: the Deathpact will have their vision reduced</li>
-<li>
-<font color=red>OFF</font>: the Deathpact will not have their vision reduced</li>
+<font color=green>ON</font>: the Deathpact will have their vision reduced<ul>
 <li>Vision for players in Death Pact
 <ul>
 <li>Set the vision for players in Death Pact while the pact is active</li>
 </ul>
 </li>
+</ul>
+</li>
+<li>
+<font color=red>OFF</font>: the Deathpact will not have their vision reduced</li>
 </ul>
 </li>
 <li>Kill players in Death Pact on meeting

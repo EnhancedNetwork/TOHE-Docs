@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3be42d67","path":"/options/Neutrals/Benign/RomanticRuthless.html","title":"Ruthless Romantic","lang":"en-US","frontmatter":{"lang":"en-US","title":"Ruthless Romantic","prev":"Romantic","next":"Shaman"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"options/Neutrals/Benign/RomanticRuthless.md"}');export{t as data};

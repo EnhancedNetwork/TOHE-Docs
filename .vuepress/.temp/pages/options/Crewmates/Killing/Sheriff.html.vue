@@ -12,9 +12,17 @@
 <font color=red>OFF</font>: the Sheriff will suicide as they normally would, keeping the Crewmate/Non-shootable player alive</li>
 </ul>
 </li>
-<li>Number of Kills
+<li>Max Number of Kills
 <ul>
 <li>Set the Maximum amount of kills a Sheriff can commit</li>
+</ul>
+</li>
+<li>Display Shot Limit next to Role Name
+<ul>
+<li>
+<font color=green>ON</font>: The amount of bullets that Sheriff has remaining will be displayed beside the Sheriff's name</li>
+<li>
+<font color=red>OFF</font>: The amount of bullets that Sheriff has remaining will not be displayed beside the Sheriff's name</li>
 </ul>
 </li>
 <li>Can Kill when everyone is Alive

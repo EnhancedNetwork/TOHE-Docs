@@ -1,6 +1,6 @@
 <template><div><h1 id="☭-assassin" tabindex="-1"><a class="header-anchor" href="#☭-assassin" aria-hidden="true">#</a> <font color="red">☭ Assassin</font> <Badge text="Killing" type="tip" vertical="middle"/></h1>
 <hr>
-<font size=4em>Formerly known as Evil Guesser</font><p>The Assassin can guess the role of a certain player during the meeting.</p>
+<p>The Assassin can guess the role of a certain player during the meeting.</p>
 <p>If it is correct, the target dies, and if it is wrong, the Assassin dies.</p>
 <p>The guessing command is <code v-pre>/bt [player ID] [Role]</code>.<br>
 You can see the ID of player’s next to their name, or by typing <code v-pre>/id</code><br>
@@ -49,6 +49,9 @@ Note: You don’t need to worry about this if you have a TOHE Modded Client, as 
 </ul>
 </li>
 </ul>
+<div class="custom-container danger"><p class="custom-container-title">Fun Fact</p>
+<p>Members of the TOHRE community have debated on whether the name Assassin or Evil Guesser is better. The name Assassin was chosen because it was more fitting for the role. It was renamed in Dev Build 4 (2.5.1 Dev 4)</p>
+</div>
 <blockquote>
 <p>From: idk &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a>、<a href="https://github.com/commandf1" target="_blank" rel="noopener noreferrer">Commandf1<ExternalLinkIcon/></a></p>
 </blockquote>

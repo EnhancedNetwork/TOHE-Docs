@@ -3,16 +3,6 @@ lang: en-US
 title: Game Modifiers
 prev: Game
 next: Impostors
-sidebar: 
-- { text: Custom Settings, link: /options/settings/Custom.html}
-- { text: System Settings, link: /options/settings/System.html}
-- { text: Game Settings, link: /options/settings/Game.html}
-- { text: Game Modifiers, link: /options/settings/Modifiers.html}
-- { text: Impostors, link: /options/settings/Impostors.html}
-- { text: Crewmates, link: /options/settings/Crewmates.html} 
-- { text: Neutrals, link: /options/settings/Neutrals.html}
-- { text: Add-ons, link: /options/settings/Addons.html}
-- { text: Experimental, link: /options/settings/Experimental.html}
 ---
 
 # <font color=#ffc0cb>🎮 Game Modifiers</font>
@@ -238,7 +228,8 @@ sidebar:
       * <font color=green>ON</font>: Guessers' commands will be hidden
       * <font color=red>OFF</font>: Guessers' commands will be shown 
   * <font color=red>OFF</font>: Guesser Mode will be disabled
-* Roles and Add-ons for Guesser Mode
+
+<font side=4em color=#ffeb04>Roles and Add-ons for Guesser Mode</font>
   * <font size=3.5em color=#baaae9><b>Onbound</b></font>
     * Max
       * Set the maximum amount of Onbound that can spawn

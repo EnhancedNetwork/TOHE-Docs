@@ -11,8 +11,30 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /Roles.html
   "v-5bd8e7d6": () => import(/* webpackChunkName: "v-5bd8e7d6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/Roles.html.js").then(({ data }) => data),
+  // path: /options/Coven/Banshee.html
+  "v-58d7520a": () => import(/* webpackChunkName: "v-58d7520a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Coven/Banshee.html.js").then(({ data }) => data),
+  // path: /options/Coven/CovenLeader.html
+  "v-073822ba": () => import(/* webpackChunkName: "v-073822ba" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Coven/CovenLeader.html.js").then(({ data }) => data),
+  // path: /options/Coven/HexMaster.html
+  "v-66af8a02": () => import(/* webpackChunkName: "v-66af8a02" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Coven/HexMaster.html.js").then(({ data }) => data),
+  // path: /options/Coven/Jinx.html
+  "v-76e4d70a": () => import(/* webpackChunkName: "v-76e4d70a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Coven/Jinx.html.js").then(({ data }) => data),
+  // path: /options/Coven/Medusa.html
+  "v-6e83385c": () => import(/* webpackChunkName: "v-6e83385c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Coven/Medusa.html.js").then(({ data }) => data),
+  // path: /options/Coven/Necromancer.html
+  "v-0be71060": () => import(/* webpackChunkName: "v-0be71060" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Coven/Necromancer.html.js").then(({ data }) => data),
+  // path: /options/Coven/Poisoner.html
+  "v-52fceb1e": () => import(/* webpackChunkName: "v-52fceb1e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Coven/Poisoner.html.js").then(({ data }) => data),
+  // path: /options/Coven/PotionMaster.html
+  "v-027ab5fe": () => import(/* webpackChunkName: "v-027ab5fe" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Coven/PotionMaster.html.js").then(({ data }) => data),
+  // path: /options/Coven/Ritualist.html
+  "v-7bcfd518": () => import(/* webpackChunkName: "v-7bcfd518" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Coven/Ritualist.html.js").then(({ data }) => data),
+  // path: /options/Coven/Wraith.html
+  "v-4ca9b29c": () => import(/* webpackChunkName: "v-4ca9b29c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Coven/Wraith.html.js").then(({ data }) => data),
   // path: /options/Settings/Addons.html
   "v-0bfd6e38": () => import(/* webpackChunkName: "v-0bfd6e38" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Settings/Addons.html.js").then(({ data }) => data),
+  // path: /options/Settings/Coven.html
+  "v-25a07ae8": () => import(/* webpackChunkName: "v-25a07ae8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Settings/Coven.html.js").then(({ data }) => data),
   // path: /options/Settings/Crewmates.html
   "v-3bd8288e": () => import(/* webpackChunkName: "v-3bd8288e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Settings/Crewmates.html.js").then(({ data }) => data),
   // path: /options/Settings/Custom.html
@@ -137,6 +159,8 @@ export const pagesData = {
   "v-1e341236": () => import(/* webpackChunkName: "v-1e341236" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Crusader.html.js").then(({ data }) => data),
   // path: /options/Crewmates/Killing/Deceiver.html
   "v-d17913f6": () => import(/* webpackChunkName: "v-d17913f6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Deceiver.html.js").then(({ data }) => data),
+  // path: /options/Crewmates/Killing/Jailor.html
+  "v-7a2efa05": () => import(/* webpackChunkName: "v-7a2efa05" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Jailor.html.js").then(({ data }) => data),
   // path: /options/Crewmates/Killing/Knight.html
   "v-00869d75": () => import(/* webpackChunkName: "v-00869d75" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Knight.html.js").then(({ data }) => data),
   // path: /options/Crewmates/Killing/Retributionist.html
@@ -149,6 +173,8 @@ export const pagesData = {
   "v-0b38b791": () => import(/* webpackChunkName: "v-0b38b791" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Veteran.html.js").then(({ data }) => data),
   // path: /options/Crewmates/Killing/Vigilante.html
   "v-7dc3123b": () => import(/* webpackChunkName: "v-7dc3123b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Vigilante.html.js").then(({ data }) => data),
+  // path: /options/Crewmates/Killing/Witness.html
+  "v-172e2d57": () => import(/* webpackChunkName: "v-172e2d57" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Witness.html.js").then(({ data }) => data),
   // path: /options/Crewmates/Power/Copycat.html
   "v-62dd8aa4": () => import(/* webpackChunkName: "v-62dd8aa4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Power/Copycat.html.js").then(({ data }) => data),
   // path: /options/Crewmates/Power/Dictator.html
@@ -185,6 +211,8 @@ export const pagesData = {
   "v-b92bf0b4": () => import(/* webpackChunkName: "v-b92bf0b4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Support/Grenadier.html.js").then(({ data }) => data),
   // path: /options/Crewmates/Support/Inspector.html
   "v-0726852e": () => import(/* webpackChunkName: "v-0726852e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Support/Inspector.html.js").then(({ data }) => data),
+  // path: /options/Crewmates/Support/Lighter.html
+  "v-7032a662": () => import(/* webpackChunkName: "v-7032a662" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Support/Lighter.html.js").then(({ data }) => data),
   // path: /options/Crewmates/Support/Mechanic.html
   "v-33443969": () => import(/* webpackChunkName: "v-33443969" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Support/Mechanic.html.js").then(({ data }) => data),
   // path: /options/Crewmates/Support/Medic.html
@@ -243,118 +271,6 @@ export const pagesData = {
   "v-6cfcbefc": () => import(/* webpackChunkName: "v-6cfcbefc" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Neutral/God.html.js").then(({ data }) => data),
   // path: /options/Experimental/Neutral/Spiritcaller.html
   "v-57b9c298": () => import(/* webpackChunkName: "v-57b9c298" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Neutral/Spiritcaller.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Benign/Amnesiac.html
-  "v-645bd8ed": () => import(/* webpackChunkName: "v-645bd8ed" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Amnesiac.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Benign/Follower.html
-  "v-2a1165ec": () => import(/* webpackChunkName: "v-2a1165ec" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Follower.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Benign/Hater.html
-  "v-1521aa22": () => import(/* webpackChunkName: "v-1521aa22" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Hater.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Benign/Lawyer.html
-  "v-7e2d0ea4": () => import(/* webpackChunkName: "v-7e2d0ea4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Lawyer.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Benign/Maverick.html
-  "v-7efe6df4": () => import(/* webpackChunkName: "v-7efe6df4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Maverick.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Benign/Opportunist.html
-  "v-5ae8c79b": () => import(/* webpackChunkName: "v-5ae8c79b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Opportunist.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Benign/Pursuer.html
-  "v-08442bce": () => import(/* webpackChunkName: "v-08442bce" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Pursuer.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Benign/Shaman.html
-  "v-70d7d48c": () => import(/* webpackChunkName: "v-70d7d48c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Shaman.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Benign/Witch.html
-  "v-e694537a": () => import(/* webpackChunkName: "v-e694537a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Witch.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Chaos/Collector.html
-  "v-d93ecad8": () => import(/* webpackChunkName: "v-d93ecad8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Collector.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Chaos/Cultist.html
-  "v-5e69da31": () => import(/* webpackChunkName: "v-5e69da31" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Cultist.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Chaos/Phantom.html
-  "v-5d9c6bd8": () => import(/* webpackChunkName: "v-5d9c6bd8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Phantom.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Chaos/Pirate.html
-  "v-37db9610": () => import(/* webpackChunkName: "v-37db9610" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Pirate.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Chaos/Provocateur.html
-  "v-39c8b86f": () => import(/* webpackChunkName: "v-39c8b86f" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Provocateur.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Chaos/Revolutionist.html
-  "v-f493d200": () => import(/* webpackChunkName: "v-f493d200" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Revolutionist.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Chaos/SoulCollector.html
-  "v-15a9b932": () => import(/* webpackChunkName: "v-15a9b932" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/SoulCollector.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Chaos/Terrorist.html
-  "v-ee8d2a6a": () => import(/* webpackChunkName: "v-ee8d2a6a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Terrorist.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Chaos/Vector.html
-  "v-b8a76764": () => import(/* webpackChunkName: "v-b8a76764" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Vector.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Chaos/Vulture.html
-  "v-feaf63c0": () => import(/* webpackChunkName: "v-feaf63c0" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Vulture.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Chaos/Workaholic.html
-  "v-3d3c5662": () => import(/* webpackChunkName: "v-3d3c5662" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Workaholic.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Coven/Banshee.html
-  "v-6cccc3ea": () => import(/* webpackChunkName: "v-6cccc3ea" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Coven/Banshee.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Coven/CovenLeader.html
-  "v-38ae4c12": () => import(/* webpackChunkName: "v-38ae4c12" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Coven/CovenLeader.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Coven/HexMaster.html
-  "v-d8ff119e": () => import(/* webpackChunkName: "v-d8ff119e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Coven/HexMaster.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Coven/Jinx.html
-  "v-b0dbaf0a": () => import(/* webpackChunkName: "v-b0dbaf0a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Coven/Jinx.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Coven/Medusa.html
-  "v-2921f18d": () => import(/* webpackChunkName: "v-2921f18d" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Coven/Medusa.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Coven/Necromancer.html
-  "v-48316dcf": () => import(/* webpackChunkName: "v-48316dcf" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Coven/Necromancer.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Coven/Poisoner.html
-  "v-3e5bc7e2": () => import(/* webpackChunkName: "v-3e5bc7e2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Coven/Poisoner.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Coven/PotionMaster.html
-  "v-4f7c066f": () => import(/* webpackChunkName: "v-4f7c066f" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Coven/PotionMaster.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Coven/Ritualist.html
-  "v-aebe7b72": () => import(/* webpackChunkName: "v-aebe7b72" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Coven/Ritualist.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Coven/Wraith.html
-  "v-07486bcd": () => import(/* webpackChunkName: "v-07486bcd" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Coven/Wraith.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Evil/CursedSoul.html
-  "v-22d8cc5c": () => import(/* webpackChunkName: "v-22d8cc5c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Evil/CursedSoul.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Evil/Demon.html
-  "v-6dde2910": () => import(/* webpackChunkName: "v-6dde2910" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Evil/Demon.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Evil/Doomsayer.html
-  "v-2ddaa4a8": () => import(/* webpackChunkName: "v-2ddaa4a8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Evil/Doomsayer.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Evil/Executioner.html
-  "v-433634f6": () => import(/* webpackChunkName: "v-433634f6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Evil/Executioner.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Evil/Innocent.html
-  "v-1f1c89c9": () => import(/* webpackChunkName: "v-1f1c89c9" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Evil/Innocent.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Evil/Jester.html
-  "v-3e032824": () => import(/* webpackChunkName: "v-3e032824" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Evil/Jester.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Evil/Masochist.html
-  "v-4a7a7c26": () => import(/* webpackChunkName: "v-4a7a7c26" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Evil/Masochist.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Evil/Seeker.html
-  "v-5a600ed2": () => import(/* webpackChunkName: "v-5a600ed2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Evil/Seeker.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/Agitater.html
-  "v-52d0b864": () => import(/* webpackChunkName: "v-52d0b864" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Agitater.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/Arsonist.html
-  "v-a87f84a8": () => import(/* webpackChunkName: "v-a87f84a8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Arsonist.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/BloodKnight.html
-  "v-50ccce36": () => import(/* webpackChunkName: "v-50ccce36" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/BloodKnight.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/Glitch.html
-  "v-1329bc20": () => import(/* webpackChunkName: "v-1329bc20" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Glitch.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/Infectious.html
-  "v-c70ddc08": () => import(/* webpackChunkName: "v-c70ddc08" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Infectious.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/Jackal.html
-  "v-619c93aa": () => import(/* webpackChunkName: "v-619c93aa" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Jackal.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/Juggernaut.html
-  "v-c98738ea": () => import(/* webpackChunkName: "v-c98738ea" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Juggernaut.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/Occultist.html
-  "v-543525fe": () => import(/* webpackChunkName: "v-543525fe" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Occultist.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/Pelican.html
-  "v-0aa9c142": () => import(/* webpackChunkName: "v-0aa9c142" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Pelican.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/Pickpocket.html
-  "v-6f248b9e": () => import(/* webpackChunkName: "v-6f248b9e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Pickpocket.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/Plaguebearer.html
-  "v-0ee0bffc": () => import(/* webpackChunkName: "v-0ee0bffc" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Plaguebearer.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/SerialKiller.html
-  "v-6ec03af6": () => import(/* webpackChunkName: "v-6ec03af6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/SerialKiller.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/Shade.html
-  "v-74db5bf0": () => import(/* webpackChunkName: "v-74db5bf0" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Shade.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/Shroud.html
-  "v-1d1b2774": () => import(/* webpackChunkName: "v-1d1b2774" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Shroud.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/Stalker.html
-  "v-2241aff1": () => import(/* webpackChunkName: "v-2241aff1" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Stalker.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/Traitor.html
-  "v-0974f1a8": () => import(/* webpackChunkName: "v-0974f1a8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Traitor.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/Virus.html
-  "v-671de120": () => import(/* webpackChunkName: "v-671de120" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Virus.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/Werewolf.html
-  "v-7a8c747c": () => import(/* webpackChunkName: "v-7a8c747c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Werewolf.html.js").then(({ data }) => data),
   // path: /options/Impostors/Concealing/Escapist.html
   "v-2d9b93c4": () => import(/* webpackChunkName: "v-2d9b93c4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Escapist.html.js").then(({ data }) => data),
   // path: /options/Impostors/Concealing/Miner.html
@@ -387,6 +303,10 @@ export const pagesData = {
   "v-604e65e1": () => import(/* webpackChunkName: "v-604e65e1" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Hindering/Pitfall.html.js").then(({ data }) => data),
   // path: /options/Impostors/Hindering/Twister.html
   "v-0cdf5bba": () => import(/* webpackChunkName: "v-0cdf5bba" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Hindering/Twister.html.js").then(({ data }) => data),
+  // path: /options/Impostors/Madmate/Crewposter.html
+  "v-7ff6a724": () => import(/* webpackChunkName: "v-7ff6a724" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Madmate/Crewposter.html.js").then(({ data }) => data),
+  // path: /options/Impostors/Madmate/Parasite.html
+  "v-7349b86a": () => import(/* webpackChunkName: "v-7349b86a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Madmate/Parasite.html.js").then(({ data }) => data),
   // path: /options/Impostors/Killing/Agent.html
   "v-d83531e8": () => import(/* webpackChunkName: "v-d83531e8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Killing/Agent.html.js").then(({ data }) => data),
   // path: /options/Impostors/Killing/Arrogance.html
@@ -453,10 +373,104 @@ export const pagesData = {
   "v-272a8113": () => import(/* webpackChunkName: "v-272a8113" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Vindicator.html.js").then(({ data }) => data),
   // path: /options/Impostors/Support/Visionary.html
   "v-880e83f4": () => import(/* webpackChunkName: "v-880e83f4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Visionary.html.js").then(({ data }) => data),
-  // path: /options/Impostors/Madmate/Crewposter.html
-  "v-7ff6a724": () => import(/* webpackChunkName: "v-7ff6a724" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Madmate/Crewposter.html.js").then(({ data }) => data),
-  // path: /options/Impostors/Madmate/Parasite.html
-  "v-7349b86a": () => import(/* webpackChunkName: "v-7349b86a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Madmate/Parasite.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Benign/Amnesiac.html
+  "v-645bd8ed": () => import(/* webpackChunkName: "v-645bd8ed" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Amnesiac.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Benign/Follower.html
+  "v-2a1165ec": () => import(/* webpackChunkName: "v-2a1165ec" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Follower.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Benign/Hater.html
+  "v-1521aa22": () => import(/* webpackChunkName: "v-1521aa22" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Hater.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Benign/Lawyer.html
+  "v-7e2d0ea4": () => import(/* webpackChunkName: "v-7e2d0ea4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Lawyer.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Benign/Maverick.html
+  "v-7efe6df4": () => import(/* webpackChunkName: "v-7efe6df4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Maverick.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Benign/Opportunist.html
+  "v-5ae8c79b": () => import(/* webpackChunkName: "v-5ae8c79b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Opportunist.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Benign/Pursuer.html
+  "v-08442bce": () => import(/* webpackChunkName: "v-08442bce" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Pursuer.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Benign/Romantic.html
+  "v-1cf0b797": () => import(/* webpackChunkName: "v-1cf0b797" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Romantic.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Benign/RomanticRuthless.html
+  "v-3be42d67": () => import(/* webpackChunkName: "v-3be42d67" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/RomanticRuthless.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Benign/RomanticVengeful.html
+  "v-7de60452": () => import(/* webpackChunkName: "v-7de60452" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/RomanticVengeful.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Benign/Shaman.html
+  "v-70d7d48c": () => import(/* webpackChunkName: "v-70d7d48c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Shaman.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Benign/Witch.html
+  "v-e694537a": () => import(/* webpackChunkName: "v-e694537a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Witch.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Chaos/Collector.html
+  "v-d93ecad8": () => import(/* webpackChunkName: "v-d93ecad8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Collector.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Chaos/Cultist.html
+  "v-5e69da31": () => import(/* webpackChunkName: "v-5e69da31" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Cultist.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Chaos/Phantom.html
+  "v-5d9c6bd8": () => import(/* webpackChunkName: "v-5d9c6bd8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Phantom.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Chaos/Pirate.html
+  "v-37db9610": () => import(/* webpackChunkName: "v-37db9610" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Pirate.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Chaos/Provocateur.html
+  "v-39c8b86f": () => import(/* webpackChunkName: "v-39c8b86f" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Provocateur.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Chaos/Revolutionist.html
+  "v-f493d200": () => import(/* webpackChunkName: "v-f493d200" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Revolutionist.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Chaos/SoulCollector.html
+  "v-15a9b932": () => import(/* webpackChunkName: "v-15a9b932" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/SoulCollector.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Chaos/Terrorist.html
+  "v-ee8d2a6a": () => import(/* webpackChunkName: "v-ee8d2a6a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Terrorist.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Chaos/Vector.html
+  "v-b8a76764": () => import(/* webpackChunkName: "v-b8a76764" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Vector.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Chaos/Vulture.html
+  "v-feaf63c0": () => import(/* webpackChunkName: "v-feaf63c0" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Vulture.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Chaos/Workaholic.html
+  "v-3d3c5662": () => import(/* webpackChunkName: "v-3d3c5662" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Workaholic.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Evil/CursedSoul.html
+  "v-22d8cc5c": () => import(/* webpackChunkName: "v-22d8cc5c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Evil/CursedSoul.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Evil/Demon.html
+  "v-6dde2910": () => import(/* webpackChunkName: "v-6dde2910" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Evil/Demon.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Evil/Doomsayer.html
+  "v-2ddaa4a8": () => import(/* webpackChunkName: "v-2ddaa4a8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Evil/Doomsayer.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Evil/Executioner.html
+  "v-433634f6": () => import(/* webpackChunkName: "v-433634f6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Evil/Executioner.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Evil/Innocent.html
+  "v-1f1c89c9": () => import(/* webpackChunkName: "v-1f1c89c9" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Evil/Innocent.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Evil/Jester.html
+  "v-3e032824": () => import(/* webpackChunkName: "v-3e032824" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Evil/Jester.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Evil/Masochist.html
+  "v-4a7a7c26": () => import(/* webpackChunkName: "v-4a7a7c26" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Evil/Masochist.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Evil/Seeker.html
+  "v-5a600ed2": () => import(/* webpackChunkName: "v-5a600ed2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Evil/Seeker.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/Agitater.html
+  "v-52d0b864": () => import(/* webpackChunkName: "v-52d0b864" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Agitater.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/Arsonist.html
+  "v-a87f84a8": () => import(/* webpackChunkName: "v-a87f84a8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Arsonist.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/BloodKnight.html
+  "v-50ccce36": () => import(/* webpackChunkName: "v-50ccce36" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/BloodKnight.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/Glitch.html
+  "v-1329bc20": () => import(/* webpackChunkName: "v-1329bc20" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Glitch.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/Infectious.html
+  "v-c70ddc08": () => import(/* webpackChunkName: "v-c70ddc08" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Infectious.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/Jackal.html
+  "v-619c93aa": () => import(/* webpackChunkName: "v-619c93aa" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Jackal.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/Juggernaut.html
+  "v-c98738ea": () => import(/* webpackChunkName: "v-c98738ea" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Juggernaut.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/Occultist.html
+  "v-543525fe": () => import(/* webpackChunkName: "v-543525fe" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Occultist.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/Pelican.html
+  "v-0aa9c142": () => import(/* webpackChunkName: "v-0aa9c142" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Pelican.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/Pickpocket.html
+  "v-6f248b9e": () => import(/* webpackChunkName: "v-6f248b9e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Pickpocket.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/Plaguebearer.html
+  "v-0ee0bffc": () => import(/* webpackChunkName: "v-0ee0bffc" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Plaguebearer.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/SerialKiller.html
+  "v-6ec03af6": () => import(/* webpackChunkName: "v-6ec03af6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/SerialKiller.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/Shade.html
+  "v-74db5bf0": () => import(/* webpackChunkName: "v-74db5bf0" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Shade.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/Shroud.html
+  "v-1d1b2774": () => import(/* webpackChunkName: "v-1d1b2774" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Shroud.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/Stalker.html
+  "v-2241aff1": () => import(/* webpackChunkName: "v-2241aff1" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Stalker.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/Traitor.html
+  "v-0974f1a8": () => import(/* webpackChunkName: "v-0974f1a8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Traitor.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/Virus.html
+  "v-671de120": () => import(/* webpackChunkName: "v-671de120" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Virus.html.js").then(({ data }) => data),
+  // path: /options/Neutrals/Killing/Werewolf.html
+  "v-7a8c747c": () => import(/* webpackChunkName: "v-7a8c747c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Werewolf.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
 }

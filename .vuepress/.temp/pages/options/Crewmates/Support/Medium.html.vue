@@ -7,7 +7,7 @@
 <li>Set the Maximum amount of Mediums that can be in a match</li>
 </ul>
 </li>
-<li>Max number of contacts
+<li>Max number of contacts (ability uses)
 <ul>
 <li>Set how many times the Medium can contact Ghosts</li>
 </ul>
@@ -18,6 +18,11 @@
 <font color=green>ON</font>: the Medium can only communicate with Crewmates</li>
 <li>
 <font color=red>OFF</font>: the Medium can communicate with Crewmates, Impostors, and Neutrals</li>
+</ul>
+</li>
+<li>
+<font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font><ul>
+<li>Set the amount of Ability Uses a Medium gains with each Task completed (0.1 increments)</li>
 </ul>
 </li>
 </ul>

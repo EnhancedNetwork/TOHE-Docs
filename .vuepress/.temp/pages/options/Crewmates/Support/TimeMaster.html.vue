@@ -19,6 +19,16 @@ During the ability duration, the Time Master gains a time shield that protects t
 <li>Set how long the Time Master can stay protected for</li>
 </ul>
 </li>
+<li>(Initial) Max number of Ability Uses
+<ul>
+<li>Set the amount of Ability Uses a Time Master has at the start of the game</li>
+</ul>
+</li>
+<li>
+<font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font><ul>
+<li>Set the amount of Ability Uses a Time Master gains with each Task completed (0.1 increments)</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: TBD</p>

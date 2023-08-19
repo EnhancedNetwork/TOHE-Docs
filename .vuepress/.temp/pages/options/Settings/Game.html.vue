@@ -5,17 +5,8 @@
 <details>
 <summary><font color=#ffffff size=4em>Standard</font></summary>
 <br>Standard gamemode is normal Among Us with the changes of roles through TOHE-R.
+<h3 id="ejection" tabindex="-1"><a class="header-anchor" href="#ejection" aria-hidden="true">#</a> <font size=4em color=#ffeee8>Ejection</font></h3>
 <ul>
-<li>
-<font size=4em color=#ff5b70>Game Master</font><ul>
-<li>
-<font color=green>ON</font>: Host can control the game</li>
-<li>
-<font color=red>OFF</font>: Host cannot control the game</li>
-</ul>
-</li>
-<li>
-<font size=4em color=#ffeee8>Ejection</font><ul>
 <li>Confirm Ejections Mode
 <ul>
 <li>Set how the game will describe ejections
@@ -23,6 +14,42 @@
 <li>None - Ejections will be described as “#### was ejected”</li>
 <li>Team - Ejections will tell you what team the player was on</li>
 <li>Role - Ejections will tell you what role the player was</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Show remaining <font color=red>Impostors</font> on ejects
+<ul>
+<li>
+<font color=green>ON</font>: The game will tell you how many <font color=red>Impostors</font> are left<ul>
+<li>Show remaining <font color=#7f8c8d>Neutral Killers</font> on ejects
+<ul>
+<li>
+<font color=green>ON</font>: The game will tell you how many <font color=#7f8c8d>Neutral Killers</font> are left</li>
+<li>
+<font color=red>OFF</font>: The game will not tell you how many <font color=#7f8c8d>Neutral Killers</font> are left</li>
+</ul>
+</li>
+<li>Show remaining <font color=#663399>Coven</font> members on ejects
+<ul>
+<li>
+<font color=green>ON</font>: The game will tell you how many <font color=#663399>Coven</font> members are left</li>
+<li>
+<font color=red>OFF</font>: The game will not tell you how many <font color=#663399>Coven</font> members are left</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<font color=red>OFF</font>: The game will not tell you how many <font color=red>Impostors</font> are left</li>
+</ul>
+</li>
+<li>Show what team the ejected player's role is on
+<ul>
+<li>
+<font color=green>ON</font>: The game will tell you what team the ejected player's role is on</li>
+<li>
+<font color=red>OFF</font>: The game will not tell you what team the ejected player's role is on</li>
 </ul>
 </li>
 <li>Confirm Egoists on ejection
@@ -42,33 +69,18 @@
 </ul>
 </li>
 </ul>
-</li>
-</ul>
-</li>
-<li>
-<font size=4em color=#13bce9>Maps</font><ul>
+<h3 id="maps" tabindex="-1"><a class="header-anchor" href="#maps" aria-hidden="true">#</a> <font size=4em color=#13bce9>Maps</font></h3>
+<ul>
 <li>Random Maps Mode
 <ul>
 <li>
 <font color=green>ON</font>: Map will be chosen randomly<ul>
-<li>Include The Skeld
+<li>Chance that the map is
 <ul>
-<li>Set the percentage that Skeld will be the chosen Map you play on</li>
-</ul>
-</li>
-<li>Include MIRA HQ
-<ul>
-<li>Set the percentage that MIRA HQ will be the chosen Map you play on</li>
-</ul>
-</li>
-<li>Include Polus
-<ul>
-<li>Set the percentage that Polus will be the chosen Map you play on</li>
-</ul>
-</li>
-<li>Include Airship
-<ul>
-<li>Set the percentage that Airship will be the chosen Map you play on</li>
+<li>Skeld - Set the chance that the map will be Skeld</li>
+<li>Mira HQ - Set the chance that the map will be Mira HQ</li>
+<li>Polus - Set the chance that the map will be Polus</li>
+<li>Airship - Set the chance that the map will be Airship</li>
 </ul>
 </li>
 </ul>
@@ -107,13 +119,12 @@
 </ul>
 </li>
 </ul>
-</li>
-<li>
-<font size=4em color=#f36060>Sabotage</font><ul>
+<h3 id="sabotage" tabindex="-1"><a class="header-anchor" href="#sabotage" aria-hidden="true">#</a> <font size=4em color=#f36060>Sabotage</font></h3>
+<ul>
 <li>Camouflage During Comms Sabotage
 <ul>
 <li>
-<font color=green>ON</font>: when Comms are sabotaged, everyone will turn Gray</li>
+<font color=green>ON</font>: when Comms are sabotaged, everyone will turn into the specified appearance</li>
 <li>
 <font color=red>OFF</font>: Camouflage Comms Sabotage works like it normally would</li>
 </ul>
@@ -179,9 +190,24 @@
 </ul>
 </li>
 </ul>
-</li>
+<h3 id="disable" tabindex="-1"><a class="header-anchor" href="#disable" aria-hidden="true">#</a> <font size=4em color=#ff9999>Disable</font></h3>
+<ul>
+<li>Disable Unnecessary Shield Animations
+<ul>
 <li>
-<font size=4em color=#ff9999>Disable</font><ul>
+<font color=green>ON</font>: Unnecessary animations will be disabled</li>
+<li>
+<font color=red>OFF</font>: All animations will be enabled</li>
+</ul>
+</li>
+<li>Disable Kill Animations on Guesses
+<ul>
+<li>
+<font color=green>ON</font>: Kill animations will be disabled when guessing</li>
+<li>
+<font color=red>OFF</font>: Kill animations will be enabled when guessing</li>
+</ul>
+</li>
 <li>Disable Vanilla Roles
 <ul>
 <li>
@@ -226,6 +252,8 @@
 </li>
 <li>Disable Devices
 <ul>
+<li>
+<font color=green>ON</font>: Devices will be disabled<ul>
 <li>Disable Skeld Devices
 <ul>
 <li>
@@ -254,6 +282,8 @@
 </li>
 <li>Disable MiraHQ Devices
 <ul>
+<li>
+<font color=green>ON</font>: MiraHQ Devices will be disabled<ul>
 <li>Disable Admin
 <ul>
 <li>
@@ -268,6 +298,12 @@
 <font color=green>ON</font>: DoorLog will be disabled</li>
 <li>
 <font color=red>OFF</font>: DoorLog will be enabled</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<font color=red>OFF</font>: MiraHQ Devices will be enabled</li>
 </ul>
 </li>
 <li>Disable Polus Devices
@@ -306,6 +342,8 @@
 </li>
 <li>Disable Airship Devices
 <ul>
+<li>
+<font color=green>ON</font>: Airship Devices will be disabled<ul>
 <li>Disable Cockpit Admin
 <ul>
 <li>
@@ -340,11 +378,15 @@
 </li>
 </ul>
 </li>
+<li>
+<font color=red>OFF</font>: Airship Devices will be enabled</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>Ignore Conditions
 <ul>
-<li>Ignore Impostors
+<li>Ignore <font color=red>Impostors</font>
 <ul>
 <li>
 <font color=green>ON</font>: <font color=red>Impostors</font> conditions will be ignored</li>
@@ -352,7 +394,7 @@
 <font color=red>OFF</font>: <font color=red>Impostors</font> conditions will not be ignored</li>
 </ul>
 </li>
-<li>Ignore Neutrals
+<li>Ignore <font color=#7f8c8d>Neutrals</font>
 <ul>
 <li>
 <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> conditions will be ignored</li>
@@ -360,7 +402,7 @@
 <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> conditions will not be ignored</li>
 </ul>
 </li>
-<li>Ignore Crewmates
+<li>Ignore <font color=#8cffff>Crewmates</font>
 <ul>
 <li>
 <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> conditions will be ignored</li>
@@ -368,14 +410,21 @@
 <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> conditions will not be ignored</li>
 </ul>
 </li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
+<li>Ignore after First Death
+<ul>
 <li>
-<font size=4em color=#93f1f0>Meeting</font><ul>
+<font color=green>ON</font>: Conditions will be ignored after the first death</li>
+<li>
+<font color=red>OFF</font>: Conditions will not be ignored after the first death</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="meeting" tabindex="-1"><a class="header-anchor" href="#meeting" aria-hidden="true">#</a> <font size=4em color=#93f1f0>Meeting</font></h3>
+<ul>
 <li>Sync Buttons Mode
 <ul>
 <li>
@@ -500,9 +549,8 @@
 </ul>
 </li>
 </ul>
-</li>
-<li>
-<font size=4em color=#c1ffd1>Different</font><ul>
+<h3 id="different" tabindex="-1"><a class="header-anchor" href="#different" aria-hidden="true">#</a> <font size=4em color=#c1ffd1>Different</font></h3>
+<ul>
 <li>Fall From Ladders
 <ul>
 <li>
@@ -540,9 +588,8 @@
 </ul>
 </li>
 </ul>
-</li>
-<li>
-<font size=4em color=#d9daff>Ghost</font><ul>
+<h3 id="ghost" tabindex="-1"><a class="header-anchor" href="#ghost" aria-hidden="true">#</a> <font size=4em color=#d9daff>Ghost</font></h3>
+<ul>
 <li>Ghosts Exempt From Tasks
 <ul>
 <li>
@@ -573,8 +620,6 @@
 <font color=green>ON</font>: Ghosts will be able to see the cause of death of other players</li>
 <li>
 <font color=red>OFF</font>: Ghosts will not be able to see the cause of death of other players</li>
-</ul>
-</li>
 </ul>
 </li>
 </ul>

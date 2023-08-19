@@ -17,5 +17,7 @@ Venting while disguised will reveal yourself.
   * Set how long the Chameleon has to wait to disguise
 * Disguise Duration
   * Set how long the Chameleon can stay disguised for
+* <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
+  * Set the amount of Ability Uses a Time Master gains with each Task completed (0.1 increments)
 
 > From: Project Lotus

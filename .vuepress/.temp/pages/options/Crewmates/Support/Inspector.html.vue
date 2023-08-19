@@ -37,6 +37,45 @@ Checking command: <code v-pre>/cp [player id 1] [player id 2]</code><br></p>
 </li>
 </ul>
 </li>
+<li>
+<font color=#00ffff>Bait</font> counts as revealing role if <font color=#00ffff>Bait</font> reveal on first meeting is on<ul>
+<li>
+<font color=green>ON</font>: <font color=#00ffff>Bait</font> will reveal their role if they reveal on the first meeting</li>
+<li>
+<font color=red>OFF</font>: <font color=#00ffff>Bait</font> will not reveal their role if they reveal on the first meeting</li>
+</ul>
+</li>
+<li>
+<font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font><ul>
+<li>Set the amount of Ability Uses an Inspector gains with each Task completed (0.1 increments)</li>
+</ul>
+</li>
+<li>Override Inspector’s Tasks
+<ul>
+<li>
+<font color=green>ON</font>: you can set a different amount of Tasks that a Inspector needs to do</li>
+<li>
+<font color=red>OFF</font>: the Inspector does the same amount of Tasks as anyone else</li>
+</ul>
+</li>
+<li>Inspector has Common Tasks
+<ul>
+<li>Set if the Inspector has Common Tasks
+<ul>
+<li>Amount of Long Tasks for Inspector
+<ul>
+<li>Set the amount of Long Tasks the Inspector will receive</li>
+</ul>
+</li>
+<li>Amount of Short Tasks for Inspector
+<ul>
+<li>Set the amount of Short Tasks the Inspector will receive</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: Parity Cop from Stellar Roles &amp; Coding: <a href="#">ryuk</a></p>

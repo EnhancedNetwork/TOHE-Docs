@@ -14,9 +14,9 @@ As the Deathpact, the targets of your shapeshifting are marked for a deathpact. 
   * Set the Maximum amount of Deathpact that can be in a match
 * Kill Cooldown
   * Set the Deathpact's Kill Cooldown
-* Deathpact Assign Cooldown
+* Death Pact Assign Cooldown
   * Set the Deathpact's Assignment Cooldown
-* Deathpact duration
+* Death Pact duration
   * Set the duration of the pact before they die
 * Number of players in Death Pact
   * Set the number of players to be marked that should meet within the defined period of time
@@ -25,9 +25,9 @@ As the Deathpact, the targets of your shapeshifting are marked for a deathpact. 
   * <font color=red>OFF</font>: the Deathpact will not see arrows pointing to the other players in the Death Pact
 * Reduce vision for players in Death Pact
   * <font color=green>ON</font>: the Deathpact will have their vision reduced
+    * Vision for players in Death Pact
+      * Set the vision for players in Death Pact while the pact is active
   * <font color=red>OFF</font>: the Deathpact will not have their vision reduced
-  * Vision for players in Death Pact
-    * Set the vision for players in Death Pact while the pact is active
 * Kill players in Death Pact on meeting
   * <font color=green>ON</font>: the Deathpact will kill the players in the Death Pact if they don't meet in time
   * <font color=red>OFF</font>: the Deathpact will not kill the players in the Death Pact if they don't meet in time

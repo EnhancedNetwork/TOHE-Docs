@@ -15,5 +15,7 @@ When the Pacifist vents, they will reset the kill cooldown for everyone with a k
   * Set how long a Pacifist needs to wait to Reset everyone's Kill Cooldown
 * Max Number of Ability Uses
   * Set how many times a Pacifist can Reset everyone's Kill Cooldown
+* <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
+  * Set the amount of Ability Uses a Pacifist gains with each Task completed (0.1 increments)
 
 > From: 我若戏命 & Coding: [喜](https://space.bilibili.com/443432765)

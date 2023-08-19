@@ -19,6 +19,8 @@ When the Fortune Teller votes for a player, they will receive a clue towards wha
 * Hide Fortune Teller Votes
   * <font color=green>ON</font>: the Fortune Tellers votes will appear as invisible to players
   * <font color=red>OFF</font>: the Fortune Tellers votes will appear as a normal vote
+* <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
+  * Set the amount of Ability Uses a Fortune Teller gains with each Task completed (0.1 increments)
 * Override Fortune Teller’s Tasks
   * <font color=green>ON</font>: you can set a different amount of Tasks that a Fortune Teller needs to do
   * <font color=red>OFF</font>: the Fortune Teller does the same amount of Tasks as anyone else

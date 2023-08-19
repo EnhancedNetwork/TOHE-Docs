@@ -15,14 +15,14 @@ sidebar:
 
 # Roles
 
-<font size=4em><b>Latest Version 3.0.0 (Dev Build 1)</b></font><br><br>
+<font size=4em><b>Updated as of Version 3.0.0 (Dev Build 2.2)</b></font><br><br>
 
 <center>
 
 [Settings - Custom](/options/settings/Custom.html) | [Settings - System](/options/settings/System.html) <br>
 [Settings - Game](options/settings/Game.html) | [Settings - Game Modifiers](/options/settings/Modifiers.html) <br> 
-[Impostor Roles](/options/settings/Impostors.html) | [Crewmates Roles](/options/settings/Crewmates.html) <br>
-[Neutral Roles](/options/settings/Neutrals.html) | [Add-On Roles](/options/settings/Addons.html) | [Experimental Roles](/options/settings/Experimental.html)
+[Impostor Roles](/options/settings/Impostors.html) | [Neutral Roles](/options/settings/Neutrals.html) | [Coven Roles](/options/settings/Coven.html)<br>
+[Crewmates Roles](/options/settings/Crewmates.html) | [Add-On Roles](/options/settings/Addons.html) | [Experimental Roles](/options/settings/Experimental.html)
 </center>
 
 <table>
@@ -36,6 +36,12 @@ sidebar:
 <td><font color=#ff9ace><b>Add-ons</b></font></td>
 <td>Add-ons that can be added to any role for any player</td>
 <td align="center">37</td>
+</tr>
+
+<tr>
+<td><font color=#663399><b>Coven</b></font> </td>
+<td>Play together and win by killing/voting out all players</td>
+<td align="center">10</td>
 </tr>
 
 <tr>
@@ -59,7 +65,7 @@ sidebar:
 <tr>
 <td><font color=#7c8c8d><b>Neutral</b></font></td>
 <td>Play alone and win via their own win conditions</td>
-<td align="center">48</td>
+<td align="center">38</td>
 </tr>
 
 <tr>

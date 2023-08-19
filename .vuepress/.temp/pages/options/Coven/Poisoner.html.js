@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-52fceb1e\",\"path\":\"/options/Coven/Poisoner.html\",\"title\":\"Poisoner\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Poisoner\",\"prev\":\"Necromancer\",\"next\":\"PotionMaster\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"options/Coven/Poisoner.md\"}")

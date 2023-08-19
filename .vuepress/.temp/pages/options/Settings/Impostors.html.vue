@@ -120,7 +120,7 @@ Below are settings to make the game more balanced based on your lobby's style of
 </ul>
 </li>
 <li>
-<font color=red>Impostors</font> can't sabotage after they die<ul>
+<font color=red>Impostors</font> can't sabotage after they've die<ul>
 <li>
 <font color=red>Impostors</font> can't call any sabotages after they die</li>
 <li>You can turn this <font color=green>ON</font> or <font color=red>OFF</font></li>

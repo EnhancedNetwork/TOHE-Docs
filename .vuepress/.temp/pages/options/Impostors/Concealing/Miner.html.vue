@@ -7,6 +7,16 @@
 <li>Set the Maximum amount of Miners that can be in a match</li>
 </ul>
 </li>
+<li>Shapeshift Duration
+<ul>
+<li>Set the amount of time a Miner can Shapeshift for</li>
+</ul>
+</li>
+<li>Shapeshift Cooldown
+<ul>
+<li>Set the amount of time a Miner has to wait before they can Shapeshift again</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: TOHR &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>

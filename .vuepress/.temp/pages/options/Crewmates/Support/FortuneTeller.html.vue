@@ -28,6 +28,11 @@
 <font color=red>OFF</font>: the Fortune Tellers votes will appear as a normal vote</li>
 </ul>
 </li>
+<li>
+<font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font><ul>
+<li>Set the amount of Ability Uses a Fortune Teller gains with each Task completed (0.1 increments)</li>
+</ul>
+</li>
 <li>Override Fortune Teller’s Tasks
 <ul>
 <li>

@@ -3,16 +3,6 @@ lang: en-US
 title: Neutrals
 prev: Crewmates
 next: Addons
-sidebar: 
-- { text: Custom Settings, link: /options/settings/Custom.html}
-- { text: System Settings, link: /options/settings/System.html}
-- { text: Game Settings, link: /options/settings/Game.html}
-- { text: Game Modifiers, link: /options/settings/Modifiers.html}
-- { text: Impostors, link: /options/settings/Impostors.html}
-- { text: Crewmates, link: /options/settings/Crewmates.html} 
-- { text: Neutrals, link: /options/settings/Neutrals.html}
-- { text: Add-ons, link: /options/settings/Addons.html}
-- { text: Experimental, link: /options/settings/Experimental.html}
 ---
 
 # <font color="#7f8c8d">👨‍🚀 <b>Faction: Neutral</b></font> <Badge text="Total: 48" type="tip" vertical="middle"/>
@@ -60,10 +50,6 @@ sidebar:
 ### <font color=#d4af37><b>Chaos</b></font>
 ---
 [Collector](/options/Neutrals/Chaos/Collector.html) | [Cultist](/options/Neutrals/Chaos/Cultist.html) | [Phantom](/options/Neutrals/Chaos/Phantom.html) | [Pirate](/options/Neutrals/Chaos/Pirate.html) | [Provocateur](/options/Neutrals/Chaos/Provocateur.html) | [Revolutionist](/options/Neutrals/Chaos/Revolutionist.html) | [Soul Collector](/options/Neutrals/Chaos/SoulCollector.html) | [Terrorist](/options/Neutrals/Chaos/Terrorist.html) | [Vector](/options/Neutrals/Chaos/Vector.html) | [Vulture](/options/Neutrals/Chaos/Vulture.html) | [Workaholic](/options/Neutrals/Chaos/Workaholic.html)
-
-### <font color=#663399><b>Coven</b></font>
----
-[Banshee](/options/Neutrals/Coven/Banshee.html) | [Coven Leader](/options/Neutrals/Coven/CovenLeader.html) | [Hex Master](/options/Neutrals/Coven/HexMaster.html) | [Jinx](/options/Neutrals/Coven/Jinx.html) | [Medusa](/options/Neutrals/Coven/Medusa.html) | [Necromancer](/options/Neutrals/Coven/Necromancer.html) | [Poisoner](/options/Neutrals/Coven/Poisoner.html) | [Potion Master](/options/Neutrals/Coven/PotionMaster.html) | [Ritualist](/options/Neutrals/Coven/Ritualist.html) | [Wraith](/options/Neutrals/Coven/Wraith.html)
 
 ### <font color=#912900><b>Evil</b></font>
 ---

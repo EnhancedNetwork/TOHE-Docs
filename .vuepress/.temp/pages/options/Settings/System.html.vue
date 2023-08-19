@@ -6,12 +6,14 @@
 <li>Swap and choose your saved lobby settings</li>
 </ul>
 </li>
-<li>Kick players whose level is lower than
+<li>
+<p>Kick players whose level is lower than</p>
 <ul>
 <li>Set the minimum level required to play</li>
 </ul>
 </li>
-<li>Kick mobile players
+<li>
+<p>Kick mobile players</p>
 <ul>
 <li>
 <font color=green>ON</font>: Mobile players cannot play</li>
@@ -19,7 +21,8 @@
 <font color=red>OFF</font>: Mobile players can play</li>
 </ul>
 </li>
-<li>Kick players who are not logged in
+<li>
+<p>Kick players who are not logged in</p>
 <ul>
 <li>
 <font color=green>ON</font>: Players without a registered account cannot play</li>
@@ -27,7 +30,8 @@
 <font color=red>OFF</font>: Players without a registered account can play</li>
 </ul>
 </li>
-<li>Apply DenyName List
+<li>
+<p>Apply DenyName List</p>
 <ul>
 <li>
 <font color=green>ON</font>: Players using names in the DenyName.txt document cannot play</li>
@@ -35,7 +39,8 @@
 <font color=red>OFF</font>: All names are allowed to play</li>
 </ul>
 </li>
-<li>Apply BanList
+<li>
+<p>Apply BanList</p>
 <ul>
 <li>
 <font color=green>ON</font>: Players that have been banned in previous lobbies cannot join new lobbies by the host</li>
@@ -43,7 +48,8 @@
 <font color=red>OFF</font>: Players that have been banned in previous lobbies can rejoin new lobbies by the host</li>
 </ul>
 </li>
-<li>Apply Moderator List
+<li>
+<p>Apply Moderator List</p>
 <ul>
 <li>
 <font color=green>ON</font>: Players that have been added to the Host’s Moderator List will be given Moderator Permissions in the lobby</li>
@@ -51,14 +57,11 @@
 <font color=red>OFF</font>: Players that have been added to the Host’s Moderator List will not be given Moderator Permissions in the lobby</li>
 </ul>
 </li>
-<li>Kick players that say start
+<li>
+<p>Kick players that say start</p>
 <ul>
 <li>
-<font color=green>ON</font>: Players that type “start, Start, begin, etc” will be kicked from the lobby</li>
-<li>
-<font color=red>OFF</font>: Players will be able to say “start, Start, begin, etc” without being kicked</li>
-</ul>
-</li>
+<font color=green>ON</font>: Players that type “start, Start, begin, etc” will be kicked from the lobby<ul>
 <li>Number of warnings before kick
 <ul>
 <li>Can set how many warnings a player gets/how many times a player can say start before they get kicked</li>
@@ -72,33 +75,51 @@
 <font color=red>OFF</font>: Players can join even when kicked</li>
 </ul>
 </li>
-<li>Kick players who write banned words
-<ul>
-<li>
-<font color=green>ON</font>: Players that type banned words from BanWords.txt will be kicked from the lobby</li>
-<li>
-<font color=red>OFF</font>: Players can say anything without being kicked</li>
 </ul>
 </li>
-<li>Number of warnings for banned words
-<ul>
-<li>Can set how many warnings a player gets/how many times a player can say banned words before they get kicked</li>
+<li>
+<font color=red>OFF</font>: Players will be able to say “start, Start, begin, etc” without being kicked</li>
 </ul>
 </li>
-<li>Block a player after they’re kicked
+<li>
+<p>Minutes to wait before auto-starting</p>
 <ul>
-<li>
-<font color=green>ON</font>: Players that get kicked from spamming banned words will be auto-blocked</li>
-<li>
-<font color=red>OFF</font>: Players just get kicked as normal</li>
+<li>Set how many minutes the host has to wait before the game auto-starts</li>
 </ul>
 </li>
-<li>Warning to those who write banned words
+<li>
+<p>Force start when Lobby Timer (in minutes) goes below</p>
+<ul>
+<li>Set the time when the game will auto-start</li>
+</ul>
+</li>
+<li>
+<p>Minimum player threshold to auto-start</p>
+<ul>
+<li>Set the minimum amount of players required to auto-start the game</li>
+</ul>
+</li>
+<li>
+<p>Initial countdown for auto-starting</p>
+<ul>
+<li>Set the countdown for auto-starting the game</li>
+</ul>
+</li>
+<li>
+<p>Auto Play Again</p>
 <ul>
 <li>
-<font color=green>ON</font>: Players who write banned words will receive a warning for typing/sending it</li>
+<font color=green>ON</font>: The game will auto-start again after the game ends</li>
 <li>
-<font color=red>OFF</font>: Players don’t receive this warning</li>
+<font color=red>OFF</font>: The game will not auto-start again after the game ends</li>
+</ul>
+</li>
+<li>
+<font color=#0000ff>Show lobby code in Discord Status</font><ul>
+<li>
+<font color=green>ON</font>: The lobby code will be displayed in your Discord Status (Only works if you have Discord Rich Presence enabled)</li>
+<li>
+<font color=red>OFF</font>: The lobby code will not be displayed in your Discord Status</li>
 </ul>
 </li>
 <li>
@@ -117,7 +138,16 @@
 <font color=red>OFF</font>: Game will continue as before</li>
 </ul>
 </li>
-<li>When a cheating player is found
+<li>
+<font color=#ff00ff>Remove pets at dead players</font><ul>
+<li>
+<font color=green>ON</font>: Pets will be removed from dead players</li>
+<li>
+<font color=red>OFF</font>: Pets will not be removed from dead players</li>
+</ul>
+</li>
+<li>
+<p>When a cheating player is found</p>
 <ul>
 <li>You can choose an action to take when a player is found cheating
 <ul>
@@ -129,7 +159,8 @@
 </li>
 </ul>
 </li>
-<li>Display Kill-log
+<li>
+<p>Display Kill-log</p>
 <ul>
 <li>
 <font color=green>ON</font>: Kill-log of the previous round will be displayed once people enter the lobby</li>
@@ -137,7 +168,8 @@
 <font color=red>OFF</font>: Kill-log will not automatically be displayed. (People can still <code v-pre>/l</code>)</li>
 </ul>
 </li>
-<li>Display Last Roles
+<li>
+<p>Display Last Roles</p>
 <ul>
 <li>
 <font color=green>ON</font>: Everyone's roles of the previous round will be displayed once people enter the lobby</li>
@@ -145,7 +177,8 @@
 <font color=red>OFF</font>: Roles will not automatically be displayed. (People can still <code v-pre>/l</code>)</li>
 </ul>
 </li>
-<li>Auto Display Last Result
+<li>
+<p>Auto Display Last Result</p>
 <ul>
 <li>
 <font color=green>ON</font>: Last Results of the previous round will be displayed once people enter the lobby</li>
@@ -153,7 +186,8 @@
 <font color=red>OFF</font>: Last Results will not automatically be displayed. (People can still <code v-pre>/l</code>)</li>
 </ul>
 </li>
-<li>Suffix
+<li>
+<p>Suffix</p>
 <ul>
 <li>Change the Suffix under Host name</li>
 <li>You can choose between:
@@ -166,11 +200,13 @@
 <li>Original Name - Displays your Among Us Display Name</li>
 <li>Don’t kill me - Displays the words “Don’t kill me” below your name</li>
 <li>No phones - Displays “No phones” below your name</li>
+<li>Auto-Host - Displays “Auto-Host” below your name</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Hide Game Settings
+<li>
+<p>Hide Game Settings</p>
 <ul>
 <li>
 <font color=green>ON</font>: you won't see what roles are enabled/disabled</li>
@@ -178,15 +214,17 @@
 <font color=red>OFF</font>: you can see what roles are enabled/disabled like usual</li>
 </ul>
 </li>
-<li>Enable only custom /n messages
+<li>
+<p>Enable only custom <code v-pre>/n</code> messages</p>
 <ul>
 <li>
-<font color=green>ON</font>: you can only use custom /n messages that are created by the host</li>
+<font color=green>ON</font>: you can only use custom <code v-pre>/n</code> messages that are created by the host</li>
 <li>
-<font color=red>OFF</font>: you can use the default /n messages created by the mod</li>
+<font color=red>OFF</font>: you can use the default <code v-pre>/n</code> messages created by the mod</li>
 </ul>
 </li>
-<li>Players can use the <code v-pre>/color</code> command:
+<li>
+<p>Players can use the <code v-pre>/color</code> command</p>
 <ul>
 <li>
 <font color=green>ON</font>: players can <code v-pre>/color</code> to change their Bean Color</li>
@@ -194,7 +232,8 @@
 <font color=red>OFF</font>: players cannot change it with the command and have to do it normally</li>
 </ul>
 </li>
-<li>Player Name Mode
+<li>
+<p>Player Name Mode</p>
 <ul>
 <li>This is how the player’s name is displayed in game. You can choose between:
 <ul>
@@ -205,7 +244,8 @@
 </li>
 </ul>
 </li>
-<li>Disable Emoji in names
+<li>
+<p>Disable Emoji in names</p>
 <ul>
 <li>
 <font color=green>ON</font>: players cannot use emoji in their names</li>
@@ -213,7 +253,8 @@
 <font color=red>OFF</font>: players can use emoji in their names</li>
 </ul>
 </li>
-<li>Show Role Info to Unmodded Clients Round 1
+<li>
+<p>Show Role Info to Unmodded Clients Round 1</p>
 <ul>
 <li>
 <font color=green>ON</font>: Info about each User's role is sent to them Round 1</li>
@@ -221,7 +262,8 @@
 <font color=red>OFF</font>: Users have to manually type /m to check their role info</li>
 </ul>
 </li>
-<li>Show Role Descriptions to Unmodded Clients at First Meeting
+<li>
+<p>Show Role Descriptions to Unmodded Clients at First Meeting</p>
 <ul>
 <li>
 <font color=green>ON</font>: descriptions about each User's role is sent to them on the First Meeting</li>
@@ -245,7 +287,8 @@
 <font color=red>OFF</font>: the console minimizes during Hosting</li>
 </ul>
 </li>
-<li>Role Assigning Algorithm
+<li>
+<p>Role Assigning Algorithm</p>
 <ul>
 <li>These just change how roles are randomly assigned. You can choose between:
 <ul>
@@ -260,10 +303,19 @@
 </li>
 <li>
 <font color=#ffc0cb>Camouflage Appearance</font><ul>
+<li>Set the appearance of how Camouflage looks when communications are sabotaged
+<ul>
+<li>Default - Everyone appears grey</li>
 <li>
-<font color=green>ON</font>: When Comms are sabotaged, everyone will turn into the defined skin (Can mess with code to set to a different outfit) </li>
+<font color=#ffff00>Host</font> - Everyone appears as the host's skin</li>
 <li>
-<font color=red>OFF</font>: Camouflage Comms Sabotage works like it normally would</li>
+<font color=#ffc0cb>KARPED1EM</font> - Everyone appears as KARPED1EM's skin (the original creator of the mod)</li>
+<li>
+<font color=#6c2b3d>Loonie</font> - Everyone appears as Loonie's skin (the current maintainer of the mod)</li>
+<li>Lauryn - Everyone appears as Lauryn's skin (the current web developer's girlfriend)</li>
+<li>Moe - Everyone appears as Moe's skin (the current web developer)</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>

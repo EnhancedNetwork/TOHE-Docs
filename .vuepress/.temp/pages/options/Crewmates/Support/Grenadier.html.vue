@@ -1,4 +1,4 @@
-<template><div><h1 id="💣-grenadier" tabindex="-1"><a class="header-anchor" href="#💣-grenadier" aria-hidden="true">#</a> <font color="#ff0000">💣 <b>Grenadier</b></font> <Badge text="Support" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="💣-grenadier" tabindex="-1"><a class="header-anchor" href="#💣-grenadier" aria-hidden="true">#</a> <font color="#3c4a16">💣 <b>Grenadier</b></font> <Badge text="Support" type="tip" vertical="middle"/></h1>
 <hr>
 <p>The Grenadier can vent to Flashbang and hinder Non-Crew Vision (unless Mad Grenadier) and will see a shield animation on their body as a reminder.</p>
 <ul>
@@ -28,6 +28,16 @@
 <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> will be affected by the Grenadier Flash</li>
 <li>
 <font color=red>OFF</font>: only <font color=red>Impostors</font> will be affected</li>
+</ul>
+</li>
+<li>(Initial) Max number of Grenades
+<ul>
+<li>Set the amount of Grenades a Grenadier has at the start of the game</li>
+</ul>
+</li>
+<li>
+<font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font><ul>
+<li>Set the amount of Grenades a Grenadier gains with each Task completed (0.1 increments)</li>
 </ul>
 </li>
 </ul>

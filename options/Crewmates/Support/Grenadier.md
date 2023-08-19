@@ -5,7 +5,7 @@ prev: FortuneTeller
 next: Inspector
 ---
 
-# <font color="#ff0000">💣 <b>Grenadier</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#3c4a16">💣 <b>Grenadier</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 The Grenadier can vent to Flashbang and hinder Non-Crew Vision (unless Mad Grenadier) and will see a shield animation on their body as a reminder.
@@ -20,5 +20,9 @@ The Grenadier can vent to Flashbang and hinder Non-Crew Vision (unless Mad Grena
 * Can affect Neutrals
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> will be affected by the Grenadier Flash
   * <font color=red>OFF</font>: only <font color=red>Impostors</font> will be affected
+* (Initial) Max number of Grenades
+  * Set the amount of Grenades a Grenadier has at the start of the game
+* <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
+  * Set the amount of Grenades a Grenadier gains with each Task completed (0.1 increments)
 
 > From: TOHR & Coding: [NCSIMON](https://github.com/NCSIMON)

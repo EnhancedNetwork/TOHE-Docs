@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6e83385c","path":"/options/Coven/Medusa.html","title":"Medusa","lang":"en-US","frontmatter":{"lang":"en-US","title":"Medusa","prev":"Jinx","next":"Necromancer"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"options/Coven/Medusa.md"}');export{e as data};

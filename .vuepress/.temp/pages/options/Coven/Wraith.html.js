@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-4ca9b29c\",\"path\":\"/options/Coven/Wraith.html\",\"title\":\"Wraith\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Wraith\",\"prev\":\"Ritualist\",\"next\":\"/options/settings/Coven.html\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"options/Coven/Wraith.md\"}")

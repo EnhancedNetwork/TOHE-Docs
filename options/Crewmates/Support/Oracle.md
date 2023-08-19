@@ -16,5 +16,12 @@ When you vote for a Player, you can see if they are a Crewmate, Neutral, or Impo
 * Hide Oracle’s vote
   * <font color=green>ON</font>: Oracle's votes will not be shown in the meeting
   * <font color=red>OFF</font>: Oracle's votes will be shown as usual
+* Chance of showing incorrect result
+  * Set the chance of Oracle showing an incorrect result
+* <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
+  * Set the amount of Ability Uses an Oracle gains with each Task completed (0.1 increments)
+* Oracle checks add-ons
+  * <font color=green>ON</font>: Oracle will check if the player has any add-ons
+  * <font color=red>OFF</font>: Oracle will not check if the player has any add-ons
 
 > From: Coding: [Loonie Toons](https://github.com/Loonie-Toons)

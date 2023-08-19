@@ -559,8 +559,8 @@
 <font color=red>OFF</font>: Guesser Mode will be disabled</li>
 </ul>
 </li>
-<li>Roles and Add-ons for Guesser Mode
-<ul>
+</ul>
+<font side=4em color=#ffeb04>Roles and Add-ons for Guesser Mode</font><ul>
 <li>
 <font size=3.5em color=#baaae9><b>Onbound</b></font><ul>
 <li>Max
@@ -595,8 +595,6 @@
 <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become Onbound</li>
 <li>
 <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become Onbound</li>
-</ul>
-</li>
 </ul>
 </li>
 </ul>

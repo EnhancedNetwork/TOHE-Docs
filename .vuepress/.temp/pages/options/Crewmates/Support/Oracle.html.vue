@@ -20,6 +20,24 @@
 <font color=red>OFF</font>: Oracle's votes will be shown as usual</li>
 </ul>
 </li>
+<li>Chance of showing incorrect result
+<ul>
+<li>Set the chance of Oracle showing an incorrect result</li>
+</ul>
+</li>
+<li>
+<font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font><ul>
+<li>Set the amount of Ability Uses an Oracle gains with each Task completed (0.1 increments)</li>
+</ul>
+</li>
+<li>Oracle checks add-ons
+<ul>
+<li>
+<font color=green>ON</font>: Oracle will check if the player has any add-ons</li>
+<li>
+<font color=red>OFF</font>: Oracle will not check if the player has any add-ons</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: Coding: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">Loonie Toons<ExternalLinkIcon/></a></p>

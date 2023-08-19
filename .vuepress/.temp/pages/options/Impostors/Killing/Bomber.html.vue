@@ -15,9 +15,17 @@
 <li>Can Kill
 <ul>
 <li>
-<font color=green>ON</font>: Bomber can kill normally</li>
+<font color=green>ON</font>: Bomber can kill normally<ul>
+<li>Kill Cooldown - Set the kill cooldown for the Bomber</li>
+</ul>
+</li>
 <li>
 <font color=red>OFF</font>: Bomber can only kill by bombing</li>
+</ul>
+</li>
+<li>Bomb Cooldown
+<ul>
+<li>Set how long the Bomber needs to wait to bomb</li>
 </ul>
 </li>
 <li>
@@ -36,13 +44,8 @@
 <font color=red>OFF</font>: <font color=red>Bomber</font> dies to the bomb</li>
 </ul>
 </li>
-<li>Bomb Cooldown
-<ul>
-<li>Set how long the Bomber needs to wait to bomb</li>
-</ul>
-</li>
 <li>
-<font color=yellow>(Hidden Role) Nuker - Has a % chance to replace the Terrorist</font><ul>
+<font color=yellow>(Hidden Role) Nuker - Has a % chance to replace the Bomber</font><ul>
 <li>Nuke Cooldown
 <ul>
 <li>Set how long the Nuker needs to wait to nuke</li>
@@ -53,7 +56,6 @@
 <li>Set how big a nuke's radius is</li>
 </ul>
 </li>
-<li>You must have “Disable Hidden Roles” toggled <font color=red>OFF</font> for this to have a chance to appear</li>
 </ul>
 </li>
 </ul>

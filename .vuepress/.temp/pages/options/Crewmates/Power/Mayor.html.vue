@@ -41,6 +41,32 @@
 <font color=red>OFF</font>: the Mayor will not be revealed to anyone at the beginning of the game</li>
 </ul>
 </li>
+<li>Override Mayor's Tasks
+<ul>
+<li>
+<font color=green>ON</font>: you can set a different amount of Tasks that a Mayor needs to do</li>
+<li>
+<font color=red>OFF</font>: the Mayor does the same amount of Tasks as anyone else</li>
+</ul>
+</li>
+<li>Mayor has Common Tasks
+<ul>
+<li>Set if the Mayor has Common Tasks
+<ul>
+<li>Amount of Long Tasks for Mayor
+<ul>
+<li>Set the amount of Long Tasks the Mayor will receive</li>
+</ul>
+</li>
+<li>Amount of Short Tasks for Mayor
+<ul>
+<li>Set the amount of Short Tasks the Mayor will receive</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: TOH</p>

@@ -2,7 +2,7 @@
 lang: en-US
 title: Inspector
 prev: Grenadier
-next: Mechanic
+next: Lighter
 ---
 
 # <font color="#0d57af">🔍 <b>Inspector</b></font> <Badge text="Support" type="tip" vertical="middle"/>
@@ -24,5 +24,19 @@ Checking command: `/cp [player id 1] [player id 2]`<br>
   * Set if the Egoist counts as:
     * Original
     * Neutral
+* <font color=#00ffff>Bait</font> counts as revealing role if <font color=#00ffff>Bait</font> reveal on first meeting is on
+  * <font color=green>ON</font>: <font color=#00ffff>Bait</font> will reveal their role if they reveal on the first meeting
+  * <font color=red>OFF</font>: <font color=#00ffff>Bait</font> will not reveal their role if they reveal on the first meeting
+* <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
+  * Set the amount of Ability Uses an Inspector gains with each Task completed (0.1 increments)
+* Override Inspector’s Tasks
+  * <font color=green>ON</font>: you can set a different amount of Tasks that a Inspector needs to do
+  * <font color=red>OFF</font>: the Inspector does the same amount of Tasks as anyone else
+* Inspector has Common Tasks
+  * Set if the Inspector has Common Tasks
+    * Amount of Long Tasks for Inspector
+      * Set the amount of Long Tasks the Inspector will receive
+    * Amount of Short Tasks for Inspector
+      * Set the amount of Short Tasks the Inspector will receive
 
 > From: Parity Cop from Stellar Roles & Coding: [ryuk](#)

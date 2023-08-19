@@ -17,6 +17,11 @@
 <li>Set how many times a Pacifist can Reset everyone's Kill Cooldown</li>
 </ul>
 </li>
+<li>
+<font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font><ul>
+<li>Set the amount of Ability Uses a Pacifist gains with each Task completed (0.1 increments)</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: 我若戏命 &amp; Coding: <a href="https://space.bilibili.com/443432765" target="_blank" rel="noopener noreferrer">喜<ExternalLinkIcon/></a></p>

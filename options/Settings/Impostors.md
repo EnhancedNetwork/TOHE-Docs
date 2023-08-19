@@ -3,16 +3,6 @@ lang: en-US
 title: Impostors
 prev: Modifiers
 next: Crewmates
-sidebar: 
-- { text: Custom Settings, link: /options/settings/Custom.html}
-- { text: System Settings, link: /options/settings/System.html}
-- { text: Game Settings, link: /options/settings/Game.html}
-- { text: Game Modifiers, link: /options/settings/Modifiers.html}
-- { text: Impostors, link: /options/settings/Impostors.html}
-- { text: Crewmates, link: /options/settings/Crewmates.html} 
-- { text: Neutrals, link: /options/settings/Neutrals.html}
-- { text: Add-ons, link: /options/settings/Addons.html}
-- { text: Experimental, link: /options/settings/Experimental.html}
 ---
 
 # <font color=red>🔴 <b>Faction: Impostor</b></font> <Badge text="Total: 50" type="tip" vertical="middle"/>
@@ -120,7 +110,7 @@ Below are settings to make the game more balanced based on your lobby's style of
 * Default Shapeshift Cooldown
   * The default cooldown for any <font color=red>Impostor</font> with the ability to shapeshift
   * From 5 (minumum) to 995 (maximum) seconds with 5 seconds intervals
-* <font color=red>Impostors</font> can't sabotage after they die
+* <font color=red>Impostors</font> can't sabotage after they've die
   * <font color=red>Impostors</font> can't call any sabotages after they die
   * You can turn this <font color=green>ON</font> or <font color=red>OFF</font>
 </details>

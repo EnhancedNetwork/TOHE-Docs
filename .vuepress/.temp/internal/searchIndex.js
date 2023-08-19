@@ -256,6 +256,76 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Banshee",
+    "headers": [],
+    "path": "/options/Coven/Banshee.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Coven Leader",
+    "headers": [],
+    "path": "/options/Coven/CovenLeader.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hex Master",
+    "headers": [],
+    "path": "/options/Coven/HexMaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Jinx",
+    "headers": [],
+    "path": "/options/Coven/Jinx.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Medusa",
+    "headers": [],
+    "path": "/options/Coven/Medusa.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Necromancer",
+    "headers": [],
+    "path": "/options/Coven/Necromancer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Poisoner",
+    "headers": [],
+    "path": "/options/Coven/Poisoner.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Potion Master",
+    "headers": [],
+    "path": "/options/Coven/PotionMaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Ritualist",
+    "headers": [],
+    "path": "/options/Coven/Ritualist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Wraith",
+    "headers": [],
+    "path": "/options/Coven/Wraith.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Add-ons",
     "headers": [
       {
@@ -288,6 +358,13 @@ export const searchIndex = [
       }
     ],
     "path": "/options/Settings/Addons.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Coven",
+    "headers": [],
+    "path": "/options/Settings/Coven.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -365,7 +442,57 @@ export const searchIndex = [
   },
   {
     "title": "Game Settings",
-    "headers": [],
+    "headers": [
+      {
+        "level": 3,
+        "title": "Ejection",
+        "slug": "ejection",
+        "link": "#ejection",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Maps",
+        "slug": "maps",
+        "link": "#maps",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Sabotage",
+        "slug": "sabotage",
+        "link": "#sabotage",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Disable",
+        "slug": "disable",
+        "link": "#disable",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Meeting",
+        "slug": "meeting",
+        "link": "#meeting",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Different",
+        "slug": "different",
+        "link": "#different",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Ghost",
+        "slug": "ghost",
+        "link": "#ghost",
+        "children": []
+      }
+    ],
     "path": "/options/Settings/Game.html",
     "pathLocale": "/",
     "extraFields": []
@@ -435,13 +562,6 @@ export const searchIndex = [
         "title": "Chaos",
         "slug": "chaos",
         "link": "#chaos",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Coven",
-        "slug": "coven",
-        "link": "#coven",
         "children": []
       },
       {
@@ -849,6 +969,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Jailor",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Jailor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Knight",
     "headers": [],
     "path": "/options/Crewmates/Killing/Knight.html",
@@ -887,6 +1014,13 @@ export const searchIndex = [
     "title": "Vigilante",
     "headers": [],
     "path": "/options/Crewmates/Killing/Vigilante.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Witness",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Witness.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1013,6 +1147,13 @@ export const searchIndex = [
     "title": "Inspector",
     "headers": [],
     "path": "/options/Crewmates/Support/Inspector.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lighter",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Lighter.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1220,398 +1361,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Amnesiac",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Amnesiac.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Follower",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Follower.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hater",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Hater.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lawyer",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Lawyer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Maverick",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Maverick.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Opportunist",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Opportunist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pursuer",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Pursuer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Shaman",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Shaman.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Witch",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Witch.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Collector",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Collector.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Cultist",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Cultist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Phantom",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Phantom.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pirate",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Pirate.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Provocateur",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Provocateur.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Revolutionist",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Revolutionist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Soul Collector",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/SoulCollector.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Terrorist",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Terrorist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vector",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Vector.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vulture",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Vulture.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Workaholic",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Workaholic.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Banshee",
-    "headers": [],
-    "path": "/options/Neutrals/Coven/Banshee.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Coven Leader",
-    "headers": [],
-    "path": "/options/Neutrals/Coven/CovenLeader.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hex Master",
-    "headers": [],
-    "path": "/options/Neutrals/Coven/HexMaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Jinx",
-    "headers": [],
-    "path": "/options/Neutrals/Coven/Jinx.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Medusa",
-    "headers": [],
-    "path": "/options/Neutrals/Coven/Medusa.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Necromancer",
-    "headers": [],
-    "path": "/options/Neutrals/Coven/Necromancer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Poisoner",
-    "headers": [],
-    "path": "/options/Neutrals/Coven/Poisoner.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Potion Master",
-    "headers": [],
-    "path": "/options/Neutrals/Coven/PotionMaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Ritualist",
-    "headers": [],
-    "path": "/options/Neutrals/Coven/Ritualist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Wraith",
-    "headers": [],
-    "path": "/options/Neutrals/Coven/Wraith.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Cursed Soul",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/CursedSoul.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Demon",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Demon.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Doomsayer",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Doomsayer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Executioner",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Executioner.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Innocent",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Innocent.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Jester",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Jester.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Masochist",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Masochist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Seeker",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Seeker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Agitater",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Agitater.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Arsonist",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Arsonist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Blood Knight",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/BloodKnight.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Glitch",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Glitch.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Infectious",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Infectious.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Jackal",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Jackal.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Juggernaut",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Juggernaut.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Occultist",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Occultist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pelican",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Pelican.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pickpocket",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Pickpocket.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Plaguebearer",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Plaguebearer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Serial Killer",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/SerialKiller.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Shade",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Shade.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Shroud",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Shroud.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Stalker",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Stalker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Traitor",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Traitor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Virus",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Virus.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Werewolf",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Werewolf.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Escapist",
     "headers": [],
     "path": "/options/Impostors/Concealing/Escapist.html",
@@ -1720,6 +1469,20 @@ export const searchIndex = [
     "title": "Twister",
     "headers": [],
     "path": "/options/Impostors/Hindering/Twister.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Crewposter",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/Crewposter.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Parasite",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/Parasite.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1955,16 +1718,345 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Crewposter",
+    "title": "Amnesiac",
     "headers": [],
-    "path": "/options/Impostors/Madmate/Crewposter.html",
+    "path": "/options/Neutrals/Benign/Amnesiac.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Parasite",
+    "title": "Follower",
     "headers": [],
-    "path": "/options/Impostors/Madmate/Parasite.html",
+    "path": "/options/Neutrals/Benign/Follower.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hater",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Hater.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lawyer",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Lawyer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Maverick",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Maverick.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Opportunist",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Opportunist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Pursuer",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Pursuer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Romantic",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Romantic.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Ruthless Romantic",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/RomanticRuthless.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vengeful Romantic",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/RomanticVengeful.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Shaman",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Shaman.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Witch",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Witch.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Collector",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Collector.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Cultist",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Cultist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Phantom",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Phantom.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Pirate",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Pirate.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Provocateur",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Provocateur.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Revolutionist",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Revolutionist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Soul Collector",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/SoulCollector.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Terrorist",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Terrorist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vector",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Vector.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vulture",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Vulture.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Workaholic",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Workaholic.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Cursed Soul",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/CursedSoul.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Demon",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Demon.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Doomsayer",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Doomsayer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Executioner",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Executioner.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Innocent",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Innocent.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Jester",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Jester.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Masochist",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Masochist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Seeker",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Seeker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Agitater",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Agitater.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Arsonist",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Arsonist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Blood Knight",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/BloodKnight.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Glitch",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Glitch.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Infectious",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Infectious.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Jackal",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Jackal.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Juggernaut",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Juggernaut.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Occultist",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Occultist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Pelican",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Pelican.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Pickpocket",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Pickpocket.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Plaguebearer",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Plaguebearer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Serial Killer",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/SerialKiller.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Shade",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Shade.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Shroud",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Shroud.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Stalker",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Stalker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Traitor",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Traitor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Virus",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Virus.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Werewolf",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Werewolf.html",
     "pathLocale": "/",
     "extraFields": []
   },

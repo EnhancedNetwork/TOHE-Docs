@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-58d7520a\",\"path\":\"/options/Coven/Banshee.html\",\"title\":\"Banshee\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Banshee\",\"prev\":\"/options/settings/Coven.html\",\"next\":\"CovenLeader\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"options/Coven/Banshee.md\"}")

@@ -15,19 +15,12 @@ Additionally, you do not have access to guessing and you suicide after miscopyin
 <li>Set how long the Copycat needs to wait to use their ability</li>
 </ul>
 </li>
-<li>Copycat can kill when miscopy
+<li>Can copy evil variants of crew roles
 <ul>
 <li>
-<font color=green>ON</font>: the Copycat will kill when they try to copy a non-crew or rascal<ul>
-<li>Number of miscopy until suicide
-<ul>
-<li>Set the number of miscopies the Copycat can do before they suicide</li>
-</ul>
-</li>
-</ul>
-</li>
+<font color=green>ON</font>: Copycat will be able to copy evil versions of crewmate roles</li>
 <li>
-<font color=red>OFF</font>: the Copycat will not kill when they miscopy</li>
+<font color=red>OFF</font>: Copycat will not be able to copy evil versions of crewmate roles</li>
 </ul>
 </li>
 </ul>

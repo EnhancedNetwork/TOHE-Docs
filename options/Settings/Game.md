@@ -3,16 +3,6 @@ lang: en-US
 title: Game Settings
 prev: System
 next: Modifiers
-sidebar: 
-- { text: Custom Settings, link: /options/settings/Custom.html}
-- { text: System Settings, link: /options/settings/System.html}
-- { text: Game Settings, link: /options/settings/Game.html}
-- { text: Game Modifiers, link: /options/settings/Modifiers.html}
-- { text: Impostors, link: /options/settings/Impostors.html}
-- { text: Crewmates, link: /options/settings/Crewmates.html} 
-- { text: Neutrals, link: /options/settings/Neutrals.html}
-- { text: Add-ons, link: /options/settings/Addons.html}
-- { text: Experimental, link: /options/settings/Experimental.html}
 ---
 
 # <font color=#ffc0cb>🎮 Game Settings</font>
@@ -25,32 +15,39 @@ sidebar:
 <summary><font color=#ffffff size=4em>Standard</font></summary>
 <br>Standard gamemode is normal Among Us with the changes of roles through TOHE-R.
 
-* <font size=4em color=#ff5b70>Game Master</font>
-  * <font color=green>ON</font>: Host can control the game
-  * <font color=red>OFF</font>: Host cannot control the game
-* <font size=4em color=#ffeee8>Ejection</font>
+### <font size=4em color=#ffeee8>Ejection</font>
   * Confirm Ejections Mode
     * Set how the game will describe ejections
       * None - Ejections will be described as “#### was ejected”
       * Team - Ejections will tell you what team the player was on
       * Role - Ejections will tell you what role the player was
-    * Confirm Egoists on ejection
-      * <font color=green>ON</font>: Egoists will be confirmed on ejection
-      * <font color=red>OFF</font>: Egoists will not be confirmed on ejection
-    * Confirm Lovers on ejection
-      * <font color=green>ON</font>: Lovers will be confirmed on ejection
-      * <font color=red>OFF</font>: Lovers will not be confirmed on ejection
-* <font size=4em color=#13bce9>Maps</font>
+  * Show remaining <font color=red>Impostors</font> on ejects
+    * <font color=green>ON</font>: The game will tell you how many <font color=red>Impostors</font> are left
+      * Show remaining <font color=#7f8c8d>Neutral Killers</font> on ejects
+        * <font color=green>ON</font>: The game will tell you how many <font color=#7f8c8d>Neutral Killers</font> are left
+        * <font color=red>OFF</font>: The game will not tell you how many <font color=#7f8c8d>Neutral Killers</font> are left
+      * Show remaining <font color=#663399>Coven</font> members on ejects
+        * <font color=green>ON</font>: The game will tell you how many <font color=#663399>Coven</font> members are left
+        * <font color=red>OFF</font>: The game will not tell you how many <font color=#663399>Coven</font> members are left
+    * <font color=red>OFF</font>: The game will not tell you how many <font color=red>Impostors</font> are left
+  * Show what team the ejected player's role is on
+    * <font color=green>ON</font>: The game will tell you what team the ejected player's role is on
+    * <font color=red>OFF</font>: The game will not tell you what team the ejected player's role is on
+  * Confirm Egoists on ejection
+    * <font color=green>ON</font>: Egoists will be confirmed on ejection
+    * <font color=red>OFF</font>: Egoists will not be confirmed on ejection
+  * Confirm Lovers on ejection
+    * <font color=green>ON</font>: Lovers will be confirmed on ejection
+    * <font color=red>OFF</font>: Lovers will not be confirmed on ejection
+
+### <font size=4em color=#13bce9>Maps</font>
   * Random Maps Mode
     * <font color=green>ON</font>: Map will be chosen randomly
-      * Include The Skeld
-        * Set the percentage that Skeld will be the chosen Map you play on
-      * Include MIRA HQ
-        * Set the percentage that MIRA HQ will be the chosen Map you play on
-      * Include Polus
-        * Set the percentage that Polus will be the chosen Map you play on
-      * Include Airship
-        * Set the percentage that Airship will be the chosen Map you play on
+      * Chance that the map is
+        * Skeld - Set the chance that the map will be Skeld
+        * Mira HQ - Set the chance that the map will be Mira HQ
+        * Polus - Set the chance that the map will be Polus
+        * Airship - Set the chance that the map will be Airship
     * Random Spawns
       * <font color=green>ON</font>: Spawn locations will be chosen randomly
         * Additional Spawn Locations (Airship)
@@ -62,9 +59,10 @@ sidebar:
     * Disable Moving Platform (Airship)
       * <font color=green>ON</font>: Moving platform will be disabled
       * <font color=red>OFF</font>: Moving platform will be enabled
-* <font size=4em color=#f36060>Sabotage</font>
+
+### <font size=4em color=#f36060>Sabotage</font>
   * Camouflage During Comms Sabotage
-    * <font color=green>ON</font>: when Comms are sabotaged, everyone will turn Gray
+    * <font color=green>ON</font>: when Comms are sabotaged, everyone will turn into the specified appearance
     * <font color=red>OFF</font>: Camouflage Comms Sabotage works like it normally would
   * Disable body reporting while camouflaged
     * <font color=green>ON</font>: players cannot report bodies while camouflaged
@@ -87,7 +85,14 @@ sidebar:
       * Disable Cargo Lights Panel
         * <font color=green>ON</font>: the Cargo Lights Panel will be disabled
         * <font color=red>OFF</font>: the Cargo Lights Panel will be enabled
-* <font size=4em color=#ff9999>Disable</font>
+
+### <font size=4em color=#ff9999>Disable</font>
+  * Disable Unnecessary Shield Animations
+    * <font color=green>ON</font>: Unnecessary animations will be disabled
+    * <font color=red>OFF</font>: All animations will be enabled
+  * Disable Kill Animations on Guesses
+    * <font color=green>ON</font>: Kill animations will be disabled when guessing
+    * <font color=red>OFF</font>: Kill animations will be enabled when guessing
   * Disable Vanilla Roles
     * <font color=green>ON</font>: the host can disable Vanilla Roles
     * <font color=red>OFF</font>: Vanilla Roles will be enabled
@@ -104,22 +109,25 @@ sidebar:
         * <font color=red>OFF</font>: Doors Sabotage will be enabled
     * <font color=red>OFF</font>: Sabotages will be possible
   * Disable Devices
-    * Disable Skeld Devices
-      * <font color=green>ON</font>: Skeld Devices will be disabled
-        * Disable Admin
-          * <font color=green>ON</font>: Admin will be disabled
-          * <font color=red>OFF</font>: Admin will be enabled
-        * Disable Cameras
-          * <font color=green>ON</font>: Cameras will be disabled
-          * <font color=red>OFF</font>: Cameras will be enabled
-      * <font color=red>OFF</font>: Skeld Devices will be enabled
-    * Disable MiraHQ Devices
-      * Disable Admin
-        * <font color=green>ON</font>: Admin will be disabled
-        * <font color=red>OFF</font>: Admin will be enabled
-      * Disable DoorLog
-        * <font color=green>ON</font>: DoorLog will be disabled
-        * <font color=red>OFF</font>: DoorLog will be enabled
+    * <font color=green>ON</font>: Devices will be disabled
+      * Disable Skeld Devices
+        * <font color=green>ON</font>: Skeld Devices will be disabled
+          * Disable Admin
+            * <font color=green>ON</font>: Admin will be disabled
+            * <font color=red>OFF</font>: Admin will be enabled
+          * Disable Cameras
+            * <font color=green>ON</font>: Cameras will be disabled
+            * <font color=red>OFF</font>: Cameras will be enabled
+        * <font color=red>OFF</font>: Skeld Devices will be enabled
+      * Disable MiraHQ Devices
+        * <font color=green>ON</font>: MiraHQ Devices will be disabled
+          * Disable Admin
+            * <font color=green>ON</font>: Admin will be disabled
+            * <font color=red>OFF</font>: Admin will be enabled
+          * Disable DoorLog
+            * <font color=green>ON</font>: DoorLog will be disabled
+            * <font color=red>OFF</font>: DoorLog will be enabled
+        * <font color=red>OFF</font>: MiraHQ Devices will be enabled
       * Disable Polus Devices
         * <font color=green>ON</font>: Polus Devices will be disabled
           * Disable Admin
@@ -133,29 +141,35 @@ sidebar:
             * <font color=red>OFF</font>: Vitals will be enabled
         * <font color=red>OFF</font>: Polus Devices will be enabled
       * Disable Airship Devices
-        * Disable Cockpit Admin
-          * <font color=green>ON</font>: Cockpit Admin will be disabled
-          * <font color=red>OFF</font>: Cockpit Admin will be enabled
-        * Disable Records Admin
-          * <font color=green>ON</font>: Records Admin will be disabled
-          * <font color=red>OFF</font>: Records Admin will be enabled
-        * Disable Cameras
-          * <font color=green>ON</font>: Cameras will be disabled
-          * <font color=red>OFF</font>: Cameras will be enabled
-        * Disable Vitals
-          * <font color=green>ON</font>: Vitals will be disabled
-          * <font color=red>OFF</font>: Vitals will be enabled
+        * <font color=green>ON</font>: Airship Devices will be disabled
+          * Disable Cockpit Admin
+            * <font color=green>ON</font>: Cockpit Admin will be disabled
+            * <font color=red>OFF</font>: Cockpit Admin will be enabled
+          * Disable Records Admin
+            * <font color=green>ON</font>: Records Admin will be disabled
+            * <font color=red>OFF</font>: Records Admin will be enabled
+          * Disable Cameras
+            * <font color=green>ON</font>: Cameras will be disabled
+            * <font color=red>OFF</font>: Cameras will be enabled
+          * Disable Vitals
+            * <font color=green>ON</font>: Vitals will be disabled
+            * <font color=red>OFF</font>: Vitals will be enabled
+        * <font color=red>OFF</font>: Airship Devices will be enabled
     * Ignore Conditions
-      * Ignore Impostors
+      * Ignore <font color=red>Impostors</font>
         * <font color=green>ON</font>: <font color=red>Impostors</font> conditions will be ignored
         * <font color=red>OFF</font>: <font color=red>Impostors</font> conditions will not be ignored
-      * Ignore Neutrals
+      * Ignore <font color=#7f8c8d>Neutrals</font>
         * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> conditions will be ignored
         * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> conditions will not be ignored
-      * Ignore Crewmates
+      * Ignore <font color=#8cffff>Crewmates</font>
         * <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> conditions will be ignored
         * <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> conditions will not be ignored
-* <font size=4em color=#93f1f0>Meeting</font>
+      * Ignore after First Death
+        * <font color=green>ON</font>: Conditions will be ignored after the first death
+        * <font color=red>OFF</font>: Conditions will not be ignored after the first death
+
+### <font size=4em color=#93f1f0>Meeting</font>
   * Sync Buttons Mode
     * <font color=green>ON</font>: the host can control how many buttons are allowed overall
     * <font color=red>OFF</font>: the buttons needed to call a meeting will be normal
@@ -203,7 +217,8 @@ sidebar:
         * Eject All - Ejects all tied players
         * Eject Random - Ejects a random player between the tied players
     * <font color=red>OFF</font>: Votes will remain the same
-* <font size=4em color=#c1ffd1>Different</font>
+
+### <font size=4em color=#c1ffd1>Different</font>
   * Fall From Ladders
     * <font color=green>ON</font>: Players will fall from ladders
       * Fall to Death Chance
@@ -217,7 +232,8 @@ sidebar:
     * <font color=red>OFF</font>: The game will go as normal
   * Kill Flash Duration
     * Set how long the kill flash will last
-* <font size=4em color=#d9daff>Ghost</font>
+
+### <font size=4em color=#d9daff>Ghost</font>
   * Ghosts Exempt From Tasks
     * <font color=green>ON</font>: Ghosts will be exempt from tasks
     * <font color=red>OFF</font>: Ghosts will not be exempt from tasks

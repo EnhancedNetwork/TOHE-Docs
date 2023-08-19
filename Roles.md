@@ -9,6 +9,7 @@ sidebar:
 - { text: Impostors, link: /options/settings/Impostors.html}
 - { text: Crewmates, link: /options/settings/Crewmates.html} 
 - { text: Neutrals, link: /options/settings/Neutrals.html}
+- { text: Coven, link: /options/settings/Coven.html}
 - { text: Add-ons, link: /options/settings/Addons.html}
 - { text: Experimental, link: /options/settings/Experimental.html}
 ---

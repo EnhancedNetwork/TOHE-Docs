@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-0be71060","path":"/options/Coven/Necromancer.html","title":"Necromancer","lang":"en-US","frontmatter":{"lang":"en-US","title":"Necromancer","prev":"Medusa","next":"Poisoner"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"options/Coven/Necromancer.md"}');export{e as data};

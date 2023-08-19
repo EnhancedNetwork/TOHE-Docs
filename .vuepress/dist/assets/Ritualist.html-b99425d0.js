@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-7bcfd518","path":"/options/Coven/Ritualist.html","title":"Ritualist","lang":"en-US","frontmatter":{"lang":"en-US","title":"Ritualist","prev":"PotionMaster","next":"Wraith"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"options/Coven/Ritualist.md"}');export{t as data};

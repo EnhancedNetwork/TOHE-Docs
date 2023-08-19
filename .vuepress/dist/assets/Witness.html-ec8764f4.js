@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-172e2d57","path":"/options/Crewmates/Killing/Witness.html","title":"Witness","lang":"en-US","frontmatter":{"lang":"en-US","title":"Witness","prev":"Vigilante","next":"/options/settings/Crewmates.html"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"options/Crewmates/Killing/Witness.md"}');export{t as data};

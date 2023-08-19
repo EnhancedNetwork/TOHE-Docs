@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-25a07ae8","path":"/options/Settings/Coven.html","title":"Coven","lang":"en-US","frontmatter":{"lang":"en-US","title":"Coven","prev":"Neutrals","next":"Addons"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"options/Settings/Coven.md"}');export{t as data};

@@ -2,7 +2,7 @@
 lang: en-US
 title: Warlock
 prev: Vampire
-next: Wilding
+next: Wildling
 ---
 
 # <font color="red">🧙 Warlock</font> <Badge text="Concealing" type="tip" vertical="middle"/>

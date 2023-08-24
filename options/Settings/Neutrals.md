@@ -44,7 +44,7 @@ next: Addons
 
 ### <font color=#046300><b>Benign</b></font>
 ---
-[Amnesiac](/options/Neutrals/Benign/Amnesiac.html) | [Follower](/options/Neutrals/Benign/Follower.html) | [Hater](/options/Neutrals/Benign/Hater.html) | [Lawyer](/options/Neutrals/Benign/Lawyer.html) | [Maverick](/options/Neutrals/Benign/Maverick.html) | [Opportunist](/options/Neutrals/Benign/Opportunist.html) | [Pursuer](/options/Neutrals/Benign/Pursuer.html) | [Shaman](/options/Neutrals/Benign/Shaman.html) | [Witch](/options/Neutrals/Benign/Witch.html)
+[Amnesiac](/options/Neutrals/Benign/Amnesiac.html) | [Follower](/options/Neutrals/Benign/Follower.html) | [Hater](/options/Neutrals/Benign/Hater.html) | [Lawyer](/options/Neutrals/Benign/Lawyer.html) | [Maverick](/options/Neutrals/Benign/Maverick.html) | [Opportunist](/options/Neutrals/Benign/Opportunist.html) | [Pursuer](/options/Neutrals/Benign/Pursuer.html) | [Romantic](/options/Neutrals/Benign/Romantic.html) | [Romantic Ruthless](/options/Neutrals/Benign/RomanticRuthless.html) | [Romantic Vengeful](/options/Neutrals/Benign/RomanticVengeful.html) | [Shaman](/options/Neutrals/Benign/Shaman.html) | [Witch](/options/Neutrals/Benign/Witch.html)
 <br>
 
 ### <font color=#d4af37><b>Chaos</b></font>

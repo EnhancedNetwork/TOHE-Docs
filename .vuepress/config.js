@@ -261,7 +261,7 @@ export default ({
             { text: 'Trickster', link: '/options/Impostors/Concealing/Trickster.html' },
             { text: 'Vampire', link: '/options/Impostors/Concealing/Vampire.html' },
             { text: 'Warlock', link: '/options/Impostors/Concealing/Warlock.html' },
-            { text: 'Wilding', link: '/options/Impostors/Concealing/Wilding.html' },
+            { text: 'Wildling', link: '/options/Impostors/Concealing/Wildling.html' },
           ],
           '/options/Impostors/Hindering/': [
             { text: 'Back to Impostors', link: '/options/settings/Impostors.html' },

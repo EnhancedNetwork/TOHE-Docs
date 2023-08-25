@@ -2,7 +2,7 @@
 lang: en-US
 title: Assassin
 prev: Arrogance
-next: Bomber
+next: Berserker
 ---
 
 # <font color="red">☭ Assassin</font> <Badge text="Killing" type="tip" vertical="middle"/>

@@ -39,7 +39,7 @@ next: Impostors
 
 ### <font color=#ff9ace><b>Add-ons</b></font>
 ---
-[Fool](/options/Experimental/Addon/Fool.html) | [Guesser](/options/Experimental/Addon/Guesser.html) | [Neptune](/options/Experimental/Addon/Neptune.html) | [YouTuber](/options/Experimental/Addon/YouTuber.html)
+[Fool](/options/Experimental/Addon/Fool.html) | [Neptune](/options/Experimental/Addon/Neptune.html) | [YouTuber](/options/Experimental/Addon/YouTuber.html)
 <br>
 
 ### <font color=red><b>Impostor</b></font>

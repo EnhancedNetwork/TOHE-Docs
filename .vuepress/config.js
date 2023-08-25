@@ -131,6 +131,7 @@ export default ({
             { text: 'DoubleShot', link: '/options/Addons/Helpful/DoubleShot.html' },
             { text: 'Glow', link: '/options/Addons/Helpful/Glow.html' },
             { text: 'Gravestone', link: '/options/Addons/Helpful/Gravestone.html' },
+            { text: 'Guesser', link: '/options/Experimental/Addon/Guesser.html' },
             { text: 'Lazy', link: '/options/Addons/Helpful/Lazy.html' },
             { text: 'Loyal', link: '/options/Addons/Helpful/Loyal.html' },
             { text: 'Lucky', link: '/options/Addons/Helpful/Lucky.html' },
@@ -227,7 +228,6 @@ export default ({
           '/options/Experimental/Addon/': [
             { text: 'Back to Experimental', link: '/options/settings/Experimental.html' },
             { text: 'Fool', link: '/options/Experimental/Addon/Fool.html' },
-            { text: 'Guesser', link: '/options/Experimental/Addon/Guesser.html' },
             { text: 'Neptune', link: '/options/Experimental/Addon/Neptune.html' },
             { text: 'YouTuber', link: '/options/Experimental/Addon/YouTuber.html' },
           ],
@@ -276,6 +276,7 @@ export default ({
             { text: 'Agent', link: '/options/Impostors/Killing/Agent.html' },
             { text: 'Arrogance', link: '/options/Impostors/Killing/Arrogance.html' },
             { text: 'Assassin', link: '/options/Impostors/Killing/Assassin.html' },
+            { text: 'Berserker', link: '/options/Impostors/Killing/Berserker.html' },
             { text: 'Bomber', link: '/options/Impostors/Killing/Bomber.html' },
             { text: 'Bounty Hunter', link: '/options/Impostors/Killing/BountyHunter.html' },
             { text: 'Councillor', link: '/options/Impostors/Killing/Councillor.html' },

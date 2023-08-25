@@ -358,7 +358,7 @@ export default ({
           ],
           '/options/Neutrals/Killing/': [
             { text: 'Back to Neutrals', link: '/options/settings/Neutrals.html' },
-            { text: 'Agitater', link: '/options/Neutrals/Killing/Agitater.html' },
+            { text: 'Agitator', link: '/options/Neutrals/Killing/Agitator.html' },
             { text: 'Arsonist', link: '/options/Neutrals/Killing/Arsonist.html' },
             { text: 'Blood Knight', link: '/options/Neutrals/Killing/BloodKnight.html' },
             { text: 'Glitch', link: '/options/Neutrals/Killing/Glitch.html' },

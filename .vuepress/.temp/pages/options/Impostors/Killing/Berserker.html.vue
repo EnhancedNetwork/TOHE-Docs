@@ -37,7 +37,10 @@ Bombed kills make your kills explode.</p>
 </li>
 <li>
 <font color=red>OFF</font>: Berserker cannot unlock a lower kill cooldown even if they reach a certain level</li>
-<li>Unlock scavenged kills</li>
+</ul>
+</li>
+<li>Unlock scavenged kills
+<ul>
 <li>
 <font color=green>ON</font>: Berserker can unlock scavenged kills if they reach a certain level<ul>
 <li>Level requirement for unlock
@@ -48,10 +51,11 @@ Bombed kills make your kills explode.</p>
 </ul>
 </li>
 <li>
-<font color=red>OFF</font>: Berserker cannot unlock scavenged kills even if they reach a certain level<ul>
-<li>Unlock bombed kills</li>
+<font color=red>OFF</font>: Berserker cannot unlock scavenged kills even if they reach a certain level</li>
 </ul>
 </li>
+<li>Unlock bombed kills
+<ul>
 <li>
 <font color=green>ON</font>: Berserker can unlock bombed kills if they reach a certain level<ul>
 <li>Level requirement for unlock
@@ -62,10 +66,11 @@ Bombed kills make your kills explode.</p>
 </ul>
 </li>
 <li>
-<font color=red>OFF</font>: Berserker cannot unlock bombed kills even if they reach a certain level<ul>
-<li>Unlock immortality</li>
+<font color=red>OFF</font>: Berserker cannot unlock bombed kills even if they reach a certain level</li>
 </ul>
 </li>
+<li>Unlock immortality
+<ul>
 <li>
 <font color=green>ON</font>: Berserker can unlock immortality if they reach a certain level<ul>
 <li>Level requirement for unlock

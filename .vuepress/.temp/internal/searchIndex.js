@@ -892,97 +892,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Fool",
-    "headers": [],
-    "path": "/options/Experimental/Addon/Fool.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Neptune",
-    "headers": [],
-    "path": "/options/Experimental/Addon/Neptune.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "YouTuber",
-    "headers": [],
-    "path": "/options/Experimental/Addon/YouTuber.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Butcher",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Butcher.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Capitalist",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Capitalist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Disperser",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Disperser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Eraser",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Eraser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Killing Machine",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/KillingMachine.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lightning",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Lightning.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Trapster",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Trapster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Zombie",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Zombie.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "God",
-    "headers": [],
-    "path": "/options/Experimental/Neutral/God.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Spiritcaller",
-    "headers": [],
-    "path": "/options/Experimental/Neutral/Spiritcaller.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Addict",
     "headers": [],
     "path": "/options/Crewmates/Basic/Addict.html",
@@ -1361,6 +1270,97 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Fool",
+    "headers": [],
+    "path": "/options/Experimental/Addon/Fool.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Neptune",
+    "headers": [],
+    "path": "/options/Experimental/Addon/Neptune.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "YouTuber",
+    "headers": [],
+    "path": "/options/Experimental/Addon/YouTuber.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Butcher",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Butcher.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Capitalist",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Capitalist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Disperser",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Disperser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Eraser",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Eraser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Killing Machine",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/KillingMachine.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lightning",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Lightning.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Trapster",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Trapster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Zombie",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Zombie.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "God",
+    "headers": [],
+    "path": "/options/Experimental/Neutral/God.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Spiritcaller",
+    "headers": [],
+    "path": "/options/Experimental/Neutral/Spiritcaller.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Escapist",
     "headers": [],
     "path": "/options/Impostors/Concealing/Escapist.html",
@@ -1641,90 +1641,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Amnesiac",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Amnesiac.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Follower",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Follower.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hater",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Hater.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lawyer",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Lawyer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Maverick",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Maverick.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Opportunist",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Opportunist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pursuer",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Pursuer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Romantic",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Romantic.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Ruthless Romantic",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/RomanticRuthless.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vengeful Romantic",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/RomanticVengeful.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Shaman",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Shaman.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Witch",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Witch.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Camouflager",
     "headers": [],
     "path": "/options/Impostors/Support/Camouflager.html",
@@ -1805,6 +1721,90 @@ export const searchIndex = [
     "title": "Visionary",
     "headers": [],
     "path": "/options/Impostors/Support/Visionary.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Amnesiac",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Amnesiac.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Follower",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Follower.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hater",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Hater.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lawyer",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Lawyer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Maverick",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Maverick.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Opportunist",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Opportunist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Pursuer",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Pursuer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Romantic",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Romantic.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Ruthless Romantic",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/RomanticRuthless.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vengeful Romantic",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/RomanticVengeful.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Shaman",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Shaman.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Witch",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Witch.html",
     "pathLocale": "/",
     "extraFields": []
   },

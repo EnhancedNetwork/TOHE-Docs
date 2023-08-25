@@ -23,8 +23,16 @@ Bombed kills make your kills explode.</p>
 <ul>
 <li>
 <font color=green>ON</font>: Berserker can unlock a lower kill cooldown if they reach a certain level<ul>
-<li>Kill cooldown after unlocking - Set the kill cooldown that the Berserker will have after reaching a certain level</li>
-<li>Level requirement for unlock - Set the level that the Berserker needs to reach to unlock this buff</li>
+<li>Kill cooldown after unlocking
+<ul>
+<li>Set the kill cooldown that the Berserker will have after reaching a certain level</li>
+</ul>
+</li>
+<li>Level requirement for unlock
+<ul>
+<li>Set the level that the Berserker needs to reach to unlock this buff</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>
@@ -32,7 +40,11 @@ Bombed kills make your kills explode.</p>
 <li>Unlock scavenged kills</li>
 <li>
 <font color=green>ON</font>: Berserker can unlock scavenged kills if they reach a certain level<ul>
-<li>Level requirement for unlock - Set the level that the Berserker needs to reach to unlock this buff</li>
+<li>Level requirement for unlock
+<ul>
+<li>Set the level that the Berserker needs to reach to unlock this buff</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>
@@ -42,7 +54,11 @@ Bombed kills make your kills explode.</p>
 </li>
 <li>
 <font color=green>ON</font>: Berserker can unlock bombed kills if they reach a certain level<ul>
-<li>Level requirement for unlock - Set the level that the Berserker needs to reach to unlock this buff</li>
+<li>Level requirement for unlock
+<ul>
+<li>Set the level that the Berserker needs to reach to unlock this buff</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>
@@ -52,7 +68,11 @@ Bombed kills make your kills explode.</p>
 </li>
 <li>
 <font color=green>ON</font>: Berserker can unlock immortality if they reach a certain level<ul>
-<li>Level requirement for unlock - Set the level that the Berserker needs to reach to unlock this buff</li>
+<li>Level requirement for unlock
+<ul>
+<li>Set the level that the Berserker needs to reach to unlock this buff</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>

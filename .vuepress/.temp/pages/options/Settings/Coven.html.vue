@@ -11,7 +11,7 @@
 </tr>
 </table>
 <br>
-<p><RouterLink to="/options/Neutrals/Coven/Banshee.html">Banshee</RouterLink> | <RouterLink to="/options/Neutrals/Coven/CovenLeader.html">Coven Leader</RouterLink> | <RouterLink to="/options/Neutrals/Coven/HexMaster.html">Hex Master</RouterLink> | <RouterLink to="/options/Neutrals/Coven/Jinx.html">Jinx</RouterLink> | <RouterLink to="/options/Neutrals/Coven/Medusa.html">Medusa</RouterLink> | <RouterLink to="/options/Neutrals/Coven/Necromancer.html">Necromancer</RouterLink> | <RouterLink to="/options/Neutrals/Coven/Poisoner.html">Poisoner</RouterLink> | <RouterLink to="/options/Neutrals/Coven/PotionMaster.html">Potion Master</RouterLink> | <RouterLink to="/options/Neutrals/Coven/Ritualist.html">Ritualist</RouterLink> | <RouterLink to="/options/Neutrals/Coven/Wraith.html">Wraith</RouterLink></p>
+<p><RouterLink to="/options/Coven/Banshee.html">Banshee</RouterLink> | <RouterLink to="/options/Coven/CovenLeader.html">Coven Leader</RouterLink> | <RouterLink to="/options/Coven/HexMaster.html">Hex Master</RouterLink> | <RouterLink to="/options/Coven/Jinx.html">Jinx</RouterLink> | <RouterLink to="/options/Coven/Medusa.html">Medusa</RouterLink> | <RouterLink to="/options/Coven/Necromancer.html">Necromancer</RouterLink> | <RouterLink to="/options/Coven/Poisoner.html">Poisoner</RouterLink> | <RouterLink to="/options/Coven/PotionMaster.html">Potion Master</RouterLink> | <RouterLink to="/options/Coven/Ritualist.html">Ritualist</RouterLink> | <RouterLink to="/options/Coven/Wraith.html">Wraith</RouterLink></p>
 </div></template>
 
 

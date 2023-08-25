@@ -21,4 +21,4 @@ next: Addons
 </table>
 <br>
 
-[Banshee](/options/Neutrals/Coven/Banshee.html) | [Coven Leader](/options/Neutrals/Coven/CovenLeader.html) | [Hex Master](/options/Neutrals/Coven/HexMaster.html) | [Jinx](/options/Neutrals/Coven/Jinx.html) | [Medusa](/options/Neutrals/Coven/Medusa.html) | [Necromancer](/options/Neutrals/Coven/Necromancer.html) | [Poisoner](/options/Neutrals/Coven/Poisoner.html) | [Potion Master](/options/Neutrals/Coven/PotionMaster.html) | [Ritualist](/options/Neutrals/Coven/Ritualist.html) | [Wraith](/options/Neutrals/Coven/Wraith.html)
+[Banshee](/options/Coven/Banshee.html) | [Coven Leader](/options/Coven/CovenLeader.html) | [Hex Master](/options/Coven/HexMaster.html) | [Jinx](/options/Coven/Jinx.html) | [Medusa](/options/Coven/Medusa.html) | [Necromancer](/options/Coven/Necromancer.html) | [Poisoner](/options/Coven/Poisoner.html) | [Potion Master](/options/Coven/PotionMaster.html) | [Ritualist](/options/Coven/Ritualist.html) | [Wraith](/options/Coven/Wraith.html)

@@ -25,7 +25,7 @@
 <br>
 <h3 id="add-ons" tabindex="-1"><a class="header-anchor" href="#add-ons" aria-hidden="true">#</a> <font color=#ff9ace><b>Add-ons</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Experimental/Addon/Fool.html">Fool</RouterLink> | <RouterLink to="/options/Experimental/Addon/Guesser.html">Guesser</RouterLink> | <RouterLink to="/options/Experimental/Addon/Neptune.html">Neptune</RouterLink> | <RouterLink to="/options/Experimental/Addon/YouTuber.html">YouTuber</RouterLink>
+<p><RouterLink to="/options/Experimental/Addon/Fool.html">Fool</RouterLink> | <RouterLink to="/options/Experimental/Addon/Neptune.html">Neptune</RouterLink> | <RouterLink to="/options/Experimental/Addon/YouTuber.html">YouTuber</RouterLink>
 <br></p>
 <h3 id="impostor" tabindex="-1"><a class="header-anchor" href="#impostor" aria-hidden="true">#</a> <font color=red><b>Impostor</b></font></h3>
 <hr>

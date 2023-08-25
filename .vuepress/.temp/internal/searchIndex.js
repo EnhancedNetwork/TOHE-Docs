@@ -217,6 +217,13 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
+        "title": "Distribution Policy",
+        "slug": "distribution-policy",
+        "link": "#distribution-policy",
+        "children": []
+      },
+      {
+        "level": 2,
         "title": "MANUAL INSTALLATION",
         "slug": "manual-installation",
         "link": "#manual-installation",
@@ -231,9 +238,16 @@ export const searchIndex = [
       },
       {
         "level": 2,
-        "title": "Canary Versions",
-        "slug": "canary-versions",
-        "link": "#canary-versions",
+        "title": "Dev Builds - Accessible by Sponsors, Contributors and Testers NOT FOR DISTRIBUTION",
+        "slug": "dev-builds-accessible-by-sponsors-contributors-and-testers-not-for-distribution",
+        "link": "#dev-builds-accessible-by-sponsors-contributors-and-testers-not-for-distribution",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Canary Builds - Accessible by Boosters and Translators NOT FOR DISTRIBUTION",
+        "slug": "canary-builds-accessible-by-boosters-and-translators-not-for-distribution",
+        "link": "#canary-builds-accessible-by-boosters-and-translators-not-for-distribution",
         "children": []
       }
     ],
@@ -734,6 +748,13 @@ export const searchIndex = [
     "title": "Gravestone",
     "headers": [],
     "path": "/options/Addons/Helpful/Gravestone.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Guesser",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Guesser.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1263,6 +1284,97 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Fool",
+    "headers": [],
+    "path": "/options/Experimental/Addon/Fool.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Neptune",
+    "headers": [],
+    "path": "/options/Experimental/Addon/Neptune.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "YouTuber",
+    "headers": [],
+    "path": "/options/Experimental/Addon/YouTuber.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Butcher",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Butcher.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Capitalist",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Capitalist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Disperser",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Disperser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Eraser",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Eraser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Killing Machine",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/KillingMachine.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lightning",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Lightning.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Trapster",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Trapster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Zombie",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Zombie.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "God",
+    "headers": [],
+    "path": "/options/Experimental/Neutral/God.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Spiritcaller",
+    "headers": [],
+    "path": "/options/Experimental/Neutral/Spiritcaller.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Escapist",
     "headers": [],
     "path": "/options/Impostors/Concealing/Escapist.html",
@@ -1392,6 +1504,13 @@ export const searchIndex = [
     "title": "Assassin",
     "headers": [],
     "path": "/options/Impostors/Killing/Assassin.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Berserker",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Berserker.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1616,104 +1735,6 @@ export const searchIndex = [
     "title": "Visionary",
     "headers": [],
     "path": "/options/Impostors/Support/Visionary.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Fool",
-    "headers": [],
-    "path": "/options/Experimental/Addon/Fool.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Guesser",
-    "headers": [],
-    "path": "/options/Experimental/Addon/Guesser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Neptune",
-    "headers": [],
-    "path": "/options/Experimental/Addon/Neptune.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "YouTuber",
-    "headers": [],
-    "path": "/options/Experimental/Addon/YouTuber.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Butcher",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Butcher.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Capitalist",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Capitalist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Disperser",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Disperser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Eraser",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Eraser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Killing Machine",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/KillingMachine.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lightning",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Lightning.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Trapster",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Trapster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Zombie",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Zombie.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "God",
-    "headers": [],
-    "path": "/options/Experimental/Neutral/God.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Spiritcaller",
-    "headers": [],
-    "path": "/options/Experimental/Neutral/Spiritcaller.html",
     "pathLocale": "/",
     "extraFields": []
   },

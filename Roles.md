@@ -16,7 +16,7 @@ sidebar:
 
 # Roles
 
-<font size=4em><b>Updated as of Version 3.0.0 (Dev Build 2.2)</b></font><br><br>
+<font size=4em><b>Updated as of Version 3.0.0 (Dev Build 3.1)</b></font><br><br>
 
 <center>
 

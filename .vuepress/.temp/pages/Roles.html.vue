@@ -1,5 +1,5 @@
 <template><div><h1 id="roles" tabindex="-1"><a class="header-anchor" href="#roles" aria-hidden="true">#</a> Roles</h1>
-<font size=4em><b>Updated as of Version 3.0.0 (Dev Build 2.2)</b></font><br><br><center>
+<font size=4em><b>Updated as of Version 3.0.0 (Dev Build 3.1)</b></font><br><br><center>
 <p><RouterLink to="/options/settings/Custom.html">Settings - Custom</RouterLink> | <RouterLink to="/options/settings/System.html">Settings - System</RouterLink> <br>
 <RouterLink to="/options/settings/Game.html">Settings - Game</RouterLink> | <RouterLink to="/options/settings/Modifiers.html">Settings - Game Modifiers</RouterLink> <br>
 <RouterLink to="/options/settings/Impostors.html">Impostor Roles</RouterLink> | <RouterLink to="/options/settings/Neutrals.html">Neutral Roles</RouterLink> | <RouterLink to="/options/settings/Coven.html">Coven Roles</RouterLink><br>

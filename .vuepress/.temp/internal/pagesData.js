@@ -93,6 +93,8 @@ export const pagesData = {
   "v-6cf58ff2": () => import(/* webpackChunkName: "v-6cf58ff2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Addons/Helpful/Glow.html.js").then(({ data }) => data),
   // path: /options/Addons/Helpful/Gravestone.html
   "v-3e495bb4": () => import(/* webpackChunkName: "v-3e495bb4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Addons/Helpful/Gravestone.html.js").then(({ data }) => data),
+  // path: /options/Addons/Helpful/Guesser.html
+  "v-3fec17cc": () => import(/* webpackChunkName: "v-3fec17cc" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Addons/Helpful/Guesser.html.js").then(({ data }) => data),
   // path: /options/Addons/Helpful/Lazy.html
   "v-fd069b00": () => import(/* webpackChunkName: "v-fd069b00" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Addons/Helpful/Lazy.html.js").then(({ data }) => data),
   // path: /options/Addons/Helpful/Loyal.html
@@ -135,6 +137,32 @@ export const pagesData = {
   "v-1d24b3bc": () => import(/* webpackChunkName: "v-1d24b3bc" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Addons/Neutral/Egoist.html.js").then(({ data }) => data),
   // path: /options/Addons/Neutral/Lovers.html
   "v-448d57e8": () => import(/* webpackChunkName: "v-448d57e8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Addons/Neutral/Lovers.html.js").then(({ data }) => data),
+  // path: /options/Experimental/Addon/Fool.html
+  "v-3b655427": () => import(/* webpackChunkName: "v-3b655427" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Addon/Fool.html.js").then(({ data }) => data),
+  // path: /options/Experimental/Addon/Neptune.html
+  "v-30e16c18": () => import(/* webpackChunkName: "v-30e16c18" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Addon/Neptune.html.js").then(({ data }) => data),
+  // path: /options/Experimental/Addon/YouTuber.html
+  "v-ef0c62c4": () => import(/* webpackChunkName: "v-ef0c62c4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Addon/YouTuber.html.js").then(({ data }) => data),
+  // path: /options/Experimental/Impostor/Butcher.html
+  "v-4a0abb5e": () => import(/* webpackChunkName: "v-4a0abb5e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Butcher.html.js").then(({ data }) => data),
+  // path: /options/Experimental/Impostor/Capitalist.html
+  "v-3f0326a8": () => import(/* webpackChunkName: "v-3f0326a8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Capitalist.html.js").then(({ data }) => data),
+  // path: /options/Experimental/Impostor/Disperser.html
+  "v-bcf1a81a": () => import(/* webpackChunkName: "v-bcf1a81a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Disperser.html.js").then(({ data }) => data),
+  // path: /options/Experimental/Impostor/Eraser.html
+  "v-348ffd02": () => import(/* webpackChunkName: "v-348ffd02" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Eraser.html.js").then(({ data }) => data),
+  // path: /options/Experimental/Impostor/KillingMachine.html
+  "v-7cd1590b": () => import(/* webpackChunkName: "v-7cd1590b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/KillingMachine.html.js").then(({ data }) => data),
+  // path: /options/Experimental/Impostor/Lightning.html
+  "v-66bf0cfa": () => import(/* webpackChunkName: "v-66bf0cfa" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Lightning.html.js").then(({ data }) => data),
+  // path: /options/Experimental/Impostor/Trapster.html
+  "v-78fe2f9a": () => import(/* webpackChunkName: "v-78fe2f9a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Trapster.html.js").then(({ data }) => data),
+  // path: /options/Experimental/Impostor/Zombie.html
+  "v-592179a8": () => import(/* webpackChunkName: "v-592179a8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Zombie.html.js").then(({ data }) => data),
+  // path: /options/Experimental/Neutral/God.html
+  "v-6cfcbefc": () => import(/* webpackChunkName: "v-6cfcbefc" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Neutral/God.html.js").then(({ data }) => data),
+  // path: /options/Experimental/Neutral/Spiritcaller.html
+  "v-57b9c298": () => import(/* webpackChunkName: "v-57b9c298" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Neutral/Spiritcaller.html.js").then(({ data }) => data),
   // path: /options/Crewmates/Basic/Addict.html
   "v-3ea83793": () => import(/* webpackChunkName: "v-3ea83793" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Addict.html.js").then(({ data }) => data),
   // path: /options/Crewmates/Basic/Celebrity.html
@@ -281,6 +309,8 @@ export const pagesData = {
   "v-09d921ae": () => import(/* webpackChunkName: "v-09d921ae" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Killing/Arrogance.html.js").then(({ data }) => data),
   // path: /options/Impostors/Killing/Assassin.html
   "v-fee92548": () => import(/* webpackChunkName: "v-fee92548" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Killing/Assassin.html.js").then(({ data }) => data),
+  // path: /options/Impostors/Killing/Berserker.html
+  "v-4c2d1c0a": () => import(/* webpackChunkName: "v-4c2d1c0a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Killing/Berserker.html.js").then(({ data }) => data),
   // path: /options/Impostors/Killing/Bomber.html
   "v-3ae27852": () => import(/* webpackChunkName: "v-3ae27852" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Killing/Bomber.html.js").then(({ data }) => data),
   // path: /options/Impostors/Killing/BountyHunter.html
@@ -321,58 +351,6 @@ export const pagesData = {
   "v-7ff6a724": () => import(/* webpackChunkName: "v-7ff6a724" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Madmate/Crewposter.html.js").then(({ data }) => data),
   // path: /options/Impostors/Madmate/Parasite.html
   "v-7349b86a": () => import(/* webpackChunkName: "v-7349b86a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Madmate/Parasite.html.js").then(({ data }) => data),
-  // path: /options/Impostors/Support/Camouflager.html
-  "v-ab2f7c90": () => import(/* webpackChunkName: "v-ab2f7c90" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Camouflager.html.js").then(({ data }) => data),
-  // path: /options/Impostors/Support/Cleaner.html
-  "v-09fa1060": () => import(/* webpackChunkName: "v-09fa1060" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Cleaner.html.js").then(({ data }) => data),
-  // path: /options/Impostors/Support/Consigliere.html
-  "v-5673f08c": () => import(/* webpackChunkName: "v-5673f08c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Consigliere.html.js").then(({ data }) => data),
-  // path: /options/Impostors/Support/Disruptor.html
-  "v-03be14ce": () => import(/* webpackChunkName: "v-03be14ce" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Disruptor.html.js").then(({ data }) => data),
-  // path: /options/Impostors/Support/Fireworker.html
-  "v-03c72b18": () => import(/* webpackChunkName: "v-03c72b18" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Fireworker.html.js").then(({ data }) => data),
-  // path: /options/Impostors/Support/Gangster.html
-  "v-7d3297cb": () => import(/* webpackChunkName: "v-7d3297cb" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Gangster.html.js").then(({ data }) => data),
-  // path: /options/Impostors/Support/Godfather.html
-  "v-1e1101ae": () => import(/* webpackChunkName: "v-1e1101ae" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Godfather.html.js").then(({ data }) => data),
-  // path: /options/Impostors/Support/Morphling.html
-  "v-3a075570": () => import(/* webpackChunkName: "v-3a075570" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Morphling.html.js").then(({ data }) => data),
-  // path: /options/Impostors/Support/Nemesis.html
-  "v-0d751a98": () => import(/* webpackChunkName: "v-0d751a98" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Nemesis.html.js").then(({ data }) => data),
-  // path: /options/Impostors/Support/TimeThief.html
-  "v-afd96fc6": () => import(/* webpackChunkName: "v-afd96fc6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/TimeThief.html.js").then(({ data }) => data),
-  // path: /options/Impostors/Support/Vindicator.html
-  "v-272a8113": () => import(/* webpackChunkName: "v-272a8113" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Vindicator.html.js").then(({ data }) => data),
-  // path: /options/Impostors/Support/Visionary.html
-  "v-880e83f4": () => import(/* webpackChunkName: "v-880e83f4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Visionary.html.js").then(({ data }) => data),
-  // path: /options/Experimental/Addon/Fool.html
-  "v-3b655427": () => import(/* webpackChunkName: "v-3b655427" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Addon/Fool.html.js").then(({ data }) => data),
-  // path: /options/Experimental/Addon/Guesser.html
-  "v-56e73621": () => import(/* webpackChunkName: "v-56e73621" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Addon/Guesser.html.js").then(({ data }) => data),
-  // path: /options/Experimental/Addon/Neptune.html
-  "v-30e16c18": () => import(/* webpackChunkName: "v-30e16c18" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Addon/Neptune.html.js").then(({ data }) => data),
-  // path: /options/Experimental/Addon/YouTuber.html
-  "v-ef0c62c4": () => import(/* webpackChunkName: "v-ef0c62c4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Addon/YouTuber.html.js").then(({ data }) => data),
-  // path: /options/Experimental/Impostor/Butcher.html
-  "v-4a0abb5e": () => import(/* webpackChunkName: "v-4a0abb5e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Butcher.html.js").then(({ data }) => data),
-  // path: /options/Experimental/Impostor/Capitalist.html
-  "v-3f0326a8": () => import(/* webpackChunkName: "v-3f0326a8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Capitalist.html.js").then(({ data }) => data),
-  // path: /options/Experimental/Impostor/Disperser.html
-  "v-bcf1a81a": () => import(/* webpackChunkName: "v-bcf1a81a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Disperser.html.js").then(({ data }) => data),
-  // path: /options/Experimental/Impostor/Eraser.html
-  "v-348ffd02": () => import(/* webpackChunkName: "v-348ffd02" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Eraser.html.js").then(({ data }) => data),
-  // path: /options/Experimental/Impostor/KillingMachine.html
-  "v-7cd1590b": () => import(/* webpackChunkName: "v-7cd1590b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/KillingMachine.html.js").then(({ data }) => data),
-  // path: /options/Experimental/Impostor/Lightning.html
-  "v-66bf0cfa": () => import(/* webpackChunkName: "v-66bf0cfa" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Lightning.html.js").then(({ data }) => data),
-  // path: /options/Experimental/Impostor/Trapster.html
-  "v-78fe2f9a": () => import(/* webpackChunkName: "v-78fe2f9a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Trapster.html.js").then(({ data }) => data),
-  // path: /options/Experimental/Impostor/Zombie.html
-  "v-592179a8": () => import(/* webpackChunkName: "v-592179a8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Zombie.html.js").then(({ data }) => data),
-  // path: /options/Experimental/Neutral/God.html
-  "v-6cfcbefc": () => import(/* webpackChunkName: "v-6cfcbefc" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Neutral/God.html.js").then(({ data }) => data),
-  // path: /options/Experimental/Neutral/Spiritcaller.html
-  "v-57b9c298": () => import(/* webpackChunkName: "v-57b9c298" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Neutral/Spiritcaller.html.js").then(({ data }) => data),
   // path: /options/Neutrals/Benign/Amnesiac.html
   "v-645bd8ed": () => import(/* webpackChunkName: "v-645bd8ed" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Amnesiac.html.js").then(({ data }) => data),
   // path: /options/Neutrals/Benign/Follower.html
@@ -397,6 +375,30 @@ export const pagesData = {
   "v-70d7d48c": () => import(/* webpackChunkName: "v-70d7d48c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Shaman.html.js").then(({ data }) => data),
   // path: /options/Neutrals/Benign/Witch.html
   "v-e694537a": () => import(/* webpackChunkName: "v-e694537a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Witch.html.js").then(({ data }) => data),
+  // path: /options/Impostors/Support/Camouflager.html
+  "v-ab2f7c90": () => import(/* webpackChunkName: "v-ab2f7c90" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Camouflager.html.js").then(({ data }) => data),
+  // path: /options/Impostors/Support/Cleaner.html
+  "v-09fa1060": () => import(/* webpackChunkName: "v-09fa1060" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Cleaner.html.js").then(({ data }) => data),
+  // path: /options/Impostors/Support/Consigliere.html
+  "v-5673f08c": () => import(/* webpackChunkName: "v-5673f08c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Consigliere.html.js").then(({ data }) => data),
+  // path: /options/Impostors/Support/Disruptor.html
+  "v-03be14ce": () => import(/* webpackChunkName: "v-03be14ce" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Disruptor.html.js").then(({ data }) => data),
+  // path: /options/Impostors/Support/Fireworker.html
+  "v-03c72b18": () => import(/* webpackChunkName: "v-03c72b18" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Fireworker.html.js").then(({ data }) => data),
+  // path: /options/Impostors/Support/Gangster.html
+  "v-7d3297cb": () => import(/* webpackChunkName: "v-7d3297cb" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Gangster.html.js").then(({ data }) => data),
+  // path: /options/Impostors/Support/Godfather.html
+  "v-1e1101ae": () => import(/* webpackChunkName: "v-1e1101ae" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Godfather.html.js").then(({ data }) => data),
+  // path: /options/Impostors/Support/Morphling.html
+  "v-3a075570": () => import(/* webpackChunkName: "v-3a075570" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Morphling.html.js").then(({ data }) => data),
+  // path: /options/Impostors/Support/Nemesis.html
+  "v-0d751a98": () => import(/* webpackChunkName: "v-0d751a98" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Nemesis.html.js").then(({ data }) => data),
+  // path: /options/Impostors/Support/TimeThief.html
+  "v-afd96fc6": () => import(/* webpackChunkName: "v-afd96fc6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/TimeThief.html.js").then(({ data }) => data),
+  // path: /options/Impostors/Support/Vindicator.html
+  "v-272a8113": () => import(/* webpackChunkName: "v-272a8113" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Vindicator.html.js").then(({ data }) => data),
+  // path: /options/Impostors/Support/Visionary.html
+  "v-880e83f4": () => import(/* webpackChunkName: "v-880e83f4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Visionary.html.js").then(({ data }) => data),
   // path: /options/Neutrals/Chaos/Collector.html
   "v-d93ecad8": () => import(/* webpackChunkName: "v-d93ecad8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Collector.html.js").then(({ data }) => data),
   // path: /options/Neutrals/Chaos/Cultist.html

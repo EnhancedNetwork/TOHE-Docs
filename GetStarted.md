@@ -6,6 +6,12 @@ title: Installation
 # INSTALLATION
 Installation requires that you own a PC version of AmongUs on Steam, Epic, or Itch. 
 
+## Distribution Policy
+
+Dev and Canary Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
+If you are a content creator, you may use these builds in your videos, but you may not provide a download link to your viewers. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked.<br><br>
+This policy is in place to keep the integrity of our Sponsor, Contributor, Tester, Booster, and Translator roles. If you are interested in becoming one of these roles, please see the above sections for more information.
+
 ## MANUAL INSTALLATION
 
 1. Download the latest full Release of TOHRE [here](https://github.com/Loonie-Toons/TownOfHost-ReEdited/releases). You only need the main zip such as "TOHE.v2.5.0.zip", not the source code files.
@@ -24,5 +30,15 @@ Installation requires that you own a PC version of AmongUs on Steam, Epic, or It
 ## Update
 Keep an eye on the [releases page](https://github.com/Loonie-Toons/TownOfHost-ReEdited/releases) for new releases. If a new version is released, all you'll usually need to do is repeat steps 1-2 above, unzipping into the same folder where you already have it installed and letting it overwrite. If it says it requires a newer version of Among Us, repeat steps 3-5 as well after making sure your base game is up to date.
 
-## Canary Versions
-If you would like to test the newest versions of TOHRE before they're officially released, you can download the latest canary version from the [official TOHRE discord](https://discord.gg/tohe). These versions will most of the time be a TOHE.dll file, which you will place in your `.\BepInEx\plugins` folder, for example `C:\TOHRE\BepInEx\plugins` and overwrite the old one. You must have already installed the latest main release before you can use a canary version.
+## Dev Builds - Accessible by Sponsors, Contributors and Testers `NOT FOR DISTRIBUTION`
+- To become a <b>Tester</b>, you must be an active content creator with your <b>TOHRE videos</b> having 600+ views on average
+- To become a <b>Contributor</b>, you need to help with coding in roles/add-ons/gamemode/etc for the game
+- To become a <b>Sponsor</b>, you must donate to our [Patreon](https://patreon.com/TOHRE); The lowest tier is $5 USD
+
+Once you have been accepted into one of the above roles, you will be able to access the dev builds channel in the [TOHRE Discord](https://discord.gg/tohe)
+
+## Canary Builds - Accessible by Boosters and Translators `NOT FOR DISTRIBUTION`
+- To become a Booster, you must <i>boost the [TOHRE Discord](https://discord.gg/tohe) server</i>
+- To become a Translator, you need to help with translating the game into other languages. You can find more information about this in the [TOHRE Discord](https://discord.gg/tohe)
+
+Once you have been accepted into one of the above roles, you will be able to access the canary versions channel in the [TOHRE Discord](https://discord.gg/tohe).

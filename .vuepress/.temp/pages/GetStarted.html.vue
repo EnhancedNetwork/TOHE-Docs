@@ -1,5 +1,9 @@
 <template><div><h1 id="installation" tabindex="-1"><a class="header-anchor" href="#installation" aria-hidden="true">#</a> INSTALLATION</h1>
 <p>Installation requires that you own a PC version of AmongUs on Steam, Epic, or Itch.</p>
+<h2 id="distribution-policy" tabindex="-1"><a class="header-anchor" href="#distribution-policy" aria-hidden="true">#</a> Distribution Policy</h2>
+<p>Dev and Canary Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
+If you are a content creator, you may use these builds in your videos, but you may not provide a download link to your viewers. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked.<br><br>
+This policy is in place to keep the integrity of our Sponsor, Contributor, Tester, Booster, and Translator roles. If you are interested in becoming one of these roles, please see the above sections for more information.</p>
 <h2 id="manual-installation" tabindex="-1"><a class="header-anchor" href="#manual-installation" aria-hidden="true">#</a> MANUAL INSTALLATION</h2>
 <ol>
 <li>
@@ -23,8 +27,19 @@
 <h4 id="you-have-now-installed-tohre-all-that-remains-is-to-start-up-a-private-lobby-and-customize-your-settings" tabindex="-1"><a class="header-anchor" href="#you-have-now-installed-tohre-all-that-remains-is-to-start-up-a-private-lobby-and-customize-your-settings" aria-hidden="true">#</a> You have now installed TOHRE! All that remains is to start up a private lobby and customize your settings.</h4>
 <h2 id="update" tabindex="-1"><a class="header-anchor" href="#update" aria-hidden="true">#</a> Update</h2>
 <p>Keep an eye on the <a href="https://github.com/Loonie-Toons/TownOfHost-ReEdited/releases" target="_blank" rel="noopener noreferrer">releases page<ExternalLinkIcon/></a> for new releases. If a new version is released, all you'll usually need to do is repeat steps 1-2 above, unzipping into the same folder where you already have it installed and letting it overwrite. If it says it requires a newer version of Among Us, repeat steps 3-5 as well after making sure your base game is up to date.</p>
-<h2 id="canary-versions" tabindex="-1"><a class="header-anchor" href="#canary-versions" aria-hidden="true">#</a> Canary Versions</h2>
-<p>If you would like to test the newest versions of TOHRE before they're officially released, you can download the latest canary version from the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">official TOHRE discord<ExternalLinkIcon/></a>. These versions will most of the time be a TOHE.dll file, which you will place in your <code v-pre>.\BepInEx\plugins</code> folder, for example <code v-pre>C:\TOHRE\BepInEx\plugins</code> and overwrite the old one. You must have already installed the latest main release before you can use a canary version.</p>
+<h2 id="dev-builds-accessible-by-sponsors-contributors-and-testers-not-for-distribution" tabindex="-1"><a class="header-anchor" href="#dev-builds-accessible-by-sponsors-contributors-and-testers-not-for-distribution" aria-hidden="true">#</a> Dev Builds - Accessible by Sponsors, Contributors and Testers <code v-pre>NOT FOR DISTRIBUTION</code></h2>
+<ul>
+<li>To become a <b>Tester</b>, you must be an active content creator with your <b>TOHRE videos</b> having 600+ views on average</li>
+<li>To become a <b>Contributor</b>, you need to help with coding in roles/add-ons/gamemode/etc for the game</li>
+<li>To become a <b>Sponsor</b>, you must donate to our <a href="https://patreon.com/TOHRE" target="_blank" rel="noopener noreferrer">Patreon<ExternalLinkIcon/></a>; The lowest tier is $5 USD</li>
+</ul>
+<p>Once you have been accepted into one of the above roles, you will be able to access the dev builds channel in the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">TOHRE Discord<ExternalLinkIcon/></a></p>
+<h2 id="canary-builds-accessible-by-boosters-and-translators-not-for-distribution" tabindex="-1"><a class="header-anchor" href="#canary-builds-accessible-by-boosters-and-translators-not-for-distribution" aria-hidden="true">#</a> Canary Builds - Accessible by Boosters and Translators <code v-pre>NOT FOR DISTRIBUTION</code></h2>
+<ul>
+<li>To become a Booster, you must <i>boost the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">TOHRE Discord<ExternalLinkIcon/></a> server</i></li>
+<li>To become a Translator, you need to help with translating the game into other languages. You can find more information about this in the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">TOHRE Discord<ExternalLinkIcon/></a></li>
+</ul>
+<p>Once you have been accepted into one of the above roles, you will be able to access the canary versions channel in the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">TOHRE Discord<ExternalLinkIcon/></a>.</p>
 </div></template>
 
 

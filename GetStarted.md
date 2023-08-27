@@ -4,15 +4,16 @@ title: Installation
 ---
 
 # INSTALLATION
-Installation requires that you own a PC version of AmongUs on Steam, Epic, or Itch. 
+
 
 ## Distribution Policy
 
-Dev and Canary Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
+<b>Dev and Canary Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
 If you are a content creator, you may use these builds in your videos, but you may not provide a download link to your viewers. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked.<br><br>
-This policy is in place to keep the integrity of our Sponsor, Contributor, Tester, Booster, and Translator roles. If you are interested in becoming one of these roles, please see the above sections for more information.
+This policy is in place to keep the integrity of our Sponsor, Contributor, Tester, Booster, and Translator roles. If you are interested in becoming one of these roles, please see the above sections for more information.</b>
 
 ## MANUAL INSTALLATION
+Installation requires that you own a PC version of Among Us on Steam, Epic, or Itch. 
 
 1. Download the latest full Release of TOHRE [here](https://github.com/Loonie-Toons/TownOfHost-ReEdited/releases). You only need the main zip such as "TOHE.v2.5.0.zip", not the source code files.
 
@@ -37,8 +38,8 @@ Keep an eye on the [releases page](https://github.com/Loonie-Toons/TownOfHost-Re
 
 Once you have been accepted into one of the above roles, you will be able to access the dev builds channel in the [TOHRE Discord](https://discord.gg/tohe)
 
-## Canary Builds - Accessible by Boosters and Translators `NOT FOR DISTRIBUTION`
-- To become a Booster, you must <i>boost the [TOHRE Discord](https://discord.gg/tohe) server</i>
+## Canary Builds - Accessible by Nitro Boosters and Translators `NOT FOR DISTRIBUTION`
+- To become a Nitro Booster, you must <i>boost the [TOHRE Discord](https://discord.gg/tohe) server</i>
 - To become a Translator, you need to help with translating the game into other languages. You can find more information about this in the [TOHRE Discord](https://discord.gg/tohe)
 
 Once you have been accepted into one of the above roles, you will be able to access the canary versions channel in the [TOHRE Discord](https://discord.gg/tohe).

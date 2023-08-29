@@ -8,7 +8,7 @@ next: Workhorse
 # <font color=#ff6347>⛔ <b>Unlucky</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>
 ---
 
-As the Unluxky, doing tasks, killing, or venting has a chance to kill you.
+As the Unlucky, doing tasks, killing, or venting has a chance to kill you.
 * Max
   * Set the Maximum amount of Unlucky that can be in a match
 * Spawn Chance

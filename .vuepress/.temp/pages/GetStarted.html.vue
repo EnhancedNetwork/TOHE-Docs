@@ -1,10 +1,10 @@
 <template><div><h1 id="installation" tabindex="-1"><a class="header-anchor" href="#installation" aria-hidden="true">#</a> INSTALLATION</h1>
-<p>Installation requires that you own a PC version of AmongUs on Steam, Epic, or Itch.</p>
 <h2 id="distribution-policy" tabindex="-1"><a class="header-anchor" href="#distribution-policy" aria-hidden="true">#</a> Distribution Policy</h2>
-<p>Dev and Canary Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
+<p><b>Dev and Canary Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
 If you are a content creator, you may use these builds in your videos, but you may not provide a download link to your viewers. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked.<br><br>
-This policy is in place to keep the integrity of our Sponsor, Contributor, Tester, Booster, and Translator roles. If you are interested in becoming one of these roles, please see the above sections for more information.</p>
+This policy is in place to keep the integrity of our Sponsor, Contributor, Tester, Booster, and Translator roles. If you are interested in becoming one of these roles, please see the above sections for more information.</b></p>
 <h2 id="manual-installation" tabindex="-1"><a class="header-anchor" href="#manual-installation" aria-hidden="true">#</a> MANUAL INSTALLATION</h2>
+<p>Installation requires that you own a PC version of Among Us on Steam, Epic, or Itch.</p>
 <ol>
 <li>
 <p>Download the latest full Release of TOHRE <a href="https://github.com/Loonie-Toons/TownOfHost-ReEdited/releases" target="_blank" rel="noopener noreferrer">here<ExternalLinkIcon/></a>. You only need the main zip such as &quot;TOHE.v2.5.0.zip&quot;, not the source code files.</p>
@@ -34,9 +34,9 @@ This policy is in place to keep the integrity of our Sponsor, Contributor, Teste
 <li>To become a <b>Sponsor</b>, you must donate to our <a href="https://patreon.com/TOHRE" target="_blank" rel="noopener noreferrer">Patreon<ExternalLinkIcon/></a>; The lowest tier is $5 USD</li>
 </ul>
 <p>Once you have been accepted into one of the above roles, you will be able to access the dev builds channel in the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">TOHRE Discord<ExternalLinkIcon/></a></p>
-<h2 id="canary-builds-accessible-by-boosters-and-translators-not-for-distribution" tabindex="-1"><a class="header-anchor" href="#canary-builds-accessible-by-boosters-and-translators-not-for-distribution" aria-hidden="true">#</a> Canary Builds - Accessible by Boosters and Translators <code v-pre>NOT FOR DISTRIBUTION</code></h2>
+<h2 id="canary-builds-accessible-by-nitro-boosters-and-translators-not-for-distribution" tabindex="-1"><a class="header-anchor" href="#canary-builds-accessible-by-nitro-boosters-and-translators-not-for-distribution" aria-hidden="true">#</a> Canary Builds - Accessible by Nitro Boosters and Translators <code v-pre>NOT FOR DISTRIBUTION</code></h2>
 <ul>
-<li>To become a Booster, you must <i>boost the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">TOHRE Discord<ExternalLinkIcon/></a> server</i></li>
+<li>To become a Nitro Booster, you must <i>boost the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">TOHRE Discord<ExternalLinkIcon/></a> server</i></li>
 <li>To become a Translator, you need to help with translating the game into other languages. You can find more information about this in the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">TOHRE Discord<ExternalLinkIcon/></a></li>
 </ul>
 <p>Once you have been accepted into one of the above roles, you will be able to access the canary versions channel in the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">TOHRE Discord<ExternalLinkIcon/></a>.</p>

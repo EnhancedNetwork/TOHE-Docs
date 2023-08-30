@@ -1,6 +1,6 @@
 <template><div><h1 id="⛔-unlucky" tabindex="-1"><a class="header-anchor" href="#⛔-unlucky" aria-hidden="true">#</a> <font color=#ff6347>⛔ <b>Unlucky</b></font> <Badge text="Harmful" type="tip" vertical="middle"/></h1>
 <hr>
-<p>As the Unluxky, doing tasks, killing, or venting has a chance to kill you.</p>
+<p>As the Unlucky, doing tasks, killing, or venting has a chance to kill you.</p>
 <ul>
 <li>Max
 <ul>

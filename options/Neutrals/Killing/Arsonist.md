@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Arsonist
-prev: Agitater
+prev: Agitator
 next: BloodKnight
 ---
 

@@ -1,4 +1,4 @@
-<template><div><h1 id="🗣️-agitater" tabindex="-1"><a class="header-anchor" href="#🗣️-agitater" aria-hidden="true">#</a> <font color="#a41342">🗣️ <b>Agitater</b></font> <Badge text="Killing" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="🗣️-agitator" tabindex="-1"><a class="header-anchor" href="#🗣️-agitator" aria-hidden="true">#</a> <font color="#a41342">🗣️ <b>Agitator</b></font> <Badge text="Killing" type="tip" vertical="middle"/></h1>
 <hr>
 <p>As the Agitator, your premise is essentially Hot Potato.<br><br>
 Use your kill button on a player to pass the bomb.<br>

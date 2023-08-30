@@ -64,22 +64,22 @@ The Sheriff can kill any Non-Crew player. If the Sheriff tries tries to kill a C
 * Parasite
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Convict
+* Convict
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Refugee
+* Refugee
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Arsonist
+* Arsonist
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
 * Agitater
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Seeker
+* Seeker
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Soul Collector<font color=green>ON</font>: This role can be shot by the Sheriff
+* Soul Collector<font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
 * Hex Master
   * <font color=green>ON</font>: This role can be shot by the Sheriff
@@ -93,7 +93,7 @@ The Sheriff can kill any Non-Crew player. If the Sheriff tries tries to kill a C
 * Opportunist
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Shaman
+* Shaman
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
 * Vector
@@ -198,46 +198,46 @@ The Sheriff can kill any Non-Crew player. If the Sheriff tries tries to kill a C
 * Vulture
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Plaguebearer
+* Plaguebearer
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Medusa
+* Medusa
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Sidekick
+* Sidekick
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Spiritcaller
+* Spiritcaller
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Amnesiac
+* Amnesiac
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Doomsayer
+* Doomsayer
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Masochist
+* Masochist
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Shroud
+* Shroud
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Werewolf
+* Werewolf
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Coven Leader
+* Coven Leader
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Necromancer
+* Necromancer
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Banshee
+* Banshee
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Occultist
+* Occultist
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-  * Shade
+* Shade
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
 </details>

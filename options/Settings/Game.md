@@ -48,10 +48,13 @@ next: Modifiers
         * Mira HQ - Set the chance that the map will be Mira HQ
         * Polus - Set the chance that the map will be Polus
         * Airship - Set the chance that the map will be Airship
+        * Use a more random map selection
+          * <font color=green>ON</font>: Maps will be selected even more randomly
+          * <font color=red>OFF</font>: Maps will not be selected even more randomly
     * Random Spawns
       * <font color=green>ON</font>: Spawn locations will be chosen randomly
         * Additional Spawn Locations (Airship)
-          * <font color=green>ON</font>: More spawn locations will be adde
+          * <font color=green>ON</font>: More spawn locations will be added
           * <font color=red>OFF</font>: More spawn locations will not be added
       * <font color=red>OFF</font>: Spawn locations will be chosen normally
     * Variable Electrical

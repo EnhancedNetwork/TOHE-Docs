@@ -1,4 +1,4 @@
-<template><div><h1 id="☭-assassin" tabindex="-1"><a class="header-anchor" href="#☭-assassin" aria-hidden="true">#</a> <font color="red">☭ Assassin</font> <Badge text="Killing" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="🔪-assassin" tabindex="-1"><a class="header-anchor" href="#🔪-assassin" aria-hidden="true">#</a> <font color="red">🔪 Assassin</font> <Badge text="Killing" type="tip" vertical="middle"/></h1>
 <hr>
 <p>The Assassin can guess the role of a certain player during the meeting.</p>
 <p>If it is correct, the target dies, and if it is wrong, the Assassin dies.</p>

@@ -5,7 +5,7 @@ prev: Arrogance
 next: Berserker
 ---
 
-# <font color="red">☭ Assassin</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="red">🔪 Assassin</font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 The Assassin can guess the role of a certain player during the meeting. 

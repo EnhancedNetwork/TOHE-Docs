@@ -125,17 +125,26 @@
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Convict</li>
+</ul>
+</li>
+<li>Convict
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Refugee</li>
+</ul>
+</li>
+<li>Refugee
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Arsonist</li>
+</ul>
+</li>
+<li>Arsonist
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
@@ -148,12 +157,18 @@
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Seeker</li>
+</ul>
+</li>
+<li>Seeker
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Soul Collector<font color=green>ON</font>: This role can be shot by the Sheriff</li>
+</ul>
+</li>
+<li>Soul Collector<font color=green>ON</font>: This role can be shot by the Sheriff
+<ul>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
 </ul>
@@ -188,7 +203,10 @@
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Shaman</li>
+</ul>
+</li>
+<li>Shaman
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
@@ -465,72 +483,114 @@
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Plaguebearer</li>
+</ul>
+</li>
+<li>Plaguebearer
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Medusa</li>
+</ul>
+</li>
+<li>Medusa
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Sidekick</li>
+</ul>
+</li>
+<li>Sidekick
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Spiritcaller</li>
+</ul>
+</li>
+<li>Spiritcaller
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Amnesiac</li>
+</ul>
+</li>
+<li>Amnesiac
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Doomsayer</li>
+</ul>
+</li>
+<li>Doomsayer
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Masochist</li>
+</ul>
+</li>
+<li>Masochist
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Shroud</li>
+</ul>
+</li>
+<li>Shroud
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Werewolf</li>
+</ul>
+</li>
+<li>Werewolf
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Coven Leader</li>
+</ul>
+</li>
+<li>Coven Leader
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Necromancer</li>
+</ul>
+</li>
+<li>Necromancer
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Banshee</li>
+</ul>
+</li>
+<li>Banshee
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Occultist</li>
+</ul>
+</li>
+<li>Occultist
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
-<li>Shade</li>
+</ul>
+</li>
+<li>Shade
+<ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>

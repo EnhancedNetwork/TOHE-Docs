@@ -35,3 +35,4 @@ each update that comes</p>
 We ask for your patience while we continue to make TOH-<i>ReEdited</i></p>
 <p>Ultimately, we thank you for your patience while we continue to update the mod. TOHE will be remembered
 by KARPED1EM with the new name TOH-RE.</p>
+<p>Thanks Pyro for your help with the website! - Moe</p>

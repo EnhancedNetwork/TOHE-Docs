@@ -5,7 +5,7 @@ prev: Guesser
 next: YouTuber
 ---
 
-# <font color=#00a4ff>🔱 <b>Neptune</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
+# <font color=#00a4ff>🔱 <b>Neptune</b></font> <Badge text="Addon" type="tip" vertical="middle"/>
 
 When there is Neptune, all players will see that they are Lovers with Neptune, and they will not die in love together and will not change the win conditions. Note: Lovers won't become Neptune, and Neptune won't become Lovers.
 * Spawn Chance

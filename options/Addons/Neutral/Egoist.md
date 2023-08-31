@@ -5,7 +5,7 @@ prev: /options/settings/Addons.html
 next: Lovers
 ---
 
-# <font color=#5600ff>💪 <b>Egoist</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
+# <font color=#5600ff>💪 <b>Egoist</b></font> <Badge text="Neutral" type="tip" vertical="middle"/>
 ---
 
 Madmate and <font color=#7f8c8d>Neutrals</font> won't be Egoist. If the Egoist's team wins, the Egoist wins instead of his team.

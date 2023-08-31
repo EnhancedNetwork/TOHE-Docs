@@ -5,7 +5,7 @@ prev: Revolutionist
 next: /options/settings/Experimental.html
 ---
 
-# <font color=#003366>👻 <b>Spiritcaller</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
+# <font color=#003366>👻 <b>Spiritcaller</b></font> <Badge text="Neutral" type="tip" vertical="middle"/>
 
 As the Spiritcaller, your victims become Evil Spirits after they die. These spirits can help you win by freezing other players for a short time and/or blocking their vision. Alternatively, the spirits can give you a shield that protects you briefly from an attempted kill.
 * Max

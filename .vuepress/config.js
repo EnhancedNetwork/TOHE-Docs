@@ -131,7 +131,7 @@ export default ({
             { text: 'DoubleShot', link: '/options/Addons/Helpful/DoubleShot.html' },
             { text: 'Glow', link: '/options/Addons/Helpful/Glow.html' },
             { text: 'Gravestone', link: '/options/Addons/Helpful/Gravestone.html' },
-            { text: 'Guesser', link: '/options/Experimental/Addon/Guesser.html' },
+            { text: 'Guesser', link: '/options/Addons/Helpful/Guesser.html' },
             { text: 'Lazy', link: '/options/Addons/Helpful/Lazy.html' },
             { text: 'Loyal', link: '/options/Addons/Helpful/Loyal.html' },
             { text: 'Lucky', link: '/options/Addons/Helpful/Lucky.html' },

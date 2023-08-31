@@ -5,7 +5,7 @@ prev: /options/settings/Experimental.html
 next: Provocateur
 ---
 
-# <font color=#f96464>👑 <b>God</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
+# <font color=#f96464>👑 <b>God</b></font> <Badge text="Neutral" type="tip" vertical="middle"/>
 ---
 
 God knows everyone's role from the beginning, and God will win alone as long as he lives to the end. Note: God won't be Lovers.

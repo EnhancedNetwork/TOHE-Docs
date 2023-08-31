@@ -81,6 +81,14 @@
 <li>Mira HQ - Set the chance that the map will be Mira HQ</li>
 <li>Polus - Set the chance that the map will be Polus</li>
 <li>Airship - Set the chance that the map will be Airship</li>
+<li>Use a more random map selection
+<ul>
+<li>
+<font color=green>ON</font>: Maps will be selected even more randomly</li>
+<li>
+<font color=red>OFF</font>: Maps will not be selected even more randomly</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -92,7 +100,7 @@
 <li>Additional Spawn Locations (Airship)
 <ul>
 <li>
-<font color=green>ON</font>: More spawn locations will be adde</li>
+<font color=green>ON</font>: More spawn locations will be added</li>
 <li>
 <font color=red>OFF</font>: More spawn locations will not be added</li>
 </ul>

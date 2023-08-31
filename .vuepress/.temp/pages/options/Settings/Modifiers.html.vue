@@ -521,6 +521,14 @@
 <font color=red>OFF</font>: Passive <font color=#7f8c8d>Neutrals</font> cannot guess players' roles</li>
 </ul>
 </li>
+<li>
+<font color=#663399>Coven</font> members can guess<ul>
+<li>
+<font color=green>ON</font>: <font color=#663399>Coven</font> members can guess players' roles</li>
+<li>
+<font color=red>OFF</font>: <font color=#663399>Coven</font> members cannot guess players' roles</li>
+</ul>
+</li>
 <li>Can Guess Add-ons
 <ul>
 <li>

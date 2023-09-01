@@ -5,7 +5,7 @@ prev: Neptune
 next: /options/settings/Experimental.html
 ---
 
-# <font color=#fb749b>📹 <b>YouTuber</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
+# <font color=#fb749b>📹 <b>YouTuber</b></font> <Badge text="Addon" type="tip" vertical="middle"/>
 ---
 
 Only <font color=#8cffff>Crewmate</font> will become YouTuber. When the YouTuber is the first player to be killed in the game, the YouTuber will win alone. If the YouTuber does not meet the win conditions, the YouTuber will follow the <font color=#8cffff>Crewmate</font> to win. Note: Indirect killing methods such as being exiled, being guessed by the Guesser, etc. will not trigger the skills of the YouTuber.

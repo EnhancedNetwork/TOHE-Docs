@@ -5,7 +5,7 @@ prev: Egoist
 next: Guesser
 ---
 
-# <font color=#e6e7ff>👻 <b>Fool</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
+# <font color=#e6e7ff>👻 <b>Fool</b></font> <Badge text="Addon" type="tip" vertical="middle"/>
 ---
 
 <p><font color=red>Impostor</font> and Repairman won't be Fool. Fools can't repair any sabotage.</p>

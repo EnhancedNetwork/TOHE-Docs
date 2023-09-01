@@ -5,7 +5,7 @@ prev: Modifiers
 next: Crewmates
 ---
 
-# <font color=red>🔴 <b>Faction: Impostor</b></font> <Badge text="Total: 50" type="tip" vertical="middle"/>
+# <font color=red>🔴 <b>Faction: Impostor</b></font> <Badge text="Total: 53" type="tip" vertical="middle"/>
 ---
 
 <b>Eliminate all <font color=#8cffff>Crewmates</font> and <font color=#7f8c8d>Neutrals</font> from the game by any means necessary. Each role has a unique way of accomplishing their goal. From mass-killing to framing others, they have to find any means necessary to win.</b><br>
@@ -27,7 +27,7 @@ next: Crewmates
 
 <tr>
 <td><font color=#6e003a><b>Killing</b></font></td>
-<td align="center">20</td>
+<td align="center">23</td>
 </tr>
 
 <tr>

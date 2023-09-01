@@ -5,7 +5,7 @@ prev: Addons
 next: Impostors
 ---
 
-# <font color=#76b8e0>🔴 <b>All: Experimental</b></font> <Badge text="Total: 19" type="tip" vertical="middle"/>
+# <font color=#76b8e0>🔴 <b>All: Experimental</b></font> <Badge text="Total: 13" type="tip" vertical="middle"/>
 ---
 <b>These are roles that are not fully stable and may contain bugs. They can be Impostor, Crewmate, <font color=#7f8c8d>Neutral</font> roles or Add-ons. <u>USE AT YOUR OWN RISK</u></b>
 
@@ -16,7 +16,7 @@ next: Impostors
 
 <tr>
 <td><font color=#ff9ace><b>Add-ons</b></font></td>
-<td align="center">5</td>
+<td align="center">3</td>
 </tr>
 
 <tr>
@@ -26,12 +26,12 @@ next: Impostors
 
 <tr>
 <td><font color=red><b>Impostor</b></font></td>
-<td align="center">9</td>
+<td align="center">8</td>
 </tr>
 
 <tr>
 <td><font color=#7c8c8d><b>Neutral</b></font></td>
-<td align="center">5</td>
+<td align="center">2</td>
 </tr>
 
 </table>

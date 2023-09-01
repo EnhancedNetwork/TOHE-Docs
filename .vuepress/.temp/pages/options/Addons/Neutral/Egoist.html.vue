@@ -1,4 +1,4 @@
-<template><div><h1 id="💪-egoist" tabindex="-1"><a class="header-anchor" href="#💪-egoist" aria-hidden="true">#</a> <font color=#5600ff>💪 <b>Egoist</b></font> <Badge text="Experimental" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="💪-egoist" tabindex="-1"><a class="header-anchor" href="#💪-egoist" aria-hidden="true">#</a> <font color=#5600ff>💪 <b>Egoist</b></font> <Badge text="Neutral" type="tip" vertical="middle"/></h1>
 <hr>
 <p>Madmate and <font color=#7f8c8d>Neutrals</font> won't be Egoist. If the Egoist's team wins, the Egoist wins instead of his team.</p>
 <ul>

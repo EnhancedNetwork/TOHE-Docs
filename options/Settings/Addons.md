@@ -5,7 +5,7 @@ prev: /options/settings/Neutrals.html
 next: /options/settings/Experimental.html
 ---
 
-# <font color="#ff9ace">➕ <b>All: Add-ons</b></font> <Badge text="Total: 37" type="tip" vertical="middle"/>
+# <font color="#ff9ace">➕ <b>All: Add-ons</b></font> <Badge text="Total: 43" type="tip" vertical="middle"/>
 ---
 
 <b>These are modifiers that any players can acquire. There are helpful, harmful, and <font color=red>Impostor</font> add-ons. Each one is unique in the way it affects the player.</b>
@@ -17,12 +17,12 @@ next: /options/settings/Experimental.html
 
 <tr>
 <td><font color=red><b>Harmful</b></font></td>
-<td align="center">10</td>
+<td align="center">12</td>
 </tr>
 
 <tr>
 <td><font color=#00ff00><b>Helpful</b></font></td>
-<td align="center">19</td>
+<td align="center">22</td>
 </tr>
 
 <tr>
@@ -31,7 +31,7 @@ next: /options/settings/Experimental.html
 </tr>
 <tr>
 <td><font color=#7f8c8d><b>Neutral</b></font></td>
-<td align="center">1</td>
+<td align="center">2</td>
 </tr>
 </table>
 <br>
@@ -43,12 +43,12 @@ next: /options/settings/Experimental.html
 
 ### <font color=#00ff00><b>Helpful</b></font>
 ---
-[Antidote](/options/Addons/Helpful/Antidote.html) | [Autopsy](/options/Addons/Helpful/Autopsy.html) | [Aware](/options/Addons/Helpful/Aware.html) | [Bait](/options/Addons/Helpful/Bait.html) | [Beartrap](/options/Addons/Helpful/Beartrap.html) | [Burst](/options/Addons/Helpful/Burst.html) | [Double Shot](/options/Addons/Helpful/DoubleShot.html) | [Glow](/options/Addons/Helpful/Glow.html) | [Gravestone](/options/Addons/Helpful/Gravestone.html) | [Guesser](/options/Experimental/Addon/Guesser.html) | [Lazy](/options/Addons/Helpful/Lazy.html) | [Loyal](/options/Addons/Helpful/Loyal.html) | [Lucky](/options/Addons/Helpful/Lucky.html) | [Necroview](/options/Addons/Helpful/Necroview.html) | [Nimble](/options/Addons/Helpful/Nimble.html) | [Reach](/options/Addons/Helpful/Reach.html) | [Schizophrenic](/options/Addons/Helpful/Schizophrenic.html) | [Seer](/options/Addons/Helpful/Seer.html) | [Sleuth](/options/Addons/Helpful/Sleuth.html) | [Torch](/options/Addons/Helpful/Torch.html) | [Tiebreaker](/options/Addons/Helpful/Tiebreaker.html) | [Watcher](/options/Addons/Helpful/Watcher.html)
+[Antidote](/options/Addons/Helpful/Antidote.html) | [Autopsy](/options/Addons/Helpful/Autopsy.html) | [Aware](/options/Addons/Helpful/Aware.html) | [Bait](/options/Addons/Helpful/Bait.html) | [Beartrap](/options/Addons/Helpful/Beartrap.html) | [Burst](/options/Addons/Helpful/Burst.html) | [Double Shot](/options/Addons/Helpful/DoubleShot.html) | [Glow](/options/Addons/Helpful/Glow.html) | [Gravestone](/options/Addons/Helpful/Gravestone.html) | [Guesser](/options/Addons/Helpful/Guesser.html) | [Lazy](/options/Addons/Helpful/Lazy.html) | [Loyal](/options/Addons/Helpful/Loyal.html) | [Lucky](/options/Addons/Helpful/Lucky.html) | [Necroview](/options/Addons/Helpful/Necroview.html) | [Nimble](/options/Addons/Helpful/Nimble.html) | [Reach](/options/Addons/Helpful/Reach.html) | [Schizophrenic](/options/Addons/Helpful/Schizophrenic.html) | [Seer](/options/Addons/Helpful/Seer.html) | [Sleuth](/options/Addons/Helpful/Sleuth.html) | [Torch](/options/Addons/Helpful/Torch.html) | [Tiebreaker](/options/Addons/Helpful/Tiebreaker.html) | [Watcher](/options/Addons/Helpful/Watcher.html)
 <br>
 
 ### <font color=red><b>Impostor</b></font>
 ---
-[Clumsy](/options/Addons/Impostor/Clumsy.html) | [LastImpostor](/options/Addons/Impostor/LastImpostor.html) | [Madmate](/options/Addons/Impostor/Madmate.html) | [Mare](/options/Addons/Impostor/Mare.html) | [Mimic](/options/Addons/Impostor/Mimic.html) | [Stealer](/options/Addons/Impostor/Stealer.html) | [Swift](/options/Addons/Impostor/Swift.html)
+[Clumsy](/options/Addons/Impostor/Clumsy.html) | [Last Impostor](/options/Addons/Impostor/LastImpostor.html) | [Madmate](/options/Addons/Impostor/Madmate.html) | [Mare](/options/Addons/Impostor/Mare.html) | [Mimic](/options/Addons/Impostor/Mimic.html) | [Stealer](/options/Addons/Impostor/Stealer.html) | [Swift](/options/Addons/Impostor/Swift.html)
 <br>
 
 ### <font color=#7f8c8d><b>Neutral</b></font>

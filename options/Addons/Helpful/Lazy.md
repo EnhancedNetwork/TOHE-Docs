@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Lazy
-prev: Gravestone
+prev: Guesser
 next: Loyal
 ---
 

@@ -5,7 +5,7 @@ prev: Crewmates
 next: Addons
 ---
 
-# <font color="#7f8c8d">👨‍🚀 <b>Faction: Neutral</b></font> <Badge text="Total: 48" type="tip" vertical="middle"/>
+# <font color="#7f8c8d">👨‍🚀 <b>Faction: Neutral</b></font> <Badge text="Total: 50" type="tip" vertical="middle"/>
 ---
 
 <b>Play for yourself, and eliminate everyone around you. <font color=gray>Neutrals</font> can win alone, but they can also win with other players. Their victory conditions are different from other players. Each <font color=#7f8c8d>Neutral</font> player has a unique victory condition.</b>
@@ -17,17 +17,12 @@ next: Addons
 
 <tr>
 <td><font color=#046300><b>Benign</b></font></td>
-<td align="center">9</td>
+<td align="center">13</td>
 </tr>
 
 <tr>
 <td><font color=#d4af37><b>Chaos</b></font></td>
-<td align="center">8</td>
-</tr>
-
-<tr>
-<td><font color=#663399><b>Coven</b></font></td>
-<td align="center">9</td>
+<td align="center">11</td>
 </tr>
 
 <tr>

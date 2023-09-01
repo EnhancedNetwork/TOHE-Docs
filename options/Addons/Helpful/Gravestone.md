@@ -2,7 +2,7 @@
 lang: en-US
 title: Gravestone
 prev: Glow
-next: Lazy
+next: Guesser
 ---
 
 # <font color=#2ea8e7>🪦 <b>Gravestone</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>

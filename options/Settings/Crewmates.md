@@ -5,7 +5,7 @@ prev: Impostors
 next: Neutrals
 ---
 
-# <font color="#8cffff">👨‍🚀 <b>Faction: Crewmate</b></font> <Badge text="Total: 51" type="tip" vertical="middle"/>
+# <font color="#8cffff">👨‍🚀 <b>Faction: Crewmate</b></font> <Badge text="Total: 54" type="tip" vertical="middle"/>
 ---
 
 <b>Focus on finding the <font color=red>Impostors</font> and completing tasks. These roles very simple, making it easier for new players and the <font color=#8cffff>Crewmates</font> to win.</b>
@@ -21,7 +21,7 @@ next: Neutrals
 
 <tr>
 <td><font color=#b22222><b>Killing</b></font></td>
-<td align="center">9</td>
+<td align="center">11</td>
 </tr>
 
 <tr>
@@ -31,7 +31,7 @@ next: Neutrals
 
 <tr>
 <td><font color=#7fffd4><b>Support</b></font></td>
-<td align="center">23</td>
+<td align="center">24</td>
 </tr>
 
 

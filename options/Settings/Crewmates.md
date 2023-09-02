@@ -21,7 +21,7 @@ next: Neutrals
 
 <tr>
 <td><font color=#b22222><b>Killing</b></font></td>
-<td align="center">11</td>
+<td align="center">10</td>
 </tr>
 
 <tr>
@@ -31,7 +31,7 @@ next: Neutrals
 
 <tr>
 <td><font color=#7fffd4><b>Support</b></font></td>
-<td align="center">24</td>
+<td align="center">25</td>
 </tr>
 
 
@@ -45,7 +45,7 @@ next: Neutrals
 
 ### <font color=#b22222><b>Killing</b></font>
 ---
-[Bodyguard](/options/Crewmates/Killing/Bodyguard.html) | [Crusader](/options/Crewmates/Killing/Crusader.html) | [Deceiver](/options/Crewmates/Killing/Deceiver.html) | [Jailor](/options/Crewmates/Killing/Jailor.html) | [Knight](/options/Crewmates/Killing/Knight.html) | [Retributionist](/options/Crewmates/Killing/Retributionist.html) | [Reverie](/options/Crewmates/Killing/Reverie.html) | [Sheriff](/options/Crewmates/Killing/Sheriff.html) | [Veteran](/options/Crewmates/Killing/Veteran.html) | [Vigilante](/options/Crewmates/Killing/Vigilante.html) | [Witness](/options/Crewmates/Killing/Witness.html)
+[Bodyguard](/options/Crewmates/Killing/Bodyguard.html) | [Crusader](/options/Crewmates/Killing/Crusader.html) | [Deceiver](/options/Crewmates/Killing/Deceiver.html) | [Jailor](/options/Crewmates/Killing/Jailor.html) | [Knight](/options/Crewmates/Killing/Knight.html) | [Retributionist](/options/Crewmates/Killing/Retributionist.html) | [Reverie](/options/Crewmates/Killing/Reverie.html) | [Sheriff](/options/Crewmates/Killing/Sheriff.html) | [Veteran](/options/Crewmates/Killing/Veteran.html) | [Vigilante](/options/Crewmates/Killing/Vigilante.html)
 <br>
 
 ### <font color=#d4af37><b>Power</b></font>
@@ -55,5 +55,5 @@ next: Neutrals
 
 ### <font color=#7fffd4><b>Support</b></font>
 ---
-[Admirer](/options/Crewmates/Support/Admirer.html) | [Chameleon](/options/Crewmates/Support/Chameleon.html) | [Coroner](/options/Crewmates/Support/Coroner.html) | [Deputy](/options/Crewmates/Support/Deputy.html) | [Detective](/options/Crewmates/Support/Detective.html) | [Fortune Teller](/options/Crewmates/Support/FortuneTeller.html) | [Grenadier](/options/Crewmates/Support/Grenadier.html) | [Inspector](/options/Crewmates/Support/Inspector.html) | [Lighter](/options/Crewmates/Support/Lighter.html) | [Mechanic](/options/Crewmates/Support/Mechanic.html) | [Medic](/options/Crewmates/Support/Medic.html) | [Medium](/options/Crewmates/Support/Medium.html) | [Merchant](/options/Crewmates/Support/Merchant.html) | [Mortician](/options/Crewmates/Support/Mortician.html) | [Observer](/options/Crewmates/Support/Observer.html) | [Oracle](/options/Crewmates/Support/Oracle.html) | [Pacifist](/options/Crewmates/Support/Pacifist.html) | [Paranoid](/options/Crewmates/Support/Paranoid.html) | [Psychic](/options/Crewmates/Support/Psychic.html) | [Snitch](/options/Crewmates/Support/Snitch.html) | [Spiritualist](/options/Crewmates/Support/Spiritualist.html) | [Time Manager](/options/Crewmates/Support/TimeManager.html) | [Time Master](/options/Crewmates/Support/TimeMaster.html) | [Tracker](/options/Crewmates/Support/Tracker.html)
+[Admirer](/options/Crewmates/Support/Admirer.html) | [Chameleon](/options/Crewmates/Support/Chameleon.html) | [Coroner](/options/Crewmates/Support/Coroner.html) | [Deputy](/options/Crewmates/Support/Deputy.html) | [Detective](/options/Crewmates/Support/Detective.html) | [Fortune Teller](/options/Crewmates/Support/FortuneTeller.html) | [Grenadier](/options/Crewmates/Support/Grenadier.html) | [Inspector](/options/Crewmates/Support/Inspector.html) | [Lighter](/options/Crewmates/Support/Lighter.html) | [Mechanic](/options/Crewmates/Support/Mechanic.html) | [Medic](/options/Crewmates/Support/Medic.html) | [Medium](/options/Crewmates/Support/Medium.html) | [Merchant](/options/Crewmates/Support/Merchant.html) | [Mortician](/options/Crewmates/Support/Mortician.html) | [Observer](/options/Crewmates/Support/Observer.html) | [Oracle](/options/Crewmates/Support/Oracle.html) | [Pacifist](/options/Crewmates/Support/Pacifist.html) | [Paranoid](/options/Crewmates/Support/Paranoid.html) | [Psychic](/options/Crewmates/Support/Psychic.html) | [Snitch](/options/Crewmates/Support/Snitch.html) | [Spiritualist](/options/Crewmates/Support/Spiritualist.html) | [Time Manager](/options/Crewmates/Support/TimeManager.html) | [Time Master](/options/Crewmates/Support/TimeMaster.html) | [Tracker](/options/Crewmates/Support/Tracker.html) | [Witness](/options/Crewmates/Support/Witness.html)
 <br>

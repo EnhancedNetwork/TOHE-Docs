@@ -2,7 +2,7 @@
 lang: en-US
 title: Tracker
 prev: TimeMaster
-next: /options/settings/Crewmates.html
+next: Witness
 ---
 
 # <font color="#3cb371">🐾 <b>Tracker</b></font> <Badge text="Support" type="tip" vertical="middle"/>

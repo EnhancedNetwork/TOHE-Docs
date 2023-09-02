@@ -1,4 +1,4 @@
-<template><div><h1 id="👻-fool" tabindex="-1"><a class="header-anchor" href="#👻-fool" aria-hidden="true">#</a> <font color=#e6e7ff>👻 <b>Fool</b></font> <Badge text="Experimental" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="👻-fool" tabindex="-1"><a class="header-anchor" href="#👻-fool" aria-hidden="true">#</a> <font color=#e6e7ff>👻 <b>Fool</b></font> <Badge text="Addon" type="tip" vertical="middle"/></h1>
 <hr>
 <p><font color=red>Impostor</font> and Repairman won't be Fool. Fools can't repair any sabotage.</p>
 <ul>

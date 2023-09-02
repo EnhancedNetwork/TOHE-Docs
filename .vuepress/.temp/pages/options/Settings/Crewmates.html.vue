@@ -1,4 +1,4 @@
-<template><div><h1 id="👨‍🚀-faction-crewmate" tabindex="-1"><a class="header-anchor" href="#👨‍🚀-faction-crewmate" aria-hidden="true">#</a> <font color="#8cffff">👨‍🚀 <b>Faction: Crewmate</b></font> <Badge text="Total: 51" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="👨‍🚀-faction-crewmate" tabindex="-1"><a class="header-anchor" href="#👨‍🚀-faction-crewmate" aria-hidden="true">#</a> <font color="#8cffff">👨‍🚀 <b>Faction: Crewmate</b></font> <Badge text="Total: 54" type="tip" vertical="middle"/></h1>
 <hr>
 <p><b>Focus on finding the <font color=red>Impostors</font> and completing tasks. These roles very simple, making it easier for new players and the <font color=#8cffff>Crewmates</font> to win.</b></p>
 <table>
@@ -11,7 +11,7 @@
 </tr>
 <tr>
 <td><font color=#b22222><b>Killing</b></font></td>
-<td align="center">9</td>
+<td align="center">11</td>
 </tr>
 <tr>
 <td><font color=#d4af37><b>Power</b></font></td>
@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td><font color=#7fffd4><b>Support</b></font></td>
-<td align="center">23</td>
+<td align="center">24</td>
 </tr>
 </table>
 <br>

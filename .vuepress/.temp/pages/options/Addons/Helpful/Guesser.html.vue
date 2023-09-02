@@ -1,4 +1,4 @@
-<template><div><h1 id="❔-guesser" tabindex="-1"><a class="header-anchor" href="#❔-guesser" aria-hidden="true">#</a> <font color=#f8cd46>❔ <b>Guesser</b></font> <Badge text="Experimental" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="❔-guesser" tabindex="-1"><a class="header-anchor" href="#❔-guesser" aria-hidden="true">#</a> <font color=#f8cd46>❔ <b>Guesser</b></font> <Badge text="Helpful" type="tip" vertical="middle"/></h1>
 <hr>
 <p>As a guesser, guess roles of players in meetings to kill them.<br>
 Guessing incorrectly kills you instead.<br>

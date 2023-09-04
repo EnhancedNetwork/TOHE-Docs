@@ -10,11 +10,16 @@ next: /Roles.html
 
 * <font color=#ffeb04>Preset</font>
   * Swap and choose your saved lobby settings
+
+* <font color=red>Use Protection Anti Blackout</font>
+  * <font color=green>ON</font>: Mod will prevent black-screening
+  * <font color=red>OFF</font>: Mod will not prevent black-screening
+  
 * Kick players whose level is lower than
   * Set the minimum level required to play
-* Kick mobile players
-  * <font color=green>ON</font>: Mobile players cannot play
-  * <font color=red>OFF</font>: Mobile players can play
+* Kick Non-PC players
+  * <font color=green>ON</font>: Non-PC players cannot play
+  * <font color=red>OFF</font>: Non-PC players can play
 * Kick players who are not logged in
   * <font color=green>ON</font>: Players without a registered account cannot play
   * <font color=red>OFF</font>: Players without a registered account can play

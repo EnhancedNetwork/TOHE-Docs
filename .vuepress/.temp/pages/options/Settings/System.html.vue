@@ -7,18 +7,26 @@
 </ul>
 </li>
 <li>
+<font color=red>Use Protection Anti Blackout</font><ul>
+<li>
+<font color=green>ON</font>: Mod will prevent black-screening</li>
+<li>
+<font color=red>OFF</font>: Mod will not prevent black-screening</li>
+</ul>
+</li>
+<li>
 <p>Kick players whose level is lower than</p>
 <ul>
 <li>Set the minimum level required to play</li>
 </ul>
 </li>
 <li>
-<p>Kick mobile players</p>
+<p>Kick Non-PC players</p>
 <ul>
 <li>
-<font color=green>ON</font>: Mobile players cannot play</li>
+<font color=green>ON</font>: Non-PC players cannot play</li>
 <li>
-<font color=red>OFF</font>: Mobile players can play</li>
+<font color=red>OFF</font>: Non-PC players can play</li>
 </ul>
 </li>
 <li>

@@ -60,7 +60,7 @@ next: Crewmates
 
 ### <font color=red>Madmate</font>
 ---
-[Crewposter](/options/Impostors/Madmate/Crewposter.html) | [Parasite](/options/Impostors/Madmate/Parasite.html)
+[Crewpostor](/options/Impostors/Madmate/Crewpostor.html) | [Parasite](/options/Impostors/Madmate/Parasite.html)
 <br>
 
 ### <font color=#00ffff>Support</font>

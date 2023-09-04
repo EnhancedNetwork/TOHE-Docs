@@ -10,9 +10,9 @@ All your kills will have the Mauled death reason.</p>
 <li>Set the Werewolf’s kill cooldown</li>
 </ul>
 </li>
-<li>Kill Cooldown After Killing
+<li>Maul Radius
 <ul>
-<li>Set the Werewolf’s kill cooldown after killing</li>
+<li>Set the Werewolf’s maul radius</li>
 </ul>
 </li>
 <li>Can Vent

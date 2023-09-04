@@ -183,7 +183,6 @@ export default ({
             { text: 'Sheriff', link: '/options/Crewmates/Killing/Sheriff.html' },
             { text: 'Veteran', link: '/options/Crewmates/Killing/Veteran.html' },
             { text: 'Vigilante', link: '/options/Crewmates/Killing/Vigilante.html' },
-            { text: 'Witness', link: '/options/Crewmates/Killing/Witness.html' },
           ],
           '/options/Crewmates/Power/': [
             { text: 'Back to Crewmates', link: '/options/settings/Crewmates.html' },
@@ -224,6 +223,7 @@ export default ({
             { text: 'Time Manager', link: '/options/Crewmates/Support/TimeManager.html' },
             { text: 'Time Master', link: '/options/Crewmates/Support/TimeMaster.html' },
             { text: 'Tracker', link: '/options/Crewmates/Support/Tracker.html' },
+            { text: 'Witness', link: '/options/Crewmates/Support/Witness.html' },
           ],
           '/options/Experimental/Addon/': [
             { text: 'Back to Experimental', link: '/options/settings/Experimental.html' },

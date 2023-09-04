@@ -11,7 +11,7 @@
 </tr>
 <tr>
 <td><font color=#b22222><b>Killing</b></font></td>
-<td align="center">11</td>
+<td align="center">10</td>
 </tr>
 <tr>
 <td><font color=#d4af37><b>Power</b></font></td>
@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td><font color=#7fffd4><b>Support</b></font></td>
-<td align="center">24</td>
+<td align="center">25</td>
 </tr>
 </table>
 <br>
@@ -29,7 +29,7 @@
 <br></p>
 <h3 id="killing" tabindex="-1"><a class="header-anchor" href="#killing" aria-hidden="true">#</a> <font color=#b22222><b>Killing</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Crewmates/Killing/Bodyguard.html">Bodyguard</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Crusader.html">Crusader</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Deceiver.html">Deceiver</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Jailor.html">Jailor</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Knight.html">Knight</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Retributionist.html">Retributionist</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Reverie.html">Reverie</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Sheriff.html">Sheriff</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Veteran.html">Veteran</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Vigilante.html">Vigilante</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Witness.html">Witness</RouterLink>
+<p><RouterLink to="/options/Crewmates/Killing/Bodyguard.html">Bodyguard</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Crusader.html">Crusader</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Deceiver.html">Deceiver</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Jailor.html">Jailor</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Knight.html">Knight</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Retributionist.html">Retributionist</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Reverie.html">Reverie</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Sheriff.html">Sheriff</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Veteran.html">Veteran</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Vigilante.html">Vigilante</RouterLink>
 <br></p>
 <h3 id="power" tabindex="-1"><a class="header-anchor" href="#power" aria-hidden="true">#</a> <font color=#d4af37><b>Power</b></font></h3>
 <hr>
@@ -37,7 +37,7 @@
 <br></p>
 <h3 id="support" tabindex="-1"><a class="header-anchor" href="#support" aria-hidden="true">#</a> <font color=#7fffd4><b>Support</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Crewmates/Support/Admirer.html">Admirer</RouterLink> | <RouterLink to="/options/Crewmates/Support/Chameleon.html">Chameleon</RouterLink> | <RouterLink to="/options/Crewmates/Support/Coroner.html">Coroner</RouterLink> | <RouterLink to="/options/Crewmates/Support/Deputy.html">Deputy</RouterLink> | <RouterLink to="/options/Crewmates/Support/Detective.html">Detective</RouterLink> | <RouterLink to="/options/Crewmates/Support/FortuneTeller.html">Fortune Teller</RouterLink> | <RouterLink to="/options/Crewmates/Support/Grenadier.html">Grenadier</RouterLink> | <RouterLink to="/options/Crewmates/Support/Inspector.html">Inspector</RouterLink> | <RouterLink to="/options/Crewmates/Support/Lighter.html">Lighter</RouterLink> | <RouterLink to="/options/Crewmates/Support/Mechanic.html">Mechanic</RouterLink> | <RouterLink to="/options/Crewmates/Support/Medic.html">Medic</RouterLink> | <RouterLink to="/options/Crewmates/Support/Medium.html">Medium</RouterLink> | <RouterLink to="/options/Crewmates/Support/Merchant.html">Merchant</RouterLink> | <RouterLink to="/options/Crewmates/Support/Mortician.html">Mortician</RouterLink> | <RouterLink to="/options/Crewmates/Support/Observer.html">Observer</RouterLink> | <RouterLink to="/options/Crewmates/Support/Oracle.html">Oracle</RouterLink> | <RouterLink to="/options/Crewmates/Support/Pacifist.html">Pacifist</RouterLink> | <RouterLink to="/options/Crewmates/Support/Paranoid.html">Paranoid</RouterLink> | <RouterLink to="/options/Crewmates/Support/Psychic.html">Psychic</RouterLink> | <RouterLink to="/options/Crewmates/Support/Snitch.html">Snitch</RouterLink> | <RouterLink to="/options/Crewmates/Support/Spiritualist.html">Spiritualist</RouterLink> | <RouterLink to="/options/Crewmates/Support/TimeManager.html">Time Manager</RouterLink> | <RouterLink to="/options/Crewmates/Support/TimeMaster.html">Time Master</RouterLink> | <RouterLink to="/options/Crewmates/Support/Tracker.html">Tracker</RouterLink>
+<p><RouterLink to="/options/Crewmates/Support/Admirer.html">Admirer</RouterLink> | <RouterLink to="/options/Crewmates/Support/Chameleon.html">Chameleon</RouterLink> | <RouterLink to="/options/Crewmates/Support/Coroner.html">Coroner</RouterLink> | <RouterLink to="/options/Crewmates/Support/Deputy.html">Deputy</RouterLink> | <RouterLink to="/options/Crewmates/Support/Detective.html">Detective</RouterLink> | <RouterLink to="/options/Crewmates/Support/FortuneTeller.html">Fortune Teller</RouterLink> | <RouterLink to="/options/Crewmates/Support/Grenadier.html">Grenadier</RouterLink> | <RouterLink to="/options/Crewmates/Support/Inspector.html">Inspector</RouterLink> | <RouterLink to="/options/Crewmates/Support/Lighter.html">Lighter</RouterLink> | <RouterLink to="/options/Crewmates/Support/Mechanic.html">Mechanic</RouterLink> | <RouterLink to="/options/Crewmates/Support/Medic.html">Medic</RouterLink> | <RouterLink to="/options/Crewmates/Support/Medium.html">Medium</RouterLink> | <RouterLink to="/options/Crewmates/Support/Merchant.html">Merchant</RouterLink> | <RouterLink to="/options/Crewmates/Support/Mortician.html">Mortician</RouterLink> | <RouterLink to="/options/Crewmates/Support/Observer.html">Observer</RouterLink> | <RouterLink to="/options/Crewmates/Support/Oracle.html">Oracle</RouterLink> | <RouterLink to="/options/Crewmates/Support/Pacifist.html">Pacifist</RouterLink> | <RouterLink to="/options/Crewmates/Support/Paranoid.html">Paranoid</RouterLink> | <RouterLink to="/options/Crewmates/Support/Psychic.html">Psychic</RouterLink> | <RouterLink to="/options/Crewmates/Support/Snitch.html">Snitch</RouterLink> | <RouterLink to="/options/Crewmates/Support/Spiritualist.html">Spiritualist</RouterLink> | <RouterLink to="/options/Crewmates/Support/TimeManager.html">Time Manager</RouterLink> | <RouterLink to="/options/Crewmates/Support/TimeMaster.html">Time Master</RouterLink> | <RouterLink to="/options/Crewmates/Support/Tracker.html">Tracker</RouterLink> | <RouterLink to="/options/Crewmates/Support/Witness.html">Witness</RouterLink>
 <br></p>
 </div></template>
 

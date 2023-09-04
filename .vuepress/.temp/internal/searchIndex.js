@@ -1039,13 +1039,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Witness",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Witness.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Copycat",
     "headers": [],
     "path": "/options/Crewmates/Power/Copycat.html",
@@ -1284,6 +1277,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Witness",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Witness.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Fool",
     "headers": [],
     "path": "/options/Experimental/Addon/Fool.html",
@@ -1301,20 +1301,6 @@ export const searchIndex = [
     "title": "YouTuber",
     "headers": [],
     "path": "/options/Experimental/Addon/YouTuber.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "God",
-    "headers": [],
-    "path": "/options/Experimental/Neutral/God.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Spiritcaller",
-    "headers": [],
-    "path": "/options/Experimental/Neutral/Spiritcaller.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1371,6 +1357,20 @@ export const searchIndex = [
     "title": "Zombie",
     "headers": [],
     "path": "/options/Experimental/Impostor/Zombie.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "God",
+    "headers": [],
+    "path": "/options/Experimental/Neutral/God.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Spiritcaller",
+    "headers": [],
+    "path": "/options/Experimental/Neutral/Spiritcaller.html",
     "pathLocale": "/",
     "extraFields": []
   },

@@ -1,5 +1,15 @@
 <template><div><h1 id="roles" tabindex="-1"><a class="header-anchor" href="#roles" aria-hidden="true">#</a> Roles</h1>
-<font size=4em><b>Updated as of Version 3.0.0 (Dev Build 3.1)</b></font><br><br><center>
+<ul>
+<li>
+<font size=4em><b>Latest Versions:</b></font><br></li>
+<li>
+<font size=3em><b>Dev Build: 3.0.0 dev 3.1</b></font><br></li>
+<li>
+<font size=3em><b>Canary Build: 3.0.0 c2 (Most Recent)</b></font><br></li>
+<li>
+<font size=3em><b>Stable Build: 2.5.0</b></font><br><br></li>
+</ul>
+<center>
 <p><RouterLink to="/options/settings/Custom.html">Settings - Custom</RouterLink> | <RouterLink to="/options/settings/System.html">Settings - System</RouterLink> <br>
 <RouterLink to="/options/settings/Game.html">Settings - Game</RouterLink> | <RouterLink to="/options/settings/Modifiers.html">Settings - Game Modifiers</RouterLink> <br>
 <RouterLink to="/options/settings/Impostors.html">Impostor Roles</RouterLink> | <RouterLink to="/options/settings/Neutrals.html">Neutral Roles</RouterLink> | <RouterLink to="/options/settings/Coven.html">Coven Roles</RouterLink><br>

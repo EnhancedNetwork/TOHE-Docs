@@ -1,7 +1,5 @@
 <template><div><h1 id="roles" tabindex="-1"><a class="header-anchor" href="#roles" aria-hidden="true">#</a> Roles</h1>
-<ul>
-<li>
-<font size=4em><b>Latest Versions:</b></font><br></li>
+<font size=4em><b>Latest Versions:</b></font><br><ul>
 <li>
 <font size=3em><b>Dev Build: 3.0.0 dev 3.1</b></font><br></li>
 <li>

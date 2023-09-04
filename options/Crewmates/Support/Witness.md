@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Witness
-prev: Vigilante
+prev: Tracker
 next: /options/settings/Crewmates.html
 ---
 
-# <font color="#ff0000">👁️‍🗨️ <b>Witness</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#ff0000">👁️‍🗨️ <b>Witness</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 As the Witness, when you use your kill button on someone, you will know if they killed in the last X seconds or not. (X depends on the settings)

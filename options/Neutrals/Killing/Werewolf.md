@@ -14,8 +14,8 @@ You have a low kill cooldown and do not lunge toward your kills.<br><br>
 All your kills will have the Mauled death reason.
 * Kill Cooldown
   * Set the Werewolf’s kill cooldown
-* Kill Cooldown After Killing
-  * Set the Werewolf’s kill cooldown after killing
+* Maul Radius
+  * Set the Werewolf’s maul radius
 * Can Vent
   * <font color=green>ON</font>: the Werewolf can vent
   * <font color=red>OFF</font>: the Werewolf cannot vent

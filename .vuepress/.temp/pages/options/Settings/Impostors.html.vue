@@ -41,7 +41,7 @@
 <br></p>
 <h3 id="madmate" tabindex="-1"><a class="header-anchor" href="#madmate" aria-hidden="true">#</a> <font color=red>Madmate</font></h3>
 <hr>
-<p><RouterLink to="/options/Impostors/Madmate/Crewposter.html">Crewposter</RouterLink> | <RouterLink to="/options/Impostors/Madmate/Parasite.html">Parasite</RouterLink>
+<p><RouterLink to="/options/Impostors/Madmate/Crewpostor.html">Crewpostor</RouterLink> | <RouterLink to="/options/Impostors/Madmate/Parasite.html">Parasite</RouterLink>
 <br></p>
 <h3 id="support" tabindex="-1"><a class="header-anchor" href="#support" aria-hidden="true">#</a> <font color=#00ffff>Support</font></h3>
 <hr>

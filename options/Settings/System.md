@@ -14,6 +14,12 @@ next: /Roles.html
 * <font color=red>Use Protection Anti Blackout</font>
   * <font color=green>ON</font>: Mod will prevent black-screening
   * <font color=red>OFF</font>: Mod will not prevent black-screening
+* <font color=#01ff00>Enable use of /kcount command</font>
+  * <font color=green>ON</font>: Players can use /kcount to see the amount of killers left
+  * <font color=red>OFF</font>: Players cannot use /kcount to see the amount of killers left
+* <font color=#01ff00>See ejected roles in meetings</font>
+  * <font color=green>ON</font>: Roles of ejected players will be shown to everyone
+  * <font color=red>OFF</font>: Roles of ejected players will not be shown to everyone
   
 * Kick players whose level is lower than
   * Set the minimum level required to play
@@ -55,7 +61,7 @@ next: /Roles.html
   * <font color=green>ON</font>: The lobby code will be displayed in your Discord Status (Only works if you have Discord Rich Presence enabled)
   * <font color=red>OFF</font>: The lobby code will not be displayed in your Discord Status
 
-* <font color=red>Low Load Mode</font>
+* <font color=#01ff00>Low Load Mode</font>
   * <font color=green>ON</font>: Mod will use less power for loading things, making it run a bit faster
   * <font color=red>OFF</font>: Mod will use its default power for loading things, making it run a bit slower
 
@@ -122,7 +128,7 @@ next: /Roles.html
 * <font color=red>No Game End</font>
   * <font color=green>ON</font>: the game cannot end until the host ends it
   * <font color=red>OFF</font>: the game can end normally
-* <font color=red>Console</font>
+* <font color=red>BepInEx Console</font>
   * <font color=green>ON</font>: the console stays open during Hosting
   * <font color=red>OFF</font>: the console minimizes during Hosting
 

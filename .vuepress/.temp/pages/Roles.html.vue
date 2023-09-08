@@ -3,7 +3,7 @@
 <li>
 <font size=3em><b>Dev Build: 3.0.0 dev 3.1</b></font><br></li>
 <li>
-<font size=3em><b>Canary Build: 3.0.0 c3 (Most Recent)</b></font><br></li>
+<font size=3em><b>Canary Build: 3.0.0 c5 (Most Recent)</b></font><br></li>
 <li>
 <font size=3em><b>Stable Build: 2.5.0</b></font><br><br></li>
 </ul>

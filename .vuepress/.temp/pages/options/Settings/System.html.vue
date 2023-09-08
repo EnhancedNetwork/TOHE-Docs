@@ -15,6 +15,22 @@
 </ul>
 </li>
 <li>
+<font color=#01ff00>Enable use of /kcount command</font><ul>
+<li>
+<font color=green>ON</font>: Players can use /kcount to see the amount of killers left</li>
+<li>
+<font color=red>OFF</font>: Players cannot use /kcount to see the amount of killers left</li>
+</ul>
+</li>
+<li>
+<font color=#01ff00>See ejected roles in meetings</font><ul>
+<li>
+<font color=green>ON</font>: Roles of ejected players will be shown to everyone</li>
+<li>
+<font color=red>OFF</font>: Roles of ejected players will not be shown to everyone</li>
+</ul>
+</li>
+<li>
 <p>Kick players whose level is lower than</p>
 <ul>
 <li>Set the minimum level required to play</li>
@@ -131,7 +147,7 @@
 </ul>
 </li>
 <li>
-<font color=red>Low Load Mode</font><ul>
+<font color=#01ff00>Low Load Mode</font><ul>
 <li>
 <font color=green>ON</font>: Mod will use less power for loading things, making it run a bit faster</li>
 <li>
@@ -288,7 +304,7 @@
 </ul>
 </li>
 <li>
-<font color=red>Console</font><ul>
+<font color=red>BepInEx Console</font><ul>
 <li>
 <font color=green>ON</font>: the console stays open during Hosting</li>
 <li>

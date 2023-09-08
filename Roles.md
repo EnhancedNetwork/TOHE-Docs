@@ -18,7 +18,7 @@ sidebar:
 
 <font size=4em><b>Latest Versions:</b></font><br>
 - <font size=3em><b>Dev Build: 3.0.0 dev 3.1</b></font><br>
-- <font size=3em><b>Canary Build: 3.0.0 c3 (Most Recent)</b></font><br>
+- <font size=3em><b>Canary Build: 3.0.0 c5 (Most Recent)</b></font><br>
 - <font size=3em><b>Stable Build: 2.5.0</b></font><br><br>
 
 <center>

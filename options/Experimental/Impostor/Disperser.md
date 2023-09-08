@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Disperser
-prev: Chronomancer
+prev: Capitalist
 next: Eraser
 ---
 

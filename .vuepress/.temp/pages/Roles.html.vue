@@ -8,10 +8,10 @@
 <font size=3em><b>Stable Build: 2.5.0</b></font><br><br></li>
 </ul>
 <center>
-<p><RouterLink to="/options/settings/Custom.html">Settings - Custom</RouterLink> | <RouterLink to="/options/settings/System.html">Settings - System</RouterLink> <br>
-<RouterLink to="/options/settings/Game.html">Settings - Game</RouterLink> | <RouterLink to="/options/settings/Modifiers.html">Settings - Game Modifiers</RouterLink> <br>
-<RouterLink to="/options/settings/Impostors.html">Impostor Roles</RouterLink> | <RouterLink to="/options/settings/Neutrals.html">Neutral Roles</RouterLink> | <RouterLink to="/options/settings/Coven.html">Coven Roles</RouterLink><br>
-<RouterLink to="/options/settings/Crewmates.html">Crewmates Roles</RouterLink> | <RouterLink to="/options/settings/Addons.html">Add-On Roles</RouterLink> | <RouterLink to="/options/settings/Experimental.html">Experimental Roles</RouterLink></p>
+<p><RouterLink to="/options/Settings/Custom.html">Settings - Custom</RouterLink> | <RouterLink to="/options/Settings/System.html">Settings - System</RouterLink> <br>
+<RouterLink to="/options/Settings/Game.html">Settings - Game</RouterLink> | <RouterLink to="/options/Settings/Modifiers.html">Settings - Game Modifiers</RouterLink> <br>
+<RouterLink to="/options/Settings/Impostors.html">Impostor Roles</RouterLink> | <RouterLink to="/options/Settings/Neutrals.html">Neutral Roles</RouterLink> | <RouterLink to="/options/Settings/Coven.html">Coven Roles</RouterLink><br>
+<RouterLink to="/options/Settings/Crewmates.html">Crewmates Roles</RouterLink> | <RouterLink to="/options/Settings/Addons.html">Add-On Roles</RouterLink> | <RouterLink to="/options/Settings/Experimental.html">Experimental Roles</RouterLink></p>
 </center>
 <table>
 <tr>

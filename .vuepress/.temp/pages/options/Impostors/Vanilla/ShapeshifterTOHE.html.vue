@@ -1,0 +1,27 @@
+<template><div><h1 id="🥷-shapeshiftertohe" tabindex="-1"><a class="header-anchor" href="#🥷-shapeshiftertohe" aria-hidden="true">#</a> <font color=red>🥷 <b>ShapeshifterTOHE</b></font> <Badge text="Vanilla" type="tip" vertical="middle"/></h1>
+<hr>
+<p>As the Shapeshifter, you have a shapeshifting ability which you may use to frame other crewmates.<br>
+Just be aware that there is an egg while shifting and the disguise is temporary.</p>
+<ul>
+<li>Max
+<ul>
+<li>Set the Maximum amount of Shapeshifters that can be in a match</li>
+</ul>
+</li>
+<li>Shapeshift Cooldown
+<ul>
+<li>Set how long the Shapeshifter needs to wait to shapeshift.</li>
+</ul>
+</li>
+<li>Shapeshift Duration
+<ul>
+<li>Set how long the Shapeshifter can stay shapeshifted for.</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>From: TBD</p>
+</blockquote>
+</div></template>
+
+

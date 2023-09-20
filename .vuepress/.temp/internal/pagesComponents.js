@@ -35,8 +35,6 @@ export const pagesComponents = {
   "v-4ca9b29c": defineAsyncComponent(() => import(/* webpackChunkName: "v-4ca9b29c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Coven/Wraith.html.vue")),
   // path: /options/Settings/Addons.html
   "v-0bfd6e38": defineAsyncComponent(() => import(/* webpackChunkName: "v-0bfd6e38" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Settings/Addons.html.vue")),
-  // path: /options/Settings/Coven.html
-  "v-25a07ae8": defineAsyncComponent(() => import(/* webpackChunkName: "v-25a07ae8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Settings/Coven.html.vue")),
   // path: /options/Settings/Crewmates.html
   "v-3bd8288e": defineAsyncComponent(() => import(/* webpackChunkName: "v-3bd8288e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Settings/Crewmates.html.vue")),
   // path: /options/Settings/Custom.html
@@ -305,10 +303,6 @@ export const pagesComponents = {
   "v-604e65e1": defineAsyncComponent(() => import(/* webpackChunkName: "v-604e65e1" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Hindering/Pitfall.html.vue")),
   // path: /options/Impostors/Hindering/Twister.html
   "v-0cdf5bba": defineAsyncComponent(() => import(/* webpackChunkName: "v-0cdf5bba" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Hindering/Twister.html.vue")),
-  // path: /options/Impostors/Madmate/Crewpostor.html
-  "v-de1610a4": defineAsyncComponent(() => import(/* webpackChunkName: "v-de1610a4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Madmate/Crewpostor.html.vue")),
-  // path: /options/Impostors/Madmate/Parasite.html
-  "v-7349b86a": defineAsyncComponent(() => import(/* webpackChunkName: "v-7349b86a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Madmate/Parasite.html.vue")),
   // path: /options/Impostors/Killing/Agent.html
   "v-d83531e8": defineAsyncComponent(() => import(/* webpackChunkName: "v-d83531e8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Killing/Agent.html.vue")),
   // path: /options/Impostors/Killing/Arrogance.html
@@ -353,6 +347,10 @@ export const pagesComponents = {
   "v-165cda1d": defineAsyncComponent(() => import(/* webpackChunkName: "v-165cda1d" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Killing/Spellcaster.html.vue")),
   // path: /options/Impostors/Killing/Underdog.html
   "v-c9e73246": defineAsyncComponent(() => import(/* webpackChunkName: "v-c9e73246" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Killing/Underdog.html.vue")),
+  // path: /options/Impostors/Madmate/Crewpostor.html
+  "v-de1610a4": defineAsyncComponent(() => import(/* webpackChunkName: "v-de1610a4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Madmate/Crewpostor.html.vue")),
+  // path: /options/Impostors/Madmate/Parasite.html
+  "v-7349b86a": defineAsyncComponent(() => import(/* webpackChunkName: "v-7349b86a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Madmate/Parasite.html.vue")),
   // path: /options/Impostors/Support/Camouflager.html
   "v-ab2f7c90": defineAsyncComponent(() => import(/* webpackChunkName: "v-ab2f7c90" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Support/Camouflager.html.vue")),
   // path: /options/Impostors/Support/Cleaner.html

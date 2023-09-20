@@ -5,7 +5,7 @@ prev: Impostors
 next: Neutrals
 ---
 
-# <font color="#8cffff">👨‍🚀 <b>Faction: Crewmate</b></font> <Badge text="Total: 54" type="tip" vertical="middle"/>
+# <font color="#8cffff">👨‍🚀 <b>Faction: Crewmate</b></font> <Badge text="Total: 56" type="tip" vertical="middle"/>
 ---
 
 <b>Focus on finding the <font color=red>Impostors</font> and completing tasks. These roles very simple, making it easier for new players and the <font color=#8cffff>Crewmates</font> to win.</b>
@@ -16,7 +16,7 @@ next: Neutrals
 </tr>
 <tr>
 <td><font color=#e69c9c><b>Basic</b></font></td>
-<td align="center">9</td>
+<td align="center">10</td>
 </tr>
 
 <tr>
@@ -26,7 +26,7 @@ next: Neutrals
 
 <tr>
 <td><font color=#d4af37><b>Power</b></font></td>
-<td align="center">10</td>
+<td align="center">11</td>
 </tr>
 
 <tr>
@@ -40,7 +40,7 @@ next: Neutrals
 
 ### <font color=#e69c9c><b>Basic</b></font>
 ---
-[Addict](/options/Crewmates/Basic/Addict.html) | [Celebrity](/options/Crewmates/Basic/Celebrity.html) | [Cleanser](/options/Crewmates/Basic/Cleanser.html) | [Doctor](/options/Crewmates/Basic/Doctor.html) | [Lazy Guy](/options/Crewmates/Basic/LazyGuy.html) | [Luckey](/options/Crewmates/Basic/Luckey.html) | [Super Star](/options/Crewmates/Basic/SuperStar.html) | [Tracefinder](/options/Crewmates/Basic/Tracefinder.html) | [Transporter](/options/Crewmates/Basic/Transporter.html)
+[Addict](/options/Crewmates/Basic/Addict.html) | [Celebrity](/options/Crewmates/Basic/Celebrity.html) | [Cleanser](/options/Crewmates/Basic/Cleanser.html) | [Doctor](/options/Crewmates/Basic/Doctor.html) | [Lazy Guy](/options/Crewmates/Basic/LazyGuy.html) | [Luckey](/options/Crewmates/Basic/Luckey.html) | [Super Star](/options/Crewmates/Basic/SuperStar.html) | [Task Manager](/options/Crewmates/Basic/TaskManager.html) | [Tracefinder](/options/Crewmates/Basic/Tracefinder.html) | [Transporter](/options/Crewmates/Basic/Transporter.html)
 <br>
 
 ### <font color=#b22222><b>Killing</b></font>
@@ -50,7 +50,7 @@ next: Neutrals
 
 ### <font color=#d4af37><b>Power</b></font>
 ---
-[Copycat](/options/Crewmates/Power/Copycat.html) | [Dictator](/options/Crewmates/Power/Dictator.html) | [Guardian](/options/Crewmates/Power/Guardian.html) | [Judge](/options/Crewmates/Power/Judge.html) | [Lookout](/options/Crewmates/Power/Lookout.html) | [Marshall](/options/Crewmates/Power/Marshall.html) | [Mayor](/options/Crewmates/Power/Mayor.html) | [Monarch](/options/Crewmates/Power/Monarch.html) | [Overseer](/options/Crewmates/Power/Overseer.html) | [Telecommunication](/options/Crewmates/Power/Telecommunication.html)
+[Copycat](/options/Crewmates/Power/Copycat.html) | [Dictator](/options/Crewmates/Power/Dictator.html) | [Guardian](/options/Crewmates/Power/Guardian.html) | [Judge](/options/Crewmates/Power/Judge.html) | [Lookout](/options/Crewmates/Power/Lookout.html) | [Marshall](/options/Crewmates/Power/Marshall.html) | [Mayor](/options/Crewmates/Power/Mayor.html) | [Mini](/options/Crewmates/Power/Mini.html) | [Monarch](/options/Crewmates/Power/Monarch.html) | [Overseer](/options/Crewmates/Power/Overseer.html) | [Telecommunication](/options/Crewmates/Power/Telecommunication.html)
 <br>
 
 ### <font color=#7fffd4><b>Support</b></font>

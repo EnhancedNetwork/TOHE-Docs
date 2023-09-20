@@ -5,10 +5,14 @@ prev: Crewmates
 next: Addons
 ---
 
-# <font color="#7f8c8d">👨‍🚀 <b>Faction: Neutral</b></font> <Badge text="Total: 50" type="tip" vertical="middle"/>
+# <font color="#7f8c8d">👨‍🚀 <b>Faction: Neutral</b></font> <Badge text="Total: 55" type="tip" vertical="middle"/>
 ---
 
 <b>Play for yourself, and eliminate everyone around you. <font color=gray>Neutrals</font> can win alone, but they can also win with other players. Their victory conditions are different from other players. Each <font color=#7f8c8d>Neutral</font> player has a unique victory condition.</b>
+
+::: warning Note
+As of Version 3.1.0 Dev 2, Coven Faction has been removed and all its roles have been moved to the Neutral faction.
+:::
 
 <table>
 <tr>
@@ -32,14 +36,14 @@ next: Addons
 
 <tr>
 <td><font color=#b22222><b>Killing</b></font></td>
-<td align="center">18</td>
+<td align="center">23</td>
 </tr>
 </table>
 <br>
 
 ### <font color=#046300><b>Benign</b></font>
 ---
-[Amnesiac](/options/Neutrals/Benign/Amnesiac.html) | [Follower](/options/Neutrals/Benign/Follower.html) | [Hater](/options/Neutrals/Benign/Hater.html) | [Lawyer](/options/Neutrals/Benign/Lawyer.html) | [Maverick](/options/Neutrals/Benign/Maverick.html) | [Opportunist](/options/Neutrals/Benign/Opportunist.html) | [Pursuer](/options/Neutrals/Benign/Pursuer.html) | [Romantic](/options/Neutrals/Benign/Romantic.html) | [Romantic Ruthless](/options/Neutrals/Benign/RomanticRuthless.html) | [Romantic Vengeful](/options/Neutrals/Benign/RomanticVengeful.html) | [Shaman](/options/Neutrals/Benign/Shaman.html) | [Witch](/options/Neutrals/Benign/Witch.html)
+[Amnesiac](/options/Neutrals/Benign/Amnesiac.html) | [Follower](/options/Neutrals/Benign/Follower.html) | [Hater](/options/Neutrals/Benign/Hater.html) | [Imitator](/options/Neutrals/Benign/Imitator.html) | [Lawyer](/options/Neutrals/Benign/Lawyer.html) | [Maverick](/options/Neutrals/Benign/Maverick.html) | [Opportunist](/options/Neutrals/Benign/Opportunist.html) | [Pursuer](/options/Neutrals/Benign/Pursuer.html) | [Romantic](/options/Neutrals/Benign/Romantic.html) | [Romantic Ruthless](/options/Neutrals/Benign/RomanticRuthless.html) | [Romantic Vengeful](/options/Neutrals/Benign/RomanticVengeful.html) | [Shaman](/options/Neutrals/Benign/Shaman.html) | [Witch](/options/Neutrals/Benign/Witch.html)
 <br>
 
 ### <font color=#d4af37><b>Chaos</b></font>
@@ -52,7 +56,7 @@ next: Addons
 
 ### <font color=red><b>Killing</b></font>
 ---
-[Agitator](/options/Neutrals/Killing/Agitator.html) | [Arsonist](/options/Neutrals/Killing/Arsonist.html) | [Blood Knight](/options/Neutrals/Killing/BloodKnight.html) | [Glitch](/options/Neutrals/Killing/Glitch.html) | [Infectious](/options/Neutrals/Killing/Infectious.html) | [Jackal](/options/Neutrals/Killing/Jackal.html) | [Juggernaut](/options/Neutrals/Killing/Juggernaut.html) | [Occultist](/options/Neutrals/Killing/Occultist.html) | [Pelican](/options/Neutrals/Killing/Pelican.html) | [Pickpocket](/options/Neutrals/Killing/Pickpocket.html) | [Plaguebearer](/options/Neutrals/Killing/Plaguebearer.html) | [Serial Killer](/options/Neutrals/Killing/SerialKiller.html) | [Shade](/options/Neutrals/Killing/Shade.html) | [Shroud](/options/Neutrals/Killing/Shroud.html) | [Stalker](/options/Neutrals/Killing/Stalker.html) | [Traitor](/options/Neutrals/Killing/Traitor.html) | [Virus](/options/Neutrals/Killing/Virus.html) | [Werewolf](/options/Neutrals/Killing/Werewolf.html)
+[Agitator](/options/Neutrals/Killing/Agitator.html) | [Arsonist](/options/Neutrals/Killing/Arsonist.html) | [Blood Knight](/options/Neutrals/Killing/BloodKnight.html) | [Glitch](/options/Neutrals/Killing/Glitch.html) | [Hex Master](/options/Neutrals/Killing/HexMaster.html) | [Infectious](/options/Neutrals/Killing/Infectious.html) | [Jackal](/options/Neutrals/Killing/Jackal.html) | [Juggernaut](/options/Neutrals/Killing/Juggernaut.html) | [Medusa](/options/Neutrals/Killing/Medusa.html) | [Occultist](/options/Neutrals/Killing/Occultist.html) | [Pelican](/options/Neutrals/Killing/Pelican.html) | [Poisoner](/options/Neutrals/Killing/Poisoner) | [Potion Master](/options/Neutrals/Killing/PotionMaster.html) | [Pickpocket](/options/Neutrals/Killing/Pickpocket.html) | [Plaguebearer](/options/Neutrals/Killing/Plaguebearer.html) | [Serial Killer](/options/Neutrals/Killing/SerialKiller.html) | [Shroud](/options/Neutrals/Killing/Shroud.html) | [Stalker](/options/Neutrals/Killing/Stalker.html) | [Traitor](/options/Neutrals/Killing/Traitor.html) | [Virus](/options/Neutrals/Killing/Virus.html) | [Werewolf](/options/Neutrals/Killing/Werewolf.html) | [Wraith](/options/Neutrals/Killing/Wraith.html)
 <br>
 
 <details>

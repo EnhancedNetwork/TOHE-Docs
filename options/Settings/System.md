@@ -25,6 +25,21 @@ next: /Roles.html
   * Set the minimum level required to play
 * Kick Non-PC players
   * <font color=green>ON</font>: Non-PC players cannot play
+    * Kick Android players
+      * <font color=green>ON</font>: Android players will be kicked from the lobby automatically
+      * <font color=red>OFF</font>: Android players will not be kicked from the lobby automatically
+    * Kick iOS players
+      * <font color=green>ON</font>: iOS players will be kicked from the lobby automatically
+      * <font color=red>OFF</font>: iOS players will not be kicked from the lobby automatically
+    * Kick Xbox players
+      * <font color=green>ON</font>: Xbox players will be kicked from the lobby automatically
+      * <font color=red>OFF</font>: Xbox players will not be kicked from the lobby automatically
+    * Kick PlayStation players
+      * <font color=green>ON</font>: PlayStation players will be kicked from the lobby automatically
+      * <font color=red>OFF</font>: PlayStation players will not be kicked from the lobby automatically
+    * Kick Nintendo Switch players
+      * <font color=green>ON</font>: Nintendo Switch players will be kicked from the lobby automatically
+      * <font color=red>OFF</font>: Nintendo Switch players will not be kicked from the lobby automatically
   * <font color=red>OFF</font>: Non-PC players can play
 * Kick players who are not logged in
   * <font color=green>ON</font>: Players without a registered account cannot play
@@ -102,11 +117,11 @@ next: /Roles.html
     * No phones - Displays “No phones” below your name
     * Auto-Host - Displays “Auto-Host” below your name
 * Hide Game Settings
-  * <font color=green>ON</font>: you won't see what roles are enabled/disabled
-  * <font color=red>OFF</font>: you can see what roles are enabled/disabled like usual
+  * <font color=green>ON</font>: Others won't see what roles are enabled/disabled
+  * <font color=red>OFF</font>: Others can see what roles are enabled/disabled like usual
 * Enable only custom `/n` messages
-  * <font color=green>ON</font>: you can only use custom `/n` messages that are created by the host
-  * <font color=red>OFF</font>: you can use the default `/n` messages created by the mod
+  * <font color=green>ON</font>: only custom `/n` messages that are created by the host can be used
+  * <font color=red>OFF</font>: all default `/n` messages can be used
 * Players can use the `/color` command
   * <font color=green>ON</font>: players can `/color` to change their Bean Color
   * <font color=red>OFF</font>: players cannot change it with the command and have to do it normally
@@ -150,7 +165,7 @@ next: /Roles.html
     * Moe - Everyone appears as Moe's skin (the current web developer)
 
 * <font color=cyan>Enable Youtuber Plan</font>
-  * <font color=green>ON</font>: Host can use the command `/up [rolename]` to get the specified role on the next game
+  * <font color=green>ON</font>: Host can use the command `/up [rolename]` to get the specified role on the next game - Requires Permissions
   * <font color=red>OFF</font>: Host cannot use the command `/up [rolename]` to get the specified role on the next game
 
 > From: Moe

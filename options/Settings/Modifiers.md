@@ -215,9 +215,6 @@ next: Impostors
     * Passive <font color=#7f8c8d>Neutrals</font> can guess
       * <font color=green>ON</font>: Passive <font color=#7f8c8d>Neutrals</font> can guess players' roles
       * <font color=red>OFF</font>: Passive <font color=#7f8c8d>Neutrals</font> cannot guess players' roles
-    * <font color=#663399>Coven</font> members can guess
-      * <font color=green>ON</font>: <font color=#663399>Coven</font> members can guess players' roles
-      * <font color=red>OFF</font>: <font color=#663399>Coven</font> members cannot guess players' roles
     * Can Guess Add-ons
       * <font color=green>ON</font>: Add-ons can be guessed
       * <font color=red>OFF</font>: Add-ons cannot be guessed

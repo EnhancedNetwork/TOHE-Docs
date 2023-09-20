@@ -40,7 +40,49 @@
 <p>Kick Non-PC players</p>
 <ul>
 <li>
-<font color=green>ON</font>: Non-PC players cannot play</li>
+<font color=green>ON</font>: Non-PC players cannot play<ul>
+<li>Kick Android players
+<ul>
+<li>
+<font color=green>ON</font>: Android players will be kicked from the lobby automatically</li>
+<li>
+<font color=red>OFF</font>: Android players will not be kicked from the lobby automatically</li>
+</ul>
+</li>
+<li>Kick iOS players
+<ul>
+<li>
+<font color=green>ON</font>: iOS players will be kicked from the lobby automatically</li>
+<li>
+<font color=red>OFF</font>: iOS players will not be kicked from the lobby automatically</li>
+</ul>
+</li>
+<li>Kick Xbox players
+<ul>
+<li>
+<font color=green>ON</font>: Xbox players will be kicked from the lobby automatically</li>
+<li>
+<font color=red>OFF</font>: Xbox players will not be kicked from the lobby automatically</li>
+</ul>
+</li>
+<li>Kick PlayStation players
+<ul>
+<li>
+<font color=green>ON</font>: PlayStation players will be kicked from the lobby automatically</li>
+<li>
+<font color=red>OFF</font>: PlayStation players will not be kicked from the lobby automatically</li>
+</ul>
+</li>
+<li>Kick Nintendo Switch players
+<ul>
+<li>
+<font color=green>ON</font>: Nintendo Switch players will be kicked from the lobby automatically</li>
+<li>
+<font color=red>OFF</font>: Nintendo Switch players will not be kicked from the lobby automatically</li>
+</ul>
+</li>
+</ul>
+</li>
 <li>
 <font color=red>OFF</font>: Non-PC players can play</li>
 </ul>
@@ -233,18 +275,18 @@
 <p>Hide Game Settings</p>
 <ul>
 <li>
-<font color=green>ON</font>: you won't see what roles are enabled/disabled</li>
+<font color=green>ON</font>: Others won't see what roles are enabled/disabled</li>
 <li>
-<font color=red>OFF</font>: you can see what roles are enabled/disabled like usual</li>
+<font color=red>OFF</font>: Others can see what roles are enabled/disabled like usual</li>
 </ul>
 </li>
 <li>
 <p>Enable only custom <code v-pre>/n</code> messages</p>
 <ul>
 <li>
-<font color=green>ON</font>: you can only use custom <code v-pre>/n</code> messages that are created by the host</li>
+<font color=green>ON</font>: only custom <code v-pre>/n</code> messages that are created by the host can be used</li>
 <li>
-<font color=red>OFF</font>: you can use the default <code v-pre>/n</code> messages created by the mod</li>
+<font color=red>OFF</font>: all default <code v-pre>/n</code> messages can be used</li>
 </ul>
 </li>
 <li>
@@ -345,7 +387,7 @@
 <li>
 <font color=cyan>Enable Youtuber Plan</font><ul>
 <li>
-<font color=green>ON</font>: Host can use the command <code v-pre>/up [rolename]</code> to get the specified role on the next game</li>
+<font color=green>ON</font>: Host can use the command <code v-pre>/up [rolename]</code> to get the specified role on the next game - Requires Permissions</li>
 <li>
 <font color=red>OFF</font>: Host cannot use the command <code v-pre>/up [rolename]</code> to get the specified role on the next game</li>
 </ul>

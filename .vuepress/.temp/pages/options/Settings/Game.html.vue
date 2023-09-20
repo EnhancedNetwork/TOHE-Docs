@@ -1,10 +1,5 @@
 <template><div><h1 id="🎮-game-settings" tabindex="-1"><a class="header-anchor" href="#🎮-game-settings" aria-hidden="true">#</a> <font color=#ffc0cb>🎮 Game Settings</font></h1>
 <hr>
-<font color=#ffffff size=5em><b>Gamemodes</b></font><br>
-<br>
-<details>
-<summary><font color=#ffffff size=4em>Standard</font></summary>
-<br>Standard gamemode is normal Among Us with the changes of roles through TOHE-R.
 <h3 id="ejection" tabindex="-1"><a class="header-anchor" href="#ejection" aria-hidden="true">#</a> <font size=4em color=#ffeee8>Ejection</font></h3>
 <ul>
 <li>Confirm Ejections Mode
@@ -28,14 +23,6 @@
 <font color=green>ON</font>: The game will tell you how many <font color=#7f8c8d>Neutral Killers</font> are left</li>
 <li>
 <font color=red>OFF</font>: The game will not tell you how many <font color=#7f8c8d>Neutral Killers</font> are left</li>
-</ul>
-</li>
-<li>Show remaining <font color=#663399>Coven</font> members on ejects
-<ul>
-<li>
-<font color=green>ON</font>: The game will tell you how many <font color=#663399>Coven</font> members are left</li>
-<li>
-<font color=red>OFF</font>: The game will not tell you how many <font color=#663399>Coven</font> members are left</li>
 </ul>
 </li>
 </ul>
@@ -97,12 +84,30 @@
 <ul>
 <li>
 <font color=green>ON</font>: Spawn locations will be chosen randomly<ul>
+<li>Random Spawns in Locations
+<ul>
+<li>
+<font color=green>ON</font>: Spawn locations will be chosen randomly in their respective locations<ul>
 <li>Additional Spawn Locations (Airship)
 <ul>
 <li>
 <font color=green>ON</font>: More spawn locations will be added</li>
 <li>
 <font color=red>OFF</font>: More spawn locations will not be added</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<font color=red>OFF</font>: Spawn locations will be chosen randomly in the entire map</li>
+</ul>
+</li>
+<li>Random Spawns on Vents
+<ul>
+<li>
+<font color=green>ON</font>: Spawn locations will be chosen randomly on vents</li>
+<li>
+<font color=red>OFF</font>: Spawn locations will be chosen normally</li>
 </ul>
 </li>
 </ul>
@@ -124,6 +129,14 @@
 <font color=red>OFF</font>: Moving platform will be enabled</li>
 </ul>
 </li>
+<li>Reset Doors After Meetings (Airship/Polus)
+<ul>
+<li>
+<font color=green>ON</font>: Doors will be reset after meetings</li>
+<li>
+<font color=red>OFF</font>: Doors will not be reset after meetings</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -132,9 +145,45 @@
 <li>Camouflage During Comms Sabotage
 <ul>
 <li>
-<font color=green>ON</font>: when Comms are sabotaged, everyone will turn into the specified appearance</li>
+<font color=green>ON</font>: when Comms are sabotaged, everyone will turn into the specified appearance<ul>
+<li>Disable comms camouflage on some maps
+<ul>
 <li>
-<font color=red>OFF</font>: Camouflage Comms Sabotage works like it normally would</li>
+<font color=green>ON</font>: Comms camouflage will be disabled on some maps<ul>
+<li>Disable comms camouflage on The Skeld
+<ul>
+<li>
+<font color=green>ON</font>: Comms camouflage will be disabled on The Skeld</li>
+<li>
+<font color=red>OFF</font>: Comms camouflage will be enabled on The Skeld</li>
+</ul>
+</li>
+<li>Disable comms camouflage on MiraHQ
+<ul>
+<li>
+<font color=green>ON</font>: Comms camouflage will be disabled on MiraHQ</li>
+<li>
+<font color=red>OFF</font>: Comms camouflage will be enabled on MiraHQ</li>
+</ul>
+</li>
+<li>Disable comms camouflage on Polus
+<ul>
+<li>
+<font color=green>ON</font>: Comms camouflage will be disabled on Polus</li>
+<li>
+<font color=red>OFF</font>: Comms camouflage will be enabled on Polus</li>
+</ul>
+</li>
+<li>Disable comms camouflage on Airship
+<ul>
+<li>
+<font color=green>ON</font>: Comms camouflage will be disabled on Airship</li>
+<li>
+<font color=red>OFF</font>: Comms camouflage will be enabled on Airship</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>Disable body reporting while camouflaged
@@ -143,6 +192,27 @@
 <font color=green>ON</font>: players cannot report bodies while camouflaged</li>
 <li>
 <font color=red>OFF</font>: players can report bodies while camouflaged</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<font color=red>OFF</font>: Camouflage Comms Sabotage works like it normally would</li>
+</ul>
+</li>
+<li>Sabotage Cooldown Control
+<ul>
+<li>
+<font color=green>ON</font>: the host can control the sabotage cooldown<ul>
+<li>Sabotage Cooldown
+<ul>
+<li>Set how long the sabotage cooldown will be</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<font color=red>OFF</font>: the sabotage cooldown will be normal</li>
 </ul>
 </li>
 <li>Sabotage Duration Control
@@ -168,7 +238,15 @@
 <li>Fix Lights Special Settings
 <ul>
 <li>
-<font color=green>ON</font>: the host can control which light panels are active (Airship)<ul>
+<font color=green>ON</font>: the host can control what happens when the lights are fixed<ul>
+<li>Block Switches When They Are Up
+<ul>
+<li>
+<font color=green>ON</font>: switches will be blocked when they are on</li>
+<li>
+<font color=red>OFF</font>: switches will not be blocked when they are on</li>
+</ul>
+</li>
 <li>Disable Viewing Deck Lights Panel (Airship)
 <ul>
 <li>
@@ -631,70 +709,6 @@
 </ul>
 </li>
 </ul>
-</details>
-<br>
-<details>
-<summary><font color=#ffffff size=4em>Solo PVP</font></summary>
-<br>Solo PVP is a gamemode designed to have a Player VS Player game. Settings are drastically different and only one player will win in the end.
-<ul>
-<li>Game Master
-<ul>
-<li>
-<font color=green>ON</font>: the host can control the game</li>
-<li>
-<font color=red>OFF</font>: the host cannot control the game</li>
-</ul>
-</li>
-<li>Game duration
-<ul>
-<li>Set how long the game will last</li>
-</ul>
-</li>
-<li>Attack Cooldown
-<ul>
-<li>Set how long the cooldown is between attacks</li>
-</ul>
-</li>
-<li>Default HP
-<ul>
-<li>Set how much HP each player has</li>
-</ul>
-</li>
-<li>Default Attack
-<ul>
-<li>Set how much damage each player does</li>
-</ul>
-</li>
-<li>Recover Per Second
-<ul>
-<li>Set how much HP each player recovers per second</li>
-</ul>
-</li>
-<li>Recover Cooldown
-<ul>
-<li>Set how long the cooldown is between each recovery</li>
-</ul>
-</li>
-<li>Resurrection waiting time
-<ul>
-<li>Set how long a player has to wait to respawn after dying</li>
-</ul>
-</li>
-<li>Kill bonus multiplier
-<ul>
-<li>Set how much bonus HP a player gets after killing another player</li>
-</ul>
-</li>
-<li>Boot players who get stuck in the vent (may trigger official anti cheating)
-<ul>
-<li>
-<font color=green>ON</font>: Players who get stuck in the vent will be kicked from the lobby</li>
-<li>
-<font color=red>OFF</font>: Players who get stuck in the vent will not be kicked from the lobby</li>
-</ul>
-</li>
-</ul>
-</details>
 </div></template>
 
 

@@ -365,20 +365,20 @@ export const searchIndex = [
       },
       {
         "level": 3,
-        "title": "Neutral",
-        "slug": "neutral",
-        "link": "#neutral",
+        "title": "Miscellaneous",
+        "slug": "miscellaneous",
+        "link": "#miscellaneous",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Mixed",
+        "slug": "mixed",
+        "link": "#mixed",
         "children": []
       }
     ],
     "path": "/options/Settings/Addons.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Coven",
-    "headers": [],
-    "path": "/options/Settings/Coven.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -433,6 +433,13 @@ export const searchIndex = [
         "title": "Add-ons",
         "slug": "add-ons",
         "link": "#add-ons",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Crewmate",
+        "slug": "crewmate",
+        "link": "#crewmate",
         "children": []
       },
       {
@@ -1487,20 +1494,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Crewpostor",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/Crewpostor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Parasite",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/Parasite.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Agent",
     "headers": [],
     "path": "/options/Impostors/Killing/Agent.html",
@@ -1651,6 +1644,20 @@ export const searchIndex = [
     "title": "Underdog",
     "headers": [],
     "path": "/options/Impostors/Killing/Underdog.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Crewpostor",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/Crewpostor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Parasite",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/Parasite.html",
     "pathLocale": "/",
     "extraFields": []
   },

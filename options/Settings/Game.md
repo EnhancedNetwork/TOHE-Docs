@@ -8,13 +8,6 @@ next: Modifiers
 # <font color=#ffc0cb>🎮 Game Settings</font>
 ---
 
-<font color=#ffffff size=5em><b>Gamemodes</b></font>
-<br>
-<br>
-<details>
-<summary><font color=#ffffff size=4em>Standard</font></summary>
-<br>Standard gamemode is normal Among Us with the changes of roles through TOHE-R.
-
 ### <font size=4em color=#ffeee8>Ejection</font>
   * Confirm Ejections Mode
     * Set how the game will describe ejections
@@ -26,9 +19,6 @@ next: Modifiers
       * Show remaining <font color=#7f8c8d>Neutral Killers</font> on ejects
         * <font color=green>ON</font>: The game will tell you how many <font color=#7f8c8d>Neutral Killers</font> are left
         * <font color=red>OFF</font>: The game will not tell you how many <font color=#7f8c8d>Neutral Killers</font> are left
-      * Show remaining <font color=#663399>Coven</font> members on ejects
-        * <font color=green>ON</font>: The game will tell you how many <font color=#663399>Coven</font> members are left
-        * <font color=red>OFF</font>: The game will not tell you how many <font color=#663399>Coven</font> members are left
     * <font color=red>OFF</font>: The game will not tell you how many <font color=red>Impostors</font> are left
   * Show what team the ejected player's role is on
     * <font color=green>ON</font>: The game will tell you what team the ejected player's role is on
@@ -53,23 +43,51 @@ next: Modifiers
           * <font color=red>OFF</font>: Maps will not be selected even more randomly
     * Random Spawns
       * <font color=green>ON</font>: Spawn locations will be chosen randomly
-        * Additional Spawn Locations (Airship)
-          * <font color=green>ON</font>: More spawn locations will be added
-          * <font color=red>OFF</font>: More spawn locations will not be added
+        * Random Spawns in Locations
+          * <font color=green>ON</font>: Spawn locations will be chosen randomly in their respective locations
+            * Additional Spawn Locations (Airship)
+              * <font color=green>ON</font>: More spawn locations will be added
+              * <font color=red>OFF</font>: More spawn locations will not be added
+          * <font color=red>OFF</font>: Spawn locations will be chosen randomly in the entire map
+        * Random Spawns on Vents
+          * <font color=green>ON</font>: Spawn locations will be chosen randomly on vents
+          * <font color=red>OFF</font>: Spawn locations will be chosen normally
       * <font color=red>OFF</font>: Spawn locations will be chosen normally
     * Variable Electrical
       * The Electrical room will be randomized (Airship)
     * Disable Moving Platform (Airship)
       * <font color=green>ON</font>: Moving platform will be disabled
       * <font color=red>OFF</font>: Moving platform will be enabled
+    * Reset Doors After Meetings (Airship/Polus)
+      * <font color=green>ON</font>: Doors will be reset after meetings
+      * <font color=red>OFF</font>: Doors will not be reset after meetings
 
 ### <font size=4em color=#f36060>Sabotage</font>
   * Camouflage During Comms Sabotage
     * <font color=green>ON</font>: when Comms are sabotaged, everyone will turn into the specified appearance
+      * Disable comms camouflage on some maps
+        * <font color=green>ON</font>: Comms camouflage will be disabled on some maps
+          * Disable comms camouflage on The Skeld
+            * <font color=green>ON</font>: Comms camouflage will be disabled on The Skeld
+            * <font color=red>OFF</font>: Comms camouflage will be enabled on The Skeld
+          * Disable comms camouflage on MiraHQ
+            * <font color=green>ON</font>: Comms camouflage will be disabled on MiraHQ
+            * <font color=red>OFF</font>: Comms camouflage will be enabled on MiraHQ
+          * Disable comms camouflage on Polus
+            * <font color=green>ON</font>: Comms camouflage will be disabled on Polus
+            * <font color=red>OFF</font>: Comms camouflage will be enabled on Polus
+          * Disable comms camouflage on Airship
+            * <font color=green>ON</font>: Comms camouflage will be disabled on Airship
+            * <font color=red>OFF</font>: Comms camouflage will be enabled on Airship
+      * Disable body reporting while camouflaged
+        * <font color=green>ON</font>: players cannot report bodies while camouflaged
+        * <font color=red>OFF</font>: players can report bodies while camouflaged
     * <font color=red>OFF</font>: Camouflage Comms Sabotage works like it normally would
-  * Disable body reporting while camouflaged
-    * <font color=green>ON</font>: players cannot report bodies while camouflaged
-    * <font color=red>OFF</font>: players can report bodies while camouflaged
+  * Sabotage Cooldown Control
+    * <font color=green>ON</font>: the host can control the sabotage cooldown
+      * Sabotage Cooldown
+        * Set how long the sabotage cooldown will be
+    * <font color=red>OFF</font>: the sabotage cooldown will be normal
   * Sabotage Duration Control
     * <font color=green>ON</font>: the host can control how long sabotages last
       * Polus Reactor Time Limit
@@ -78,7 +96,10 @@ next: Modifiers
         * Set how long the Airship Reactor sabotage will last
     * <font color=red>OFF</font>: the sabotages will last their normal duration
   * Fix Lights Special Settings
-    * <font color=green>ON</font>: the host can control which light panels are active (Airship)
+    * <font color=green>ON</font>: the host can control what happens when the lights are fixed
+      * Block Switches When They Are Up
+        * <font color=green>ON</font>: switches will be blocked when they are on
+        * <font color=red>OFF</font>: switches will not be blocked when they are on
       * Disable Viewing Deck Lights Panel (Airship) 
         * <font color=green>ON</font>: the Viewing Deck Lights Panel will be disabled
         * <font color=red>OFF</font>: the Viewing Deck Lights Panel will be enabled
@@ -249,32 +270,3 @@ next: Modifiers
   * Ghosts Can See Cause of Death
     * <font color=green>ON</font>: Ghosts will be able to see the cause of death of other players
     * <font color=red>OFF</font>: Ghosts will not be able to see the cause of death of other players
-</details>
-<br>
-<details>
-<summary><font color=#ffffff size=4em>Solo PVP</font></summary>
-<br>Solo PVP is a gamemode designed to have a Player VS Player game. Settings are drastically different and only one player will win in the end.
-
-* Game Master
-  * <font color=green>ON</font>: the host can control the game
-  * <font color=red>OFF</font>: the host cannot control the game
-* Game duration
-  * Set how long the game will last
-* Attack Cooldown
-  * Set how long the cooldown is between attacks
-* Default HP
-  * Set how much HP each player has
-* Default Attack
-  * Set how much damage each player does
-* Recover Per Second
-  * Set how much HP each player recovers per second
-* Recover Cooldown
-  * Set how long the cooldown is between each recovery
-* Resurrection waiting time
-  * Set how long a player has to wait to respawn after dying
-* Kill bonus multiplier
-  * Set how much bonus HP a player gets after killing another player
-* Boot players who get stuck in the vent (may trigger official anti cheating)
-  * <font color=green>ON</font>: Players who get stuck in the vent will be kicked from the lobby
-  * <font color=red>OFF</font>: Players who get stuck in the vent will not be kicked from the lobby
-</details>

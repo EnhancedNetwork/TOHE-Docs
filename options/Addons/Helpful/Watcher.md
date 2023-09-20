@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Watcher
-prev: Torch
+prev: Tiebreaker
 next: /options/settings/Addons.html
 ---
 

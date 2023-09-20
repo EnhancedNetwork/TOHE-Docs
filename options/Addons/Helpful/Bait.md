@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Bait
-prev: Aware
+prev: Autopsy
 next: Beartrap
 ---
 

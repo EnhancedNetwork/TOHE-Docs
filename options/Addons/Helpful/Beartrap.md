@@ -2,7 +2,7 @@
 lang: en-US
 title: Beartrap
 prev: Bait
-next: Burst
+next: Bewilder
 ---
 
 # <font color=#5a8fd0>🐻 <b>Beartrap</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>

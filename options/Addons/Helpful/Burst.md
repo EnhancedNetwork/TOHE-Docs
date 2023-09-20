@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Burst
-prev: Beartrap
+prev: Bewilder
 next: DoubleShot
 ---
 

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Infectious
-prev: Glitch
+prev: HexMaster
 next: Jackal
 ---
 

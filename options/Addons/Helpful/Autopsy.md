@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Autopsy
-prev: Antidote
-next: Aware
+prev: /options/settings/Addons.html
+next: Bait
 ---
 
 # <font color=#80ffdd>➕ <b>Autopsy</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>

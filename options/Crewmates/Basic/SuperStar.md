@@ -2,7 +2,7 @@
 lang: en-US
 title: Super Star
 prev: Luckey
-next: Tracefinder
+next: TaskManager
 ---
 
 # <font color="#f6f657">🌟 <b>Super Star</b></font> <Badge text="Basic" type="tip" vertical="middle"/>

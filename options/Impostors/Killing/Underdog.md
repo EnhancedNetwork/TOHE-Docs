@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Underdog
-prev: Spellcaster
+prev: Trapster
 next: /options/settings/Impostors.html
 ---
 

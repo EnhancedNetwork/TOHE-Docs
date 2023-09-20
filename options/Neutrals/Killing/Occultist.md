@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Occultist
-prev: Juggernaut
+prev: Medusa
 next: Pelican
 ---
 

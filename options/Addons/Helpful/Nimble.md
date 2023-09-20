@@ -2,7 +2,7 @@
 lang: en-US
 title: Nimble
 prev: Necroview
-next: Reach
+next: Repairman
 ---
 
 # <font color=#fffaa6>🏃‍♂️ <b>Nimble</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>

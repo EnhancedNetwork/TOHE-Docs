@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Seer
-prev: Schizophrenic
+prev: Repairman
 next: Sleuth
 ---
 

@@ -2,7 +2,7 @@
 lang: en-US
 title: Void Ballot
 prev: Unlucky
-next: Workhorse
+next: /options/settings/Addons.html
 ---
 
 # <font color=#ff3399>🗳️ <b>Void Ballot</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>

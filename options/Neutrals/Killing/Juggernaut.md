@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Juggernaut
-prev: Jackal
-next: Occultist
+prev: Jinx
+next: Medusa
 ---
 
 # <font color="#a41342">💪 <b>Juggernaut</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

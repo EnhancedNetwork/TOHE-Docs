@@ -2,7 +2,7 @@
 lang: en-US
 title: Eraser
 prev: Disperser
-next: KillingMachine
+next: Hangman
 ---
 
 # <font color=red>🧑‍🎨 <b>Eraser</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>

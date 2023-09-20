@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Serial Killer
-prev: Plaguebearer
+prev: PotionMaster
 next: Shade
 ---
 

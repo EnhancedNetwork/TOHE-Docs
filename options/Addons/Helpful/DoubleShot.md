@@ -2,7 +2,7 @@
 lang: en-US
 title: Double Shot
 prev: Burst
-next: Glow
+next: Lazy
 ---
 
 # <font color=#19fa8d>⏩ <b>Double Shot</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>

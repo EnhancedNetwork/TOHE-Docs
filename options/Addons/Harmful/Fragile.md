@@ -2,7 +2,7 @@
 lang: en-US
 title: Fragile
 prev: Disregarded
-next: Ghoul
+next: Oblivious
 ---
 
 # <font color=#d3d3d3>📦 <b>Fragile</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>

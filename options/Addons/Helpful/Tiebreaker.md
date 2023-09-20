@@ -2,7 +2,7 @@
 lang: en-US
 title: Tiebreaker
 prev: Sleuth
-next: Torch
+next: Watcher
 ---
 
 # <font color=#1447af>👔 <b>Tiebreaker</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>

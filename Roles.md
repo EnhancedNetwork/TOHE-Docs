@@ -2,16 +2,16 @@
 lang: en-US
 title: Roles
 sidebar:
-- { text: Custom Settings, link: /options/settings/Custom.html}
-- { text: System Settings, link: /options/settings/System.html}
-- { text: Game Settings, link: /options/settings/Game.html}
-- { text: Game Modifiers, link: /options/settings/Modifiers.html}
-- { text: Impostors, link: /options/settings/Impostors.html}
-- { text: Crewmates, link: /options/settings/Crewmates.html} 
-- { text: Neutrals, link: /options/settings/Neutrals.html}
-- { text: Coven, link: /options/settings/Coven.html}
-- { text: Add-ons, link: /options/settings/Addons.html}
-- { text: Experimental, link: /options/settings/Experimental.html}
+- { text: Custom Settings, link: /options/Settings/Custom.html}
+- { text: System Settings, link: /options/Settings/System.html}
+- { text: Game Settings, link: /options/Settings/Game.html}
+- { text: Game Modifiers, link: /options/Settings/Modifiers.html}
+- { text: Impostors, link: /options/Settings/Impostors.html}
+- { text: Crewmates, link: /options/Settings/Crewmates.html} 
+- { text: Neutrals, link: /options/Settings/Neutrals.html}
+- { text: Coven, link: /options/Settings/Coven.html}
+- { text: Add-ons, link: /options/Settings/Addons.html}
+- { text: Experimental, link: /options/Settings/Experimental.html}
 ---
 
 # Roles
@@ -23,10 +23,10 @@ sidebar:
 
 <center>
 
-[Settings - Custom](/options/settings/Custom.html) | [Settings - System](/options/settings/System.html) <br>
-[Settings - Game](options/settings/Game.html) | [Settings - Game Modifiers](/options/settings/Modifiers.html) <br> 
-[Impostor Roles](/options/settings/Impostors.html) | [Neutral Roles](/options/settings/Neutrals.html) | [Coven Roles](/options/settings/Coven.html)<br>
-[Crewmates Roles](/options/settings/Crewmates.html) | [Add-On Roles](/options/settings/Addons.html) | [Experimental Roles](/options/settings/Experimental.html)
+[Settings - Custom](/options/Settings/Custom.html) | [Settings - System](/options/Settings/System.html) <br>
+[Settings - Game](options/Settings/Game.html) | [Settings - Game Modifiers](/options/Settings/Modifiers.html) <br> 
+[Impostor Roles](/options/Settings/Impostors.html) | [Neutral Roles](/options/Settings/Neutrals.html) | [Coven Roles](/options/Settings/Coven.html)<br>
+[Crewmates Roles](/options/Settings/Crewmates.html) | [Add-On Roles](/options/Settings/Addons.html) | [Experimental Roles](/options/Settings/Experimental.html)
 </center>
 
 <table>

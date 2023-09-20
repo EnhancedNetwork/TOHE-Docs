@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Killing Machine
-prev: Eraser
+prev: Hangman
 next: Lightning
 ---
 

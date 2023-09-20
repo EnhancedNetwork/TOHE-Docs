@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Lawyer   
-prev: Hater
+prev: Imitator
 next: Maverick
 ---
 

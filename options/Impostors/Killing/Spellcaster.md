@@ -2,7 +2,7 @@
 lang: en-US
 title: Spellcaster
 prev: Sniper
-next: Underdog
+next: Trapster
 ---
 
 # <font color="red">🧙 Spellcaster</font> <Badge text="Killing" type="tip" vertical="middle"/>

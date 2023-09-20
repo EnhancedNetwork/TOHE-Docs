@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Tracefinder
-prev: SuperStar
+prev: TaskManager
 next: Transporter
 ---
 

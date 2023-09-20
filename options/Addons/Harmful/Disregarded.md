@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Disregarded
-prev: Diseased
-next: Ghoul
+prev: /options/settings/Addons.html
+next: Fragile
 ---
 
 # <font color=#ff6347>🤚 <b>Disregarded</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>

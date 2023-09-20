@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Oblivious
-prev: Ghoul
+prev: Fragile
 next: Rascal
 ---
 

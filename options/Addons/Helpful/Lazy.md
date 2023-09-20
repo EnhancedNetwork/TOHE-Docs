@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Lazy
-prev: Guesser
+prev: DoubleShot
 next: Loyal
 ---
 

@@ -80,18 +80,3 @@ Below are settings to make the game more balanced based on your lobby's style of
       * <font color=green>ON</font>: ALL <font color=#7f8c8d>Neutrals</font> win together, even if they are Evil, Killing, or Chaos Neutrals
       * <font color=red>OFF</font>: Only each <font color=#7f8c8d>Neutral</font> Type will win together
 </details>
-
-<details>
-<summary><font color=#663399 size='4em'><b> Coven Settings</b></font></summary>
-<br>
-Below are settings to make the game more balanced based on your lobby's style of gameplay:
-
-* Minimum Amount of Coven members
-  * Set the minimal amount of Coven members allowed in the round
-* Maximum Amount of Coven members
-  * Set the max amount of Coven members allowed in the round
-* Coven know the roles of other Coven
-  * <font color=green>ON</font>: Coven will know the roles of other Coven
-  * <font color=red>OFF</font>: Coven will not know the roles of other Coven
-  
-</details>

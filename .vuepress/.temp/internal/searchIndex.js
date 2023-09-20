@@ -1081,27 +1081,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Crewmate",
-    "headers": [],
-    "path": "/options/Crewmates/Vanilla/CrewmateTOHE.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Engineer",
-    "headers": [],
-    "path": "/options/Crewmates/Vanilla/EngineerTOHE.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Scientist",
-    "headers": [],
-    "path": "/options/Crewmates/Vanilla/ScientistTOHE.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Admirer",
     "headers": [],
     "path": "/options/Crewmates/Support/Admirer.html",
@@ -1273,6 +1252,27 @@ export const searchIndex = [
     "title": "Witness",
     "headers": [],
     "path": "/options/Crewmates/Support/Witness.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Crewmate",
+    "headers": [],
+    "path": "/options/Crewmates/Vanilla/CrewmateTOHE.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Engineer",
+    "headers": [],
+    "path": "/options/Crewmates/Vanilla/EngineerTOHE.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Scientist",
+    "headers": [],
+    "path": "/options/Crewmates/Vanilla/ScientistTOHE.html",
     "pathLocale": "/",
     "extraFields": []
   },

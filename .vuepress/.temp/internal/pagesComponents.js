@@ -185,12 +185,6 @@ export const pagesComponents = {
   "v-e23d9ea0": defineAsyncComponent(() => import(/* webpackChunkName: "v-e23d9ea0" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Power/Overseer.html.vue")),
   // path: /options/Crewmates/Power/Telecommunication.html
   "v-3c7311e3": defineAsyncComponent(() => import(/* webpackChunkName: "v-3c7311e3" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Power/Telecommunication.html.vue")),
-  // path: /options/Crewmates/Vanilla/CrewmateTOHE.html
-  "v-9cdc7b8a": defineAsyncComponent(() => import(/* webpackChunkName: "v-9cdc7b8a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Vanilla/CrewmateTOHE.html.vue")),
-  // path: /options/Crewmates/Vanilla/EngineerTOHE.html
-  "v-3c5c945c": defineAsyncComponent(() => import(/* webpackChunkName: "v-3c5c945c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Vanilla/EngineerTOHE.html.vue")),
-  // path: /options/Crewmates/Vanilla/ScientistTOHE.html
-  "v-9aecce6e": defineAsyncComponent(() => import(/* webpackChunkName: "v-9aecce6e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Vanilla/ScientistTOHE.html.vue")),
   // path: /options/Crewmates/Support/Admirer.html
   "v-9d586cf6": defineAsyncComponent(() => import(/* webpackChunkName: "v-9d586cf6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Support/Admirer.html.vue")),
   // path: /options/Crewmates/Support/Chameleon.html
@@ -241,6 +235,12 @@ export const pagesComponents = {
   "v-b85e96e6": defineAsyncComponent(() => import(/* webpackChunkName: "v-b85e96e6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Support/Tracker.html.vue")),
   // path: /options/Crewmates/Support/Witness.html
   "v-76448f2c": defineAsyncComponent(() => import(/* webpackChunkName: "v-76448f2c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Support/Witness.html.vue")),
+  // path: /options/Crewmates/Vanilla/CrewmateTOHE.html
+  "v-9cdc7b8a": defineAsyncComponent(() => import(/* webpackChunkName: "v-9cdc7b8a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Vanilla/CrewmateTOHE.html.vue")),
+  // path: /options/Crewmates/Vanilla/EngineerTOHE.html
+  "v-3c5c945c": defineAsyncComponent(() => import(/* webpackChunkName: "v-3c5c945c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Vanilla/EngineerTOHE.html.vue")),
+  // path: /options/Crewmates/Vanilla/ScientistTOHE.html
+  "v-9aecce6e": defineAsyncComponent(() => import(/* webpackChunkName: "v-9aecce6e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Vanilla/ScientistTOHE.html.vue")),
   // path: /options/Experimental/Crewmate/Swapper.html
   "v-5ca71efb": defineAsyncComponent(() => import(/* webpackChunkName: "v-5ca71efb" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Crewmate/Swapper.html.vue")),
   // path: /options/Experimental/Addon/Fool.html

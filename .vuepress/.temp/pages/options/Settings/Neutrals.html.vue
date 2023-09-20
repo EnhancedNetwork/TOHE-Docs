@@ -87,31 +87,6 @@ Below are settings to make the game more balanced based on your lobby's style of
 </ul>
 </li>
 </ul>
-</details>
-<details>
-<summary><font color=#663399 size='4em'><b> Coven Settings</b></font></summary>
-<br>
-Below are settings to make the game more balanced based on your lobby's style of gameplay:
-<ul>
-<li>Minimum Amount of Coven members
-<ul>
-<li>Set the minimal amount of Coven members allowed in the round</li>
-</ul>
-</li>
-<li>Maximum Amount of Coven members
-<ul>
-<li>Set the max amount of Coven members allowed in the round</li>
-</ul>
-</li>
-<li>Coven know the roles of other Coven
-<ul>
-<li>
-<font color=green>ON</font>: Coven will know the roles of other Coven</li>
-<li>
-<font color=red>OFF</font>: Coven will not know the roles of other Coven</li>
-</ul>
-</li>
-</ul>
 </details></div></template>
 
 

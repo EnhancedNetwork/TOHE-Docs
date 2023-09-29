@@ -25,3 +25,5 @@ As aware, you will be notified in the nexting if a revealing role interacts with
 * Knows the role of player
   * <font color=green>ON</font>: Aware knows the role of the player
   * <font color=red>OFF</font>: Aware does not know the role of the player
+
+> From: [ryuk](#)

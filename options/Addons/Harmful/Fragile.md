@@ -35,4 +35,4 @@ As Fragile, you will die instantly if someone tries to use kill button on you (e
   * <font color=green>ON</font>: Killers will lunge towards the Fragile on kill
   * <font color=red>OFF</font>: Killers will not lunge towards the Fragile on kill
   
-> From: TBD
+> From: [ryuk](#)

@@ -14,4 +14,4 @@ As the Chronomancer, you can charge up your kill button. Once activated the Chro
 * Time to fully charge the kill button
   * Set the time it takes to fully charge the kill button
 
-> From: TBD
+> Idea From: TOU-R & Coded By: [Ryuk](#)

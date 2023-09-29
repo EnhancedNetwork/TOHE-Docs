@@ -27,4 +27,4 @@ Optionally, the Agitator cannot receive the bomb.
   * <font color=green>ON</font>: the Agitator can have the bomb passed to them
   * <font color=red>OFF</font>: the Agitator cannot have the bomb passed to them
 
-> From: [ryuk](#)
+> From: TOH:TOR & Coding: [ryuk](#)

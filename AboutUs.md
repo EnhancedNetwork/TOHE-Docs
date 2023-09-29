@@ -22,7 +22,9 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**NCSIMON**](https://github.com/NCSIMON)：Role Coding
 
-[**Tommy-XL**](https://github.com/Tommy-XL)：English & Russian Translator
+[**Tommy-XL**](https://github.com/Tommy-XL)：English & Russian Translator, Role & Feature Coding
+
+[**Ryuk**](#)：Role & Feature Coding
 
 [**Tem**](https://github.com/mogekonik1)：English & Russian Translator
 

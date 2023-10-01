@@ -14,3 +14,5 @@ You change your roles from Romantic if your partner (A neutral killer) is killed
 * Ruthless Romantic Can Vent
   * <font color=green>ON</font>: the Ruthless Romantic can vent
   * <font color=red>OFF</font>: the Ruthless Romantic cannot vent
+
+> From: Stellar Roles & Coding: [Gurge44] & [ryuk]

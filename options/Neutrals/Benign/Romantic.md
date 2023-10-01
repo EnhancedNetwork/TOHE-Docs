@@ -35,4 +35,4 @@ Note : If your role changes your win condition will be changed accordingly
 [<font color="#d2691e">Ruthless Romantic Settings</font>](./RomanticRuthless.html)
 </center>
 
-> From: TBD
+> From: Stellar Roles & Coding: [Gurge44] & [ryuk]

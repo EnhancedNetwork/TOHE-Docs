@@ -298,6 +298,44 @@ Note: Commands in bold are considered "essential" and are recommended for all pl
 </tr>
 </table>
 
+<table>
+<tr>
+<td colspan="3" align="center">
+<strong style="font-size: 25px">
+<b>Moderator-Only</b>
+</strong>
+</td>
+</tr>
+<tr>
+<td align="center"> <b>Command</b></td>
+<td align="center"> <b>Function</b></td>
+</tr>
+<tr>
+<td><b>/s [text]</b></td>
+<td><b>Send moderator message</b> (if setting is on)</td>
+</tr>
+<tr>
+<td><b>/mid</b></td>
+<td><b>Show all players' id</b></td>
+</tr>
+<tr>
+<td>/warn [player id] [reason]</td>
+<td>Warn specific player</td>
+</tr>
+<tr>
+<td>/kick [player id] [reason]</td>
+<td>Kick specific player</td>
+</tr>
+<tr>
+<td>/ban [player id] [reason]</td>
+<td>Ban specific player</td>
+</tr>
+<tr>
+<td>/modcolor [hexcode] [hexcode]</td>
+<td>Change the color of the moderator tag</td>
+</tr>
+</table>
+
 ## Presets
 
 You can save your favorite settings as presets and load them later. You can also share your presets with others. Below is a list of presets that you can use in your lobby. Make sure to rename the file to `com.karped1em.townofhostedited.cfg` before using it.

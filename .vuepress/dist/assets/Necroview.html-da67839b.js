@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-79a35ef0","path":"/options/Addons/Helpful/Necroview.html","title":"Necroview","lang":"en-US","frontmatter":{"lang":"en-US","title":"Necroview","prev":"Lucky","next":"Nimble"},"headers":[],"git":{},"filePathRelative":"options/Addons/Helpful/Necroview.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-24debe86","path":"/options/Impostors/Killing/CursedWolf.html","title":"Cursed Wolf","lang":"en-US","frontmatter":{"lang":"en-US","title":"Cursed Wolf","prev":"Councillor","next":"Deathpact"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Killing/CursedWolf.md"}');export{e as data};

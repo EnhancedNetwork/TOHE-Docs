@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-63cf08ee","path":"/options/Neutrals/Killing/Agitator.html","title":"Agitator","lang":"en-US","frontmatter":{"lang":"en-US","title":"Agitator","prev":"/options/settings/Neutrals.html","next":"Arsonist"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Killing/Agitator.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3ebcba66","path":"/options/Settings/Custom.html","title":"Custom Settings","lang":"en-US","frontmatter":{"lang":"en-US","title":"Custom Settings","prev":"/Roles","next":"Impostors"},"headers":[],"git":{},"filePathRelative":"options/Settings/Custom.md"}');export{t as data};

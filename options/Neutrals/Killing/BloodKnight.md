@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Blood Knight
-prev: Arsonist
+prev: Bandit
 next: Glitch
 ---
 

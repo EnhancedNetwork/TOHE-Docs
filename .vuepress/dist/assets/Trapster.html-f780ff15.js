@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c03015b4","path":"/options/Impostors/Killing/Trapster.html","title":"Trapster","lang":"en-US","frontmatter":{"lang":"en-US","title":"Trapster","prev":"Spellcaster","next":"Underdog"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Killing/Trapster.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-53707ee6","path":"/options/Crewmates/Basic/Doctor.html","title":"Doctor","lang":"en-US","frontmatter":{"lang":"en-US","title":"Doctor","prev":"Cleanser","next":"LazyGuy"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Basic/Doctor.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6ec03af6","path":"/options/Neutrals/Killing/SerialKiller.html","title":"Serial Killer","lang":"en-US","frontmatter":{"lang":"en-US","title":"Serial Killer","prev":"PotionMaster","next":"Shade"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Killing/SerialKiller.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-433634f6","path":"/options/Neutrals/Evil/Executioner.html","title":"Executioner","lang":"en-US","frontmatter":{"lang":"en-US","title":"Executioner","prev":"Doomsayer","next":"Innocent"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Evil/Executioner.md"}');export{e as data};

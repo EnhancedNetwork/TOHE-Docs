@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b46d1c7e","path":"/options/Addons/Mixed/Aware.html","title":"Aware","lang":"en-US","frontmatter":{"lang":"en-US","title":"Aware","prev":"Avenger","next":"Diseased"},"headers":[],"git":{},"filePathRelative":"options/Addons/Mixed/Aware.md"}');export{e as data};

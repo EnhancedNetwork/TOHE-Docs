@@ -2,7 +2,7 @@
 lang: en-US
 title: Arsonist
 prev: Agitator
-next: BloodKnight
+next: Bandit
 ---
 
 # <font color="#ff6633">🔥 <b>Arsonist</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

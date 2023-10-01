@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-9f3cbb04","path":"/options/Addons/Helpful/Burst.html","title":"Burst","lang":"en-US","frontmatter":{"lang":"en-US","title":"Burst","prev":"Bewilder","next":"DoubleShot"},"headers":[],"git":{},"filePathRelative":"options/Addons/Helpful/Burst.md"}');export{t as data};

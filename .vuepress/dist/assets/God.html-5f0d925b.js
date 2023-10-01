@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6cfcbefc","path":"/options/Experimental/Neutral/God.html","title":"God","lang":"en-US","frontmatter":{"lang":"en-US","title":"God","prev":"/options/settings/Experimental.html","next":"Provocateur"},"headers":[],"git":{},"filePathRelative":"options/Experimental/Neutral/God.md"}');export{t as data};

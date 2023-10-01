@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5c883a39","path":"/options/Crewmates/Basic/SuperStar.html","title":"Super Star","lang":"en-US","frontmatter":{"lang":"en-US","title":"Super Star","prev":"Luckey","next":"TaskManager"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Basic/SuperStar.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-592179a8","path":"/options/Experimental/Impostor/Zombie.html","title":"Zombie","lang":"en-US","frontmatter":{"lang":"en-US","title":"Zombie","prev":"Trapster","next":"/options/settings/Experimental.html"},"headers":[],"git":{},"filePathRelative":"options/Experimental/Impostor/Zombie.md"}');export{t as data};

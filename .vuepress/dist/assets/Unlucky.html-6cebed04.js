@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4e13bf82","path":"/options/Addons/Harmful/Unlucky.html","title":"Unlucky","lang":"en-US","frontmatter":{"lang":"en-US","title":"Unlucky","prev":"Sunglasses","next":"VoidBallot"},"headers":[],"git":{},"filePathRelative":"options/Addons/Harmful/Unlucky.md"}');export{t as data};

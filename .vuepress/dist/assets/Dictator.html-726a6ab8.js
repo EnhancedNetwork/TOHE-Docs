@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-64642397","path":"/options/Crewmates/Power/Dictator.html","title":"Dictator","lang":"en-US","frontmatter":{"lang":"en-US","title":"Dictator","prev":"Copycat","next":"Guardian"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Power/Dictator.md"}');export{t as data};

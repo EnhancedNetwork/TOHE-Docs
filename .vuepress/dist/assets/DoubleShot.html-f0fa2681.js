@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b78b24ae","path":"/options/Addons/Helpful/DoubleShot.html","title":"Double Shot","lang":"en-US","frontmatter":{"lang":"en-US","title":"Double Shot","prev":"Burst","next":"Lazy"},"headers":[],"git":{},"filePathRelative":"options/Addons/Helpful/DoubleShot.md"}');export{t as data};

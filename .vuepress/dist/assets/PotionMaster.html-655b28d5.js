@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-21bfdb00","path":"/options/Neutrals/Killing/PotionMaster.html","title":"Potion Master","lang":"en-US","frontmatter":{"lang":"en-US","title":"Potion Master","prev":"Poisoner","next":"SerialKiller"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Killing/PotionMaster.md"}');export{t as data};

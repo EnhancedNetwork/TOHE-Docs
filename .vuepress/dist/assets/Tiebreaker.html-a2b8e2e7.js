@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6a389150","path":"/options/Addons/Helpful/Tiebreaker.html","title":"Tiebreaker","lang":"en-US","frontmatter":{"lang":"en-US","title":"Tiebreaker","prev":"Sleuth","next":"Watcher"},"headers":[],"git":{},"filePathRelative":"options/Addons/Helpful/Tiebreaker.md"}');export{e as data};

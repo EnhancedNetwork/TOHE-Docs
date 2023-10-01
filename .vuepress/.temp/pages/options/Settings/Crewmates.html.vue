@@ -1,4 +1,4 @@
-<template><div><h1 id="👨‍🚀-faction-crewmate" tabindex="-1"><a class="header-anchor" href="#👨‍🚀-faction-crewmate" aria-hidden="true">#</a> <font color="#8cffff">👨‍🚀 <b>Faction: Crewmate</b></font> <Badge text="Total: 56" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="👨‍🚀-faction-crewmate" tabindex="-1"><a class="header-anchor" href="#👨‍🚀-faction-crewmate" aria-hidden="true">#</a> <font color="#8cffff">👨‍🚀 <b>Faction: Crewmate</b></font> <Badge text="Total: 58" type="tip" vertical="middle"/></h1>
 <hr>
 <p><b>Focus on finding the <font color=red>Impostors</font> and completing tasks. These roles very simple, making it easier for new players and the <font color=#8cffff>Crewmates</font> to win.</b></p>
 <table>
@@ -7,11 +7,11 @@
 </tr>
 <tr>
 <td><font color=#e69c9c><b>Basic</b></font></td>
-<td align="center">10</td>
+<td align="center">11</td>
 </tr>
 <tr>
 <td><font color=#b22222><b>Killing</b></font></td>
-<td align="center">10</td>
+<td align="center">11</td>
 </tr>
 <tr>
 <td><font color=#d4af37><b>Power</b></font></td>
@@ -25,11 +25,11 @@
 <br>
 <h3 id="basic" tabindex="-1"><a class="header-anchor" href="#basic" aria-hidden="true">#</a> <font color=#e69c9c><b>Basic</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Crewmates/Basic/Addict.html">Addict</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Celebrity.html">Celebrity</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Cleanser.html">Cleanser</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Doctor.html">Doctor</RouterLink> | <RouterLink to="/options/Crewmates/Basic/LazyGuy.html">Lazy Guy</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Luckey.html">Luckey</RouterLink> | <RouterLink to="/options/Crewmates/Basic/SuperStar.html">Super Star</RouterLink> | <RouterLink to="/options/Crewmates/Basic/TaskManager.html">Task Manager</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Tracefinder.html">Tracefinder</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Transporter.html">Transporter</RouterLink>
+<p><RouterLink to="/options/Crewmates/Basic/Addict.html">Addict</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Alchemist.html">Alchemist</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Celebrity.html">Celebrity</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Cleanser.html">Cleanser</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Doctor.html">Doctor</RouterLink> | <RouterLink to="/options/Crewmates/Basic/LazyGuy.html">Lazy Guy</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Luckey.html">Luckey</RouterLink> | <RouterLink to="/options/Crewmates/Basic/SuperStar.html">Super Star</RouterLink> | <RouterLink to="/options/Crewmates/Basic/TaskManager.html">Task Manager</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Tracefinder.html">Tracefinder</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Transporter.html">Transporter</RouterLink>
 <br></p>
 <h3 id="killing" tabindex="-1"><a class="header-anchor" href="#killing" aria-hidden="true">#</a> <font color=#b22222><b>Killing</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Crewmates/Killing/Bodyguard.html">Bodyguard</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Crusader.html">Crusader</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Deceiver.html">Deceiver</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Jailor.html">Jailor</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Knight.html">Knight</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Retributionist.html">Retributionist</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Reverie.html">Reverie</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Sheriff.html">Sheriff</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Veteran.html">Veteran</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Vigilante.html">Vigilante</RouterLink>
+<p><RouterLink to="/options/Crewmates/Killing/Bastion.html">Bastion</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Bodyguard.html">Bodyguard</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Crusader.html">Crusader</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Deceiver.html">Deceiver</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Jailor.html">Jailor</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Knight.html">Knight</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Retributionist.html">Retributionist</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Reverie.html">Reverie</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Sheriff.html">Sheriff</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Veteran.html">Veteran</RouterLink> | <RouterLink to="/options/Crewmates/Killing/Vigilante.html">Vigilante</RouterLink>
 <br></p>
 <h3 id="power" tabindex="-1"><a class="header-anchor" href="#power" aria-hidden="true">#</a> <font color=#d4af37><b>Power</b></font></h3>
 <hr>

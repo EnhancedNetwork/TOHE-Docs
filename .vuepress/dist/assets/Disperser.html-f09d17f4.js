@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bcf1a81a","path":"/options/Experimental/Impostor/Disperser.html","title":"Disperser","lang":"en-US","frontmatter":{"lang":"en-US","title":"Disperser","prev":"Capitalist","next":"Eraser"},"headers":[],"git":{},"filePathRelative":"options/Experimental/Impostor/Disperser.md"}');export{e as data};

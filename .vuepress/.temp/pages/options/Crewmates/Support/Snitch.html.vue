@@ -47,9 +47,7 @@
 <li>Override Snitch’s Tasks
 <ul>
 <li>
-<font color=green>ON</font>: you can set a different amount of Tasks that a Snitch needs to do</li>
-<li>
-<font color=red>OFF</font>: the Snitch does the same amount of Tasks as anyone else<ul>
+<font color=green>ON</font>: you can set a different amount of Tasks that a Snitch needs to do<ul>
 <li>Snitch has Common Tasks
 <ul>
 <li>Set if the Snitch has Common Tasks</li>
@@ -67,6 +65,8 @@
 </li>
 </ul>
 </li>
+<li>
+<font color=red>OFF</font>: the Snitch does the same amount of Tasks as anyone else</li>
 </ul>
 </li>
 </ul>

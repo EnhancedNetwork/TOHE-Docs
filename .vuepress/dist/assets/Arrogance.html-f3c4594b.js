@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-09d921ae","path":"/options/Impostors/Killing/Arrogance.html","title":"Arrogance","lang":"en-US","frontmatter":{"lang":"en-US","title":"Arrogance","prev":"Agent","next":"Assassin"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Killing/Arrogance.md"}');export{e as data};

@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-3060994a\",\"path\":\"/options/Neutrals/Killing/Huntsman.html\",\"title\":\"Huntsman\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Huntsman\",\"prev\":\"HexMaster\",\"next\":\"Infectious\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"options/Neutrals/Killing/Huntsman.md\"}")

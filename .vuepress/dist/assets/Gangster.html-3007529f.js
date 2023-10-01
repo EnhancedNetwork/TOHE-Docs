@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7d3297cb","path":"/options/Impostors/Support/Gangster.html","title":"Gangster","lang":"en-US","frontmatter":{"lang":"en-US","title":"Gangster","prev":"Fireworker","next":"Godfather"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Support/Gangster.md"}');export{t as data};

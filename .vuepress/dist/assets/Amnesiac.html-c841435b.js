@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-645bd8ed","path":"/options/Neutrals/Benign/Amnesiac.html","title":"Amnesiac","lang":"en-US","frontmatter":{"lang":"en-US","title":"Amnesiac","prev":"/options/settings/Neutrals.html","next":"Follower"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Benign/Amnesiac.md"}');export{e as data};

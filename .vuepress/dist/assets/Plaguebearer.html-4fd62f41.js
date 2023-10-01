@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0ee0bffc","path":"/options/Neutrals/Killing/Plaguebearer.html","title":"Plaguebearer","lang":"en-US","frontmatter":{"lang":"en-US","title":"Plaguebearer","prev":"Pickpocket","next":"Poisoner"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Killing/Plaguebearer.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b92bf0b4","path":"/options/Crewmates/Support/Grenadier.html","title":"Grenadier","lang":"en-US","frontmatter":{"lang":"en-US","title":"Grenadier","prev":"FortuneTeller","next":"Inspector"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Support/Grenadier.md"}');export{e as data};

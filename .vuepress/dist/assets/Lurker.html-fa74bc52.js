@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-51cad972","path":"/options/Impostors/Killing/Lurker.html","title":"Lurker","lang":"en-US","frontmatter":{"lang":"en-US","title":"Lurker","prev":"Ludopath","next":"Mercenary"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Killing/Lurker.md"}');export{e as data};

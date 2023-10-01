@@ -167,6 +167,7 @@ export default ({
           '/options/Crewmates/Basic/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
             { text: 'Addict', link: '/options/Crewmates/Basic/Addict.html' },
+            { text: 'Alchemist', link: '/options/Crewmates/Basic/Alchemist.html' },
             { text: 'Celebrity', link: '/options/Crewmates/Basic/Celebrity.html' },
             { text: 'Cleanser', link: '/options/Crewmates/Basic/Cleanser.html' },
             { text: 'Doctor', link: '/options/Crewmates/Basic/Doctor.html' },
@@ -179,6 +180,7 @@ export default ({
           ],
           '/options/Crewmates/Killing/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
+            { text: 'Bastion', link: '/options/Crewmates/Killing/Bastion.html' },
             { text: 'Bodyguard', link: '/options/Crewmates/Killing/Bodyguard.html' },
             { text: 'Crusader', link: '/options/Crewmates/Killing/Crusader.html' },
             { text: 'Deceiver', link: '/options/Crewmates/Killing/Deceiver.html' },
@@ -198,10 +200,12 @@ export default ({
             { text: 'Lookout', link: '/options/Crewmates/Power/Lookout.html' },
             { text: 'Marshall', link: '/options/Crewmates/Power/Marshall.html' },
             { text: 'Mayor', link: '/options/Crewmates/Power/Mayor.html' },
-            { text: 'Mini', link: '/options/Crewmates/Power/Mini.html', children: [
-              { text: 'Evil Mini', link: '/options/Crewmates/Power/MiniEvil.html' },
-              { text: 'Nice Mini', link: '/options/Crewmates/Power/MiniNice.html' },
-            ]},
+            {
+              text: 'Mini', link: '/options/Crewmates/Power/Mini.html', children: [
+                { text: 'Evil Mini', link: '/options/Crewmates/Power/MiniEvil.html' },
+                { text: 'Nice Mini', link: '/options/Crewmates/Power/MiniNice.html' },
+              ]
+            },
             { text: 'Monarch', link: '/options/Crewmates/Power/Monarch.html' },
             { text: 'Overseer', link: '/options/Crewmates/Power/Overseer.html' },
             { text: 'Telecommunication', link: '/options/Crewmates/Power/Telecommunication.html' },
@@ -344,10 +348,12 @@ export default ({
             { text: 'Maverick', link: '/options/Neutrals/Benign/Maverick.html' },
             { text: 'Opportunist', link: '/options/Neutrals/Benign/Opportunist.html' },
             { text: 'Pursuer', link: '/options/Neutrals/Benign/Pursuer.html' },
-            { text: 'Romantic', link: '/options/Neutrals/Benign/Romantic.html', children: [
-              { text: 'Vengeful Romantic', link: '/options/Neutrals/Benign/RomanticVengeful.html' },
-              { text: 'Ruthless Romantic', link: '/options/Neutrals/Benign/RomanticRuthless.html' },
-            ]},
+            {
+              text: 'Romantic', link: '/options/Neutrals/Benign/Romantic.html', children: [
+                { text: 'Vengeful Romantic', link: '/options/Neutrals/Benign/RomanticVengeful.html' },
+                { text: 'Ruthless Romantic', link: '/options/Neutrals/Benign/RomanticRuthless.html' },
+              ]
+            },
             { text: 'Shaman', link: '/options/Neutrals/Benign/Shaman.html' },
             { text: 'Witch', link: '/options/Neutrals/Benign/Witch.html' },
           ],
@@ -380,6 +386,7 @@ export default ({
             { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
             { text: 'Agitator', link: '/options/Neutrals/Killing/Agitator.html' },
             { text: 'Arsonist', link: '/options/Neutrals/Killing/Arsonist.html' },
+            { text: 'Bandit', link: '/options/Neutrals/Killing/Bandit.html' },
             { text: 'Blood Knight', link: '/options/Neutrals/Killing/BloodKnight.html' },
             { text: 'Glitch', link: '/options/Neutrals/Killing/Glitch.html' },
             { text: 'Hex Master', link: '/options/Neutrals/Killing/HexMaster.html' },
@@ -405,14 +412,14 @@ export default ({
           ],
           '/options/Settings/': [
             { text: 'Custom Settings', link: '/options/Settings/Custom.html' },
-            { text: 'System Settings', link: '/options/Settings/System.html'},
-            { text: 'Game Settings', link: '/options/Settings/Game.html'},
-            { text: 'Game Modifiers', link: '/options/Settings/Modifiers.html'},
-            { text: 'Impostors', link: '/options/Settings/Impostors.html'},
-            { text: 'Crewmates', link: '/options/Settings/Crewmates.html'},
-            { text: 'Neutrals', link: '/options/Settings/Neutrals.html'},
-            { text: 'Add-ons', link: '/options/Settings/Addons.html'},
-            { text: 'Experimental', link: '/options/Settings/Experimental.html'},
+            { text: 'System Settings', link: '/options/Settings/System.html' },
+            { text: 'Game Settings', link: '/options/Settings/Game.html' },
+            { text: 'Game Modifiers', link: '/options/Settings/Modifiers.html' },
+            { text: 'Impostors', link: '/options/Settings/Impostors.html' },
+            { text: 'Crewmates', link: '/options/Settings/Crewmates.html' },
+            { text: 'Neutrals', link: '/options/Settings/Neutrals.html' },
+            { text: 'Add-ons', link: '/options/Settings/Addons.html' },
+            { text: 'Experimental', link: '/options/Settings/Experimental.html' },
           ],
         },
         repo: '0xDrMoe/TOHRE-Code',

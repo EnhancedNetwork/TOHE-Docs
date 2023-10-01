@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f493d200","path":"/options/Neutrals/Chaos/Revolutionist.html","title":"Revolutionist","lang":"en-US","frontmatter":{"lang":"en-US","title":"Revolutionist","prev":"Provocateur","next":"Spiritcaller"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Chaos/Revolutionist.md"}');export{t as data};

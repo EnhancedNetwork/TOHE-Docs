@@ -5,7 +5,7 @@ prev: Impostors
 next: Neutrals
 ---
 
-# <font color="#8cffff">👨‍🚀 <b>Faction: Crewmate</b></font> <Badge text="Total: 56" type="tip" vertical="middle"/>
+# <font color="#8cffff">👨‍🚀 <b>Faction: Crewmate</b></font> <Badge text="Total: 58" type="tip" vertical="middle"/>
 ---
 
 <b>Focus on finding the <font color=red>Impostors</font> and completing tasks. These roles very simple, making it easier for new players and the <font color=#8cffff>Crewmates</font> to win.</b>
@@ -16,12 +16,12 @@ next: Neutrals
 </tr>
 <tr>
 <td><font color=#e69c9c><b>Basic</b></font></td>
-<td align="center">10</td>
+<td align="center">11</td>
 </tr>
 
 <tr>
 <td><font color=#b22222><b>Killing</b></font></td>
-<td align="center">10</td>
+<td align="center">11</td>
 </tr>
 
 <tr>
@@ -40,12 +40,12 @@ next: Neutrals
 
 ### <font color=#e69c9c><b>Basic</b></font>
 ---
-[Addict](/options/Crewmates/Basic/Addict.html) | [Celebrity](/options/Crewmates/Basic/Celebrity.html) | [Cleanser](/options/Crewmates/Basic/Cleanser.html) | [Doctor](/options/Crewmates/Basic/Doctor.html) | [Lazy Guy](/options/Crewmates/Basic/LazyGuy.html) | [Luckey](/options/Crewmates/Basic/Luckey.html) | [Super Star](/options/Crewmates/Basic/SuperStar.html) | [Task Manager](/options/Crewmates/Basic/TaskManager.html) | [Tracefinder](/options/Crewmates/Basic/Tracefinder.html) | [Transporter](/options/Crewmates/Basic/Transporter.html)
+[Addict](/options/Crewmates/Basic/Addict.html) | [Alchemist](/options/Crewmates/Basic/Alchemist.html) | [Celebrity](/options/Crewmates/Basic/Celebrity.html) | [Cleanser](/options/Crewmates/Basic/Cleanser.html) | [Doctor](/options/Crewmates/Basic/Doctor.html) | [Lazy Guy](/options/Crewmates/Basic/LazyGuy.html) | [Luckey](/options/Crewmates/Basic/Luckey.html) | [Super Star](/options/Crewmates/Basic/SuperStar.html) | [Task Manager](/options/Crewmates/Basic/TaskManager.html) | [Tracefinder](/options/Crewmates/Basic/Tracefinder.html) | [Transporter](/options/Crewmates/Basic/Transporter.html)
 <br>
 
 ### <font color=#b22222><b>Killing</b></font>
 ---
-[Bodyguard](/options/Crewmates/Killing/Bodyguard.html) | [Crusader](/options/Crewmates/Killing/Crusader.html) | [Deceiver](/options/Crewmates/Killing/Deceiver.html) | [Jailor](/options/Crewmates/Killing/Jailor.html) | [Knight](/options/Crewmates/Killing/Knight.html) | [Retributionist](/options/Crewmates/Killing/Retributionist.html) | [Reverie](/options/Crewmates/Killing/Reverie.html) | [Sheriff](/options/Crewmates/Killing/Sheriff.html) | [Veteran](/options/Crewmates/Killing/Veteran.html) | [Vigilante](/options/Crewmates/Killing/Vigilante.html)
+[Bastion](/options/Crewmates/Killing/Bastion.html) | [Bodyguard](/options/Crewmates/Killing/Bodyguard.html) | [Crusader](/options/Crewmates/Killing/Crusader.html) | [Deceiver](/options/Crewmates/Killing/Deceiver.html) | [Jailor](/options/Crewmates/Killing/Jailor.html) | [Knight](/options/Crewmates/Killing/Knight.html) | [Retributionist](/options/Crewmates/Killing/Retributionist.html) | [Reverie](/options/Crewmates/Killing/Reverie.html) | [Sheriff](/options/Crewmates/Killing/Sheriff.html) | [Veteran](/options/Crewmates/Killing/Veteran.html) | [Vigilante](/options/Crewmates/Killing/Vigilante.html)
 <br>
 
 ### <font color=#d4af37><b>Power</b></font>

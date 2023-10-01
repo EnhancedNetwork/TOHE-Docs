@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3f7db35c","path":"/options/Crewmates/Support/Pacifist.html","title":"Pacifist","lang":"en-US","frontmatter":{"lang":"en-US","title":"Pacifist","prev":"Oracle","next":"Paranoid"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Support/Pacifist.md"}');export{t as data};

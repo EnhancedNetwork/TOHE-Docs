@@ -1,7 +1,7 @@
 ---
 link: en-US
 title: Bodyguard
-prev: /options/settings/Crewmates.html
+prev: Bastion
 next: Crusader
 ---
 

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-93f320cc","path":"/options/Addons/Impostor/Madmate.html","title":"Madmate","lang":"en-US","frontmatter":{"lang":"en-US","title":"Madmate","prev":"LastImpostor","next":"Mare"},"headers":[],"git":{},"filePathRelative":"options/Addons/Impostor/Madmate.md"}');export{t as data};

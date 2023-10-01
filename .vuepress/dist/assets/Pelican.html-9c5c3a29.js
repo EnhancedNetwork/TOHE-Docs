@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0aa9c142","path":"/options/Neutrals/Killing/Pelican.html","title":"Pelican","lang":"en-US","frontmatter":{"lang":"en-US","title":"Pelican","prev":"Occultist","next":"Pickpocket"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Killing/Pelican.md"}');export{t as data};

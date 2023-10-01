@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-13e5221c","path":"/options/Addons/Impostor/Swift.html","title":"Swift","lang":"en-US","frontmatter":{"lang":"en-US","title":"Swift","prev":"Stealer","next":"/options/settings/Addons.html"},"headers":[],"git":{},"filePathRelative":"options/Addons/Impostor/Swift.md"}');export{t as data};

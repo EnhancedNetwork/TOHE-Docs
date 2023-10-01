@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-604e65e1","path":"/options/Impostors/Hindering/Pitfall.html","title":"Pitfall","lang":"en-US","frontmatter":{"lang":"en-US","title":"Pitfall","prev":"Devourer","next":"Twister"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Hindering/Pitfall.md"}');export{t as data};

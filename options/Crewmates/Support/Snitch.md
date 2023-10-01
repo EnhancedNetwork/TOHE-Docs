@@ -27,12 +27,13 @@ After the Snitch completes all tasks, they will see the <font color=red>Impostor
   * Set the amount of Tasks left for a Snitch to reveal that they exist to the <font color=red>Impostors</font> and Neutrals
 * Override Snitch’s Tasks
   * <font color=green>ON</font>: you can set a different amount of Tasks that a Snitch needs to do
-  * <font color=red>OFF</font>: the Snitch does the same amount of Tasks as anyone else
     * Snitch has Common Tasks
       * Set if the Snitch has Common Tasks
     * Amount of Long Tasks for Snitch
       * Set the amount of Long Tasks the Snitch will receive
     * Amount of Short Tasks for Snitch
       * Set the amount of Short Tasks the Snitch will receive
+  * <font color=red>OFF</font>: the Snitch does the same amount of Tasks as anyone else
+
 
 > From: TOH

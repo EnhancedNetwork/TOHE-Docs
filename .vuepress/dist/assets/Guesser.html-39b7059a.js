@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-480c5cca","path":"/options/Addons/Mixed/Guesser.html","title":"Guesser","lang":"en-US","frontmatter":{"lang":"en-US","title":"Guesser","prev":"Gravestone","next":"Schizophrenic"},"headers":[],"git":{},"filePathRelative":"options/Addons/Mixed/Guesser.md"}');export{e as data};

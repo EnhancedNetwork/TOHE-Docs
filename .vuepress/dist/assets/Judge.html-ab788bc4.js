@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-353c2718","path":"/options/Crewmates/Power/Judge.html","title":"Judge","lang":"en-US","frontmatter":{"lang":"en-US","title":"Judge","prev":"Guardian","next":"Lookout"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Power/Judge.md"}');export{e as data};

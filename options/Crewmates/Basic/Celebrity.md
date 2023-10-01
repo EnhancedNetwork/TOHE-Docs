@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Celebrity
-prev: Addict
+prev: Alchemist
 next: Cleanser
 ---
 

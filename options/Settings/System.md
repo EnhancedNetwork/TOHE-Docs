@@ -11,7 +11,7 @@ next: /Roles.html
 * <font color=#ffeb04>Preset</font>
   * Swap and choose your saved lobby settings
 
-* <font color=red>Use Protection Anti Blackout</font>
+* <font color=red>Black Screen Prevention (Recommended)</font>
   * <font color=green>ON</font>: Mod will prevent black-screening
   * <font color=red>OFF</font>: Mod will not prevent black-screening
 * <font color=#01ff00>Enable use of /kcount command</font>
@@ -44,6 +44,9 @@ next: /Roles.html
 * Kick players who are not logged in
   * <font color=green>ON</font>: Players without a registered account cannot play
   * <font color=red>OFF</font>: Players without a registered account can play
+* Apply VIP List
+  * <font color=green>ON</font>: Players who are VIPs will be given a VIP Tag in the lobby
+  * <font color=red>OFF</font>: There will be no VIP Tag in the lobby
 * Apply DenyName List
   * <font color=green>ON</font>: Players using names in the DenyName.txt document cannot play
   * <font color=red>OFF</font>: All names are allowed to play
@@ -152,8 +155,8 @@ next: /Roles.html
     * Default
     * .NET System Random
     * HashRandom
-    * Xorshift
-    * MersenneTwister
+    * [Xorshift](https://www.programmingalgorithms.com/algorithm/xor-shift/)
+    * [MersenneTwister](https://www.programmingalgorithms.com/algorithm/mersenne-twister/)
 
 * <font color=#ffc0cb>Camouflage Appearance</font>
   * Set the appearance of how Camouflage looks when communications are sabotaged
@@ -161,8 +164,8 @@ next: /Roles.html
     * <font color=#ffff00>Host</font> - Everyone appears as the host's skin
     * <font color=#ffc0cb>KARPED1EM</font> - Everyone appears as KARPED1EM's skin (the original creator of the mod)
     * <font color=#6c2b3d>Loonie</font> - Everyone appears as Loonie's skin (the current maintainer of the mod)
-    * Lauryn - Everyone appears as Lauryn's skin (the current web developer's girlfriend)
-    * Moe - Everyone appears as Moe's skin (the current web developer)
+    * Lauryn - Everyone appears as Lauryn's skin (the web developer's girlfriend)
+    * Moe - Everyone appears as Moe's skin (the web developer)
 
 * <font color=cyan>Enable Youtuber Plan</font>
   * <font color=green>ON</font>: Host can use the command `/up [rolename]` to get the specified role on the next game - Requires Permissions

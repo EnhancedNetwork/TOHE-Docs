@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5a35700e","path":"/options/Addons/Miscellaneous/Reach.html","title":"Reach","lang":"en-US","frontmatter":{"lang":"en-US","title":"Reach","prev":"Lovers","next":"Workhorse"},"headers":[],"git":{},"filePathRelative":"options/Addons/Miscellaneous/Reach.md"}');export{e as data};

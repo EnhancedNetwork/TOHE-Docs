@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1d1b2774","path":"/options/Neutrals/Killing/Shroud.html","title":"Shroud","lang":"en-US","frontmatter":{"lang":"en-US","title":"Shroud","prev":"Shade","next":"Stalker"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Killing/Shroud.md"}');export{t as data};

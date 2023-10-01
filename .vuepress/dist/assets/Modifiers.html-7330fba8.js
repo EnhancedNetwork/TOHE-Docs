@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b7336a82","path":"/options/Settings/Modifiers.html","title":"Game Modifiers","lang":"en-US","frontmatter":{"lang":"en-US","title":"Game Modifiers","prev":"Game","next":"Impostors"},"headers":[],"git":{},"filePathRelative":"options/Settings/Modifiers.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6f248b9e","path":"/options/Neutrals/Killing/Pickpocket.html","title":"Pickpocket","lang":"en-US","frontmatter":{"lang":"en-US","title":"Pickpocket","prev":"Pelican","next":"Plaguebearer"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Killing/Pickpocket.md"}');export{e as data};

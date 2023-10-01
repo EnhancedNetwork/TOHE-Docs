@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6dde2910","path":"/options/Neutrals/Evil/Demon.html","title":"Demon","lang":"en-US","frontmatter":{"lang":"en-US","title":"Demon","prev":"CursedSoul","next":"Doomsayer"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Evil/Demon.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6cab0293","path":"/options/Addons/Mixed/Gravestone.html","title":"Gravestone","lang":"en-US","frontmatter":{"lang":"en-US","title":"Gravestone","prev":"Glow","next":"Guesser"},"headers":[],"git":{},"filePathRelative":"options/Addons/Mixed/Gravestone.md"}');export{e as data};

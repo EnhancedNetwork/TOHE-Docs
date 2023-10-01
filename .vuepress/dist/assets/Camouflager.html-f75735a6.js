@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ab2f7c90","path":"/options/Impostors/Support/Camouflager.html","title":"Camouflager","lang":"en-US","frontmatter":{"lang":"en-US","title":"Camouflager","prev":"/options/settings/Impostors.html","next":"Cleaner"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Support/Camouflager.md"}');export{t as data};

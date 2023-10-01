@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-142cc9a5","path":"/options/Crewmates/Support/Merchant.html","title":"Merchant","lang":"en-US","frontmatter":{"lang":"en-US","title":"Merchant","prev":"Medic","next":"Mortician"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Support/Merchant.md"}');export{t as data};

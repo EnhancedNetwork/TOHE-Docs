@@ -7,7 +7,7 @@
 </ul>
 </li>
 <li>
-<font color=red>Use Protection Anti Blackout</font><ul>
+<font color=red>Black Screen Prevention (Recommended)</font><ul>
 <li>
 <font color=green>ON</font>: Mod will prevent black-screening</li>
 <li>
@@ -94,6 +94,15 @@
 <font color=green>ON</font>: Players without a registered account cannot play</li>
 <li>
 <font color=red>OFF</font>: Players without a registered account can play</li>
+</ul>
+</li>
+<li>
+<p>Apply VIP List</p>
+<ul>
+<li>
+<font color=green>ON</font>: Players who are VIPs will be given a VIP Tag in the lobby</li>
+<li>
+<font color=red>OFF</font>: There will be no VIP Tag in the lobby</li>
 </ul>
 </li>
 <li>
@@ -361,8 +370,8 @@
 <li>Default</li>
 <li>.NET System Random</li>
 <li>HashRandom</li>
-<li>Xorshift</li>
-<li>MersenneTwister</li>
+<li><a href="https://www.programmingalgorithms.com/algorithm/xor-shift/" target="_blank" rel="noopener noreferrer">Xorshift<ExternalLinkIcon/></a></li>
+<li><a href="https://www.programmingalgorithms.com/algorithm/mersenne-twister/" target="_blank" rel="noopener noreferrer">MersenneTwister<ExternalLinkIcon/></a></li>
 </ul>
 </li>
 </ul>
@@ -378,8 +387,8 @@
 <font color=#ffc0cb>KARPED1EM</font> - Everyone appears as KARPED1EM's skin (the original creator of the mod)</li>
 <li>
 <font color=#6c2b3d>Loonie</font> - Everyone appears as Loonie's skin (the current maintainer of the mod)</li>
-<li>Lauryn - Everyone appears as Lauryn's skin (the current web developer's girlfriend)</li>
-<li>Moe - Everyone appears as Moe's skin (the current web developer)</li>
+<li>Lauryn - Everyone appears as Lauryn's skin (the web developer's girlfriend)</li>
+<li>Moe - Everyone appears as Moe's skin (the web developer)</li>
 </ul>
 </li>
 </ul>

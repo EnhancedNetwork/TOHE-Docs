@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f805a70a","path":"/options/Crewmates/Basic/Tracefinder.html","title":"Tracefinder","lang":"en-US","frontmatter":{"lang":"en-US","title":"Tracefinder","prev":"TaskManager","next":"Transporter"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Basic/Tracefinder.md"}');export{e as data};

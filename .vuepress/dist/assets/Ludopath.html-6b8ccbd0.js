@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b99a8d30","path":"/options/Impostors/Killing/Ludopath.html","title":"Ludopath","lang":"en-US","frontmatter":{"lang":"en-US","title":"Ludopath","prev":"Inhibitor","next":"Lurker"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Killing/Ludopath.md"}');export{t as data};

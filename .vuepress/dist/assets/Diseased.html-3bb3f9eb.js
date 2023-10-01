@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2e9fcd2b","path":"/options/Addons/Mixed/Diseased.html","title":"Diseased","lang":"en-US","frontmatter":{"lang":"en-US","title":"Diseased","prev":"Aware","next":"Ghoul"},"headers":[],"git":{},"filePathRelative":"options/Addons/Mixed/Diseased.md"}');export{e as data};

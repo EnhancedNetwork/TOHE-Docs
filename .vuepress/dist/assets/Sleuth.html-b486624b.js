@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5078afd7","path":"/options/Addons/Helpful/Sleuth.html","title":"Sleuth","lang":"en-US","frontmatter":{"lang":"en-US","title":"Sleuth","prev":"Seer","next":"Tiebreaker"},"headers":[],"git":{},"filePathRelative":"options/Addons/Helpful/Sleuth.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-af508636","path":"/options/Addons/Harmful/Disregarded.html","title":"Disregarded","lang":"en-US","frontmatter":{"lang":"en-US","title":"Disregarded","prev":"/options/settings/Addons.html","next":"Fragile"},"headers":[],"git":{},"filePathRelative":"options/Addons/Harmful/Disregarded.md"}');export{e as data};

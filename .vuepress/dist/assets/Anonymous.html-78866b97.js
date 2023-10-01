@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3dd0382c","path":"/options/Impostors/Hindering/Anonymous.html","title":"Anonymous","lang":"en-US","frontmatter":{"lang":"en-US","title":"Anonymous","prev":"/options/settings/Impostors.html","next":"Dazzler"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Hindering/Anonymous.md"}');export{t as data};

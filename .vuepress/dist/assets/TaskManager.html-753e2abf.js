@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-92d4cc44","path":"/options/Crewmates/Basic/TaskManager.html","title":"Task Manager","lang":"en-US","frontmatter":{"lang":"en-US","title":"Task Manager","prev":"SuperStar","next":"Tracefinder"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Basic/TaskManager.md"}');export{a as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c70ddc08","path":"/options/Neutrals/Killing/Infectious.html","title":"Infectious","lang":"en-US","frontmatter":{"lang":"en-US","title":"Infectious","prev":"HexMaster","next":"Jackal"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Killing/Infectious.md"}');export{t as data};

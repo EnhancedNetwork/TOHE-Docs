@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-fd069b00","path":"/options/Addons/Helpful/Lazy.html","title":"Lazy","lang":"en-US","frontmatter":{"lang":"en-US","title":"Lazy","prev":"DoubleShot","next":"Loyal"},"headers":[],"git":{},"filePathRelative":"options/Addons/Helpful/Lazy.md"}');export{t as data};

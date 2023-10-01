@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0e2f0bbb","path":"/options/Impostors/Killing/Mercenary.html","title":"Mercenary","lang":"en-US","frontmatter":{"lang":"en-US","title":"Mercenary","prev":"Lurker","next":"Ninja"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Killing/Mercenary.md"}');export{e as data};

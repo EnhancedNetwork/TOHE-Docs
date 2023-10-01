@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1329bc20","path":"/options/Neutrals/Killing/Glitch.html","title":"Glitch","lang":"en-US","frontmatter":{"lang":"en-US","title":"Glitch","prev":"BloodKnight","next":"HexMaster"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Killing/Glitch.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-6a26a203","path":"/options/Addons/Harmful/Sunglasses.html","title":"Sunglasses","lang":"en-US","frontmatter":{"lang":"en-US","title":"Sunglasses","prev":"Rascal","next":"Unlucky"},"headers":[],"git":{},"filePathRelative":"options/Addons/Harmful/Sunglasses.md"}');export{a as data};

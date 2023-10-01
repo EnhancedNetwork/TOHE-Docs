@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2d9b93c4","path":"/options/Impostors/Concealing/Escapist.html","title":"Escapist","lang":"en-US","frontmatter":{"lang":"en-US","title":"Escapist","prev":"/options/settings/Impostors.html","next":"Miner"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Concealing/Escapist.md"}');export{t as data};

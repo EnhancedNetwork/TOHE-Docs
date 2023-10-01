@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7cd1590b","path":"/options/Experimental/Impostor/KillingMachine.html","title":"Killing Machine","lang":"en-US","frontmatter":{"lang":"en-US","title":"Killing Machine","prev":"Hangman","next":"Lightning"},"headers":[],"git":{},"filePathRelative":"options/Experimental/Impostor/KillingMachine.md"}');export{e as data};

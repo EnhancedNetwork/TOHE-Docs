@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0c72ddb5","path":"/options/Impostors/Concealing/Warlock.html","title":"Warlock","lang":"en-US","frontmatter":{"lang":"en-US","title":"Warlock","prev":"Vampire","next":"Wildling"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Concealing/Warlock.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-172abac8","path":"/options/Crewmates/Killing/Bastion.html","title":"Bastion","lang":"en-US","frontmatter":{"link":"en-US","title":"Bastion","prev":"/options/settings/Crewmates.html","next":"Bodyguard"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Killing/Bastion.md"}');export{t as data};

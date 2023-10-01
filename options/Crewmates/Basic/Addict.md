@@ -2,7 +2,7 @@
 lang: en-US
 title: Addict
 prev: /options/settings/Crewmates.html
-next: Celebrity
+next: Alchemist
 ---
 
 # <font color="green">💊 <b>Addict</b></font> <Badge text="Basic" type="tip" vertical="middle"/>

@@ -1,0 +1,1 @@
+const r=JSON.parse('{"key":"v-03c72b18","path":"/options/Impostors/Support/Fireworker.html","title":"Fireworker","lang":"en-US","frontmatter":{"lang":"en-US","title":"Fireworker","prev":"Disruptor","next":"Gangster"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Support/Fireworker.md"}');export{r as data};

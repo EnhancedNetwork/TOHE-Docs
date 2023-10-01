@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3ec6cc3c","path":"/options/Addons/Impostor/Mare.html","title":"Mare","lang":"en-US","frontmatter":{"lang":"en-US","title":"Mare","prev":"Madmate","next":"Mimic"},"headers":[],"git":{},"filePathRelative":"options/Addons/Impostor/Mare.md"}');export{e as data};

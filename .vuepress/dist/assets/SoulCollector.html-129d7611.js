@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-15a9b932","path":"/options/Neutrals/Chaos/SoulCollector.html","title":"Soul Collector","lang":"en-US","frontmatter":{"lang":"en-US","title":"Soul Collector","prev":"Revolutionist","next":"Terrorist"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Chaos/SoulCollector.md"}');export{t as data};

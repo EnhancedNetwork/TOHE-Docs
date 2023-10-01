@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-281456b5","path":"/options/Addons/Mixed/Antidote.html","title":"Antidote","lang":"en-US","frontmatter":{"lang":"en-US","title":"Antidote","prev":"/options/settings/Addons.html","next":"Avenger"},"headers":[],"git":{},"filePathRelative":"options/Addons/Mixed/Antidote.md"}');export{t as data};

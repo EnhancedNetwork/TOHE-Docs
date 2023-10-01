@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-7dc3123b","path":"/options/Crewmates/Killing/Vigilante.html","title":"Vigilante","lang":"en-US","frontmatter":{"lang":"en-US","title":"Vigilante","prev":"Veteran","next":"/options/settings/Crewmates.html"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Killing/Vigilante.md"}');export{t as data};

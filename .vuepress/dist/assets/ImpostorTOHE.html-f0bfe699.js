@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-0f78ad8e","path":"/options/Impostors/Vanilla/ImpostorTOHE.html","title":"Impostor","lang":"en-US","frontmatter":{"lang":"en-US","title":"Impostor","prev":"/options/settings/Impostors.html","next":"ShapeshifterTOHE"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Vanilla/ImpostorTOHE.md"}');export{t as data};

@@ -1,6 +1,6 @@
 <template><div><h1 id="➕-aware" tabindex="-1"><a class="header-anchor" href="#➕-aware" aria-hidden="true">#</a> <font color=#4B0082>➕ <b>Aware</b></font> <Badge text="Mixed" type="tip" vertical="middle"/></h1>
 <hr>
-<p>As aware, you will be notified in the nexting if a revealing role interacts with you.</p>
+<p>As aware, you will be notified in the next meetinging if a revealing role interacts with you.</p>
 <ul>
 <li>Max
 <ul>
@@ -45,6 +45,9 @@
 </ul>
 </li>
 </ul>
+<blockquote>
+<p>From: <a href="#">Dailyhare</a> &amp; Coding: <a href="#">ryuk</a></p>
+</blockquote>
 </div></template>
 
 

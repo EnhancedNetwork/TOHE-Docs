@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-760420f2","path":"/options/Crewmates/Support/Spiritualist.html","title":"Spiritualist","lang":"en-US","frontmatter":{"lang":"en-US","title":"Spiritualist","prev":"Snitch","next":"TimeManager"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Support/Spiritualist.md"}');export{t as data};

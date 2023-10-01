@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-4238d8a0","path":"/options/Neutrals/Killing/Poisoner.html","title":"Poisoner","lang":"en-US","frontmatter":{"lang":"en-US","title":"Poisoner","prev":"Plaguebearer","next":"PotionMaster"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Killing/Poisoner.md"}');export{e as data};

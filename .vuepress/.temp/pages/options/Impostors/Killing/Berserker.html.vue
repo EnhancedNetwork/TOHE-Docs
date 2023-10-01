@@ -86,7 +86,7 @@ Bombed kills make your kills explode.</p>
 </li>
 </ul>
 <blockquote>
-<p>From: TOH</p>
+<p>From: TOHEX</p>
 </blockquote>
 </div></template>
 

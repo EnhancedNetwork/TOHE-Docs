@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-2a1165ec","path":"/options/Neutrals/Benign/Follower.html","title":"Follower","lang":"en-US","frontmatter":{"lang":"en-US","title":"Follower","prev":"Amnesiac","next":"Hater"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Benign/Follower.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-511019b7","path":"/options/Addons/Harmful/Rascal.html","title":"Rascal","lang":"en-US","frontmatter":{"lang":"en-US","title":"Rascal","prev":"Oblivious","next":"Sunglasses"},"headers":[],"git":{},"filePathRelative":"options/Addons/Harmful/Rascal.md"}');export{a as data};

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-feaf63c0","path":"/options/Neutrals/Chaos/Vulture.html","title":"Vulture","lang":"en-US","frontmatter":{"lang":"en-US","title":"Vulture","prev":"Vector","next":"Workaholic"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Chaos/Vulture.md"}');export{t as data};

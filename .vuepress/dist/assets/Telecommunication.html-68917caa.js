@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-3c7311e3","path":"/options/Crewmates/Power/Telecommunication.html","title":"Telecommunication","lang":"en-US","frontmatter":{"lang":"en-US","title":"Telecommunication","prev":"Overseer","next":"/options/settings/Crewmates.html"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Power/Telecommunication.md"}');export{e as data};

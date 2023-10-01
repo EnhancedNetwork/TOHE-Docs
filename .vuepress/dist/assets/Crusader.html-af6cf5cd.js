@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-1e341236","path":"/options/Crewmates/Killing/Crusader.html","title":"Crusader","lang":"en-US","frontmatter":{"lang":"en-US","title":"Crusader","prev":"Bodyguard","next":"Deceiver"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Killing/Crusader.md"}');export{e as data};

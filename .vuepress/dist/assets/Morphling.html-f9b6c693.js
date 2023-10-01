@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-3a075570","path":"/options/Impostors/Support/Morphling.html","title":"Morphling","lang":"en-US","frontmatter":{"lang":"en-US","title":"Morphling","prev":"Godfather","next":"Nemesis"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Support/Morphling.md"}');export{t as data};

@@ -14,7 +14,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: TOU-R &amp; Coded By: <a href="#">Ryuk</a></p>
 </blockquote>
 </div></template>
 

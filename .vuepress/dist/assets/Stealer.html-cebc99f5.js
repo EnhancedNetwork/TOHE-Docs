@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-659c4613","path":"/options/Addons/Impostor/Stealer.html","title":"Stealer","lang":"en-US","frontmatter":{"lang":"en-US","title":"Stealer","prev":"Mimic","next":"Swift"},"headers":[],"git":{},"filePathRelative":"options/Addons/Impostor/Stealer.md"}');export{t as data};

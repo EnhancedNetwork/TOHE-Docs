@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-33b5d291","path":"/options/Addons/Helpful/Repairman.html","title":"Repairman","lang":"en-US","frontmatter":{"lang":"en-US","title":"Repairman","prev":"Nimble","next":"Seer"},"headers":[],"git":{},"filePathRelative":"options/Addons/Helpful/Repairman.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-6126561b","path":"/options/Impostors/Killing/Deathpact.html","title":"Deathpact","lang":"en-US","frontmatter":{"lang":"en-US","title":"Deathpact","prev":"CursedWolf","next":"Greedy"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Killing/Deathpact.md"}');export{t as data};

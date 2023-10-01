@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-470a7d1e","path":"/options/Crewmates/Support/Paranoid.html","title":"Paranoid","lang":"en-US","frontmatter":{"lang":"en-US","title":"Paranoid","prev":"Pacifist","next":"Psychic"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Support/Paranoid.md"}');export{t as data};

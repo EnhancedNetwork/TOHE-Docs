@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-1aaf5b05","path":"/options/Impostors/Concealing/Shapemaster.html","title":"Shapemaster","lang":"en-US","frontmatter":{"lang":"en-US","title":"Shapemaster","prev":"Scavenger","next":"SoulCatcher"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Concealing/Shapemaster.md"}');export{e as data};

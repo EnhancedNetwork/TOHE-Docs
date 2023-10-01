@@ -70,7 +70,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: <a href="#">cuboidsnow</a> &amp; Coding: <a href="#">ryuk</a></p>
 </blockquote>
 </div></template>
 

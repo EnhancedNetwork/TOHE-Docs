@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-f3366494","path":"/options/Addons/Helpful/Lucky.html","title":"Lucky","lang":"en-US","frontmatter":{"lang":"en-US","title":"Lucky","prev":"Loyal","next":"Necroview"},"headers":[],"git":{},"filePathRelative":"options/Addons/Helpful/Lucky.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-2b99319c","path":"/options/Experimental/Impostor/Hangman.html","title":"Hangman","lang":"en-US","frontmatter":{"lang":"en-US","title":"Hangman","prev":"Eraser","next":"Killing Machine"},"headers":[],"git":{},"filePathRelative":"options/Experimental/Impostor/Hangman.md"}');export{a as data};

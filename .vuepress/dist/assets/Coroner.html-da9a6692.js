@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-73e0429a","path":"/options/Crewmates/Support/Coroner.html","title":"Coroner","lang":"en-US","frontmatter":{"lang":"en-US","title":"Coroner","prev":"Chameleon","next":"Deputy"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Support/Coroner.md"}');export{e as data};

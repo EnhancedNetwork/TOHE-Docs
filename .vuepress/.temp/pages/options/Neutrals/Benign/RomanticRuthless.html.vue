@@ -16,6 +16,9 @@
 </ul>
 </li>
 </ul>
+<blockquote>
+<p>From: Stellar Roles &amp; Coding: [Gurge44] &amp; [ryuk]</p>
+</blockquote>
 </div></template>
 
 

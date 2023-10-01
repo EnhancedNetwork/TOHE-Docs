@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-142b6d33","path":"/options/Addons/Miscellaneous/Lovers.html","title":"Lovers","lang":"en-US","frontmatter":{"lang":"en-US","title":"Lovers","prev":"Egoist","next":"Reach"},"headers":[],"git":{},"filePathRelative":"options/Addons/Miscellaneous/Lovers.md"}');export{e as data};

@@ -47,7 +47,7 @@ Note : If your role changes your win condition will be changed accordingly</p>
 <RouterLink to="/options/Neutrals/Benign/RomanticRuthless.html"><font color="#d2691e">Ruthless Romantic Settings</font></RouterLink></p>
 </center>
 <blockquote>
-<p>From: TBD</p>
+<p>From: Stellar Roles &amp; Coding: [Gurge44] &amp; [ryuk]</p>
 </blockquote>
 </div></template>
 

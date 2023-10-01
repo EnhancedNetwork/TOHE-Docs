@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-edbca920","path":"/options/Crewmates/Basic/Transporter.html","title":"Transporter","lang":"en-US","frontmatter":{"lang":"en-US","title":"Transporter","prev":"Tracefinder","next":"/options/settings/Crewmates.html"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Basic/Transporter.md"}');export{e as data};

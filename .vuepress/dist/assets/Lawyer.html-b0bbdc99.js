@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-7e2d0ea4","path":"/options/Neutrals/Benign/Lawyer.html","title":"Lawyer","lang":"en-US","frontmatter":{"lang":"en-US","title":"Lawyer","prev":"Imitator","next":"Maverick"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Benign/Lawyer.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const i=JSON.parse('{"key":"v-03622310","path":"/options/Crewmates/Power/MiniEvil.html","title":"Evil Mini","lang":"en-US","frontmatter":{"lang":"en-US","title":"Evil Mini","prev":"Mini","next":"MiniNice"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Power/MiniEvil.md"}');export{i as data};

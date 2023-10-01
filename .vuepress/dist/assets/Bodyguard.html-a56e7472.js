@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-769ed666","path":"/options/Crewmates/Killing/Bodyguard.html","title":"Bodyguard","lang":"en-US","frontmatter":{"link":"en-US","title":"Bodyguard","prev":"Bastion","next":"Crusader"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Killing/Bodyguard.md"}');export{e as data};

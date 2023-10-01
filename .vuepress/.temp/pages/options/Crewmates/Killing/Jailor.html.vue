@@ -78,7 +78,7 @@ Note: Jailed players cannot be guessed or judged and jailed players can only gue
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: TOS &amp; Coding: <a href="#">ryuk</a></p>
 </blockquote>
 </div></template>
 

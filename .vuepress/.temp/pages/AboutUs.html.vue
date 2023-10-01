@@ -7,17 +7,27 @@
 <p><a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer"><strong>KARPED1EM</strong><ExternalLinkIcon/></a>：Original Creator</p>
 <p><a href="https://space.bilibili.com/434079598" target="_blank" rel="noopener noreferrer"><strong>IRIDESCENT</strong><ExternalLinkIcon/></a>：Art</p>
 <p><a href="https://github.com/NCSIMON" target="_blank" rel="noopener noreferrer"><strong>NCSIMON</strong><ExternalLinkIcon/></a>：Role Coding</p>
-<p><a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>Tommy-XL</strong><ExternalLinkIcon/></a>：English &amp; Russian Translator</p>
-<p><a href="https://github.com/mogekonik1" target="_blank" rel="noopener noreferrer"><strong>Tem</strong><ExternalLinkIcon/></a>：English &amp; Russian Translator</p>
-<p><a href="#"><strong>Gurge44</strong></a>：English Translator</p>
-<p><a href="#"><strong>SolarFlare</strong></a>：English Translator</p>
+<p><a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>Tommy-XL</strong><ExternalLinkIcon/></a>：Russian Translator, Role &amp; Feature Coding</p>
+<p><a href="#"><strong>ryuk</strong></a>：Role &amp; Feature Coding</p>
+<p><a href="https://github.com/mogekonik1" target="_blank" rel="noopener noreferrer"><strong>Tem</strong><ExternalLinkIcon/></a>：Russian Translator</p>
+<p><a href="https://www.youtube.com/@200iqguy" target="_blank" rel="noopener noreferrer"><strong>Gurge44</strong><ExternalLinkIcon/></a>：English Translator, Role Coding</p>
+<p><a href="#"><strong>SolarFlare</strong></a>：English Translator, Document</p>
 <p><a href="https://github.com/Huier-Huang" target="_blank" rel="noopener noreferrer"><strong>天寸梦初</strong><ExternalLinkIcon/></a>：Role Coding</p>
 <p><a href="https://github.com/commandf1" target="_blank" rel="noopener noreferrer"><strong>Commandf1</strong><ExternalLinkIcon/></a>：Role Coding &amp; Features Coding</p>
 <p><a href="https://github.com/pear666" target="_blank" rel="noopener noreferrer"><strong>喜</strong><ExternalLinkIcon/></a>：Role Coding</p>
 <p><a href="https://github.com/SHAAARKY" target="_blank" rel="noopener noreferrer"><strong>SHAAARKY</strong><ExternalLinkIcon/></a>：Role Coding</p>
 <p><a href="#"><strong>水木年华</strong></a>：Document &amp; Contact Support</p>
-<p><a href="#"><strong>SolarFlare</strong></a>：Document</p>
 <p><a href="https://github.com/Sand-and-Beans" target="_blank" rel="noopener noreferrer"><strong>Mousse</strong><ExternalLinkIcon/></a>：Document</p>
+<p><a href="#"><strong>Тоха</strong></a>：Russian Translator</p>
+<p><a href="https://github.com/xVCantCode" target="_blank" rel="noopener noreferrer"><strong>xV &amp; MCP</strong><ExternalLinkIcon/></a>：Feature Coding</p>
+<p><a href="https://youtube.com/@Pyro0TV" target="_blank" rel="noopener noreferrer"><strong>Pyro</strong><ExternalLinkIcon/></a>：Website Contributor</p>
+<p><a href="https://www.youtube.com/@chill_ultimated" target="_blank" rel="noopener noreferrer"><strong>chill_ultimated</strong><ExternalLinkIcon/></a>：Russian Translator</p>
+<p><a href="https://github.com/NetherDragonTw" target="_blank" rel="noopener noreferrer"><strong>阿龍</strong><ExternalLinkIcon/></a>：Traditional Chinese Translator</p>
+<p><a href="https://github.com/CrewCyan" target="_blank" rel="noopener noreferrer"><strong>CrewCyan</strong><ExternalLinkIcon/></a>：Simplified Chinese Translator</p>
+<p><a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>乐崽吖</strong><ExternalLinkIcon/></a>：Chinese Translator</p>
+<p><a href="https://github.com/hinhinarrrrrr" target="_blank" rel="noopener noreferrer"><strong>法官</strong><ExternalLinkIcon/></a>：Chinese Translator</p>
+<p><a href="#"><strong>thewhiskas27</strong></a>：Spanish Translator</p>
+<p><a href="#"><strong>Dawsen</strong></a>：Spanish Translator</p>
 <h2 id="about-the-developers" tabindex="-1"><a class="header-anchor" href="#about-the-developers" aria-hidden="true">#</a> About the Developers</h2>
 <p>I like coding for fun, and started off modifying Town of Host: The Other Roles. Released it a few months later under the name &quot;Town of Host Plus&quot;.</p>
 <p>Then I discovered Town of Host Edited, and moved on to it. Then I decided to modify that as well when I was bored. Many roles in TOHE now (such as Poisoner and Marshall) were from that stage.</p>

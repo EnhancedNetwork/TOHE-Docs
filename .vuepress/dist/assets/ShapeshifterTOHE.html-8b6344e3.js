@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-c6084f5c","path":"/options/Impostors/Vanilla/ShapeshifterTOHE.html","title":"Shapeshifter","lang":"en-US","frontmatter":{"lang":"en-US","title":"Shapeshifter","prev":"ImpostorTOHE","next":"/options/settings/Impostors.html"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Vanilla/ShapeshifterTOHE.md"}');export{t as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-156447a1","path":"/options/Addons/Harmful/Fragile.html","title":"Fragile","lang":"en-US","frontmatter":{"lang":"en-US","title":"Fragile","prev":"Disregarded","next":"Oblivious"},"headers":[],"git":{},"filePathRelative":"options/Addons/Harmful/Fragile.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-7ed05ea9","path":"/options/Addons/Mixed/Avenger.html","title":"Avenger","lang":"en-US","frontmatter":{"lang":"en-US","title":"Avenger","prev":"Antidote","next":"Aware"},"headers":[],"git":{},"filePathRelative":"options/Addons/Mixed/Avenger.md"}');export{e as data};

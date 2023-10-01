@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-208cb3b2","path":"/options/Impostors/Concealing/Trickster.html","title":"Trickster","lang":"en-US","frontmatter":{"lang":"en-US","title":"Trickster","prev":"Swooper","next":"Vampire"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Concealing/Trickster.md"}');export{t as data};

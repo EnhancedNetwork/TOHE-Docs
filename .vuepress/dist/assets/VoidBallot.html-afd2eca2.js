@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-2d08a8c9","path":"/options/Addons/Harmful/VoidBallot.html","title":"Void Ballot","lang":"en-US","frontmatter":{"lang":"en-US","title":"Void Ballot","prev":"Unlucky","next":"/options/settings/Addons.html"},"headers":[],"git":{},"filePathRelative":"options/Addons/Harmful/VoidBallot.md"}');export{t as data};

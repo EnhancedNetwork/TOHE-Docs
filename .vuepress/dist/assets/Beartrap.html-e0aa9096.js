@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-7a81cfb3","path":"/options/Addons/Helpful/Beartrap.html","title":"Beartrap","lang":"en-US","frontmatter":{"lang":"en-US","title":"Beartrap","prev":"Bait","next":"Bewilder"},"headers":[],"git":{},"filePathRelative":"options/Addons/Helpful/Beartrap.md"}');export{e as data};

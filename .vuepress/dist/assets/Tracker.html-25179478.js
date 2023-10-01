@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-b85e96e6","path":"/options/Crewmates/Support/Tracker.html","title":"Tracker","lang":"en-US","frontmatter":{"lang":"en-US","title":"Tracker","prev":"TimeMaster","next":"Witness"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Support/Tracker.md"}');export{e as data};

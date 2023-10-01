@@ -32,7 +32,7 @@ You win after winning a certain number of duels set by the host.</p>
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: TOS &amp; Coding: <a href="#">ryuk</a></p>
 </blockquote>
 </div></template>
 

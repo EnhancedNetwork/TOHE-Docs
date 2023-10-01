@@ -283,6 +283,43 @@
 <td>Force start/end meeting</td>
 </tr>
 </table>
+<table>
+<tr>
+<td colspan="3" align="center">
+<strong style="font-size: 25px">
+<b>Moderator-Only</b>
+</strong>
+</td>
+</tr>
+<tr>
+<td align="center"> <b>Command</b></td>
+<td align="center"> <b>Function</b></td>
+</tr>
+<tr>
+<td><b>/s [text]</b></td>
+<td><b>Send moderator message</b> (if setting is on)</td>
+</tr>
+<tr>
+<td><b>/mid</b></td>
+<td><b>Show all players' id</b></td>
+</tr>
+<tr>
+<td>/warn [player id] [reason]</td>
+<td>Warn specific player</td>
+</tr>
+<tr>
+<td>/kick [player id] [reason]</td>
+<td>Kick specific player</td>
+</tr>
+<tr>
+<td>/ban [player id] [reason]</td>
+<td>Ban specific player</td>
+</tr>
+<tr>
+<td>/modcolor [hexcode] [hexcode]</td>
+<td>Change the color of the moderator tag</td>
+</tr>
+</table>
 <h2 id="presets" tabindex="-1"><a class="header-anchor" href="#presets" aria-hidden="true">#</a> Presets</h2>
 <p>You can save your favorite settings as presets and load them later. You can also share your presets with others. Below is a list of presets that you can use in your lobby. Make sure to rename the file to <code v-pre>com.karped1em.townofhostedited.cfg</code> before using it.</p>
 <p><a href="/presets/Guesser1.cfg" download>Guesser Mode (No Judge/Sheriff Only)</a> - Drafted by: <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer">Moe<ExternalLinkIcon/></a> <br>

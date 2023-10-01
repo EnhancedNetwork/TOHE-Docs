@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-4f084aea","path":"/options/Impostors/Concealing/Wildling.html","title":"Wildling","lang":"en-US","frontmatter":{"lang":"en-US","title":"Wildling","prev":"Warlock","next":"/options/settings/Impostors.html"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Concealing/Wildling.md"}');export{t as data};

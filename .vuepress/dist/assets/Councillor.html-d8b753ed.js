@@ -1,1 +1,0 @@
-const o=JSON.parse('{"key":"v-ef8a051a","path":"/options/Impostors/Killing/Councillor.html","title":"Councillor","lang":"en-US","frontmatter":{"lang":"en-US","title":"Councillor","prev":"Chronomancer","next":"CursedWolf"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Killing/Councillor.md"}');export{o as data};

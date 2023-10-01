@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-2241aff1","path":"/options/Neutrals/Killing/Stalker.html","title":"Stalker","lang":"en-US","frontmatter":{"lang":"en-US","title":"Stalker","prev":"Shroud","next":"Traitor"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Killing/Stalker.md"}');export{t as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-3622e43a","path":"/options/Addons/Helpful/Bewilder.html","title":"Bewilder","lang":"en-US","frontmatter":{"lang":"en-US","title":"Bewilder","prev":"Beartrap","next":"Burst"},"headers":[],"git":{},"filePathRelative":"options/Addons/Helpful/Bewilder.md"}');export{e as data};

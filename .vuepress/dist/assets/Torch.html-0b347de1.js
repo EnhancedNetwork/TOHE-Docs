@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-12a32a3a","path":"/options/Addons/Mixed/Torch.html","title":"Torch","lang":"en-US","frontmatter":{"lang":"en-US","title":"Torch","prev":"Schizophrenic","next":"/options/settings/Addons.html"},"headers":[],"git":{},"filePathRelative":"options/Addons/Mixed/Torch.md"}');export{t as data};

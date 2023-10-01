@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-5ae8c79b","path":"/options/Neutrals/Benign/Opportunist.html","title":"Opportunist","lang":"en-US","frontmatter":{"lang":"en-US","title":"Opportunist","prev":"Maverick","next":"Pursuer"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Benign/Opportunist.md"}');export{t as data};

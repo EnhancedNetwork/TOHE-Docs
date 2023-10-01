@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-6cc20921","path":"/options/Impostors/Killing/Greedy.html","title":"Greedy","lang":"en-US","frontmatter":{"lang":"en-US","title":"Greedy","prev":"Deathpact","next":"Hangman"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Killing/Greedy.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-7818fa22","path":"/options/Crewmates/Basic/LazyGuy.html","title":"Lazy Guy","lang":"en-US","frontmatter":{"lang":"en-US","title":"Lazy Guy","prev":"Doctor","next":"Luckey"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Basic/LazyGuy.md"}');export{t as data};

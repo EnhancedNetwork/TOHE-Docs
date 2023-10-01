@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-2018ca37","path":"/options/Impostors/Hindering/Devourer.html","title":"Devourer","lang":"en-US","frontmatter":{"lang":"en-US","title":"Devourer","prev":"Dazzler","next":"Pitfall"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Hindering/Devourer.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-5a128386","path":"/options/Addons/Helpful/Loyal.html","title":"Loyal","lang":"en-US","frontmatter":{"lang":"en-US","title":"Loyal","prev":"Lazy","next":"Lucky"},"headers":[],"git":{},"filePathRelative":"options/Addons/Helpful/Loyal.md"}');export{t as data};

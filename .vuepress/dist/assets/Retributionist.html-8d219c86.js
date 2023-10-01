@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-fabb1fd2","path":"/options/Crewmates/Killing/Retributionist.html","title":"Retributionist","lang":"en-US","frontmatter":{"lang":"en-US","title":"Retributionist","prev":"Knight","next":"Reverie"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Killing/Retributionist.md"}');export{t as data};

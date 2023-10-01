@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-5ef14cc0","path":"/options/Neutrals/Killing/HexMaster.html","title":"Hex Master","lang":"en-US","frontmatter":{"lang":"en-US","title":"Hex Master","prev":"Glitch","next":"Infectious"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Killing/HexMaster.md"}');export{e as data};

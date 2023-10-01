@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-c9e73246","path":"/options/Impostors/Killing/Underdog.html","title":"Underdog","lang":"en-US","frontmatter":{"lang":"en-US","title":"Underdog","prev":"Trapster","next":"/options/settings/Impostors.html"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Killing/Underdog.md"}');export{t as data};

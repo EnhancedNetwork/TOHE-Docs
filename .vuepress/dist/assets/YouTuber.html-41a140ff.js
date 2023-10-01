@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-ef0c62c4","path":"/options/Experimental/Addon/YouTuber.html","title":"YouTuber","lang":"en-US","frontmatter":{"lang":"en-US","title":"YouTuber","prev":"Neptune","next":"/options/settings/Experimental.html"},"headers":[],"git":{},"filePathRelative":"options/Experimental/Addon/YouTuber.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-6256c6c8","path":"/options/Addons/Mixed/Schizophrenic.html","title":"Schizophrenic","lang":"en-US","frontmatter":{"lang":"en-US","title":"Schizophrenic","prev":"Guesser","next":"Torch"},"headers":[],"git":{},"filePathRelative":"options/Addons/Mixed/Schizophrenic.md"}');export{e as data};

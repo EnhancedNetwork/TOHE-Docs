@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-880e83f4","path":"/options/Impostors/Support/Visionary.html","title":"Visionary","lang":"en-US","frontmatter":{"lang":"en-US","title":"Visionary","prev":"Vindicator","next":"/options/settings/Impostors.html"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Support/Visionary.md"}');export{t as data};

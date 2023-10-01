@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-57b9c298","path":"/options/Experimental/Neutral/Spiritcaller.html","title":"Spiritcaller","lang":"en-US","frontmatter":{"lang":"en-US","title":"Spiritcaller","prev":"Revolutionist","next":"/options/settings/Experimental.html"},"headers":[],"git":{},"filePathRelative":"options/Experimental/Neutral/Spiritcaller.md"}');export{t as data};

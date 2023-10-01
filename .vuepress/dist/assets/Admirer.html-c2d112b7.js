@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-9d586cf6","path":"/options/Crewmates/Support/Admirer.html","title":"Admirer","lang":"en-US","frontmatter":{"lang":"en-US","title":"Admirer","prev":"/options/settings/Crewmates.html","next":"Chameleon"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Support/Admirer.md"}');export{e as data};

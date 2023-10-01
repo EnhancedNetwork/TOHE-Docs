@@ -38,7 +38,7 @@ Optionally, the Agitator cannot receive the bomb.</p>
 </li>
 </ul>
 <blockquote>
-<p>From: <a href="#">ryuk</a></p>
+<p>From: TOH:TOR &amp; Coding: <a href="#">ryuk</a></p>
 </blockquote>
 </div></template>
 

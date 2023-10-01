@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-2169ac20","path":"/options/Addons/Miscellaneous/Workhorse.html","title":"Workhorse","lang":"en-US","frontmatter":{"lang":"en-US","title":"Workhorse","prev":"Reach","next":"/options/settings/Addons.html"},"headers":[],"git":{},"filePathRelative":"options/Addons/Miscellaneous/Workhorse.md"}');export{e as data};

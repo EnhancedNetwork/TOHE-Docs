@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-4c2d1c0a","path":"/options/Impostors/Killing/Berserker.html","title":"Berserker","lang":"en-US","frontmatter":{"lang":"en-US","title":"Berserker","prev":"Assassin","next":"Bomber"},"headers":[],"git":{},"filePathRelative":"options/Impostors/Killing/Berserker.md"}');export{e as data};

@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-046fab56","path":"/options/Crewmates/Power/Marshall.html","title":"Marshall","lang":"en-US","frontmatter":{"lang":"en-US","title":"Marshall","prev":"Lookout","next":"Mayor"},"headers":[],"git":{},"filePathRelative":"options/Crewmates/Power/Marshall.md"}');export{a as data};

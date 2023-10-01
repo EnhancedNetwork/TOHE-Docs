@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-5e69da31","path":"/options/Neutrals/Chaos/Cultist.html","title":"Cultist","lang":"en-US","frontmatter":{"lang":"en-US","title":"Cultist","prev":"Collector","next":"Phantom"},"headers":[],"git":{},"filePathRelative":"options/Neutrals/Chaos/Cultist.md"}');export{t as data};

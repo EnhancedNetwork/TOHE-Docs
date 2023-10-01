@@ -1,8 +1,8 @@
 <template><div><h1 id="🦠-plaguebearer" tabindex="-1"><a class="header-anchor" href="#🦠-plaguebearer" aria-hidden="true">#</a> <font color="#e5f6b4">🦠 <b>Plaguebearer</b></font> <Badge text="Killing" type="tip" vertical="middle"/></h1>
 <hr>
-<p>Plague everyone using your kill button to turn into Pestilence. Once you turn into Pestilence you will become immortal (for the most part) and gain the ability to kill.<br>
-In addition to this, after turning into Pestilence you will kill anyone who tries to kill you directly.<br><br>
-You can only win if you turn into Pestilence</p>
+<p>Plague everyone using your kill button to turn into Pestilence. Once you turn into Pestilence you will become immortal and gain the ability to kill.<br>
+In addition to this, after turning into Pestilence you will kill anyone who tries to kill you.<br><br>
+You win by killing everyone.</p>
 <ul>
 <li>Plague Cooldown
 <ul>
@@ -32,7 +32,7 @@ You can only win if you turn into Pestilence</p>
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: idk &amp; Coding: <a href="#">ryuk</a></p>
 </blockquote>
 </div></template>
 

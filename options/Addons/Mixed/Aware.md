@@ -8,7 +8,7 @@ next: Diseased
 # <font color=#4B0082>➕ <b>Aware</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
 ---
 
-As aware, you will be notified in the nexting if a revealing role interacts with you.
+As aware, you will be notified in the next meetinging if a revealing role interacts with you.
 * Max
   * Set the Maximum amount of Aware that can be in a match
 * Spawn Chance
@@ -25,3 +25,5 @@ As aware, you will be notified in the nexting if a revealing role interacts with
 * Knows the role of player
   * <font color=green>ON</font>: Aware knows the role of the player
   * <font color=red>OFF</font>: Aware does not know the role of the player
+
+> From: [Dailyhare](#) & Coding: [ryuk](#)

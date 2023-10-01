@@ -14,3 +14,5 @@ You change your roles from Romantic if your partner (A crew or non neutral kille
 * Vengeful Romantic Can Vent
   * <font color=green>ON</font>: the Vengeful Romantic can vent
   * <font color=red>OFF</font>: the Vengeful Romantic cannot vent
+
+> From: Stellar Roles & Coding: [Gurge44] & [ryuk]

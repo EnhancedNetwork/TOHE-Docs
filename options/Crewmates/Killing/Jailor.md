@@ -40,4 +40,4 @@ Note: Jailed players cannot be guessed or judged and jailed players can only gue
   * <font color=green>ON</font>: Jailed players will be notified when the meeting starts
   * <font color=red>OFF</font>: Jailed players will not be notified when the meeting starts
 
-> From: TBD
+> From: TOS & Coding: [ryuk](#)

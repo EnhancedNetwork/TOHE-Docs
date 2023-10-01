@@ -28,4 +28,4 @@ When someone tries to use kill button on you, their cooldown will be decreased b
   * <font color=green>ON</font>: Killer's cooldown will return to normal after a meeting 
   * <font color=red>OFF</font>: Killer's cooldown will not return to normal after a meeting
 
-> From: TBD
+> From: [Gurge44](#) & Coding: [ryuk](#)

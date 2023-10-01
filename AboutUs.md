@@ -22,13 +22,15 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**NCSIMON**](https://github.com/NCSIMON)：Role Coding
 
-[**Tommy-XL**](https://github.com/Tommy-XL)：English & Russian Translator
+[**Tommy-XL**](https://github.com/Tommy-XL)：Russian Translator, Role & Feature Coding
 
-[**Tem**](https://github.com/mogekonik1)：English & Russian Translator
+[**ryuk**](#)：Role & Feature Coding
 
-[**Gurge44**](#)：English Translator
+[**Tem**](https://github.com/mogekonik1)：Russian Translator
 
-[**SolarFlare**](#)：English Translator
+[**Gurge44**](https://www.youtube.com/@200iqguy)：English Translator, Role Coding
+
+[**SolarFlare**](#)：English Translator, Document
 
 [**天寸梦初**](https://github.com/Huier-Huang)：Role Coding
 
@@ -40,9 +42,28 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**水木年华**](#)：Document & Contact Support
 
-[**SolarFlare**](#)：Document
-
 [**Mousse**](https://github.com/Sand-and-Beans)：Document
+
+[**Тоха**](#)：Russian Translator
+
+[**xV & MCP**](https://github.com/xVCantCode)：Feature Coding
+
+[**Pyro**](https://youtube.com/@Pyro0TV)：Website Contributor
+
+[**chill_ultimated**](https://www.youtube.com/@chill_ultimated)：Russian Translator
+
+[**阿龍**](https://github.com/NetherDragonTw)：Traditional Chinese Translator
+
+[**CrewCyan**](https://github.com/CrewCyan)：Simplified Chinese Translator
+
+[**乐崽吖**](https://github.com/LezaiYa)：Chinese Translator
+
+[**法官**](https://github.com/hinhinarrrrrr)：Chinese Translator
+
+[**thewhiskas27**](#)：Spanish Translator
+
+[**Dawsen**](#)：Spanish Translator
+
 
 ## About the Developers
 

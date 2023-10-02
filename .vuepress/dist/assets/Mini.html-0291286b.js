@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-99079dd6","path":"/options/Crewmates/Basic/Mini.html","title":"Mini","lang":"en-US","frontmatter":{"lang":"en-US","title":"Mini","prev":"Luckey","next":"SuperStar"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"options/Crewmates/Basic/Mini.md"}');export{t as data};

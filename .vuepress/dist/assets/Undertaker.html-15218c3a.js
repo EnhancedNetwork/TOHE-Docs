@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-76928c57","path":"/options/Impostors/Concealing/Undertaker.html","title":"Undertaker","lang":"en-US","frontmatter":{"lang":"en-US","title":"Undertaker","prev":"Trickster","next":"Vampire"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"options/Impostors/Concealing/Undertaker.md"}');export{e as data};

@@ -2,7 +2,7 @@
 lang: en-US
 title: Burst
 prev: Bewilder
-next: DoubleShot
+next: Cyber
 ---
 
 # <font color=#b619b9>🔫 <b>Burst</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>

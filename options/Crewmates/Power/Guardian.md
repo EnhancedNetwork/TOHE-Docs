@@ -2,7 +2,7 @@
 lang: en-US
 title: Guardian
 prev: Dictator
-next: Judge
+next: Lookout
 ---
 
 # <font color="#2d8855">🛡️ <b>Guardian</b></font> <Badge text="Power" type="tip" vertical="middle"/>

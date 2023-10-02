@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Occultist
-prev: Medusa
+prev: Necromancer
 next: Pelican
 ---
 

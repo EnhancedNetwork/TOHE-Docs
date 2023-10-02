@@ -2,7 +2,7 @@
 lang: en-US
 title: Jailor
 prev: Deceiver
-next: Knight
+next: Judge
 ---
 
 # <font color="#aa900d">🔒 <b>Jailor</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

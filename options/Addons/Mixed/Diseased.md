@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Diseased
-prev: Aware
+prev: Bloodlust
 next: Ghoul
 ---
 

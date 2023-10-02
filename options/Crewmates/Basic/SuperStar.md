@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Super Star
-prev: Luckey
+prev: Mini
 next: TaskManager
 ---
 

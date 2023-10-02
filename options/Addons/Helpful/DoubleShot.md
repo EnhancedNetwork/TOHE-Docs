@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Double Shot
-prev: Burst
+prev: Cyber
 next: Lazy
 ---
 

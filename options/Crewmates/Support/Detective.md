@@ -2,7 +2,7 @@
 lang: en-US
 title: Detective
 prev: Deputy
-next: FortuneTeller
+next: Engineer
 ---
 
 # <font color="#7160e8">🕵️‍♂️ <b>Detective</b></font> <Badge text="Support" type="tip" vertical="middle"/>

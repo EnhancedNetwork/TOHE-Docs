@@ -2,7 +2,7 @@
 lang: en-US
 title: Luckey
 prev: LazyGuy
-next: SuperStar
+next: Mini
 ---
 
 # <font color="#b8d7a3">🍀 <b>Luckey</b></font> <Badge text="Basic" type="tip" vertical="middle"/>

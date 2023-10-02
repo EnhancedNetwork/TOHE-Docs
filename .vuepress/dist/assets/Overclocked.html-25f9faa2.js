@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-134ca5a5","path":"/options/Addons/Helpful/Overclocked.html","title":"Overclocked","lang":"en-US","frontmatter":{"lang":"en-US","title":"Overclocked","prev":"Nimble","next":"Repairman"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"options/Addons/Helpful/Overclocked.md"}');export{e as data};

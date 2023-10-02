@@ -2,7 +2,7 @@
 lang: en-US
 title: Schizophrenic
 prev: Guesser
-next: Torch
+next: Stubborn
 ---
 
 # <font color=#3a648f>🫂 <b>Schizophrenic</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>

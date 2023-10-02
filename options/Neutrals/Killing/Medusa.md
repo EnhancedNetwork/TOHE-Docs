@@ -2,7 +2,7 @@
 lang: en-US
 title: Medusa
 prev: Juggernaut
-next: Occultist
+next: Necromancer
 ---
 
 # <font color="#9900cc">🐍 <b>Medusa</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

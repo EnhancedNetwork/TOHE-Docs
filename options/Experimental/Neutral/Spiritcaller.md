@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Spiritcaller
-prev: Revolutionist
+prev: God
 next: /options/settings/Experimental.html
 ---
 

@@ -49,7 +49,7 @@ next: Impostors
 
 ### <font color=red><b>Impostor</b></font>
 ---
-[Butcher](/options/Experimental/Impostor/Butcher.html) | [Disperser](/options/Experimental/Impostor/Disperser.html) | [Eraser](/options/Experimental/Impostor/Eraser.html) | [Hangman](/options/Experimental/Impostor/Hangman.html) | [Killing Machine](/options/Experimental/Impostor/KillingMachine.html) | [Lightning](/options/Experimental/Impostor/Lightning.html) | [Trapster](/options/Experimental/Impostor/Trapster.html) | [Zombie](/options/Experimental/Impostor/Zombie.html)
+[Butcher](/options/Experimental/Impostor/Butcher.html) | [Disperser](/options/Experimental/Impostor/Disperser.html) | [Eraser](/options/Experimental/Impostor/Eraser.html) | [Hangman](/options/Experimental/Impostor/Hangman.html) | [Killing Machine](/options/Experimental/Impostor/KillingMachine.html) | [Lightning](/options/Experimental/Impostor/Lightning.html) | [Zombie](/options/Experimental/Impostor/Zombie.html)
 <br>
 
 ### <font color=#7f8c8d><b>Neutral</b></font>

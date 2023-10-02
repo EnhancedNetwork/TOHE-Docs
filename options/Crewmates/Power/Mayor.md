@@ -2,7 +2,7 @@
 lang: en-US
 title: Mayor
 prev: Marshall
-next: Mini
+next: Monarch
 ---
 
 # <font color="#204d42">🎖️ <b>Mayor</b></font> <Badge text="Power" type="tip" vertical="middle"/>

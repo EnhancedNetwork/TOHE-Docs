@@ -2,7 +2,7 @@
 lang: en-US
 title: Pacifist
 prev: Oracle
-next: Paranoid
+next: Psychic
 ---
 
 # <font color="#007fff">🛒 <b>Pacifist</b></font> <Badge text="Support" type="tip" vertical="middle"/>

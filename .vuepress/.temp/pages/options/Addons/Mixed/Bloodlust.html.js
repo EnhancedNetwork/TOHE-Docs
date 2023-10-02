@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-3a19de3b\",\"path\":\"/options/Addons/Mixed/Bloodlust.html\",\"title\":\"Bloodlust\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Bloodlust\",\"prev\":\"Aware\",\"next\":\"Diseased\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"options/Addons/Mixed/Bloodlust.md\"}")

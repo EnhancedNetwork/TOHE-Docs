@@ -2,7 +2,7 @@
 lang: en-US
 title: Potion Master
 prev: Poisoner
-next: SerialKiller
+next: Pyromaniac
 ---
 
 # <font color="#663399">🍵 <b>Potion Master</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

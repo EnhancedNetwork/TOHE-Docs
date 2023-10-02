@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Psychic
-prev: Paranoid
-next: Snitch
+prev: Pacifist
+next: Scientist
 ---
 
 # <font color="#6f698c">🪬 <b>Psychic</b></font> <Badge text="Support" type="tip" vertical="middle"/>

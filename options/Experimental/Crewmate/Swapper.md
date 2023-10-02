@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Swapper
-prev: /options/settings/Experimental.html
+prev: Investigator
 next: /options/settings/Experimental.html
 ---
 

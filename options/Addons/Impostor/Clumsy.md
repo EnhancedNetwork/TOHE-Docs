@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Clumsy
-prev: /options/settings/Addons.html
+prev: Circumvent
 next: LastImpostor
 ---
 

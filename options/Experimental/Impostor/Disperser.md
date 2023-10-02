@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Disperser
-prev: Capitalist
+prev: Butcher
 next: Eraser
 ---
 

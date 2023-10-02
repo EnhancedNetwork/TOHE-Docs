@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Vampire
-prev: Trickster
+prev: Undertaker
 next: Warlock
 ---
 

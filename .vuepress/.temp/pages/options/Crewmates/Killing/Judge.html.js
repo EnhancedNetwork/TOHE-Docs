@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-6c6e67f9\",\"path\":\"/options/Crewmates/Killing/Judge.html\",\"title\":\"Judge\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Judge\",\"prev\":\"Jailor\",\"next\":\"Knight\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"options/Crewmates/Killing/Judge.md\"}")

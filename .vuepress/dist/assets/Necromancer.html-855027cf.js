@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0a79c8c4","path":"/options/Neutrals/Killing/Necromancer.html","title":"Necromancer","lang":"en-US","frontmatter":{"lang":"en-US","title":"Necromancer","prev":"Medusa","next":"Occultist"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"options/Neutrals/Killing/Necromancer.md"}');export{e as data};

@@ -2,7 +2,7 @@
 lang: en-US
 title: Trickster
 prev: Swooper
-next: Vampire
+next: Undertaker
 ---
 
 # <font color="red">🎭 Trickster</font> <Badge text="Concealing" type="tip" vertical="middle"/>

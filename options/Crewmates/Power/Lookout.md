@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Lookout
-prev: Judge
+prev: Guardian
 next: Marshall
 ---
 

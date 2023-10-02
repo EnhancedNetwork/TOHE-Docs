@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-72d5e55e","path":"/options/Crewmates/Support/Engineer.html","title":"Engineer","lang":"en-US","frontmatter":{"lang":"en-US","title":"Engineer","prev":"Detective","next":"FortuneTeller"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"options/Crewmates/Support/Engineer.md"}');export{e as data};

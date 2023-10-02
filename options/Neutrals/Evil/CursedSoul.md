@@ -2,7 +2,7 @@
 lang: en-US
 title: Cursed Soul
 prev: /options/settings/Neutrals.html
-next: Demon
+next: Doomsayer
 ---
 
 # <font color="#531269">👿 <b>Cursed Soul</b></font> <Badge text="Evil" type="tip" vertical="middle"/>

@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Butcher
-prev: /options/settings/Experimental.html
-next: Capitalist
+prev: Blackmailer
+next: Disperser
 ---
 
 # <font color=red>🔪 <b>Butcher</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>

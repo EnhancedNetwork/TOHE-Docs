@@ -2,7 +2,7 @@
 lang: en-US
 title: Aware
 prev: Avenger
-next: Diseased
+next: Bloodlust
 ---
 
 # <font color=#4B0082>➕ <b>Aware</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>

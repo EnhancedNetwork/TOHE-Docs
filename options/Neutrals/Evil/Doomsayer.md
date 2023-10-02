@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Doomsayer
-prev: Demon
+prev: CursedSoul
 next: Executioner
 ---
 

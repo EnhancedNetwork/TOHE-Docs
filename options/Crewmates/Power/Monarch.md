@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Monarch
-prev: Mini
+prev: Mayor
 next: Overseer
 ---
 

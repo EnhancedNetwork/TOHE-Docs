@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: God
-prev: /options/settings/Experimental.html
-next: Provocateur
+prev: Doppleganger
+next: Spiritcaller
 ---
 
 # <font color=#f96464>👑 <b>God</b></font> <Badge text="Neutral" type="tip" vertical="middle"/>

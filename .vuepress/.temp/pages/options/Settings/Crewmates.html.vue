@@ -1,6 +1,6 @@
 <template><div><h1 id="👨‍🚀-faction-crewmate" tabindex="-1"><a class="header-anchor" href="#👨‍🚀-faction-crewmate" aria-hidden="true">#</a> <font color="#8cffff">👨‍🚀 <b>Faction: Crewmate</b></font> <Badge text="Total: 54" type="tip" vertical="middle"/></h1>
 <hr>
-<p><b>Focus on finding the <font color=red>Impostors</font> and completing tasks. These roles very simple, making it easier for new players and the <font color=#8cffff>Crewmates</font> to win.</b></p>
+<p><b>Focus on finding the <font color=red>Impostors</font> and completing tasks. These roles are very simple, making it easier for new players and the <font color=#8cffff>Crewmates</font> to win.</b></p>
 <table>
 <tr >
 <td colspan="2" align="center"><b><u>Role Count</u></b></td>

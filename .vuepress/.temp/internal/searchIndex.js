@@ -1326,20 +1326,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Investigator",
-    "headers": [],
-    "path": "/options/Experimental/Crewmate/Investigator.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Swapper",
-    "headers": [],
-    "path": "/options/Experimental/Crewmate/Swapper.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Blackmailer",
     "headers": [],
     "path": "/options/Experimental/Impostor/Blackmailer.html",
@@ -1413,6 +1399,20 @@ export const searchIndex = [
     "title": "Spiritcaller",
     "headers": [],
     "path": "/options/Experimental/Neutral/Spiritcaller.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Investigator",
+    "headers": [],
+    "path": "/options/Experimental/Crewmate/Investigator.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Swapper",
+    "headers": [],
+    "path": "/options/Experimental/Crewmate/Swapper.html",
     "pathLocale": "/",
     "extraFields": []
   },

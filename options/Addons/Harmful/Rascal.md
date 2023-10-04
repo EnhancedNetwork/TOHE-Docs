@@ -5,7 +5,7 @@ prev: Oblivious
 next: Sunglasses
 ---
 
-# <font color=#ff6347>👹 <b>Rascal</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>
+# <font color=#980404>👹 <b>Rascal</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>
 ---
 
 As the Rascal, you can die to the Sheriff and Snitch can find you if Snitch can find madmates.<br>

@@ -5,7 +5,7 @@ prev: Seer
 next: Tiebreaker
 ---
 
-# <font color="#191970">🕵️ Sleuth</font> <Badge text="Helpful" type="tip" vertical="middle"/>
+# <font color="#843434">🕵️ <b>Sleuth</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 ---
 
 As the Sleuth, you can gain info from dead bodies.<br><br>

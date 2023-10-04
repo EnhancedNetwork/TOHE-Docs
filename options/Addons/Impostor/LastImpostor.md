@@ -9,8 +9,8 @@ next: Madmate
 ---
 
 This effect is given to the last surviving Impostor. Reduces their kill cooldown.
-* Max
-  * Set the Maximum amount of Last <font color=red>Impostors</font> that can be in a match
+* Kill Cooldown Reduction
+  * Set the percentage that the Kill Cooldown of the Last Impostor gets reduced by
 
 > From: TOH
 

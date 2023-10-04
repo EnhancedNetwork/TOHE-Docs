@@ -5,7 +5,7 @@ prev: Overclocked
 next: Seer
 ---
 
-# <font color=#b619b9>🔫 <b>Burst</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
+# <font color="#3131f6">🔧 <b>Repairman</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 ---
 
 As the Repairman, you can fix most sabotages faster than other players.

@@ -5,7 +5,7 @@ prev: Rascal
 next: Unlucky
 ---
 
-# <font color="#e7c12b">🕶️ Sunglasses</font> <Badge text="Harmful" type="tip" vertical="middle"/>
+# <font color="#e7c12b">🕶️ <b>Sunglasses</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>
 ---
 
 As the Sunglasses, your vision is reduced.

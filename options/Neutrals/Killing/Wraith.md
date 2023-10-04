@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Wraith
-prev: Ritualist
+prev: Werewolf
 next: /options/settings/Neutrals.html
 ---
 

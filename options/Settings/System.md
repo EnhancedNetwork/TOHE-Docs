@@ -23,6 +23,10 @@ next: /Roles.html
   
 * Kick players whose level is lower than
   * Set the minimum level required to play
+* Turn on Whitelist to bypass level kick
+  * Set the minimum level required to play
+    * <font color=green>ON</font>: Whitelisted players can join the lobby even if they don't meet lobby requirements
+    * <font color=red>OFF</font>: Whitelisted players are ignored, and treated as everyone else is
 * Kick Non-PC players
   * <font color=green>ON</font>: Non-PC players cannot play
     * Kick Android players

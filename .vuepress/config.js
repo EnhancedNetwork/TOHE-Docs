@@ -6,12 +6,12 @@ export default ({
   locales: {
     '/': {
       lang: 'en-US',
-      title: 'TOH-RE',
+      title: 'TOHE',
       description: 'An Among Us Mod that adds a ton of new roles and settings to the game!',
     },
     '/fr/': {
       lang: 'fr-FR',
-      title: 'TOH-RE',
+      title: 'TOHE',
       description: 'Un mod Among Us qui ajoute une tonne de nouveaux rôles et paramètres au jeu!',
     }
   },
@@ -123,7 +123,7 @@ export default ({
             { text: 'Bewilder', link: '/options/Addons/Helpful/Bewilder.html' },
             { text: 'Burst', link: '/options/Addons/Helpful/Burst.html' },
             { text: 'Cyber', link: '/options/Addons/Helpful/Cyber.html' },
-            { text: 'DoubleShot', link: '/options/Addons/Helpful/DoubleShot.html' },
+            { text: 'Double Shot', link: '/options/Addons/Helpful/DoubleShot.html' },
             { text: 'Lazy', link: '/options/Addons/Helpful/Lazy.html' },
             { text: 'Loyal', link: '/options/Addons/Helpful/Loyal.html' },
             { text: 'Lucky', link: '/options/Addons/Helpful/Lucky.html' },
@@ -195,7 +195,7 @@ export default ({
             { text: 'Bodyguard', link: '/options/Crewmates/Killing/Bodyguard.html' },
             { text: 'Crusader', link: '/options/Crewmates/Killing/Crusader.html' },
             { text: 'Deceiver', link: '/options/Crewmates/Killing/Deceiver.html' },
-            { text: 'Jailor', link: '/options/Crewmates/Killing/Jailor.html' },
+            { text: 'Jailer', link: '/options/Crewmates/Killing/Jailer.html' },
             { text: 'Judge', link: '/options/Crewmates/Killing/Judge.html' },
             { text: 'Knight', link: '/options/Crewmates/Killing/Knight.html' },
             { text: 'Retributionist', link: '/options/Crewmates/Killing/Retributionist.html' },
@@ -275,6 +275,7 @@ export default ({
           '/options/Impostors/Concealing/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
             { text: 'Escapist', link: '/options/Impostors/Concealing/Escapist.html' },
+            { text: 'Mastermind', link: '/options/Impostors/Concealing/Mastermind.html' },
             { text: 'Miner', link: '/options/Impostors/Concealing/Miner.html' },
             { text: 'Puppeteer', link: '/options/Impostors/Concealing/Puppeteer.html' },
             { text: 'Scavenger', link: '/options/Impostors/Concealing/Scavenger.html' },
@@ -345,6 +346,7 @@ export default ({
             { text: 'Amnesiac', link: '/options/Neutrals/Benign/Amnesiac.html' },
             { text: 'Follower', link: '/options/Neutrals/Benign/Follower.html' },
             { text: 'Hater', link: '/options/Neutrals/Benign/Hater.html' },
+            { text: 'Imitator', link: '/options/Neutrals/Benign/Imitator.html' },
             { text: 'Lawyer', link: '/options/Neutrals/Benign/Lawyer.html' },
             { text: 'Maverick', link: '/options/Neutrals/Benign/Maverick.html' },
             { text: 'Opportunist', link: '/options/Neutrals/Benign/Opportunist.html' },
@@ -391,6 +393,7 @@ export default ({
             { text: 'Demon', link: '/options/Neutrals/Killing/Demon.html' },
             { text: 'Glitch', link: '/options/Neutrals/Killing/Glitch.html' },
             { text: 'Hex Master', link: '/options/Neutrals/Killing/HexMaster.html' },
+            { text: 'Huntsman', link: '/options/Neutrals/Killing/Huntsman.html' },
             { text: 'Infectious', link: '/options/Neutrals/Killing/Infectious.html' },
             { text: 'Jackal', link: '/options/Neutrals/Killing/Jackal.html' },
             { text: 'Jinx', link: '/options/Neutrals/Killing/Jinx.html' },

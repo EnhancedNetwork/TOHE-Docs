@@ -12,6 +12,6 @@ The Shapemaster has no Shapeshift Cooldown, but they Unshift earlier than normal
 * Max
   * Set the Maximum amount of Shapemasters that can be in a match
 * Shapeshift Duration
-  * Set how long the Soul Catcher stays Shapeshifted for
+  * Set how long the Shapemaster stays Shapeshifted for
 
 > From: TOH

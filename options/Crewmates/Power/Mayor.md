@@ -18,7 +18,7 @@ The Mayor receives extra votes. The Mayor may also get a Portable Meeting Button
   * <font color=red>OFF</font>: the Mayor cannot call meetings except by calling a button normally
 * Max Number of Mobile Emergency Buttons
   * Set how many Emergency Meetings a Mayor can Vent to Call
-* Hide additional votes
+* Hide additional vote(s)
   * <font color=green>ON</font>: the Mayor's extra votes will show up as nothing
   * <font color=red>OFF</font>: the Mayor's extra votes will show up as normal votes
 * Mayor is revealed to everyone on task completion
@@ -26,12 +26,12 @@ The Mayor receives extra votes. The Mayor may also get a Portable Meeting Button
   * <font color=red>OFF</font>: the Mayor will not be revealed to anyone at the beginning of the game
 * Override Mayor's Tasks
   * <font color=green>ON</font>: you can set a different amount of Tasks that a Mayor needs to do
-  * <font color=red>OFF</font>: the Mayor does the same amount of Tasks as anyone else
-* Mayor has Common Tasks
-  * Set if the Mayor has Common Tasks
+    * Mayor has Common Tasks
+      * Set if the Mayor has Common Tasks
     * Amount of Long Tasks for Mayor
       * Set the amount of Long Tasks the Mayor will receive
     * Amount of Short Tasks for Mayor
       * Set the amount of Short Tasks the Mayor will receive
+  * <font color=red>OFF</font>: the Mayor does the same amount of Tasks as anyone else
 
 > From: TOH

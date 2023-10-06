@@ -9,7 +9,8 @@ next: Medic
 ---
 
 The Mechanic can use the vent at any time. They can also fix all Sabotages by themself. (Depending on Settings)
-Max: Set the Maximum amount of Mechanics that can be in a match.
+* Max
+  * Set the Maximum amount of Mechanics that can be in a match.
 * Initial repair use limit
   * Set the amount of Ability Uses a Mechanic has at the start of the game
 * Can open all doors in the same building

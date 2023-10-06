@@ -2,7 +2,7 @@
 lang: en-US
 title: Lightning
 prev: KillingMachine
-next: Trapster
+next: Zombie
 ---
 
 # <font color=red>🌩️ <b>Lightning</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>

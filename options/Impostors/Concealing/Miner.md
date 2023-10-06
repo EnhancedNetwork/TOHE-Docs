@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Miner
-prev: Escapist
+prev: Mastermind
 next: Puppeteer
 ---
 

@@ -18,6 +18,6 @@ The Veteran can Alert by Venting. If someone tries to Interact with the Veteran,
 * Max number of Alerts
   * Set how many times a Veteran can Alert
 * <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
-  * Set the amount of Grenades a Grenadier gains with each Task completed (0.1 increments)
+  * Set the amount of Alerts a Veteran gains with each Task completed (0.1 increments)
 
 > From: TOU & Coding: [KARPED1EM](https://github.com/KARPED1EM)

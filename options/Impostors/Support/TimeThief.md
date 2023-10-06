@@ -11,7 +11,7 @@ next: Vindicator
 Every time the Time Thief kills, the Meeting time will be reduced. If the Time Thief dies, Meeting time will return to normal depending on settings.
 * Max
   * Set the Maximum amount of Time Thieves that can be in a match
-Kill Cooldown
+* Kill Cooldown
   * Set how long the Time Thief needs to wait to Kill
 * Lower Meeting Time by
   * Set how much time the Time Thief steals from the Meeting every time they kill a player

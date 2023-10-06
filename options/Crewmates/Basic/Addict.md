@@ -15,6 +15,8 @@ Also, after you are ventilated, no one can interact with you for a defined perio
 After this period is over, you are immobilized for another defined period of time and cannot report any bodies.
 * Max
   * Set the Maximum amount of Addicts that can be in a match
+* Vent Cooldown
+  * Set how long an Addict has to wait to Vent
 * Time Until Suicide
   * Set how long an Addict has until they Suicide
 * Invulnerability Time

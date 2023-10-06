@@ -16,7 +16,7 @@ Be careful though, crewmates can also be killed with the bombs.
 * Bomb Cooldown
   * Set how long the Bastion needs to wait before placing another bomb in a vent
 * <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
-  * Set the amount of Ability Uses a Mechanic gains with each Task completed (0.1 increments)
+  * Set the amount of Ability Uses a Bastion gains with each Task completed (0.1 increments)
 * (Initial) Maximum bombs
   *  Set the maximum initial amount of bombs a Bastion will have
 

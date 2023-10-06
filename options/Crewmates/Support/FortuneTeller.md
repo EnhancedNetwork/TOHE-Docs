@@ -11,11 +11,14 @@ next: Grenadier
 When the Fortune Teller votes for a player, they will receive a clue towards what their target's role is. If the Fortune Teller has done all of their Tasks and Votes someone, they will know their target's exact role.
 * Max
   * Set the Maximum amount of Fortune Tellers that can be in a match
-* Max number of Ability uses
+* Max number of ability uses
   * Set the amount of times the Fortune Teller can use their Ability
 * Can know specific roles when tasks are not done
   * <font color=green>ON</font>: the Fortune Teller can see players Specific Roles even without Task completion
   * <font color=red>OFF</font>: the Fortune Teller has to complete their Tasks to see Specific Roles
+* Know specific roles on Task Completion
+  * <font color=green>ON</font>: the Fortune Teller can see players Specific Roles on Task Completion
+  * <font color=red>OFF</font>: the Fortune Teller cannot see players Specific Roles on Task Completion
 * Hide Fortune Teller Votes
   * <font color=green>ON</font>: the Fortune Tellers votes will appear as invisible to players
   * <font color=red>OFF</font>: the Fortune Tellers votes will appear as a normal vote

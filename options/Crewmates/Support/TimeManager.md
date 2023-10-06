@@ -19,12 +19,12 @@ The more Tasks that the Time Manager does will increase the Meeting Time. If the
   * Set the Minimal amount of time that voting time in a Meeting can be
 * Override Time Manager's Tasks
   * <font color=green>ON</font>: you can set a different amount of Tasks that a Time Manager needs to do
-  * <font color=red>OFF</font>: the Time Manager does the same amount of Tasks as anyone else
     * Merchant has Common Tasks
       * Set if the Time Manager has Common Tasks
     * Amount of Long Tasks for Time Manager
       * Set the amount of Long Tasks the Merchant will receive
     * Amount of Short Tasks for Time Manager
       * Set the amount of Short Tasks the Merchant will receive
+  * <font color=red>OFF</font>: the Time Manager does the same amount of Tasks as anyone else
 
 > From: TOH

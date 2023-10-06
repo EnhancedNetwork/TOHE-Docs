@@ -16,9 +16,9 @@ sidebar:
 # Roles
 
 <font size=4em><b>Latest Versions:</b></font><br>
-- <font size=3em><b>Dev Build: TBD</b></font><br>
+- <font size=3em><b>Dev Build: 1.0.2 Dev 1 (Most Recent)</b></font><br>
 - <font size=3em><b>Canary Build: TBD</b></font><br>
-- <font size=3em><b>Stable Build: 1.0.0 (Most Recent)</b></font><br><br>
+- <font size=3em><b>Stable Build: 1.0.1</b></font><br><br>
 
 <table>
 <tr>

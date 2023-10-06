@@ -2,7 +2,7 @@
 lang: en-US
 title: Escapist
 prev: /options/settings/Impostors.html
-next: Miner
+next: Mastermind
 ---
 
 # <font color="red">🏃 Escapist</font> <Badge text="Concealing" type="tip" vertical="middle"/>

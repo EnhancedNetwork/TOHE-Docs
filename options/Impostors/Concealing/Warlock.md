@@ -17,5 +17,7 @@ The Warlock can curse other players while Unshifted, but when they Shapeshift af
 * Can Kill Themself
   * <font color=green>ON</font>: the person they targeted can Kill the Warlock if they are the closest players to each other
   * <font color=red>OFF</font>: the person they targeted cannot kill the Warlock
+* Shapeshift Duration
+  * Set how long the Warlock will stay shifted for
 
 > From: TOH

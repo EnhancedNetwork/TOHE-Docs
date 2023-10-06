@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Shroud
-prev: Shade
+prev: SerialKiller
 next: Stalker
 ---
 

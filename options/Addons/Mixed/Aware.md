@@ -8,7 +8,7 @@ next: Bloodlust
 # <font color=#4B0082>➕ <b>Aware</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
 ---
 
-As aware, you will be notified in the next meetinging if a revealing role interacts with you.
+As Aware, you will be notified in the next meeting if a revealing role interacts with you.
 * Max
   * Set the Maximum amount of Aware that can be in a match
 * Spawn Chance

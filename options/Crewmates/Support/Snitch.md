@@ -13,10 +13,10 @@ After the Snitch completes all tasks, they will see the <font color=red>Impostor
   * Set the Maximum amount of Snitches that can be in a match
 * See Arrow Towards Target
   * <font color=green>ON</font>: the Snitch will see a small arrow that points towards the killer(s)
+    * See Colored Arrows based on Team Colors
+      * <font color=green>ON</font>: the Snitch will see Red Arrows for Impostors, and Gray for Neutrals
+      * <font color=red>OFF</font>: the Snitch will see Same-Colored Arrows for <font color=red>Impostors</font> and Neutrals
   * <font color=red>OFF</font>: the Snitch will not know of the killer's location
-* See Colored Arrows based on Team Colors
-  * <font color=green>ON</font>: the Snitch will see Red Arrows for Impostors, and Gray for Neutrals
-  * <font color=red>OFF</font>: the Snitch will see Same-Colored Arrows for <font color=red>Impostors</font> and Neutrals
 * Can find <font color=#7f8c8d>Neutral</font> Killers
   * <font color=green>ON</font>: the Snitch can complete tasks and find out who's a <font color=#7f8c8d>Neutral</font> Killer too
   * <font color=red>OFF</font>: the Snitch will only find Impostors
@@ -34,6 +34,5 @@ After the Snitch completes all tasks, they will see the <font color=red>Impostor
     * Amount of Short Tasks for Snitch
       * Set the amount of Short Tasks the Snitch will receive
   * <font color=red>OFF</font>: the Snitch does the same amount of Tasks as anyone else
-
 
 > From: TOH

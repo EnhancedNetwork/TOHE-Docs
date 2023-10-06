@@ -13,7 +13,7 @@ Note: Disruptor does not know for sure if someone is using the device while near
 * Max
   * Set the Maximum amount of Disruptors that can be in a match
 * Can track camera usage
-  * <font color=green>ON</font>: Disruptor knows when people use the cameras
+  * <font color=green>ON</font>: Disruptor knows when people are near the cameras
   * <font color=red>OFF</font>: Disruptor does not receive this information
 
 > From: TOHY & Coding: [Yumenopai](https://github.com/Yumenopai)

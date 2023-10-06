@@ -5,7 +5,7 @@ prev: Circumvent
 next: LastImpostor
 ---
 
-# <font color="red">🤕 Clumsy</font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color="red">🤕 <b>Clumsy</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 ---
 
 As the Clumsy, you have a chance to miss your kill.<br><br>

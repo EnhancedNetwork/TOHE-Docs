@@ -8,7 +8,7 @@ next: Ninja
 # <font color="red">⚔️ Mercenary</font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
-You have a shorter kill cooldown than other Impostors, but you will suicide if you don’t kill by the end of your Shapeshift Cooldown. If you attempt to Shapeshift after successfully living past the end of your Shapeshift Cooldown, you will suicide.
+You have a shorter kill cooldown than other Impostors, but you will suicide if you don’t kill by the end of your Shapeshift Cooldown.
 * Max
   * Set the Maximum amount of Mercenaries that can be in a match
 * Kill Cooldown

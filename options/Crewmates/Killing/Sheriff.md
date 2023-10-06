@@ -9,8 +9,10 @@ next: Veteran
 ---
 
 The Sheriff can kill any Non-Crew player. If the Sheriff tries tries to kill a Crewmate, they will instead Misfire, and Suicide. If they become a Non-Crew Sheriff, they can kill Anyone (Depending on Settings).
-* Max: Set the maximum amount of Sheriffs there can be in a match
-* Kill Cooldown: Set the amount of time the Sheriff needs to wait before they can shoot
+* Max
+  * Set the maximum amount of Sheriffs there can be in a match
+* Kill Cooldown
+  * Set the amount of time the Sheriff needs to wait before they can shoot
 * Misfire Kills Target
   * <font color=green>ON</font>: the player that the Sheriff shoots will kill them and make the Sheriff suicide if the player not killable
   * <font color=red>OFF</font>: the Sheriff will suicide as they normally would, keeping the Crewmate/Non-shootable player alive
@@ -20,7 +22,7 @@ The Sheriff can kill any Non-Crew player. If the Sheriff tries tries to kill a C
   * <font color=green>ON</font>: The amount of bullets that Sheriff has remaining will be displayed beside the Sheriff's name
   * <font color=red>OFF</font>: The amount of bullets that Sheriff has remaining will not be displayed beside the Sheriff's name
 * Can Kill when everyone is Alive
-  * If toggled <font color=green><font color=green>ON</font></font>, the Sheriff can shoot before anyone dies
+  * If toggled <font color=green>ON</font>, the Sheriff can shoot before anyone dies
   * <font color=red>OFF</font>: the Sheriff can only shoot someone after someone dies
 
 <details>
@@ -73,13 +75,23 @@ The Sheriff can kill any Non-Crew player. If the Sheriff tries tries to kill a C
 * Arsonist
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
+* Doppelganger
+  * <font color=green>ON</font>: This role can be shot by the Sheriff
+  * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
+* Pyromaniac
+  * <font color=green>ON</font>: This role can be shot by the Sheriff
+  * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
 * Agitater
+  * <font color=green>ON</font>: This role can be shot by the Sheriff
+  * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
+* Bandit
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
 * Seeker
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-* Soul Collector<font color=green>ON</font>: This role can be shot by the Sheriff
+* Soul Collector
+  * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
 * Hex Master
   * <font color=green>ON</font>: This role can be shot by the Sheriff
@@ -165,6 +177,15 @@ The Sheriff can kill any Non-Crew player. If the Sheriff tries tries to kill a C
 * Follower
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
+* Romantic
+  * <font color=green>ON</font>: This role can be shot by the Sheriff
+  * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
+* Vengeful Romantic
+  * <font color=green>ON</font>: This role can be shot by the Sheriff
+  * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
+* Ruthless Romantic
+  * <font color=green>ON</font>: This role can be shot by the Sheriff
+  * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
 * Cultist
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
@@ -186,7 +207,10 @@ The Sheriff can kill any Non-Crew player. If the Sheriff tries tries to kill a C
 * Cursed Soul
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-* Ritualist
+* Pirate
+  * <font color=green>ON</font>: This role can be shot by the Sheriff
+  * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
+* Potion Master
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
 * Pickpocket
@@ -231,6 +255,9 @@ The Sheriff can kill any Non-Crew player. If the Sheriff tries tries to kill a C
 * Necromancer
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
+* Huntsman
+  * <font color=green>ON</font>: This role can be shot by the Sheriff
+  * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
 * Banshee
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
@@ -238,6 +265,9 @@ The Sheriff can kill any Non-Crew player. If the Sheriff tries tries to kill a C
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
 * Shade
+  * <font color=green>ON</font>: This role can be shot by the Sheriff
+  * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
+  * Imitator
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
 </details>

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: God
-prev: Doppleganger
+prev: Doppelganger
 next: Spiritcaller
 ---
 

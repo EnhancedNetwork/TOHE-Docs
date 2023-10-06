@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Judge
-prev: Jailor
+prev: Jailer
 next: Knight
 ---
 

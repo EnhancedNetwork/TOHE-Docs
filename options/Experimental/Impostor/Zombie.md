@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Zombie
-prev: Trapster
+prev: Lightning
 next: /options/settings/Experimental.html
 ---
 

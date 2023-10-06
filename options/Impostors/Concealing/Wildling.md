@@ -12,9 +12,9 @@ The Wildling can Shapeshift, but cannot Vent. After a Wilding kills, they gain a
 Max: Set the Maximum amount of Wildlings that can be in a match.
 * Protection Duration
   * Set how long the Wildling is invincible for after killing
-* Shapeshift cooldown
+* Shapeshift Cooldown
   * Set long the Wildling needs to wait to Shapeshift
-* Shapeshift duration
+* Shapeshift Duration
   * Set how long the Wildling stays Shapeshifted for
 
 > From: TOH+

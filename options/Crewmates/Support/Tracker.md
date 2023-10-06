@@ -19,5 +19,7 @@ As a Tracker, you can vote for a player which will mark their position in the ro
 * Hide Tracker Votes
   * <font color=green>ON</font>: the Trackers votes will not be shown, and will be hidden
   * <font color=red>OFF</font>: the Trackers votes will be shown as normal
+* <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
+  * Set the amount of Ability Uses a Tracker gains with each Task completed (0.1 increments)
 
 > From: Town of Us Reactivated

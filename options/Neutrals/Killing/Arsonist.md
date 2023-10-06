@@ -20,5 +20,11 @@ if the player name shows 「▲」, it means they have been completely doused.
   * Set how long the Arsonist needs to be next to someone for a successful Dousing
 * Cooldown
   * Set the time an Arsonist needs to wait until they can Douse again
-
+* Can ignite anytime
+  * <font color=green>ON</font>: the Arsonist can ignite all currently doused players whenever they want
+      * Minimum doused needed for ignite
+        * Set the Minimum amount of players that the Arsonist needs to have doused before they can ignite
+      * Maximum doused needed for ignite
+        * Set the Maximum amount of players that the Arsonist can ignite at a time
+  * <font color=red>OFF</font>: the Arsonist cannot ignite all currently doused players whenever they want
 > From: TOH

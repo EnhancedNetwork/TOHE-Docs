@@ -15,5 +15,8 @@ Access to Vitals, and receive Arrows pointing to dead bodies.
   * Set long the Tracefinder has to wait to use check their Mobile Vitals
 * Vitals Duration
   * Set how long the Tracefinder can check their Mobile Vitals for
-
+* Minimum Arrow show-up delay
+  * Set how long the arrows will take to appear
+* Maximum Arrow show-up delay
+  * Set how long the arrows could take to appear
 > From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons) 

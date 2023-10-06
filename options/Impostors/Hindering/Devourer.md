@@ -11,8 +11,8 @@ next: Pitfall
 As the Devourer, you use your shapeshift to permanently change the appearance of the target of the shapeshift. Additionally, for each player's appearance changed, your kill cooldown is reduced by a defined number of seconds. If the Devourer dies or gets voted out during a meeting, the player's appearance will change back to their normal appearance.
 * Max
   * Set the Maximum amount of Devourers that can be in a match
-* Default kill cooldown
-  * Set the Default kill cooldown for the Devourer
+* Starting kill cooldown
+  * Set the Starting kill cooldown for the Devourer
 * Reduce kill cooldown by
   * Set how much the kill cooldown will be reduced by for each player's appearance changed
 * Minimum kill cooldown

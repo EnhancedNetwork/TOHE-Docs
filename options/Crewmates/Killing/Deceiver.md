@@ -2,7 +2,7 @@
 lang: en-US
 title: Deceiver
 prev: Crusader
-next: Knight
+next: Jailer
 ---
 
 # <font color="#be29ec">👿 <b>Deceiver</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

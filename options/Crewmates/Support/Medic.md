@@ -17,6 +17,11 @@ Depending on the host's settings, the Medic or the target can see if the player 
   * Medic+Shielded - The Medic AND the Shielded player can see the shield
   * Medic - Only the Medic can see the shield
   * Shielded - Only the Shielded player can see the shield
+* Who can see kill attempt
+  * Nothing - No one can see the kill attempt
+  * Medic+Shielded - The Medic AND the Shielded player can see the kill attempt
+  * Medic - Only the Medic can see the kill attempt
+  * Shielded - Only the Shielded player can see the kill attempt
 * Shield deactivates when the Medic dies
   * <font color=green>ON</font>: the Shield will disappear when the Medic dies
     * Shield deactivation is visible

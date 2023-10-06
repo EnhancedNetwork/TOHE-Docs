@@ -30,5 +30,6 @@ The Bomber can Shapeshift to Suicide Bomb the surrounding area. All player’s w
     * Set how long the Nuker needs to wait to nuke
   * Nuke radius (12x is very large)
     * Set how big a nuke's radius is
+    * You must have “Disable Hidden Roles” toggled <font color=red>OFF</font> for this to have a chance to appear
 
 > From: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM)

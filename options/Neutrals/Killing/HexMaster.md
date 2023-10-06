@@ -2,7 +2,7 @@
 lang: en-US
 title: Hex Master
 prev: Glitch
-next: Infectious
+next: Huntsman
 ---
 
 # <font color="#663399">✝️ <b>Hex Master</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

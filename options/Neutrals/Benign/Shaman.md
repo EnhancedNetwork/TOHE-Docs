@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Shaman
-prev: Pursuer
+prev: Romantic
 next: Witch
 ---
 

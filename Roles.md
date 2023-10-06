@@ -9,7 +9,6 @@ sidebar:
 - { text: Impostors, link: /options/Settings/Impostors.html}
 - { text: Crewmates, link: /options/Settings/Crewmates.html} 
 - { text: Neutrals, link: /options/Settings/Neutrals.html}
-- { text: Coven, link: /options/Settings/Coven.html}
 - { text: Add-ons, link: /options/Settings/Addons.html}
 - { text: Experimental, link: /options/Settings/Experimental.html}
 ---
@@ -17,17 +16,9 @@ sidebar:
 # Roles
 
 <font size=4em><b>Latest Versions:</b></font><br>
-- <font size=3em><b>Dev Build: 3.1.0 dev 2.1 (Most Recent)</b></font><br>
-- <font size=3em><b>Canary Build: 3.0.0 Pre-release 2</b></font><br>
-- <font size=3em><b>Stable Build: 3.0.0</b></font><br><br>
-
-<center>
-
-[Settings - Custom](/options/Settings/Custom.html) | [Settings - System](/options/Settings/System.html) <br>
-[Settings - Game](options/Settings/Game.html) | [Settings - Game Modifiers](/options/Settings/Modifiers.html) <br> 
-[Impostor Roles](/options/Settings/Impostors.html) | [Neutral Roles](/options/Settings/Neutrals.html) | [Coven Roles](/options/Settings/Coven.html)<br>
-[Crewmates Roles](/options/Settings/Crewmates.html) | [Add-On Roles](/options/Settings/Addons.html) | [Experimental Roles](/options/Settings/Experimental.html)
-</center>
+- <font size=3em><b>Dev Build: 1.0.2 Dev 1 (Most Recent)</b></font><br>
+- <font size=3em><b>Canary Build: TBD</b></font><br>
+- <font size=3em><b>Stable Build: 1.0.1</b></font><br><br>
 
 <table>
 <tr>

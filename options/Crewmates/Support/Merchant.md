@@ -13,7 +13,7 @@ Complete Tasks to give Players a Random Add-On, and receive money that can be us
   * Set the Maximum amount of Merchants that can be in a match.
 * Max Amount of Add-Ons to Sell
   * Set how many Add-Ons a Merchant can sell
-* Amount of Money earned for sold Add-On
+* Amount of Money earned for selling an Add-On
   * Set how much Money the Merchant receives for selling an Add-On to someone
 * Amount of Money required to bribe a Killer
   * Set how much Money the Merchant must have to Bribe a Killer so you won’t die
@@ -26,7 +26,7 @@ Complete Tasks to give Players a Random Add-On, and receive money that can be us
 * Can Sell to Impostors
   * <font color=green>ON</font>: Merchant can sell Add-Ons to players of this team
   * <font color=red>OFF</font>: players of this team cannot receive Add-Ons from the Merchant
-* Can Sell to Neutral
+* Can Sell to Neutrals
   * <font color=green>ON</font>: Merchant can sell Add-Ons to players of this team
   * <font color=red>OFF</font>: players of this team cannot receive Add-Ons from the Merchant
 * Can Sell Helpful Add-Ons
@@ -35,10 +35,7 @@ Complete Tasks to give Players a Random Add-On, and receive money that can be us
 * Can Sell Harmful Add-Ons
   * <font color=green>ON</font>: Merchant can sell Add-Ons of this type to players
   * <font color=red>OFF</font>: this type of Add-On cannot be sold by the Merchant
-* Can Sell <font color=#7f8c8d>Neutral</font> Add-Ons
-  * <font color=green>ON</font>: Merchant can sell Add-Ons of this type to players
-  * <font color=red>OFF</font>: this type of Add-On cannot be sold by the Merchant
-* Can Sell Experimental Add-Ons
+* Can Sell Mixed Add-Ons
   * <font color=green>ON</font>: Merchant can sell Add-Ons of this type to players
   * <font color=red>OFF</font>: this type of Add-On cannot be sold by the Merchant
 * Can Sell Harmful Add-Ons only to Evil

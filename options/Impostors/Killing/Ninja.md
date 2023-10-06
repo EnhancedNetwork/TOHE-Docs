@@ -13,12 +13,12 @@ The Ninja can use the kill button to mark a target, and if the mark is successfu
 * Max
   * Set the Maximum amount of Ninjas that can be in a match
 * Mark Cooldown
-  * Set how long the Ninjs needs to wait to Mark their Target
+  * Set how long the Ninja needs to wait to Mark their Target
 * Assassinate Cooldown
-  * Set how long an Ninjs needs to wait to initiate the assassination on someone
+  * Set how long an Ninja needs to wait to initiate the assassination on someone
 * Can kill after Assassinating
-  * <font color=green>ON</font>: the Ninjs can kill once it successfully assassinates someone
-  * <font color=red>OFF</font>: the Ninjs can only Assassinate people to kill
+  * <font color=green>ON</font>: the Ninja can kill once it successfully assassinates someone
+  * <font color=red>OFF</font>: the Ninja can only Assassinate people to kill
 
 ::: danger Fun Fact
 Ninja was originally called Assassin.  

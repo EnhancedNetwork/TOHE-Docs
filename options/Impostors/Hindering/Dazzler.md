@@ -9,7 +9,8 @@ next: Devourer
 ---
 
 The Dazzler can Shapeshift into players to reduce their vision permanently, if you die their vision returns to normal.
-* Max: Set the Maximum amount of Dazzlers that can be in a match
+* Max 
+  * Set the Maximum amount of Dazzlers that can be in a match
 * Kill Cooldown
   * Set how long the Dazzler needs to wait to Kill
 * Dazzle Cooldown

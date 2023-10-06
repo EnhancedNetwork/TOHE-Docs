@@ -13,13 +13,13 @@ If the Marshall completes all of their tasks, they will be revealed to the Crew.
   * Set the Maximum amount of Marshalls that can be in a match
 * Override Marshall’s Tasks
   * <font color=green>ON</font>: the Marshall will not have the same tasks as everyone else
-  * <font color=red>OFF</font>: the Marshall will have the same tasks as everyone else
-* Marshall has Common Tasks
-  * <font color=green>ON</font>: the Marshall will have to do Common Tasks like everyone else
-  * <font color=red>OFF</font>: the Marshall doesn’t receive Common Tasks
+    * Marshall has Common Tasks
+      * <font color=green>ON</font>: the Marshall will have to do Common Tasks like everyone else
+      * <font color=red>OFF</font>: the Marshall doesn’t receive Common Tasks
     * Amount of Long Tasks for Marshall
       * Set how many Long Tasks the Marshall has to do
     * Amount of Short Tasks for Marshall
       * Set how many Short Tasks the Marshall has to do
+  * <font color=red>OFF</font>: the Marshall will have the same tasks as everyone else
 
 > From: BetterTOS Mod for Town of Salem 1

@@ -9,10 +9,10 @@ next: Lookout
 ---
 
 If you complete all of your Tasks, you become immortal. This includes being Killed, Guessed, Ejected, etc.
-Max: Set the Maximum amount of Guardians that can be in a match.
+* Max
+  * Set the Maximum amount of Guardians that can be in a match.
 * Override Guardians’s Tasks
   * <font color=green>ON</font>: the Guardian will not have the same tasks as everyone else
-  * <font color=red>OFF</font>: the Guardian will have the same tasks as everyone else
     * Guardian has Common Tasks
       * <font color=green>ON</font>: the Guardian will have to do Common Tasks like everyone else
       * <font color=red>OFF</font>: the Guardian doesn’t receive Common Tasks
@@ -20,5 +20,6 @@ Max: Set the Maximum amount of Guardians that can be in a match.
       * Set how many Long Tasks the Guardian has to do
     * Amount of Short Tasks for Guardian
       * Set how many Short Tasks the Guardian has to do
+  * <font color=red>OFF</font>: the Guardian will have the same tasks as everyone else
 
 > From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)

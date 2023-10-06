@@ -5,7 +5,7 @@ prev: Aware
 next: Diseased
 ---
 
-# <font color=#691a2e>🗡️ <b>Bloodlust</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
+# <font color=#691a2e>🩸 <b>Bloodlust</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
 ---
 
 As the Bloodlust, doing tasks allows you to kill.<br>

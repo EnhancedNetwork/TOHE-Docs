@@ -27,16 +27,19 @@ Checking command: `/cp [player id 1] [player id 2]`<br>
 * <font color=#00ffff>Bait</font> counts as revealing role if <font color=#00ffff>Bait</font> reveal on first meeting is on
   * <font color=green>ON</font>: <font color=#00ffff>Bait</font> will reveal their role if they reveal on the first meeting
   * <font color=red>OFF</font>: <font color=#00ffff>Bait</font> will not reveal their role if they reveal on the first meeting
+* Targets know they were checked by Inspector
+  * <font color=green>ON</font>: Targets will know if they were inspected by the Inspector
+  * <font color=red>OFF</font>: Targets will not know if they were inspected by the Inspector
 * <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
   * Set the amount of Ability Uses an Inspector gains with each Task completed (0.1 increments)
 * Override Inspector’s Tasks
   * <font color=green>ON</font>: you can set a different amount of Tasks that a Inspector needs to do
-  * <font color=red>OFF</font>: the Inspector does the same amount of Tasks as anyone else
-* Inspector has Common Tasks
-  * Set if the Inspector has Common Tasks
+    * Inspector has Common Tasks
+      * Set if the Inspector has Common Tasks
     * Amount of Long Tasks for Inspector
       * Set the amount of Long Tasks the Inspector will receive
     * Amount of Short Tasks for Inspector
       * Set the amount of Short Tasks the Inspector will receive
+  * <font color=red>OFF</font>: the Inspector does the same amount of Tasks as anyone else
 
 > From: Parity Cop from Stellar Roles & Coding: [ryuk](#)

@@ -11,6 +11,8 @@ next: Retributionist
 The Knight has no tasks. They can kill any person but they can only do it once the whole game.
 * Max
   * Set the Maximum amount of Knight that can be in a match
+* Kill Cooldown
+  * Set how long the Knight needs to wait to kill
 * Can Vent
   * <font color=green>ON</font>: the Knight can Vent
   * <font color=red>OFF</font>: the Knight cannot Vent

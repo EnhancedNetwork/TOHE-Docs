@@ -16,7 +16,7 @@ The guessing command is `/bt [player ID] [Role]`
 
 You can see the ID of player’s next to their name, or by typing `/id`
 
-PS: You don’t need to worry about this if you have a TOHE Modded Client, as it includes a built-in Guesser GUI on Player Nameplates)
+(PS: You don’t need to worry about this if you have a TOHE Modded Client, as it includes a built-in Guesser GUI on Player Nameplates)
 * Max
   * Set the Maximum amount of Vigilantes that can be in a match
 * Maximum number of guesses

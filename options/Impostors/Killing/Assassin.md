@@ -14,7 +14,7 @@ If it is correct, the target dies, and if it is wrong, the Assassin dies.
 
 The guessing command is `/bt [player ID] [Role]`.<br>
 You can see the ID of player’s next to their name, or by typing `/id`<br>
-Note: You don’t need to worry about this if you have a TOHE Modded Client, as it includes a built-in Guesser GUI on Player Nameplates)
+Note: You don’t need to worry about this if you have a TOHE Modded Client, as it includes a built-in Guesser GUI on Player Nameplates
 * Max
   * Set the Maximum amount of Assassins that can be in a match
 * Maximum number of guesses

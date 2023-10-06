@@ -17,13 +17,16 @@ The Psychic can see the names of some players in Red (In the Meeting), and at le
   * <font color=green>ON</font>: the red names will change every meeting
   * <font color=red>OFF</font>: red names will remain the same unless something happens
 * <font color=#8cffff>Crewmate</font> Killings can be red
-  * <font color=green>ON</font>: Killers on this team can appear as Red
-  * <font color=red>OFF</font>: killers on this team won’t appear as Red
-* Nice <font color=#7f8c8d>Neutrals</font> can be red
-  * <font color=green>ON</font>: Killers on this team can appear as Red
-  * <font color=red>OFF</font>: killers on this team won’t appear as Red
-* Evil <font color=#7f8c8d>Neutrals</font> can be red
-  * <font color=green>ON</font>: Killers on this team can appear as Red
-  * <font color=red>OFF</font>: killers on this team won’t appear as Red
+  * <font color=green>ON</font>: Crewmate Killing roles can appear as Red
+  * <font color=red>OFF</font>: Crewmate Killing roles can appear as Red
+* <font color=#7f8c8d>Neutral Benign</font> can be red
+  * <font color=green>ON</font>: Neutral Benign roles can appear as Red
+  * <font color=red>OFF</font>: Neutral Benign roles cannot appear as Red
+* <font color=#7f8c8d>Neutral Evil</font> can be red
+  * <font color=green>ON</font>: Neutral Evil roles can appear as Red
+  * <font color=red>OFF</font>: Neutral Evil roles cannot appear as Red
+* <font color=#7f8c8d>Neutral Chaos</font> can be red
+  * <font color=green>ON</font>: Neutral Chaos roles can appear as Red
+  * <font color=red>OFF</font>: Neutral Chaos roles cannot appear as Red
 
 > From: TOHR & Coding: [KARPED1EM](https://github.com/KARPED1EM)

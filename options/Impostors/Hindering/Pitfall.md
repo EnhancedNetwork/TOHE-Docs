@@ -13,9 +13,11 @@ As the Pitfall, you use your shapeshift to mark the area around the shapeshift a
   * Set the Maximum amount of Pitfalls that can be in a match
 * Trap Cooldown
   * Set how long a Pitfall needs to wait to use their Ability
-* Number of Players that can be caught per trap
-  * Set how many players can be caught in a trap
-* Time the Trap Remains Active
+* Number of Traps that can be set
+  * Set how many Traps the Pitfall can set down
+* Number of Players that can be caught per Trap
+  * Set how many players can be caught in a Trap
+* Time the Trap remains active
   * Set how long the trap remains active
 * Trap Radius
   * Set how big the trap is

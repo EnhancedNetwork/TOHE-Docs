@@ -1,0 +1,60 @@
+<template><div><h1 id="🔪-assassin" tabindex="-1"><a class="header-anchor" href="#🔪-assassin" aria-hidden="true">#</a> <font color="red">🔪 Assassin</font> <Badge text="Killing" type="tip" vertical="middle"/></h1>
+<hr>
+<p>The Assassin can guess the role of a certain player during the meeting.</p>
+<p>If it is correct, the target dies, and if it is wrong, the Assassin dies.</p>
+<p>The guessing command is <code v-pre>/bt [player ID] [Role]</code>.<br>
+You can see the ID of player’s next to their name, or by typing <code v-pre>/id</code><br>
+Note: You don’t need to worry about this if you have a TOHE Modded Client, as it includes a built-in Guesser GUI on Player Nameplates</p>
+<ul>
+<li>Max
+<ul>
+<li>Set the Maximum amount of Assassins that can be in a match</li>
+</ul>
+</li>
+<li>Maximum number of guesses
+<ul>
+<li>Set how many times Assassins can guess</li>
+</ul>
+</li>
+<li>Can Guess <font color=red>Impostor</font> Roles
+<ul>
+<li>
+<font color=green>ON</font>: the Assassin can guess Impostors</li>
+<li>
+<font color=red>OFF</font>: the Assassin cannot guess Impostors</li>
+</ul>
+</li>
+<li>Can Guess Add-Ons
+<ul>
+<li>
+<font color=green>ON</font>: the Assassin can guess players' Add-Ons</li>
+<li>
+<font color=red>OFF</font>: the Assassin cannot guess based off of Add-Ons</li>
+</ul>
+</li>
+<li>Can guess Snitch with All Tasks Done
+<ul>
+<li>
+<font color=green>ON</font>: the Assassin can guess the Snitch when the Snitch is finished all of their Tasks</li>
+<li>
+<font color=red>OFF</font>: the Assassin cannot guess the Snitch once the Snitch finishes all of their Tasks</li>
+</ul>
+</li>
+<li>Try to hide guesser's command
+<ul>
+<li>
+<font color=green>ON</font>: the mod will attempt to hide the Assassin’s commands</li>
+<li>
+<font color=red>OFF</font>: the mod will not care to hide the Assassin’s commands</li>
+</ul>
+</li>
+</ul>
+<div class="custom-container danger"><p class="custom-container-title">Fun Fact</p>
+<p>Members of the TOHRE community have debated on whether the name Assassin or Evil Guesser is better. The name Assassin was chosen because it was more fitting for the role. It was renamed in Dev Build 4 (2.5.1 Dev 4)</p>
+</div>
+<blockquote>
+<p>From: idk &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a>、<a href="https://github.com/commandf1" target="_blank" rel="noopener noreferrer">Commandf1<ExternalLinkIcon/></a></p>
+</blockquote>
+</div></template>
+
+

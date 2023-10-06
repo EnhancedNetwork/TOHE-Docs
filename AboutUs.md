@@ -62,6 +62,8 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**Dawson**](#)：Spanish Translator
 
+[**Loonie Toons**](https://github.com/Loonie-Toons): TOHRE Dev (No longer public)
+
 
 ## About the Project Lead/Website Developer
 

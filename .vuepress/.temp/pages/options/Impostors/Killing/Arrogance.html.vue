@@ -7,9 +7,9 @@
 <li>Set the Maximum amount of Arrogance that can be in a match</li>
 </ul>
 </li>
-<li>Default kill cooldown
+<li>Starting kill cooldown
 <ul>
-<li>Set the Base Kill Cooldown of the Arrogance</li>
+<li>Set the starting Kill Cooldown of the Arrogance</li>
 </ul>
 </li>
 <li>Reduce kill cooldown by
@@ -24,9 +24,9 @@
 </li>
 <li>
 <font color=yellow>(Hidden Role) Bard - Has a % Chance of replacing Arrogance.</font><ul>
-<li>When the Bard is alive, the ejection confirmation will display a sentence composed by the bard
+<li>When the Bard is alive, the ejection confirmation will display a sentence composed by the bard<br>
+Whenever the Bard completes a creation, the Bard’s kill cooldown is permanently cut in half
 <ul>
-<li>Whenever the Bard completes a creation, the Bard’s kill cooldown is permanently cut in half</li>
 <li>You must have “Disable Hidden Roles” toggled <font color=red>OFF</font> for this to have a chance to appear</li>
 </ul>
 </li>

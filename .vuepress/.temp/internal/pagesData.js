@@ -155,6 +155,30 @@ export const pagesData = {
   "v-f805a70a": () => import(/* webpackChunkName: "v-f805a70a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Tracefinder.html.js").then(({ data }) => data),
   // path: /options/Crewmates/Basic/Transporter.html
   "v-edbca920": () => import(/* webpackChunkName: "v-edbca920" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Transporter.html.js").then(({ data }) => data),
+  // path: /options/Crewmates/Killing/Bastion.html
+  "v-172abac8": () => import(/* webpackChunkName: "v-172abac8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Bastion.html.js").then(({ data }) => data),
+  // path: /options/Crewmates/Killing/Bodyguard.html
+  "v-769ed666": () => import(/* webpackChunkName: "v-769ed666" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Bodyguard.html.js").then(({ data }) => data),
+  // path: /options/Crewmates/Killing/Crusader.html
+  "v-1e341236": () => import(/* webpackChunkName: "v-1e341236" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Crusader.html.js").then(({ data }) => data),
+  // path: /options/Crewmates/Killing/Deceiver.html
+  "v-d17913f6": () => import(/* webpackChunkName: "v-d17913f6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Deceiver.html.js").then(({ data }) => data),
+  // path: /options/Crewmates/Killing/Jailer.html
+  "v-6930a97b": () => import(/* webpackChunkName: "v-6930a97b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Jailer.html.js").then(({ data }) => data),
+  // path: /options/Crewmates/Killing/Judge.html
+  "v-6c6e67f9": () => import(/* webpackChunkName: "v-6c6e67f9" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Judge.html.js").then(({ data }) => data),
+  // path: /options/Crewmates/Killing/Knight.html
+  "v-00869d75": () => import(/* webpackChunkName: "v-00869d75" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Knight.html.js").then(({ data }) => data),
+  // path: /options/Crewmates/Killing/Retributionist.html
+  "v-fabb1fd2": () => import(/* webpackChunkName: "v-fabb1fd2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Retributionist.html.js").then(({ data }) => data),
+  // path: /options/Crewmates/Killing/Reverie.html
+  "v-6cdb40c4": () => import(/* webpackChunkName: "v-6cdb40c4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Reverie.html.js").then(({ data }) => data),
+  // path: /options/Crewmates/Killing/Sheriff.html
+  "v-3debb169": () => import(/* webpackChunkName: "v-3debb169" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Sheriff.html.js").then(({ data }) => data),
+  // path: /options/Crewmates/Killing/Veteran.html
+  "v-0b38b791": () => import(/* webpackChunkName: "v-0b38b791" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Veteran.html.js").then(({ data }) => data),
+  // path: /options/Crewmates/Killing/Vigilante.html
+  "v-7dc3123b": () => import(/* webpackChunkName: "v-7dc3123b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Vigilante.html.js").then(({ data }) => data),
   // path: /options/Crewmates/Power/Copycat.html
   "v-62dd8aa4": () => import(/* webpackChunkName: "v-62dd8aa4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Power/Copycat.html.js").then(({ data }) => data),
   // path: /options/Crewmates/Power/Dictator.html
@@ -173,30 +197,6 @@ export const pagesData = {
   "v-e23d9ea0": () => import(/* webpackChunkName: "v-e23d9ea0" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Power/Overseer.html.js").then(({ data }) => data),
   // path: /options/Crewmates/Power/Telecommunication.html
   "v-3c7311e3": () => import(/* webpackChunkName: "v-3c7311e3" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Power/Telecommunication.html.js").then(({ data }) => data),
-  // path: /options/Crewmates/Killing/Bastion.html
-  "v-172abac8": () => import(/* webpackChunkName: "v-172abac8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Bastion.html.js").then(({ data }) => data),
-  // path: /options/Crewmates/Killing/Bodyguard.html
-  "v-769ed666": () => import(/* webpackChunkName: "v-769ed666" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Bodyguard.html.js").then(({ data }) => data),
-  // path: /options/Crewmates/Killing/Crusader.html
-  "v-1e341236": () => import(/* webpackChunkName: "v-1e341236" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Crusader.html.js").then(({ data }) => data),
-  // path: /options/Crewmates/Killing/Deceiver.html
-  "v-d17913f6": () => import(/* webpackChunkName: "v-d17913f6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Deceiver.html.js").then(({ data }) => data),
-  // path: /options/Crewmates/Killing/Jailor.html
-  "v-7a2efa05": () => import(/* webpackChunkName: "v-7a2efa05" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Jailor.html.js").then(({ data }) => data),
-  // path: /options/Crewmates/Killing/Judge.html
-  "v-6c6e67f9": () => import(/* webpackChunkName: "v-6c6e67f9" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Judge.html.js").then(({ data }) => data),
-  // path: /options/Crewmates/Killing/Knight.html
-  "v-00869d75": () => import(/* webpackChunkName: "v-00869d75" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Knight.html.js").then(({ data }) => data),
-  // path: /options/Crewmates/Killing/Retributionist.html
-  "v-fabb1fd2": () => import(/* webpackChunkName: "v-fabb1fd2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Retributionist.html.js").then(({ data }) => data),
-  // path: /options/Crewmates/Killing/Reverie.html
-  "v-6cdb40c4": () => import(/* webpackChunkName: "v-6cdb40c4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Reverie.html.js").then(({ data }) => data),
-  // path: /options/Crewmates/Killing/Sheriff.html
-  "v-3debb169": () => import(/* webpackChunkName: "v-3debb169" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Sheriff.html.js").then(({ data }) => data),
-  // path: /options/Crewmates/Killing/Veteran.html
-  "v-0b38b791": () => import(/* webpackChunkName: "v-0b38b791" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Veteran.html.js").then(({ data }) => data),
-  // path: /options/Crewmates/Killing/Vigilante.html
-  "v-7dc3123b": () => import(/* webpackChunkName: "v-7dc3123b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Vigilante.html.js").then(({ data }) => data),
   // path: /options/Crewmates/Support/Admirer.html
   "v-9d586cf6": () => import(/* webpackChunkName: "v-9d586cf6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Support/Admirer.html.js").then(({ data }) => data),
   // path: /options/Crewmates/Support/Chameleon.html
@@ -273,14 +273,16 @@ export const pagesData = {
   "v-66bf0cfa": () => import(/* webpackChunkName: "v-66bf0cfa" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Lightning.html.js").then(({ data }) => data),
   // path: /options/Experimental/Impostor/Zombie.html
   "v-592179a8": () => import(/* webpackChunkName: "v-592179a8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Zombie.html.js").then(({ data }) => data),
-  // path: /options/Experimental/Neutral/Doppleganger.html
-  "v-3a4e62d0": () => import(/* webpackChunkName: "v-3a4e62d0" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Neutral/Doppleganger.html.js").then(({ data }) => data),
+  // path: /options/Experimental/Neutral/Doppelganger.html
+  "v-2ad68a3c": () => import(/* webpackChunkName: "v-2ad68a3c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Neutral/Doppelganger.html.js").then(({ data }) => data),
   // path: /options/Experimental/Neutral/God.html
   "v-6cfcbefc": () => import(/* webpackChunkName: "v-6cfcbefc" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Neutral/God.html.js").then(({ data }) => data),
   // path: /options/Experimental/Neutral/Spiritcaller.html
   "v-57b9c298": () => import(/* webpackChunkName: "v-57b9c298" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Neutral/Spiritcaller.html.js").then(({ data }) => data),
   // path: /options/Impostors/Concealing/Escapist.html
   "v-2d9b93c4": () => import(/* webpackChunkName: "v-2d9b93c4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Escapist.html.js").then(({ data }) => data),
+  // path: /options/Impostors/Concealing/Mastermind.html
+  "v-0c013036": () => import(/* webpackChunkName: "v-0c013036" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Mastermind.html.js").then(({ data }) => data),
   // path: /options/Impostors/Concealing/Miner.html
   "v-7cc822ee": () => import(/* webpackChunkName: "v-7cc822ee" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Miner.html.js").then(({ data }) => data),
   // path: /options/Impostors/Concealing/Puppeteer.html
@@ -493,8 +495,6 @@ export const pagesData = {
   "v-2955f05e": () => import(/* webpackChunkName: "v-2955f05e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Pyromaniac.html.js").then(({ data }) => data),
   // path: /options/Neutrals/Killing/SerialKiller.html
   "v-6ec03af6": () => import(/* webpackChunkName: "v-6ec03af6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/SerialKiller.html.js").then(({ data }) => data),
-  // path: /options/Neutrals/Killing/Shade.html
-  "v-74db5bf0": () => import(/* webpackChunkName: "v-74db5bf0" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Shade.html.js").then(({ data }) => data),
   // path: /options/Neutrals/Killing/Shroud.html
   "v-1d1b2774": () => import(/* webpackChunkName: "v-1d1b2774" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Shroud.html.js").then(({ data }) => data),
   // path: /options/Neutrals/Killing/Stalker.html

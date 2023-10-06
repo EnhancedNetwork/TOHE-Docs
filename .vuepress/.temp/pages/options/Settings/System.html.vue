@@ -37,6 +37,19 @@
 </ul>
 </li>
 <li>
+<p>Turn on Whitelist to bypass level kick</p>
+<ul>
+<li>Set the minimum level required to play
+<ul>
+<li>
+<font color=green>ON</font>: Whitelisted players can join the lobby even if they don't meet lobby requirements</li>
+<li>
+<font color=red>OFF</font>: Whitelisted players are ignored, and treated as everyone else is</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
 <p>Kick Non-PC players</p>
 <ul>
 <li>

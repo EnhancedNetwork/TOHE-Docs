@@ -1,8 +1,12 @@
 <template><div><h1 id="🕵️‍♂️-detective" tabindex="-1"><a class="header-anchor" href="#🕵️‍♂️-detective" aria-hidden="true">#</a> <font color="#7160e8">🕵️‍♂️ <b>Detective</b></font> <Badge text="Support" type="tip" vertical="middle"/></h1>
 <hr>
-<p>After the Detective reports the body. They will receive a clue message, which will tell the Detective what the role of the body was.
-Max: Set the Maximum amount of Detectives that can be in a match.</p>
+<p>After the Detective reports the body. They will receive a clue message, which will tell the Detective what the role of the body was.</p>
 <ul>
+<li>Max
+<ul>
+<li>Set the Maximum amount of Detectives that can be in a match.</li>
+</ul>
+</li>
 <li>Can find the killer’s role
 <ul>
 <li>

@@ -9,20 +9,20 @@
 </li>
 <li>Mark Cooldown
 <ul>
-<li>Set how long the Ninjs needs to wait to Mark their Target</li>
+<li>Set how long the Ninja needs to wait to Mark their Target</li>
 </ul>
 </li>
 <li>Assassinate Cooldown
 <ul>
-<li>Set how long an Ninjs needs to wait to initiate the assassination on someone</li>
+<li>Set how long an Ninja needs to wait to initiate the assassination on someone</li>
 </ul>
 </li>
 <li>Can kill after Assassinating
 <ul>
 <li>
-<font color=green>ON</font>: the Ninjs can kill once it successfully assassinates someone</li>
+<font color=green>ON</font>: the Ninja can kill once it successfully assassinates someone</li>
 <li>
-<font color=red>OFF</font>: the Ninjs can only Assassinate people to kill</li>
+<font color=red>OFF</font>: the Ninja can only Assassinate people to kill</li>
 </ul>
 </li>
 </ul>

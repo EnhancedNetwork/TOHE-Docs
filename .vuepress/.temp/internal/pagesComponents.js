@@ -157,6 +157,30 @@ export const pagesComponents = {
   "v-f805a70a": defineAsyncComponent(() => import(/* webpackChunkName: "v-f805a70a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Tracefinder.html.vue")),
   // path: /options/Crewmates/Basic/Transporter.html
   "v-edbca920": defineAsyncComponent(() => import(/* webpackChunkName: "v-edbca920" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Transporter.html.vue")),
+  // path: /options/Crewmates/Killing/Bastion.html
+  "v-172abac8": defineAsyncComponent(() => import(/* webpackChunkName: "v-172abac8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Bastion.html.vue")),
+  // path: /options/Crewmates/Killing/Bodyguard.html
+  "v-769ed666": defineAsyncComponent(() => import(/* webpackChunkName: "v-769ed666" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Bodyguard.html.vue")),
+  // path: /options/Crewmates/Killing/Crusader.html
+  "v-1e341236": defineAsyncComponent(() => import(/* webpackChunkName: "v-1e341236" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Crusader.html.vue")),
+  // path: /options/Crewmates/Killing/Deceiver.html
+  "v-d17913f6": defineAsyncComponent(() => import(/* webpackChunkName: "v-d17913f6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Deceiver.html.vue")),
+  // path: /options/Crewmates/Killing/Jailer.html
+  "v-6930a97b": defineAsyncComponent(() => import(/* webpackChunkName: "v-6930a97b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Jailer.html.vue")),
+  // path: /options/Crewmates/Killing/Judge.html
+  "v-6c6e67f9": defineAsyncComponent(() => import(/* webpackChunkName: "v-6c6e67f9" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Judge.html.vue")),
+  // path: /options/Crewmates/Killing/Knight.html
+  "v-00869d75": defineAsyncComponent(() => import(/* webpackChunkName: "v-00869d75" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Knight.html.vue")),
+  // path: /options/Crewmates/Killing/Retributionist.html
+  "v-fabb1fd2": defineAsyncComponent(() => import(/* webpackChunkName: "v-fabb1fd2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Retributionist.html.vue")),
+  // path: /options/Crewmates/Killing/Reverie.html
+  "v-6cdb40c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-6cdb40c4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Reverie.html.vue")),
+  // path: /options/Crewmates/Killing/Sheriff.html
+  "v-3debb169": defineAsyncComponent(() => import(/* webpackChunkName: "v-3debb169" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Sheriff.html.vue")),
+  // path: /options/Crewmates/Killing/Veteran.html
+  "v-0b38b791": defineAsyncComponent(() => import(/* webpackChunkName: "v-0b38b791" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Veteran.html.vue")),
+  // path: /options/Crewmates/Killing/Vigilante.html
+  "v-7dc3123b": defineAsyncComponent(() => import(/* webpackChunkName: "v-7dc3123b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Vigilante.html.vue")),
   // path: /options/Crewmates/Power/Copycat.html
   "v-62dd8aa4": defineAsyncComponent(() => import(/* webpackChunkName: "v-62dd8aa4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Power/Copycat.html.vue")),
   // path: /options/Crewmates/Power/Dictator.html
@@ -175,30 +199,6 @@ export const pagesComponents = {
   "v-e23d9ea0": defineAsyncComponent(() => import(/* webpackChunkName: "v-e23d9ea0" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Power/Overseer.html.vue")),
   // path: /options/Crewmates/Power/Telecommunication.html
   "v-3c7311e3": defineAsyncComponent(() => import(/* webpackChunkName: "v-3c7311e3" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Power/Telecommunication.html.vue")),
-  // path: /options/Crewmates/Killing/Bastion.html
-  "v-172abac8": defineAsyncComponent(() => import(/* webpackChunkName: "v-172abac8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Bastion.html.vue")),
-  // path: /options/Crewmates/Killing/Bodyguard.html
-  "v-769ed666": defineAsyncComponent(() => import(/* webpackChunkName: "v-769ed666" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Bodyguard.html.vue")),
-  // path: /options/Crewmates/Killing/Crusader.html
-  "v-1e341236": defineAsyncComponent(() => import(/* webpackChunkName: "v-1e341236" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Crusader.html.vue")),
-  // path: /options/Crewmates/Killing/Deceiver.html
-  "v-d17913f6": defineAsyncComponent(() => import(/* webpackChunkName: "v-d17913f6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Deceiver.html.vue")),
-  // path: /options/Crewmates/Killing/Jailor.html
-  "v-7a2efa05": defineAsyncComponent(() => import(/* webpackChunkName: "v-7a2efa05" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Jailor.html.vue")),
-  // path: /options/Crewmates/Killing/Judge.html
-  "v-6c6e67f9": defineAsyncComponent(() => import(/* webpackChunkName: "v-6c6e67f9" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Judge.html.vue")),
-  // path: /options/Crewmates/Killing/Knight.html
-  "v-00869d75": defineAsyncComponent(() => import(/* webpackChunkName: "v-00869d75" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Knight.html.vue")),
-  // path: /options/Crewmates/Killing/Retributionist.html
-  "v-fabb1fd2": defineAsyncComponent(() => import(/* webpackChunkName: "v-fabb1fd2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Retributionist.html.vue")),
-  // path: /options/Crewmates/Killing/Reverie.html
-  "v-6cdb40c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-6cdb40c4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Reverie.html.vue")),
-  // path: /options/Crewmates/Killing/Sheriff.html
-  "v-3debb169": defineAsyncComponent(() => import(/* webpackChunkName: "v-3debb169" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Sheriff.html.vue")),
-  // path: /options/Crewmates/Killing/Veteran.html
-  "v-0b38b791": defineAsyncComponent(() => import(/* webpackChunkName: "v-0b38b791" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Veteran.html.vue")),
-  // path: /options/Crewmates/Killing/Vigilante.html
-  "v-7dc3123b": defineAsyncComponent(() => import(/* webpackChunkName: "v-7dc3123b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Vigilante.html.vue")),
   // path: /options/Crewmates/Support/Admirer.html
   "v-9d586cf6": defineAsyncComponent(() => import(/* webpackChunkName: "v-9d586cf6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Crewmates/Support/Admirer.html.vue")),
   // path: /options/Crewmates/Support/Chameleon.html
@@ -275,14 +275,16 @@ export const pagesComponents = {
   "v-66bf0cfa": defineAsyncComponent(() => import(/* webpackChunkName: "v-66bf0cfa" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Lightning.html.vue")),
   // path: /options/Experimental/Impostor/Zombie.html
   "v-592179a8": defineAsyncComponent(() => import(/* webpackChunkName: "v-592179a8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Zombie.html.vue")),
-  // path: /options/Experimental/Neutral/Doppleganger.html
-  "v-3a4e62d0": defineAsyncComponent(() => import(/* webpackChunkName: "v-3a4e62d0" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Neutral/Doppleganger.html.vue")),
+  // path: /options/Experimental/Neutral/Doppelganger.html
+  "v-2ad68a3c": defineAsyncComponent(() => import(/* webpackChunkName: "v-2ad68a3c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Neutral/Doppelganger.html.vue")),
   // path: /options/Experimental/Neutral/God.html
   "v-6cfcbefc": defineAsyncComponent(() => import(/* webpackChunkName: "v-6cfcbefc" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Neutral/God.html.vue")),
   // path: /options/Experimental/Neutral/Spiritcaller.html
   "v-57b9c298": defineAsyncComponent(() => import(/* webpackChunkName: "v-57b9c298" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Experimental/Neutral/Spiritcaller.html.vue")),
   // path: /options/Impostors/Concealing/Escapist.html
   "v-2d9b93c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d9b93c4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Escapist.html.vue")),
+  // path: /options/Impostors/Concealing/Mastermind.html
+  "v-0c013036": defineAsyncComponent(() => import(/* webpackChunkName: "v-0c013036" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Mastermind.html.vue")),
   // path: /options/Impostors/Concealing/Miner.html
   "v-7cc822ee": defineAsyncComponent(() => import(/* webpackChunkName: "v-7cc822ee" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Miner.html.vue")),
   // path: /options/Impostors/Concealing/Puppeteer.html
@@ -495,8 +497,6 @@ export const pagesComponents = {
   "v-2955f05e": defineAsyncComponent(() => import(/* webpackChunkName: "v-2955f05e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Pyromaniac.html.vue")),
   // path: /options/Neutrals/Killing/SerialKiller.html
   "v-6ec03af6": defineAsyncComponent(() => import(/* webpackChunkName: "v-6ec03af6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/SerialKiller.html.vue")),
-  // path: /options/Neutrals/Killing/Shade.html
-  "v-74db5bf0": defineAsyncComponent(() => import(/* webpackChunkName: "v-74db5bf0" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Shade.html.vue")),
   // path: /options/Neutrals/Killing/Shroud.html
   "v-1d1b2774": defineAsyncComponent(() => import(/* webpackChunkName: "v-1d1b2774" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Websites/TOHE-Doc-English/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Shroud.html.vue")),
   // path: /options/Neutrals/Killing/Stalker.html

@@ -12,7 +12,7 @@
 <li>Set how many Add-Ons a Merchant can sell</li>
 </ul>
 </li>
-<li>Amount of Money earned for sold Add-On
+<li>Amount of Money earned for selling an Add-On
 <ul>
 <li>Set how much Money the Merchant receives for selling an Add-On to someone</li>
 </ul>
@@ -46,7 +46,7 @@
 <font color=red>OFF</font>: players of this team cannot receive Add-Ons from the Merchant</li>
 </ul>
 </li>
-<li>Can Sell to Neutral
+<li>Can Sell to Neutrals
 <ul>
 <li>
 <font color=green>ON</font>: Merchant can sell Add-Ons to players of this team</li>
@@ -70,15 +70,7 @@
 <font color=red>OFF</font>: this type of Add-On cannot be sold by the Merchant</li>
 </ul>
 </li>
-<li>Can Sell <font color=#7f8c8d>Neutral</font> Add-Ons
-<ul>
-<li>
-<font color=green>ON</font>: Merchant can sell Add-Ons of this type to players</li>
-<li>
-<font color=red>OFF</font>: this type of Add-On cannot be sold by the Merchant</li>
-</ul>
-</li>
-<li>Can Sell Experimental Add-Ons
+<li>Can Sell Mixed Add-Ons
 <ul>
 <li>
 <font color=green>ON</font>: Merchant can sell Add-Ons of this type to players</li>

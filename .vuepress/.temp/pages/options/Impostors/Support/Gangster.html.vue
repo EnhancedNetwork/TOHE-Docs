@@ -1,6 +1,6 @@
 <template><div><h1 id="🤵-gangster" tabindex="-1"><a class="header-anchor" href="#🤵-gangster" aria-hidden="true">#</a> <font color="red">🤵 Gangster</font> <Badge text="Support" type="tip" vertical="middle"/></h1>
 <hr>
-<p>The Gangster can attempt to recruit a player to a Madmate by pressing the kill button. If the recruitment is Successful, The Gangster and Target will see a shield to confirm. Once the Gangster recruits his Maximum amount of people, only then can he begin killing. (If the Gangster attempts to recruit an un-recruitable player, the target will be killed normally.</p>
+<p>The Gangster can attempt to recruit a player to a Madmate by pressing the kill button. If the recruitment is Successful, The Gangster and Target will see a shield to confirm. Once the Gangster recruits his Maximum amount of people, only then can he begin killing. If the Gangster attempts to recruit an un-recruitable player, the target will be killed normally.</p>
 <ul>
 <li>Max
 <ul>
@@ -33,7 +33,7 @@
 <font color=red>OFF</font>: this role cannot become a Madmate from Gangster interacting with it</li>
 </ul>
 </li>
-<li>Judicator can be converted
+<li>Vigilante can be converted
 <ul>
 <li>
 <font color=green>ON</font>: this role can become a Madmate if the Gangster interacts with it</li>

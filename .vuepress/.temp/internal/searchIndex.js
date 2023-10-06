@@ -4,16 +4,16 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "Contributor",
-        "slug": "contributor",
-        "link": "#contributor",
+        "title": "Contributors",
+        "slug": "contributors",
+        "link": "#contributors",
         "children": []
       },
       {
         "level": 2,
-        "title": "About the Developers",
-        "slug": "about-the-developers",
-        "link": "#about-the-developers",
+        "title": "About the Project Lead/Website Developer",
+        "slug": "about-the-project-lead-website-developer",
+        "link": "#about-the-project-lead-website-developer",
         "children": []
       }
     ],
@@ -983,6 +983,90 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Bastion",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Bastion.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bodyguard",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Bodyguard.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Crusader",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Crusader.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Deceiver",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Deceiver.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Jailer",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Jailer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Judge",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Judge.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Knight",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Knight.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Retributionist",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Retributionist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Reverie",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Reverie.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sheriff",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Sheriff.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Veteran",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Veteran.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vigilante",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Vigilante.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Copycat",
     "headers": [],
     "path": "/options/Crewmates/Power/Copycat.html",
@@ -1042,90 +1126,6 @@ export const searchIndex = [
     "title": "Telecommunication",
     "headers": [],
     "path": "/options/Crewmates/Power/Telecommunication.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bastion",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Bastion.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bodyguard",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Bodyguard.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Crusader",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Crusader.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Deceiver",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Deceiver.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Jailor",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Jailor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Judge",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Judge.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Knight",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Knight.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Retributionist",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Retributionist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Reverie",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Reverie.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sheriff",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Sheriff.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Veteran",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Veteran.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vigilante",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Vigilante.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1396,9 +1396,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Doppleganger",
+    "title": "Doppelganger",
     "headers": [],
-    "path": "/options/Experimental/Neutral/Doppleganger.html",
+    "path": "/options/Experimental/Neutral/Doppelganger.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1420,6 +1420,13 @@ export const searchIndex = [
     "title": "Escapist",
     "headers": [],
     "path": "/options/Impostors/Concealing/Escapist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mastermind",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Mastermind.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2162,13 +2169,6 @@ export const searchIndex = [
     "title": "Serial Killer",
     "headers": [],
     "path": "/options/Neutrals/Killing/SerialKiller.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Shade",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Shade.html",
     "pathLocale": "/",
     "extraFields": []
   },

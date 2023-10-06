@@ -15,9 +15,7 @@
 <li>Mini can be an Impostor
 <ul>
 <li>
-<font color=green>ON</font>: the Mini can be an Evil Mini</li>
-<li>
-<font color=red>OFF</font>: the Mini cannot be an Evil Mini<ul>
+<font color=green>ON</font>: the Mini can be an Evil Mini<ul>
 <li>Probability of Mini being an Impostor
 <ul>
 <li>Set the chance that a Mini can spawn as an Evil Mini</li>
@@ -35,6 +33,8 @@
 </li>
 </ul>
 </li>
+<li>
+<font color=red>OFF</font>: the Mini cannot be an Evil Mini</li>
 </ul>
 </li>
 <li>Display age change in real-time

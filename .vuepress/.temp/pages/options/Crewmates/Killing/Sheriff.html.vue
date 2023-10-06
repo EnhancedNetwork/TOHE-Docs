@@ -2,8 +2,16 @@
 <hr>
 <p>The Sheriff can kill any Non-Crew player. If the Sheriff tries tries to kill a Crewmate, they will instead Misfire, and Suicide. If they become a Non-Crew Sheriff, they can kill Anyone (Depending on Settings).</p>
 <ul>
-<li>Max: Set the maximum amount of Sheriffs there can be in a match</li>
-<li>Kill Cooldown: Set the amount of time the Sheriff needs to wait before they can shoot</li>
+<li>Max
+<ul>
+<li>Set the maximum amount of Sheriffs there can be in a match</li>
+</ul>
+</li>
+<li>Kill Cooldown
+<ul>
+<li>Set the amount of time the Sheriff needs to wait before they can shoot</li>
+</ul>
+</li>
 <li>Misfire Kills Target
 <ul>
 <li>
@@ -27,7 +35,7 @@
 </li>
 <li>Can Kill when everyone is Alive
 <ul>
-<li>If toggled <font color=green><font color=green>ON</font></font>, the Sheriff can shoot before anyone dies</li>
+<li>If toggled <font color=green>ON</font>, the Sheriff can shoot before anyone dies</li>
 <li>
 <font color=red>OFF</font>: the Sheriff can only shoot someone after someone dies</li>
 </ul>
@@ -151,7 +159,31 @@
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
 </ul>
 </li>
+<li>Doppelganger
+<ul>
+<li>
+<font color=green>ON</font>: This role can be shot by the Sheriff</li>
+<li>
+<font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
+</ul>
+</li>
+<li>Pyromaniac
+<ul>
+<li>
+<font color=green>ON</font>: This role can be shot by the Sheriff</li>
+<li>
+<font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
+</ul>
+</li>
 <li>Agitater
+<ul>
+<li>
+<font color=green>ON</font>: This role can be shot by the Sheriff</li>
+<li>
+<font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
+</ul>
+</li>
+<li>Bandit
 <ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
@@ -167,8 +199,10 @@
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
 </ul>
 </li>
-<li>Soul Collector<font color=green>ON</font>: This role can be shot by the Sheriff
+<li>Soul Collector
 <ul>
+<li>
+<font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
 </ul>
@@ -397,6 +431,30 @@
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
 </ul>
 </li>
+<li>Romantic
+<ul>
+<li>
+<font color=green>ON</font>: This role can be shot by the Sheriff</li>
+<li>
+<font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
+</ul>
+</li>
+<li>Vengeful Romantic
+<ul>
+<li>
+<font color=green>ON</font>: This role can be shot by the Sheriff</li>
+<li>
+<font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
+</ul>
+</li>
+<li>Ruthless Romantic
+<ul>
+<li>
+<font color=green>ON</font>: This role can be shot by the Sheriff</li>
+<li>
+<font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
+</ul>
+</li>
 <li>Cultist
 <ul>
 <li>
@@ -453,7 +511,15 @@
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
 </ul>
 </li>
-<li>Ritualist
+<li>Pirate
+<ul>
+<li>
+<font color=green>ON</font>: This role can be shot by the Sheriff</li>
+<li>
+<font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
+</ul>
+</li>
+<li>Potion Master
 <ul>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
@@ -573,6 +639,14 @@
 <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
 </ul>
 </li>
+<li>Huntsman
+<ul>
+<li>
+<font color=green>ON</font>: This role can be shot by the Sheriff</li>
+<li>
+<font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
+</ul>
+</li>
 <li>Banshee
 <ul>
 <li>
@@ -591,6 +665,11 @@
 </li>
 <li>Shade
 <ul>
+<li>
+<font color=green>ON</font>: This role can be shot by the Sheriff</li>
+<li>
+<font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff</li>
+<li>Imitator</li>
 <li>
 <font color=green>ON</font>: This role can be shot by the Sheriff</li>
 <li>

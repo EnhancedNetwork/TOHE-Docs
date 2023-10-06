@@ -529,22 +529,6 @@
 <font color=red>OFF</font>: Add-ons cannot be guessed</li>
 </ul>
 </li>
-<li>
-<font color=#8cffff>Crewmates</font> Can Guess <font color=#8cffff>Crewmate</font> Roles<ul>
-<li>
-<font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can guess other crewmates' roles</li>
-<li>
-<font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot guess other crewmates' roles</li>
-</ul>
-</li>
-<li>
-<font color=red>Impostors</font> Can Guess <font color=red>Impostor</font> Roles<ul>
-<li>
-<font color=green>ON</font>: <font color=red>Impostors</font> can guess other impostors' roles</li>
-<li>
-<font color=red>OFF</font>: <font color=red>Impostors</font> cannot guess other impostors' roles</li>
-</ul>
-</li>
 <li>Try to hide guesser's commands
 <ul>
 <li>

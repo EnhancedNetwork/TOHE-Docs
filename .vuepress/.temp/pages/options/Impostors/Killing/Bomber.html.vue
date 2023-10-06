@@ -54,6 +54,7 @@
 <li>Nuke radius (12x is very large)
 <ul>
 <li>Set how big a nuke's radius is</li>
+<li>You must have “Disable Hidden Roles” toggled <font color=red>OFF</font> for this to have a chance to appear</li>
 </ul>
 </li>
 </ul>

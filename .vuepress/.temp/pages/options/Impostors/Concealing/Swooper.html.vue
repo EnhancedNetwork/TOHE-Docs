@@ -17,6 +17,14 @@
 <li>Set how long the Swooper stays Swooped/Invisible for</li>
 </ul>
 </li>
+<li>Swooper vents normally when swooping is on cooldown
+<ul>
+<li>
+<font color=green>ON</font>: Venting will work normally when Swooper cooldown isn't up</li>
+<li>
+<font color=red>OFF</font>: Venting will not work normally if Swooper cooldown isn't up</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: TOHR &amp; Coding：<a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>

@@ -2,14 +2,19 @@
 <hr>
 <p>As the Councillor, you can kill players during a meeting like a Judge. When killing in a meeting, those kills will appear as a trial from a Judge.The kill command is <code v-pre>/tl [player id]</code> <br> You can see the player's id before the player's name, or use the <code v-pre>/id</code> command to view the id of all players.</p>
 <ul>
-<li>Max:
+<li>Max
 <ul>
 <li>Set the Maximum Amount of Councillors that can be in a match</li>
 </ul>
 </li>
-<li>Maximum Meeting Kills
+<li>Kill Cooldown:
 <ul>
-<li>Set the Maximum amount of kills a Councillor can perform in a meeting</li>
+<li>Set the Councillor's Kill Cooldown</li>
+</ul>
+</li>
+<li>Maximum Meeting Kills Per Game
+<ul>
+<li>Set the Maximum amount of meeting kills a Councillor can perform in a game</li>
 </ul>
 </li>
 <li>Can Murder Madmates

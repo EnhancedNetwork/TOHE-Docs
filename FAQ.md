@@ -7,13 +7,13 @@ title: Frequently Asked Questions
 
 ## How to install mod on mobile phones, tablets, and Apple
 
-Only Windows can install mods. If you have no Windows, you don’t need to worry, the Host-only mods such as TOHE, TOH, TOHR, TOHY, SHR, etc. are all compatible with the vanilla. You can find the lobbys of these mods to join and play.
+Only Windows can install mods. If you have no Windows, you don’t need to worry, the Host-only mods such as TOHE, TOH, TOHR, TOHY, SHR, etc. are all compatible with the vanilla. You can find the lobbies of these mods to join and play.
 
 ## You have been kicked by room
 
 It may be because the room prohibits sending messages such as forbidden words and reminders to start. Or ban players who are not logged in, have illegal nicknames, have been banned, and have Android systems. It may also be kicked out by EAC anti-cheat. If none of the above is true, you will be kicked out manually by the host or voted anonymously by other players.
 
-## You have been kicked by Among Us official anti-cheating
+## You have been kicked by Among Us' official anti-cheat
 
 The official Among Us anti-cheat system often treats mods as cheats and kicks you out of the game. This situation is unavoidable, and all Host-only mods have this problem. If you still want to enter this lobby to play, you can only contact the host to reopen the lobby.
 
@@ -27,11 +27,11 @@ If you find that other people can play normally, there are two possibilities:
 
 ## Unable to connect to your Among Us account
 
-AFK, bad network, or VPN changing or instability may also cause this problem. The solution is to restart the game, restart the VPN or restart the computer.
+AFK, bad network, or VPN changing or instability may also cause this problem. The solution is to restart the game, restart the VPN, or restart the computer.
 
 ## An unknown error has occurred and your connection to the server has been interrupted
 
-Unfortunately, this is a disconnection caused by a mod error or server error. If possible, please send the log to dev to solve the problem as soon as possible. Of course this does not rule out your network reasons.
+Unfortunately, this is a disconnection caused by a mod error or server error. If possible, please send the log to dev to solve the problem as soon as possible. Of course, this does not rule out your network reasons.
 
 ## The mod file is damaged, please restart the game or reinstall the mod
 
@@ -44,7 +44,7 @@ There are two possibilities:
 ## After installing the mod, it is still the vanilla
 
 1. This may be caused by your antivirus software identifying the mod as a virus and automatically deleting it. Please try to close the antivirus software and reinstall it.
-2. Please make sure that your game path does not contain any non-english, any characters other than English and numbers in the path may cause the mod to fail to load.
+2. Please make sure that your game path does not contain any non-English, any characters other than English and numbers in the path may cause the mod to fail to load.
 
 ## How to get the log file
 
@@ -60,25 +60,25 @@ Please restart the game.
 
 ## The meeting cannot be ended, and the lower left corner displays an error: Please terminate the meeting manually
 
-This is due to some bugs in the conference billing that prevent the conference from ending normally. Please press <kbd>Shift</kbd> + <kbd>M</kbd> + <kbd>Enter</kbd> to end the conference forcefully. If possible, please send the log file to dev to solve the problem as soon as possible.
+This is due to some bugs in the conference billing that prevent the conference from ending normally. Please press <kbd>Shift</kbd> + <kbd>M</kbd> + <kbd>Enter</kbd> to end the conference forcefully. If possible, please send the log file to the dev to solve the problem as soon as possible.
 
-## I am a Crewmate, but the opening shows that I am a Impostor
+## I am a Crewmate, but the opening shows that I am an Impostor
 
-In order to be compatible with the vanilla, Host-only mods have to give you a Impostor role so that you can have the kill button. So for players who don't have the mod installed, you will see that you are an Impostor with no teammates. Please refer to the name on your head.
+In order to be compatible with the vanilla, Host-only mods have to give you an Impostor role so that you can have the kill button. So for players who don't have the mod installed, you will see that you are an Impostor with no teammates. Please refer to the name on your head.
 
 ## What are the Host-only mods
 
-H refers to Host, which is a mod that is compatible with the original version. It only needs to be installed by the host, and other players can play without installing the mod. In order to be compatible with the original version, the H-series mods have many functions and roles that cannot be realized. Even if they are realized, the way of realization is very strange. For example, the sheriff is shown as a Impostor, and the instructions of gambling monsters cannot be hidden.
+H refers to Host, which is a mod that is compatible with the original version. It only needs to be installed by the host, and other players can play without installing the mod. In order to be compatible with the original version, the H-series mods have many functions and roles that cannot be realized. Even if they are realized, the way of realization is very strange. For example, the sheriff is shown as an Impostor, and the instructions of gambling monsters cannot be hidden.
 
 ## The game ends inexplicably
 
-Game ends suddenly, If there are still imps alive and the victory conditions of the neutrals are not met. There are two possibilities:
+The game will end suddenly if there are still impostors alive and the victory conditions of the neutrals are not met. Two other may include possibilities:
 
 1. You have turned on the option "Ghost ignores tasks", if the only crew who did not complete the tasks dies suddenly, it will be considered a task win for the crew.
 
 2. You have turned on the option "No Voting/Skipping Voting is tantamount to suicide". After the meeting, most players will die, and then the game will be judged to be over.
 
-3. The host or a certain player made a fatal error, and the mod forcibly ended the game to prevent the game from stucking.
+3. The host or a certain player made a fatal error, and the mod forcibly ended the game to prevent the game from freezing.
 
 ## Just after the start, it shows that the host has forced the end of the game
 
@@ -86,15 +86,15 @@ There is a bug in the H-series mod that fails to assign roles. When the bug occu
 
 ## Most of the screen is black, but the sound can be heard and there is a setting button
 
-A situation that may suddenly appear at the beginning or during the game. Most of the screen is black, only the top part of the screen is visible, the sound can be heard, and the setting button can be clicked, and the meeting will not be displayed.
+A situation that may suddenly appear at the beginning or during the game. Most of the screen is black, and only the top part of the screen is visible, the sound can be heard, and the setting button can be clicked, and the meeting will not be displayed.
 
 This is caused by the failure of the client to assign roles, and it is also one of the unavoidable problems of the H-series mods. Unfortunately, when this happens, you have to quit the game.
 
 ## The role I got is different from the one seen by /m, and the skill doesn't work
 
-This issue will occur if your mod is of a different version than the host, please make sure the host name is not red or yellow before starting the game. If yes, please exit the game and check if there is an update button in the lower left corner of the main menu, if not, please restart the game and check if there is a update button again. If it still doesn't then it's not your problem, it's the host who needs an update.
+This issue will occur if your mod is of a different version than the host, please make sure the hostname is not red or yellow before starting the game. If yes, please exit the game and check if there is an update button in the lower-left corner of the main menu, if not, please restart the game and check if there is an update button again. If it still doesn't then it's not your problem, it's the host who needs an update.
 
-## There are a lot of duplicate characters in the game without setting
+## There are a lot of duplicate characters in the game without a setting
 
 Don't worry, we don't have this kind of bug, so please go to the settings and change the 15 max of this role back to 1 person.
 
@@ -104,4 +104,36 @@ Turn on the "Disable vanilla roles" option, and enable more roles.
 
 ## The game never ends
 
-Please turn off "No Game End" in settings.
+Two possibilities for this occurrence:
+You may have "No Game End" enabled in settings.
+If the cultist role is enabled:
+    - Please note that "Charmed" players DO KEEP THE GAME GOING! (If you have them set as "Cultist" rather than nothing)
+
+## There are incompatible roles in your role list - you way experience vanilla roles.
+You have conflicting roles enabled - If both a role and matching add-on are enabled.
+(They don't even have to be in the same game - just being enabled will change the role by default)
+The ROLE (Not add-on) will change into the following:
+Role = +, and Add-on = -
++ Lazy Guy
+- Lazy
+Turns into Crewmate
+ 
++ Luckey
+- Lucky
+Turns into Crewmate
+ 
++ Detective
+- Sleuth
+Turns into Crewmate
+ 
++ Super Star/Celebrity
+- Cyber
+Turns into Crewmate
+ 
++ Doctor
+- Autopsy
+Turns into Scientist
+ 
++ Mechanic
+- Repairman
+Turns into Engineer

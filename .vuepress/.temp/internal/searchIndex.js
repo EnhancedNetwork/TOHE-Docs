@@ -1130,6 +1130,20 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Fool",
+    "headers": [],
+    "path": "/options/Experimental/Addon/Fool.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "YouTuber",
+    "headers": [],
+    "path": "/options/Experimental/Addon/YouTuber.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Admirer",
     "headers": [],
     "path": "/options/Crewmates/Support/Admirer.html",
@@ -1312,20 +1326,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Fool",
-    "headers": [],
-    "path": "/options/Experimental/Addon/Fool.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "YouTuber",
-    "headers": [],
-    "path": "/options/Experimental/Addon/YouTuber.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Investigator",
     "headers": [],
     "path": "/options/Experimental/Crewmate/Investigator.html",
@@ -1417,83 +1417,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Collector",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Collector.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Cultist",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Cultist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Phantom",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Phantom.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pirate",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Pirate.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Provocateur",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Provocateur.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Revolutionist",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Revolutionist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Soul Collector",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/SoulCollector.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Terrorist",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Terrorist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vector",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Vector.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vulture",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Vulture.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Workaholic",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Workaholic.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Amnesiac",
     "headers": [],
     "path": "/options/Neutrals/Benign/Amnesiac.html",
@@ -1581,6 +1504,83 @@ export const searchIndex = [
     "title": "Witch",
     "headers": [],
     "path": "/options/Neutrals/Benign/Witch.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Collector",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Collector.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Cultist",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Cultist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Phantom",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Phantom.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Pirate",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Pirate.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Provocateur",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Provocateur.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Revolutionist",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Revolutionist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Soul Collector",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/SoulCollector.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Terrorist",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Terrorist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vector",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Vector.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vulture",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Vulture.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Workaholic",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Workaholic.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1963,6 +1963,20 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Crewpostor",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/Crewpostor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Parasite",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/Parasite.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Agent",
     "headers": [],
     "path": "/options/Impostors/Killing/Agent.html",
@@ -2113,20 +2127,6 @@ export const searchIndex = [
     "title": "Underdog",
     "headers": [],
     "path": "/options/Impostors/Killing/Underdog.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Crewpostor",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/Crewpostor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Parasite",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/Parasite.html",
     "pathLocale": "/",
     "extraFields": []
   },

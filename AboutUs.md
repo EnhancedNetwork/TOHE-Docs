@@ -38,6 +38,8 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**SHAAARKY**](https://github.com/SHAAARKY)：Role Coding
 
+[**Papercut**](https://github.com/lars-wu)：Role Coding
+
 [**水木年华**](#)：Document & Contact Support
 
 [**Mousse**](https://github.com/Sand-and-Beans)：Document

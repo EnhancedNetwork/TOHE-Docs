@@ -13,4 +13,4 @@ This allows you to see through shapeshifts and camouflages.
 * Max
   * Set the Maximum amount of Lookouts that can be in a match
 
-> From: TBD
+> Idea: [Dawson](#) & Coding: [Loonie Toons](https://github.com/Loonie-Toons)

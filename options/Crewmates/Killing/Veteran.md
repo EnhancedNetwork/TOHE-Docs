@@ -2,7 +2,7 @@
 lang: en-US
 title: Veteran
 prev: Sheriff
-next: Vigilante
+next: /options/settings/Crewmates.html
 ---
 
 # <font color="#a77738">🤺 <b>Veteran</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

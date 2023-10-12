@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Investigator
-prev: /options/settings/Experimental.html
+prev: Admirer
 next: Swapper
 ---
 
@@ -17,3 +17,5 @@ Depending on the settings, it'll be either sus/not sus or their exact role.
 * Reveal Mode
   * Role - Reveals the targets Role
   * Suspicion - Reveals is target is Sus or not (idk)
+
+> From: Project Lotus

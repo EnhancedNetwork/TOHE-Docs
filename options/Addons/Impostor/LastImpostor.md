@@ -13,5 +13,3 @@ This effect is given to the last surviving Impostor. Reduces their kill cooldown
   * Set the percentage that the Kill Cooldown of the Last Impostor gets reduced by
 
 > From: TOH
-
----

@@ -12,4 +12,4 @@ When the Dictator votes someone, the Meeting will ignore everyone else's votes a
 * Max
   * Set the Maximum amount of Dictators that can be in a match
 
-> From: TOH
+> From: TOHTOR

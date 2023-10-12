@@ -14,4 +14,4 @@ Only roles with a kill button can get this add-on. You have the longest kill ran
 * Spawn Chance
   * Set the percentage players have of getting Reach
 
-> From: Gurge44 & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> From: [Gurge44](#) & Coding: [KARPED1EM](https://github.com/KARPED1EM)

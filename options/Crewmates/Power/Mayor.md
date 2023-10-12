@@ -34,4 +34,4 @@ The Mayor receives extra votes. The Mayor may also get a Portable Meeting Button
       * Set the amount of Short Tasks the Mayor will receive
   * <font color=red>OFF</font>: the Mayor does the same amount of Tasks as anyone else
 
-> From: TOH
+> From: Town of Us: Reactivated

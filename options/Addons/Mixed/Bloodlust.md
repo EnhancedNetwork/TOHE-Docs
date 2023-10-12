@@ -18,3 +18,5 @@ Only assigned to crewmates with tasks.
   * Set the Maximum amount of Bloodlust that can be in a match
 * Spawn Chance
   * Set the percentage players have of getting Bloodlust
+
+> From: Project Lotus

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Telecommunication
-prev: Overseer
+prev: President
 next: /options/settings/Crewmates.html
 ---
 
@@ -18,4 +18,4 @@ As the Telecommunication, you are notified when anyone uses cameras, vitals, doo
   * <font color=green>ON</font>: the Telecommunication can vent
   * <font color=red>OFF</font>: the Telecommunication cannot vent
 
-> From: TBD
+> From: TOHY & Coding: [Yumenopai](https://github.com/Yumenopai)

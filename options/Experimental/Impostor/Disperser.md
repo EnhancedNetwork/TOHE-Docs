@@ -17,4 +17,4 @@ Note: the Disperser itself will not be teleported with shapeshift and players wh
 * Shapeshift Duration
   * Set how long the Disperser can use Shapeshift for
 
-> From: TBD
+> From: ToUR

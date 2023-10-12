@@ -22,4 +22,4 @@ If the Marshall completes all of their tasks, they will be revealed to the Crew.
       * Set how many Short Tasks the Marshall has to do
   * <font color=red>OFF</font>: the Marshall will have the same tasks as everyone else
 
-> From: BetterTOS Mod for Town of Salem 1
+> From: TOH+

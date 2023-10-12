@@ -23,3 +23,5 @@ Additionally, you can’t gain any new addons from the merchant.
 * <font color=#7f8c8d>Neutrals</font> can have Stubborn
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+
+> Idea: [Dailyhare](#) & Coding: [ryuk](#)

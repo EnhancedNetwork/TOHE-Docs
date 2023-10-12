@@ -5,10 +5,10 @@ prev: Impostors
 next: Neutrals
 ---
 
-# <font color="#8cffff">👨‍🚀 <b>Faction: Crewmate</b></font> <Badge text="Total: 59" type="tip" vertical="middle"/>
+# <font color="#8cffff">👨‍🚀 <b>Faction: Crewmate</b></font> <Badge text="Total: 60" type="tip" vertical="middle"/>
 ---
 
-<b>Focus on finding the <font color=red>Impostors</font> and completing tasks. These roles very simple, making it easier for new players and the <font color=#8cffff>Crewmates</font> to win.</b>
+<b>Focus on finding the <font color=red>Impostors</font> and completing tasks. These roles are very simple, making it easier for new players and the <font color=#8cffff>Crewmates</font> to win.</b>
 
 <table>
 <tr>
@@ -26,7 +26,7 @@ next: Neutrals
 
 <tr>
 <td><font color=#d4af37><b>Power</b></font></td>
-<td align="center">9</td>
+<td align="center">10</td>
 </tr>
 
 <tr>
@@ -44,12 +44,12 @@ next: Neutrals
 
 ### <font color=#b22222><b>Killing</b></font>
 ---
-[Bastion](/options/Crewmates/Killing/Bastion.html) | [Bodyguard](/options/Crewmates/Killing/Bodyguard.html) | [Crusader](/options/Crewmates/Killing/Crusader.html) | [Deceiver](/options/Crewmates/Killing/Deceiver.html) | [Jailer](/options/Crewmates/Killing/Jailer.html) | [Judge](/options/Crewmates/Killing/Judge.html) | [Knight](/options/Crewmates/Killing/Knight.html) | [Retributionist](/options/Crewmates/Killing/Retributionist.html) | [Reverie](/options/Crewmates/Killing/Reverie.html) | [Sheriff](/options/Crewmates/Killing/Sheriff.html) | [Veteran](/options/Crewmates/Killing/Veteran.html) | [Vigilante](/options/Crewmates/Killing/Vigilante.html)
+[Bastion](/options/Crewmates/Killing/Bastion.html) | [Bodyguard](/options/Crewmates/Killing/Bodyguard.html) | [Crusader](/options/Crewmates/Killing/Crusader.html) | [Deceiver](/options/Crewmates/Killing/Deceiver.html) | [Jailer](/options/Crewmates/Killing/Jailer.html) | [Judge](/options/Crewmates/Killing/Judge.html) | [Knight](/options/Crewmates/Killing/Knight.html) | [Nice Guesser](/options/Crewmates/Killing/NiceGuesser.html) | [Retributionist](/options/Crewmates/Killing/Retributionist.html) | [Reverie](/options/Crewmates/Killing/Reverie.html) | [Sheriff](/options/Crewmates/Killing/Sheriff.html) | [Veteran](/options/Crewmates/Killing/Veteran.html)
 <br>
 
 ### <font color=#d4af37><b>Power</b></font>
 ---
-[Copycat](/options/Crewmates/Power/Copycat.html) | [Dictator](/options/Crewmates/Power/Dictator.html) | [Guardian](/options/Crewmates/Power/Guardian.html) | [Lookout](/options/Crewmates/Power/Lookout.html) | [Marshall](/options/Crewmates/Power/Marshall.html) | [Mayor](/options/Crewmates/Power/Mayor.html) | [Monarch](/options/Crewmates/Power/Monarch.html) | [Overseer](/options/Crewmates/Power/Overseer.html) | [Telecommunication](/options/Crewmates/Power/Telecommunication.html)
+[Copycat](/options/Crewmates/Power/Copycat.html) | [Dictator](/options/Crewmates/Power/Dictator.html) | [Guardian](/options/Crewmates/Power/Guardian.html) | [Lookout](/options/Crewmates/Power/Lookout.html) | [Marshall](/options/Crewmates/Power/Marshall.html) | [Mayor](/options/Crewmates/Power/Mayor.html) | [Monarch](/options/Crewmates/Power/Monarch.html) | [Overseer](/options/Crewmates/Power/Overseer.html) | [President](/options/Crewmates/Power/President.html) | [Telecommunication](/options/Crewmates/Power/Telecommunication.html)
 <br>
 
 ### <font color=#7fffd4><b>Support</b></font>

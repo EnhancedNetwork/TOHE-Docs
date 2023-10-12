@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Gravestone
-prev: Glow
+prev: Ghoul
 next: Guesser
 ---
 
@@ -24,4 +24,4 @@ As the Gravestone, your role is revealed to everyone when you die.
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
 
-> From: TBD
+> Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)

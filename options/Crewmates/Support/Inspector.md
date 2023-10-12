@@ -42,4 +42,4 @@ Checking command: `/cp [player id 1] [player id 2]`<br>
       * Set the amount of Short Tasks the Inspector will receive
   * <font color=red>OFF</font>: the Inspector does the same amount of Tasks as anyone else
 
-> From: Parity Cop from Stellar Roles & Coding: [ryuk](#)
+> From: Stellar Roles & Coding: [ryuk](#)

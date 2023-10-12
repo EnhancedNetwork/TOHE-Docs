@@ -2,7 +2,7 @@
 lang: en-US
 title: Knight
 prev: Judge
-next: Retributionist
+next: NiceGuesser
 ---
 
 # <font color="#7a7a7a">⚔️ <b>Knight</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

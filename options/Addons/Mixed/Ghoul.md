@@ -2,7 +2,7 @@
 lang: en-US
 title: Ghoul
 prev: Diseased
-next: Glow
+next: Gravestone
 ---
 
 # <font color=#ff0000>👻 <b>Ghoul</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
@@ -17,4 +17,4 @@ Only assigned to crewmates, and not crewmates with no tasks or are task based.
 * Spawn Chance
   * Set the percentage players have of getting Ghoul
 
-> From: TBD
+> From: TOHEX

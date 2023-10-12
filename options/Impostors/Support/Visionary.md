@@ -10,7 +10,7 @@ next: /options/settings/Impostors.html
 
 As the Visionary, you see the alignments of living players during a meeting.<br>
 The following info will be displayed on the player:<br>
-\- The Red red indicates the Impostors.<br>
+\- The Red star indicates the Impostors.<br>
 \- The Cyan star indicates the Crewmates.<br>
 \- The Gray star indicates the Neutrals.
 * Max
@@ -20,4 +20,4 @@ The following info will be displayed on the player:<br>
 Visionary was originally called Parasight and was an Add-on for Impostors.
 :::
 
-> From: TBD
+> From: Idea & Coding: [LoonieToons](https://github.com/Loonie-Toons)

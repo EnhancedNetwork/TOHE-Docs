@@ -17,4 +17,4 @@ Only <font color=red>Impostor</font> can become Mimic. When the Mimic is dead, o
   * <font color=green>ON</font>: Mimic can see the roles of dead players
   * <font color=red>OFF</font>: Mimic cannot see the roles of dead players
 
-> From: ：3 & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)

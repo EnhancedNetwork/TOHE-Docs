@@ -21,4 +21,4 @@ Nemesis cannot kill if their <font color=red>Impostor</font> teammate is alive. 
       * Set how long the Nemesis will stay in their Shapeshift form until they unshift
   * <font color=red>OFF</font>: the Nemesis will work as the TOHE version
 
-> From: IDK
+> From: TOH (Mafia)

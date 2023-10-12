@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Retributionist
-prev: Knight
+prev: NiceGuesser
 next: Reverie
 ---
 

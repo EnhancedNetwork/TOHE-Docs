@@ -14,3 +14,5 @@ Speaking by the blackmailed player will trigger the confusion command, please do
   * Set the Maximum amount of Blackmailers that can be in a match
 * Blackmail Cooldown
   * Set how long the Blackmailer has to wait to blackmail a player
+
+> From: ToUR & Coding: [LezaiYa](https://github.com/LezaiYa)

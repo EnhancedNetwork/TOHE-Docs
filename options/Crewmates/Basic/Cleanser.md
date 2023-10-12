@@ -20,4 +20,4 @@ Cleanser can vote for any target at the meeting to erase the target's Add-ons. T
   * <font color=green>ON</font>: the Cleansed players vote will be hidden
   * <font color=red>OFF</font>: the Cleansed players vote will not be hidden
 
-> From: [ryuk](#)
+> Idea: [Raven](#) & Coding: [ryuk](#)

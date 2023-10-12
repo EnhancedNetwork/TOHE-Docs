@@ -12,4 +12,4 @@ Lazy Guy has one task. The Lazy Guy cannot be used as a minion for anyone. Such 
 * Max
   * Set the Maximum amount of Lazy Guys that can be in a match
 
-> From: [KARPED1EM](https://github.com/KARPED1EM) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)

@@ -60,8 +60,40 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**thewhiskas27**](https://github.com/Thewhiskas27)：Spanish Translator
 
-[**Dawson**](#)：Spanish Translator
+[**Dawson**](https://youtu.be/MTW4sIL9Dpw?si=LpHF7tX6Aj5WLwFD)：Spanish Translator
 
+
+## Credited Mods 
+
+[**Town Of Host Re-Edited**](https://github.com/Loonie-Toons/Re-Edited)：TOH: Enhanced is a continuation of TOH: Re-Edited.
+
+[**Town Of Host Edited**](https://github.com/KARPED1EM/TownOfHostEdited)：TOH: Re-Edited was a continuation of TOH: Edited.
+
+[**Town Of Host**](https://github.com/tukasa0001/TownOfHost)：The Original Town of Host Mod.
+
+[**Town Of Host Y**](https://github.com/Yumenopai/TownOfHost_Y)：Mutliple Ideas such as: AntiAdminer (Disruptor), CursedWolf, Workaholic, Greedier (Greedy), DarkHide (Wraith).
+
+[**Town Of Host: The Other Roles**](https://github.com/music-discussion/TownOfHost-TheOtherRoles)：MANY Role Ideas, also Exile Confirm, & Split RPC Pack.
+
+[**Town Of Plus**](https://github.com/tugaru1975/TownOfPlus)：Reference: Zoom.
+
+[**Town Of Host +**](https://github.com/Loonie-Toons/TownOfHostPlus)：Multiple Ideas such as: Marshall, Poisoner, Necroview, & Sidekick.
+
+[**Town Of Host Edited +**](https://github.com/Gurge44/TOHE_PLUS)：Multiple Ideas such as: Pyromaniac, Necromancer, Head Hunter (Huntsman), & Alchemist.
+
+[**Town Of Host Edited Xi**](https://github.com/TOHEX-Official/TownOfHostEdited-Xid)：Some Ideas such as: Swapper.
+
+[**Super New Roles**](https://github.com/SuperNewRoles/SuperNewRoles)：Reference: Credentials menu, Switch Horse Mode, Search Mod Game, & Custom Button.
+
+[**Revolutionary Host Roles**](https://github.com/sansaaaaai/Revolutionary-host-roles)：Reference: Modify settings menu.
+
+[**Project Lotus**](https://github.com/ImaMapleTree/Lotus)：Multiple Ideas such as: Crusader.
+
+[**Stellar Roles**](https://github.com/Mr-Fluuff/StellarRolesAU)：Multiple Ideas such as: Inspector (Parity Cop).
+
+[**Town of Us Reactivated**](https://github.com/eDonnes124/Town-Of-Us-R): Multiple Ideas such as: Witness (Detective), Medic, & Tracker.
+
+[**The Other Roles**](https://github.com/TheOtherRolesAU/TheOtherRoles): Multiple Ideas such as: Evil Guesser, Nice Guesser, and more included in TOH: TOR.
 
 ## About the Project Lead/Website Developer
 

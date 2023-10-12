@@ -22,4 +22,4 @@ The Witch can still control you.
   * <font color=green>ON</font>: <font color=#8cffff>Crewmate</font> based roles with tasks can receive Lazy
   * <font color=red>OFF</font>: <font color=#8cffff>Crewmate</font> based roles with tasks cannot receive Lazy
 
-> From: TBD
+> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)

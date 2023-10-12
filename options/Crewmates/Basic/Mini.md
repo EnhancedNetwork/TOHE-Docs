@@ -31,4 +31,4 @@ The mechanics for the Mini can differ whether or not it's an Evil Mini or a Nice
 [<font color="#dddddd">Nice Mini Settings</font>](./MiniNice.html)
 </center>
 
-> From: TBD
+> Idea & Coding: [LezaiYa](#)

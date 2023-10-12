@@ -19,4 +19,4 @@ The Medium can establish contact with a dead player after their dead body is rep
 * <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
   * Set the amount of Ability Uses a Medium gains with each Task completed (0.1 increments)
 
-> From: [KARPED1EM](https://github.com/KARPED1EM) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)

@@ -44,4 +44,4 @@ As the Repairman, you can fix most sabotages faster than other players.
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
 
-> From: TBD
+> From: TOH+ & Coding: [LoonieToons](https://github.com/Loonie-Toons/)

@@ -22,4 +22,4 @@ During the ability duration, the Time Master gains a time shield that protects t
 * <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
   * Set the amount of Ability Uses a Time Master gains with each Task completed (0.1 increments)
 
-> From: TBD
+> From: TOHEX

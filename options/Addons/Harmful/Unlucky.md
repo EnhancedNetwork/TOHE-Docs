@@ -33,4 +33,4 @@ As the Unlucky, doing tasks, killing, or venting has a chance to kill you.
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
 
-> From: TBD
+> From: TOHEX

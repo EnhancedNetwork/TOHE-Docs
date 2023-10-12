@@ -21,4 +21,4 @@ Cannot be assigned to <font color=#7f8c8d>Neutrals</font>.
   * <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become Loyal
   * <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become Loyal
 
-> From: TBD
+> Idea: [beep6604](#) & Coding: [Tommy-XL](https://github.com/Tommy-XL)

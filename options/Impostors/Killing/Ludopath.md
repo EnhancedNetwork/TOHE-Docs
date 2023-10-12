@@ -15,4 +15,4 @@ Minimum it can be is 1 second, while the maximum is your default kill cooldown.
 * Maximum kill cooldown
   * Set the Ludopath’s maximum kill cooldown
 
-> From: TBD
+> Idea: [Dawson](#) & Coding: [LoonieToons](https://github.com/Loonie-Toons)

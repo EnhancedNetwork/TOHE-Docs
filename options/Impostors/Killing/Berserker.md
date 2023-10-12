@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Berserker
-prev: Assassin
+prev: Arrogance
 next: Bomber
 ---
 
@@ -40,4 +40,5 @@ Bombed kills make your kills explode.
     * Level requirement for unlock
       * Set the level that the Berserker needs to reach to unlock this buff
   * <font color=red>OFF</font>: Berserker cannot unlock immortality even if they reach a certain level
+
 > From: TOHEX

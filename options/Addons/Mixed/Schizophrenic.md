@@ -22,4 +22,4 @@ next: Stubborn
   * <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
 
 
-> From: [KARPED1EM](https://github.com/KARPED1EM) &  Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)

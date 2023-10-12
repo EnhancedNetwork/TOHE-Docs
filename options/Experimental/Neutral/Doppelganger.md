@@ -15,3 +15,5 @@ Note:- You can not steal the identity of the target when Camouflage is active.
   * Set how many times the Doppelganger can steal the identities of players
 * Kill Cooldown
   * Set the Doppelgangers Kill Cooldown
+
+> Idea: [thewhiskas27](#) & Coding: [ryuk](#)

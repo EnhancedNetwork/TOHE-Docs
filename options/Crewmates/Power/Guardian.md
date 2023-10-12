@@ -22,4 +22,4 @@ If you complete all of your Tasks, you become immortal. This includes being Kill
       * Set how many Short Tasks the Guardian has to do
   * <font color=red>OFF</font>: the Guardian will have the same tasks as everyone else
 
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: SLE & Coding: [SolarFlare](#)

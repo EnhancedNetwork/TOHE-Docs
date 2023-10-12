@@ -14,4 +14,4 @@ As the Witness, when you use your kill button on someone, you will know if they 
 * Max Time after killing where killer appears red
   * Set the amount of time after a kill where the killer will appear red to the Witness
 
-> From: TBD
+> From: ToUR (Detective) & Coding: [Gurge44](#)

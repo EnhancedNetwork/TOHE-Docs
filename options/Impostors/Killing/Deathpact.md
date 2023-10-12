@@ -2,7 +2,7 @@
 lang: en-US
 title: Deathpact
 prev: CursedWolf
-next: Greedy
+next: EvilGuesser
 ---
 
 # <font color=red>🩸 Deathpact</font> <Badge text="Killing" type="tip" vertical="middle"/>

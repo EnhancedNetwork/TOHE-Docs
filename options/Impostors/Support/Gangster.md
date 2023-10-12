@@ -37,4 +37,4 @@ The Gangster can attempt to recruit a player to a Madmate by pressing the kill b
   * <font color=green>ON</font>: this role can become a Madmate if the Gangster interacts with it
   * <font color=red>OFF</font>: this role cannot become a Madmate from Gangster interacting with it
 
-> From: [KARPED1EM](https://github.com/KARPED1EM) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)

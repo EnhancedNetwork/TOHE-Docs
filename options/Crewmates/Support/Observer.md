@@ -12,4 +12,4 @@ The Observer can see all shield animations caused by other players after the fir
 * Max
   * Set the Maximum amount of Observers that can be in a match
 
-> From: [KARPED1EM](https://github.com/KARPED1EM) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)

@@ -35,4 +35,4 @@ You can see the player's id before the player's name, or use the `/id` command t
   * <font color=green>ON</font>: the mod will attempt to hide the guesser’s command so they don’t reveal themself
   * <font color=red>OFF</font>: the mod will not hide the guesser’s command
 
-> From: TBD
+> From: TheOtherRoles, Coding: [KARPED1EM](https://github.com/KARPED1EM)

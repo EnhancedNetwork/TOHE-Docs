@@ -20,4 +20,4 @@ You win with other crewmates.
 * Minimum Kill Cooldown
   * Set the lowest the Reverie's kill cooldown can be
 
-> From: TBD
+> Rework Idea: [Pyro](#), Original Idea & Coding: [TronAndRey](#)

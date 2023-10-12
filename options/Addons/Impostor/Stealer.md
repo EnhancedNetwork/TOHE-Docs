@@ -16,4 +16,4 @@ Only <font color=red>Impostor</font> other than Bombers and Booby Traps will bec
 * Votes Increase Amount Per Kill
   * Set how much the Stealers votes increase after a kill.
 
-> From: idk & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)

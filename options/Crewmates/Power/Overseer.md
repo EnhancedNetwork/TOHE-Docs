@@ -2,7 +2,7 @@
 lang: en-US
 title: Overseer
 prev: Monarch
-next: Telecommunication
+next: President
 ---
 
 # <font color="#ba55d3">👁️ <b>Overseer</b></font> <Badge text="Power" type="tip" vertical="middle"/>

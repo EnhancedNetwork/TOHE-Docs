@@ -41,4 +41,4 @@ Depending on the host's settings, the Medic or the target can see if the player 
 Medic was reworked as of Canary Build 1 (2.5.1_1), previously it was based on [KARPED1EM](https://github.com/KARPED1EM)'s code, but now it's based on Town of Us Reactivated
 :::
 
-> From: Town of Us Reactivated & Coding: [Tommy-XL](https://github.com/Tommy-XL)
+> From: ToUR & Coding: [Tommy-XL](https://github.com/Tommy-XL)

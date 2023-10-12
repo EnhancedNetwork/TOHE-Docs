@@ -16,4 +16,4 @@ Cleaner can press the Report button to clean up any Dead Bod they see. If the cl
 * Kill Cooldown on Clean
   * Set what the Cleaner's Kill Cooldown is after cleaning a body
 
-> From: idk & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)

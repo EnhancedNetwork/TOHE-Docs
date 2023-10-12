@@ -19,4 +19,4 @@ The Lightning cannot do regular kills. After the Lightning uses their kill butto
   * <font color=green>ON</font>: The Lightning can become a Quantum Ghost
   * <font color=red>OFF</font>: The Lightning cannot become a Quantum Ghost
 
-> From: TBD
+> Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)

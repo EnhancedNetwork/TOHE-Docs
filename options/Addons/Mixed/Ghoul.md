@@ -17,4 +17,4 @@ Only assigned to crewmates, and not crewmates with no tasks or are task based.
 * Spawn Chance
   * Set the percentage players have of getting Ghoul
 
-> From: TBD
+> From: TOHEX

@@ -23,3 +23,5 @@ Use this power to catch sneaky killers!
   * Set the amount of Ability Uses a Lighter has at the start of the game
 * <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
   * Set the amount of Ability Uses a Lighter gains with each Task completed (0.1 increments)
+
+> From: TOR & Coding: [Gurge44](#)

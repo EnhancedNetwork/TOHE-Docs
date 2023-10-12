@@ -68,4 +68,4 @@ Lazy Guy, Celebrity can't become Madmate. Sheriff, Snitch, Vigilante, Mayor, and
   * <font color=red>OFF</font>: this role cannot become Madmate
 </details>
 
-> From: [KARPED1EM](https://github.com/KARPED1EM) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)

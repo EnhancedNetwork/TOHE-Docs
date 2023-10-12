@@ -26,4 +26,5 @@ Lovers are a combination of two players. The Lovers wins when only the Lovers is
 * <font color=#8cffff>Crewmates</font> can be in love
   * <font color=green>ON</font>: Crewmates can become Lovers
   * <font color=red>OFF</font>: Crewmates cannot become Lovers
+  
 > From: TOH

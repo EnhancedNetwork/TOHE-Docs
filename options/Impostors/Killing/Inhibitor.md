@@ -15,4 +15,4 @@ Inhibitor cannot kill during Sabotages.
 * Kill Cooldown
   * Set how long the Inhibitor needs to wait to perform a kill
 
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: Idea & Coding: [LoonieToons](https://github.com/Loonie-Toons)

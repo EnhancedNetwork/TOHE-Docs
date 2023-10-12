@@ -11,4 +11,5 @@ next: Tracefinder
 You see the total number of tasks completed by everyone all together next to your role name, which updates in real time.
 * Max
   * Set the Maximum amount of Task Managers that can be in a match
-> From: TBD
+
+> From: TOHY

@@ -17,4 +17,4 @@ If that player gets attacked, you'll kill the attacker.
 * Maximum Crusades
   * Set the maximum amount of crusades the Crusader can use in a game
 
-> From: TBD
+> From: Project Lotus

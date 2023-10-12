@@ -17,3 +17,5 @@ Only assigned to killers
   * Set the chance of a Clumsy spawning
 * Chance to miss a kill
   * Set the chance of a Clumsy missing a kill
+
+> From: [Ciredm](#) & Coding: [Loonie Toons](https://github.com/Loonie-Toons)

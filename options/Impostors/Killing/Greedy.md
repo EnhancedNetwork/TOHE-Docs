@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Greedy
-prev: Deathpact
+prev: EvilGuesser
 next: Hangman
 ---
 

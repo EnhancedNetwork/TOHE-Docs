@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Chameleon
-prev: Admirer
+prev: /options/settings/Crewmates.html
 next: Coroner
 ---
 

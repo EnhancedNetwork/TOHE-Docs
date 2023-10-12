@@ -17,3 +17,5 @@ Catching self-reports, extra intel on body age, etc.
   * Set how long the Scientist has to wait to use Vitals
 * Vitals Duration
   * Set how long the Scientist can use Vitals for at a time
+
+> From: Innersloth

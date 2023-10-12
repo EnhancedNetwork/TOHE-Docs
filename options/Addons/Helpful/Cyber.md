@@ -35,3 +35,5 @@ Additionally, your death will be known.
 * Everyone can see Cyber: 
   * <font color=green>ON</font>: a <font color=#f46f4e>orange</font> star will appear next to the Cyber’s name
   * <font color=red>OFF</font>: the Cyber remains secret
+
+> From: Idea & Coding: [LoonieToons](https://github.com/Loonie-Toons/)

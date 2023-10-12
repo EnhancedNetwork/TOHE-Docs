@@ -24,3 +24,5 @@ As the Sunglasses, your vision is reduced.
 * <font color=#7f8c8d>Neutrals</font> can become Sunglasses
   * <font color=green>ON</font>: Neutrals can become Sunglasses
   * <font color=red>OFF</font>: Neutrals cannot become Sunglasses
+
+> From: [Jackler1](#) & Coding: [Loonie Toons](https://github.com/Loonie-Toons)

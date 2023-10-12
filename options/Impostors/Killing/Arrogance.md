@@ -2,7 +2,7 @@
 lang: en-US
 title: Arrogance
 prev: Agent
-next: Assassin
+next: Berserker
 ---
 
 # <font color=red>👑 Arrogance</font> <Badge text="Killing" type="tip" vertical="middle"/>

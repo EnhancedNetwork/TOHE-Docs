@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Admirer
-prev: /options/settings/Crewmates.html
-next: Chameleon
+prev: /options/settings/Experimental.html
+next: Investigator
 ---
 
-# <font color="#ee43c3">💞 <b>Admirer</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#ee43c3">💞 <b>Admirer</b></font> <Badge text="Crewmate" type="tip" vertical="middle"/>
 ---
 
 As the Admirer, admire a player to make them crewmate aligned.<br>
@@ -19,4 +19,4 @@ You can only do this once.
   * <font color=green>ON</font>: the Admirer will know the role of the player they Admire
   * <font color=red>OFF</font>: the Admirer will not know the role of the player they Admire
 
-> From: TBD
+> From: Town of Salem II & Coding: [Loonie Toons](https://github.com/Loonie-Toons)

@@ -31,4 +31,4 @@ When the Crewpostor does a Task, they will kill the player closest to them. (Dep
       * Amount of Short Tasks for Crewpostor
         * Set how many Short Tasks the Crewpostor will receive
 
-> From: IDK
+> From: TOH:TOR

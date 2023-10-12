@@ -14,4 +14,4 @@ As the Swift, your kills will not cause you to lunge.
 * Spawn Chance
   * Set the percentage players have of getting Swift
 
-> From: TBD
+> From: TOHEX

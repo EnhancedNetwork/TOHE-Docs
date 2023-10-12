@@ -22,4 +22,5 @@ Note: You cannot swap yourself.
 * Try to hide Swapper's command
   * <font color=green>ON</font>: The mod will attempt to hide the Swapper’s commands
   * <font color=red>OFF</font>: The mod will not care to hide the Swapper’s commands
-> From: TBD
+
+> From: TOHEX

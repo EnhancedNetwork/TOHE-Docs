@@ -33,5 +33,5 @@ each update that comes</p>
 <p>Please keep in mind that we are still in the Canary (Beta) phase, so not everything is optimized/stable.
 We ask for your patience while we continue to make TOH: <i>Enhanced</i></p>
 <p>Ultimately, we thank you for your patience while we continue to update the mod. TOHE & TOHRE will be remembered with the new name Town of Host: Enhanced!</p>
-<p>Thanks Pyro for your help with the website! - Moe</p>
+<p>Thanks Pyro for your help with the website! - Moe</p><br>
 <p>No Problem! Now uh.. When am I getting paid? - Pyro</p>

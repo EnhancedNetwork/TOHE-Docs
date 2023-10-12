@@ -40,6 +40,8 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**水木年华**](#)：Document & Contact Support
 
+[**Papercut**](https://github.com/lars-wu)：Role Coding
+
 [**Mousse**](https://github.com/Sand-and-Beans)：Document
 
 [**Тоха**](#)：Russian Translator

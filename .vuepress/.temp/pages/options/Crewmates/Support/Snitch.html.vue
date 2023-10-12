@@ -10,17 +10,19 @@
 <li>See Arrow Towards Target
 <ul>
 <li>
-<font color=green>ON</font>: the Snitch will see a small arrow that points towards the killer(s)</li>
-<li>
-<font color=red>OFF</font>: the Snitch will not know of the killer's location</li>
-</ul>
-</li>
+<font color=green>ON</font>: the Snitch will see a small arrow that points towards the killer(s)<ul>
 <li>See Colored Arrows based on Team Colors
 <ul>
 <li>
 <font color=green>ON</font>: the Snitch will see Red Arrows for Impostors, and Gray for Neutrals</li>
 <li>
 <font color=red>OFF</font>: the Snitch will see Same-Colored Arrows for <font color=red>Impostors</font> and Neutrals</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<font color=red>OFF</font>: the Snitch will not know of the killer's location</li>
 </ul>
 </li>
 <li>Can find <font color=#7f8c8d>Neutral</font> Killers

@@ -7,7 +7,7 @@
 <li>Set the Maximum amount of Fortune Tellers that can be in a match</li>
 </ul>
 </li>
-<li>Max number of Ability uses
+<li>Max number of ability uses
 <ul>
 <li>Set the amount of times the Fortune Teller can use their Ability</li>
 </ul>
@@ -18,6 +18,14 @@
 <font color=green>ON</font>: the Fortune Teller can see players Specific Roles even without Task completion</li>
 <li>
 <font color=red>OFF</font>: the Fortune Teller has to complete their Tasks to see Specific Roles</li>
+</ul>
+</li>
+<li>Know specific roles on Task Completion
+<ul>
+<li>
+<font color=green>ON</font>: the Fortune Teller can see players Specific Roles on Task Completion</li>
+<li>
+<font color=red>OFF</font>: the Fortune Teller cannot see players Specific Roles on Task Completion</li>
 </ul>
 </li>
 <li>Hide Fortune Teller Votes

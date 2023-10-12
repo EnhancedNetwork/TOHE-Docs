@@ -28,6 +28,11 @@
 <font color=red>OFF</font>: the Trackers votes will be shown as normal</li>
 </ul>
 </li>
+<li>
+<font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font><ul>
+<li>Set the amount of Ability Uses a Tracker gains with each Task completed (0.1 increments)</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: Town of Us Reactivated</p>

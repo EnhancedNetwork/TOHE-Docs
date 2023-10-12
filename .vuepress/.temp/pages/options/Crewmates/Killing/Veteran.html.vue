@@ -24,7 +24,7 @@
 </li>
 <li>
 <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font><ul>
-<li>Set the amount of Grenades a Grenadier gains with each Task completed (0.1 increments)</li>
+<li>Set the amount of Alerts a Veteran gains with each Task completed (0.1 increments)</li>
 </ul>
 </li>
 </ul>

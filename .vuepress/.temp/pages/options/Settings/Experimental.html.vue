@@ -29,15 +29,15 @@
 <br></p>
 <h3 id="crewmate" tabindex="-1"><a class="header-anchor" href="#crewmate" aria-hidden="true">#</a> <font color=#8cffff><b>Crewmate</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Experimental/Crewmate/Swapper.html">Swapper</RouterLink>
+<p><RouterLink to="/options/Experimental/Crewmate/Investigator.html">Investigator</RouterLink> | <RouterLink to="/options/Experimental/Crewmate/Swapper.html">Swapper</RouterLink>
 <br></p>
 <h3 id="impostor" tabindex="-1"><a class="header-anchor" href="#impostor" aria-hidden="true">#</a> <font color=red><b>Impostor</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Experimental/Impostor/Butcher.html">Butcher</RouterLink> | <RouterLink to="/options/Experimental/Impostor/Disperser.html">Disperser</RouterLink> | <RouterLink to="/options/Experimental/Impostor/Eraser.html">Eraser</RouterLink> | <RouterLink to="/options/Experimental/Impostor/Hangman.html">Hangman</RouterLink> | <RouterLink to="/options/Experimental/Impostor/KillingMachine.html">Killing Machine</RouterLink> | <RouterLink to="/options/Experimental/Impostor/Lightning.html">Lightning</RouterLink> | <RouterLink to="/options/Experimental/Impostor/Zombie.html">Zombie</RouterLink>
+<p><RouterLink to="/options/Experimental/Impostor/Blackmailer.html">Blackmailer</RouterLink> | <RouterLink to="/options/Experimental/Impostor/Butcher.html">Butcher</RouterLink> | <RouterLink to="/options/Experimental/Impostor/Disperser.html">Disperser</RouterLink> | <RouterLink to="/options/Experimental/Impostor/Eraser.html">Eraser</RouterLink> | <RouterLink to="/options/Experimental/Impostor/Hangman.html">Hangman</RouterLink> | <RouterLink to="/options/Experimental/Impostor/KillingMachine.html">Killing Machine</RouterLink> | <RouterLink to="/options/Experimental/Impostor/Lightning.html">Lightning</RouterLink> | <RouterLink to="/options/Experimental/Impostor/Zombie.html">Zombie</RouterLink>
 <br></p>
 <h3 id="neutral" tabindex="-1"><a class="header-anchor" href="#neutral" aria-hidden="true">#</a> <font color=#7f8c8d><b>Neutral</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Experimental/Neutral/God.html">God</RouterLink> | <RouterLink to="/options/Experimental/Neutral/Spiritcaller.html">Spiritcaller</RouterLink>
+<p><RouterLink to="/options/Experimental/Neutral/Doppelganger.html">Doppelganger</RouterLink> | <RouterLink to="/options/Experimental/Neutral/God.html">God</RouterLink> | <RouterLink to="/options/Experimental/Neutral/Spiritcaller.html">Spiritcaller</RouterLink>
 <br></p>
 </div></template>
 

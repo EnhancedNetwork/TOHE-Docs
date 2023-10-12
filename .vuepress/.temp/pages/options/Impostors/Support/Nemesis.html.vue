@@ -7,19 +7,15 @@
 <li>Set the Maximum amount of Nemesis' that can be in a match.</li>
 </ul>
 </li>
-<li>Max revenges
+<li>Max number of revenges
 <ul>
-<li>Set the Maximum about of times the Nemesis can use their Revenge in meetings</li>
+<li>Set the Maximum amount of times the Nemesis can use their Revenge in meetings</li>
 </ul>
 </li>
 <li>Use Legacy Version
 <ul>
 <li>
-<font color=green>ON</font>: the Nemesis will act like Mafia in <a href="https://among-us.fandom.com/wiki/Mod:Town_Of_Host#Mafia" target="_blank" rel="noopener noreferrer">Classic Town of Host<ExternalLinkIcon/></a></li>
-<li>
-<font color=red>OFF</font>: the Nemesis will work as the TOHE version</li>
-</ul>
-</li>
+<font color=green>ON</font>: the Nemesis will act like Mafia in <a href="https://among-us.fandom.com/wiki/Mod:Town_Of_Host#Mafia" target="_blank" rel="noopener noreferrer">Classic Town of Host<ExternalLinkIcon/></a><ul>
 <li>Shapeshift Cooldown
 <ul>
 <li>Set how long the Nemesis has to wait to Shapeshift</li>
@@ -28,6 +24,12 @@
 <li>Shapeshift Duration
 <ul>
 <li>Set how long the Nemesis will stay in their Shapeshift form until they unshift</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<font color=red>OFF</font>: the Nemesis will work as the TOHE version</li>
 </ul>
 </li>
 </ul>

@@ -2,14 +2,9 @@
 <hr>
 <p>This effect is given to the last surviving Impostor. Reduces their kill cooldown.</p>
 <ul>
-<li>Max
+<li>Kill Cooldown Reduction
 <ul>
-<li>Set the Maximum amount of Last <font color=red>Impostors</font> that can be in a match</li>
-</ul>
-</li>
-<li>Spawn Chance
-<ul>
-<li>Set the percentage players have of getting Last Impostor</li>
+<li>Set the percentage that the Kill Cooldown of the Last Impostor gets reduced by</li>
 </ul>
 </li>
 </ul>

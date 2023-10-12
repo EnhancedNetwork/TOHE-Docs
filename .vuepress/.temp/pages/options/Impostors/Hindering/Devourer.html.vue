@@ -7,9 +7,9 @@
 <li>Set the Maximum amount of Devourers that can be in a match</li>
 </ul>
 </li>
-<li>Default kill cooldown
+<li>Starting kill cooldown
 <ul>
-<li>Set the Default kill cooldown for the Devourer</li>
+<li>Set the Starting kill cooldown for the Devourer</li>
 </ul>
 </li>
 <li>Reduce kill cooldown by

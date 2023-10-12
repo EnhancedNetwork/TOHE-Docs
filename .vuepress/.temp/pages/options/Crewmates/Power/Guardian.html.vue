@@ -1,14 +1,16 @@
 <template><div><h1 id="🛡️-guardian" tabindex="-1"><a class="header-anchor" href="#🛡️-guardian" aria-hidden="true">#</a> <font color="#2d8855">🛡️ <b>Guardian</b></font> <Badge text="Power" type="tip" vertical="middle"/></h1>
 <hr>
-<p>If you complete all of your Tasks, you become immortal. This includes being Killed, Guessed, Ejected, etc.
-Max: Set the Maximum amount of Guardians that can be in a match.</p>
+<p>If you complete all of your Tasks, you become immortal. This includes being Killed, Guessed, Ejected, etc.</p>
 <ul>
+<li>Max
+<ul>
+<li>Set the Maximum amount of Guardians that can be in a match.</li>
+</ul>
+</li>
 <li>Override Guardians’s Tasks
 <ul>
 <li>
-<font color=green>ON</font>: the Guardian will not have the same tasks as everyone else</li>
-<li>
-<font color=red>OFF</font>: the Guardian will have the same tasks as everyone else<ul>
+<font color=green>ON</font>: the Guardian will not have the same tasks as everyone else<ul>
 <li>Guardian has Common Tasks
 <ul>
 <li>
@@ -29,6 +31,8 @@ Max: Set the Maximum amount of Guardians that can be in a match.</p>
 </li>
 </ul>
 </li>
+<li>
+<font color=red>OFF</font>: the Guardian will have the same tasks as everyone else</li>
 </ul>
 </li>
 </ul>

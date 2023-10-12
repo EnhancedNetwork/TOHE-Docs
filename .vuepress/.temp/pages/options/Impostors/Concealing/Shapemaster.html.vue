@@ -9,7 +9,7 @@
 </li>
 <li>Shapeshift Duration
 <ul>
-<li>Set how long the Soul Catcher stays Shapeshifted for</li>
+<li>Set how long the Shapemaster stays Shapeshifted for</li>
 </ul>
 </li>
 </ul>

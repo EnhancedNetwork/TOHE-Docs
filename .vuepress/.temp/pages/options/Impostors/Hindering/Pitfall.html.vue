@@ -12,12 +12,17 @@
 <li>Set how long a Pitfall needs to wait to use their Ability</li>
 </ul>
 </li>
-<li>Number of Players that can be caught per trap
+<li>Number of Traps that can be set
 <ul>
-<li>Set how many players can be caught in a trap</li>
+<li>Set how many Traps the Pitfall can set down</li>
 </ul>
 </li>
-<li>Time the Trap Remains Active
+<li>Number of Players that can be caught per Trap
+<ul>
+<li>Set how many players can be caught in a Trap</li>
+</ul>
+</li>
+<li>Time the Trap remains active
 <ul>
 <li>Set how long the trap remains active</li>
 </ul>

@@ -10,17 +10,15 @@
 <li>Override Marshall’s Tasks
 <ul>
 <li>
-<font color=green>ON</font>: the Marshall will not have the same tasks as everyone else</li>
-<li>
-<font color=red>OFF</font>: the Marshall will have the same tasks as everyone else</li>
-</ul>
-</li>
+<font color=green>ON</font>: the Marshall will not have the same tasks as everyone else<ul>
 <li>Marshall has Common Tasks
 <ul>
 <li>
 <font color=green>ON</font>: the Marshall will have to do Common Tasks like everyone else</li>
 <li>
-<font color=red>OFF</font>: the Marshall doesn’t receive Common Tasks<ul>
+<font color=red>OFF</font>: the Marshall doesn’t receive Common Tasks</li>
+</ul>
+</li>
 <li>Amount of Long Tasks for Marshall
 <ul>
 <li>Set how many Long Tasks the Marshall has to do</li>
@@ -33,6 +31,8 @@
 </li>
 </ul>
 </li>
+<li>
+<font color=red>OFF</font>: the Marshall will have the same tasks as everyone else</li>
 </ul>
 </li>
 </ul>

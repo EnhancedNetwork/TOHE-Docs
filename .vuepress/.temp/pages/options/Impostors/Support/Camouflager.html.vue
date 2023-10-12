@@ -17,6 +17,22 @@
 <li>Set how long the Camouflage ability lasts for</li>
 </ul>
 </li>
+<li>Can use comms sabotage
+<ul>
+<li>
+<font color=green>ON</font>: the Camouflager can sabotage comms</li>
+<li>
+<font color=red>OFF</font>: the Camouflager cannot sabotage comms</li>
+</ul>
+</li>
+<li>Disable body reporting when camouflage is active
+<ul>
+<li>
+<font color=green>ON</font>: players cannot report bodies when Camouflager is camouflaged</li>
+<li>
+<font color=red>OFF</font>: players can report bodies when Camouflager is camouflaged</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: TheOtherRoles</p>

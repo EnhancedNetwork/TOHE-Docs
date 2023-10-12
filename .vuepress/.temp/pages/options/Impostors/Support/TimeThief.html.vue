@@ -4,8 +4,11 @@
 <ul>
 <li>Max
 <ul>
-<li>Set the Maximum amount of Time Thieves that can be in a match
-Kill Cooldown</li>
+<li>Set the Maximum amount of Time Thieves that can be in a match</li>
+</ul>
+</li>
+<li>Kill Cooldown
+<ul>
 <li>Set how long the Time Thief needs to wait to Kill</li>
 </ul>
 </li>

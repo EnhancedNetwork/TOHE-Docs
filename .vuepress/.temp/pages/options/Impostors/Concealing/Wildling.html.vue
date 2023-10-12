@@ -8,12 +8,12 @@ Max: Set the Maximum amount of Wildlings that can be in a match.</p>
 <li>Set how long the Wildling is invincible for after killing</li>
 </ul>
 </li>
-<li>Shapeshift cooldown
+<li>Shapeshift Cooldown
 <ul>
 <li>Set long the Wildling needs to wait to Shapeshift</li>
 </ul>
 </li>
-<li>Shapeshift duration
+<li>Shapeshift Duration
 <ul>
 <li>Set how long the Wildling stays Shapeshifted for</li>
 </ul>

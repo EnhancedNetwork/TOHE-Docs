@@ -4,7 +4,7 @@
 <p>If it is correct, the target dies, and if it is wrong, the Vigilante dies.</p>
 <p>The guessing command is <code v-pre>/bt [player ID] [Role]</code></p>
 <p>You can see the ID of player’s next to their name, or by typing <code v-pre>/id</code></p>
-<p>PS: You don’t need to worry about this if you have a TOHE Modded Client, as it includes a built-in Guesser GUI on Player Nameplates)</p>
+<p>(PS: You don’t need to worry about this if you have a TOHE Modded Client, as it includes a built-in Guesser GUI on Player Nameplates)</p>
 <ul>
 <li>Max
 <ul>

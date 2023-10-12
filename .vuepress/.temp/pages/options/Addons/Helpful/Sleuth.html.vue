@@ -1,4 +1,4 @@
-<template><div><h1 id="🕵️-sleuth" tabindex="-1"><a class="header-anchor" href="#🕵️-sleuth" aria-hidden="true">#</a> <font color="#191970">🕵️ Sleuth</font> <Badge text="Helpful" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="🕵️-sleuth" tabindex="-1"><a class="header-anchor" href="#🕵️-sleuth" aria-hidden="true">#</a> <font color="#843434">🕵️ <b>Sleuth</b></font> <Badge text="Helpful" type="tip" vertical="middle"/></h1>
 <hr>
 <p>As the Sleuth, you can gain info from dead bodies.<br><br>
 Optionally, you may also gain the killer's role.<br><br>

@@ -12,6 +12,25 @@
 <li>Set how long it takes for a Vampires target to die after being Bit by the Vampire.</li>
 </ul>
 </li>
+<li>Can Vent
+<ul>
+<li>
+<font color=green>ON</font>: Vampire can Vent</li>
+<li>
+<font color=red>OFF</font>: Vampire cannot Vent</li>
+</ul>
+</li>
+<li>
+<font color=yellow>(Hidden Role) Vampiress - Has a % Chance of replacing Vampire.</font><ul>
+<li>As the Vampiress, you bite players much like a Vampire. However, you can also kill normally.<br><br>
+Click once to bite.<br>
+Click twice to kill normally.
+<ul>
+<li>You must have “Disable Hidden Roles” toggled <font color=red>OFF</font> for this to have a chance to appear</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: TOH</p>

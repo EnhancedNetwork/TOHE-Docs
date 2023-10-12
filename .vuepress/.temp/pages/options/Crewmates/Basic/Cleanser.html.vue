@@ -12,12 +12,20 @@
 <li>Set the Maximum amount of cleanses a Cleanser can do</li>
 </ul>
 </li>
-<li>Cleansed player can get add on
+<li>Cleansed player can get Add-on
 <ul>
 <li>
 <font color=green>ON</font>: the Cleansed player can get add ons when cleansed</li>
 <li>
 <font color=red>OFF</font>: the Cleansed player cannot get add ons when cleansed</li>
+</ul>
+</li>
+<li>Hide Cleanser's vote
+<ul>
+<li>
+<font color=green>ON</font>: the Cleansed players vote will be hidden</li>
+<li>
+<font color=red>OFF</font>: the Cleansed players vote will not be hidden</li>
 </ul>
 </li>
 </ul>

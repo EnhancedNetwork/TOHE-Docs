@@ -218,7 +218,7 @@ export default ({
           ],
           '/options/Crewmates/Support/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
-            { text: 'Admirer', link: '/options/Crewmates/Support/Admirer.html' },
+            { text: '*Admirer', link: '/options/Crewmates/Support/Admirer.html' },
             { text: 'Chameleon', link: '/options/Crewmates/Support/Chameleon.html' },
             { text: 'Coroner', link: '/options/Crewmates/Support/Coroner.html' },
             { text: 'Deputy', link: '/options/Crewmates/Support/Deputy.html' },

@@ -93,7 +93,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: TOH+ &amp; Coding: <a href="https://github.com/Loonie-Toons/" target="_blank" rel="noopener noreferrer">LoonieToons<ExternalLinkIcon/></a></p>
 </blockquote>
 </div></template>
 

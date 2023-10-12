@@ -20,6 +20,9 @@ Catching self-reports, extra intel on body age, etc.</p>
 </ul>
 </li>
 </ul>
+<blockquote>
+<p>From: Innersloth</p>
+</blockquote>
 </div></template>
 
 

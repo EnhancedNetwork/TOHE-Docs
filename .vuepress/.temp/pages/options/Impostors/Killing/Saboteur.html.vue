@@ -17,7 +17,7 @@
 <p>This role was formerly a Hidden Role under <a href="Inhibitor">Inhibitor</a></p>
 </div>
 <blockquote>
-<p>From: Idea &amp; Coding: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">Loonie Toons<ExternalLinkIcon/></a></p>
+<p>Idea: <a href="#">Pyro</a> &amp; Coding: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">Loonie Toons<ExternalLinkIcon/></a></p>
 </blockquote>
 </div></template>
 

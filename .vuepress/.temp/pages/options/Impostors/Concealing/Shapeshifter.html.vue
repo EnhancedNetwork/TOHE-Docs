@@ -1,6 +1,7 @@
 <template><div><h1 id="🔷-shapeshifter" tabindex="-1"><a class="header-anchor" href="#🔷-shapeshifter" aria-hidden="true">#</a> <font color="red">🔷 Shapeshifter</font> <Badge text="Concealing" type="tip" vertical="middle"/></h1>
 <hr>
-<p>As the Shapeshifter, you have a shapeshifting ability which you may use to frame other crewmates.<br>Just be aware that there is an egg while shifting and the disguise is temporary.</p>
+<p>As the Shapeshifter, you have a shapeshifting ability which you may use to frame other crewmates.<br>
+Just be aware that there is an egg while shifting and the disguise is temporary.</p>
 <ul>
 <li>Max
 <ul>
@@ -18,6 +19,9 @@
 </ul>
 </li>
 </ul>
+<blockquote>
+<p>From: Innersloth</p>
+</blockquote>
 </div></template>
 
 

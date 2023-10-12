@@ -30,7 +30,9 @@ When someone tries to report a body you killed, they'll die.</p>
 * <font color=green>ON</font>: Bodies killed by the Trapster will trigger another trap on the player that reported them
 * <font color=red>OFF</font>: Bodies killed by the Trapster will not trigger another trap on the player that reported them</li>
 </ul>
-<p>From: TBD</p>
+<blockquote>
+<p>Idea &amp; Coding: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">LoonieToons<ExternalLinkIcon/></a> Original Idea: noclue</p>
+</blockquote>
 </div></template>
 
 

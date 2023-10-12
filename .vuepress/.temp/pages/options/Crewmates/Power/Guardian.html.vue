@@ -37,7 +37,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: Idea &amp; Coding: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">Loonie Toons<ExternalLinkIcon/></a></p>
+<p>From: SLE &amp; Coding: <a href="#">SolarFlare</a></p>
 </blockquote>
 </div></template>
 

@@ -11,7 +11,6 @@
 <blockquote>
 <p>From: TOH</p>
 </blockquote>
-<hr>
 </div></template>
 
 

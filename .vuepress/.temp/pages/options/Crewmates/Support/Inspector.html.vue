@@ -85,7 +85,7 @@ Checking command: <code v-pre>/cp [player id 1] [player id 2]</code><br></p>
 </li>
 </ul>
 <blockquote>
-<p>From: Parity Cop from Stellar Roles &amp; Coding: <a href="#">ryuk</a></p>
+<p>From: Stellar Roles &amp; Coding: <a href="#">ryuk</a></p>
 </blockquote>
 </div></template>
 

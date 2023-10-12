@@ -14,7 +14,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: ToUR (Detective) &amp; Coding: <a href="#">Gurge44</a></p>
 </blockquote>
 </div></template>
 

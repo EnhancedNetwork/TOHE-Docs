@@ -1,4 +1,4 @@
-<template><div><h1 id="🏃‍♂️-nimble" tabindex="-1"><a class="header-anchor" href="#🏃‍♂️-nimble" aria-hidden="true">#</a> <font color=#fffaa6>🏃‍♂️ <b>Nimble</b></font> <Badge text="Helpful" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="🔋-nimble" tabindex="-1"><a class="header-anchor" href="#🔋-nimble" aria-hidden="true">#</a> <font color=#fffaa6>🔋 <b>Nimble</b></font> <Badge text="Helpful" type="tip" vertical="middle"/></h1>
 <hr>
 <p>As the Nimble, you gain access to the vent ability.<br><br>
 Only assigned to <font color=#8cffff>Crewmates</font> that have an <font color=red>Impostor</font> basis.</p>

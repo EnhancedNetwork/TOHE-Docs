@@ -6,7 +6,7 @@ After every teleported kill you will freeze for a configurable amount of time.</
 <ul>
 <li>Max
 <ul>
-<li>Set the Maximum amount of Tricksters that can be in a match</li>
+<li>Set the Maximum amount of Undertakers that can be in a match</li>
 </ul>
 </li>
 <li>Kill Cooldown
@@ -25,6 +25,9 @@ After every teleported kill you will freeze for a configurable amount of time.</
 </ul>
 </li>
 </ul>
+<blockquote>
+<p>From: ToUR</p>
+</blockquote>
 </div></template>
 
 

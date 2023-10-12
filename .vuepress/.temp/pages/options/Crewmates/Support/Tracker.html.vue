@@ -35,7 +35,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: Town of Us Reactivated</p>
+<p>From: ToUR</p>
 </blockquote>
 </div></template>
 

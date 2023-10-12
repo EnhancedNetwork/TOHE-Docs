@@ -397,11 +397,15 @@
 <li>
 <font color=#ffff00>Host</font> - Everyone appears as the host's skin</li>
 <li>
-<font color=#ffc0cb>KARPED1EM</font> - Everyone appears as KARPED1EM's skin (the original creator of the mod)</li>
+<font color=#e3bacd>KARPED1EM</font> - Everyone appears as KARPED1EM's skin (the original creator of the mod)</li>
 <li>
-<font color=#6c2b3d>Loonie</font> - Everyone appears as Loonie's skin (the current maintainer of the mod)</li>
-<li>Lauryn - Everyone appears as Lauryn's skin (the web developer's girlfriend)</li>
-<li>Moe - Everyone appears as Moe's skin (the web developer)</li>
+<font color=#f5dbdf>Lauryn</font> - Everyone appears as Lauryn's skin (the project leads girlfriend)</li>
+<li>
+<font color=#ff8000>Moe</font> - Everyone appears as Moe's skin (the project lead)</li>
+<li>
+<font color=#ec7578>Pyro</font> - Everyone appears as Pyro's skin (the Website Assistant)</li>
+<li>
+<font color=#9e2424>ryuk</font> - Everyone appears as ryuk's skin (a lead contributor)</li>
 </ul>
 </li>
 </ul>

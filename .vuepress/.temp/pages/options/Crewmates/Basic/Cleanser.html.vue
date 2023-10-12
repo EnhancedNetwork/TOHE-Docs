@@ -30,7 +30,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: <a href="#">ryuk</a></p>
+<p>Idea: <a href="#">Raven</a> &amp; Coding: <a href="#">ryuk</a></p>
 </blockquote>
 </div></template>
 

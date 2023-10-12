@@ -26,7 +26,7 @@ You win with other crewmates.</p>
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>Rework Idea: <a href="#">Pyro</a>, Original Idea &amp; Coding: <a href="#">TronAndRey</a></p>
 </blockquote>
 </div></template>
 

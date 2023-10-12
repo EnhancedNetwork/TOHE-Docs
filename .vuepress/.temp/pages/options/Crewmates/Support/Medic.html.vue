@@ -64,7 +64,7 @@ Depending on the host's settings, the Medic or the target can see if the player 
 <p>Medic was reworked as of Canary Build 1 (2.5.1_1), previously it was based on <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a>'s code, but now it's based on Town of Us Reactivated</p>
 </div>
 <blockquote>
-<p>From: Town of Us Reactivated &amp; Coding: <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">Tommy-XL<ExternalLinkIcon/></a></p>
+<p>From: ToUR &amp; Coding: <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">Tommy-XL<ExternalLinkIcon/></a></p>
 </blockquote>
 </div></template>
 

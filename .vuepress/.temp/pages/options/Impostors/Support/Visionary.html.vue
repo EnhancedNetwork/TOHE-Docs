@@ -2,7 +2,7 @@
 <hr>
 <p>As the Visionary, you see the alignments of living players during a meeting.<br>
 The following info will be displayed on the player:<br>
-- The Red red indicates the Impostors.<br>
+- The Red star indicates the Impostors.<br>
 - The Cyan star indicates the Crewmates.<br>
 - The Gray star indicates the Neutrals.</p>
 <ul>
@@ -16,7 +16,7 @@ The following info will be displayed on the player:<br>
 <p>Visionary was originally called Parasight and was an Add-on for Impostors.</p>
 </div>
 <blockquote>
-<p>From: TBD</p>
+<p>From: Idea &amp; Coding: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">LoonieToons<ExternalLinkIcon/></a></p>
 </blockquote>
 </div></template>
 

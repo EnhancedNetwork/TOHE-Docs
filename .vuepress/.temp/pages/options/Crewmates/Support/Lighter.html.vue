@@ -35,6 +35,9 @@ Use this power to catch sneaky killers!</p>
 </ul>
 </li>
 </ul>
+<blockquote>
+<p>From: TOR &amp; Coding: <a href="#">Gurge44</a></p>
+</blockquote>
 </div></template>
 
 

@@ -20,7 +20,7 @@ If that player gets attacked, you'll kill the attacker.</p>
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: Project Lotus</p>
 </blockquote>
 </div></template>
 

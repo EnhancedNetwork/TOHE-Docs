@@ -1,4 +1,4 @@
-<template><div><h1 id="👨‍🚀-faction-neutral" tabindex="-1"><a class="header-anchor" href="#👨‍🚀-faction-neutral" aria-hidden="true">#</a> <font color="#7f8c8d">👨‍🚀 <b>Faction: Neutral</b></font> <Badge text="Total: 60" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="👨‍🚀-faction-neutral" tabindex="-1"><a class="header-anchor" href="#👨‍🚀-faction-neutral" aria-hidden="true">#</a> <font color="#7f8c8d">👨‍🚀 <b>Faction: Neutral</b></font> <Badge text="Total: 57" type="tip" vertical="middle"/></h1>
 <hr>
 <p><b>Play for yourself, and eliminate everyone around you. <font color=gray>Neutrals</font> can win alone, but they can also win with other players. Their victory conditions are different from other players. Each <font color=#7f8c8d>Neutral</font> player has a unique victory condition.</b></p>
 <div class="custom-container warning"><p class="custom-container-title">Note</p>
@@ -10,7 +10,7 @@
 </tr>
 <tr>
 <td><font color=#046300><b>Benign</b></font></td>
-<td align="center">13</td>
+<td align="center">11</td>
 </tr>
 <tr>
 <td><font color=#d4af37><b>Chaos</b></font></td>
@@ -22,7 +22,7 @@
 </tr>
 <tr>
 <td><font color=#b22222><b>Killing</b></font></td>
-<td align="center">29</td>
+<td align="center">28</td>
 </tr>
 </table>
 <br>

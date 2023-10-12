@@ -15,6 +15,9 @@ Note:- You can not steal the identity of the target when Camouflage is active.</
 </ul>
 </li>
 </ul>
+<blockquote>
+<p>Idea: <a href="#">thewhiskas27</a> &amp; Coding: <a href="#">ryuk</a></p>
+</blockquote>
 </div></template>
 
 

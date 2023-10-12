@@ -14,6 +14,9 @@ Speaking by the blackmailed player will trigger the confusion command, please do
 </ul>
 </li>
 </ul>
+<blockquote>
+<p>From: ToUR &amp; Coding: <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer">LezaiYa<ExternalLinkIcon/></a></p>
+</blockquote>
 </div></template>
 
 

@@ -70,6 +70,9 @@ Additionally, your death will be known.</p>
 </ul>
 </li>
 </ul>
+<blockquote>
+<p>From: Idea &amp; Coding: <a href="https://github.com/Loonie-Toons/" target="_blank" rel="noopener noreferrer">LoonieToons<ExternalLinkIcon/></a></p>
+</blockquote>
 </div></template>
 
 

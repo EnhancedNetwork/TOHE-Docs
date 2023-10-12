@@ -37,7 +37,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: BetterTOS Mod for Town of Salem 1</p>
+<p>From: TOH+</p>
 </blockquote>
 </div></template>
 

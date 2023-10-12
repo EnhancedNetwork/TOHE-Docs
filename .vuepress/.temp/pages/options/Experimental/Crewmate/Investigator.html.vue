@@ -20,6 +20,9 @@ Depending on the settings, it'll be either sus/not sus or their exact role.</p>
 </ul>
 </li>
 </ul>
+<blockquote>
+<p>From: Project Lotus</p>
+</blockquote>
 </div></template>
 
 

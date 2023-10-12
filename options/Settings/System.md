@@ -167,8 +167,10 @@ next: /Roles.html
     * Default - Everyone appears grey
     * <font color=#ffff00>Host</font> - Everyone appears as the host's skin
     * <font color=#e3bacd>KARPED1EM</font> - Everyone appears as KARPED1EM's skin (the original creator of the mod)
-    * <font color=#f5dbdf>Lauryn - Everyone appears as Lauryn's skin (the project leads girlfriend)
-    * <font color=#ff8000>Moe - Everyone appears as Moe's skin (the project lead)
+    * <font color=#f5dbdf>Lauryn</font> - Everyone appears as Lauryn's skin (the project leads girlfriend)
+    * <font color=#ff8000>Moe</font> - Everyone appears as Moe's skin (the project lead)
+    * <font color=#ec7578>Pyro</font> - Everyone appears as Pyro's skin (the Website Assistant)
+    * <font color=#9e2424>ryuk</font> - Everyone appears as ryuk's skin (a lead contributor)
 
 * <font color=cyan>Enable Youtuber Plan</font>
   * <font color=green>ON</font>: Host can use the command `/up [rolename]` to get the specified role on the next game - Requires Permissions

@@ -19,7 +19,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>Idea &amp; Coding: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">Loonie Toons<ExternalLinkIcon/></a></p>
 </blockquote>
 </div></template>
 

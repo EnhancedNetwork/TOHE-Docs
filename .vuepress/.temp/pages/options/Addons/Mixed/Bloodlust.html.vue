@@ -18,6 +18,9 @@ Only assigned to crewmates with tasks.</p>
 </ul>
 </li>
 </ul>
+<blockquote>
+<p>From: Project Lotus</p>
+</blockquote>
 </div></template>
 
 

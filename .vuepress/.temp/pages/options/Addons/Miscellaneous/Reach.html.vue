@@ -14,7 +14,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: Gurge44 &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>
+<p>From: <a href="#">Gurge44</a> &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>
 </blockquote>
 </div></template>
 

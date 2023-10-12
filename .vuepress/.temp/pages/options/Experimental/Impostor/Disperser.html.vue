@@ -20,7 +20,7 @@ Note: the Disperser itself will not be teleported with shapeshift and players wh
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: ToUR</p>
 </blockquote>
 </div></template>
 

@@ -16,6 +16,7 @@
 <p><a href="https://github.com/pear666" target="_blank" rel="noopener noreferrer"><strong>喜</strong><ExternalLinkIcon/></a>：Role Coding</p>
 <p><a href="https://github.com/SHAAARKY" target="_blank" rel="noopener noreferrer"><strong>SHAAARKY</strong><ExternalLinkIcon/></a>：Role Coding</p>
 <p><a href="#"><strong>水木年华</strong></a>：Document &amp; Contact Support</p>
+<p><a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer"><strong>Papercut</strong><ExternalLinkIcon/></a>：Role Coding</p>
 <p><a href="https://github.com/Sand-and-Beans" target="_blank" rel="noopener noreferrer"><strong>Mousse</strong><ExternalLinkIcon/></a>：Document</p>
 <p><a href="#"><strong>Тоха</strong></a>：Russian Translator</p>
 <p><a href="https://github.com/xVCantCode" target="_blank" rel="noopener noreferrer"><strong>xV &amp; MCP</strong><ExternalLinkIcon/></a>：Feature Coding</p>
@@ -26,7 +27,23 @@
 <p><a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>乐崽吖</strong><ExternalLinkIcon/></a>：Chinese Translator</p>
 <p><a href="https://github.com/hinhinarrrrrr" target="_blank" rel="noopener noreferrer"><strong>法官</strong><ExternalLinkIcon/></a>：Chinese Translator</p>
 <p><a href="https://github.com/Thewhiskas27" target="_blank" rel="noopener noreferrer"><strong>thewhiskas27</strong><ExternalLinkIcon/></a>：Spanish Translator</p>
-<p><a href="#"><strong>Dawson</strong></a>：Spanish Translator</p>
+<p><a href="https://youtu.be/MTW4sIL9Dpw?si=LpHF7tX6Aj5WLwFD" target="_blank" rel="noopener noreferrer"><strong>Dawson</strong><ExternalLinkIcon/></a>：Spanish Translator</p>
+<h2 id="credited-mods" tabindex="-1"><a class="header-anchor" href="#credited-mods" aria-hidden="true">#</a> Credited Mods</h2>
+<p><a href="https://github.com/Loonie-Toons/Re-Edited" target="_blank" rel="noopener noreferrer"><strong>Town Of Host Re-Edited</strong><ExternalLinkIcon/></a>：TOH: Enhanced is a continuation of TOH: Re-Edited.</p>
+<p><a href="https://github.com/KARPED1EM/TownOfHostEdited" target="_blank" rel="noopener noreferrer"><strong>Town Of Host Edited</strong><ExternalLinkIcon/></a>：TOH: Re-Edited was a continuation of TOH: Edited.</p>
+<p><a href="https://github.com/tukasa0001/TownOfHost" target="_blank" rel="noopener noreferrer"><strong>Town Of Host</strong><ExternalLinkIcon/></a>：The Original Town of Host Mod.</p>
+<p><a href="https://github.com/Yumenopai/TownOfHost_Y" target="_blank" rel="noopener noreferrer"><strong>Town Of Host Y</strong><ExternalLinkIcon/></a>：Mutliple Ideas such as: AntiAdminer (Disruptor), CursedWolf, Workaholic, Greedier (Greedy), DarkHide (Wraith).</p>
+<p><a href="https://github.com/music-discussion/TownOfHost-TheOtherRoles" target="_blank" rel="noopener noreferrer"><strong>Town Of Host: The Other Roles</strong><ExternalLinkIcon/></a>：MANY Role Ideas, also Exile Confirm, &amp; Split RPC Pack.</p>
+<p><a href="https://github.com/tugaru1975/TownOfPlus" target="_blank" rel="noopener noreferrer"><strong>Town Of Plus</strong><ExternalLinkIcon/></a>：Reference: Zoom.</p>
+<p><a href="https://github.com/Loonie-Toons/TownOfHostPlus" target="_blank" rel="noopener noreferrer"><strong>Town Of Host +</strong><ExternalLinkIcon/></a>：Multiple Ideas such as: Marshall, Poisoner, Necroview, &amp; Sidekick.</p>
+<p><a href="https://github.com/Gurge44/TOHE_PLUS" target="_blank" rel="noopener noreferrer"><strong>Town Of Host Edited +</strong><ExternalLinkIcon/></a>：Multiple Ideas such as: Pyromaniac, Necromancer, Head Hunter (Huntsman), &amp; Alchemist.</p>
+<p><a href="https://github.com/TOHEX-Official/TownOfHostEdited-Xid" target="_blank" rel="noopener noreferrer"><strong>Town Of Host Edited Xi</strong><ExternalLinkIcon/></a>：Some Ideas such as: Swapper.</p>
+<p><a href="https://github.com/SuperNewRoles/SuperNewRoles" target="_blank" rel="noopener noreferrer"><strong>Super New Roles</strong><ExternalLinkIcon/></a>：Reference: Credentials menu, Switch Horse Mode, Search Mod Game, &amp; Custom Button.</p>
+<p><a href="https://github.com/sansaaaaai/Revolutionary-host-roles" target="_blank" rel="noopener noreferrer"><strong>Revolutionary Host Roles</strong><ExternalLinkIcon/></a>：Reference: Modify settings menu.</p>
+<p><a href="https://github.com/ImaMapleTree/Lotus" target="_blank" rel="noopener noreferrer"><strong>Project Lotus</strong><ExternalLinkIcon/></a>：Multiple Ideas such as: Crusader.</p>
+<p><a href="https://github.com/Mr-Fluuff/StellarRolesAU" target="_blank" rel="noopener noreferrer"><strong>Stellar Roles</strong><ExternalLinkIcon/></a>：Multiple Ideas such as: Inspector (Parity Cop).</p>
+<p><a href="https://github.com/eDonnes124/Town-Of-Us-R" target="_blank" rel="noopener noreferrer"><strong>Town of Us Reactivated</strong><ExternalLinkIcon/></a>: Multiple Ideas such as: Witness (Detective), Medic, &amp; Tracker.</p>
+<p><a href="https://github.com/TheOtherRolesAU/TheOtherRoles" target="_blank" rel="noopener noreferrer"><strong>The Other Roles</strong><ExternalLinkIcon/></a>: Multiple Ideas such as: Evil Guesser, Nice Guesser, and more included in TOH: TOR.</p>
 <h2 id="about-the-project-lead-website-developer" tabindex="-1"><a class="header-anchor" href="#about-the-project-lead-website-developer" aria-hidden="true">#</a> About the Project Lead/Website Developer</h2>
 <p>I'm a young developer who loves coding and gaming. I started coding when I was in High School, and I've been coding for 6 years. I'm currently learning several coding languages, but I speak English, French and Arabic verbally! I started playing Among Us when it released, and I've been playing it ever since. I stopped when the game died down after Airship, but I stumbled upon TOHE and I loved it. I decided to help out with the mod, and I'm currently the website developer.</p>
 <p>I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++. I graduated from College with a degree in Computer Science, and I'm currently working as a freelance web developer. My main goal is to become a full-stack developer, fousing on Cybersecurity. and I'm working towards that goal.</p>

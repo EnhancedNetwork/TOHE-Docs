@@ -20,6 +20,9 @@ Only assigned to killers</p>
 </ul>
 </li>
 </ul>
+<blockquote>
+<p>From: <a href="#">Ciredm</a> &amp; Coding: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">Loonie Toons<ExternalLinkIcon/></a></p>
+</blockquote>
 </div></template>
 
 

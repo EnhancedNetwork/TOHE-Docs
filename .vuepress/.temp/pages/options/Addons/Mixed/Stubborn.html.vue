@@ -38,6 +38,9 @@ Additionally, you can’t gain any new addons from the merchant.</p>
 </ul>
 </li>
 </ul>
+<blockquote>
+<p>Idea: <a href="#">Dailyhare</a> &amp; Coding: <a href="#">ryuk</a></p>
+</blockquote>
 </div></template>
 
 

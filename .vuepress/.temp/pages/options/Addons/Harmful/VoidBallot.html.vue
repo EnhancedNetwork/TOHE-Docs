@@ -38,7 +38,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: <a href="#">ryuk</a></p>
+<p>From: Idea &amp; Coding: <a href="https://github.com/Loonie-Toons/" target="_blank" rel="noopener noreferrer">LoonieToons<ExternalLinkIcon/></a></p>
 </blockquote>
 </div></template>
 

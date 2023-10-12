@@ -31,7 +31,7 @@ During the ability duration, the Time Master gains a time shield that protects t
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: TOHEX</p>
 </blockquote>
 </div></template>
 

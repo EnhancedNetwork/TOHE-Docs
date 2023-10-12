@@ -19,7 +19,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: idk &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>
+<p>Idea &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>
 </blockquote>
 </div></template>
 

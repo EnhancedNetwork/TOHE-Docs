@@ -48,7 +48,7 @@ Not assigned to Detective or Mortician.</p>
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: ToUR &amp; Coding: <a href="https://github.com/Loonie-Toons/" target="_blank" rel="noopener noreferrer">LoonieToons<ExternalLinkIcon/></a></p>
 </blockquote>
 </div></template>
 

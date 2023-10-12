@@ -1,4 +1,4 @@
-<template><div><h1 id="🧑‍🦽-circumvent" tabindex="-1"><a class="header-anchor" href="#🧑‍🦽-circumvent" aria-hidden="true">#</a> <font color="red">🧑‍🦽 <b>Circumvent</b></font> <Badge text="Impostor" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="🪫-circumvent" tabindex="-1"><a class="header-anchor" href="#🪫-circumvent" aria-hidden="true">#</a> <font color="red">🪫 <b>Circumvent</b></font> <Badge text="Impostor" type="tip" vertical="middle"/></h1>
 <hr>
 <p>As the Circumvent, you lose access to the vent ability.<br><br>
 Only assigned to <font color=red>Impostors</font>.</p>
@@ -14,6 +14,9 @@ Only assigned to <font color=red>Impostors</font>.</p>
 </ul>
 </li>
 </ul>
+<blockquote>
+<p>Idea: <a href="#">Rudyrant</a> &amp; Coding: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">LoonieToons<ExternalLinkIcon/></a></p>
+</blockquote>
 </div></template>
 
 

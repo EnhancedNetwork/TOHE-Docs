@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Gravestone
-prev: Glow
+prev: Ghoul
 next: Guesser
 ---
 

@@ -51,7 +51,7 @@
 <RouterLink to="/options/Crewmates/Basic/MiniNice.html"><font color="#dddddd">Nice Mini Settings</font></RouterLink></p>
 </center>
 <blockquote>
-<p>From: TBD</p>
+<p>Idea &amp; Coding: <a href="#">LezaiYa</a></p>
 </blockquote>
 </div></template>
 

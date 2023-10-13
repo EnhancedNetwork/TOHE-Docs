@@ -1,6 +1,6 @@
 <template><div><h1 id="⚔️-mercenary" tabindex="-1"><a class="header-anchor" href="#⚔️-mercenary" aria-hidden="true">#</a> <font color="red">⚔️ Mercenary</font> <Badge text="Killing" type="tip" vertical="middle"/></h1>
 <hr>
-<p>You have a shorter kill cooldown than other Impostors, but you will suicide if you don’t kill by the end of your Shapeshift Cooldown. If you attempt to Shapeshift after successfully living past the end of your Shapeshift Cooldown, you will suicide.</p>
+<p>You have a shorter kill cooldown than other Impostors, but you will suicide if you don’t kill by the end of your Shapeshift Cooldown.</p>
 <ul>
 <li>Max
 <ul>

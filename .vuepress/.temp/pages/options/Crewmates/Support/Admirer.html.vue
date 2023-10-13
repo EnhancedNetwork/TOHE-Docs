@@ -14,7 +14,7 @@ You can only do this once.</p>
 <li>Set how long the Admirer has to wait to use their Ability</li>
 </ul>
 </li>
-<li>Know the role of Admired players
+<li>Know the roles of Admired players
 <ul>
 <li>
 <font color=green>ON</font>: the Admirer will know the role of the player they Admire</li>

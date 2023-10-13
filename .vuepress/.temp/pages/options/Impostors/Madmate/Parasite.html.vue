@@ -7,11 +7,6 @@
 <li>Set the Maximum amount of Parasites that can be in a match</li>
 </ul>
 </li>
-<li>Kill Cooldown
-<ul>
-<li>Set how long the Parasite needs to wait to perform a Kill</li>
-</ul>
-</li>
 </ul>
 <blockquote>
 <p>From: TOH+</p>

@@ -1,8 +1,12 @@
 <template><div><h1 id="🔧-mechanic" tabindex="-1"><a class="header-anchor" href="#🔧-mechanic" aria-hidden="true">#</a> <font color="#3131f6">🔧 <b>Mechanic</b></font> <Badge text="Support" type="tip" vertical="middle"/></h1>
 <hr>
-<p>The Mechanic can use the vent at any time. They can also fix all Sabotages by themself. (Depending on Settings)
-Max: Set the Maximum amount of Mechanics that can be in a match.</p>
+<p>The Mechanic can use the vent at any time. They can also fix all Sabotages by themself. (Depending on Settings)</p>
 <ul>
+<li>Max
+<ul>
+<li>Set the Maximum amount of Mechanics that can be in a match.</li>
+</ul>
+</li>
 <li>Initial repair use limit
 <ul>
 <li>Set the amount of Ability Uses a Mechanic has at the start of the game</li>

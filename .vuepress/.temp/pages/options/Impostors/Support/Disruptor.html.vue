@@ -11,7 +11,7 @@ Note: Disruptor does not know for sure if someone is using the device while near
 <li>Can track camera usage
 <ul>
 <li>
-<font color=green>ON</font>: Disruptor knows when people use the cameras</li>
+<font color=green>ON</font>: Disruptor knows when people are near the cameras</li>
 <li>
 <font color=red>OFF</font>: Disruptor does not receive this information</li>
 </ul>

@@ -17,6 +17,16 @@
 <li>Set how long the Tracefinder can check their Mobile Vitals for</li>
 </ul>
 </li>
+<li>Minimum Arrow show-up delay
+<ul>
+<li>Set how long the arrows will take to appear</li>
+</ul>
+</li>
+<li>Maximum Arrow show-up delay
+<ul>
+<li>Set how long the arrows could take to appear</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: Idea &amp; Coding: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">Loonie Toons<ExternalLinkIcon/></a></p>

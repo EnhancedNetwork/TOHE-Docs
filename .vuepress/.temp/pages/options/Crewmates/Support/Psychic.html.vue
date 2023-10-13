@@ -23,25 +23,33 @@
 <li>
 <font color=#8cffff>Crewmate</font> Killings can be red<ul>
 <li>
-<font color=green>ON</font>: Killers on this team can appear as Red</li>
+<font color=green>ON</font>: Crewmate Killing roles can appear as Red</li>
 <li>
-<font color=red>OFF</font>: killers on this team won’t appear as Red</li>
+<font color=red>OFF</font>: Crewmate Killing roles can appear as Red</li>
 </ul>
 </li>
-<li>Nice <font color=#7f8c8d>Neutrals</font> can be red
-<ul>
 <li>
-<font color=green>ON</font>: Killers on this team can appear as Red</li>
+<font color=#7f8c8d>Neutral Benign</font> can be red<ul>
 <li>
-<font color=red>OFF</font>: killers on this team won’t appear as Red</li>
+<font color=green>ON</font>: Neutral Benign roles can appear as Red</li>
+<li>
+<font color=red>OFF</font>: Neutral Benign roles cannot appear as Red</li>
 </ul>
 </li>
-<li>Evil <font color=#7f8c8d>Neutrals</font> can be red
-<ul>
 <li>
-<font color=green>ON</font>: Killers on this team can appear as Red</li>
+<font color=#7f8c8d>Neutral Evil</font> can be red<ul>
 <li>
-<font color=red>OFF</font>: killers on this team won’t appear as Red</li>
+<font color=green>ON</font>: Neutral Evil roles can appear as Red</li>
+<li>
+<font color=red>OFF</font>: Neutral Evil roles cannot appear as Red</li>
+</ul>
+</li>
+<li>
+<font color=#7f8c8d>Neutral Chaos</font> can be red<ul>
+<li>
+<font color=green>ON</font>: Neutral Chaos roles can appear as Red</li>
+<li>
+<font color=red>OFF</font>: Neutral Chaos roles cannot appear as Red</li>
 </ul>
 </li>
 </ul>

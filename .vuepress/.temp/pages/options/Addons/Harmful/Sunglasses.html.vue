@@ -1,4 +1,4 @@
-<template><div><h1 id="🕶️-sunglasses" tabindex="-1"><a class="header-anchor" href="#🕶️-sunglasses" aria-hidden="true">#</a> <font color="#e7c12b">🕶️ Sunglasses</font> <Badge text="Harmful" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="🕶️-sunglasses" tabindex="-1"><a class="header-anchor" href="#🕶️-sunglasses" aria-hidden="true">#</a> <font color="#e7c12b">🕶️ <b>Sunglasses</b></font> <Badge text="Harmful" type="tip" vertical="middle"/></h1>
 <hr>
 <p>As the Sunglasses, your vision is reduced.</p>
 <ul>

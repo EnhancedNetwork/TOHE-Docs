@@ -19,6 +19,26 @@
 <li>Set the time an Arsonist needs to wait until they can Douse again</li>
 </ul>
 </li>
+<li>Can ignite anytime
+<ul>
+<li>
+<font color=green>ON</font>: the Arsonist can ignite all currently doused players whenever they want<ul>
+<li>Minimum doused needed for ignite
+<ul>
+<li>Set the Minimum amount of players that the Arsonist needs to have doused before they can ignite</li>
+</ul>
+</li>
+<li>Maximum doused needed for ignite
+<ul>
+<li>Set the Maximum amount of players that the Arsonist can ignite at a time</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<font color=red>OFF</font>: the Arsonist cannot ignite all currently doused players whenever they want</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: TOH</p>

@@ -2,7 +2,11 @@
 <hr>
 <p>The Dazzler can Shapeshift into players to reduce their vision permanently, if you die their vision returns to normal.</p>
 <ul>
-<li>Max: Set the Maximum amount of Dazzlers that can be in a match</li>
+<li>Max
+<ul>
+<li>Set the Maximum amount of Dazzlers that can be in a match</li>
+</ul>
+</li>
 <li>Kill Cooldown
 <ul>
 <li>Set how long the Dazzler needs to wait to Kill</li>

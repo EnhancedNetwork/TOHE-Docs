@@ -7,6 +7,11 @@
 <li>Set the Maximum amount of Knight that can be in a match</li>
 </ul>
 </li>
+<li>Kill Cooldown
+<ul>
+<li>Set how long the Knight needs to wait to kill</li>
+</ul>
+</li>
 <li>Can Vent
 <ul>
 <li>

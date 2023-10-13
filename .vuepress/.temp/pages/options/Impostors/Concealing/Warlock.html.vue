@@ -23,6 +23,11 @@
 <font color=red>OFF</font>: the person they targeted cannot kill the Warlock</li>
 </ul>
 </li>
+<li>Shapeshift Duration
+<ul>
+<li>Set how long the Warlock will stay shifted for</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: TOH</p>

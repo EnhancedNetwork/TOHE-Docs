@@ -11,6 +11,11 @@ After this period is over, you are immobilized for another defined period of tim
 <li>Set the Maximum amount of Addicts that can be in a match</li>
 </ul>
 </li>
+<li>Vent Cooldown
+<ul>
+<li>Set how long an Addict has to wait to Vent</li>
+</ul>
+</li>
 <li>Time Until Suicide
 <ul>
 <li>Set how long an Addict has until they Suicide</li>

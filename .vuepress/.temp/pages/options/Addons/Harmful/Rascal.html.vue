@@ -1,4 +1,4 @@
-<template><div><h1 id="👹-rascal" tabindex="-1"><a class="header-anchor" href="#👹-rascal" aria-hidden="true">#</a> <font color=#ff6347>👹 <b>Rascal</b></font> <Badge text="Harmful" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="👹-rascal" tabindex="-1"><a class="header-anchor" href="#👹-rascal" aria-hidden="true">#</a> <font color=#980404>👹 <b>Rascal</b></font> <Badge text="Harmful" type="tip" vertical="middle"/></h1>
 <hr>
 <p>As the Rascal, you can die to the Sheriff and Snitch can find you if Snitch can find madmates.<br>
 Only assigned to Crewmates, cannot be assigned by the Merchant.</p>

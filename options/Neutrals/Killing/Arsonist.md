@@ -27,4 +27,5 @@ if the player name shows 「▲」, it means they have been completely doused.
       * Maximum doused needed for ignite
         * Set the Maximum amount of players that the Arsonist can ignite at a time
   * <font color=red>OFF</font>: the Arsonist cannot ignite all currently doused players whenever they want
+
 > From: TOH

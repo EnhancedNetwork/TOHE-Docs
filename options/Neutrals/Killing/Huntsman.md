@@ -29,5 +29,5 @@ As the Huntsman, you have a certain amount of targets that reset every meeting. 
 * Minimum kill cooldown
   * Set the Huntsman minimum kill cooldown
 
-> From: TBD
+> From: TOHE+
 

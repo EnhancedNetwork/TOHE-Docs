@@ -16,4 +16,4 @@ Zombie has a short kill cooldown, but moves very slowly and has very little visi
 * After a certain time, decrease the speed of Zombie by
   * Set the amount of Speed that gets deducted from the Zombie over time
 
-> Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)

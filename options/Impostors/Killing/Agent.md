@@ -24,4 +24,4 @@ The Agent can track other people, and the Agent can Shapeshift into someone to s
   * <font color=green>ON</font>: the Agent can see what room their Target was in right before the Meeting
   * <font color=red>OFF</font>: the Agent will not receive this info.
 
-> From: TOHE-R
+> From: TOH

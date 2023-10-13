@@ -18,4 +18,4 @@ Kill everyone to win.
 * Vanish Duration
   * Set how long a Wraith will stay Vanished
 
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: TOHR & Coding：[KARPED1EM](https://github.com/KARPED1EM)

@@ -29,7 +29,7 @@ You'll either become a Sheriff, Refugee, or some other Neutral.<br></p>
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: TOHRE (Old Amnesiac)</p>
 </blockquote>
 </div></template>
 

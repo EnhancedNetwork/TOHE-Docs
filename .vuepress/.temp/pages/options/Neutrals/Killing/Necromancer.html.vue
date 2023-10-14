@@ -30,6 +30,9 @@ Additionally, when someone tries to kill you, the kill will be blocked and you w
 </ul>
 </li>
 </ul>
+<blockquote>
+<p>From: TOHE+</p>
+</blockquote>
 </div></template>
 
 

@@ -15,7 +15,7 @@ You cannot be guessed, as that adds to your attack count.</p>
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: TOH+</p>
 </blockquote>
 </div></template>
 

@@ -36,7 +36,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: 波奇酱 &amp; Coding: <a href="https://github.com/NCSIMON" target="_blank" rel="noopener noreferrer">NCSIMON<ExternalLinkIcon/></a></p>
+<p>From: <a href="#">波奇酱</a> &amp; Coding: <a href="https://github.com/NCSIMON" target="_blank" rel="noopener noreferrer">NCSIMON<ExternalLinkIcon/></a></p>
 </blockquote>
 </div></template>
 

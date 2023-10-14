@@ -18,7 +18,7 @@ In the next round, if someone kills the target, the killer will turn into a Refu
 </li>
 </ul>
 <blockquote>
-<p>From: <a href="#">ryuk</a> &amp; Coding: <a href="#">ryuk</a></p>
+<p>Idea &amp; Coding: <a href="#">ryuk</a></p>
 </blockquote>
 </div></template>
 

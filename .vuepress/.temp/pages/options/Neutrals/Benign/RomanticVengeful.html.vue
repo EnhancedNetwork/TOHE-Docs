@@ -17,7 +17,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: Stellar Roles &amp; Coding: [Gurge44] &amp; [ryuk]</p>
+<p>From: Stellar Roles &amp; Coding: <a href="#">Gurge44</a> &amp; <a href="#">ryuk</a></p>
 </blockquote>
 </div></template>
 

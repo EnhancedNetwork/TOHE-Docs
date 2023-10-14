@@ -19,6 +19,9 @@ Double click on someone to kill them normally.</p>
 </ul>
 </li>
 </ul>
+<blockquote>
+<p>From: TOHE+</p>
+</blockquote>
 </div></template>
 
 

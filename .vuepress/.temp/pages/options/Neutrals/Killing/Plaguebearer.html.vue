@@ -32,7 +32,7 @@ You win by killing everyone.</p>
 </li>
 </ul>
 <blockquote>
-<p>From: idk &amp; Coding: <a href="#">ryuk</a></p>
+<p>From: ToUR &amp; Coding: <a href="#">ryuk</a></p>
 </blockquote>
 </div></template>
 

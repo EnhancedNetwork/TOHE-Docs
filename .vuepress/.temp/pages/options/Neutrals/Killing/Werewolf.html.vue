@@ -33,7 +33,7 @@ All your kills will have the Mauled death reason.</p>
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: ToUR</p>
 </blockquote>
 </div></template>
 

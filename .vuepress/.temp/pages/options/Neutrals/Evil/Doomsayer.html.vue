@@ -98,7 +98,7 @@ You can see the player's id before the player's name, or use the <code v-pre>/id
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: ToUR</p>
 </blockquote>
 </div></template>
 

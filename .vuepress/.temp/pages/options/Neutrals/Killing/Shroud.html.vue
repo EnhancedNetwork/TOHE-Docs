@@ -30,7 +30,7 @@ Shrouded players who did not make a kill will also have the 「◈」 mark in me
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: Town of Salem 2</p>
 </blockquote>
 </div></template>
 

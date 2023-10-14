@@ -20,7 +20,7 @@ Cursing a player works the same as spelling as a Spellcaster.</p>
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: Idea &amp; Coding: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">Loonie Toons<ExternalLinkIcon/></a></p>
 </blockquote>
 </div></template>
 

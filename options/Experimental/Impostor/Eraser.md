@@ -5,7 +5,7 @@ prev: Disperser
 next: Hangman
 ---
 
-# <font color=red>🧑‍🎨 <b>Eraser</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🧼 <b>Eraser</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 ---
 
 Eraser can vote for any crew target at the meeting to erase the target's roles, and the erasure will take effect after the meeting ends. Note: Players whose skills are erased will always be considered a vanilla role, including the game result page.

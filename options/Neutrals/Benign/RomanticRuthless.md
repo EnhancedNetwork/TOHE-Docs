@@ -2,7 +2,7 @@
 lang: en-US
 title: Ruthless Romantic
 prev: Romantic
-next: Shaman
+next: Romantic
 ---
 
 # <font color="#d2691e">💕 <b>Ruthless Romantic</b></font> <Badge text="Benign" type="tip" vertical="middle"/>

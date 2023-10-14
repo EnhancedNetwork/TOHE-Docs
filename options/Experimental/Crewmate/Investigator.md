@@ -5,7 +5,7 @@ prev: Admirer
 next: Swapper
 ---
 
-# <font color=#66e666> <b>Investigator</b></font> <Badge text="Crewmate" type="tip" vertical="middle"/>
+# <font color=#007FFF>🕵️ <b>Investigator</b></font> <Badge text="Crewmate" type="tip" vertical="middle"/>
 ---
 
 As the Investigator, use your kill button on a player to learn something about them.<br><br>

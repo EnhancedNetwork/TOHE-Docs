@@ -5,7 +5,7 @@ prev: Vampire
 next: Wildling
 ---
 
-# <font color="red">🧙 Warlock</font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">🧙 <b>Warlock</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 ---
 
 The Warlock can curse other players while Unshifted, but when they Shapeshift after cursing a player, the player will kill the closest player to them, no matter who or how far. You can kill normally while Shapeshifted.

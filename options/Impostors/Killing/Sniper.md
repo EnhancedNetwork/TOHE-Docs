@@ -5,7 +5,7 @@ prev: Saboteur
 next: Spellcaster
 ---
 
-# <font color="red">🎯 Sniper</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="red">🎯 <b>Sniper</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 You can shoot players from far away. You have to shapeshift twice to make a successful snipe. Imagine an Arrow from your Shapeshift location to your Unshift location, that’s the way the bullet will go. The snipe kills the first person in its path. You cannot kill normally until you use up all of your ammo.

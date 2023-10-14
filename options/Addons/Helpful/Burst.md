@@ -5,7 +5,7 @@ prev: Bewilder
 next: Cyber
 ---
 
-# <font color=#b619b9>🔫 <b>Burst</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
+# <font color=#b619b9>💥 <b>Burst</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 ---
 
 The Burst is an add-on that causes the Burst's killer to explode after a time set in the settings. The killer will be notified on killing the Burst.<br>

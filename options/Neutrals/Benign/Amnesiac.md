@@ -5,7 +5,7 @@ prev: /options/settings/Neutrals.html
 next: Follower
 ---
 
-# <font color="#046300">🧠 <b>Amnesiac</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
+# <font color="#7FBFFF">🧠 <b>Amnesiac</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
 ---
 
 As the Amnesiac, use your report button on a body to remember their role.<br><br>

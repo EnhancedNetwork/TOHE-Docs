@@ -5,7 +5,7 @@ prev: Camouflager
 next: Consigliere
 ---
 
-# <font color="red">🧹 Cleaner</font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">🧹 <b>Cleaner</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 Cleaner can press the Report button to clean up any Dead Bod they see. If the cleanup is successful, the Cleaner will see a Shield animation as a reminder. The cleaned up body cannot be reported.

@@ -5,7 +5,7 @@ prev: Councillor
 next: Deathpact
 ---
 
-# <font color=red>🐺 Cursed Wolf</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>🐺 <b>Cursed Wolf</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 When the Cursed Wolf is about to be killed, the Cursed Wolf will curse the killer to death. (The maximum number of times you can counterattack is set by the host).

@@ -5,7 +5,7 @@ prev: QuickShooter
 next: Sniper
 ---
 
-# <font color="red">🔌 Saboteur</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="red">🔌 <b>Saboteur</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 Saboteur can only kill during Sabotages.

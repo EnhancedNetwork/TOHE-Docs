@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Greedy
-prev: EvilGuesser
+prev: EvilTracker
 next: Hangman
 ---
 
-# <font color=red>🤑 Greedy</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>🤑 <b>Greedy</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 Greedy kills with odd and even kills will have different kill cooldowns. Greedy’s kill cooldown is reset every meeting, and Greedy’s first kill is always an odd kill.

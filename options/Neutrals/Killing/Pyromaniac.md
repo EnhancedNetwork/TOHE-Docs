@@ -5,7 +5,7 @@ prev: PotionMaster
 next: SerialKiller
 ---
 
-# <font color="#fe2400">🔥 <b>Pyromaniac</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#fc8a4c">🔥 <b>Pyromaniac</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 As the Pyromaniac, your job is to kill everyone and be the last one standing. Your special ability is that you can douse players. Whenever you kill a doused player, your kill cooldown will be very short.

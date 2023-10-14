@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Scientist
-prev: Psychic
-next: Snitch
+prev: Engineer
+next: /options/settings/Crewmates.html
 ---
 
-# <font color="#7160e8">🔬 <b>Scientist</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#8ee98e">🔬 <b>Scientist</b></font> <Badge text="Vanilla" type="tip" vertical="middle"/>
 ---
 
 As the Scientist, you have a portable tablet with the crew's vitals on it.<br>

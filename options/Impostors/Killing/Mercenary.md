@@ -5,7 +5,7 @@ prev: Lurker
 next: Ninja
 ---
 
-# <font color="red">⚔️ Mercenary</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="red">⚔️ <b>Mercenary</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 You have a shorter kill cooldown than other Impostors, but you will suicide if you don’t kill by the end of your Shapeshift Cooldown.

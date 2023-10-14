@@ -5,7 +5,7 @@ prev: /options/settings/Impostors.html
 next: Parasite
 ---
 
-# <font color="red">👨‍🚀 Crewpostor</font> <Badge text="Madmate" type="tip" vertical="middle"/>
+# <font color="red">👨‍🚀 <b>Crewpostor</b></font> <Badge text="Madmate" type="tip" vertical="middle"/>
 ---
 
 When the Crewpostor does a Task, they will kill the player closest to them. (Depending on Settings, they can kill other Impostors)

@@ -5,7 +5,7 @@ prev: Godfather
 next: Nemesis
 ---
 
-# <font color="red">👤 Morphling</font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">👤 <b>Morphling</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 As the Morphling, you are a Shapeshifter but cannot kill while not shapeshift.

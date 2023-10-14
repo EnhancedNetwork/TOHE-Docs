@@ -5,7 +5,7 @@ prev: /options/settings/Impostors.html
 next: Cleaner
 ---
 
-# <font color="red">🦎 Camouflager</font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">🦎 <b>Camouflager</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 When a Camouflager Shapeshifts, all players will look the same. All players will go back to their normal self once Camouflager unshifts. 

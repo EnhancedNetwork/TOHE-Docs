@@ -5,7 +5,7 @@ prev: CursedWolf
 next: EvilGuesser
 ---
 
-# <font color=red>🩸 Deathpact</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>🩸 <b>Deathpact</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 As the Deathpact, the targets of your shapeshifting are marked for a deathpact. If enough players are marked for a death pact, the marked players must meet within a defined period of time; if they fail to do so, they die. If a marked player dies before the death pact is completed, the pact is withdrawn.

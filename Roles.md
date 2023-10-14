@@ -16,7 +16,7 @@ sidebar:
 # Roles
 
 <font size=4em><b>Latest Versions:</b></font><br>
-- <font size=3em><b>Dev Build: v1.0.2 Dev 3.1 (Most Recent)</b></font><br>
+- <font size=3em><b>Dev Build: v1.0.2 Dev 4 (Most Recent)</b></font><br>
 - <font size=3em><b>Canary Build: TBD</b></font><br>
 - <font size=3em><b>Stable Build: 1.0.1</b></font><br><br>
 
@@ -36,13 +36,13 @@ sidebar:
 <tr>
 <td><font color=#8cffff><b>Crewmate</b></font> </td>
 <td>Play together and win by completing all tasks/voting out all Evil</td>
-<td align="center">60</td>
+<td align="center">61</td>
 </tr>
 
 <tr>
 <td><font color=#76b8e0><b>Experimental</b></font></td>
 <td>Roles that are not fully stable and may contain bugs</td>
-<td align="center">15</td>
+<td align="center">16</td>
 </tr>
 
 <tr>
@@ -59,7 +59,7 @@ sidebar:
 
 <tr>
 <td colspan=2><b>Total:</b></td>
-<td align="center"><b>237</b></td>
+<td align="center"><b>240</b></td>
 </tr>
 </table>
 <br>

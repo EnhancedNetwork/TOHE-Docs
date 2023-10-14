@@ -5,7 +5,7 @@ prev: Butcher
 next: Eraser
 ---
 
-# <font color=red>🙅‍♂️ <b>Disperser</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🌀 <b>Disperser</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 ---
 
 Disperser can use Shapeshift to teleport all players to random vents.<br><br>

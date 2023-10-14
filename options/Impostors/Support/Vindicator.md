@@ -5,7 +5,7 @@ prev: TimeThief
 next: Visionary
 ---
 
-# <font color="red">🗣️ Vindicator</font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">🗣️ <b>Vindicator</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 The Vindicator receives extra votes, like Mayor.

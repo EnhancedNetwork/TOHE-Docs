@@ -5,7 +5,7 @@ prev: Ninja
 next: Saboteur
 ---
 
-# <font color="red">🔫 Quick Shooter</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="red">🔫 <b>Quick Shooter</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 When the kill Cooldown is over, the Quick Shooter can reset the Kill Cooldown by Shapeshifting, and will Store a Bullet. (When the storage is successful, a shield-like animation will appear to show that they successfully stored a Bullet.) <br>
@@ -19,4 +19,4 @@ After a Quick Shooter completes a kill, he can offset the Kill Cooldown until he
 * Max Bullets reserved for a meeting
   * Set how many Bullets the Quick Shooter can have in a Meeting
 
-> From: idk & Coding: [NCSIMON](https://github.com/NCSIMON)、[KARPED1EM](https://github.com/KARPED1EM)
+> Idea & Coding: [NCSIMON](https://github.com/NCSIMON)、[KARPED1EM](https://github.com/KARPED1EM)

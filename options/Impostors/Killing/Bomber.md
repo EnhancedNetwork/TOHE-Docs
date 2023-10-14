@@ -5,7 +5,7 @@ prev: Berserker
 next: BountyHunter
 ---
 
-# <font color=red>💣 Bomber</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>💣 <b>Bomber</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 The Bomber can Shapeshift to Suicide Bomb the surrounding area. All player’s will receive a Kill Flash when the Bomber Suicides.
@@ -30,6 +30,10 @@ The Bomber can Shapeshift to Suicide Bomb the surrounding area. All player’s w
     * Set how long the Nuker needs to wait to nuke
   * Nuke radius (12x is very large)
     * Set how big a nuke's radius is
-    * You must have “Disable Hidden Roles” toggled <font color=red>OFF</font> for this to have a chance to appear
+
+<center>
+
+[<font color="red">Nuker</font>](./Nuker.html)
+</center>
 
 > From: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM)

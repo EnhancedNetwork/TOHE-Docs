@@ -5,7 +5,7 @@ prev: Mastermind
 next: Puppeteer
 ---
 
-# <font color="red">⛏️ Miner</font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">⛏️ <b>Miner</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 ---
 
 Miner can Shapeshift to return to the last Vent they vented in.

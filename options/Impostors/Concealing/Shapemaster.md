@@ -5,7 +5,7 @@ prev: Scavenger
 next: Shapeshifter
 ---
 
-# <font color="red">🔷 Shapemaster</font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">🔷 <b>Shapemaster</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 ---
 
 The Shapemaster has no Shapeshift Cooldown, but they Unshift earlier than normal.

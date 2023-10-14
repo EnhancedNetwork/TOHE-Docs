@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Shapeshifter
-prev: Shapemaster
-next: SoulCatcher
+prev: Impostor
+next: /options/settings/Impostors.html
 ---
 
-# <font color="red">🔷 Shapeshifter</font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">🔷 <b>Shapeshifter</b></font> <Badge text="Vanilla" type="tip" vertical="middle"/>
 ---
 
 As the Shapeshifter, you have a shapeshifting ability which you may use to frame other crewmates.<br>

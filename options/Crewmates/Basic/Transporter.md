@@ -5,7 +5,7 @@ prev: Tracefinder
 next: /options/settings/Crewmates.html
 ---
 
-# <font color="#0066cc">🚌 <b>Transporter</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
+# <font color="#42D1FF">🌀 <b>Transporter</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
 ---
 
 When a Transporter completes any task, two random players will swap positions unless there are not enough Players left, or players are in the vents.

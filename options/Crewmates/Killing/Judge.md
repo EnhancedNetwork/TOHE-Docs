@@ -5,7 +5,7 @@ prev: Jailer
 next: Knight
 ---
 
-# <font color="#f8d85a">🧑‍⚖️ <b>Judge</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#f8d85a">👨‍⚖️ <b>Judge</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 The Judge can judge a certain player during the Meeting. 

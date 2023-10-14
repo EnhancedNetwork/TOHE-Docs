@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Arrogance
-prev: Agent
+prev: /options/settings/Impostors.html
 next: Berserker
 ---
 
-# <font color=red>👑 Arrogance</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>👑 <b>Arrogance</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 The Arrogance reduces their kill cooldown with each successful kill of theirs.
@@ -18,5 +18,10 @@ The Arrogance reduces their kill cooldown with each successful kill of theirs.
 * Minimum kill cooldown
   * Set how low the Arrogance’s Kill Cooldown can possibly be
 * <font color=yellow>(Hidden Role) Bard - Has a % Chance of replacing Arrogance.</font>
+
+<center>
+
+[<font color="red">Bard</font>](./Bard.html)
+</center>
 
 > From: TOU & Coding: [KARPED1EM](https://github.com/KARPED1EM)、[天寸梦初](https://github.com/Huier-Huang)

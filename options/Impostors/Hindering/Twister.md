@@ -5,7 +5,7 @@ prev: Pitfall
 next: /options/settings/Impostors.html
 ---
 
-# <font color="red">🌪️ Twister</font> <Badge text="Hindering" type="tip" vertical="middle"/>
+# <font color="red">🌪️ <b>Twister</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>
 ---
 
 As the Twister, you can use shape-shifting to randomly swap the position of all players. The swap happens twice, once when you start your shape shift and once when you return to your original appearance.<br>

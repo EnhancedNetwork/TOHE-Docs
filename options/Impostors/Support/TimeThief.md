@@ -5,7 +5,7 @@ prev: Nemesis
 next: Vindicator
 ---
 
-# <font color="red">⏳ Time Thief</font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">⏳ <b>Time Thief</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 Every time the Time Thief kills, the Meeting time will be reduced. If the Time Thief dies, Meeting time will return to normal depending on settings.

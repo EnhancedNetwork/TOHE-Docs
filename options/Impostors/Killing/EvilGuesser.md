@@ -2,10 +2,10 @@
 lang: en-US
 title: Evil Guesser
 prev: Deathpact
-next: Greedy
+next: EvilTracker
 ---
 
-# <font color="red">🔪 Evil Guesser</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="red">🔪 <b>Evil Guesser</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 The Evil Guesser can guess the role of a certain player during the meeting. 

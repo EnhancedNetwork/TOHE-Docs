@@ -5,7 +5,7 @@ prev: Trickster
 next: Vampire
 ---
 
-# <font color="red">🏋️‍♂️ Undertaker</font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">🏋️‍♂️ <b>Undertaker</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 ---
 
 Everytime you Shapeshift into a player you mark the location. Your kills will then teleport to the marked location.<br>

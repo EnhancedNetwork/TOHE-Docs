@@ -5,7 +5,7 @@ prev: Fireworker
 next: Godfather
 ---
 
-# <font color="red">🤵 Gangster</font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">🤵 <b>Gangster</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 The Gangster can attempt to recruit a player to a Madmate by pressing the kill button. If the recruitment is Successful, The Gangster and Target will see a shield to confirm. Once the Gangster recruits his Maximum amount of people, only then can he begin killing. If the Gangster attempts to recruit an un-recruitable player, the target will be killed normally.

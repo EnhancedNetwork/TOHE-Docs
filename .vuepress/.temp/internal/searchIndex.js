@@ -598,62 +598,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Circumvent",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Circumvent.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Clumsy",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Clumsy.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Last Impostor",
-    "headers": [],
-    "path": "/options/Addons/Impostor/LastImpostor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Madmate",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Madmate.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mare",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Mare.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mimic",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Mimic.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Stealer",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Stealer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Swift",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Swift.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Autopsy",
     "headers": [],
     "path": "/options/Addons/Helpful/Autopsy.html",
@@ -783,6 +727,62 @@ export const searchIndex = [
     "title": "Watcher",
     "headers": [],
     "path": "/options/Addons/Helpful/Watcher.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Circumvent",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Circumvent.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Clumsy",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Clumsy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Last Impostor",
+    "headers": [],
+    "path": "/options/Addons/Impostor/LastImpostor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Madmate",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Madmate.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mare",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Mare.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mimic",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Mimic.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Stealer",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Stealer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Swift",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Swift.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1312,6 +1312,20 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Fool",
+    "headers": [],
+    "path": "/options/Experimental/Addon/Fool.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "YouTuber",
+    "headers": [],
+    "path": "/options/Experimental/Addon/YouTuber.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Admirer",
     "headers": [],
     "path": "/options/Experimental/Crewmate/Admirer.html",
@@ -1385,20 +1399,6 @@ export const searchIndex = [
     "title": "Zombie",
     "headers": [],
     "path": "/options/Experimental/Impostor/Zombie.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Fool",
-    "headers": [],
-    "path": "/options/Experimental/Addon/Fool.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "YouTuber",
-    "headers": [],
-    "path": "/options/Experimental/Addon/YouTuber.html",
     "pathLocale": "/",
     "extraFields": []
   },

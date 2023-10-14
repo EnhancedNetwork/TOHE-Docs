@@ -218,7 +218,6 @@ export default ({
           ],
           '/options/Crewmates/Support/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
-            { text: '*Admirer', link: '/options/Crewmates/Support/Admirer.html' },
             { text: 'Chameleon', link: '/options/Crewmates/Support/Chameleon.html' },
             { text: 'Coroner', link: '/options/Crewmates/Support/Coroner.html' },
             { text: 'Deputy', link: '/options/Crewmates/Support/Deputy.html' },
@@ -301,7 +300,6 @@ export default ({
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
             { text: 'Agent', link: '/options/Impostors/Killing/Agent.html' },
             { text: 'Arrogance', link: '/options/Impostors/Killing/Arrogance.html' },
-            { text: 'Assassin', link: '/options/Impostors/Killing/Assassin.html' },
             { text: 'Berserker', link: '/options/Impostors/Killing/Berserker.html' },
             { text: 'Bomber', link: '/options/Impostors/Killing/Bomber.html' },
             { text: 'Bounty Hunter', link: '/options/Impostors/Killing/BountyHunter.html' },

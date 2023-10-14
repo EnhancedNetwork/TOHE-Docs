@@ -18,9 +18,5 @@ The Arrogance reduces their kill cooldown with each successful kill of theirs.
 * Minimum kill cooldown
   * Set how low the Arrogance’s Kill Cooldown can possibly be
 * <font color=yellow>(Hidden Role) Bard - Has a % Chance of replacing Arrogance.</font>
-  * When the Bard is alive, the ejection confirmation will display a sentence composed by the bard<br>
-  Whenever the Bard completes a creation, the Bard’s kill cooldown is permanently cut in half
-    * You must have “Disable Hidden Roles” toggled <font color=red>OFF</font> for this to have a chance to appear
-
 
 > From: TOU & Coding: [KARPED1EM](https://github.com/KARPED1EM)、[天寸梦初](https://github.com/Huier-Huang)

@@ -1,7 +1,11 @@
 ---
 lang: en-US
 title: Ruthless Romantic
+<<<<<<< HEAD
 prev: Romantic
+=======
+prev: RomanticVengeful
+>>>>>>> 26a189c87396a0f8e758738d70538ce94ea6cccb
 next: Romantic
 ---
 
@@ -15,4 +19,4 @@ You change your roles from Romantic if your partner (A neutral killer) is killed
   * <font color=green>ON</font>: the Ruthless Romantic can vent
   * <font color=red>OFF</font>: the Ruthless Romantic cannot vent
 
-> From: Stellar Roles & Coding: [Gurge44] & [ryuk]
+> From: Stellar Roles & Coding: [Gurge44](#) & [ryuk](#)

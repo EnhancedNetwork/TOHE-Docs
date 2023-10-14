@@ -23,4 +23,4 @@ Shrouded players who did not make a kill will also have the 「◈」 mark in me
   * <font color=green>ON</font>: the Shroud can see as far as an <font color=red>Impostor</font> can
   * <font color=red>OFF</font>: the Shroud will have <font color=#8cffff>Crewmate</font> Vision
 
-> From: TBD
+> From: Town of Salem 2

@@ -31,4 +31,4 @@ However you cannot win if you are alive at the end of the game, or haven't compl
     * Amount of Short Tasks for Phantom
       * Set the amount of Short Tasks the Phantom will receive
 
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> Idea [Pyro](#) & Coding: [Loonie Toons](https://github.com/Loonie-Toons)

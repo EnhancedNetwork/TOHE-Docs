@@ -24,4 +24,4 @@ If the target was a neutral killer of a select few, you'll become the role they 
     * Maverick
     * Imitator
 
-> From: TBD
+> From: ToUR

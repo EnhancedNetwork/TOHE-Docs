@@ -17,7 +17,7 @@ The Arrogance reduces their kill cooldown with each successful kill of theirs.
   * Set how much the Arrogance’s Kill Cooldown depletes by after successful kills
 * Minimum kill cooldown
   * Set how low the Arrogance’s Kill Cooldown can possibly be
-* <font color=yellow>(Hidden Role) Bard - Has a % Chance of replacing Arrogance.</font>
+* <font color=#f46f4e>(Hidden Role) Bard - Has a % Chance of replacing Arrogance.</font>
 
 <center>
 

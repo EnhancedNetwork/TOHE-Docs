@@ -46,4 +46,4 @@ You can see the player's id before the player's name, or use the `/id` command t
   * <font color=green>ON</font>: the mod will attempt to hide the Doomsayer's `/bt` commands
   * <font color=red>OFF</font>: the mod will not care to hide the Doomsayer's commands.
 
-> From: TBD
+> From: ToUR

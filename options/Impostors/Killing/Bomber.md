@@ -25,7 +25,7 @@ The Bomber can Shapeshift to Suicide Bomb the surrounding area. All player’s w
 * <font color=red>Bomber</font> dies in their explosion
   * <font color=green>ON</font>: <font color=red>Bomber</font> survives the bomb
   * <font color=red>OFF</font>: <font color=red>Bomber</font> dies to the bomb
-* <font color=yellow>(Hidden Role) Nuker - Has a % chance to replace the Bomber</font>
+* <font color=#f46f4e>(Hidden Role) Nuker - Has a % chance to replace the Bomber</font>
   * Nuke Cooldown
     * Set how long the Nuker needs to wait to nuke
   * Nuke radius (12x is very large)

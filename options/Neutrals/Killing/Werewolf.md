@@ -23,4 +23,4 @@ All your kills will have the Mauled death reason.
   * <font color=green>ON</font>: the Werewolf has Impostor vision
   * <font color=red>OFF</font>: the Werewolf does not have Impostor vision
 
-> From: TBD
+> From: ToUR

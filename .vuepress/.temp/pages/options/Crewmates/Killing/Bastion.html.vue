@@ -25,7 +25,7 @@ Be careful though, crewmates can also be killed with the bombs.</p>
 </li>
 </ul>
 <blockquote>
-<p>From: <a href="#">Discussions</a> &amp; Coding: Loonie &amp; Gurge</p>
+<p>From: <a href="#">Discussions</a> &amp; Coding: <a href="#">Loonie</a> &amp; <a href="#">Gurge</a></p>
 </blockquote>
 </div></template>
 

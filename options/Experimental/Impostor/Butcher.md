@@ -12,4 +12,4 @@ Butcher kills (including passive kills) have multiple dead bodies on targets, ma
 * Max
   * Set the Maximum amount of Butchers that can be in a match
 
-> Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM)

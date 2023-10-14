@@ -10,7 +10,7 @@ next: Mare
 
 Only <font color=#8cffff>Crewmates</font> can become Madmates. Madmates help the <font color=red>Impostors</font> to win the game, Madmates will lose if all <font color=red>Impostors</font> are killed/ejected. Madmates may know who the <font color=red>Impostors</font> are and <font color=red>Impostors</font> may know who the Madmates are (according to the host's settings).
 
-Lazy Guy, Celebrity can't become Madmate. Sheriff, Snitch, Vigilante, Mayor, and Judge may become Madmate depending on the host's settings). Abilities change when the following roles are converted into Madmates:
+Lazy Guy, Celebrity can't become Madmate. Sheriff, Snitch, Vigilante, Mayor, and Judge may become Madmate depending on the host's settings. Abilities change when the following roles are converted into Madmates:
 
 - Time Manager => Doing tasks will reduce meeting time
 - Bodyguard => Their skill won't activate if the killer is an Impostor

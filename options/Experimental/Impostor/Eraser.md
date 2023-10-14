@@ -17,4 +17,4 @@ Eraser can vote for any crew target at the meeting to erase the target's roles, 
   * <font color=green>ON</font>: The Erasers votes will be hidden in Meeting
   * <font color=red>OFF</font>: The Erasers votes will appear as a normal vote
 
-> Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: TOR:GMH & Coding: [KARPED1EM](https://github.com/KARPED1EM)

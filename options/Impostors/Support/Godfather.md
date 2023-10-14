@@ -16,4 +16,4 @@ In the next round, if someone kills the target, the killer will turn into a Refu
   * <font color=red>Refugee</font>: Killer will turn into Refugee.
   * <font color=red>Madmate</font>: Killer will turn into Madmate.
 
-> From: [ryuk](#) & Coding: [ryuk](#)
+> Idea & Coding: [ryuk](#)

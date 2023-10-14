@@ -37,7 +37,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: TOHE-R</p>
+<p>From: TOH</p>
 </blockquote>
 </div></template>
 

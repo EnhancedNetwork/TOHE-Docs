@@ -29,4 +29,4 @@ Only the Cultist team and the <font color=#8cffff>Crewmate</font> team are left,
   * <font color=green>ON</font>: when the Cultist attempts to Charm a Neutral, they will become Charmed
   * <font color=red>OFF</font>: when the Cultist attempts to Charm a Neutral, the Cultist will receive a message saying “This player cannot be Charmed”
 
-> From: TBD
+> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)

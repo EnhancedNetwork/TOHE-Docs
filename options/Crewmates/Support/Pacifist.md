@@ -18,4 +18,4 @@ When the Pacifist vents, they will reset the kill cooldown for everyone with a k
 * <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
   * Set the amount of Ability Uses a Pacifist gains with each Task completed (0.1 increments)
 
-> From: 我若戏命 & Coding: [喜](https://space.bilibili.com/443432765)
+> From: [我若戏命](#) & Coding: [喜](https://space.bilibili.com/443432765)

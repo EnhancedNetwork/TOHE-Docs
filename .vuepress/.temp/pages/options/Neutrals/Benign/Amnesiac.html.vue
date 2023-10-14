@@ -27,7 +27,7 @@ If the target was a neutral killer of a select few, you'll become the role they 
 </li>
 </ul>
 <blockquote>
-<p>From: TBD</p>
+<p>From: ToUR</p>
 </blockquote>
 </div></template>
 

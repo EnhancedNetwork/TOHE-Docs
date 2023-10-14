@@ -1,7 +1,7 @@
 <template><div><h1 id="🤡-madmate" tabindex="-1"><a class="header-anchor" href="#🤡-madmate" aria-hidden="true">#</a> <font color=red>🤡 <b>Madmate</b></font> <Badge text="Impostor" type="tip" vertical="middle"/></h1>
 <hr>
 <p>Only <font color=#8cffff>Crewmates</font> can become Madmates. Madmates help the <font color=red>Impostors</font> to win the game, Madmates will lose if all <font color=red>Impostors</font> are killed/ejected. Madmates may know who the <font color=red>Impostors</font> are and <font color=red>Impostors</font> may know who the Madmates are (according to the host's settings).</p>
-<p>Lazy Guy, Celebrity can't become Madmate. Sheriff, Snitch, Vigilante, Mayor, and Judge may become Madmate depending on the host's settings). Abilities change when the following roles are converted into Madmates:</p>
+<p>Lazy Guy, Celebrity can't become Madmate. Sheriff, Snitch, Vigilante, Mayor, and Judge may become Madmate depending on the host's settings. Abilities change when the following roles are converted into Madmates:</p>
 <ul>
 <li>Time Manager =&gt; Doing tasks will reduce meeting time</li>
 <li>Bodyguard =&gt; Their skill won't activate if the killer is an Impostor</li>

@@ -26,4 +26,4 @@ If the player name displays 「●」, it means they have been recruited.
 * Time to Vent
   * Set how long a Revolutionist has to Vent.
 
-> From: 波奇酱 & Coding: [NCSIMON](https://github.com/NCSIMON)
+> From: [波奇酱](#) & Coding: [NCSIMON](https://github.com/NCSIMON)

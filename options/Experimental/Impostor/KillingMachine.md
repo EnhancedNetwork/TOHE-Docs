@@ -14,4 +14,4 @@ The Killing Machine has a very short kill cooldown, but cannot vent, has lower v
 * Kill Cooldown
   * Set the Killing Machines Kill Cooldown
 
-> Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM)

@@ -23,4 +23,4 @@ You'll either become a Sheriff, Refugee, or some other Neutral.<br>
     * Follower
     * Maverick
 
-> From: TBD
+> From: TOHRE (Old Amnesiac)

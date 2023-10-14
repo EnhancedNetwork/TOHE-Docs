@@ -14,4 +14,4 @@ After vote Collector vote for a target, they can collect all the votes cast by t
 * Required number of votes
   * Set the amount of Votes a Collector needs to receive to Win
 
-> From: [NCSIMON](https://github.com/NCSIMON) & Coding: [NCSIMON](https://github.com/NCSIMON)
+> Idea & Coding: [NCSIMON](https://github.com/NCSIMON)

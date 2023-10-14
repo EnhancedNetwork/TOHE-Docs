@@ -15,4 +15,4 @@ You cannot be guessed, as that adds to your attack count.
 * Amount of attacks needed to win
   * Set how many times the Masochist needs to be attacked to win
 
-> From: TBD
+> From: TOH+

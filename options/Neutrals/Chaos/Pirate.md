@@ -24,4 +24,4 @@ You win after winning a certain number of duels set by the host.
 * Number of successful duels needed to win
   * Set how many times the Pirate needs to win a duel to win
 
-> From: TOS & Coding: [ryuk](#)
+> From: Town of Salem 1 & Coding: [ryuk](#)

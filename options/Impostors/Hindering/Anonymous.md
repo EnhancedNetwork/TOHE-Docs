@@ -20,4 +20,4 @@ The Anonymous can Shapeshift into people to make them automatically report any d
 * Ability Use Count
   * Set how many times the Anonymous can use his Ability
 
-> From: IDK
+> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)

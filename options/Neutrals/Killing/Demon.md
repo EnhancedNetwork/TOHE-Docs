@@ -27,4 +27,4 @@ Only the Demon team and the <font color=#8cffff>Crewmate</font> team are left, a
   * Set how much health a Demon loses when someone tries to kill them
 
 
-> From: [KARPED1EM](https://github.com/KARPED1EM) &  Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)

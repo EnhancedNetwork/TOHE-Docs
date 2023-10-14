@@ -20,4 +20,4 @@ Be careful though, crewmates can also be killed with the bombs.
 * (Initial) Maximum bombs
   *  Set the maximum initial amount of bombs a Bastion will have
 
-> From: [Discussions](#) & Coding: Loonie & Gurge
+> From: [Discussions](#) & Coding: [Loonie](#) & [Gurge](#)

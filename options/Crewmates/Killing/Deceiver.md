@@ -16,4 +16,4 @@ The Deceiver can pass counterfeits to other players through the kill button. If 
 * Max number of uses
   * Set how many times a Deceiver can give people Counterfeits
 
-> From: 罗寄 & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> From: [罗寄](#) & Coding: [KARPED1EM](https://github.com/KARPED1EM)

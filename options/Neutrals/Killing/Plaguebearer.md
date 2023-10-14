@@ -22,4 +22,4 @@ You win by killing everyone.
   * <font color=green>ON</font>: the Pestilence can see as far as an <font color=red>Impostor</font> can
   * <font color=red>OFF</font>: the Pestilence will have <font color=#8cffff>Crewmate</font> Vision
 
-> From: idk & Coding: [ryuk](#)
+> From: ToUR & Coding: [ryuk](#)

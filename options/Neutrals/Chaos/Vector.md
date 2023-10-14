@@ -16,4 +16,4 @@ Vector will win alone by venting a certain number of times.
 * Vent Cooldown
   * Set how long the Vector has to wait to Vent
   
-> From: [KARPED1EM](https://github.com/KARPED1EM) &  Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)

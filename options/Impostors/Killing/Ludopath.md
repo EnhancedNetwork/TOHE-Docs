@@ -5,7 +5,7 @@ prev: Inhibitor
 next: Lurker
 ---
 
-# <font color=red>🤡 Ludopath</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>🤡 <b>Ludopath</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 As the Ludopath, your kill cooldown is randomized.<br><br>

@@ -5,7 +5,7 @@ prev: Morphling
 next: TimeThief
 ---
 
-# <font color="red">🦹 Nemesis</font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">🦹 <b>Nemesis</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 Nemesis cannot kill if their <font color=red>Impostor</font> teammate is alive. They can use their Revenge command `/rv {ID}` after death to kill a few people.

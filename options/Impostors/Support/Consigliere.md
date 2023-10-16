@@ -5,7 +5,7 @@ prev: Cleaner
 next: Disruptor
 ---
 
-# <font color="red">👨‍⚖️ Consigliere</font> <Badge text="Support" type="tip" vertical="middle"/><Badge text="Added in 2.4.2 Dev 2" type="warning" vertical="middle"/>
+# <font color="red">👨‍⚖️ <b>Consigliere</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 As the Consigiliere, you can reveal the roles of other players using your kill button.<br>

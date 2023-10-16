@@ -64,6 +64,8 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**Dawson**](https://youtu.be/MTW4sIL9Dpw?si=LpHF7tX6Aj5WLwFD)：Spanish Translator
 
+[**Loonie Toons**](https://github.com/Loonie-Toons): TOHRE Dev (No longer public)
+
 
 ## Credited Mods 
 
@@ -73,7 +75,7 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**Town Of Host**](https://github.com/tukasa0001/TownOfHost)：The Original Town of Host Mod.
 
-[**Town Of Host Y**](https://github.com/Yumenopai/TownOfHost_Y)：Mutliple Ideas such as: AntiAdminer (Disruptor), CursedWolf, Workaholic, Greedier (Greedy), DarkHide (Wraith).
+[**Town Of Host Y**](https://github.com/Yumenopai/TownOfHost_Y)：Mutliple Ideas such as: AntiAdminer (Disruptor), CursedWolf, Workaholic, Greedier (Greedy), DarkHide (Stalker).
 
 [**Town Of Host: The Other Roles**](https://github.com/music-discussion/TownOfHost-TheOtherRoles)：MANY Role Ideas, also Exile Confirm, & Split RPC Pack.
 
@@ -91,7 +93,7 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**Project Lotus**](https://github.com/ImaMapleTree/Lotus)：Multiple Ideas such as: Crusader.
 
-[**Stellar Roles**](https://github.com/Mr-Fluuff/StellarRolesAU)：Multiple Ideas such as: Inspector (Parity Cop).
+[**Stellar Roles**](https://github.com/Mr-Fluuff/StellarRolesAU)：Multiple Ideas such as: Parity Cop (Inspector).
 
 [**Town of Us Reactivated**](https://github.com/eDonnes124/Town-Of-Us-R): Multiple Ideas such as: Witness (Detective), Medic, & Tracker.
 

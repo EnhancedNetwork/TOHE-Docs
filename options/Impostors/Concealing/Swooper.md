@@ -5,7 +5,7 @@ prev: SoulCatcher
 next: Trickster
 ---
 
-# <font color="red">🦇 Swooper</font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">🦇 <b>Swooper</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 ---
 
 The Swooper can Vent to turn invisible Temporarily. They can Vent again to cancel the Ability. 

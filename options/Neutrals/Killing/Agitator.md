@@ -5,7 +5,7 @@ prev: /options/settings/Neutrals.html
 next: Arsonist
 ---
 
-# <font color="#a41342">🗣️ <b>Agitator</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#F4A460">💣 <b>Agitator</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 As the Agitator, your premise is essentially Hot Potato.<br><br>

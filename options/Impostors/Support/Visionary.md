@@ -5,7 +5,7 @@ prev: Vindicator
 next: /options/settings/Impostors.html
 ---
 
-# <font color="red">🔭 Visionary</font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">🔭 <b>Visionary</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 As the Visionary, you see the alignments of living players during a meeting.<br>

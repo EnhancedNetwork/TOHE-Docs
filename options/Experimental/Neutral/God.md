@@ -18,4 +18,4 @@ God knows everyone's role from the beginning, and God will win alone as long as 
   * <font color=green>ON</font>: God can Guess people in Guesser Mode <b>(easy way to quickly win, it’s overpowered/broken)</b>
   * <font color=red>OFF</font>: God cannot Guess, even when Guesser Mode is enabled
 
-> From: SNR &  Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> From: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM)

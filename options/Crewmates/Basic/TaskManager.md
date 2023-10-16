@@ -5,7 +5,7 @@ prev: SuperStar
 next: Tracefinder
 ---
 
-# <font color="#01ffa5">📝 <b>TaskManager</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
+# <font color="#01ffa5">📝 <b>Task Manager</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
 ---
 
 You see the total number of tasks completed by everyone all together next to your role name, which updates in real time.

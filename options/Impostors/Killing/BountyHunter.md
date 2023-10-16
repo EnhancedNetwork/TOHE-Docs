@@ -5,7 +5,7 @@ prev: Bomber
 next: Chronomancer
 ---
 
-# <font color=red>🎯 Bounty Hunter</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>🎯 <b>Bounty Hunter</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 If you kill your assigned target, your next kill cooldown will be shortened. If you kill anyone other than your target, your next kill cooldown will be increased. The target swaps after a certain amount of time.

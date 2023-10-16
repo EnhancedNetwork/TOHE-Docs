@@ -5,7 +5,7 @@ prev: Arrogance
 next: Bomber
 ---
 
-# <font color=red>🪓 Berserker</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>🪓 <b>Berserker</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 As the Berserker, you level up with each kill. Upon reaching a certain level defined by the host, you unlock a new power.<br><br>

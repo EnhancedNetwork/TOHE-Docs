@@ -5,7 +5,7 @@ prev: Warlock
 next: /options/settings/Impostors.html
 ---
 
-# <font color="red">🐺 Wildling</font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">🐺 <b>Wildling</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 ---
 
 The Wildling can Shapeshift, but cannot Vent. After a Wilding kills, they gain a Temporary shield and become invincible for a set amount of time.

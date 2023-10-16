@@ -5,7 +5,7 @@ prev: Ludopath
 next: Mercenary
 ---
 
-# <font color=red>👁️ Lurker</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>👁️ <b>Lurker</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 As the Lurker, you can jump into a vent to reduce your cooldown by a certain number of seconds. After you kill, your cooldown is reset to its original value.

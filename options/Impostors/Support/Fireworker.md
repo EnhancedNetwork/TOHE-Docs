@@ -5,7 +5,7 @@ prev: Disruptor
 next: Gangster
 ---
 
-# <font color="red">🧨 Fireworker</font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">🧨 <b>Fireworker</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 Fireworker can place Fireworks to cause Area Damage. The Fireworker can plant up to three firework bombs using shapeshift. When the Fireworker is the Last Impostor, they can Shapeshift to set off all Fireworks they’ve placed.

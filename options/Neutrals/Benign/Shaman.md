@@ -5,7 +5,7 @@ prev: Romantic
 next: Witch
 ---
 
-# <font color="#50c878">🧙 Shaman</font> <Badge text="Benign" type="tip" vertical="middle"/>
+# <font color="#50c878">🧙 <b>Shaman</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
 ---
 
 As Shaman you can use your kill button to select voodoo doll once every round. All the interactions with you using kill button will be deflected to the voodoo doll and the voodoo doll will destroy.<br><br>
@@ -16,4 +16,4 @@ If you survive till the end, you win with the winning team.
 * Voodoo Cooldown
   * Set the cooldown of the voodoo doll 
 
-> From: [ryuk](#) & Coding: [ryuk](#)
+> Idea & Coding: [ryuk](#)

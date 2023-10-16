@@ -5,7 +5,7 @@ prev: /options/settings/Impostors.html
 next: Mastermind
 ---
 
-# <font color="red">🏃 Escapist</font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">🏃 <b>Escapist</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 ---
 
 Escapist can mark a location by shapeshifting, and then they can Unshift. When they Shapeshift again, they will return to their Original Shapeshift location.

@@ -5,7 +5,7 @@ prev: Puppeteer
 next: Shapemaster
 ---
 
-# <font color="red">🧺 Scavenger</font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">🧺 <b>Scavenger</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 ---
 
 When a Scavenger kills, it will not leave a dead body, (Like Hangman if they are Shapeshifted). If they kill a bait, No self report will be made.

@@ -5,7 +5,7 @@ prev: Virus
 next: Wraith
 ---
 
-# <font color="#191970">🐺 Werewolf</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#191970">🐺 <b>Werewolf</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 As the Werewolf, you're a killer that can only kill during lights.<br>

@@ -5,14 +5,13 @@ prev: /options/settings/Impostors.html
 next: Dazzler
 ---
 
-# <font color="red">🕵️ Anonymous</font> <Badge text="Hindering" type="tip" vertical="middle"/>
+# <font color="red">🕵️ <b>Anonymous</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>
 ---
 
 The Anonymous can Shapeshift into people to make them automatically report any dead body the Anonymous killed, or if no dead body, they will report themself.<br>
 * Notes: 
   * Hacking ignores whether a body can be reported
-  * Hacking Lazy Guy will do nothing
-<br><br>
+  * Hacking Lazy Guy will do nothing<br><br>
 * Max
   * Set the Maximum amount of Anonymous’ that can be in a match
 * Kill Cooldown

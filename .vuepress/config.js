@@ -163,7 +163,6 @@ export default ({
             { text: 'Bloodlust', link: '/options/Addons/Mixed/Bloodlust.html' },
             { text: 'Diseased', link: '/options/Addons/Mixed/Diseased.html' },
             { text: 'Ghoul', link: '/options/Addons/Mixed/Ghoul.html' },
-            { text: 'Glow', link: '/options/Addons/Mixed/Glow.html' },
             { text: 'Gravestone', link: '/options/Addons/Mixed/Gravestone.html' },
             { text: 'Guesser', link: '/options/Addons/Mixed/Guesser.html' },
             { text: 'Schizophrenic', link: '/options/Addons/Mixed/Schizophrenic.html' },
@@ -198,6 +197,7 @@ export default ({
             { text: 'Jailer', link: '/options/Crewmates/Killing/Jailer.html' },
             { text: 'Judge', link: '/options/Crewmates/Killing/Judge.html' },
             { text: 'Knight', link: '/options/Crewmates/Killing/Knight.html' },
+            { text: 'Nice Guesser', link: '/options/Crewmates/Killing/NiceGuesser.html' },
             { text: 'Retributionist', link: '/options/Crewmates/Killing/Retributionist.html' },
             { text: 'Reverie', link: '/options/Crewmates/Killing/Reverie.html' },
             { text: 'Sheriff', link: '/options/Crewmates/Killing/Sheriff.html' },
@@ -214,16 +214,15 @@ export default ({
             { text: 'Mayor', link: '/options/Crewmates/Power/Mayor.html' },
             { text: 'Monarch', link: '/options/Crewmates/Power/Monarch.html' },
             { text: 'Overseer', link: '/options/Crewmates/Power/Overseer.html' },
+            { text: 'President', link: '/options/Crewmates/Power/President.html' },
             { text: 'Telecommunication', link: '/options/Crewmates/Power/Telecommunication.html' },
           ],
           '/options/Crewmates/Support/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
-            { text: '*Admirer', link: '/options/Crewmates/Support/Admirer.html' },
             { text: 'Chameleon', link: '/options/Crewmates/Support/Chameleon.html' },
             { text: 'Coroner', link: '/options/Crewmates/Support/Coroner.html' },
             { text: 'Deputy', link: '/options/Crewmates/Support/Deputy.html' },
             { text: 'Detective', link: '/options/Crewmates/Support/Detective.html' },
-            { text: 'Engineer', link: '/options/Crewmates/Support/Engineer.html' },
             { text: 'Fortune Teller', link: '/options/Crewmates/Support/FortuneTeller.html' },
             { text: 'Grenadier', link: '/options/Crewmates/Support/Grenadier.html' },
             { text: 'Inspector', link: '/options/Crewmates/Support/Inspector.html' },
@@ -237,13 +236,18 @@ export default ({
             { text: 'Oracle', link: '/options/Crewmates/Support/Oracle.html' },
             { text: 'Pacifist', link: '/options/Crewmates/Support/Pacifist.html' },
             { text: 'Psychic', link: '/options/Crewmates/Support/Psychic.html' },
-            { text: 'Scientist', link: '/options/Crewmates/Support/Scientist.html' },
             { text: 'Snitch', link: '/options/Crewmates/Support/Snitch.html' },
             { text: 'Spiritualist', link: '/options/Crewmates/Support/Spiritualist.html' },
             { text: 'Time Manager', link: '/options/Crewmates/Support/TimeManager.html' },
             { text: 'Time Master', link: '/options/Crewmates/Support/TimeMaster.html' },
             { text: 'Tracker', link: '/options/Crewmates/Support/Tracker.html' },
             { text: 'Witness', link: '/options/Crewmates/Support/Witness.html' },
+          ],
+          '/options/Crewmates/Vanilla/': [
+            { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
+            { text: 'Crewmate', link: '/options/Crewmates/Vanilla/Crewmate.html' },
+            { text: 'Engineer', link: '/options/Crewmates/Vanilla/Engineer.html' },
+            { text: 'Scientist', link: '/options/Crewmates/Vanilla/Scientist.html' },
           ],
           '/options/Experimental/Addon/': [
             { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },
@@ -285,7 +289,11 @@ export default ({
             { text: 'Swooper', link: '/options/Impostors/Concealing/Swooper.html' },
             { text: 'Trickster', link: '/options/Impostors/Concealing/Trickster.html' },
             { text: 'Undertaker', link: '/options/Impostors/Concealing/Undertaker.html' },
-            { text: 'Vampire', link: '/options/Impostors/Concealing/Vampire.html' },
+            {
+              text: 'Vampire', link: '/options/Impostors/Concealing/Vampire.html', children: [
+                { text: 'Vampiress', link: '/options/Impostors/Concealing/Vampiress.html' },
+              ]
+            },
             { text: 'Warlock', link: '/options/Impostors/Concealing/Warlock.html' },
             { text: 'Wildling', link: '/options/Impostors/Concealing/Wildling.html' },
           ],
@@ -299,15 +307,23 @@ export default ({
           ],
           '/options/Impostors/Killing/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
-            { text: 'Agent', link: '/options/Impostors/Killing/Agent.html' },
-            { text: 'Arrogance', link: '/options/Impostors/Killing/Arrogance.html' },
-            { text: 'Assassin', link: '/options/Impostors/Killing/Assassin.html' },
+            {
+              text: 'Arrogance', link: '/options/Impostors/Killing/Arrogance.html', children: [
+                { text: 'Bard', link: '/options/Impostors/Killing/Bard.html' },
+              ]
+            },
             { text: 'Berserker', link: '/options/Impostors/Killing/Berserker.html' },
-            { text: 'Bomber', link: '/options/Impostors/Killing/Bomber.html' },
+            {
+              text: 'Bomber', link: '/options/Impostors/Killing/Bomber.html', children: [
+                { text: 'Nuker', link: '/options/Impostors/Killing/Nuker.html' },
+              ]
+            },
             { text: 'Bounty Hunter', link: '/options/Impostors/Killing/BountyHunter.html' },
             { text: 'Councillor', link: '/options/Impostors/Killing/Councillor.html' },
             { text: 'Cursed Wolf', link: '/options/Impostors/Killing/CursedWolf.html' },
             { text: 'Deathpact', link: '/options/Impostors/Killing/Deathpact.html' },
+            { text: 'Evil Guesser', link: '/options/Impostors/Killing/EvilGuesser.html' },
+            { text: 'Evil Tracker', link: '/options/Impostors/Killing/EvilTracker.html' },
             { text: 'Greedy', link: '/options/Impostors/Killing/Greedy.html' },
             { text: 'Inhibitor', link: '/options/Impostors/Killing/Inhibitor.html' },
             { text: 'Ludopath', link: '/options/Impostors/Killing/Ludopath.html' },
@@ -340,6 +356,11 @@ export default ({
             { text: 'Time Thief', link: '/options/Impostors/Support/TimeThief.html' },
             { text: 'Vindicator', link: '/options/Impostors/Support/Vindicator.html' },
             { text: 'Visionary', link: '/options/Impostors/Support/Visionary.html' },
+          ],
+          '/options/Impostors/Vanilla/': [
+            { text: 'Back to Impostors', link: '/options/Settings/Crewmates.html' },
+            { text: 'Impostor', link: '/options/Impostors/Vanilla/Impostor.html' },
+            { text: 'Shapeshifter', link: '/options/Impostors/Vanilla/Shapeshifter.html' },
           ],
           '/options/Neutrals/Benign': [
             { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
@@ -380,7 +401,11 @@ export default ({
             { text: 'Doomsayer', link: '/options/Neutrals/Evil/Doomsayer.html' },
             { text: 'Executioner', link: '/options/Neutrals/Evil/Executioner.html' },
             { text: 'Innocent', link: '/options/Neutrals/Evil/Innocent.html' },
-            { text: 'Jester', link: '/options/Neutrals/Evil/Jester.html' },
+            {
+              text: 'Jester', link: '/options/Neutrals/Evil/Jester.html', children: [
+                { text: 'Sunnyboy', link: '/options/Neutrals/Evil/Sunnyboy.html' },
+              ]
+            },
             { text: 'Masochist', link: '/options/Neutrals/Evil/Masochist.html' },
             { text: 'Seeker', link: '/options/Neutrals/Evil/Seeker.html' },
           ],

@@ -5,7 +5,7 @@ prev: Consigliere
 next: Fireworker
 ---
 
-# <font color="red">🛠️ Disruptor</font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">🛠️ <b>Disruptor</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 The Disruptor can at any time find out if there are crewmates or <font color=#7f8c8d>Neutrals</font> near Cameras, Admin Table, Vitals, DoorLog and/or other devices.<br>

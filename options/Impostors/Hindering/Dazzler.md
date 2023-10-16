@@ -5,7 +5,7 @@ prev: Anonymous
 next: Devourer
 ---
 
-# <font color="red">🎇 Dazzler</font> <Badge text="Hindering" type="tip" vertical="middle"/>
+# <font color="red">🎇 <b>Dazzler</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>
 ---
 
 The Dazzler can Shapeshift into players to reduce their vision permanently, if you die their vision returns to normal.

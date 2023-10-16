@@ -5,7 +5,7 @@ prev: Mercenary
 next: QuickShooter
 ---
 
-# <font color="red">🥷 Ninja</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="red">🥷 <b>Ninja</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 <font size=4em>Formerly known as Assassin</font>
 

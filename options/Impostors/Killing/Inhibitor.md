@@ -5,7 +5,7 @@ prev: Hangman
 next: Ludopath
 ---
 
-# <font color=red>🛡️ Inhibitor</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>🛡️ <b>Inhibitor</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 Inhibitor cannot kill during Sabotages.

@@ -5,7 +5,7 @@ prev: Shapeshifter
 next: Swooper
 ---
 
-# <font color="red">👻 Soul Catcher</font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">👻 <b>Soul Catcher</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 ---
 
 The Soul Catcher will Swap places with their Shapeshift Target as long as they aren’t in an abnormal state. (Pelican stomach, Vent, Dead)

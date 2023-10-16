@@ -5,7 +5,7 @@ prev: SerialKiller
 next: Stalker
 ---
 
-# <font color="#6697ff">👻 <b>Shroud</b></font> <Badge text="Killing" type="tip" vertical="middle"/><Badge text="Only in Dev 7 (2.5.1_11 Dev 7)" type="warning" vertical="middle"/>
+# <font color="#6697ff">👻 <b>Shroud</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 As the Shroud, you do not kill normally.<br>

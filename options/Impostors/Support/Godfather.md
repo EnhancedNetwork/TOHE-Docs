@@ -5,7 +5,7 @@ prev: Gangster
 next: Morphling
 ---
 
-# <font color="red">🤵 Godfather</font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">🤵 <b>Godfather</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 As the Godfather, you vote someone to make them your target.<br>

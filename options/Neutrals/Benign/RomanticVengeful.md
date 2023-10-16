@@ -2,7 +2,7 @@
 lang: en-US
 title: Vengeful Romantic
 prev: Romantic
-next: RomanticRuthless
+next: Romantic
 ---
 
 # <font color="#8b0000">💕 <b>Vengeful Romantic</b></font> <Badge text="Benign" type="tip" vertical="middle"/>

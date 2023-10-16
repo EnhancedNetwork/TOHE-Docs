@@ -5,7 +5,7 @@ prev: Dazzler
 next: Pitfall
 ---
 
-# <font color="red">👹 Devourer</font> <Badge text="Hindering" type="tip" vertical="middle"/>
+# <font color="red">👹 <b>Devourer</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>
 ---
 
 As the Devourer, you use your shapeshift to permanently change the appearance of the target of the shapeshift. Additionally, for each player's appearance changed, your kill cooldown is reduced by a defined number of seconds. If the Devourer dies or gets voted out during a meeting, the player's appearance will change back to their normal appearance.

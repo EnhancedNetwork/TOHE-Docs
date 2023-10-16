@@ -5,7 +5,7 @@ prev: Undertaker
 next: Warlock
 ---
 
-# <font color="red">🧛 Vampire</font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color=red>🧛 <b>Vampire</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 ---
 
 You kill with a delay. If you bite someone, they will die a set amount of time later. If a Meeting is called, the player you bite Dies immediately. (If you bite a Bait, you Self-Report)
@@ -16,10 +16,11 @@ You kill with a delay. If you bite someone, they will die a set amount of time l
 * Can Vent
   * <font color=green>ON</font>: Vampire can Vent
   * <font color=red>OFF</font>: Vampire cannot Vent
-* <font color=yellow>(Hidden Role) Vampiress - Has a % Chance of replacing Vampire.</font>
-  * As the Vampiress, you bite players much like a Vampire. However, you can also kill normally.<br><br>
-  Click once to bite.<br>
-  Click twice to kill normally.
-    * You must have “Disable Hidden Roles” toggled <font color=red>OFF</font> for this to have a chance to appear
+* <font color=#f46f4e>(Hidden Role) Vampiress - Has a % Chance of replacing Vampire.</font>
+
+<center>
+
+[<font color="red">Vampiress</font>](./Vampiress.html)
+</center>
 
 > From: TOH

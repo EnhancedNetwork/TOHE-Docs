@@ -563,6 +563,342 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Disregarded",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Disregarded.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Fragile",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Fragile.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Oblivious",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Oblivious.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Rascal",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Rascal.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sunglasses",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Sunglasses.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Unlucky",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Unlucky.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Void Ballot",
+    "headers": [],
+    "path": "/options/Addons/Harmful/VoidBallot.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Autopsy",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Autopsy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bait",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Bait.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Beartrap",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Beartrap.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bewilder",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Bewilder.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Burst",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Burst.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Cyber",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Cyber.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Double Shot",
+    "headers": [],
+    "path": "/options/Addons/Helpful/DoubleShot.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lazy",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Lazy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Loyal",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Loyal.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lucky",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Lucky.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Necroview",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Necroview.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Nimble",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Nimble.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Overclocked",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Overclocked.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Repairman",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Repairman.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Seer",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Seer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sleuth",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Sleuth.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Tiebreaker",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Tiebreaker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Torch",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Torch.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Watcher",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Watcher.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Circumvent",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Circumvent.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Clumsy",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Clumsy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Last Impostor",
+    "headers": [],
+    "path": "/options/Addons/Impostor/LastImpostor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Madmate",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Madmate.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mare",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Mare.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mimic",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Mimic.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Stealer",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Stealer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Swift",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Swift.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Egoist",
+    "headers": [],
+    "path": "/options/Addons/Miscellaneous/Egoist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lovers",
+    "headers": [],
+    "path": "/options/Addons/Miscellaneous/Lovers.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Reach",
+    "headers": [],
+    "path": "/options/Addons/Miscellaneous/Reach.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Workhorse",
+    "headers": [],
+    "path": "/options/Addons/Miscellaneous/Workhorse.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Antidote",
+    "headers": [],
+    "path": "/options/Addons/Mixed/Antidote.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Avenger",
+    "headers": [],
+    "path": "/options/Addons/Mixed/Avenger.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Aware",
+    "headers": [],
+    "path": "/options/Addons/Mixed/Aware.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bloodlust",
+    "headers": [],
+    "path": "/options/Addons/Mixed/Bloodlust.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Diseased",
+    "headers": [],
+    "path": "/options/Addons/Mixed/Diseased.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Ghoul",
+    "headers": [],
+    "path": "/options/Addons/Mixed/Ghoul.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Gravestone",
+    "headers": [],
+    "path": "/options/Addons/Mixed/Gravestone.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Guesser",
+    "headers": [],
+    "path": "/options/Addons/Mixed/Guesser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Schizophrenic",
+    "headers": [],
+    "path": "/options/Addons/Mixed/Schizophrenic.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Stubborn",
+    "headers": [],
+    "path": "/options/Addons/Mixed/Stubborn.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Addict",
     "headers": [],
     "path": "/options/Crewmates/Basic/Addict.html",
@@ -1004,338 +1340,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Disregarded",
+    "title": "Fool",
     "headers": [],
-    "path": "/options/Addons/Harmful/Disregarded.html",
+    "path": "/options/Experimental/Addon/Fool.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Fragile",
+    "title": "YouTuber",
     "headers": [],
-    "path": "/options/Addons/Harmful/Fragile.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Oblivious",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Oblivious.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Rascal",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Rascal.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sunglasses",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Sunglasses.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Unlucky",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Unlucky.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Void Ballot",
-    "headers": [],
-    "path": "/options/Addons/Harmful/VoidBallot.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Autopsy",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Autopsy.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bait",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Bait.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Beartrap",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Beartrap.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bewilder",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Bewilder.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Burst",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Burst.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Cyber",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Cyber.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Double Shot",
-    "headers": [],
-    "path": "/options/Addons/Helpful/DoubleShot.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lazy",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Lazy.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Loyal",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Loyal.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lucky",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Lucky.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Necroview",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Necroview.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Nimble",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Nimble.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Overclocked",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Overclocked.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Repairman",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Repairman.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Seer",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Seer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sleuth",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Sleuth.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Tiebreaker",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Tiebreaker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Torch",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Torch.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Watcher",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Watcher.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Circumvent",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Circumvent.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Clumsy",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Clumsy.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Last Impostor",
-    "headers": [],
-    "path": "/options/Addons/Impostor/LastImpostor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Madmate",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Madmate.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mare",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Mare.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mimic",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Mimic.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Stealer",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Stealer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Swift",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Swift.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Egoist",
-    "headers": [],
-    "path": "/options/Addons/Miscellaneous/Egoist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lovers",
-    "headers": [],
-    "path": "/options/Addons/Miscellaneous/Lovers.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Reach",
-    "headers": [],
-    "path": "/options/Addons/Miscellaneous/Reach.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Workhorse",
-    "headers": [],
-    "path": "/options/Addons/Miscellaneous/Workhorse.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Antidote",
-    "headers": [],
-    "path": "/options/Addons/Mixed/Antidote.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Avenger",
-    "headers": [],
-    "path": "/options/Addons/Mixed/Avenger.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Aware",
-    "headers": [],
-    "path": "/options/Addons/Mixed/Aware.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bloodlust",
-    "headers": [],
-    "path": "/options/Addons/Mixed/Bloodlust.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Diseased",
-    "headers": [],
-    "path": "/options/Addons/Mixed/Diseased.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Ghoul",
-    "headers": [],
-    "path": "/options/Addons/Mixed/Ghoul.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Gravestone",
-    "headers": [],
-    "path": "/options/Addons/Mixed/Gravestone.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Guesser",
-    "headers": [],
-    "path": "/options/Addons/Mixed/Guesser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Schizophrenic",
-    "headers": [],
-    "path": "/options/Addons/Mixed/Schizophrenic.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Stubborn",
-    "headers": [],
-    "path": "/options/Addons/Mixed/Stubborn.html",
+    "path": "/options/Experimental/Addon/YouTuber.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1357,20 +1371,6 @@ export const searchIndex = [
     "title": "Swapper",
     "headers": [],
     "path": "/options/Experimental/Crewmate/Swapper.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Fool",
-    "headers": [],
-    "path": "/options/Experimental/Addon/Fool.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "YouTuber",
-    "headers": [],
-    "path": "/options/Experimental/Addon/YouTuber.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1543,62 +1543,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Cursed Soul",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/CursedSoul.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Doomsayer",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Doomsayer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Executioner",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Executioner.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Innocent",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Innocent.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Jester",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Jester.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Masochist",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Masochist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Seeker",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Seeker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sunnyboy",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Sunnyboy.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Collector",
     "headers": [],
     "path": "/options/Neutrals/Chaos/Collector.html",
@@ -1672,6 +1616,62 @@ export const searchIndex = [
     "title": "Workaholic",
     "headers": [],
     "path": "/options/Neutrals/Chaos/Workaholic.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Cursed Soul",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/CursedSoul.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Doomsayer",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Doomsayer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Executioner",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Executioner.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Innocent",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Innocent.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Jester",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Jester.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Masochist",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Masochist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Seeker",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Seeker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sunnyboy",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Sunnyboy.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2187,6 +2187,20 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Impostor",
+    "headers": [],
+    "path": "/options/Impostors/Vanilla/Impostor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Shapeshifter",
+    "headers": [],
+    "path": "/options/Impostors/Vanilla/Shapeshifter.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Camouflager",
     "headers": [],
     "path": "/options/Impostors/Support/Camouflager.html",
@@ -2267,20 +2281,6 @@ export const searchIndex = [
     "title": "Visionary",
     "headers": [],
     "path": "/options/Impostors/Support/Visionary.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Impostor",
-    "headers": [],
-    "path": "/options/Impostors/Vanilla/Impostor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Shapeshifter",
-    "headers": [],
-    "path": "/options/Impostors/Vanilla/Shapeshifter.html",
     "pathLocale": "/",
     "extraFields": []
   },

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Copycat
-prev: /options/settings/Crewmates.html
+prev: /options/Settings/Crewmates.html
 next: Dictator
 ---
 

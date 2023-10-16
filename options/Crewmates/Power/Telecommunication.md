@@ -2,7 +2,7 @@
 lang: en-US
 title: Telecommunication
 prev: President
-next: /options/settings/Crewmates.html
+next: /options/Settings/Crewmates.html
 ---
 
 # <font color="#7223da">📡 Telecommunication</font> <Badge text="Power" type="tip" vertical="middle"/>

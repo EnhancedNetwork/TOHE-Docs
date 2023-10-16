@@ -1,11 +1,7 @@
 ---
 lang: en-US
 title: Ruthless Romantic
-<<<<<<< HEAD
-prev: Romantic
-=======
 prev: RomanticVengeful
->>>>>>> 26a189c87396a0f8e758738d70538ce94ea6cccb
 next: Romantic
 ---
 

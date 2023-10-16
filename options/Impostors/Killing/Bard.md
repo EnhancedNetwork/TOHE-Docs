@@ -2,7 +2,7 @@
 lang: en-US
 title: Bard
 prev: Arrogance
-next: Arrogance
+next: Berserker
 ---
 
 # <font color=red>🎻 <b>Bard</b></font> <Badge text="Hidden" type="tip" vertical="middle"/>

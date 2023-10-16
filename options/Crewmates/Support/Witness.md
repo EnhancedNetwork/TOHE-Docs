@@ -2,7 +2,7 @@
 lang: en-US
 title: Witness
 prev: Tracker
-next: /options/settings/Crewmates.html
+next: /options/Settings/Crewmates.html
 ---
 
 # <font color="#e70052">👁️‍🗨️ <b>Witness</b></font> <Badge text="Support" type="tip" vertical="middle"/>

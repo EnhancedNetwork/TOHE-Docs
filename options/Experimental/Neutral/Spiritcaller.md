@@ -2,7 +2,7 @@
 lang: en-US
 title: Spiritcaller
 prev: God
-next: /options/settings/Experimental.html
+next: /options/Settings/Experimental.html
 ---
 
 # <font color=#003366>👻 <b>Spiritcaller</b></font> <Badge text="Neutral" type="tip" vertical="middle"/>

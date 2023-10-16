@@ -2,7 +2,7 @@
 lang: en-US
 title: Swapper
 prev: Investigator
-next: /options/settings/Experimental.html
+next: /options/Settings/Experimental.html
 ---
 
 # <font color=#66e666>🔀 <b>Swapper</b></font> <Badge text="Crewmate" type="tip" vertical="middle"/>

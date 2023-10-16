@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Admirer
-prev: /options/settings/Experimental.html
+prev: /options/Settings/Experimental.html
 next: Investigator
 ---
 

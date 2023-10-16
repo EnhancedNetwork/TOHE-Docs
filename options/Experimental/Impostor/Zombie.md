@@ -2,7 +2,7 @@
 lang: en-US
 title: Zombie
 prev: Lightning
-next: /options/settings/Experimental.html
+next: /options/Settings/Experimental.html
 ---
 
 # <font color=red>🧟 <b>Zombie</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>

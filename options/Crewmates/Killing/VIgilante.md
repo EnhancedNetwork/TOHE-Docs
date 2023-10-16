@@ -2,7 +2,7 @@
 lang: en-US
 title: Crusader
 prev: Bodyguard
-next: Deceiver
+next: /options/Settings/Crewmates.html
 ---
 
 # <font color="#c65c39">🤺 <b>Vigilante</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

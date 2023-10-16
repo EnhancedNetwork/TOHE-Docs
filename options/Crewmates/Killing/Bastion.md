@@ -1,7 +1,7 @@
 ---
 link: en-US
 title: Bastion
-prev: /options/settings/Crewmates.html
+prev: /options/Settings/Crewmates.html
 next: Bodyguard
 ---
 

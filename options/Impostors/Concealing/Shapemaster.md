@@ -2,7 +2,7 @@
 lang: en-US
 title: Shapemaster
 prev: Scavenger
-next: Shapeshifter
+next: SoulCatcher
 ---
 
 # <font color="red">🔷 <b>Shapemaster</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>

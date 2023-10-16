@@ -2,7 +2,7 @@
 lang: en-US
 title: Stubborn
 prev: Schizophrenic
-next: /options/settings/Addons.html
+next: /options/Settings/Addons.html
 ---
 
 # <font color=#fa5434>😖 <b>Stubborn</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>

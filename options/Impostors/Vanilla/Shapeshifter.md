@@ -2,7 +2,7 @@
 lang: en-US
 title: Shapeshifter
 prev: Impostor
-next: /options/settings/Impostors.html
+next: /options/Settings/Impostors.html
 ---
 
 # <font color="red">🔷 <b>Shapeshifter</b></font> <Badge text="Vanilla" type="tip" vertical="middle"/>

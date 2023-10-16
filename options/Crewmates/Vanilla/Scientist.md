@@ -2,7 +2,7 @@
 lang: en-US
 title: Scientist
 prev: Engineer
-next: /options/settings/Crewmates.html
+next: /options/Settings/Crewmates.html
 ---
 
 # <font color="#8ee98e">🔬 <b>Scientist</b></font> <Badge text="Vanilla" type="tip" vertical="middle"/>

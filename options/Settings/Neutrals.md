@@ -5,14 +5,10 @@ prev: Crewmates
 next: Addons
 ---
 
-# <font color="#7f8c8d">👨‍🚀 <b>Faction: Neutral</b></font> <Badge text="Total: 57" type="tip" vertical="middle"/>
+# <font color="#7f8c8d">🥷 <b>Neutral Roles</b></font> <Badge text="Total: 57" type="tip" vertical="middle"/>
 ---
 
 <b>Play for yourself, and eliminate everyone around you. <font color=gray>Neutrals</font> can win alone, but they can also win with other players. Their victory conditions are different from other players. Each <font color=#7f8c8d>Neutral</font> player has a unique victory condition.</b>
-
-::: warning Note
-As of Version 3.1.0 Dev 2, Coven Faction has been removed and all its roles have been moved to the Neutral Faction.
-:::
 
 <table>
 <tr>

@@ -15,5 +15,8 @@ The Deceiver can pass counterfeits to other players through the kill button. If 
   * Set how long a Deceiver needs to wait to slide someone a Counterfeit
 * Max number of uses
   * Set how many times a Deceiver can give people Counterfeits
+* Deceiver loses ability if it deceives player without kill button
+  * <font color=green>ON</font>: Deceiver will lose their ability if they deceive a player without a kill button
+  * <font color=red>OFF</font>: Deceiver will not lose their ability even if they deceive a player without a kill button
 
 > From: [罗寄](#) & Coding: [KARPED1EM](https://github.com/KARPED1EM)

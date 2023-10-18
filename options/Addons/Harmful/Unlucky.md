@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Unlucky
-prev: Sunglasses
+prev: Rascal
 next: VoidBallot
 ---
 

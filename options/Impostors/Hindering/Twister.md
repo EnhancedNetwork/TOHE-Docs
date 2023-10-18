@@ -14,5 +14,10 @@ The Twister itself will not swap places with anyone and players who are in vents
   * Set the Maximum amount of Twisters that can be in a match
 * Twist Cooldown
   * Set the amount of time the Twister needs to wait to Twist
+* Shapeshift Duration
+  * Set the amount of time the Twister stays shifted for
+* Hide who the players swap places with
+  * <font color=green>ON</font>: players cannot see who they swapped places with
+  * <font color=red>OFF</font>: players can see who they swapped places with
 
 > From: Idea & Coding: [papercut](https://github.com/lars-wu)

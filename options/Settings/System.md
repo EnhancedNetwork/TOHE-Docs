@@ -14,6 +14,10 @@ next: /Roles.html
 * <font color=red>Black Screen Prevention (Recommended)</font>
   * <font color=green>ON</font>: Mod will prevent black-screening
   * <font color=red>OFF</font>: Mod will not prevent black-screening
+
+* Enable Gradient Tags <font color=red>(can cause disconnect issues)</font>
+  * <font color=green>ON</font>: Gradient Tags can be used.
+  * <font color=red>OFF</font>: Gradient Tags cannot be used.
 * <font color=#01ff00>Enable use of /kcount command</font>
   * <font color=green>ON</font>: Players can use /kcount to see the amount of killers left
   * <font color=red>OFF</font>: Players cannot use /kcount to see the amount of killers left
@@ -72,16 +76,13 @@ next: /Roles.html
   * Set how many minutes the host has to wait before the game auto-starts
 * Force start when Lobby Timer (in minutes) goes below
   * Set the time when the game will auto-start
-* Minimum player threshold to auto-start
+* Minimum Player Threshold to auto-start
   * Set the minimum amount of players required to auto-start the game
 * Initial countdown for auto-starting
   * Set the countdown for auto-starting the game
 * Auto Play Again
   * <font color=green>ON</font>: The game will auto-start again after the game ends
   * <font color=red>OFF</font>: The game will not auto-start again after the game ends
-* <font color=#0000ff>Show lobby code in Discord Status</font>
-  * <font color=green>ON</font>: The lobby code will be displayed in your Discord Status (Only works if you have Discord Rich Presence enabled)
-  * <font color=red>OFF</font>: The lobby code will not be displayed in your Discord Status
 
 * <font color=#01ff00>Low Load Mode</font>
   * <font color=green>ON</font>: Mod will use less power for loading things, making it run a bit faster
@@ -126,15 +127,12 @@ next: /Roles.html
 * Hide Game Settings
   * <font color=green>ON</font>: Others won't see what roles are enabled/disabled
   * <font color=red>OFF</font>: Others can see what roles are enabled/disabled like usual
-* Enable only custom `/n` messages
-  * <font color=green>ON</font>: only custom `/n` messages that are created by the host can be used
-  * <font color=red>OFF</font>: all default `/n` messages can be used
 * Players can use the `/color` command
   * <font color=green>ON</font>: players can `/color` to change their Bean Color
   * <font color=red>OFF</font>: players cannot change it with the command and have to do it normally
 * Player Name Mode
   * This is how the player’s name is displayed in game. You can choose between: 
-    * Name - Display the player’s name
+    * Disable - Default player names will be used
     * Color - Display the player’s color
     * Random - Display a random name
 * Disable Emoji in names
@@ -176,4 +174,4 @@ next: /Roles.html
   * <font color=green>ON</font>: Host can use the command `/up [rolename]` to get the specified role on the next game - Requires Permissions
   * <font color=red>OFF</font>: Host cannot use the command `/up [rolename]` to get the specified role on the next game
 
-> From: Moe
+> From: TOHE

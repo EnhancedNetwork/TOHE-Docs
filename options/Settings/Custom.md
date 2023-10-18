@@ -55,3 +55,5 @@ next: Impostors
   * Set the max amount of Long Tasks, like Open Waterways or Start Reactor
 * Short Tasks
   * Set the max amount of Short Tasks, like Prime Shields or Clean Vent
+
+> From: Innersloth

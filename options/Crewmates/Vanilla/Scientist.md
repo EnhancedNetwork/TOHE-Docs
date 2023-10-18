@@ -18,4 +18,9 @@ Catching self-reports, extra intel on body age, etc.
 * Vitals Duration
   * Set how long the Scientist can use Vitals for at a time
 
+::: danger "I have this disabled, why does it keep spawning?"
+You may have incompatible roles set! If you have a certain role & addon both enabled, the role will become its base. Here's ones that become Engineer:<br>
+Role: Doctor + Addon: Autopsy
+:::
+
 > From: Innersloth

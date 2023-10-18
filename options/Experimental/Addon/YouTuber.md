@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: YouTuber
-prev: Neptune
+prev: Fool
 next: /options/settings/Experimental.html
 ---
 

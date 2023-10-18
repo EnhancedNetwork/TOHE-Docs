@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Schizophrenic
-prev: Guesser
+prev: Rebound
 next: Stubborn
 ---
 
@@ -20,6 +20,5 @@ next: Stubborn
 * <font color=#8cffff>Crewmates</font> can become Schizophrenic
   * <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become this role
   * <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
-
 
 > Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)

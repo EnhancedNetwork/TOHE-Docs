@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Fool
-prev: Egoist
-next: Guesser
+prev: /options/settings/Experimental.html
+next: YouTuber
 ---
 
 # <font color=#e6e7ff>👻 <b>Fool</b></font> <Badge text="Addon" type="tip" vertical="middle"/>

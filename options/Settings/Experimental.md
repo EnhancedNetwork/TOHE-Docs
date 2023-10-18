@@ -5,7 +5,7 @@ prev: Addons
 next: Impostors
 ---
 
-# <font color=#76b8e0>🔴 <b>All: Experimental</b></font> <Badge text="Total: 16" type="tip" vertical="middle"/>
+# <font color=#76b8e0>👨‍🔬 <b>Experimental Roles</b></font> <Badge text="Total: 16" type="tip" vertical="middle"/>
 ---
 <b>These are roles that are not fully stable and may contain bugs. They can be Impostor, Crewmate, <font color=#7f8c8d>Neutral</font> roles or Add-ons. <u>USE AT YOUR OWN RISK</u></b>
 
@@ -44,7 +44,7 @@ next: Impostors
 
 ### <font color=#8cffff><b>Crewmate</b></font>
 ---
-[Investigator](/options/Experimental/Crewmate/Investigator.html) | [Swapper](/options/Experimental/Crewmate/Swapper.html)
+[Admirer](/options/Experimental/Crewmate/Admirer.html) | [Investigator](/options/Experimental/Crewmate/Investigator.html) | [Swapper](/options/Experimental/Crewmate/Swapper.html)
 <br>
 
 ### <font color=red><b>Impostor</b></font>

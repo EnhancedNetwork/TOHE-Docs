@@ -104,7 +104,7 @@ title: Advanced
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
-<td><kbd>F11</kbd></td>
+<td><kbd>Alt</kbd> + <kbd>F11</kbd></td>
 <td>Change resolution</td>
 </tr>
 <tr>
@@ -367,13 +367,13 @@ Valid variables:
 - `{{Map}}`
 ---
 
-## Ban list & banned words & banned name
+## Ban list, Banned Words & Banned Names
 
 Open the root directory of game: `..\Among Us\TOHE_DATA\`
 
 There are four files:
 
-- BanList.txt: Banned players - Please use friend codes
+- BanList.txt: Banned players - A list of friendcodes that will be unable to join your lobby (Please use friend codes)
 - BanWords.txt: Banned Words - A list of words that will be filtered out in the chat
-- DenyName.txt: Banned Name - A list of names that will be filtered out in the game
+- DenyName.txt: Banned Names - A list of names that will be filtered out in the game
 - template.txt: Message template ([above](#welcome-onfirstmeeting-onmeeting-auto-messages)) You can modify the welcome message and onMeeting message here

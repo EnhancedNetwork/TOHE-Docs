@@ -31,5 +31,8 @@ As the Deathpact, the targets of your shapeshifting are marked for a deathpact. 
 * Kill players in Death Pact on meeting
   * <font color=green>ON</font>: the Deathpact will kill the players in the Death Pact if they don't meet in time
   * <font color=red>OFF</font>: the Deathpact will not kill the players in the Death Pact if they don't meet in time
+* Players in active Death Pact can call meeting
+  * <font color=green>ON</font>: Players in the Deathpact can call meetings
+  * <font color=red>OFF</font>: Players in the Deathpact cannot call meetings
 
 > From: Idea & Coding: [papercut](https://github.com/lars-wu)

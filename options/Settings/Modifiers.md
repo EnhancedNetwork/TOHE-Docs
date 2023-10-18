@@ -239,4 +239,4 @@ next: Impostors
       * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become Onbound
       * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become Onbound
 
-> From: Moe 
+> From: TOHE

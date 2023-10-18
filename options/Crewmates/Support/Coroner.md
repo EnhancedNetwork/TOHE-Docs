@@ -21,5 +21,8 @@ As a Coroner you can’t report bodies, instead when you try to report, you will
   * Set the amount of Ability Uses a Coroner has at the start of the game
 * <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
   * Set the amount of Ability Uses a Coroner gains with each Task completed (0.1 increments)
+* Inform the Killer that he gets tracked
+  * <font color=green>ON</font>: the killer of the body that the Coroner kills will be alerted that they are being tracked
+  * <font color=red>OFF</font>: the killer of the body that the Coroner kills will not be alerted that they are being tracked
 
 > From: Idea & Coding: [papercut](https://github.com/lars-wu)

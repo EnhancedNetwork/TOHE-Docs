@@ -16,8 +16,8 @@ sidebar:
 # Roles
 
 <font size=4em><b>Latest Versions:</b></font><br>
-- <font size=3em><b>Dev Build: v1.0.2 Dev 4 (Most Recent)</b></font><br>
-- <font size=3em><b>Canary Build: TBD</b></font><br>
+- <font size=3em><b>Dev Build: v1.1.0 Dev 1 (Most Recent)</b></font><br>
+- <font size=3em><b>Canary Build: v1.1.0 Canary 1</b></font><br>
 - <font size=3em><b>Stable Build: 1.0.1</b></font><br><br>
 
 <table>
@@ -30,7 +30,7 @@ sidebar:
 <tr>
 <td><font color=#ff9ace><b>Add-ons</b></font></td>
 <td>Add-ons that can be added to any role for any player</td>
-<td align="center">49</td>
+<td align="center">48</td>
 </tr>
 
 <tr>

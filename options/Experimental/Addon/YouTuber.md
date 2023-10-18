@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: YouTuber
-prev: Neptune
-next: /options/Settings/Experimental.html
+prev: Fool
+next: /options/settings/Experimental.html
 ---
 
 # <font color=#fb749b>📹 <b>YouTuber</b></font> <Badge text="Addon" type="tip" vertical="middle"/>

@@ -16,6 +16,6 @@ Depending on the settings, it'll be either sus/not sus or their exact role.
   * Set how many times the Investigator can investigate players
 * Reveal Mode
   * Role - Reveals the targets Role
-  * Suspicion - Reveals is target is Sus or not (idk)
+  * Suspicion - Reveals if the Target has a kill button
 
 > From: Project Lotus

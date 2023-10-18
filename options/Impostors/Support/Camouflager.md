@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Camouflager
-prev: /options/Settings/Impostors.html
+prev: AntiAdminer
 next: Cleaner
 ---
 

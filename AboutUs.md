@@ -48,7 +48,7 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**xV & MCP**](https://github.com/xVCantCode)：Feature Coding
 
-[**Pyro**](https://youtube.com/@Pyro0TV)：Website Contributor
+[**Pyro**](https://youtube.com/@Pyro0TV)：Website Assistant
 
 [**chill_ultimated**](https://www.youtube.com/@chill_ultimated)：Russian Translator
 
@@ -64,12 +64,12 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**Dawson**](https://youtu.be/MTW4sIL9Dpw?si=LpHF7tX6Aj5WLwFD)：Spanish Translator
 
-[**Loonie Toons**](https://github.com/Loonie-Toons): TOHRE Dev (No longer public)
+[**Loonie Toons**](https://github.com/Loonie-Toons): TOHRE Dev (Privated by repo owner)
 
 
 ## Credited Mods 
 
-[**Town Of Host Re-Edited**](https://github.com/Loonie-Toons/Re-Edited)：TOH: Enhanced is a continuation of TOH: Re-Edited.
+[**Town Of Host Re-Edited**](https://github.com/Loonie-Toons/Re-Edited)：TOH: Enhanced is a continuation of TOH: Re-Edited. (Privated by repo owner)
 
 [**Town Of Host Edited**](https://github.com/KARPED1EM/TownOfHostEdited)：TOH: Re-Edited was a continuation of TOH: Edited.
 

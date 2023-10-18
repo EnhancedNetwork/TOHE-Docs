@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Fireworker
-prev: Disruptor
+prev: Consigliere
 next: Gangster
 ---
 

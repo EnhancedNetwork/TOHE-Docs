@@ -30,7 +30,7 @@ footer: ©2023 By Moe & KARPED1EM
 <p>We have taken over TOHRE to keep the mod maintained. Moe has taken Project Lead, and will still be maintaining the website, aswell as the Patreon.</p>
 <p>We play Among Us a fair amount, so we will do our best to keep it all updated and viable to play with
 each update that comes</p>
-<p>Please keep in mind that we are still in the Canary (Beta) phase, so not everything is optimized/stable.
+<p>Please keep in mind that we are still in the Early phase, so not everything is optimized/stable.
 We ask for your patience while we continue to make TOH: <i>Enhanced</i></p>
 <p>Ultimately, we thank you for your patience while we continue to update the mod. TOHE & TOHRE will be remembered with the new name Town of Host: Enhanced!</p>
 <p>Thanks Pyro for your help with the website! - Moe</p><br>

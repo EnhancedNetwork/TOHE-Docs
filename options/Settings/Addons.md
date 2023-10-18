@@ -5,7 +5,7 @@ prev: /options/settings/Neutrals.html
 next: /options/settings/Experimental.html
 ---
 
-# <font color="#ff9ace">➕ <b>All: Add-ons</b></font> <Badge text="Total: 49" type="tip" vertical="middle"/>
+# <font color="#ff9ace">➕ <b>Add-ons</b></font> <Badge text="Total: 48" type="tip" vertical="middle"/>
 ---
 
 <b>These are modifiers that any players can acquire. There are helpful, harmful, and <font color=red>Impostor</font> add-ons. Each one is unique in the way it affects the player.</b>
@@ -17,7 +17,7 @@ next: /options/settings/Experimental.html
 
 <tr>
 <td><font color=red><b>Harmful</b></font></td>
-<td align="center">7</td>
+<td align="center">6</td>
 </tr>
 
 <tr>
@@ -45,7 +45,7 @@ next: /options/settings/Experimental.html
 
 ### <font color=#ff0000><b>Harmful</b></font>
 ---
-[Disregarded](/options/Addons/Harmful/Disregarded.html) | [Fragile](/options/Addons/Harmful/Fragile.html) | [Oblivious](/options/Addons/Harmful/Oblivious.html) | [Rascal](/options/Addons/Harmful/Rascal.html) | [Sunglasses](/options/Addons/Harmful/sunglasses.html) | [Unlucky](/options/Addons/Harmful/Unlucky.html) | [Void Ballot](/options/Addons/Harmful/VoidBallot.html)
+[Disregarded](/options/Addons/Harmful/Disregarded.html) | [Fragile](/options/Addons/Harmful/Fragile.html) | [Oblivious](/options/Addons/Harmful/Oblivious.html) | [Rascal](/options/Addons/Harmful/Rascal.html) | [Unlucky](/options/Addons/Harmful/Unlucky.html) | [Void Ballot](/options/Addons/Harmful/VoidBallot.html)
 <br>
 
 ### <font color=#00ff00><b>Helpful</b></font>
@@ -64,7 +64,7 @@ next: /options/settings/Experimental.html
 
 ### <font color=#32a87f><b>Mixed</b></font>
 ---
-[Antidote](/options/Addons/Mixed/Antidote.html) | [Avenger](/options/Addons/Mixed/Avenger.html) | [Aware](/options/Addons/Mixed/Aware.html) | [Bloodlust](/options/Addons/Mixed/Bloodlust.html) | [Diseased](/options/Addons/Mixed/Diseased.html) | [Ghoul](/options/Addons/Mixed/Ghoul.html) | [Glow](/options/Addons/Mixed/Glow.html) | [Gravestone](/options/Addons/Mixed/Gravestone.html) | [Guesser](/options/Addons/Mixed/Guesser.html) | [Schizophrenic](/options/Addons/Mixed/Schizophrenic.html) | [Stubborn](/options/Addons/Mixed/Stubborn.html)
+[Antidote](/options/Addons/Mixed/Antidote.html) | [Avenger](/options/Addons/Mixed/Avenger.html) | [Aware](/options/Addons/Mixed/Aware.html) | [Bloodlust](/options/Addons/Mixed/Bloodlust.html) | [Diseased](/options/Addons/Mixed/Diseased.html) | [Ghoul](/options/Addons/Mixed/Ghoul.html) | [Glow](/options/Addons/Mixed/Glow.html) | [Gravestone](/options/Addons/Mixed/Gravestone.html) | [Guesser](/options/Addons/Mixed/Guesser.html) | [Rebound](/options/Addons/Mixed/Rebound.html) | [Schizophrenic](/options/Addons/Mixed/Schizophrenic.html) | [Stubborn](/options/Addons/Mixed/Stubborn.html)
 
 <br>
 

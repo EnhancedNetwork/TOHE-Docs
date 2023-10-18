@@ -270,3 +270,5 @@ next: Modifiers
   * Ghosts Can See Cause of Death
     * <font color=green>ON</font>: Ghosts will be able to see the cause of death of other players
     * <font color=red>OFF</font>: Ghosts will not be able to see the cause of death of other players
+
+> From: TOHE

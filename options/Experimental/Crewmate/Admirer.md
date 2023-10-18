@@ -18,5 +18,7 @@ You can only do this once.
 * Know the roles of Admired players
   * <font color=green>ON</font>: the Admirer will know the role of the player they Admire
   * <font color=red>OFF</font>: the Admirer will not know the role of the player they Admire
+* Skill Limit
+  * Set how many times the Admirer can admire players
 
 > From: Town of Salem II & Coding: [Loonie Toons](https://github.com/Loonie-Toons)

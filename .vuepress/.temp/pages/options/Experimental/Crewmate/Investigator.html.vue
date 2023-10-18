@@ -16,7 +16,7 @@ Depending on the settings, it'll be either sus/not sus or their exact role.</p>
 <li>Reveal Mode
 <ul>
 <li>Role - Reveals the targets Role</li>
-<li>Suspicion - Reveals is target is Sus or not (idk)</li>
+<li>Suspicion - Reveals if the Target has a kill button</li>
 </ul>
 </li>
 </ul>

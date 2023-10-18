@@ -1,6 +1,6 @@
 <template><div><h1 id="⛩️-occultist" tabindex="-1"><a class="header-anchor" href="#⛩️-occultist" aria-hidden="true">#</a> <font color="#375d91"> ⛩️ <b>Occultist</b></font> <Badge text="Killing" type="tip" vertical="middle"/></h1>
 <hr>
-<p>As the Occultist, you can curse players or kill them.<br>
+<font size=4em>Currently removed until Rework</font><p>As the Occultist, you can curse players or kill them.<br>
 Cursing a player works the same as spelling as a Spellcaster.</p>
 <ul>
 <li>Switch Action via:

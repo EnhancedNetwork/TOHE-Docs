@@ -1,4 +1,4 @@
-<template><div><h1 id="🔥-pyromaniac" tabindex="-1"><a class="header-anchor" href="#🔥-pyromaniac" aria-hidden="true">#</a> <font color="#fc8a4c">🔥 <b>Pyromaniac</b></font> <Badge text="Killing" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="🔥-pyromaniac" tabindex="-1"><a class="header-anchor" href="#🔥-pyromaniac" aria-hidden="true">#</a> <font color="#fc8c4c">🔥 <b>Pyromaniac</b></font> <Badge text="Killing" type="tip" vertical="middle"/></h1>
 <hr>
 <p>As the Pyromaniac, your job is to kill everyone and be the last one standing. Your special ability is that you can douse players. Whenever you kill a doused player, your kill cooldown will be very short.</p>
 <ul>

@@ -15,6 +15,15 @@
 </ul>
 </li>
 <li>
+<p>Enable Gradient Tags <font color=red>(can cause disconnect issues)</font></p>
+<ul>
+<li>
+<font color=green>ON</font>: Gradient Tags can be used.</li>
+<li>
+<font color=red>OFF</font>: Gradient Tags cannot be used.</li>
+</ul>
+</li>
+<li>
 <font color=#01ff00>Enable use of /kcount command</font><ul>
 <li>
 <font color=green>ON</font>: Players can use /kcount to see the amount of killers left</li>
@@ -182,7 +191,7 @@
 </ul>
 </li>
 <li>
-<p>Minimum player threshold to auto-start</p>
+<p>Minimum Player Threshold to auto-start</p>
 <ul>
 <li>Set the minimum amount of players required to auto-start the game</li>
 </ul>
@@ -200,14 +209,6 @@
 <font color=green>ON</font>: The game will auto-start again after the game ends</li>
 <li>
 <font color=red>OFF</font>: The game will not auto-start again after the game ends</li>
-</ul>
-</li>
-<li>
-<font color=#0000ff>Show lobby code in Discord Status</font><ul>
-<li>
-<font color=green>ON</font>: The lobby code will be displayed in your Discord Status (Only works if you have Discord Rich Presence enabled)</li>
-<li>
-<font color=red>OFF</font>: The lobby code will not be displayed in your Discord Status</li>
 </ul>
 </li>
 <li>
@@ -303,15 +304,6 @@
 </ul>
 </li>
 <li>
-<p>Enable only custom <code v-pre>/n</code> messages</p>
-<ul>
-<li>
-<font color=green>ON</font>: only custom <code v-pre>/n</code> messages that are created by the host can be used</li>
-<li>
-<font color=red>OFF</font>: all default <code v-pre>/n</code> messages can be used</li>
-</ul>
-</li>
-<li>
 <p>Players can use the <code v-pre>/color</code> command</p>
 <ul>
 <li>
@@ -325,7 +317,7 @@
 <ul>
 <li>This is how the player’s name is displayed in game. You can choose between:
 <ul>
-<li>Name - Display the player’s name</li>
+<li>Disable - Default player names will be used</li>
 <li>Color - Display the player’s color</li>
 <li>Random - Display a random name</li>
 </ul>
@@ -420,7 +412,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: Moe</p>
+<p>From: TOHE</p>
 </blockquote>
 </div></template>
 

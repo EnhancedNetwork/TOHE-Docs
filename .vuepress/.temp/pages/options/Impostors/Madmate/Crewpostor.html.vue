@@ -31,6 +31,19 @@
 <font color=red>OFF</font>: <font color=red>Impostors</font> don’t know the Crewpostor</li>
 </ul>
 </li>
+<li>Crewpostor lunges on kill
+<ul>
+<li>
+<font color=green>ON</font>: the Crewpostor lunges when they kill</li>
+<li>
+<font color=red>OFF</font>: the Crewpostor does not lunge when they kill</li>
+</ul>
+</li>
+<li>Number of tasks completed to make 1 kill
+<ul>
+<li>Set the amount of tasks that the Crewpostor has to do to make a kill</li>
+</ul>
+</li>
 <li>Override Crewpostor’s Tasks
 <ul>
 <li>
@@ -43,6 +56,8 @@
 <font color=green>ON</font>: the Crewpostor will receive Common Tasks that everyone else has</li>
 <li>
 <font color=red>OFF</font>: the Crewpostor doesn’t receive Common Tasks</li>
+</ul>
+</li>
 <li>Amount of Long Tasks for Crewpostor
 <ul>
 <li>Set how many Long Tasks the Crewpostor will receive</li>
@@ -51,8 +66,6 @@
 <li>Amount of Short Tasks for Crewpostor
 <ul>
 <li>Set how many Short Tasks the Crewpostor will receive</li>
-</ul>
-</li>
 </ul>
 </li>
 </ul>

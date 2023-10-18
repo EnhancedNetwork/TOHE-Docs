@@ -17,6 +17,14 @@
 <li>Set how many times a Deceiver can give people Counterfeits</li>
 </ul>
 </li>
+<li>Deceiver loses ability if it deceives player without kill button
+<ul>
+<li>
+<font color=green>ON</font>: Deceiver will lose their ability if they deceive a player without a kill button</li>
+<li>
+<font color=red>OFF</font>: Deceiver will not lose their ability even if they deceive a player without a kill button</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: <a href="#">罗寄</a> &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>

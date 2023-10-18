@@ -97,7 +97,7 @@
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
-<td><kbd>F11</kbd></td>
+<td><kbd>Alt</kbd> + <kbd>F11</kbd></td>
 <td>Change resolution</td>
 </tr>
 <tr>
@@ -343,13 +343,13 @@
 <li><code v-pre>{{Map}}</code></li>
 </ul>
 <hr>
-<h2 id="ban-list-banned-words-banned-name" tabindex="-1"><a class="header-anchor" href="#ban-list-banned-words-banned-name" aria-hidden="true">#</a> Ban list &amp; banned words &amp; banned name</h2>
+<h2 id="ban-list-banned-words-banned-names" tabindex="-1"><a class="header-anchor" href="#ban-list-banned-words-banned-names" aria-hidden="true">#</a> Ban list, Banned Words &amp; Banned Names</h2>
 <p>Open the root directory of game: <code v-pre>..\Among Us\TOHE_DATA\</code></p>
 <p>There are four files:</p>
 <ul>
-<li>BanList.txt: Banned players - Please use friend codes</li>
+<li>BanList.txt: Banned players - A list of friendcodes that will be unable to join your lobby (Please use friend codes)</li>
 <li>BanWords.txt: Banned Words - A list of words that will be filtered out in the chat</li>
-<li>DenyName.txt: Banned Name - A list of names that will be filtered out in the game</li>
+<li>DenyName.txt: Banned Names - A list of names that will be filtered out in the game</li>
 <li>template.txt: Message template (<a href="#welcome-onfirstmeeting-onmeeting-auto-messages">above</a>) You can modify the welcome message and onMeeting message here</li>
 </ul>
 </div></template>

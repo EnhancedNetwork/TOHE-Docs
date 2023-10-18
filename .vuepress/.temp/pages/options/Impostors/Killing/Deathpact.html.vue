@@ -58,6 +58,14 @@
 <font color=red>OFF</font>: the Deathpact will not kill the players in the Death Pact if they don't meet in time</li>
 </ul>
 </li>
+<li>Players in active Death Pact can call meeting
+<ul>
+<li>
+<font color=green>ON</font>: Players in the Deathpact can call meetings</li>
+<li>
+<font color=red>OFF</font>: Players in the Deathpact cannot call meetings</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: Idea &amp; Coding: <a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer">papercut<ExternalLinkIcon/></a></p>

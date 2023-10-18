@@ -1,9 +1,9 @@
 <template><div><h1 id="roles" tabindex="-1"><a class="header-anchor" href="#roles" aria-hidden="true">#</a> Roles</h1>
 <font size=4em><b>Latest Versions:</b></font><br><ul>
 <li>
-<font size=3em><b>Dev Build: v1.0.2 Dev 4 (Most Recent)</b></font><br></li>
+<font size=3em><b>Dev Build: v1.1.0 Dev 1</b></font><br></li>
 <li>
-<font size=3em><b>Canary Build: TBD</b></font><br></li>
+<font size=3em><b>Canary Build: v1.1.0 Canary 1 (Most Recent)</b></font><br></li>
 <li>
 <font size=3em><b>Stable Build: 1.0.1</b></font><br><br></li>
 </ul>
@@ -16,7 +16,7 @@
 <tr>
 <td><font color=#ff9ace><b>Add-ons</b></font></td>
 <td>Add-ons that can be added to any role for any player</td>
-<td align="center">49</td>
+<td align="center">48</td>
 </tr>
 <tr>
 <td><font color=#8cffff><b>Crewmate</b></font> </td>

@@ -12,7 +12,19 @@
 <li>Set the percentage players have of getting Bewilder.</li>
 </ul>
 </li>
-<li>Bewilder Vision: Set how far players with Bewilder can see.</li>
+<li>Bewilder Vision
+<ul>
+<li>Set how far players with Bewilder can see.</li>
+</ul>
+</li>
+<li>Killer gets Bewilder's Vision
+<ul>
+<li>
+<font color=green>ON</font>: The Bewilders Killer will gain the Bewilders Vision</li>
+<li>
+<font color=red>OFF</font>: The Bewilders Killer will not gain the Bewilders Vision</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: TOHR &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>

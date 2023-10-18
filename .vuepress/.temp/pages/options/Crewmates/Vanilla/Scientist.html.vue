@@ -20,6 +20,10 @@ Catching self-reports, extra intel on body age, etc.</p>
 </ul>
 </li>
 </ul>
+<div class="custom-container danger"><p class="custom-container-title">"I have this disabled, why does it keep spawning?"</p>
+<p>You may have incompatible roles set! If you have a certain role &amp; addon both enabled, the role will become its base. Here's ones that become Engineer:<br>
+Role: Doctor + Addon: Autopsy</p>
+</div>
 <blockquote>
 <p>From: Innersloth</p>
 </blockquote>

@@ -33,6 +33,14 @@
 <li>Set the amount of Ability Uses a Coroner gains with each Task completed (0.1 increments)</li>
 </ul>
 </li>
+<li>Inform the Killer that he gets tracked
+<ul>
+<li>
+<font color=green>ON</font>: the killer of the body that the Coroner kills will be alerted that they are being tracked</li>
+<li>
+<font color=red>OFF</font>: the killer of the body that the Coroner kills will not be alerted that they are being tracked</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: Idea &amp; Coding: <a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer">papercut<ExternalLinkIcon/></a></p>

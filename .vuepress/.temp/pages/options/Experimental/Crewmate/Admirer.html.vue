@@ -22,6 +22,11 @@ You can only do this once.</p>
 <font color=red>OFF</font>: the Admirer will not know the role of the player they Admire</li>
 </ul>
 </li>
+<li>Skill Limit
+<ul>
+<li>Set how many times the Admirer can admire players</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>From: Town of Salem II &amp; Coding: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">Loonie Toons<ExternalLinkIcon/></a></p>

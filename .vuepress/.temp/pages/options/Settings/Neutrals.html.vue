@@ -1,9 +1,6 @@
-<template><div><h1 id="👨‍🚀-faction-neutral" tabindex="-1"><a class="header-anchor" href="#👨‍🚀-faction-neutral" aria-hidden="true">#</a> <font color="#7f8c8d">👨‍🚀 <b>Faction: Neutral</b></font> <Badge text="Total: 57" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="🥷-neutral-roles" tabindex="-1"><a class="header-anchor" href="#🥷-neutral-roles" aria-hidden="true">#</a> <font color="#7f8c8d">🥷 <b>Neutral Roles</b></font> <Badge text="Total: 57" type="tip" vertical="middle"/></h1>
 <hr>
 <p><b>Play for yourself, and eliminate everyone around you. <font color=gray>Neutrals</font> can win alone, but they can also win with other players. Their victory conditions are different from other players. Each <font color=#7f8c8d>Neutral</font> player has a unique victory condition.</b></p>
-<div class="custom-container warning"><p class="custom-container-title">Note</p>
-<p>As of Version 3.1.0 Dev 2, Coven Faction has been removed and all its roles have been moved to the Neutral Faction.</p>
-</div>
 <table>
 <tr>
 <td colspan="2" align="center"><b><u>Role Count</u></b></td>

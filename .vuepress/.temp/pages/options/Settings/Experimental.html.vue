@@ -1,4 +1,4 @@
-<template><div><h1 id="🔴-all-experimental" tabindex="-1"><a class="header-anchor" href="#🔴-all-experimental" aria-hidden="true">#</a> <font color=#76b8e0>🔴 <b>All: Experimental</b></font> <Badge text="Total: 16" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="👨‍🔬-experimental-roles" tabindex="-1"><a class="header-anchor" href="#👨‍🔬-experimental-roles" aria-hidden="true">#</a> <font color=#76b8e0>👨‍🔬 <b>Experimental Roles</b></font> <Badge text="Total: 16" type="tip" vertical="middle"/></h1>
 <hr>
 <p><b>These are roles that are not fully stable and may contain bugs. They can be Impostor, Crewmate, <font color=#7f8c8d>Neutral</font> roles or Add-ons. <u>USE AT YOUR OWN RISK</u></b></p>
 <table>
@@ -29,7 +29,7 @@
 <br></p>
 <h3 id="crewmate" tabindex="-1"><a class="header-anchor" href="#crewmate" aria-hidden="true">#</a> <font color=#8cffff><b>Crewmate</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Experimental/Crewmate/Investigator.html">Investigator</RouterLink> | <RouterLink to="/options/Experimental/Crewmate/Swapper.html">Swapper</RouterLink>
+<p><RouterLink to="/options/Experimental/Crewmate/Admirer.html">Admirer</RouterLink> | <RouterLink to="/options/Experimental/Crewmate/Investigator.html">Investigator</RouterLink> | <RouterLink to="/options/Experimental/Crewmate/Swapper.html">Swapper</RouterLink>
 <br></p>
 <h3 id="impostor" tabindex="-1"><a class="header-anchor" href="#impostor" aria-hidden="true">#</a> <font color=red><b>Impostor</b></font></h3>
 <hr>

@@ -2,7 +2,7 @@
 lang: en-US
 title: Transporter
 prev: Tracefinder
-next: /options/settings/Crewmates.html
+next: /options/Settings/Crewmates.html
 ---
 
 # <font color="#42D1FF">🌀 <b>Transporter</b></font> <Badge text="Basic" type="tip" vertical="middle"/>

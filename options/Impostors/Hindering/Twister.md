@@ -2,7 +2,7 @@
 lang: en-US
 title: Twister
 prev: Pitfall
-next: /options/settings/Impostors.html
+next: /options/Settings/Impostors.html
 ---
 
 # <font color="red">🌪️ <b>Twister</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>

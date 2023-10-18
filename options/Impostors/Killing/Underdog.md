@@ -2,7 +2,7 @@
 lang: en-US
 title: Underdog
 prev: Trapster
-next: /options/settings/Impostors.html
+next: /options/Settings/Impostors.html
 ---
 
 # <font color="red">🐶 <b>Underdog</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

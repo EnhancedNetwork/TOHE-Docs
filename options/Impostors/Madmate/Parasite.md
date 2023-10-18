@@ -2,7 +2,7 @@
 lang: en-US
 title: Parasite
 prev: Crewpostor
-next: /options/settings/Impostors.html
+next: /options/Settings/Impostors.html
 ---
 
 # <font color="red">🦠 <b>Parasite</b></font> <Badge text="Madmate" type="tip" vertical="middle"/>

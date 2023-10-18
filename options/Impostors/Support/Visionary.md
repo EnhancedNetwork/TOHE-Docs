@@ -2,7 +2,7 @@
 lang: en-US
 title: Visionary
 prev: Vindicator
-next: /options/settings/Impostors.html
+next: /options/Settings/Impostors.html
 ---
 
 # <font color="red">🔭 <b>Visionary</b></font> <Badge text="Support" type="tip" vertical="middle"/>

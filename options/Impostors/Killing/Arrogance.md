@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Arrogance
-prev: /options/settings/Impostors.html
+prev: /options/Settings/Impostors.html
 next: Berserker
 ---
 

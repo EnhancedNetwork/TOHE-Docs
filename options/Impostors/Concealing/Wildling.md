@@ -2,7 +2,7 @@
 lang: en-US
 title: Wildling
 prev: Warlock
-next: /options/settings/Impostors.html
+next: /options/Settings/Impostors.html
 ---
 
 # <font color="red">🐺 <b>Wildling</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>

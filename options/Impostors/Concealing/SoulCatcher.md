@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Soul Catcher
-prev: Shapeshifter
+prev: Shapemaster
 next: Swooper
 ---
 

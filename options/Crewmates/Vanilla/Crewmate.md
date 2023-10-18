@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Crewmate
-prev: /options/settings/Crewmates.html
+prev: /options/Settings/Crewmates.html
 next: Engineer
 ---
 

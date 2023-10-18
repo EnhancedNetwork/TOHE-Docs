@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Autopsy
-prev: /options/settings/Addons.html
+prev: /options/Settings/Addons.html
 next: Bait
 ---
 

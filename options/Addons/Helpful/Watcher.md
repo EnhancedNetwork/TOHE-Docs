@@ -2,7 +2,7 @@
 lang: en-US
 title: Watcher
 prev: Torch
-next: /options/settings/Addons.html
+next: /options/Settings/Addons.html
 ---
 
 # <font color=#800080>👀 <b>Watcher</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>

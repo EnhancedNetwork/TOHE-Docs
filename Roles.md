@@ -59,7 +59,7 @@ sidebar:
 
 <tr>
 <td colspan=2><b>Total:</b></td>
-<td align="center"><b>239 Roles & 49 Add-ons</b></td>
+<td align="center"><b>239</b></td>
 </tr>
 </table>
 <br>

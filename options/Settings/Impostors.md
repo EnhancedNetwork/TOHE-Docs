@@ -17,7 +17,7 @@ next: Crewmates
 
 <tr>
 <td><font color=indigo><b>Concealing</b></font></td>
-<td align="center">14</td>
+<td align="center">13</td>
 </tr>
 
 <tr>
@@ -27,7 +27,7 @@ next: Crewmates
 
 <tr>
 <td><font color=#6e003a><b>Killing</b></font></td>
-<td align="center">23</td>
+<td align="center">22</td>
 </tr>
 
 <tr>

@@ -30,8 +30,14 @@ Executioner has an execution target, which will be indicated by a diamond 「♦
   * <font color=green>ON</font>: the Executioner can see their target's role
   * <font color=red>OFF</font>: Executioner sees the target as a normal player
 * When Target Dies, Executioner becomes
-  * Crewmate
   * Jester
   * Opportunist
+  * Convict
+  * Crewmate
+  * Celebrity
+  * Bodyguard
+  * Dictator
+  * Mayor
+  * Doctor
 
 > From: TOH

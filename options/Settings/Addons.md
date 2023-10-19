@@ -5,7 +5,7 @@ prev: /options/settings/Neutrals.html
 next: /options/settings/Experimental.html
 ---
 
-# <font color="#ff9ace">➕ <b>Add-ons</b></font> <Badge text="Total: 48" type="tip" vertical="middle"/>
+# <font color="#ff9ace">➕ <b>Add-ons</b></font> <Badge text="Total: 48 (+1)" type="tip" vertical="middle"/>
 ---
 
 <b>These are modifiers that any players can acquire. There are helpful, harmful, and <font color=red>Impostor</font> add-ons. Each one is unique in the way it affects the player.</b>

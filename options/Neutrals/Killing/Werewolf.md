@@ -8,10 +8,10 @@ next: Wraith
 # <font color="#191970">🐺 <b>Werewolf</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
-As the Werewolf, you're a killer that can only kill during lights.<br>
-Werewolf can call lights (and only lights) to start their rampage.<br>
-You have a low kill cooldown and do not lunge toward your kills.<br><br>
-All your kills will have the Mauled death reason.
+As the Werewolf, you can kill much like any killer.<br>
+However, when you kill, any nearby players also die.<br>
+Any player who dies to this will have their death reason as Mauled.<br><br>
+To balance this, you have a higher kill cooldown than anyone else.
 * Kill Cooldown
   * Set the Werewolf’s kill cooldown
 * Maul Radius

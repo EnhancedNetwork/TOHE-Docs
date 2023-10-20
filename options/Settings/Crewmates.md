@@ -5,7 +5,7 @@ prev: Impostors
 next: Neutrals
 ---
 
-# <font color="#8cffff">🦸‍♂️ <b>Crewmate Roles</b></font> <Badge text="Total: 62" type="tip" vertical="middle"/>
+# <font color="#8cffff">🦸‍♂️ <b>Crewmate Roles</b></font>
 ---
 
 <b>Focus on finding the <font color=red>Impostors</font> and completing tasks. These roles are very simple, making it easier for new players and the <font color=#8cffff>Crewmates</font> to win.</b>
@@ -37,6 +37,11 @@ next: Neutrals
 <tr>
 <td><font color=#8cffff><b>Vanilla</b></font></td>
 <td align="center">3</td>
+</tr>
+
+<tr>
+<td><font color=#8cffff><b>Total</b></font></td>
+<td align="center">62</td>
 </tr>
 
 </table>

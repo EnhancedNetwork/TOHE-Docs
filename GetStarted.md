@@ -10,7 +10,7 @@ title: Installation
 
 <b>Dev and Canary Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
 If you are a content creator, you may use these builds in your videos, but you may not provide a download link to your viewers. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked.<br><br>
-This policy is in place to keep the integrity of our Sponsor, Contributor, Tester, Booster, and Translator roles. If you are interested in becoming one of these roles, please see the below sections for more information.</b>
+This policy is in place to keep the integrity of our Sponsor, Contributor, Tester, Nitro Booster, and Translator roles. If you are interested in becoming one of these roles, please see the below sections for more information.</b>
 
 ## MANUAL INSTALLATION
 Installation requires that you own a PC version of Among Us on Steam, Epic, or Itch. 
@@ -30,7 +30,7 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, or I
 6. (Optional) Right click your Among Us.exe and click 'Create shortcut'. Move your new shortcut to wherever you can easily access it, such as your Desktop!
 #### You have now installed Town of Host: Enhanced! All that remains is to start up a private lobby and customize your settings.
 
-## Update
+## New Releases
 Keep an eye on the [releases page](https://github.com/0xDrMoe/TownofHost-Enhanced) for new releases. If a new version is released, all you'll usually need to do is repeat steps 1-2 above, unzipping into the same folder where you already have it installed and letting it overwrite. If it says it requires a newer version of Among Us, repeat steps 3-5 as well after making sure your base game is up to date.
 
 ## Installing Dev Builds/Canary Builds
@@ -43,7 +43,7 @@ Keep an eye on the [releases page](https://github.com/0xDrMoe/TownofHost-Enhance
 4. (Optional) Right click your Among Us.exe and click 'Create shortcut'. Move your new shortcut to wherever you can easily access it, such as your Desktop!
 #### You have successfully installed a Dev Build/Canary Build!
 
-## Dev Builds - Accessible by Contributors Testers, and Sponsors that are at least Insider tier.<br>
+## Dev Builds - Accessible by Contributors, Testers, and Sponsors that are at least Insider tier.<br>
 `NOT FOR DISTRIBUTION`
 - To become a <b>Contributor</b>, you need to help with coding in roles/addons/gamemodes/etc related to the mod
 - To become a <b>Tester</b>, you must be an active content creator with your <b>TOHE videos</b> having 600+ views on average

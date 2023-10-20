@@ -1,7 +1,7 @@
 ---
 lang: en-US
-title: Spiritualist
-prev: Snitch
+title: Spy
+prev: Spiritualist
 next: TimeManager
 ---
 

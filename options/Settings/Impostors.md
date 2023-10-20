@@ -5,7 +5,7 @@ prev: Modifiers
 next: Crewmates
 ---
 
-# <font color=red>🦹‍♂️ <b>Impostor Roles</b></font> <Badge text="Total: 56" type="tip" vertical="middle"/>
+# <font color=red>🦹‍♂️ <b>Impostor Roles</b></font>
 ---
 
 <b>Eliminate all <font color=#8cffff>Crewmates</font> and <font color=#7f8c8d>Neutrals</font> from the game by any means necessary. Each role has a unique way of accomplishing their goal. From mass-killing to framing others, they have to find any means necessary to win.</b><br>
@@ -43,6 +43,11 @@ next: Crewmates
 <tr>
 <td><font color=#8cffff><b>Vanilla</b></font> </td>
 <td align="center">2</td>
+</tr>
+
+<tr>
+<td><font color=red><b>Total</b></font></td>
+<td align="center">56</td>
 </tr>
 
 </table>

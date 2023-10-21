@@ -3,9 +3,9 @@
 <li>
 <font size=3em><b>Dev Build: v1.1.0 Dev 1</b></font><br></li>
 <li>
-<font size=3em><b>Canary Build: v1.1.0 Canary 1 (Most Recent)</b></font><br></li>
+<font size=3em><b>Canary Build: v1.1.0 Canary 1</b></font><br></li>
 <li>
-<font size=3em><b>Stable Build: 1.0.1</b></font><br><br></li>
+<font size=3em><b>Stable Build: 1.0.1 (Most Recent)</b></font><br><br></li>
 </ul>
 <table>
 <tr>

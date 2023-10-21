@@ -2,7 +2,7 @@
 lang: en-US
 title: Spiritualist
 prev: Snitch
-next: TimeManager
+next: Spy
 ---
 
 # <font color="#669999">🧘 <b>Spiritualist</b></font> <Badge text="Support" type="tip" vertical="middle"/>

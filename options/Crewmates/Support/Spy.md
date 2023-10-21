@@ -1,7 +1,7 @@
 ---
 lang: en-US
-title: Spiritualist
-prev: Snitch
+title: Spy
+prev: Spiritualist
 next: TimeManager
 ---
 
@@ -25,4 +25,4 @@ Note: If the kill button interaction is blocked the player's cooldown will reset
   * <font color=green>ON</font>: the interaction with the killer and Spy is stopped.
   * <font color=red>OFF</font>: the interaction with the killer and Spy is not stopped.
 
-> From: Idea & Coding: [LezaiYa](https://github.com/LezaiYa)
+> From: TOHE+

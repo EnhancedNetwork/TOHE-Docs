@@ -114,4 +114,7 @@ There are a few possibilities,
 
 ## How can I access Canary & Dev Builds
 
+1. Become a Translator, Sponsor (Initiate+), or Nitro Booster for Canary Access.
+
+2. Become a Contributor, Tester, or Sponsor (Insider+) for Canary <i>and</i> Dev Access.<br>
 Read near the bottom of the [Install/Get Started](/GetStarted.html) page.

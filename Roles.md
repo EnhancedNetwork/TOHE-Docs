@@ -36,7 +36,7 @@ sidebar:
 <tr>
 <td><font color=#8cffff><b>Crewmate</b></font> </td>
 <td>Play together and win by completing all tasks/voting out all Evil</td>
-<td align="center">61</td>
+<td align="center">62</td>
 </tr>
 
 <tr>
@@ -54,12 +54,12 @@ sidebar:
 <tr>
 <td><font color=#7c8c8d><b>Neutral</b></font></td>
 <td>Play alone and win via their own win conditions</td>
-<td align="center">57</td>
+<td align="center">56</td>
 </tr>
 
 <tr>
 <td colspan=2><b>Total:</b></td>
-<td align="center"><b>240</b></td>
+<td align="center"><b>239</b></td>
 </tr>
 </table>
 <br>

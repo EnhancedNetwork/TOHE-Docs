@@ -43,5 +43,11 @@ If they lose, you lose.
   * Crewmate
   * Jester
   * Opportunist
+  * Convict
+  * Celebrity
+  * Bodyguard
+  * Dictator
+  * Mayor
+  * Doctor
 
 > From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)

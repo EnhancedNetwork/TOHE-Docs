@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Time Manager
-prev: Spiritualist
+prev: Spy
 next: TimeMaster
 ---
 

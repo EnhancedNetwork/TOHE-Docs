@@ -5,7 +5,7 @@ prev: Guesser
 next: Schizophrenic
 ---
 
-# <font color=#56b5ff>🫂 <b>Rebound</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
+# <font color=#56b5ff>🏀 <b>Rebound</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
 ---
 
 With the Rebound add-on, if a Guesser successfully guessed you or a Judge successfully judged you, they will die instead.<br>

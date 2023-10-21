@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Snitch
-prev: Scientist
+prev: Psychic
 next: Spiritualist
 ---
 

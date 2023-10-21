@@ -67,4 +67,4 @@ As the Alchemist, you create a potion by completing a task. The potion you made 
 </tr>
 </table>
 
-> TOHEX
+> From: TOHE+

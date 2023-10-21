@@ -2,7 +2,7 @@
 lang: en-US
 title: Psychic
 prev: Pacifist
-next: Scientist
+next: Snitch
 ---
 
 # <font color="#6f698c">🪬 <b>Psychic</b></font> <Badge text="Support" type="tip" vertical="middle"/>

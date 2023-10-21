@@ -13,7 +13,7 @@ next: Impostors
   * <font color=red>OFF</font>: You can create and use your own settings
 * Map
   * Choose the Map between Skeld, Mira HQ, Polus, or Airship
-* Imposters
+* Impostors
   * Choose how many <font color=red>Impostors</font> you want in play (Affects Modded)
 * Confirm Ejects
   * <font color=green>ON</font>: Confirms if the person voted out was an <font color=red>Impostor</font>, or not an <font color=red>Impostor</font>

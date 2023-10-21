@@ -42,13 +42,13 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**Papercut**](https://github.com/lars-wu)：Role Coding
 
+[**Pyro**](https://youtube.com/@Pyro0TV)：Website Assistant
+
 [**Mousse**](https://github.com/Sand-and-Beans)：Document
 
 [**Тоха**](#)：Russian Translator
 
 [**xV & MCP**](https://github.com/xVCantCode)：Feature Coding
-
-[**Pyro**](https://youtube.com/@Pyro0TV)：Website Assistant
 
 [**chill_ultimated**](https://www.youtube.com/@chill_ultimated)：Russian Translator
 

@@ -320,8 +320,8 @@ export default ({
               ]
             },
             { text: 'Bounty Hunter', link: '/options/Impostors/Killing/BountyHunter.html' },
-            { text: 'Councillor', link: '/options/Impostors/Killing/Councillor.html' },
             { text: 'Chronomancer', link: '/options/Impostors/Killing/Chronomancer.html' },
+            { text: 'Councillor', link: '/options/Impostors/Killing/Councillor.html' },
             { text: 'Cursed Wolf', link: '/options/Impostors/Killing/CursedWolf.html' },
             { text: 'Deathpact', link: '/options/Impostors/Killing/Deathpact.html' },
             { text: 'Evil Guesser', link: '/options/Impostors/Killing/EvilGuesser.html' },

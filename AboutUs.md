@@ -14,7 +14,9 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**Moe**](https://github.com/0xDrMoe): Project Lead, Website Developer
 
-[**KARPED1EM**](https://github.com/KARPED1EM)：Original Creator
+[**KARPED1EM**](https://github.com/KARPED1EM)：Original TOHE Creator
+
+[**tukasa0001**](https://github.com/tukasa0001)：Original TOH Creator
 
 [**IRIDESCENT**](https://space.bilibili.com/434079598)：Art
 
@@ -56,13 +58,21 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**CrewCyan**](https://github.com/CrewCyan)：Simplified Chinese Translator
 
-[**乐崽吖**](https://github.com/LezaiYa)：Chinese Translator
+[**乐崽吖**](https://github.com/LezaiYa)：Chinese Translator & Role Coding
 
 [**法官**](https://github.com/hinhinarrrrrr)：Chinese Translator
 
 [**thewhiskas27**](https://github.com/Thewhiskas27)：Spanish Translator
 
 [**Dawson**](https://youtu.be/MTW4sIL9Dpw?si=LpHF7tX6Aj5WLwFD)：Spanish Translator
+
+[**Reginaldoo**](#)：Portuguese (Brazil) Translator
+
+[**Dopzy**](#)：Portuguese (Brazil) Translator
+
+[**Тony Stark**](#)：Portuguese (Brazil) Translator
+
+[**Arc**](#)：Portuguese (Brazil) Translator
 
 [**Loonie Toons**](https://github.com/Loonie-Toons): TOHRE Dev (Privated by repo owner)
 

@@ -40,8 +40,8 @@ next: Neutrals
 </tr>
 
 <tr>
-<td><font color=#8cffff><b>Total</b></font></td>
-<td align="center">62</td>
+<td><font color=#8cffff><b>Total:</b></font></td>
+<td align="center"><b>62</b></td>
 </tr>
 
 </table>

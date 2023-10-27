@@ -42,7 +42,7 @@ next: /options/settings/Experimental.html
 
 <tr>
 <td><font color=#ff9ace><b>Total</b></font></td>
-<td align="center">48 (+1)</td>
+<td align="center"><b>48 (+1)</b></td>
 </tr>
 
 </table>

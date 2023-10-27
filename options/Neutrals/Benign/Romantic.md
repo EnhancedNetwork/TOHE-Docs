@@ -11,8 +11,7 @@ next: Shaman
 The Romantic can pick their lover partner using their kill button (this can be done at any point of the game). Once they've picked their partner, they can use their kill button to give their partner a temporary shield which protects them from attacks. If their lover partner dies, the Romantic's role will change according to the following conditions:<br>
 1. If their partner was an Impostor, the Romantic becomes the Refugee<br>
 2. If their partner was a Neutral Killer, then they become Ruthless Romantic.<br>
-3. If their partner was a Coven Member, then they become Banshee.<br>
-4. If their partner was a Crewmate or a non-killing neutral, the Romantic becomes the Vengeful Romantic.<br>
+3. If their partner was a Crewmate or a non-killing neutral, the Romantic becomes the Vengeful Romantic.<br><br>
 
 The Romantic wins with the winning team if their partner wins.<br>
 Note : If your role changes your win condition will be changed accordingly

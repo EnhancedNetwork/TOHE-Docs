@@ -303,7 +303,7 @@ export default ({
             { text: 'Anonymous', link: '/options/Impostors/Hindering/Anonymous.html' },
             { text: 'Dazzler', link: '/options/Impostors/Hindering/Dazzler.html' },
             { text: 'Devourer', link: '/options/Impostors/Hindering/Devourer.html' },
-            { text: 'Pifall', link: '/options/Impostors/Hindering/Pitfall.html' },
+            { text: 'Pitfall', link: '/options/Impostors/Hindering/Pitfall.html' },
             { text: 'Twister', link: '/options/Impostors/Hindering/Twister.html' },
           ],
           '/options/Impostors/Killing/': [
@@ -320,6 +320,7 @@ export default ({
               ]
             },
             { text: 'Bounty Hunter', link: '/options/Impostors/Killing/BountyHunter.html' },
+            { text: 'Chronomancer', link: '/options/Impostors/Killing/Chronomancer.html' },
             { text: 'Councillor', link: '/options/Impostors/Killing/Councillor.html' },
             { text: 'Cursed Wolf', link: '/options/Impostors/Killing/CursedWolf.html' },
             { text: 'Deathpact', link: '/options/Impostors/Killing/Deathpact.html' },

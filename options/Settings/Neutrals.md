@@ -36,8 +36,8 @@ next: Addons
 </tr>
 
 <tr>
-<td><font color=#7c8c8d><b>Total</b></font></td>
-<td align="center">56</td>
+<td><font color=#7c8c8d><b>Total:</b></font></td>
+<td align="center"><b>56</b></td>
 </tr>
 
 </table>

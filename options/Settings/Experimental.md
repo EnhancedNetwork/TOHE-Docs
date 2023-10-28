@@ -35,8 +35,8 @@ next: Impostors
 </tr>
 
 <tr>
-<td><font color=#76b8e0><b>Total</b></font></td>
-<td align="center">16</td>
+<td><font color=#76b8e0><b>Total:</b></font></td>
+<td align="center"><b>16</b></td>
 </tr>
 
 </table>

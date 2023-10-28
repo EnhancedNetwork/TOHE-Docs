@@ -46,9 +46,9 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**Mousse**](https://github.com/Sand-and-Beans)：Document
 
-[**Тоха**](#)：Russian Translator
-
 [**xV & MCP**](https://github.com/xVCantCode)：Feature Coding
+
+[**Тоха**](#)：Russian Translator
 
 [**chill_ultimated**](https://www.youtube.com/@chill_ultimated)：Russian Translator
 
@@ -56,13 +56,21 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**CrewCyan**](https://github.com/CrewCyan)：Simplified Chinese Translator
 
-[**乐崽吖**](https://github.com/LezaiYa)：Chinese Translator
+[**乐崽吖**](https://github.com/LezaiYa)：Chinese Translator, Role Coding
 
 [**法官**](https://github.com/hinhinarrrrrr)：Chinese Translator
 
 [**thewhiskas27**](https://github.com/Thewhiskas27)：Spanish Translator
 
 [**Dawson**](https://youtu.be/MTW4sIL9Dpw?si=LpHF7tX6Aj5WLwFD)：Spanish Translator
+
+[**Reginaldoo**](#)：Portuguese (Brazil) Translator
+
+[**Dopzy**](#)：Portuguese (Brazil) Translator
+
+[**Tony Stark**](#)：Portuguese (Brazil) Translator
+
+[**Arc**](#)：Portuguese (Brazil) Translator
 
 [**Loonie Toons**](https://github.com/Loonie-Toons): TOHRE Dev (Privated by repo owner)
 

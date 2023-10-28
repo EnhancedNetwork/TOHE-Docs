@@ -18,7 +18,7 @@ sidebar:
 <font size=4em><b>Latest Versions:</b></font><br>
 - <font size=3em><b>Dev Build: v1.1.0 Dev 1</b></font><br>
 - <font size=3em><b>Canary Build: v1.1.0 Canary 1</b></font><br>
-- <font size=3em><b>Stable Build: 1.0.1 (Most Recent) (CURRENTLY DOESN'T SUPPORT FUNGLE[2023.10.24])</b></font><br><br>
+- <font size=3em><b>Stable Build: 1.2.0 (Most Recent)</b></font><br><br>
 
 <table>
 <tr>

@@ -16,9 +16,10 @@ sidebar:
 # Roles
 
 <font size=4em><b>Latest Versions:</b></font><br>
-- <font size=3em><b>Dev Build: v1.1.0 Dev 1</b></font><br>
-- <font size=3em><b>Canary Build: v1.1.0 Canary 1</b></font><br>
-- <font size=3em><b>Stable Build: 1.2.0 (Most Recent)</b></font><br><br>
+
+- <b><font size=3em>Dev:</font> [v1.2.1 Dev 2](/Changelogs.html)</b><br>
+- <b><font size=3em>Canary:</font> [v1.2.0 Canary 1](/changelogs/Canary.html)</b><br>
+- <b><font size=3em>Stable:</font> [v1.2.0](/changelogs/Dev.html)</b><br>
 
 <table>
 <tr>

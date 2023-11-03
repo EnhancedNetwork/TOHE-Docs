@@ -1,16 +1,16 @@
 <template><div><h1 id="🤡-madmate" tabindex="-1"><a class="header-anchor" href="#🤡-madmate" aria-hidden="true">#</a> <font color=red>🤡 <b>Madmate</b></font> <Badge text="Impostor" type="tip" vertical="middle"/></h1>
 <hr>
 <p>Only <font color=#8cffff>Crewmates</font> can become Madmates. Madmates help the <font color=red>Impostors</font> to win the game, Madmates will lose if all <font color=red>Impostors</font> are killed/ejected. Madmates may know who the <font color=red>Impostors</font> are and <font color=red>Impostors</font> may know who the Madmates are (according to the host's settings).</p>
-<p>Lazy Guy, Celebrity can't become Madmate. Sheriff, Snitch, Vigilante, Mayor, and Judge may become Madmate depending on the host's settings. Abilities change when the following roles are converted into Madmates:</p>
+<p>Lazy Guy, Celebrity can't become Madmate. Sheriff, Snitch, Nice Guesser, Mayor, and Judge may become Madmate depending on the host's settings. Abilities change when the following roles are converted into Madmates:</p>
 <ul>
 <li>Time Manager =&gt; Doing tasks will reduce meeting time</li>
 <li>Bodyguard =&gt; Their skill won't activate if the killer is an Impostor</li>
 <li>Grenadier =&gt; Flash bomb will work on <font color=#8cffff>Crewmates</font> and <font color=#7f8c8d>Neutrals</font> instead of Impostors</li>
 <li>Sheriff =&gt; Can kill anyone including <font color=red>Impostors</font> (depends on the host's settings)</li>
-<li>Vigilante =&gt; Can guess <font color=#8cffff>Crewmates</font> and Neutrals</li>
+<li>Nice Guesser =&gt; Can guess <font color=#8cffff>Crewmates</font> and Neutrals</li>
 <li>Psychic =&gt; All Evil <font color=#7f8c8d>Neutrals</font> and Crewmates' names with the ability to kill will be displayed in Red</li>
 <li>Judge =&gt; Can judge anyone</li>
-<li>Dove of Peace =&gt; Their ability only works on Crewmates</li>
+<li>Pacifist =&gt; Their ability only works on Crewmates</li>
 </ul>
 <p><strong>Madmate spawn mode [FirstKill]:</strong> If the number of existing Madmates are lower than the host settings, when the <font color=red>Impostor</font> attempts to kill a Crewmate, if the said <font color=#8cffff>Crewmate</font> meets the conditions for becoming a Madmate, they will become a Madmate instead of being killed.</p>
 <p><strong>Madmate spawn mode [SelfVote]:</strong> If the number of existing Madmates are lower than the host settings, the <font color=#8cffff>Crewmates</font> who voted for themselves in the meeting will become Madmates.</p>
@@ -62,7 +62,7 @@
 <font color=red>OFF</font>: this role cannot become Madmate</li>
 </ul>
 </li>
-<li>Vigilante
+<li>Nice Guesser
 <ul>
 <li>
 <font color=green>ON</font>: this role can become a Madmate</li>

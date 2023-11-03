@@ -7,7 +7,7 @@
 </tr>
 <tr>
 <td><font color=red><b>Harmful</b></font></td>
-<td align="center">6</td>
+<td align="center">8</td>
 </tr>
 <tr>
 <td><font color=#00ff00><b>Helpful</b></font></td>
@@ -26,14 +26,14 @@
 <td align="center">11</td>
 </tr>
 <tr>
-<td><font color=#ff9ace><b>Total</b></font></td>
-<td align="center"><b>48 (+1)</b></td>
+<td><font color=#ff9ace><b>Total:</b></font></td>
+<td align="center"><b>50 (+1)</b></td>
 </tr>
 </table>
 <br>
 <h3 id="harmful" tabindex="-1"><a class="header-anchor" href="#harmful" aria-hidden="true">#</a> <font color=#ff0000><b>Harmful</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Addons/Harmful/Disregarded.html">Disregarded</RouterLink> | <RouterLink to="/options/Addons/Harmful/Fragile.html">Fragile</RouterLink> | <RouterLink to="/options/Addons/Harmful/Oblivious.html">Oblivious</RouterLink> | <RouterLink to="/options/Addons/Harmful/Rascal.html">Rascal</RouterLink> | <RouterLink to="/options/Addons/Harmful/Unlucky.html">Unlucky</RouterLink> | <RouterLink to="/options/Addons/Harmful/VoidBallot.html">Void Ballot</RouterLink>
+<p><RouterLink to="/options/Addons/Harmful/Disregarded.html">Disregarded</RouterLink> | <RouterLink to="/options/Addons/Harmful/Fragile.html">Fragile</RouterLink> | <RouterLink to="/options/Addons/Harmful/Hurried.html">Hurried</RouterLink> | <RouterLink to="/options/Addons/Harmful/Influenced.html">Influenced</RouterLink> | <RouterLink to="/options/Addons/Harmful/Oblivious.html">Oblivious</RouterLink> | <RouterLink to="/options/Addons/Harmful/Rascal.html">Rascal</RouterLink> | <RouterLink to="/options/Addons/Harmful/Unlucky.html">Unlucky</RouterLink> | <RouterLink to="/options/Addons/Harmful/VoidBallot.html">Void Ballot</RouterLink>
 <br></p>
 <h3 id="helpful" tabindex="-1"><a class="header-anchor" href="#helpful" aria-hidden="true">#</a> <font color=#00ff00><b>Helpful</b></font></h3>
 <hr>

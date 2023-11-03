@@ -1,1 +1,14 @@
-export const data = JSON.parse("{\"key\":\"v-3b655427\",\"path\":\"/options/Experimental/Addon/Fool.html\",\"title\":\"Fool\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Fool\",\"prev\":\"/options/settings/Experimental.html\",\"next\":\"YouTuber\"},\"headers\":[],\"git\":{\"updatedTime\":1697640215000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Experimental/Addon/Fool.md\"}")
+export const data = JSON.parse("{\"key\":\"v-3b655427\",\"path\":\"/options/Experimental/Addon/Fool.html\",\"title\":\"Fool\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Fool\",\"prev\":\"/options/settings/Experimental.html\",\"next\":\"OIIAI\"},\"headers\":[],\"git\":{\"updatedTime\":1699029371000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Experimental/Addon/Fool.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

@@ -1,4 +1,4 @@
-<template><div><h1 id="🔀-swapper" tabindex="-1"><a class="header-anchor" href="#🔀-swapper" aria-hidden="true">#</a> <font color=#66e666>🔀 <b>Swapper</b></font> <Badge text="Crewmate" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="🔀-swapper" tabindex="-1"><a class="header-anchor" href="#🔀-swapper" aria-hidden="true">#</a> <font color=#66e666>🔀 <b>Swapper</b></font> <Badge text="Power" type="tip" vertical="middle"/></h1>
 <hr>
 <p>As the Swapper, you can swap votes in meetings.<br><br>
 To swap votes, use '/sw [playerID]' twice.<br><br>

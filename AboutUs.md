@@ -48,6 +48,8 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**xV & MCP**](https://github.com/xVCantCode)：Feature Coding
 
+[**NikoCat233**](https://github.com/NikoCat233)
+
 [**Тоха**](#)：Russian Translator
 
 [**chill_ultimated**](https://www.youtube.com/@chill_ultimated)：Russian Translator
@@ -82,7 +84,11 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**CreepPower**](#)：Latam (Latin American) Translator
 
-[**Loonie Toons**](https://github.com/Loonie-Toons): TOHRE Dev (Privated by repo owner)
+[**flyflyturtle**](#)：Traditional Chinese Translator
+
+[**pomelo123_**](#)：Traditional Chinese Translator
+
+[**Loonie Toons**](#): TOHRE Dev (Privated by repo owner)
 
 
 ## Credited Mods 

@@ -2,7 +2,7 @@
 lang: en-US
 title: President
 prev: Overseer
-next: Telecommunication
+next: Swapper
 ---
 
 # <font color="#ba55d3">🏛️ <b>President</b></font> <Badge text="Power" type="tip" vertical="middle"/>

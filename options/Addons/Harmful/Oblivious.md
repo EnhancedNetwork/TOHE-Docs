@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Oblivious
-prev: Fragile
+prev: Influenced
 next: Rascal
 ---
 

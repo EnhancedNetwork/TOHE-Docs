@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Swapper
-prev: Investigator
-next: /options/Settings/Experimental.html
+prev: President
+next: Telecommunication
 ---
 
-# <font color=#66e666>🔀 <b>Swapper</b></font> <Badge text="Crewmate" type="tip" vertical="middle"/>
+# <font color=#66e666>🔀 <b>Swapper</b></font> <Badge text="Power" type="tip" vertical="middle"/>
 ---
 
 As the Swapper, you can swap votes in meetings.<br><br>

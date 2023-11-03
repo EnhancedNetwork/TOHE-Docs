@@ -35,13 +35,14 @@ next: Modifiers
     * <font color=green>ON</font>: Map will be chosen randomly
       * Chance that the map is
         * Skeld - Set the chance that the map will be Skeld
-        * Mira HQ - Set the chance that the map will be Mira HQ
+        * MIRA HQ - Set the chance that the map will be MIRA HQ
         * Polus - Set the chance that the map will be Polus
         * Airship - Set the chance that the map will be Airship
+        * The Fungle - Set the chance that the map will be The Fungle
         * Use a more random map selection
           * <font color=green>ON</font>: Maps will be selected even more randomly
           * <font color=red>OFF</font>: Maps will not be selected even more randomly
-    * Random Spawns
+    * Random Spawns Mode
       * <font color=green>ON</font>: Spawn locations will be chosen randomly
         * Random Spawns in Locations
           * <font color=green>ON</font>: Spawn locations will be chosen randomly in their respective locations
@@ -53,14 +54,34 @@ next: Modifiers
           * <font color=green>ON</font>: Spawn locations will be chosen randomly on vents
           * <font color=red>OFF</font>: Spawn locations will be chosen normally
       * <font color=red>OFF</font>: Spawn locations will be chosen normally
-    * Variable Electrical
-      * The Electrical room will be randomized (Airship)
-    * Disable Moving Platform (Airship)
-      * <font color=green>ON</font>: Moving platform will be disabled
-      * <font color=red>OFF</font>: Moving platform will be enabled
-    * Reset Doors After Meetings (Airship/Polus)
+    * Map Modifications
+      * <font color=green>ON</font>: Map modifiers to change how you can play on maps
+      * <font color=red>OFF</font>: Map modifiers will not be implemented
+        * Variable Electrical (<font color=red>Airship</font>)
+          * The Electrical room will be randomized.
+        * Disable Moving Platform (<font color=red>Airship</font>)
+          * <font color=green>ON</font>: Moving platform will be disabled
+          * <font color=red>OFF</font>: Moving platform will be enabled
+        * Disable Spore Trigger (<font color=#ffa646>Fungle</font>)
+          * <font color=green>ON</font>: Spore Trigger will be disabled
+          * <font color=red>OFF</font>: Spore Trigger will be enabled
+        * Disable Zipline (<font color=#ffa646>Fungle</font>)
+          * <font color=green>ON</font>: Zipline will be disabled
+            * Disable Use From Top
+              * <font color=green>ON</font>: Zipline will be disabled from the top
+              * <font color=red>OFF</font>: Zipline will not be disabled from the top
+            * Disable Use From Bottom
+              * <font color=green>ON</font>: Zipline will be disabled from the bottom
+              * <font color=red>OFF</font>: Zipline will not be disabled from the bottom
+          * <font color=red>OFF</font>: Zipline will be enabled
+    * Reset Doors After Meetings (<font color=red>Airship</font>/<font color=#a167c0>Polus</font>/<font color=#ffa646>Fungle</font>)
       * <font color=green>ON</font>: Doors will be reset after meetings
-      * <font color=red>OFF</font>: Doors will not be reset after meetings
+        * Reset Doors Mode
+          * Set how Doors will be reset on these maps, choose from:
+          * All Open
+          * All Closed
+          * Closed Random
+        * <font color=red>OFF</font>: Doors will not be reset after meetings
 
 ### <font size=4em color=#f36060>Sabotage</font>
   * Camouflage During Comms Sabotage
@@ -79,6 +100,9 @@ next: Modifiers
           * Disable comms camouflage on Airship
             * <font color=green>ON</font>: Comms camouflage will be disabled on Airship
             * <font color=red>OFF</font>: Comms camouflage will be enabled on Airship
+          * Disable comms camouflage on Fungle
+            * <font color=green>ON</font>: Comms camouflage will be disabled on Fungle
+            * <font color=red>OFF</font>: Comms camouflage will be enabled on Fungle
       * Disable body reporting while camouflaged
         * <font color=green>ON</font>: players cannot report bodies while camouflaged
         * <font color=red>OFF</font>: players can report bodies while camouflaged
@@ -179,6 +203,15 @@ next: Modifiers
             * <font color=green>ON</font>: Vitals will be disabled
             * <font color=red>OFF</font>: Vitals will be enabled
         * <font color=red>OFF</font>: Airship Devices will be enabled
+      * Disable Fungle Devices
+        * <font color=green>ON</font>: Fungle Devices will be disabled
+          * Disable Binoculars
+            * <font color=green>ON</font>: Binoculars will be disabled
+            * <font color=red>OFF</font>: Binoculars will be enabled
+          * Disable Vitals
+            * <font color=green>ON</font>: Vitals will be disabled
+            * <font color=red>OFF</font>: Vitals will be enabled
+        * <font color=red>OFF</font>: Fungle Devices will be enabled
     * Ignore Conditions
       * Ignore <font color=red>Impostors</font>
         * <font color=green>ON</font>: <font color=red>Impostors</font> conditions will be ignored

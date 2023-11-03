@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Telecommunication
-prev: President
+prev: Swapper
 next: /options/Settings/Crewmates.html
 ---
 

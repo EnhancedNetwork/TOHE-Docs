@@ -27,10 +27,12 @@ next: /Roles.html
   
 * Kick players whose level is lower than
   * Set the minimum level required to play
+    * Temp Ban low level players
+      * <font color=green>ON</font>: Temporarily bans low level players from your lobby
+      * <font color=red>OFF</font>: Doesn't temporarily ban low level players from your lobby, kicks them like usual
 * Turn on Whitelist to bypass level kick
-  * Set the minimum level required to play
-    * <font color=green>ON</font>: Whitelisted players can join the lobby even if they don't meet lobby requirements
-    * <font color=red>OFF</font>: Whitelisted players are ignored, and treated as everyone else is
+  * <font color=green>ON</font>: Whitelisted players can join the lobby even if they don't meet lobby requirements
+  * <font color=red>OFF</font>: Whitelisted players are ignored, and treated as everyone else is
 * Kick Non-PC players
   * <font color=green>ON</font>: Non-PC players cannot play
     * Kick Android players
@@ -49,9 +51,12 @@ next: /Roles.html
       * <font color=green>ON</font>: Nintendo Switch players will be kicked from the lobby automatically
       * <font color=red>OFF</font>: Nintendo Switch players will not be kicked from the lobby automatically
   * <font color=red>OFF</font>: Non-PC players can play
-* Kick players who are not logged in
+* Kick players without a friend code
   * <font color=green>ON</font>: Players without a registered account cannot play
   * <font color=red>OFF</font>: Players without a registered account can play
+    * Temp Ban players without a friend code
+      * <font color=green>ON</font>: Temporarily bans players without friend codes from your lobby
+      * <font color=red>OFF</font>: Doesn't temporarily ban players without friend codes from your lobby, kicks them like usual
 * Apply VIP List
   * <font color=green>ON</font>: Players who are VIPs will be given a VIP Tag in the lobby
   * <font color=red>OFF</font>: There will be no VIP Tag in the lobby
@@ -64,14 +69,22 @@ next: /Roles.html
 * Apply Moderator List
   * <font color=green>ON</font>: Players that have been added to the Host’s Moderator List will be given Moderator Permissions in the lobby
   * <font color=red>OFF</font>: Players that have been added to the Host’s Moderator List will not be given Moderator Permissions in the lobby
+    * Allow moderators to use /say command
+      * <font color=green>ON</font>: Moderators can use /say to send a message when dead
+      * <font color=red>OFF</font>: Moderators cannot use /say to send a message when dead
 * Kick players that say start
   * <font color=green>ON</font>: Players that type “start, Start, begin, etc” will be kicked from the lobby
     * Number of warnings before kick
-      * Can set how many warnings a player gets/how many times a player can say start before they get kicked
+      * Set how many times a player can say start before they get kicked
     * Block a player after they’re kicked
       * <font color=green>ON</font>: Players that get kicked from spamming Start will be auto-blocked
       * <font color=red>OFF</font>: Players can join even when kicked
   * <font color=red>OFF</font>: Players will be able to say “start, Start, begin, etc” without being kicked
+* Temp ban players who keep quitting
+  * <font color=green>ON</font>: Players that keep quitting will be blacklisted from joining for some time
+  * <font color=red>OFF</font>: Players that keep quitting will not be blacklisted from joining for some time
+    * Amount of Quits needed for temp ban
+      * Set how many times a player can say quit before they get temp banned
 * Minutes to wait before auto-starting
   * Set how many minutes the host has to wait before the game auto-starts
 * Force start when Lobby Timer (in minutes) goes below
@@ -83,6 +96,8 @@ next: /Roles.html
 * Auto Play Again
   * <font color=green>ON</font>: The game will auto-start again after the game ends
   * <font color=red>OFF</font>: The game will not auto-start again after the game ends
+    * Delay before re-entering lobby
+      * Set how long it will take to re-enter lobby after a round
 
 * <font color=#01ff00>Low Load Mode</font>
   * <font color=green>ON</font>: Mod will use less power for loading things, making it run a bit faster
@@ -91,9 +106,6 @@ next: /Roles.html
 * <font color=#0000ff>End the game when a player has a critical error</font>
   * <font color=green>ON</font>: Game will force end once a player gets a game breaking bug
   * <font color=red>OFF</font>: Game will continue as before
-* <font color=#ff00ff>Remove pets at dead players</font>
-  * <font color=green>ON</font>: Pets will be removed from dead players
-  * <font color=red>OFF</font>: Pets will not be removed from dead players
 
 * When a cheating player is found
   * You can choose an action to take when a player is found cheating
@@ -169,6 +181,8 @@ next: /Roles.html
     * <font color=#ff8000>Moe</font> - Everyone appears as Moe's skin (the project lead)
     * <font color=#ec7578>Pyro</font> - Everyone appears as Pyro's skin (the Website Assistant)
     * <font color=#9e2424>ryuk</font> - Everyone appears as ryuk's skin (a lead contributor)
+    * <font color=#fffff>Gurge44</font> - Everyone appears as Gurge44's skin (a lead contributor/TOHE+ Dev)
+    * <font color=#ec7578>TommyXL</font> - Everyone appears as TommyXL's skin (a lead contributor)
 
 * <font color=cyan>Enable Youtuber Plan</font>
   * <font color=green>ON</font>: Host can use the command `/up [rolename]` to get the specified role on the next game - Requires Permissions

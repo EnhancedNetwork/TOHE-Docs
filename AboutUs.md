@@ -48,6 +48,8 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**xV & MCP**](https://github.com/xVCantCode)：Feature Coding
 
+[**NikoCat233**](https://github.com/NikoCat233)
+
 [**Тоха**](#)：Russian Translator
 
 [**chill_ultimated**](https://www.youtube.com/@chill_ultimated)：Russian Translator
@@ -64,15 +66,29 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**Dawson**](https://youtu.be/MTW4sIL9Dpw?si=LpHF7tX6Aj5WLwFD)：Spanish Translator
 
-[**Reginaldoo**](#)：Portuguese (Brazil) Translator
+[**Reginaldoo**](#)：Brazilian (Portuguese Brazil) Translator
 
-[**Dopzy**](#)：Portuguese (Brazil) Translator
+[**Dopzy**](#)：Brazilian (Portuguese Brazil) Translator
 
-[**Tony Stark**](#)：Portuguese (Brazil) Translator
+[**Tony Stark**](#)：Brazilian (Portuguese Brazil) Translator
 
-[**Arc**](#)：Portuguese (Brazil) Translator
+[**Arc**](#)：Brazilian (Portuguese Brazil) Translator
 
-[**Loonie Toons**](https://github.com/Loonie-Toons): TOHRE Dev (Privated by repo owner)
+[**KevOut**](#)：French Translator
+
+[**Sansationnelle**](#)：French Translator
+
+[**Klémi**](#)：French Translator
+
+[**Sunnyboi**](#)：Japanese Translator
+
+[**CreepPower**](#)：Latam (Latin American) Translator
+
+[**flyflyturtle**](#)：Traditional Chinese Translator
+
+[**pomelo123_**](#)：Traditional Chinese Translator
+
+[**Loonie Toons**](#): TOHRE Dev (Privated by repo owner)
 
 
 ## Credited Mods 

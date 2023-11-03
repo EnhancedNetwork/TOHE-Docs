@@ -2,7 +2,7 @@
 lang: en-US
 title: Investigator
 prev: Admirer
-next: Swapper
+next: /options/Settings/Experimental.html
 ---
 
 # <font color=#007FFF>🕵️ <b>Investigator</b></font> <Badge text="Crewmate" type="tip" vertical="middle"/>

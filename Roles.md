@@ -29,31 +29,31 @@ sidebar:
 </tr>
 
 <tr>
-<td><font color=#ff9ace><b>Add-ons</b></font></td>
+<td><a href="/options/Settings/Addons.md"><font color=#ff9ace><b>Add-ons</b></font></a></td>
 <td>Add-ons that can be added to any role for any player</td>
 <td align="center">50</td>
 </tr>
 
 <tr>
-<td><font color=#8cffff><b>Crewmate</b></font> </td>
+<td><a href="/options/Settings/Crewmates.md"><font color=#8cffff><b>Crewmate</b></font></a> </td>
 <td>Play together and win by completing all tasks/voting out all Evil</td>
 <td align="center">63</td>
 </tr>
 
 <tr>
-<td><font color=#76b8e0><b>Experimental</b></font></td>
+<td><a href="/options/Settings/Experimental.md"><font color=#76b8e0><b>Experimental</b></font></a></td>
 <td>Roles that are not fully stable and may contain bugs</td>
 <td align="center">16</td>
 </tr>
 
 <tr>
-<td><font color=red><b>Impostor</b></font></td>
+<td><a href="/options/Settings/Impostors.md"><font color=red><b>Impostor</b></font></a></td>
 <td>Play together and win via killing/voting out all Crewmates/Neutrals</td>
 <td align="center">56</td>
 </tr>
 
 <tr>
-<td><font color=#7c8c8d><b>Neutral</b></font></td>
+<td><a href="/options/Settings/Neutrals.md"><font color=#7c8c8d><b>Neutral</b></font></a></td>
 <td>Play alone and win via their own win conditions</td>
 <td align="center">56</td>
 </tr>

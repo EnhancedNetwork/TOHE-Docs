@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Pursuer
-prev: Opportunist
+prev: Pixie
 next: Romantic
 ---
 

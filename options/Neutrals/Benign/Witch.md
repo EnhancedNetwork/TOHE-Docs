@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Witch
-prev: Shaman
+prev: Taskinator
 next: /options/settings/Neutrals.html
 ---
 

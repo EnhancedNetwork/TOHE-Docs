@@ -98,7 +98,9 @@ This most likely isn't a bug, please make sure the duplicated role has a Maximum
 
 ## I got vanilla roles
 
-You might neeed to turn on the "Disable vanilla roles" option, and enable more roles. Another possiblity is that you may have incompatible roles set! If you have a certain role & addon both enabled, the role will become its base. (You can find info on what roles/addons are incompatible on these pages: [Crewmate](/options/Crewmates/Vanilla/Crewmate.html) | [Engineer](/options/Crewmates/Vanilla/Engineer.html) | [Scientist](/options/Crewmates/Vanilla/Scientist.html))
+This should not occur anymore in 1.2.1 dev 3.
+
+If you are not on 1.2.1 dev 3, You might need to turn on the "Disable vanilla roles" option, and enable more roles. Another possiblity is that you may have incompatible roles set! If you have a certain role & addon both enabled, the role will become its base. (You can find info on what roles/addons are incompatible on these pages: [Crewmate](/options/Crewmates/Vanilla/Crewmate.html) | [Engineer](/options/Crewmates/Vanilla/Engineer.html) | [Scientist](/options/Crewmates/Vanilla/Scientist.html))
 
 ## The game never ends
 
@@ -111,6 +113,12 @@ There are a few possibilities,
 3. If Cultist is enabled, you might have "Charmed players count as" set to Cultist. You need to have it set to Nothing (They will not count as an Alive player) or Original Team (They will count as their Original Team), as setting it to Cultist means that Charmed players are counted as another alive Cultist. (they wont have recruiting powers like Cultist but game will treat them like they are Cultist.)
 
 4. Nobody has met their victory condition. (This may be obvious but, Impostors haven't killed everyone, Crewmates haven't finished all tasks/exiled all evil roles, etc)
+
+## What is Game Master/GM?
+
+The Game Master is an observer role.<br>
+Their presence has no effect on the game, and all players know who the Game Master is. The Game Master role will be assigned to the host, who will automatically become a ghost at the start of the game.<br>
+(Note: You can enable this in the Settings Gear. If you want to play normally, disable in again in the Settings Gear)
 
 ## How can I access Canary & Dev Builds
 

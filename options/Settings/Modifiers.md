@@ -100,6 +100,16 @@ next: Impostors
     * Dress Mannequin
       * <font color=green>ON</font>: Dress Mannequin will be disabled
       * <font color=red>OFF</font>: Dress Mannequin will be enabled
+    * Roast Mashmallow
+      * <font color=green>ON</font>: Roast Mashmallow will be disabled
+      * <font color=red>OFF</font>: Roast Mashmallow will be enabled
+    * Collect Samples
+      * <font color=green>ON</font>: Collect Samples will be disabled
+      * <font color=red>OFF</font>: Collect Samples will be enabled
+    * Replace Parts
+      * <font color=green>ON</font>: Replace Parts will be disabled
+      * <font color=red>OFF</font>: Replace Parts will be enabled
+    
     </details>
 
   * <font color=red>OFF</font>: Short Tasks will be enabled
@@ -123,6 +133,27 @@ next: Impostors
     * Scan Boarding Pass
       * <font color=green>ON</font>: Scan Boarding Pass will be disabled
       * <font color=red>OFF</font>: Scan Boarding Pass will be enabled
+    * Collect Vegetables
+      * <font color=green>ON</font>: Collect Vegetables will be disabled
+      * <font color=red>OFF</font>: Collect Vegetables will be enabled
+    * Mine Ores
+      * <font color=green>ON</font>: Mine Ores will be disabled
+      * <font color=red>OFF</font>: Mine Ores will be enabled
+    * Extract Fuel
+      * <font color=green>ON</font>: Extract Fuel will be disabled
+      * <font color=red>OFF</font>: Extract Fuel will be enabled
+    * Catch Fish
+      * <font color=green>ON</font>: Catch Fish will be disabled
+      * <font color=red>OFF</font>: Catch Fish will be enabled
+    * Polish Gem
+      * <font color=green>ON</font>: Polish Gem will be disabled
+      * <font color=red>OFF</font>: Polish Gem will be enabled
+    * Help Critter
+      * <font color=green>ON</font>: Help Critter will be disabled
+      * <font color=red>OFF</font>: Help Critter will be enabled
+    * Hoist Supplies
+      * <font color=green>ON</font>: Hoist Supplies will be disabled
+      * <font color=red>OFF</font>: Hoist Supplies will be enabled
     </details>
   * <font color=red>OFF</font>: Common Tasks will be enabled
 * Disable Long Tasks
@@ -175,6 +206,33 @@ next: Impostors
     * Start Fans
       * <font color=green>ON</font>: Start Fans will be disabled
       * <font color=red>OFF</font>: Start Fans will be enabled
+    * Fix Antenna
+      * <font color=green>ON</font>: Fix Antenna will be disabled
+      * <font color=red>OFF</font>: Fix Antenna will be enabled
+    * Build Sandcastle
+      * <font color=green>ON</font>: Build Sandcastle will be disabled
+      * <font color=red>OFF</font>: Build Sandcastle will be enabled
+    * Crank Generator
+      * <font color=green>ON</font>: Crank Generator will be disabled
+      * <font color=red>OFF</font>: Crank Generator will be enabled
+    * Monitor Mushroom
+      * <font color=green>ON</font>: Monitor Mushroom will be disabled
+      * <font color=red>OFF</font>: Monitor Mushroom will be enabled
+    * Play Video Game
+      * <font color=green>ON</font>: Play Video Game will be disabled
+      * <font color=red>OFF</font>: Play Video Game will be enabled
+    * Find Signal
+      * <font color=green>ON</font>: Find Signal will be disabled
+      * <font color=red>OFF</font>: Find Signal will be enabled
+    * Throw Frisbee
+      * <font color=green>ON</font>: Throw Frisbee will be disabled
+      * <font color=red>OFF</font>: Throw Frisbee will be enabled
+    * Light Weights
+      * <font color=green>ON</font>: Light Weights will be disabled
+      * <font color=red>OFF</font>: Light Weights will be enabled
+    * Collect Shells
+      * <font color=green>ON</font>: Collect Shells will be disabled
+      * <font color=red>OFF</font>: Collect Shells will be enabled
     </details>
   * <font color=red>OFF</font>: Long Tasks will be enabled
 * Disable Situational Tasks

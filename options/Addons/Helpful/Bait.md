@@ -23,7 +23,7 @@ When a Bait is killed, the murderer who killed the Bait will be forced to report
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
 * Minimum Report Delay
-  * Set the minimal time the killer the Bait will auto report in
+  * Set the minimal time the killer of the Bait will auto report in
 * Maximum Report Delay
   * Set the maximum time the killer of Bait will auto report in
 * Warn the killer about the upcoming self-report

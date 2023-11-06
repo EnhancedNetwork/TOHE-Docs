@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Fortune Teller
-prev: Detective
+prev: Enigma
 next: Grenadier
 ---
 

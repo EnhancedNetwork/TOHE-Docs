@@ -27,7 +27,7 @@ next: Crewmates
 
 <tr>
 <td><font color=#6e003a><b>Killing</b></font></td>
-<td align="center">22</td>
+<td align="center">23</td>
 </tr>
 
 <tr>
@@ -47,7 +47,7 @@ next: Crewmates
 
 <tr>
 <td><font color=red><b>Total:</b></font></td>
-<td align="center"><b>56</b></td>
+<td align="center"><b>57</b></td>
 </tr>
 
 </table>
@@ -65,7 +65,7 @@ next: Crewmates
 
 ### <font color=#b22222><b>Killing</b></font>
 ---
-[Arrogance](/options/Impostors/Killing/Arrogance.html) | [Berserker](/options/Impostors/Killing/Berserker.html) | [Bomber](/options/Impostors/Killing/Bomber.html) | [Bounty Hunter](/options/Impostors/Killing/BountyHunter.html) | [Chronomancer](/options/Impostors/Killing/Chronomancer.html) | [Councillor](/options/Impostors/Killing/Councillor.html) | [Cursed Wolf](/options/Impostors/Killing/CursedWolf.html) | [Deathpact](/options/Impostors/Killing/Deathpact.html) | [Evil Guesser](/options/Impostors/Killing/EvilGuesser.html) | [Evil Tracker](/options/Impostors/Killing/EvilTracker.html) | [Greedy](/options/Impostors/Killing/Greedy.html) | [Inhibitor](/options/Impostors/Killing/Inhibitor.html) | [Ludopath](/options/Impostors/Killing/Ludopath.html) | [Lurker](/options/Impostors/Killing/Lurker.html) | [Mercenary](/options/Impostors/Killing/Mercenary.html) | [Ninja](/options/Impostors/Killing/Ninja.html) | [Quick Shooter](/options/Impostors/Killing/Quickshooter.html) | [Saboteur](/options/Impostors/Killing/Saboteur.html) | [Sniper](/options/Impostors/Killing/Sniper.html) | [Spellcaster](/options/Impostors/Killing/Spellcaster.html) | [Trapster](/options/Impostors/Killing/Trapster.html) | [Underdog](/options/Impostors/Killing/Underdog.html)
+[Arrogance](/options/Impostors/Killing/Arrogance.html) | [Berserker](/options/Impostors/Killing/Berserker.html) | [Bomber](/options/Impostors/Killing/Bomber.html) | [Bounty Hunter](/options/Impostors/Killing/BountyHunter.html) | [Chronomancer](/options/Impostors/Killing/Chronomancer.html) | [Councillor](/options/Impostors/Killing/Councillor.html) | [Cursed Wolf](/options/Impostors/Killing/CursedWolf.html) | [Deathpact](/options/Impostors/Killing/Deathpact.html) | [Evil Guesser](/options/Impostors/Killing/EvilGuesser.html) | [Evil Tracker](/options/Impostors/Killing/EvilTracker.html) | [Greedy](/options/Impostors/Killing/Greedy.html) | [Inhibitor](/options/Impostors/Killing/Inhibitor.html) | [Instigator](/options/Impostors/Killing/Instigator.html) | [Ludopath](/options/Impostors/Killing/Ludopath.html) | [Lurker](/options/Impostors/Killing/Lurker.html) | [Mercenary](/options/Impostors/Killing/Mercenary.html) | [Ninja](/options/Impostors/Killing/Ninja.html) | [Quick Shooter](/options/Impostors/Killing/Quickshooter.html) | [Saboteur](/options/Impostors/Killing/Saboteur.html) | [Sniper](/options/Impostors/Killing/Sniper.html) | [Spellcaster](/options/Impostors/Killing/Spellcaster.html) | [Trapster](/options/Impostors/Killing/Trapster.html) | [Underdog](/options/Impostors/Killing/Underdog.html)
 <br>
 
 ### <font color=red><b>Madmate</b></font>

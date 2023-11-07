@@ -1,6 +1,6 @@
 <template><div><h1 id="🤑-stealer" tabindex="-1"><a class="header-anchor" href="#🤑-stealer" aria-hidden="true">#</a> <font color=red>🤑 <b>Stealer</b></font> <Badge text="Impostor" type="tip" vertical="middle"/></h1>
 <hr>
-<p>Only <font color=red>Impostor</font> other than Bombers and Booby Traps will become Stealer. Every time a Stealer kills a person, he gets an additional vote (the vote number is set by the host, and the decimal is rounded down). Also, extra votes from the Stealer are hidden during meeting.</p>
+<p>Only <font color=red>Impostor</font> other than Bombers and Trapsters will become Stealer. Every time a Stealer kills a person, he gets an additional vote (the vote number is set by the host, and the decimal is rounded down). Also, extra votes from the Stealer are hidden during meeting.</p>
 <ul>
 <li>Max
 <ul>

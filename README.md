@@ -2,7 +2,7 @@
 lang: en-US
 title: Home
 home: true
-heroImage: https://npm.elemecdn.com/tohe-doc-resources@1.0.0/Logo.png
+heroImage: https://i.ibb.co/8NtHzhP/TOHE.png
 heroHeight: 165
 heroText: null
 actions:

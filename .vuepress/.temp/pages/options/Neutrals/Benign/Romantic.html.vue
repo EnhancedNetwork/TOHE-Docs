@@ -4,8 +4,7 @@
 <ol>
 <li>If their partner was an Impostor, the Romantic becomes the Refugee<br></li>
 <li>If their partner was a Neutral Killer, then they become Ruthless Romantic.<br></li>
-<li>If their partner was a Coven Member, then they become Banshee.<br></li>
-<li>If their partner was a Crewmate or a non-killing neutral, the Romantic becomes the Vengeful Romantic.<br></li>
+<li>If their partner was a Crewmate or a non-killing neutral, the Romantic becomes the Vengeful Romantic.<br><br></li>
 </ol>
 <p>The Romantic wins with the winning team if their partner wins.<br>
 Note : If your role changes your win condition will be changed accordingly</p>

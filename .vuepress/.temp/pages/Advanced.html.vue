@@ -338,7 +338,7 @@
 <li><code v-pre>{{DiscussionTime}}</code> <code v-pre>{{VotingTime}}</code></li>
 <li><code v-pre>{{Date}}</code> <code v-pre>{{Time}}</code></li>
 <li><code v-pre>{{RoomCode}}</code></li>
-<li><code v-pre>{{PlayerName}}</code></li>
+<li><code v-pre>{{PlayerName}}</code> <code v-pre>{{HostName}}</code></li>
 <li><code v-pre>{{ModVersion}}</code></li>
 <li><code v-pre>{{Map}}</code></li>
 </ul>

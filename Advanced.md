@@ -362,7 +362,7 @@ Valid variables:
 - `{{DiscussionTime}}` `{{VotingTime}}`
 - `{{Date}}` `{{Time}}`
 - `{{RoomCode}}`
-- `{{PlayerName}}`
+- `{{PlayerName}}` `{{HostName}}`
 - `{{ModVersion}}`
 - `{{Map}}`
 ---

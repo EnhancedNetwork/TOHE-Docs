@@ -92,6 +92,10 @@ export default ({
             link: '/AboutUs.html',
           },
           {
+            text: 'Changelogs',
+            link: '/Changelogs.html',
+          },
+          {
             text: 'Advanced',
             link: '/Advanced.html',
           },
@@ -109,6 +113,8 @@ export default ({
             { text: 'Back to Addons', link: '/options/Settings/Addons.html' },
             { text: 'Disregarded', link: '/options/Addons/Harmful/Disregarded.html' },
             { text: 'Fragile', link: '/options/Addons/Harmful/Fragile.html' },
+            { text: 'Hurried', link: '/options/Addons/Harmful/Hurried.html' },
+            { text: 'Influenced', link: '/options/Addons/Harmful/Influenced.html' },
             { text: 'Oblivious', link: '/options/Addons/Harmful/Oblivious.html' },
             { text: 'Rascal', link: '/options/Addons/Harmful/Rascal.html' },
             { text: 'Unlucky', link: '/options/Addons/Harmful/Unlucky.html' },
@@ -215,6 +221,7 @@ export default ({
             { text: 'Monarch', link: '/options/Crewmates/Power/Monarch.html' },
             { text: 'Overseer', link: '/options/Crewmates/Power/Overseer.html' },
             { text: 'President', link: '/options/Crewmates/Power/President.html' },
+            { text: 'Swapper', link: '/options/Crewmates/Power/Swapper.html' },
             { text: 'Telecommunication', link: '/options/Crewmates/Power/Telecommunication.html' },
           ],
           '/options/Crewmates/Support/': [
@@ -253,13 +260,13 @@ export default ({
           '/options/Experimental/Addon/': [
             { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },
             { text: 'Fool', link: '/options/Experimental/Addon/Fool.html' },
+            { text: 'OIIAI', link: '/options/Experimental/Addon/OIIAI.html' },
             { text: 'YouTuber', link: '/options/Experimental/Addon/YouTuber.html' },
           ],
           '/options/Experimental/Crewmate/': [
             { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },
             { text: 'Admirer', link: '/options/Experimental/Crewmate/Admirer.html' },
             { text: 'Investigator', link: '/options/Experimental/Crewmate/Investigator.html' },
-            { text: 'Swapper', link: '/options/Experimental/Crewmate/Swapper.html' },
           ],
           '/options/Experimental/Impostor/': [
             { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },
@@ -303,7 +310,7 @@ export default ({
             { text: 'Anonymous', link: '/options/Impostors/Hindering/Anonymous.html' },
             { text: 'Dazzler', link: '/options/Impostors/Hindering/Dazzler.html' },
             { text: 'Devourer', link: '/options/Impostors/Hindering/Devourer.html' },
-            { text: 'Pifall', link: '/options/Impostors/Hindering/Pitfall.html' },
+            { text: 'Pitfall', link: '/options/Impostors/Hindering/Pitfall.html' },
             { text: 'Twister', link: '/options/Impostors/Hindering/Twister.html' },
           ],
           '/options/Impostors/Killing/': [
@@ -320,6 +327,7 @@ export default ({
               ]
             },
             { text: 'Bounty Hunter', link: '/options/Impostors/Killing/BountyHunter.html' },
+            { text: 'Chronomancer', link: '/options/Impostors/Killing/Chronomancer.html' },
             { text: 'Councillor', link: '/options/Impostors/Killing/Councillor.html' },
             { text: 'Cursed Wolf', link: '/options/Impostors/Killing/CursedWolf.html' },
             { text: 'Deathpact', link: '/options/Impostors/Killing/Deathpact.html' },

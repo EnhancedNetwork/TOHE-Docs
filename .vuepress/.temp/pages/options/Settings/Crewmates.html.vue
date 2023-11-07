@@ -15,7 +15,7 @@
 </tr>
 <tr>
 <td><font color=#d4af37><b>Power</b></font></td>
-<td align="center">10</td>
+<td align="center">11</td>
 </tr>
 <tr>
 <td><font color=#7fffd4><b>Support</b></font></td>
@@ -26,8 +26,8 @@
 <td align="center">3</td>
 </tr>
 <tr>
-<td><font color=#8cffff><b>Total</b></font></td>
-<td align="center">62</td>
+<td><font color=#8cffff><b>Total:</b></font></td>
+<td align="center"><b>63</b></td>
 </tr>
 </table>
 <br>
@@ -41,7 +41,7 @@
 <br></p>
 <h3 id="power" tabindex="-1"><a class="header-anchor" href="#power" aria-hidden="true">#</a> <font color=#d4af37><b>Power</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Crewmates/Power/Copycat.html">Copycat</RouterLink> | <RouterLink to="/options/Crewmates/Power/Dictator.html">Dictator</RouterLink> | <RouterLink to="/options/Crewmates/Power/Guardian.html">Guardian</RouterLink> | <RouterLink to="/options/Crewmates/Power/Lookout.html">Lookout</RouterLink> | <RouterLink to="/options/Crewmates/Power/Marshall.html">Marshall</RouterLink> | <RouterLink to="/options/Crewmates/Power/Mayor.html">Mayor</RouterLink> | <RouterLink to="/options/Crewmates/Power/Monarch.html">Monarch</RouterLink> | <RouterLink to="/options/Crewmates/Power/Overseer.html">Overseer</RouterLink> | <RouterLink to="/options/Crewmates/Power/President.html">President</RouterLink> | <RouterLink to="/options/Crewmates/Power/Telecommunication.html">Telecommunication</RouterLink>
+<p><RouterLink to="/options/Crewmates/Power/Copycat.html">Copycat</RouterLink> | <RouterLink to="/options/Crewmates/Power/Dictator.html">Dictator</RouterLink> | <RouterLink to="/options/Crewmates/Power/Guardian.html">Guardian</RouterLink> | <RouterLink to="/options/Crewmates/Power/Lookout.html">Lookout</RouterLink> | <RouterLink to="/options/Crewmates/Power/Marshall.html">Marshall</RouterLink> | <RouterLink to="/options/Crewmates/Power/Mayor.html">Mayor</RouterLink> | <RouterLink to="/options/Crewmates/Power/Monarch.html">Monarch</RouterLink> | <RouterLink to="/options/Crewmates/Power/Overseer.html">Overseer</RouterLink> | <RouterLink to="/options/Crewmates/Power/President.html">President</RouterLink> | <RouterLink to="/options/Crewmates/Power/Swapper.html">Swapper</RouterLink> | <RouterLink to="/options/Crewmates/Power/Telecommunication.html">Telecommunication</RouterLink>
 <br></p>
 <h3 id="support" tabindex="-1"><a class="header-anchor" href="#support" aria-hidden="true">#</a> <font color=#7fffd4><b>Support</b></font></h3>
 <hr>

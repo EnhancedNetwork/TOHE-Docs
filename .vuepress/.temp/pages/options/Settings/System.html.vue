@@ -42,20 +42,27 @@
 <li>
 <p>Kick players whose level is lower than</p>
 <ul>
-<li>Set the minimum level required to play</li>
+<li>Set the minimum level required to play
+<ul>
+<li>Temp Ban low level players
+<ul>
+<li>
+<font color=green>ON</font>: Temporarily bans low level players from your lobby</li>
+<li>
+<font color=red>OFF</font>: Doesn't temporarily ban low level players from your lobby, kicks them like usual</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>
 <p>Turn on Whitelist to bypass level kick</p>
 <ul>
-<li>Set the minimum level required to play
-<ul>
 <li>
 <font color=green>ON</font>: Whitelisted players can join the lobby even if they don't meet lobby requirements</li>
 <li>
 <font color=red>OFF</font>: Whitelisted players are ignored, and treated as everyone else is</li>
-</ul>
-</li>
 </ul>
 </li>
 <li>
@@ -110,12 +117,22 @@
 </ul>
 </li>
 <li>
-<p>Kick players who are not logged in</p>
+<p>Kick players without a friend code</p>
 <ul>
 <li>
 <font color=green>ON</font>: Players without a registered account cannot play</li>
 <li>
-<font color=red>OFF</font>: Players without a registered account can play</li>
+<font color=red>OFF</font>: Players without a registered account can play<ul>
+<li>Temp Ban players without a friend code
+<ul>
+<li>
+<font color=green>ON</font>: Temporarily bans players without friend codes from your lobby</li>
+<li>
+<font color=red>OFF</font>: Doesn't temporarily ban players without friend codes from your lobby, kicks them like usual</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>
@@ -151,7 +168,17 @@
 <li>
 <font color=green>ON</font>: Players that have been added to the Host’s Moderator List will be given Moderator Permissions in the lobby</li>
 <li>
-<font color=red>OFF</font>: Players that have been added to the Host’s Moderator List will not be given Moderator Permissions in the lobby</li>
+<font color=red>OFF</font>: Players that have been added to the Host’s Moderator List will not be given Moderator Permissions in the lobby<ul>
+<li>Allow moderators to use /say command
+<ul>
+<li>
+<font color=green>ON</font>: Moderators can use /say to send a message when dead</li>
+<li>
+<font color=red>OFF</font>: Moderators cannot use /say to send a message when dead</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>
@@ -161,7 +188,7 @@
 <font color=green>ON</font>: Players that type “start, Start, begin, etc” will be kicked from the lobby<ul>
 <li>Number of warnings before kick
 <ul>
-<li>Can set how many warnings a player gets/how many times a player can say start before they get kicked</li>
+<li>Set how many times a player can say start before they get kicked</li>
 </ul>
 </li>
 <li>Block a player after they’re kicked
@@ -176,6 +203,22 @@
 </li>
 <li>
 <font color=red>OFF</font>: Players will be able to say “start, Start, begin, etc” without being kicked</li>
+</ul>
+</li>
+<li>
+<p>Temp ban players who keep quitting</p>
+<ul>
+<li>
+<font color=green>ON</font>: Players that keep quitting will be blacklisted from joining for some time</li>
+<li>
+<font color=red>OFF</font>: Players that keep quitting will not be blacklisted from joining for some time<ul>
+<li>Amount of Quits needed for temp ban
+<ul>
+<li>Set how many times a player can say quit before they get temp banned</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>
@@ -208,7 +251,14 @@
 <li>
 <font color=green>ON</font>: The game will auto-start again after the game ends</li>
 <li>
-<font color=red>OFF</font>: The game will not auto-start again after the game ends</li>
+<font color=red>OFF</font>: The game will not auto-start again after the game ends<ul>
+<li>Delay before re-entering lobby
+<ul>
+<li>Set how long it will take to re-enter lobby after a round</li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>
@@ -225,14 +275,6 @@
 <font color=green>ON</font>: Game will force end once a player gets a game breaking bug</li>
 <li>
 <font color=red>OFF</font>: Game will continue as before</li>
-</ul>
-</li>
-<li>
-<font color=#ff00ff>Remove pets at dead players</font><ul>
-<li>
-<font color=green>ON</font>: Pets will be removed from dead players</li>
-<li>
-<font color=red>OFF</font>: Pets will not be removed from dead players</li>
 </ul>
 </li>
 <li>
@@ -398,6 +440,10 @@
 <font color=#ec7578>Pyro</font> - Everyone appears as Pyro's skin (the Website Assistant)</li>
 <li>
 <font color=#9e2424>ryuk</font> - Everyone appears as ryuk's skin (a lead contributor)</li>
+<li>
+<font color=#fffff>Gurge44</font> - Everyone appears as Gurge44's skin (a lead contributor/TOHE+ Dev)</li>
+<li>
+<font color=#ec7578>TommyXL</font> - Everyone appears as TommyXL's skin (a lead contributor)</li>
 </ul>
 </li>
 </ul>

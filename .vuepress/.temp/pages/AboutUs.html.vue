@@ -19,16 +19,28 @@
 <p><a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer"><strong>Papercut</strong><ExternalLinkIcon/></a>：Role Coding</p>
 <p><a href="https://youtube.com/@Pyro0TV" target="_blank" rel="noopener noreferrer"><strong>Pyro</strong><ExternalLinkIcon/></a>：Website Assistant</p>
 <p><a href="https://github.com/Sand-and-Beans" target="_blank" rel="noopener noreferrer"><strong>Mousse</strong><ExternalLinkIcon/></a>：Document</p>
-<p><a href="#"><strong>Тоха</strong></a>：Russian Translator</p>
 <p><a href="https://github.com/xVCantCode" target="_blank" rel="noopener noreferrer"><strong>xV &amp; MCP</strong><ExternalLinkIcon/></a>：Feature Coding</p>
+<p><a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat233</strong><ExternalLinkIcon/></a></p>
+<p><a href="#"><strong>Тоха</strong></a>：Russian Translator</p>
 <p><a href="https://www.youtube.com/@chill_ultimated" target="_blank" rel="noopener noreferrer"><strong>chill_ultimated</strong><ExternalLinkIcon/></a>：Russian Translator</p>
 <p><a href="https://github.com/NetherDragonTw" target="_blank" rel="noopener noreferrer"><strong>阿龍</strong><ExternalLinkIcon/></a>：Traditional Chinese Translator</p>
 <p><a href="https://github.com/CrewCyan" target="_blank" rel="noopener noreferrer"><strong>CrewCyan</strong><ExternalLinkIcon/></a>：Simplified Chinese Translator</p>
-<p><a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>乐崽吖</strong><ExternalLinkIcon/></a>：Chinese Translator</p>
+<p><a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>乐崽吖</strong><ExternalLinkIcon/></a>：Chinese Translator, Role Coding</p>
 <p><a href="https://github.com/hinhinarrrrrr" target="_blank" rel="noopener noreferrer"><strong>法官</strong><ExternalLinkIcon/></a>：Chinese Translator</p>
 <p><a href="https://github.com/Thewhiskas27" target="_blank" rel="noopener noreferrer"><strong>thewhiskas27</strong><ExternalLinkIcon/></a>：Spanish Translator</p>
 <p><a href="https://youtu.be/MTW4sIL9Dpw?si=LpHF7tX6Aj5WLwFD" target="_blank" rel="noopener noreferrer"><strong>Dawson</strong><ExternalLinkIcon/></a>：Spanish Translator</p>
-<p><a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer"><strong>Loonie Toons</strong><ExternalLinkIcon/></a>: TOHRE Dev (Privated by repo owner)</p>
+<p><a href="#"><strong>Reginaldoo</strong></a>：Brazilian (Portuguese Brazil) Translator</p>
+<p><a href="#"><strong>Dopzy</strong></a>：Brazilian (Portuguese Brazil) Translator</p>
+<p><a href="#"><strong>Tony Stark</strong></a>：Brazilian (Portuguese Brazil) Translator</p>
+<p><a href="#"><strong>Arc</strong></a>：Brazilian (Portuguese Brazil) Translator</p>
+<p><a href="#"><strong>KevOut</strong></a>：French Translator</p>
+<p><a href="#"><strong>Sansationnelle</strong></a>：French Translator</p>
+<p><a href="#"><strong>Klémi</strong></a>：French Translator</p>
+<p><a href="#"><strong>Sunnyboi</strong></a>：Japanese Translator</p>
+<p><a href="#"><strong>CreepPower</strong></a>：Latam (Latin American) Translator</p>
+<p><a href="#"><strong>flyflyturtle</strong></a>：Traditional Chinese Translator</p>
+<p><a href="#"><strong>pomelo123_</strong></a>：Traditional Chinese Translator</p>
+<p><a href="#"><strong>Loonie Toons</strong></a>: TOHRE Dev (Privated by repo owner)</p>
 <h2 id="credited-mods" tabindex="-1"><a class="header-anchor" href="#credited-mods" aria-hidden="true">#</a> Credited Mods</h2>
 <p><a href="https://github.com/Loonie-Toons/Re-Edited" target="_blank" rel="noopener noreferrer"><strong>Town Of Host Re-Edited</strong><ExternalLinkIcon/></a>：TOH: Enhanced is a continuation of TOH: Re-Edited. (Privated by repo owner)</p>
 <p><a href="https://github.com/KARPED1EM/TownOfHostEdited" target="_blank" rel="noopener noreferrer"><strong>Town Of Host Edited</strong><ExternalLinkIcon/></a>：TOH: Re-Edited was a continuation of TOH: Edited.</p>

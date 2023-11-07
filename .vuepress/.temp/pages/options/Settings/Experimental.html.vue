@@ -22,18 +22,18 @@
 <td align="center">3</td>
 </tr>
 <tr>
-<td><font color=#76b8e0><b>Total</b></font></td>
-<td align="center">16</td>
+<td><font color=#76b8e0><b>Total:</b></font></td>
+<td align="center"><b>16</b></td>
 </tr>
 </table>
 <br>
 <h3 id="add-ons" tabindex="-1"><a class="header-anchor" href="#add-ons" aria-hidden="true">#</a> <font color=#ff9ace><b>Add-ons</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Experimental/Addon/Fool.html">Fool</RouterLink> | <RouterLink to="/options/Experimental/Addon/YouTuber.html">YouTuber</RouterLink>
+<p><RouterLink to="/options/Experimental/Addon/Fool.html">Fool</RouterLink> | <RouterLink to="/options/Experimental/Addon/OIIAI.html">OIIAI</RouterLink> | <RouterLink to="/options/Experimental/Addon/YouTuber.html">YouTuber</RouterLink>
 <br></p>
 <h3 id="crewmate" tabindex="-1"><a class="header-anchor" href="#crewmate" aria-hidden="true">#</a> <font color=#8cffff><b>Crewmate</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Experimental/Crewmate/Admirer.html">Admirer</RouterLink> | <RouterLink to="/options/Experimental/Crewmate/Investigator.html">Investigator</RouterLink> | <RouterLink to="/options/Experimental/Crewmate/Swapper.html">Swapper</RouterLink>
+<p><RouterLink to="/options/Experimental/Crewmate/Admirer.html">Admirer</RouterLink> | <RouterLink to="/options/Experimental/Crewmate/Investigator.html">Investigator</RouterLink>
 <br></p>
 <h3 id="impostor" tabindex="-1"><a class="header-anchor" href="#impostor" aria-hidden="true">#</a> <font color=red><b>Impostor</b></font></h3>
 <hr>

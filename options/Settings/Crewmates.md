@@ -26,7 +26,7 @@ next: Neutrals
 
 <tr>
 <td><font color=#d4af37><b>Power</b></font></td>
-<td align="center">10</td>
+<td align="center">11</td>
 </tr>
 
 <tr>
@@ -40,8 +40,8 @@ next: Neutrals
 </tr>
 
 <tr>
-<td><font color=#8cffff><b>Total</b></font></td>
-<td align="center">62</td>
+<td><font color=#8cffff><b>Total:</b></font></td>
+<td align="center"><b>63</b></td>
 </tr>
 
 </table>
@@ -59,7 +59,7 @@ next: Neutrals
 
 ### <font color=#d4af37><b>Power</b></font>
 ---
-[Copycat](/options/Crewmates/Power/Copycat.html) | [Dictator](/options/Crewmates/Power/Dictator.html) | [Guardian](/options/Crewmates/Power/Guardian.html) | [Lookout](/options/Crewmates/Power/Lookout.html) | [Marshall](/options/Crewmates/Power/Marshall.html) | [Mayor](/options/Crewmates/Power/Mayor.html) | [Monarch](/options/Crewmates/Power/Monarch.html) | [Overseer](/options/Crewmates/Power/Overseer.html) | [President](/options/Crewmates/Power/President.html) | [Telecommunication](/options/Crewmates/Power/Telecommunication.html)
+[Copycat](/options/Crewmates/Power/Copycat.html) | [Dictator](/options/Crewmates/Power/Dictator.html) | [Guardian](/options/Crewmates/Power/Guardian.html) | [Lookout](/options/Crewmates/Power/Lookout.html) | [Marshall](/options/Crewmates/Power/Marshall.html) | [Mayor](/options/Crewmates/Power/Mayor.html) | [Monarch](/options/Crewmates/Power/Monarch.html) | [Overseer](/options/Crewmates/Power/Overseer.html) | [President](/options/Crewmates/Power/President.html) | [Swapper](/options/Crewmates/Power/Swapper.html) | [Telecommunication](/options/Crewmates/Power/Telecommunication.html)
 <br>
 
 ### <font color=#7fffd4><b>Support</b></font>

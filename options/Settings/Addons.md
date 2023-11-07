@@ -17,7 +17,7 @@ next: /options/settings/Experimental.html
 
 <tr>
 <td><font color=red><b>Harmful</b></font></td>
-<td align="center">6</td>
+<td align="center">8</td>
 </tr>
 
 <tr>
@@ -41,8 +41,8 @@ next: /options/settings/Experimental.html
 </tr>
 
 <tr>
-<td><font color=#ff9ace><b>Total</b></font></td>
-<td align="center">48 (+1)</td>
+<td><font color=#ff9ace><b>Total:</b></font></td>
+<td align="center"><b>50 (+1)</b></td>
 </tr>
 
 </table>
@@ -50,7 +50,7 @@ next: /options/settings/Experimental.html
 
 ### <font color=#ff0000><b>Harmful</b></font>
 ---
-[Disregarded](/options/Addons/Harmful/Disregarded.html) | [Fragile](/options/Addons/Harmful/Fragile.html) | [Oblivious](/options/Addons/Harmful/Oblivious.html) | [Rascal](/options/Addons/Harmful/Rascal.html) | [Unlucky](/options/Addons/Harmful/Unlucky.html) | [Void Ballot](/options/Addons/Harmful/VoidBallot.html)
+[Disregarded](/options/Addons/Harmful/Disregarded.html) | [Fragile](/options/Addons/Harmful/Fragile.html) | [Hurried](/options/Addons/Harmful/Hurried.html) | [Influenced](/options/Addons/Harmful/Influenced.html) | [Oblivious](/options/Addons/Harmful/Oblivious.html) | [Rascal](/options/Addons/Harmful/Rascal.html) | [Unlucky](/options/Addons/Harmful/Unlucky.html) | [Void Ballot](/options/Addons/Harmful/VoidBallot.html)
 <br>
 
 ### <font color=#00ff00><b>Helpful</b></font>

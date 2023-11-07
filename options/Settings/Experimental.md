@@ -35,8 +35,8 @@ next: Impostors
 </tr>
 
 <tr>
-<td><font color=#76b8e0><b>Total</b></font></td>
-<td align="center">16</td>
+<td><font color=#76b8e0><b>Total:</b></font></td>
+<td align="center"><b>16</b></td>
 </tr>
 
 </table>
@@ -44,12 +44,12 @@ next: Impostors
 
 ### <font color=#ff9ace><b>Add-ons</b></font>
 ---
-[Fool](/options/Experimental/Addon/Fool.html) | [YouTuber](/options/Experimental/Addon/YouTuber.html)
+[Fool](/options/Experimental/Addon/Fool.html) | [OIIAI](/options/Experimental/Addon/OIIAI.html) | [YouTuber](/options/Experimental/Addon/YouTuber.html)
 <br>
 
 ### <font color=#8cffff><b>Crewmate</b></font>
 ---
-[Admirer](/options/Experimental/Crewmate/Admirer.html) | [Investigator](/options/Experimental/Crewmate/Investigator.html) | [Swapper](/options/Experimental/Crewmate/Swapper.html)
+[Admirer](/options/Experimental/Crewmate/Admirer.html) | [Investigator](/options/Experimental/Crewmate/Investigator.html)
 <br>
 
 ### <font color=red><b>Impostor</b></font>

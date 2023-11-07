@@ -46,8 +46,8 @@ next: Crewmates
 </tr>
 
 <tr>
-<td><font color=red><b>Total</b></font></td>
-<td align="center">56</td>
+<td><font color=red><b>Total:</b></font></td>
+<td align="center"><b>56</b></td>
 </tr>
 
 </table>

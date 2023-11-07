@@ -1,6 +1,6 @@
 <template><div><h1 id="🫴-collector" tabindex="-1"><a class="header-anchor" href="#🫴-collector" aria-hidden="true">#</a> <font color="#9d8892">🫴 <b>Collector</b></font> <Badge text="Chaos" type="tip" vertical="middle"/></h1>
 <hr>
-<p>After the Collector votes for a target, they can collect all the votes cast onto that target in the meeting. When the Collector collects the specified number of votes, the Collector alone wins. Note: Collector wins take precedence over exile players.</p>
+<p>After the Collector votes for a target, they will collect all the votes cast onto that target in the meeting. When the Collector collects the specified number of votes, the Collector wins. Note: Collector wins take precedence over exile players.</p>
 <ul>
 <li>Max
 <ul>

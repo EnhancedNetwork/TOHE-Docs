@@ -2,7 +2,7 @@
 lang: en-US
 title: Fool
 prev: /options/settings/Experimental.html
-next: YouTuber
+next: OIIAI
 ---
 
 # <font color=#e6e7ff>👻 <b>Fool</b></font> <Badge text="Addon" type="tip" vertical="middle"/>

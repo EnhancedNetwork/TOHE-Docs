@@ -65,9 +65,10 @@
 <li>Chance that the map is
 <ul>
 <li>Skeld - Set the chance that the map will be Skeld</li>
-<li>Mira HQ - Set the chance that the map will be Mira HQ</li>
+<li>MIRA HQ - Set the chance that the map will be MIRA HQ</li>
 <li>Polus - Set the chance that the map will be Polus</li>
 <li>Airship - Set the chance that the map will be Airship</li>
+<li>The Fungle - Set the chance that the map will be The Fungle</li>
 <li>Use a more random map selection
 <ul>
 <li>
@@ -80,7 +81,7 @@
 </li>
 </ul>
 </li>
-<li>Random Spawns
+<li>Random Spawns Mode
 <ul>
 <li>
 <font color=green>ON</font>: Spawn locations will be chosen randomly<ul>
@@ -116,12 +117,18 @@
 <font color=red>OFF</font>: Spawn locations will be chosen normally</li>
 </ul>
 </li>
-<li>Variable Electrical
+<li>Map Modifications
 <ul>
-<li>The Electrical room will be randomized (Airship)</li>
+<li>
+<font color=green>ON</font>: Map modifiers to change how you can play on maps</li>
+<li>
+<font color=red>OFF</font>: Map modifiers will not be implemented<ul>
+<li>Variable Electrical (<font color=red>Airship</font>)
+<ul>
+<li>The Electrical room will be randomized.</li>
 </ul>
 </li>
-<li>Disable Moving Platform (Airship)
+<li>Disable Moving Platform (<font color=red>Airship</font>)
 <ul>
 <li>
 <font color=green>ON</font>: Moving platform will be disabled</li>
@@ -129,12 +136,60 @@
 <font color=red>OFF</font>: Moving platform will be enabled</li>
 </ul>
 </li>
-<li>Reset Doors After Meetings (Airship/Polus)
+<li>Disable Spore Trigger (<font color=#ffa646>Fungle</font>)
 <ul>
 <li>
-<font color=green>ON</font>: Doors will be reset after meetings</li>
+<font color=green>ON</font>: Spore Trigger will be disabled</li>
+<li>
+<font color=red>OFF</font>: Spore Trigger will be enabled</li>
+</ul>
+</li>
+<li>Disable Zipline (<font color=#ffa646>Fungle</font>)
+<ul>
+<li>
+<font color=green>ON</font>: Zipline will be disabled<ul>
+<li>Disable Use From Top
+<ul>
+<li>
+<font color=green>ON</font>: Zipline will be disabled from the top</li>
+<li>
+<font color=red>OFF</font>: Zipline will not be disabled from the top</li>
+</ul>
+</li>
+<li>Disable Use From Bottom
+<ul>
+<li>
+<font color=green>ON</font>: Zipline will be disabled from the bottom</li>
+<li>
+<font color=red>OFF</font>: Zipline will not be disabled from the bottom</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<font color=red>OFF</font>: Zipline will be enabled</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Reset Doors After Meetings (<font color=red>Airship</font>/<font color=#a167c0>Polus</font>/<font color=#ffa646>Fungle</font>)
+<ul>
+<li>
+<font color=green>ON</font>: Doors will be reset after meetings<ul>
+<li>Reset Doors Mode
+<ul>
+<li>Set how Doors will be reset on these maps, choose from:</li>
+<li>All Open</li>
+<li>All Closed</li>
+<li>Closed Random</li>
+</ul>
+</li>
 <li>
 <font color=red>OFF</font>: Doors will not be reset after meetings</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -180,6 +235,14 @@
 <font color=green>ON</font>: Comms camouflage will be disabled on Airship</li>
 <li>
 <font color=red>OFF</font>: Comms camouflage will be enabled on Airship</li>
+</ul>
+</li>
+<li>Disable comms camouflage on Fungle
+<ul>
+<li>
+<font color=green>ON</font>: Comms camouflage will be disabled on Fungle</li>
+<li>
+<font color=red>OFF</font>: Comms camouflage will be enabled on Fungle</li>
 </ul>
 </li>
 </ul>
@@ -466,6 +529,32 @@
 </li>
 <li>
 <font color=red>OFF</font>: Airship Devices will be enabled</li>
+</ul>
+</li>
+<li>Disable Fungle Devices
+<ul>
+<li>
+<font color=green>ON</font>: Fungle Devices will be disabled<ul>
+<li>Disable Binoculars
+<ul>
+<li>
+<font color=green>ON</font>: Binoculars will be disabled</li>
+<li>
+<font color=red>OFF</font>: Binoculars will be enabled</li>
+</ul>
+</li>
+<li>Disable Vitals
+<ul>
+<li>
+<font color=green>ON</font>: Vitals will be disabled</li>
+<li>
+<font color=red>OFF</font>: Vitals will be enabled</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<font color=red>OFF</font>: Fungle Devices will be enabled</li>
 </ul>
 </li>
 </ul>

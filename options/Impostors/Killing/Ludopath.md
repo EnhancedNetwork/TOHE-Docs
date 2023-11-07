@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Ludopath
-prev: Inhibitor
+prev: Instigator
 next: Lurker
 ---
 

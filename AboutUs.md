@@ -12,7 +12,7 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 ## Contributors
 
-[**Moe**](https://github.com/0xDrMoe): Project Lead, Website Developer
+[**Moe**](https://github.com/0xDrMoe): Project Lead, Website Maintainer/Developer
 
 [**KARPED1EM**](https://github.com/KARPED1EM)：Original Creator
 
@@ -42,17 +42,21 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**Papercut**](https://github.com/lars-wu)：Role Coding
 
-[**Pyro**](https://youtube.com/@Pyro0TV)：Website Assistant
+[**Pyro**](https://youtube.com/@Pyro0TV)：Website Developer/Assistant
 
 [**Mousse**](https://github.com/Sand-and-Beans)：Document
 
 [**xV & MCP**](https://github.com/xVCantCode)：Feature Coding
 
-[**NikoCat233**](https://github.com/NikoCat233)
+[**NikoCat233**](https://github.com/NikoCat233): Feature Coding
+
+[**FuroYT**](https://github.com/FuroYT): Feature Coding
 
 [**Тоха**](#)：Russian Translator
 
 [**chill_ultimated**](https://www.youtube.com/@chill_ultimated)：Russian Translator
+
+[**Tem**](https://github.com/mogekonik1)：Russian Translator
 
 [**阿龍**](https://github.com/NetherDragonTw)：Traditional Chinese Translator
 
@@ -87,6 +91,10 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 [**flyflyturtle**](#)：Traditional Chinese Translator
 
 [**pomelo123_**](#)：Traditional Chinese Translator
+
+[**Mattix606**](#): Italian Translator
+
+[**BaphoJack**](#): Italian Translator
 
 [**Loonie Toons**](#): TOHRE Dev (Privated by repo owner)
 

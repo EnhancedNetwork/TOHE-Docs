@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Inhibitor
-prev: Hangman
-next: Ludopath
+prev: Greedy
+next: Instigator
 ---
 
 # <font color=red>🛡️ <b>Inhibitor</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

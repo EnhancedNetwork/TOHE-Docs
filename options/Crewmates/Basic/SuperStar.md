@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Super Star
-prev: Mini
+prev: Randomizer
 next: TaskManager
 ---
 

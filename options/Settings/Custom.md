@@ -12,7 +12,7 @@ next: Impostors
   * <font color=green>ON</font>: Enables the settings that Innersloth recommends for newer players
   * <font color=red>OFF</font>: You can create and use your own settings
 * Map
-  * Choose the Map between Skeld, Mira HQ, Polus, or Airship
+  * Choose the Map between The Skeld, MIRA HQ, Polus, Airship, or The Fungle
 * Impostors
   * Choose how many <font color=red>Impostors</font> you want in play (Affects Modded)
 * Confirm Ejects

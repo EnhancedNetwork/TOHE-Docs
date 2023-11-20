@@ -84,13 +84,14 @@ sidebar:
 * By [**KevOut**](#) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix taskbar always invisible <br>
 
-* <font color=#8708c7><b>TRANSLATIONS</b></font>: Added support for more Translations!
-\+ <font color=#002654><b>French by [**KevOut**](#), [**Sansationnelle**](#), [**KlÃ©mi**](#), & [**FuroYT**](#).
-\+ <font color=#bd0029><b>Japanese by [**Sunnyboi**](#).
-\+ <font color=#009b3a><b>Latam (Latin American) by [**CreepPower**](#).
-\+ <font color=#009344><b>Italian by [**Mattix606**](#), [**Baphojack**](#), & [**reallyalot**](#).
-\+ <font color=#ffc400><b>Spanish by [**xxSShadow**](#),[**Sunnyboi**](#), [**Dawson**](#), & [**thewhiskas**](#).
-\+ <font color=#de2910><b>Traditional Chinese by [**Pomelo_**](#), [**FlyFlyTurtle**](#), [**NikoCat223**](#), & [**NetherDragonTw**](#).
+* Added support for more <font color=#8708c7><b>Translations</b></font>! <br>
+\+ <font color=#002654><b>French by</b></font> [**KevOut**](#), [**Sansationnelle**](#), [**KlÃ©mi**](#), & [**FuroYT**](#) <br>
+\+ <font color=#bd0029><b>Japanese by</b></font> [**Sunnyboi**](#) <br>
+\+ <font color=#009b3a><b>Latam (Latin American) by</b></font> [**CreepPower**](#) <br>
+\+ <font color=#009344><b>Italian by</b></font> [**Mattix606**](#), [**Baphojack**](#), & [**reallyalot**](#) <br>
+\+ <font color=#ffc400><b>Spanish by</b></font> [**xxSShadow**](#),[**Sunnyboi**](#), [**Dawson**](#), & [**thewhiskas**](#) <br>
+\+ <font color=#de2910><b>Traditional Chinese by</b></font> [**Pomelo_**](#), [**FlyFlyTurtle**](#), [**NikoCat223**](#), & [**NetherDragonTw**](#) <br>
+
 ---
 
 ## <font size=4em><b>v1.2.1 Dev 3</b></font><br>

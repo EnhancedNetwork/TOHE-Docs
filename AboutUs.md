@@ -10,6 +10,8 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 :::
 
+<font size=4em>Will receive makeover sometime in the future, incudes better formatting, up-to-date/relevant info, + more</font>
+
 ## Contributors
 
 [**Moe**](https://github.com/0xDrMoe): Project Lead, Website Maintainer/Developer
@@ -101,21 +103,21 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 ## Credited Mods 
 
-[**Town Of Host Re-Edited**](https://github.com/Loonie-Toons/Re-Edited)：TOH: Enhanced is a continuation of TOH: Re-Edited. (Privated by repo owner)
+[**Town Of Host Re-Edited**](https://github.com/Loonie-Toons/Re-Edited)：TOH: Enhanced is a continuation of TOH: Re-Edited. (Repo Privated)
 
 [**Town Of Host Edited**](https://github.com/KARPED1EM/TownOfHostEdited)：TOH: Re-Edited was a continuation of TOH: Edited.
 
 [**Town Of Host**](https://github.com/tukasa0001/TownOfHost)：The Original Town of Host Mod.
 
-[**Town Of Host Y**](https://github.com/Yumenopai/TownOfHost_Y)：Mutliple Ideas such as: AntiAdminer (Disruptor), CursedWolf, Workaholic, Greedier (Greedy), DarkHide (Stalker).
+[**Town Of Host Y**](https://github.com/Yumenopai/TownOfHost_Y)：Mutliple Ideas such as: AntiAdminer, CursedWolf, Workaholic, Greedy (Greedier), Stalker (DarkHide).
 
 [**Town Of Host: The Other Roles**](https://github.com/music-discussion/TownOfHost-TheOtherRoles)：MANY Role Ideas, also Exile Confirm, & Split RPC Pack.
 
 [**Town Of Plus**](https://github.com/tugaru1975/TownOfPlus)：Reference: Zoom.
 
-[**Town Of Host +**](https://github.com/Loonie-Toons/TownOfHostPlus)：Multiple Ideas such as: Marshall, Poisoner, Necroview, & Sidekick.
+[**Town Of Host +**](https://github.com/Loonie-Toons/TownOfHostPlus)：Multiple Ideas such as: Marshall, Poisoner, Necroview, & Sidekick. (Repo Removed)
 
-[**Town Of Host Edited +**](https://github.com/Gurge44/TOHE_PLUS)：Multiple Ideas such as: Pyromaniac, Necromancer, Head Hunter (Huntsman), & Alchemist.
+[**Town Of Host Edited +**](https://github.com/Gurge44/TOHE_PLUS)：Multiple Ideas such as: Pyromaniac, Necromancer, Huntsman (Head Hunter), & Alchemist.
 
 [**Town Of Host Edited Xi**](https://github.com/TOHEX-Official/TownOfHostEdited-Xid)：Some Ideas such as: Swapper.
 
@@ -125,7 +127,7 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**Project Lotus**](https://github.com/ImaMapleTree/Lotus)：Multiple Ideas such as: Crusader.
 
-[**Stellar Roles**](https://github.com/Mr-Fluuff/StellarRolesAU)：Multiple Ideas such as: Parity Cop (Inspector).
+[**Stellar Roles**](https://github.com/Mr-Fluuff/StellarRolesAU)：Multiple Ideas such as: Inspector (ParityCop).
 
 [**Town of Us Reactivated**](https://github.com/eDonnes124/Town-Of-Us-R): Multiple Ideas such as: Witness (Detective), Medic, & Tracker.
 

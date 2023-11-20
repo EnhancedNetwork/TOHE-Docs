@@ -15,7 +15,7 @@ This policy is in place to keep the integrity of our Sponsor, Contributor, Teste
 ## MANUAL INSTALLATION
 Installation requires that you own a PC version of Among Us on Steam, Epic, or Itch. 
 
-1. Download the latest full Release of TOHE [here](https://github.com/0xDrMoe/TownofHost-Enhanced). You only need the main zip such as "TOHE.v1.0.0.zip", not the source code files.
+1. Download the latest full Release of TOHE in #mod-release or [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases). You only need the main zip such as "TOHE.v1.0.0.zip", not the source code files.
 
 2. Once the download is complete, unzip it into the location of your choice. Example: C:\TOHE
 
@@ -31,7 +31,7 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, or I
 #### You have now installed Town of Host: Enhanced! All that remains is to start up a private lobby and customize your settings.
 
 ## New Releases
-Keep an eye on the [releases page](https://github.com/0xDrMoe/TownofHost-Enhanced) for new releases. If a new version is released, all you'll usually need to do is repeat steps 1-2 above, unzipping into the same folder where you already have it installed and letting it overwrite. If it says it requires a newer version of Among Us, repeat steps 3-5 as well after making sure your base game is up to date.
+Keep an eye on the [releases page](https://github.com/0xDrMoe/TownofHost-Enhanced/releases) for new releases. If a new version is released, all you'll usually need to do is repeat steps 1-2 above, unzipping into the same folder where you already have it installed and letting it overwrite. If it says it requires a newer version of Among Us, repeat steps 3-5 as well after making sure your base game is up to date.
 
 ## Installing Dev Builds/Canary Builds
 1. Download the latest dll in #dev-builds or #canary-builds.
@@ -43,7 +43,8 @@ Keep an eye on the [releases page](https://github.com/0xDrMoe/TownofHost-Enhance
 4. (Optional) Right click your Among Us.exe and click 'Create shortcut'. Move your new shortcut to wherever you can easily access it, such as your Desktop!
 #### You have successfully installed a Dev Build/Canary Build!
 
-## Dev Builds - Accessible by Contributors, Testers, and Sponsors that are at least Insider tier.<br>
+## How to gain Dev Builds Access<br>
+* Accessible by Contributors, Testers, and Sponsors that are at least Insider tier.<br>
 `NOT FOR DISTRIBUTION`
 - To become a <b>Contributor</b>, you need to help with coding in roles/addons/gamemodes/etc related to the mod
 - To become a <b>Tester</b>, you must be an active content creator with your <b>TOHE videos</b> having 600+ views on average
@@ -51,10 +52,11 @@ Keep an eye on the [releases page](https://github.com/0xDrMoe/TownofHost-Enhance
 
 Once you have been accepted into one of the above roles, you will be able to access the #dev-builds channel in the [Town of Host: Enhanced Discord](https://discord.gg/tohe)
 
-## Canary Builds - Accessible by Translators, Nitro Boosters, and Sponsors that are at least Initiate tier.<br>
+## How to gain Canary Builds Access<br>
+* Accessible by Translators, Nitro Boosters, and Sponsors that are at least Initiate tier.<br>
 `NOT FOR DISTRIBUTION`
-- To become a <b>Nitro Booster</b>, you must <i>boost the [Town of Host: Enhanced Discord](https://discord.gg/tohe) server</i>
-- To become a <b>Translator</b>, you need to help with translating the game into other languages. You can find more information about this in the [Town of Host: Enhanced Discord](https://discord.gg/tohe)
+- To become a <b>Nitro Booster</b>, you must boost the [Town of Host: Enhanced Discord](https://discord.gg/tohe) server
+- To become a <b>Translator</b>, you need to help with translating the mod into other languages. You can find more information about this in the [Town of Host: Enhanced Discord](https://discord.gg/tohe)
 - To become a <b>Sponsor</b>, you need to purchase a tier on our [Ko-fi](https://ko-fi.com/TOHEN) (For Canary Builds access specifically, you need to purchase at least Initiate tier (lowest tier) for $3.00)
 
 Once you have been accepted into one of the above roles, you will be able to access the #canary-builds channel in the [Town of Host: Enhanced Discord](https://discord.gg/tohe).

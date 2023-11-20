@@ -447,7 +447,6 @@ export default ({
             { text: 'Potion Master', link: '/options/Neutrals/Killing/PotionMaster.html' },
             { text: 'Pyromaniac', link: '/options/Neutrals/Killing/Pyromaniac.html' },
             { text: 'Serial Killer', link: '/options/Neutrals/Killing/SerialKiller.html' },
-            { text: 'Shade', link: '/options/Neutrals/Killing/Shade.html' },
             { text: 'Shroud', link: '/options/Neutrals/Killing/Shroud.html' },
             { text: 'Stalker', link: '/options/Neutrals/Killing/Stalker.html' },
             { text: 'Traitor', link: '/options/Neutrals/Killing/Traitor.html' },

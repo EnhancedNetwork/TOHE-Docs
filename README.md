@@ -27,7 +27,7 @@ footer: ©2023 By Moe & KARPED1EM
 ---
 
 <p>To all the amazing players that keep Town of Host: Edited & Town of Host: Re-Edited in their hearts:</p>
-<p>We have taken over TOHRE to keep the mod maintained. Moe has taken Project Lead, and will still be maintaining the website, aswell as the Patreon.</p>
+<p>We have taken over TOHRE to keep the mod maintained. Moe has taken Project Lead, and will still be maintaining the website, aswell as the Ko-fi.</p>
 <p>We play Among Us a fair amount, so we will do our best to keep it all updated and viable to play with
 each update that comes</p>
 <p>Please keep in mind that we are still in the Early phase, so not everything is optimized/stable.

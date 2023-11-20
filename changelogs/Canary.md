@@ -3,15 +3,18 @@ lang: en-US
 title: Canary Changelogs
 sidebar:
 - { text: Latest Changelog, link: /Changelogs.html}
+- { text: Changelogs Tags, link: /changelogs/Tags.html}
 - { text: Previous Stable Changelogs, link: /changelogs/Stable.html}
 - { text: Previous Canary Changelogs, link: /changelogs/Canary.html}
 - { text: Previous Dev Changelogs, link: /changelogs/Dev.html}
 ---
 
 # Canary Changelogs
-----
-To access Canary Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at least Initiate), [Translate](https://github.com/0xDrMoe/TownofHost-Enhanced), or become a [Nitro Booster](https://discord.com/invite/tohe) by boosting the TOHE Discord.
 ---
+To access Canary Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at least Initiate), [Translate](https://github.com/0xDrMoe/TownofHost-Enhanced), or become a [Nitro Booster](https://discord.com/invite/tohe) by boosting the TOHE Discord.
+
+---
+
 
 ## <font size=5em><b>Latest: v1.2.1 Canary 1</b></font><br>
 
@@ -94,6 +97,7 @@ To access Canary Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (a
 \+ <font color=#009344><b>Italian</b></font> by [**Mattix606**](#), [**Baphojack**](#), & [**reallyalot**](#).<br>
 \+ <font color=#ffc400><b>Spanish</b></font> by [**xxSShadow**](#),[**Sunnyboi**](#), [**Dawson**](#), & [**thewhiskas**](#).<br>
 \+ <font color=#de2910><b>Traditional Chinese</b></font> by [**Pomelo_**](#), [**FlyFlyTurtle**](#), [**NikoCat223**](#), & [**NetherDragonTw**](#).
+
 ---
 
 ## <font size=5em><b>v1.1.0 Canary 1</b></font><br>

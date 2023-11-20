@@ -3,14 +3,16 @@ lang: en-US
 title: Dev Changelogs
 sidebar:
 - { text: Latest Changelog, link: /Changelogs.html}
+- { text: Changelogs Tags, link: /changelogs/Tags.html}
 - { text: Previous Stable Changelogs, link: /changelogs/Stable.html}
 - { text: Previous Canary Changelogs, link: /changelogs/Canary.html}
 - { text: Previous Dev Changelogs, link: /changelogs/Dev.html}
 ---
 
 # Dev Changelogs
-----
+---
 To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced), or be a [Tester] (Content Creator with your TOHE videos having 600+ views on average)
+
 ---
 
 ## <font size=5em><b>Latest: v1.2.1 Dev 4</b></font><br>
@@ -24,6 +26,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 \- <font color=red><b>REMOVED</b></font>: Removed egoist count as setting from ParityCop <br>
 \+ <font color=green><b>NEW</b></font>: Added setting for Egoist to be counted as converted neutral <br>
 \+ <font color=green><b>NEW</b></font>: Added setting for converted madmate to kill without repercussions <br>
+
 ---
 
 ## <font size=5em><b>v1.2.1 Dev 3</b></font><br>
@@ -37,7 +40,6 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 * By [**LezaiYa**](https://github.com/LezaiYa)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Some miscellaneous fixes <br>
 \+ <font color=green><b>NEW</b></font>: Basic Crewmate Role: [Randomizer](/options/Crewmates/Basic/Randomizer.html) (from Night) <br>
-
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Doomsayer showing wrong count in message <br>
@@ -62,6 +64,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 * By [**lars-wu (papercut)**](https://github.com/lars-wu)<br>
 \+ <font color=green><b>NEW</b></font>: Crewmate Support Role: [Enigma](/options/Crewmates/Support/Enigma.html) <br>
 \+ <font color=green><b>NEW</b></font>: Impostor Killing Role: [Instigator](/options/Impostors/Killing/Instigator.html) <br>
+
 ---
 
 ## <font size=5em><b>v1.2.1 Dev 2</b></font><br>
@@ -84,6 +87,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 * By [**TommyXL**](https://github.com/Tommy-XL) <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Improved code base for better performance <br>
 \+ <font color=green><b>NEW</b></font>: Camouflage skins (<font color=#ec7578>TommyXL</font> and <font color=#919497>Gurge44</font>) <br>
+
 ---
 
 ## <font size=5em><b>v1.2.1 Dev 1</b></font><br>
@@ -140,6 +144,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 * By [**Everyone**](https://github.com/0xDrMoe/TownofHost-Enhanced)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated default template message for all translations by: [**ryuk**](#), [**TommyXL**](#), [**Dopzy**](#), [**Dawson**](#), [**LezaiYa**](#), [**NetherDragonTw**](#) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Several other bug fixes (Majorily by [**TommyXL**](#)) <br>
+
 ---
 
 ## <font size=5em><b>v1.0.2 Dev 4</b></font><br>
@@ -169,6 +174,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#1376f0><b>BUG FIX</b></font>: Some fix for setting "Remove Pets At Dead Players" <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Renamed Agent back to Evil Tracker <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Code Enhancement to improve performance <br>
+
 ---
 
 ## <font size=5em><b>v1.0.2 Dev 3.1</b></font><br>
@@ -191,6 +197,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated Whitelist (You can add nicknames for keeping track of friend codes (friendcode#1234, nickname))<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: some other fixes<br>
+
 ---
 
 ## <font size=5em><b>v1.0.2 Dev 3</b></font><br>
@@ -198,17 +205,20 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 * By [**Moe**](https://github.com/0xDrMoe)<br>
 = I hate ryuk<br>
 \- <font color=red><b>REMOVED</b></font>: Herobrine 😱<br>
+
 ---
 
 ## <font size=5em><b>v1.0.2 Dev 2.1 (1/2) (HOT-HOTFIX)</b></font><br>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Internal version matched Dev 2, now fixed.<br>
+
 ---
 
 ## <font size=5em><b>v1.0.2 Dev 2.1 (HOTFIX)</b></font><br>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: fixed President (modded clients should not see President without reveal (thanks [Julius](#) for helping with testing!))<br>
+
 ---
 
 ## <font size=5em><b>v1.0.2 Dev 2</b></font><br>
@@ -227,6 +237,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * <font color=#8708c7><b>TRANSLATIONS</b></font>: Added support for more Translations!<br>
 \+ <font color=#009b3a><b>Portuguese (Brazil)</b></font> by [**Reginaldoo**](#), [**Dopzy**](#),[**Tony Stark**](#), [**Arc**](#)
+
 ---
 
 ## <font size=5em><b>v1.0.2 Dev 1</b></font><br>

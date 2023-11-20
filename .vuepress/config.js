@@ -262,7 +262,7 @@ export default ({
           '/options/Experimental/Addon/': [
             { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },
             { text: 'Fool', link: '/options/Experimental/Addon/Fool.html' },
-            { text: 'OIIAI', link: '/options/Experimental/Addon/OIIAI.html' },
+            { text: 'Oiiai Cat', link: '/options/Experimental/Addon/OiiaiCat.html' },
             { text: 'YouTuber', link: '/options/Experimental/Addon/YouTuber.html' },
           ],
           '/options/Experimental/Crewmate/': [

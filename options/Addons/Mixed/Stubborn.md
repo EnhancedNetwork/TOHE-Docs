@@ -8,7 +8,7 @@ next: /options/Settings/Addons.html
 # <font color=#fa5434>😖 <b>Stubborn</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
 ---
 
-With the Stubborn add on, Eraser can’t erase your role erase, Cleanser can't cleanse you, Bandit can't steal from you and Monarch can't knight you.<br>
+With the Stubborn add on, Eraser can’t erase your role, Cleanser can't cleanse you, Bandit can't steal from you and Monarch can't knight you.<br>
 Additionally, you can’t gain any new addons from the merchant.
 * Max
   * Set the Maximum amount of Stubborns that can be in a match

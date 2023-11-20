@@ -7,6 +7,8 @@ next: God
 
 # <font color=#f1f0a1>🎭 <b>Doppelganger</b></font> <Badge text="Neutral" type="tip" vertical="middle"/>
 ---
+<font size=4em>Experimental Reason: may show wrong win screen because the skin of the player doesn't change for some reason</font><br>
+Note: Most likely a Neutral Killing
 
 As the Doppelganger, use your kill button to steal a player's identity (their name and skin) and then kill your target.<br><br>
 Kill everyone to win.<br><br>

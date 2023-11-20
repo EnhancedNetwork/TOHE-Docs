@@ -3,14 +3,16 @@ lang: en-US
 title: Stable Changelogs
 sidebar:
 - { text: Latest Changelog, link: /Changelogs.html}
+- { text: Changelogs Tags, link: /changelogs/Tags.html}
 - { text: Previous Stable Changelogs, link: /changelogs/Stable.html}
 - { text: Previous Canary Changelogs, link: /changelogs/Canary.html}
 - { text: Previous Dev Changelogs, link: /changelogs/Dev.html}
 ---
 
 # Stable Changelogs
-----
+---
 To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0xDrMoe/TownofHost-Enhanced) and download the latest release!
+
 ---
 
 ## <font size=5em><b>Latest: v1.2.0</b></font><br>
@@ -19,6 +21,7 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 = <font color=#1376f0><b>BUG FIX</b></font>: Several Bug Fixes
 = <font color=#dc4585><b>THE</b></font> <font color=#fe5ca8><b>FUNGLE</b></font>: Fun and all! Let's get ready to enter The Fungle 🌲
 * [**Full v1.2.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.1.1...v1.2.0)
+
 ---
 
 ## <font size=5em><b>v1.1.1</b></font><br>
@@ -31,6 +34,7 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved overkiller in PlayerControls
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Reworked End Game Checks (again) to optimize it
 * [**Full v1.1.1 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.1.0...v1.1.1)
+
 ---
 
 ## <font size=5em><b>v1.1.0</b></font><br>
@@ -102,21 +106,23 @@ Updated en_US.json for some neutral killers (by Moe) <br>
 = New variables for template file = {{HostName}} (host's name), ({{PlayerName}} is for any player.) <br>
 = Several Misc Bug Fixes and code enhancements by TommyXL, ryuk, Moe and Gurge44
 * [**Full v1.1.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.0.1...v1.1.0) 
+
 ---
 
 ## <font size=5em><b>v1.0.1</b></font><br>
 
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Removed spray of Loonie and replaced it #6
-\+ <font color=green><b>NEW</b></font>: Added an updated clue in Fortune Teller #5
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed templates and VIP List not generating #5 #6
-\+ <font color=green><b>NEW</b></font>: A new tease...for a new role...? (try /r President)
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Removed spray of Loonie and replaced it [#6](https://github.com/0xDrMoe/TownofHost-Enhanced/pull/6)<br>
+\+ <font color=green><b>NEW</b></font>: Added an updated clue in Fortune Teller [#5](https://github.com/0xDrMoe/TownofHost-Enhanced/pull/5)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed templates and VIP List not generating [#5](https://github.com/0xDrMoe/TownofHost-Enhanced/pull/5) [#6](https://github.com/0xDrMoe/TownofHost-Enhanced/pull/6)<br>
+\+ <font color=green><b>NEW</b></font>: A new tease...for a new role...? (try /r President)<br>
 * [**Full v1.0.1 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/Release...v1.0.1)
+
 ---
 
 ## <font size=5em><b>v1.0.0</b></font><br>
 
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Removed all association with LoonieToons, credit is still provided in README"
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Renamed Jailor to Jailer (you're welcome, ryuk)"
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Updated default templates to include all appropriate strings/variables"
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bandit Text String"
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Removed all association with LoonieToons, credit is still provided in README<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Renamed Jailor to Jailer (you're welcome, ryuk)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Updated default templates to include all appropriate strings/variables<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bandit Text String<br>
 * [**Full v1.0.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/commits/Release)

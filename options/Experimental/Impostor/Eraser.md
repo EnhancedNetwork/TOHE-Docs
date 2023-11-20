@@ -7,6 +7,8 @@ next: Hangman
 
 # <font color=red>🧼 <b>Eraser</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 ---
+<font size=4em>Experimental Reason: has issues with some roles, one being Medium</font><br>
+Note: Most likely an Impostor Hindering
 
 Eraser can vote for any crew target at the meeting to erase the target's roles, and the erasure will take effect after the meeting ends. Note: Players whose skills are erased will always be considered a vanilla role, including the game result page.
 * Max

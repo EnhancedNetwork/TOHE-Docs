@@ -21,6 +21,7 @@ sidebar:
 
 # All Tags
 ---
+
 \- <font color=red><b>REMOVED</b></font>: Features recently deleted from the Mod/Site. <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: CHANGES, but specifically to make a Feature run/look better. <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Features that have been altered in some way. <br>

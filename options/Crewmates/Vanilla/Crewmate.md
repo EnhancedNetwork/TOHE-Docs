@@ -14,7 +14,7 @@ Crewmates win by getting rid of all killers or by finishing all their tasks.
   * Set the Maximum amount of Crewmates that can be in a match
 
 ::: danger "I have this disabled, why does it keep spawning?"
-You may have incompatible roles set! If you have a certain role & addon both enabled, the role will become its base. Here's ones that become Crewmate:<br>
+You may have incompatible roles set! If you have a certain role & addon both enabled, the role will become its base. (This should not occur anymore as of 1.2.1 dev 3) Here's ones that become Crewmate:<br>
 Role: Lazy Guy + Addon: Lazy<br>
 Role: Luckey + Addon: Lucky<br>
 Role: Detective + Addon: Sleuth<br>

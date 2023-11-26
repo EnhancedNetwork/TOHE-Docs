@@ -2,11 +2,13 @@
 lang: en-US
 title: Fool
 prev: /options/settings/Experimental.html
-next: OIIAI
+next: OiiaiCat
 ---
 
 # <font color=#e6e7ff>👻 <b>Fool</b></font> <Badge text="Addon" type="tip" vertical="middle"/>
 ---
+<font size=4em>Experimental Reason: Should be fixed, Needs Testing</font><br>
+Note: Most likely a Harmful Add-on
 
 <p><font color=red>Impostor</font> and Repairman won't be Fool. Fools can't repair any sabotage.</p>
 

@@ -84,6 +84,8 @@ The game will end suddenly if there are an equal amount of Impostors alive to No
 
 3. The host or a certain player made a fatal error, and the mod forcibly ended the game to prevent the game from being freezing.
 
+4. None of these, make a #bug-report (Include Logs from /dump!)
+
 ## Just after the start, it shows that the host has forced the end of the game
 
 It's a protection mechanism, just ignore it and keep playing. The reason this occurs is because, there is a bug with Host-Only mods that fails to assign roles. When the bug occurs in the original Town of Host, the host will not be able to see the start button, and other players will be loaded with an infinite black screen. In this case, everyone can only exit the game. In Town of Host: Enhanced, in order to avoid this situation, it will automatically detect whether other players are stuck in loading, and if detected, the game will be automatically terminated to prevent everyone from being stuck.
@@ -98,9 +100,15 @@ This most likely isn't a bug, please make sure the duplicated role has a Maximum
 
 ## I got vanilla roles
 
-This should not occur anymore in 1.2.1 dev 3.
+There are a few posibilities
 
-If you are not on 1.2.1 dev 3, You might need to turn on the "Disable vanilla roles" option, and enable more roles. Another possiblity is that you may have incompatible roles set! If you have a certain role & addon both enabled, the role will become its base. (You can find info on what roles/addons are incompatible on these pages: [Crewmate](/options/Crewmates/Vanilla/Crewmate.html) | [Engineer](/options/Crewmates/Vanilla/Engineer.html) | [Scientist](/options/Crewmates/Vanilla/Scientist.html))
+1. You might need to turn on the "Disable vanilla roles" option.
+
+2. You may need to enable more roles or allow more players to be the same role.
+
+3. You may come accross this message: "There are incompatible roles in your role list, you may experience vanilla roles", which means you have a certain role & it's addon form enabled, (You can find info on what roles/addons are incompatible on these pages: [Crewmate](/options/Crewmates/Vanilla/Crewmate.html) | [Engineer](/options/Crewmates/Vanilla/Engineer.html) | [Scientist](/options/Crewmates/Vanilla/Scientist.html)) (This should not occur anymore as of 1.2.1 dev 3)
+
+4. Eraser might've erased your role, resetting you to your base role (Impostor/Shapeshifter/Crewmate/Engineer/Scientist are all Base Roles (Base Role =/= Team/Role))
 
 ## The game never ends
 

@@ -44,7 +44,7 @@ next: Impostors
 
 ### <font color=#ff9ace><b>Add-ons</b></font>
 ---
-[Fool](/options/Experimental/Addon/Fool.html) | [OIIAI](/options/Experimental/Addon/OIIAI.html) | [YouTuber](/options/Experimental/Addon/YouTuber.html)
+[Fool](/options/Experimental/Addon/Fool.html) | [Oiiai Cat](/options/Experimental/Addon/OiiaiCat.html) | [YouTuber](/options/Experimental/Addon/YouTuber.html)
 <br>
 
 ### <font color=#8cffff><b>Crewmate</b></font>

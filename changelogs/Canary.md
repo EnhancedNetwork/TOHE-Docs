@@ -3,17 +3,39 @@ lang: en-US
 title: Canary Changelogs
 sidebar:
 - { text: Latest Changelog, link: /Changelogs.html}
+- { text: Changelogs Tags, link: /changelogs/Tags.html}
 - { text: Previous Stable Changelogs, link: /changelogs/Stable.html}
 - { text: Previous Canary Changelogs, link: /changelogs/Canary.html}
 - { text: Previous Dev Changelogs, link: /changelogs/Dev.html}
 ---
 
 # Canary Changelogs
-----
+---
 To access Canary Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at least Initiate), [Translate](https://github.com/0xDrMoe/TownofHost-Enhanced), or become a [Nitro Booster](https://discord.com/invite/tohe) by boosting the TOHE Discord.
+
 ---
 
-## <font size=5em><b>Latest: v1.2.1 Canary 1</b></font><br>
+## <font size=5em><b>Latest: v1.2.1 Canary 2</b></font><br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed butcher, hater and horsemod
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed influenced vote never actually shift
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed influenced and swapper vote results in meetinghud
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mini ejection screen
+
++ By [**Marg**](https://github.com/MargaretTheFool)
+\+ <font color=green><b>NEW</b></font>: New lobby game /rand
+
+* By [**NetherDragonTw**](https://github.com/NetherDragonTw)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix lava chat (chat will be spammed when someone talks during ejection screen_
+
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Updated in game access to be given by APIs (example: /up access, overhead tags etc. will be given using API)
+= <font color=#1376f0><b>BUG FIX</b></font>: Possible fix for Imitator
+
+---
+
+## <font size=5em><b>v1.2.1 Canary 1</b></font><br>
 
 * By [**lars-wu (papercut)**](https://github.com/lars-wu)<br>
 \+ <font color=green><b>NEW</b></font>: Crewmate Support Role: [Enigma](/options/Crewmates/Support/Enigma.html) <br>
@@ -94,6 +116,7 @@ To access Canary Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (a
 \+ <font color=#009344><b>Italian</b></font> by [**Mattix606**](#), [**Baphojack**](#), & [**reallyalot**](#).<br>
 \+ <font color=#ffc400><b>Spanish</b></font> by [**xxSShadow**](#),[**Sunnyboi**](#), [**Dawson**](#), & [**thewhiskas**](#).<br>
 \+ <font color=#de2910><b>Traditional Chinese</b></font> by [**Pomelo_**](#), [**FlyFlyTurtle**](#), [**NikoCat223**](#), & [**NetherDragonTw**](#).
+
 ---
 
 ## <font size=5em><b>v1.1.0 Canary 1</b></font><br>

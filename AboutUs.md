@@ -30,6 +30,8 @@ I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++.
 I'm a young developer who loves coding and gaming. (placeholder bio)
 </details>
 
+---
+
 [**Tommy-XL**](https://github.com/Tommy-XL)：Role & Feature Coding, <font color=#0036a7><b>Russian</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -54,6 +56,8 @@ I am a Helper in the TOHE Discord server, aswell as a Website Developer for tohr
 I help with performance improvements & bug fixes, sometimes I add new roles. I also coded a customized wordle game and my own Among Us mod which are both available on my [github](https://github.com/Gurge44). I really like Among Us mods and I have a lot of motivation to keep coding and playing. I enjoy coding challenges, like roles that are very complex and/or take a while to make. I like traffic lights more than anything else, especially those in the city I live in, since they also speak and have counters. I like everything timer related.
 </details>
 
+---
+
 [**NikoCat233**](https://github.com/NikoCat233): Feature Coding
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -61,19 +65,29 @@ I help with performance improvements & bug fixes, sometimes I add new roles. I a
 I'm a young developer who loves coding and gaming. (placeholder bio)
 </details>
 
+---
+
 [**Papercut**](https://github.com/lars-wu)：Role Coding
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
+---
+
 I'm a young developer who loves coding and gaming. (placeholder bio)
 </details>
+
+---
 
 [**xV & MCP**](https://github.com/xVCantCode)：Feature Coding
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
+---
+
 I'm a young developer who loves coding and gaming. (placeholder bio)
 </details>
+
+---
 
 [**FuroYT**](https://github.com/FuroYT): Feature Coding
 <details>
@@ -82,12 +96,16 @@ I'm a young developer who loves coding and gaming. (placeholder bio)
 I'm a young developer who loves coding and gaming. (placeholder bio)
 </details>
 
+---
+
 [**天寸梦初**](https://github.com/Huier-Huang)：Role Coding
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
 I'm a young developer who loves coding and gaming. (placeholder bio)
 </details>
+
+---
 
 [**NCSIMON**](https://github.com/NCSIMON)：Role Coding
 <details>
@@ -96,6 +114,8 @@ I'm a young developer who loves coding and gaming. (placeholder bio)
 Helped code Many Roles for TOH: Edited.
 </details>
 
+---
+
 [**Commandf1**](https://github.com/commandf1)：Role & Feature Coding
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -103,12 +123,16 @@ Helped code Many Roles for TOH: Edited.
 I'm a young developer who loves coding and gaming. (placeholder bio)
 </details>
 
+---
+
 [**乐崽吖**](https://github.com/LezaiYa)：Role Coding, <font color=#de2910><b>Chinese</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
 I'm a young developer who loves coding and gaming. (placeholder bio)
 </details>
+
+---
 
 [**阿龍**](https://www.youtube.com/channel/UCVT0-d5Sxc3ab1AZvkBe-cQ)：Feature Coding & <font color=#de2910><b>Traditional Chinese</b></font> Translator
 <details>
@@ -128,6 +152,8 @@ TChinese Translator for in TOHE since April 2023. I'm a casual gamer, playing ga
 A Veteran in TOHE, pretty good at photoshop, sadly still searching for work
 </details>
 
+---
+
 [**Toxa**](https://www.youtube.com/@chill_ultimated)：<font color=#0036a7><b>Russian</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -144,6 +170,8 @@ I'm a TOHE Translator. I like funny stuff that doesn't make any sense for anyone
 I am a Translator of TOHE.I enjoy playing games like Minecraft (doing redstone/Hypixel Skyblock/ManaMetal) & modded Among Us(TOHE/TONX) Quite good at different subjects in school. Played TOHE since 2.5.0. I like to find bugs/glitches.
 </details>
 
+---
+
 [**Pomelo**](#)：<font color=#de2910><b>Traditional Chinese</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -151,12 +179,16 @@ I am a Translator of TOHE.I enjoy playing games like Minecraft (doing redstone/H
 I enjoy playing games, I have played Project Sekai, Among Us, & Mahjong Soul. (Also known as 柚子)
 </details>
 
+---
+
 [**船员小青**](https://qm.qq.com/q/Zo6h4cchma)：<font color=#de2910><b>Simplified Chinese</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
 Hello everyone, I am from mainland China. I am one of the Simplified Chinese Translators of this mod. I am a middle school student. I usually like to sleep in, listen to music, or play video games. Nice to meet you. (Also known as CrewCyan)
 </details>
+
+---
 
 [**法官**](https://github.com/hinhinarrrrrr)：<font color=#de2910><b>Chinese</b></font> Translator
 <details>
@@ -174,12 +206,16 @@ I'm a young developer who loves coding and gaming. (placeholder bio)
 I am a Translator in the TOHE Discord server, I enjoy gaming, drawing and going on walks. Also school competitivity is what drives me insane.
 </details>
 
+---
+
 [**Dawson**](https://youtu.be/MTW4sIL9Dpw?si=LpHF7tX6Aj5WLwFD)：<font color=#ffc400><b>Spanish</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
 I help translate TOHE into Spanish & fix English descriptions. Some hobbies I have are gaming, swimming, and reading. (Also known as butwhatabout)
 </details>
+
+---
 
 [**xxSShadow**](https://www.youtube.com/channel/UCji4tV4CjOd2Xzo1GxmhCig)：<font color=#ffc400><b>Spanish</b></font> Translator
 <details>
@@ -197,12 +233,16 @@ I am a college student majoring in computer science. Some hobbies I have are pro
 I'm a young developer who loves coding and gaming. (placeholder bio)
 </details>
 
+---
+
 [**Dopzy**](#)：<font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
 I'm a young developer who loves coding and gaming. (placeholder bio)
 </details>
+
+---
 
 [**Arc**](#)：<font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font> Translator
 <details>
@@ -220,12 +260,16 @@ I'm a young developer who loves coding and gaming. (placeholder bio)
 I'm a young developer who loves coding and gaming. (placeholder bio)
 </details>
 
+---
+
 [**Sansationnelle**](https://steamcommunity.com/profiles/76561199403547166)：<font color=#002654><b>French</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
 Well I'm having a bad time at school. I like gaming as Undertale and being lazy as a certain skeleton. (Also known as Shapmaster)
 </details>
+
+---
 
 [**Klémi**](#)：<font color=#002654><b>French</b></font> Translator
 <details>
@@ -261,12 +305,16 @@ I'm a young developer who loves coding and gaming. (placeholder bio)
 I'm a young developer who loves coding and gaming. (placeholder bio)
 </details>
 
+---
+
 [**BaphoJack**](#): <font color=#009344><b>Italian</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
 I'm a young developer who loves coding and gaming. (placeholder bio)
 </details>
+
+---
 
 [**reallyalot**](#): <font color=#009344><b>Italian</b></font> Translator
 <details>
@@ -283,6 +331,8 @@ Hobbies I have are gaming, playing chess, gym, and music. (Also known as alot)
 
 Always leading that busy life. I enjoy playing and translating TOHE. I'm a competitive gamer. Additionally I like making art & editing music soundtracks.
 </details>
+
+---
 
 [**Tango**](https://madmazel.newgrounds.com/): <font color=#1e448b><b>Dutch</b></font> Translator
 <details>
@@ -309,12 +359,16 @@ I'm a casual gamer with a special place in my heart for games that are a little 
 Created most of the Images that TOHE uses (Such as Tab Images)
 </details>
 
+---
+
 [**水木年华**](https://github.com/XiezibanWrite)：Document & Contact Support
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 
 I'm a young developer who loves coding and gaming. (placeholder bio)
 </details>
+
+---
 
 [**Mousse**](https://github.com/Sand-and-Beans)：Document
 <details>
@@ -324,6 +378,7 @@ I'm a young developer who loves coding and gaming. (placeholder bio)
 </details>
 
 ## Original Creator
+
 [**KARPED1EM**](https://github.com/KARPED1EM)：Original TOHE Creator (TONX Dev)
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -340,12 +395,16 @@ The original creator of TOH: Edited, now being worked on again as TONX/Town of N
 TOH: Enhanced is a continuation of TOHE: Restored. (Later renamed to TOH: Re-Edited)
 </details>
 
+---
+
 [**Town Of Next**](https://github.com/KARPED1EM/TownOfNext) (By: KARPED1EM)
 <details>
 <summary><b><font color=gray>Mod Info</font></b></summary>
 
 Previously known as Town of Host Edited, now being maintained again under the name Town of Next! (TONX) This was the Original Base for TOHE: Restored & TOH: Enhanced.
 </details>
+
+---
 
 [**Town Of Host**](https://github.com/tukasa0001/TownOfHost) (By: tukasa0001)
 <details>
@@ -354,12 +413,16 @@ Previously known as Town of Host Edited, now being maintained again under the na
 The Original Town of Host Mod. This is the Original Base for Most/All Town of Host Mods.
 </details>
 
+---
+
 [**Town Of Host Y**](https://github.com/Yumenopai/TownOfHost_Y) (By: Yumenopai)
 <details>
 <summary><b><font color=gray>Mod Info</font></b></summary>
 
 Mutliple Ideas such as: AntiAdminer, CursedWolf, Workaholic, Greedy (Greedier), Stalker (DarkHide).
 </details>
+
+---
 
 [**Town Of Host: The Other Roles**](https://github.com/music-discussion/TownOfHost-TheOtherRoles) (By: Discussions)
 <details>
@@ -368,12 +431,16 @@ Mutliple Ideas such as: AntiAdminer, CursedWolf, Workaholic, Greedy (Greedier), 
 MANY Role Ideas, also Exile Confirm, & Split RPC Pack.
 </details>
 
+---
+
 [**Town Of Plus**](https://github.com/tugaru1975/TownOfPlus) (By: tugaru1975)
 <details>
 <summary><b><font color=gray>Mod Info</font></b></summary>
 
 Reference: Zoom.
 </details>
+
+---
 
 [**Town Of Host +**](https://github.com/Loonie-Toons/TownOfHostPlus) (By: TheSkullCreeper)
 <details>
@@ -382,12 +449,16 @@ Reference: Zoom.
 Multiple Ideas such as: Marshall, Poisoner, Necroview, & Sidekick.
 </details>
 
+---
+
 [**Town Of Host Edited +**](https://github.com/Gurge44/TOHE_PLUS) (By: Gurge44)
 <details>
 <summary><b><font color=gray>Mod Info</font></b></summary>
 
 Multiple Ideas such as: Pyromaniac, Necromancer, Huntsman (Head Hunter), & Alchemist.
 </details>
+
+---
 
 [**Town Of Host Edited Xi**](https://github.com/TOHEX-Official/TownOfHostEdited-Xid) (By: TOHEX-Official(Xieiawa & Slok7565))
 <details>
@@ -396,12 +467,16 @@ Multiple Ideas such as: Pyromaniac, Necromancer, Huntsman (Head Hunter), & Alche
 Some Ideas such as: Swapper.
 </details>
 
+---
+
 [**Project Lotus**](https://github.com/ImaMapleTree/Lotus) (By: ImaMapleTree)
 <details>
 <summary><b><font color=gray>Mod Info</font></b></summary>
 
 Multiple Ideas such as: Crusader.
 </details>
+
+---
 
 [**Stellar Roles**](https://github.com/Mr-Fluuff/StellarRolesAU) (By: Mr-Fluuff)
 <details>
@@ -410,12 +485,16 @@ Multiple Ideas such as: Crusader.
 Multiple Ideas such as: Inspector (ParityCop).
 </details>
 
-[**Super New Roles**](https://github.com/SuperNewRoles/SuperNewRoles) (By: SuperNewRoles (ykundesu)
+---
+
+[**Super New Roles**](https://github.com/SuperNewRoles/SuperNewRoles) (By: SuperNewRoles (ykundesu))
 <details>
 <summary><b><font color=gray>Mod Info</font></b></summary>
 
 Reference: Credentials menu, Switch Horse Mode, Search Mod Game, & Custom Button.
 </details>
+
+---
 
 [**Revolutionary Host Roles**](https://github.com/sansaaaaai/Revolutionary-host-roles) (By: sansaaaaai)
 <details>
@@ -424,12 +503,16 @@ Reference: Credentials menu, Switch Horse Mode, Search Mod Game, & Custom Button
 Reference: Modify settings menu.
 </details>
 
+---
+
 [**Town of Us Reactivated**](https://github.com/eDonnes124/Town-Of-Us-R) (By: eDonnes124)
 <details>
 <summary><b><font color=gray>Mod Info</font></b></summary>
 
 Multiple Ideas such as: Witness (Detective), Medic, & Tracker.
 </details>
+
+---
 
 [**The Other Roles**](https://github.com/TheOtherRolesAU/TheOtherRoles) (By: TheOtherRolesAU)
 <details>

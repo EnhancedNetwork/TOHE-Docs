@@ -27,7 +27,7 @@ I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++.
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a young developer who loves coding and gaming. (placeholder bio)
+I help in role and feature coding, and also help in fixing bugs from time to time. I love listening to music and coding. I usually prefer to code in python whether it may be for competitive coding or a small program. I also love playing action-adventure games with a good story line. <s>I actually coded my first role with 0 knowledge of C# because someone who shall not be named couldn't code Vulture.</s> xV and Solarflare helped me a lot initially in helping me code features and roles.
 </details>
 
 ---

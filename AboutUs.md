@@ -12,14 +12,6 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 <font size=4em>Not at all close to finished, many "About" dropdowns may have Placeholder Bios</font>
 
-## Original Creator
-[**KARPED1EM**](https://github.com/KARPED1EM)：Original TOHE Creator (TONX Dev)
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-The original creator of TOH: Edited, now being worked on again as TONX/Town of Next.
-</details>
-
 ## Project Lead
 [**Moe**](https://github.com/0xDrMoe): Project Lead, Website Maintainer/Developer
 <details>
@@ -302,7 +294,7 @@ I'm a casual gamer with a special place in my heart for games that are a little 
 ### <font color=#cf192b><b>English</b></font>
 
 [**SolarFlare**](#)：<font color=#cf192b><b>English</b></font> Translator & Document
-
+<details>
 <summary><b><font color=gray>About</font></b></summary>
 
 
@@ -331,12 +323,12 @@ I'm a young developer who loves coding and gaming. (placeholder bio)
 I'm a young developer who loves coding and gaming. (placeholder bio)
 </details>
 
-## TOHE: Restored Maintainer
-[**TheSkullCreeper**](#): TOHE: Restored Maintainer
+## Original Creator
+[**KARPED1EM**](https://github.com/KARPED1EM)：Original TOHE Creator (TONX Dev)
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-TheSkullCreeper, Later known as LoonieToons, was the old maintainer of TOHE: Restored, which was later renamed to TOH: Re-Edited.
+The original creator of TOH: Edited, now being worked on again as TONX/Town of Next.
 </details>
 
 ## Credited Mods 

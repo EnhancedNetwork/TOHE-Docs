@@ -54,7 +54,7 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 [**阿龍**](https://github.com/NetherDragonTw)：Traditional Chinese Translator
 
-[**船员小青**](https://github.com/CrewCyan)：Simplified Chinese Translator
+[**CrewCyan**](https://github.com/CrewCyan)：Simplified Chinese Translator
 
 [**乐崽吖**](https://github.com/LezaiYa)：Chinese Translator
 

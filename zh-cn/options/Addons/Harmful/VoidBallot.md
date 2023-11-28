@@ -24,10 +24,3 @@ next: /options/Settings/Addons.html
   * <font color=red>关闭</font>: <font color=#7f8c8d>中立</font>不能成为这个角色
 
 > 来自: 角色想法 & 代码: [LoonieToons](https://github.com/Loonie-Toons/)
-
----
-lang: zh-CN
-title: 无效投票
-prev: 倒霉蛋
-next: /options/Settings/Addons.html
----

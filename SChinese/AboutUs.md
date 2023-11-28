@@ -91,7 +91,7 @@ contributors: false
 [**Revolutionary Host Roles**](https://github.com/sansaaaaai/Revolutionary-host-roles)：参考： 修改设置菜单。
 [**Project Lotus**](https://github.com/ImaMapleTree/Lotus)：多种理念，如：十字军。
 
-[**Stellar Roles**](https://github.com/Mr-Fluuff/StellarRolesAU)：多种想法，如 奇偶警察（督察）。
+[**Stellar Roles**](https://github.com/Mr-Fluuff/StellarRolesAU)：多种想法，如检察员。
 
 [**Town of Us Reactivated**](https://github.com/eDonnes124/Town-Of-Us-R): 多种想法，如 证人（侦探）、医生和追踪者。
 

@@ -12,10 +12,7 @@ sidebar:
 # Recently Added Tags
 ---
 
-= <font color=#e08709><b>IMPROVEMENT</b></font>: CHANGES, but specifically to make a Feature run/look better. <br>
-\+ <font color=#12edaf><b>REWORK</b></font>: Mixture of NEW & CHANGE, (mostly used for Role Reworks). <br>
-= <font color=#8708c7><b>TRANSLATIONS</b></font>: Recently added/finished Translations for the mod, (The Tag on the change itself will be custom) <br>
-= <font color=#fdf08e><b>NOTES</b></font>: Not necessarily a big change/addition/etc, but important to keep in mind. <br>
+= <font color=black><b>None</b></font>: None <br>
 
 ---
 

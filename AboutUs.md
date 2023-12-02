@@ -62,7 +62,7 @@ I help with performance improvements & bug fixes, sometimes I add new roles. I a
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a young developer who loves coding and gaming. (placeholder bio)
+(placeholder)
 </details>
 
 ---
@@ -73,7 +73,7 @@ I'm a young developer who loves coding and gaming. (placeholder bio)
 
 ---
 
-I'm a young developer who loves coding and gaming. (placeholder bio)
+(placeholder)
 </details>
 
 ---
@@ -84,7 +84,7 @@ I'm a young developer who loves coding and gaming. (placeholder bio)
 
 ---
 
-I'm a young developer who loves coding and gaming. (placeholder bio)
+(placeholder)
 </details>
 
 ---
@@ -93,7 +93,7 @@ I'm a young developer who loves coding and gaming. (placeholder bio)
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a young developer who loves coding and gaming. (placeholder bio)
+(placeholder)
 </details>
 
 ---
@@ -102,7 +102,7 @@ I'm a young developer who loves coding and gaming. (placeholder bio)
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a young developer who loves coding and gaming. (placeholder bio)
+(placeholder)
 </details>
 
 ---
@@ -120,7 +120,7 @@ Helped code Many Roles for TOH: Edited.
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a young developer who loves coding and gaming. (placeholder bio)
+(placeholder)
 </details>
 
 ---
@@ -129,7 +129,7 @@ I'm a young developer who loves coding and gaming. (placeholder bio)
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a young developer who loves coding and gaming. (placeholder bio)
+(placeholder)
 </details>
 
 ---
@@ -194,7 +194,7 @@ Hello everyone, I am from mainland China. I am one of the Simplified Chinese Tra
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a young developer who loves coding and gaming. (placeholder bio)
+(placeholder)
 </details>
 
 ### <font color=#ffc400><b>Spanish</b></font>
@@ -230,7 +230,7 @@ I am a college student majoring in computer science. Some hobbies I have are pro
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a young developer who loves coding and gaming. (placeholder bio)
+(placeholder)
 </details>
 
 ---
@@ -239,7 +239,7 @@ I'm a young developer who loves coding and gaming. (placeholder bio)
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a young developer who loves coding and gaming. (placeholder bio)
+(placeholder)
 </details>
 
 ---
@@ -248,7 +248,7 @@ I'm a young developer who loves coding and gaming. (placeholder bio)
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a young developer who loves coding and gaming. (placeholder bio)
+(placeholder)
 </details>
 
 ### <font color=#002654><b>French</b></font>
@@ -257,7 +257,7 @@ I'm a young developer who loves coding and gaming. (placeholder bio)
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a young developer who loves coding and gaming. (placeholder bio)
+(placeholder)
 </details>
 
 ---
@@ -275,7 +275,7 @@ Well I'm having a bad time at school. I like gaming as Undertale and being lazy 
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a young developer who loves coding and gaming. (placeholder bio)
+(placeholder)
 </details>
 
 ### <font color=#bd0029><b>Japanese</b></font>
@@ -293,7 +293,7 @@ I helped with Japanese and Spanish translations for TOHE. I played Ultimate Fris
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a young developer who loves coding and gaming. (placeholder bio)
+(placeholder)
 </details>
 
 ### <font color=#009344><b>Italian</b></font>
@@ -302,7 +302,7 @@ I'm a young developer who loves coding and gaming. (placeholder bio)
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a young developer who loves coding and gaming. (placeholder bio)
+(placeholder)
 </details>
 
 ---
@@ -311,7 +311,7 @@ I'm a young developer who loves coding and gaming. (placeholder bio)
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a young developer who loves coding and gaming. (placeholder bio)
+(placeholder)
 </details>
 
 ---
@@ -347,7 +347,7 @@ I'm a casual gamer with a special place in my heart for games that are a little 
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-
+(placeholder)
 </details>
 
 ## MVPs
@@ -357,24 +357,6 @@ I'm a casual gamer with a special place in my heart for games that are a little 
 <summary><b><font color=gray>About Me</font></b></summary>
 
 Created most of the Images that TOHE uses (Such as Tab Images)
-</details>
-
----
-
-[**水木年华**](https://github.com/XiezibanWrite)：Document & Contact Support
-<details>
-<summary><b><font color=gray>About Me</font></b></summary>
-
-I'm a young developer who loves coding and gaming. (placeholder bio)
-</details>
-
----
-
-[**Mousse**](https://github.com/Sand-and-Beans)：Document
-<details>
-<summary><b><font color=gray>About Me</font></b></summary>
-
-I'm a young developer who loves coding and gaming. (placeholder bio)
 </details>
 
 ## Original Creator

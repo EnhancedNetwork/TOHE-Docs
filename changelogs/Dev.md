@@ -236,7 +236,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#F6BE00><b>CHANGE</b></font>: Custom Translation files should now update automatically (if it exists). No need to add new text strings manually. The new text strings will be added at the last.<br>
 
 * <font color=#8708c7><b>TRANSLATIONS</b></font>: Added support for more Translations!<br>
-\+ <font color=#009b3a><b>Portuguese (Brazil)</b></font> by [**Reginaldoo**](#), [**Dopzy**](#),[**Tony Stark**](#), [**Arc**](#)
+\+ <font color=#009b3a><b>Portuguese (Brazil)</b></font> by [**Reginaldoo**](#), [**Dopzy**](#), & [**Arc**](#)
 
 ---
 

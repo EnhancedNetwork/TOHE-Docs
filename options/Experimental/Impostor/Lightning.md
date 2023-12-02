@@ -11,7 +11,7 @@ next: Zombie
 ![image](../../../images/LightningReason.png)
 
 ---
-### Note: Most likely an Impostor Concealing
+Note: Most likely an Impostor Concealing
 
 The Lightning cannot do regular kills. After the Lightning uses their kill button on the target, the target will vaporize into a quantum ghost after a set time, and everyone can see the 「■」 next to the name of the quantum ghost as a reminder. If there is non-spherical lightning and a player who is not a quantum ghost touches the quantum ghost, the quantum ghost will be quantized immediately and die. If the quantum ghost survives until a meeting, they will die after the meeting ends. During this time, any active interaction (kill button) with the quantum ghost has no effect. According to the host's settings, killing the Lightning may cause the killer to vaporize into a quantum ghost.
 * Max

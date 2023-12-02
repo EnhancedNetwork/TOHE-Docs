@@ -11,7 +11,6 @@ next: Spiritcaller
 Note: Most likely a Neutral Chaos/Evil
 
 God knows everyone's role from the beginning, and God will win alone as long as he lives to the end. Note: God won't be Lovers.
-
 * Max
   * Set the Maximum amount of Gods that can be in a match.
 * Inform players at meetings that God is still alive

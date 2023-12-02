@@ -8,9 +8,8 @@ next: Influenced
 # <font color=#136cf0>👟 <b>Hurried</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>
 ---
 
-<p>As the Hurried, you must finish all of your tasks to win with your team! If you failed with completing your tasks, you lose.<br>
-Hurried hurries to his goal so it won't get Madmate, Charmed or so on.</p>
-
+As the Hurried, you must finish all of your tasks to win with your team! If you failed with completing your tasks, you lose.<br>
+Hurried hurries to his goal so it won't get Madmate, Charmed or so on.
 * Max
   * Set the Maximum amount of Hurried that can be in a match
 * Spawn Chance

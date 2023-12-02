@@ -13,6 +13,7 @@ The Arsonist can douse by clicking the kill button on the player and following t
 If the player name shows 「△」, that means they are being doused.
 
 if the player name shows 「▲」, it means they have been completely doused.
+
 * Max
   * Set the Maximum amount of Arsonists that can be in a match
 * Douse Duration

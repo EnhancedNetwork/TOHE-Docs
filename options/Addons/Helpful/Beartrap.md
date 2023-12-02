@@ -8,7 +8,7 @@ next: Bewilder
 # <font color=#5a8fd0>🐻 <b>Beartrap</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 ---
 
-When Beartrap is killed, Beartrap will immobilize their killer for a configurable amount of time.
+When Beartrap is killed, Beartrap immobilize killer for a configurable amount of time.
 * Max
   * Set the Maximum amount of Beartraps that can be in a match
 * Spawn Chance

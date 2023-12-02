@@ -10,9 +10,10 @@ next: YouTuber
 <font size=4em>Experimental Reason: Recently Added, Needs Testing</font><br>
 Note: Most likely a Mixed Add-on
 
-As the Oiiai, you will erase your killer's main role.<br>
+<p>As the Oiiai, you will erase your killer's main role.<br>
 Additionally, Oiiai may pass on to the killer.<br>
-A player can only be erased once
+A player can only be erased once</p>
+
 * Max
   * Set the Maximum amount of Oiiai Cats that can be in a match
 * Spawn Chance

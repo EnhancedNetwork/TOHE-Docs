@@ -9,8 +9,9 @@ next: Instigator
 ---
 
 Inhibitor cannot kill during Sabotages.
+
 * Max
-  * Set the Maximum amount of Inhibitors that can be in a match
+  * Set the Maximum amount of Inhibitor that can be in a match
 * Kill Cooldown
   * Set how long the Inhibitor needs to wait to perform a kill
 

@@ -9,6 +9,7 @@ next: Infectious
 ---
 
 As the Huntsman, you have a certain amount of targets that reset every meeting. If you kill one of your targets, your kill cooldown decreases by the set amount permanately. If you kill someone else other than any of your targets, your kill cooldown permanately increases by the set amount. You see your targets with a colored name.
+
 * Kill Cooldown
   * Set how long a Huntsman has to wait to kill
 * Kill Cooldown decrease on killing target

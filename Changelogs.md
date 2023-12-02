@@ -18,20 +18,20 @@ sidebar:
 ## <font size=5em><b>Latest Mod Changelogs: v1.2.1 Canary 2</b></font><br>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed butcher, hater and horsemod <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed influenced vote never actually shift <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed influenced and swapper vote results in meetinghud <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mini ejection screen <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed butcher, hater and horsemod
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed influenced vote never actually shift
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed influenced and swapper vote results in meetinghud
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mini ejection screen
 
 + By [**Marg**](https://github.com/MargaretTheFool)
-\+ <font color=green><b>NEW</b></font>: New lobby game /rand <br>
+\+ <font color=green><b>NEW</b></font>: New lobby game /rand
 
 * By [**NetherDragonTw**](https://github.com/NetherDragonTw)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix lava chat (chat will be spammed when someone talks during ejection screen) <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix lava chat (chat will be spammed when someone talks during ejection screen_
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Updated in game access to be given by APIs (example: /up access, overhead tags etc. will be given using API) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Possible fix for Imitator <br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Updated in game access to be given by APIs (example: /up access, overhead tags etc. will be given using API)
+= <font color=#1376f0><b>BUG FIX</b></font>: Possible fix for Imitator
 
 #### (All Changes/Commits can be seen on [GitHub](https://github.com/0xDrMoe/TownofHost-Enhanced/commits/main))
 

@@ -8,7 +8,7 @@ next: Beartrap
 # <font color=#00f7ff>🪤 <b>Bait</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 ---
 
-When a Bait is killed, the player who killed the Bait will be forced to report the Bait's body. However, the skill will be invalid when the Bait is killed by a Scavenger or Cleaner.
+When a Bait is killed, the murderer who killed the Bait will be forced to report the Bait's body. However, the skill will be invalid when the Bait is killed by a Scavenger or Cleaner.
 * Max
   * Set the Maximum amount of Baits that can be in a match
 * Spawn Chance

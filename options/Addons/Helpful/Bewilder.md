@@ -8,7 +8,7 @@ next: Burst
 # <font color=#c894f5>🤪 <b>Bewilder</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 ---
 
-The <font color=red>Impostors</font> won't be Bewilder. Bewilder may have a smaller/bigger vision depends on the host settings. When the Bewilder is killed, the murderer's vision will become as small/big as the Bewilder.
+The <font color=red>Impostor</font> won't be Bewilder. Bewilder may have a smaller/bigger vision depends on the host settings. When the Bewilder is killed, the murderer's vision will become as small/big as the Bewilder.
 * Max
   * Set the Maximum amount of Bewilders that can be in a match.
 * Spawn Chance

@@ -10,7 +10,7 @@ next: Lighter
 
 Check if two players are in the same team or not. You will get an affirmation message if they are in the same team, or a denial message if they are not in the same team.<br><br>
 All <font color=#7f8c8d>Neutrals</font> and converted players are counted in the same team. Trickster is counted as crew and Rascal is counted as Impostor.<br>
-Checking command: `/cmp [player id 1] [player id 2]`<br>
+Checking command: `/cp [player id 1] [player id 2]`<br>
 * Max
   * Set the Maximum amount of Inspectors that can be in a match
 * Hide Inspector's commands

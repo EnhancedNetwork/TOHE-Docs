@@ -1,5 +1,6 @@
-<template><div><h1 id="🗳️-vote-for-enhanced-network" tabindex="-1"><a class="header-anchor" href="#🗳️-vote-for-enhanced-network" aria-hidden="true">#</a> <font color=red>🗳️ <b>Vote for Enhanced Network</b></font> <Badge text="Minecraft" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="🗳️-vote-for-enhanced-network" tabindex="-1"><a class="header-anchor" href="#🗳️-vote-for-enhanced-network" aria-hidden="true">#</a> <font color=pink>🗳️ <b>Vote for Enhanced Network</b></font> <Badge text="Minecraft" type="tip" vertical="middle"/></h1>
 <hr>
+<p>Vote for Enhanced Network to get rewards! You can read more about voting below. If you have any questions, feel free to ask in our <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">Discord<ExternalLinkIcon/></a>!</p>
 <h2 id="vote-links" tabindex="-1"><a class="header-anchor" href="#vote-links" aria-hidden="true">#</a> Vote Links</h2>
 <ul>
 <li><a href="https://topminecraftservers.org/vote/36053" target="_blank" rel="noopener noreferrer">Top Minecraft Servers<ExternalLinkIcon/></a></li>

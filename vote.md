@@ -3,10 +3,24 @@ lang: en-US
 title: Vote for E.N.
 prev: null
 next: null
+navbar: false
+sidebar:
+    - { text: Visit our Store, link: https://store.tohre.dev/ }
+    - { text: Check our Among Us Mod!, link: https://tohre.dev/ }
+    - { text: Join our Discord, link: https://discord.gg/tohe }
+    - { text: Follow our socials, children: [
+        { text: Twitter, link: https://twitter.com/TOHEnhanced },
+        { text: Instagram, link: https://instagram.com/TOHEnhanced },
+        { text: YouTube, link: https://youtube.com/@TOHEnhanced },
+        { text: Reddit, link: https://reddit.com/r/TOHE },
+        { text: Ko-fi, link: https://ko-fi.com/TOHEN },
+        { text: TikTok, link: https://tiktok.com/@TOHEnhanced },
+    ] }
 ---
 
-# <font color=red>🗳️ <b>Vote for Enhanced Network</b></font> <Badge text="Minecraft" type="tip" vertical="middle"/>
+# <font color=pink>🗳️ <b>Vote for Enhanced Network</b></font> <Badge text="Minecraft" type="tip" vertical="middle"/>
 ---
+Vote for Enhanced Network to get rewards! You can read more about voting below. If you have any questions, feel free to ask in our [Discord](https://discord.gg/tohe)!
 
 ## Vote Links
 

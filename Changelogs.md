@@ -15,61 +15,35 @@ sidebar:
 
 ---
 
-## <font size=5em><b>Latest Mod Changelogs: v1.3.0</b></font><br>
-
-* By [**NetherDragonTw**](https://github.com/NetherDragonTw)<br>
-\+ <font color=green><b>NEW</b></font>: Added anti-spam feature on Lava Chat (Fixed by: ryuk)<br>
-
-* By [**ryuk**](https://github.com/ryuk2098)<br>
-\+ <font color=green><b>NEW</b></font>: [Pixie](/options/Neutrals/Benign/Pixie.html) (Benign Neutral - Idea: Azanthiel)<br>
-\+ <font color=green><b>NEW</b></font>: [Taskinator](/options/Neutrals/Benign/Taskinator.html) (Benign Neutral - Idea: Dx)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Converted Reverie can kill anyone without repercussions<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Egoist Count as Converted Neutral<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Cyber and Doppelganger incompatibility<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Role colors now modifiable via RoleColor.dat<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Vector and Unlucky no longer compatible<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Death Reason Inconsistency<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Double IDs for roles that get them<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed settings overrides and resets (Must play one or two games)<br>
+## <font size=5em><b>Latest Mod Changelogs: v1.3.1 Dev 1</b></font><br>
 
 + By [**TommyXL**](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: Added New Camouflage Skins<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Codebase Significantly<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Sync Settings<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Mare and Stalker anti-spawn on The Fungle<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Visual Bug With Negative Task<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Neutral Killers Can Be Madmate<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Bug When Players Stuck In Walls After Teleporting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix bug where roles that use vent to trigger power spawning in ehT dlekS<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Many other miscellaneous bug fixes and changes to improve code redability (This is done because vents do not work on ehT dlekS)<br>
+\+ <font color=green><b>NEW</b></font>: Re-added Helpful Add-on: [Flash](/options/Addons/Helpful/Flash.html)<br>
+\+ <font color=green><b>NEW</b></font>: Support map: dlekS ehT (Thanks [**sleepyut**](https://github.com/Galster-dev))<br>
 
-* By [**lars-wu (papercut)**](https://github.com/lars-wu)<br>
-\+ <font color=green><b>NEW</b></font>: Support Crewmate Role: [Enigma](/options/Crewmates/Support/Enigma.html) <br>
-\+ <font color=green><b>NEW</b></font>: Killing Impostor Role: [Instigator](/options/Impostors/Killing/Instigator.html) <br>
-
-* By [**LezaiYa**](https://github.com/LezaiYa) <br>
-\+ <font color=green><b>NEW</b></font>: [Randomizer](/options/Crewmates/Basic/Randomizer.html) (Basic Crewmate - Idea: Night)<br>
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Necromancer kill animation shown twice<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Taskinator kicking modded clients<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Console now appears only for people with debugger perms<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Made Fool incompatible with Repairman<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Some other miscellaneous changes<br>
+\+ <font color=green><b>NEW</b></font>: Added new crewmate role: Mole<br>
+\+ <font color=green><b>NEW</b></font>: Ported FFA from TOHE+ (Thanks Gurge44)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed random spawns, setting vent when 2 players alive, setting cant vent when kill cd is up and many other miscellaneous bugs in FFA mode<br>
+\+ <font color=green><b>NEW</b></font>: Added chat commands /tpin and /tpout (to tp vanilla players in and out of ship in lobby)<br>
+\+ <font color=green><b>NEW</b></font>: Added jester not win info in exile message for next meeting <br>
+\+ <font color=green><b>NEW</b></font>: Crewmate Basic role: [Mole](/options/Crewmates/Basic/Mole.html) <br>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
-\+ <font color=green><b>NEW</b></font>: [Influenced](/options/Addons/Harmful/Influenced.html) (Harmful Addon - Idea: spong)<br>
-\+ <font color=green><b>NEW</b></font>: [Hurried](/options/Addons/Harmful/Hurried.html) (Harmful Addon - Idea: Pyro)<br>
-\+ <font color=green><b>NEW</b></font>: [Oiiai Cat (Oiiai)](/options/Experimental/Addon/OiiaiCat.html) (Experimental Addon)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Ban System<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Vulture now can not eat cleaned/medusa bodies<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Removed Incompatible Role Assignment<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed /death by host showing to all players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Partially Fixed host getting dc'd sometimes because of Fortegreen<br>
 
-* By [**LezaiYa**](https://github.com/LezaiYa) & [**NikoCat223**](https://github.com/NikoCat233) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Count grow up time in meeting (for Mini)<br>
-
-* By [**ryuk**](https://github.com/ryuk2098), [**NikoCat223**](https://github.com/NikoCat233), & [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed several roles, addons, teleport bugs<br>
-
-* By [**FuroYT**](https://github.com/FuroYT) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Updated Dev Tags<br>
-
-* <font color=#8708c7><b>NEW TRANSLATIONS</b></font>: Added support for more Languages!<br>
-\+ <font color=#002654><b>French</b></font> by [**KevOut**](#), [**Sansationnelle**](#), [**KlÃ©mi**](#), & [**FuroYT**](#).<br>
-\+ <font color=#bd0029><b>Japanese</b></font> by [**Sunnyboi**](#).<br>
-\+ <font color=#009b3a><b>Latam (Latin American)</b></font> by [**CreepPower**](#).<br>
-\+ <font color=#009344><b>Italian</b></font> by [**Mattix606**](#), [**Baphojack**](#), & [**reallyalot**](#).<br>
-\+ <font color=#ffc400><b>Spanish</b></font> by [**xxSShadow**](#)(New Translator), [**Sunnyboi**](#), [**Dawson**](#), & [**thewhiskas**](#).<br>
-\+ <font color=#de2910><b>Traditional Chinese</b></font> by [**Pomelo_**](#)(New Translator), [**FlyFlyTurtle**](#)(New Translator), [**NikoCat223**](#), & [**NetherDragonTw**](#).
+* By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
+\+ <font color=green><b>NEW</b></font>: Add Region: Modded SA (MSA)<br>
 
 #### (All Changes/Commits can be seen on [GitHub](https://github.com/0xDrMoe/TownofHost-Enhanced/commits/main))
 
@@ -78,4 +52,6 @@ sidebar:
 ## <font size=5em><b>Latest Site Changelogs:</b></font><br>
 
 * By [**Pyro**](https://github.com/Pyro0TV)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Latest Stable Release Changelog <br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added formatting info to `Advanced.md` + `TOHE-Data` Info<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Furo's Bio in `AboutUs.md` <br>
+= Finally Updated to v1.3.1 Dev 1

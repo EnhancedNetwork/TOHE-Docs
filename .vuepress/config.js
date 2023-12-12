@@ -129,6 +129,7 @@ export default ({
             { text: 'Burst', link: '/options/Addons/Helpful/Burst.html' },
             { text: 'Cyber', link: '/options/Addons/Helpful/Cyber.html' },
             { text: 'Double Shot', link: '/options/Addons/Helpful/DoubleShot.html' },
+            { text: 'Flash', link: '/options/Addons/Helpful/Flash.html' },
             { text: 'Lazy', link: '/options/Addons/Helpful/Lazy.html' },
             { text: 'Loyal', link: '/options/Addons/Helpful/Loyal.html' },
             { text: 'Lucky', link: '/options/Addons/Helpful/Lucky.html' },
@@ -189,6 +190,7 @@ export default ({
                 { text: 'Nice Mini', link: '/options/Crewmates/Basic/MiniNice.html' }
               ]
             },
+            { text: 'Mole', link: '/options/Crewmates/Basic/Mole.html' },
             { text: 'Randomizer', link: '/options/Crewmates/Basic/Randomizer.html' },
             { text: 'Super Star', link: '/options/Crewmates/Basic/SuperStar.html' },
             { text: 'Task Manager', link: '/options/Crewmates/Basic/TaskManager.html' },

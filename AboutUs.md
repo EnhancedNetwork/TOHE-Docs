@@ -89,11 +89,11 @@ I help with performance improvements & bug fixes, sometimes I add new roles. I a
 
 ---
 
-[**FuroYT**](https://github.com/FuroYT): Feature Coding
+[**FuroYT**](https://github.com/FuroYT): Feature Coding, <font color=#002654><b>French</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I am a part of the TOHE French Translation team. I enjoy programming and gaming. I suck at drawing. I'm learning music creation.
 </details>
 
 ---

@@ -17,7 +17,7 @@ sidebar:
 
 <font size=4em><b>Latest Versions:</b></font><br>
 
-- <b><font size=3em>Dev:</font> [v1.2.1 Dev 4](/changelogs/Dev.html)</b><br>
+- <b><font size=3em>Dev:</font> [v1.3.1 Dev 1](/changelogs/Dev.html)</b><br>
 - <b><font size=3em>Canary:</font> [v1.2.1 Canary 2](/changelogs/Canary.html)</b><br>
 - <b><font size=3em>Stable:</font> [v1.3.0](/changelogs/Stable.html)</b><br>
 

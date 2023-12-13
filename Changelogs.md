@@ -15,35 +15,31 @@ sidebar:
 
 ---
 
-## <font size=5em><b>Latest Mod Changelogs: v1.3.1 Dev 1</b></font><br>
-
-+ By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Visual Bug With Negative Task<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Neutral Killers Can Be Madmate<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Bug When Players Stuck In Walls After Teleporting<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix bug where roles that use vent to trigger power spawning in ehT dlekS<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Many other miscellaneous bug fixes and changes to improve code redability (This is done because vents do not work on ehT dlekS)<br>
-\+ <font color=green><b>NEW</b></font>: Re-added Helpful Add-on: [Flash](/options/Addons/Helpful/Flash.html)<br>
-\+ <font color=green><b>NEW</b></font>: Support map: dlekS ehT (Thanks [**sleepyut**](https://github.com/Galster-dev))<br>
+## <font size=5em><b>Latest Mod Changelogs: v1.3.1 Dev 2 (HOTFIX #2)</b></font><br>
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix meeting button broken<br>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Necromancer kill animation shown twice<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Taskinator kicking modded clients<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Console now appears only for people with debugger perms<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Made Fool incompatible with Repairman<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Some other miscellaneous changes<br>
-\+ <font color=green><b>NEW</b></font>: Added new crewmate role: Mole<br>
-\+ <font color=green><b>NEW</b></font>: Ported FFA from TOHE+ (Thanks Gurge44)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed random spawns, setting vent when 2 players alive, setting cant vent when kill cd is up and many other miscellaneous bugs in FFA mode<br>
-\+ <font color=green><b>NEW</b></font>: Added chat commands /tpin and /tpout (to tp vanilla players in and out of ship in lobby)<br>
-\+ <font color=green><b>NEW</b></font>: Added jester not win info in exile message for next meeting <br>
-\+ <font color=green><b>NEW</b></font>: Crewmate Basic role: [Mole](/options/Crewmates/Basic/Mole.html) <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Workaholic getting Double Shot<br>
+
+## <font size=5em><b>v1.3.1 Dev 2 (HOTFIX #1)</b></font><br>
+= I just don't have words.... (proper file attached in this hotfix)<br>
+
+## <font size=5em><b>v1.3.1 Dev 2</b></font><br>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Partially Fixed host getting dc'd sometimes because of Fortegreen<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Anti first kill Host<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved EAC<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix ChatCommandPatch<br>
+\+ <font color=green><b>NEW</b></font>: Experimental Neutral role: [Solsticer](/options/Experimental/Neutral/Solsticer.html)<br>
 
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
-\+ <font color=green><b>NEW</b></font>: Add Region: Modded SA (MSA)<br>
+\+ <font color=green><b>NEW</b></font>: Added new feature: Update Button (Heavy WIP)<br>
+
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Taskinator killing alive players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Romantic spamming error<br>
+\+ <font color=green><b>NEW</b></font>: Crewmate Power role: [Captain](/options/Crewmates/Power/Captain.html)<br>
 
 #### (All Changes/Commits can be seen on [GitHub](https://github.com/0xDrMoe/TownofHost-Enhanced/commits/main))
 
@@ -54,4 +50,6 @@ sidebar:
 * By [**Pyro**](https://github.com/Pyro0TV)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Added formatting info to `Advanced.md` + `TOHE-Data` Info<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Furo's Bio in `AboutUs.md` <br>
-= Finally Updated to v1.3.1 Dev 1
+= <font color=#F6BE00><b>CHANGE</b></font>: Updated Role Counts, Sidebars, and Tables. <br>
+= Updated to v1.3.1 Dev 2<br>
+\+ Have a good day!<br>

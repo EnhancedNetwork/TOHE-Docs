@@ -58,7 +58,7 @@ I help with performance improvements & bug fixes, sometimes I add new roles. I a
 
 ---
 
-[**NikoCat233**](https://github.com/NikoCat233): Feature Coding
+[**NikoCat233**](https://github.com/NikoCat233): Feature & Role Coding
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 

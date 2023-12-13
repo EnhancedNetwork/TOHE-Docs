@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Spiritcaller
-prev: God
+prev: Solsticer
 next: /options/Settings/Experimental.html
 ---
 

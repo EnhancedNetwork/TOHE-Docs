@@ -15,9 +15,41 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 ---
 
-## <font size=5em><b>Latest: v1.3.1 Dev 1</b></font><br>
+## <font size=5em><b>Latest: v1.3.1 Dev 2 (HOTFIX #2)</b></font><br>
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix meeting button broken<br>
 
-+ By [**TommyXL**](https://github.com/Tommy-XL)<br>
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Workaholic getting Double Shot<br>
+
+---
+
+## <font size=5em><b>v1.3.1 Dev 2 (HOTFIX #1)</b></font><br>
+= I just don't have words.... (proper file attached in this hotfix)<br>
+
+---
+
+## <font size=5em><b>v1.3.1 Dev 2</b></font><br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Anti first kill Host<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved EAC<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix ChatCommandPatch<br>
+\+ <font color=green><b>NEW</b></font>: Experimental Neutral role: [Solsticer](/options/Experimental/Neutral/Solsticer.html)<br>
+
+* By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
+\+ <font color=green><b>NEW</b></font>: Added new feature: Update Button (Heavy WIP)<br>
+
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Taskinator killing alive players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Romantic spamming error<br>
+\+ <font color=green><b>NEW</b></font>: Crewmate Power role: [Captain](/options/Crewmates/Power/Captain.html)<br>
+
+---
+
+## <font size=5em><b>v1.3.1 Dev 1</b></font><br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Visual Bug With Negative Task<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Neutral Killers Can Be Madmate<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Bug When Players Stuck In Walls After Teleporting<br>
@@ -32,12 +64,11 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Console now appears only for people with debugger perms<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Made Fool incompatible with Repairman<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Some other miscellaneous changes<br>
-\+ <font color=green><b>NEW</b></font>: Added new crewmate role: Mole<br>
 \+ <font color=green><b>NEW</b></font>: Ported FFA from TOHE+ (Thanks Gurge44)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed random spawns, setting vent when 2 players alive, setting cant vent when kill cd is up and many other miscellaneous bugs in FFA mode<br>
 \+ <font color=green><b>NEW</b></font>: Added chat commands /tpin and /tpout (to tp vanilla players in and out of ship in lobby)<br>
 \+ <font color=green><b>NEW</b></font>: Added jester not win info in exile message for next meeting <br>
-\+ <font color=green><b>NEW</b></font>: Crewmate Basic role: [Mole]() <br>
+\+ <font color=green><b>NEW</b></font>: Crewmate Basic role: [Mole](/options/Crewmates/Basic/Mole.html) <br>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Partially Fixed host getting dc'd sometimes because of Fortegreen<br>

@@ -215,6 +215,7 @@ export default ({
           ],
           '/options/Crewmates/Power/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
+            { text: 'Captain', link: '/options/Crewmates/Power/Captain.html' },
             { text: 'Copycat', link: '/options/Crewmates/Power/Copycat.html' },
             { text: 'Dictator', link: '/options/Crewmates/Power/Dictator.html' },
             { text: 'Guardian', link: '/options/Crewmates/Power/Guardian.html' },
@@ -287,6 +288,7 @@ export default ({
             { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },
             { text: 'Doppelganger', link: '/options/Experimental/Neutral/Doppelganger.html' },
             { text: 'God', link: '/options/Experimental/Neutral/God.html' },
+            { text: 'Solsticer', link: '/options/Experimental/Neutral/Solsticer.html' },
             { text: 'Spiritcaller', link: '/options/Experimental/Neutral/Spiritcaller.html' },
           ],
           '/options/Impostors/Concealing/': [

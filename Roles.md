@@ -17,7 +17,7 @@ sidebar:
 
 <font size=4em><b>Latest Versions:</b></font><br>
 
-- <b><font size=3em>Dev:</font> [v1.2.1 Dev 4](/changelogs/Dev.html)</b><br>
+- <b><font size=3em>Dev:</font> [v1.3.1 Dev 1](/changelogs/Dev.html)</b><br>
 - <b><font size=3em>Canary:</font> [v1.2.1 Canary 2](/changelogs/Canary.html)</b><br>
 - <b><font size=3em>Stable:</font> [v1.3.0](/changelogs/Stable.html)</b><br>
 
@@ -31,19 +31,19 @@ sidebar:
 <tr>
 <td><font color=#ff9ace><b>Add-ons</b></font></td>
 <td>Add-ons that can be added to any role for any player</td>
-<td align="center">50 (+1)</td>
+<td align="center">51 (+1)</td>
 </tr>
 
 <tr>
 <td><font color=#8cffff><b>Crewmate</b></font> </td>
 <td>Play together and win by completing all tasks/voting out all Evil</td>
-<td align="center">65</td>
+<td align="center">67</td>
 </tr>
 
 <tr>
 <td><font color=#76b8e0><b>Experimental</b></font></td>
 <td>Roles that are not fully stable and may contain bugs</td>
-<td align="center">16</td>
+<td align="center">17</td>
 </tr>
 
 <tr>
@@ -60,7 +60,7 @@ sidebar:
 
 <tr>
 <td colspan=2><b>Total:</b></td>
-<td align="center"><b>248</b></td>
+<td align="center"><b>252</b></td>
 </tr>
 </table>
 <br>

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Lazy
-prev: DoubleShot
+prev: Flash
 next: Loyal
 ---
 

@@ -2,7 +2,7 @@
 lang: en-US
 title: Mini
 prev: Luckey
-next: Randomizer
+next: Mole
 ---
 
 # <font color="#dddddd">🐁 <b>Mini</b></font> <Badge text="Basic" type="tip" vertical="middle"/>

@@ -129,6 +129,7 @@ export default ({
             { text: 'Burst', link: '/options/Addons/Helpful/Burst.html' },
             { text: 'Cyber', link: '/options/Addons/Helpful/Cyber.html' },
             { text: 'Double Shot', link: '/options/Addons/Helpful/DoubleShot.html' },
+            { text: 'Flash', link: '/options/Addons/Helpful/Flash.html' },
             { text: 'Lazy', link: '/options/Addons/Helpful/Lazy.html' },
             { text: 'Loyal', link: '/options/Addons/Helpful/Loyal.html' },
             { text: 'Lucky', link: '/options/Addons/Helpful/Lucky.html' },
@@ -189,6 +190,7 @@ export default ({
                 { text: 'Nice Mini', link: '/options/Crewmates/Basic/MiniNice.html' }
               ]
             },
+            { text: 'Mole', link: '/options/Crewmates/Basic/Mole.html' },
             { text: 'Randomizer', link: '/options/Crewmates/Basic/Randomizer.html' },
             { text: 'Super Star', link: '/options/Crewmates/Basic/SuperStar.html' },
             { text: 'Task Manager', link: '/options/Crewmates/Basic/TaskManager.html' },
@@ -213,6 +215,7 @@ export default ({
           ],
           '/options/Crewmates/Power/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
+            { text: 'Captain', link: '/options/Crewmates/Power/Captain.html' },
             { text: 'Copycat', link: '/options/Crewmates/Power/Copycat.html' },
             { text: 'Dictator', link: '/options/Crewmates/Power/Dictator.html' },
             { text: 'Guardian', link: '/options/Crewmates/Power/Guardian.html' },
@@ -285,6 +288,7 @@ export default ({
             { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },
             { text: 'Doppelganger', link: '/options/Experimental/Neutral/Doppelganger.html' },
             { text: 'God', link: '/options/Experimental/Neutral/God.html' },
+            { text: 'Solsticer', link: '/options/Experimental/Neutral/Solsticer.html' },
             { text: 'Spiritcaller', link: '/options/Experimental/Neutral/Spiritcaller.html' },
           ],
           '/options/Impostors/Concealing/': [

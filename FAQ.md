@@ -136,3 +136,7 @@ Their presence has no effect on the game, and all players know who the Game Mast
 
 2. Become a Contributor, Tester, or Sponsor (Insider+) for Canary <i>and</i> Dev Access.<br>
 Read near the bottom of the [Install/Get Started](/GetStarted.html) page.
+
+## Can you use the Submerged mod with TOHE?
+
+While this is technically possible, we don't recommend it as Submerged still requires all players to have it to play. If you do want to attempt this, we can say that the host would need Town of Host: Enhanced (TOHE) installed (as it's intended for only the host to install), as well as having Submerged installed. All of the people in your lobby could join normally but they would need the Submerged mod installed. (This applies to any custom Among Us map, Submerged is used in the example however, as it's one of the most popular)

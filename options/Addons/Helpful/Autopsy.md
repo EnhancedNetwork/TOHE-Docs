@@ -10,7 +10,6 @@ next: Bait
 
 As the Autopsy, you can see how people died.<br><br>
 Cannot be assigned to Doctor, Tracefinder, Scientist, or Sunnyboy.
-
 * Max
   * Set the Maximum amount of Autopsies that can be in a match
 * Spawn Chance

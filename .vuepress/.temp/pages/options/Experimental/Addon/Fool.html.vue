@@ -1,6 +1,7 @@
 <template><div><h1 id="👻-fool" tabindex="-1"><a class="header-anchor" href="#👻-fool" aria-hidden="true">#</a> <font color=#e6e7ff>👻 <b>Fool</b></font> <Badge text="Addon" type="tip" vertical="middle"/></h1>
 <hr>
-<p><font color=red>Impostor</font> and Repairman won't be Fool. Fools can't repair any sabotage.</p>
+<font size=4em>Experimental Reason: Should be fixed, Needs Testing</font><br><p>Note: Most likely a Harmful Add-on</p>
+<p>Mechanic and <font color=red>Impostors</font> won't be Fool. Fools can't repair any sabotage.</p>
 <ul>
 <li>Max
 <ul>
@@ -10,14 +11,6 @@
 <li>Spawn Chance
 <ul>
 <li>Set the percentage players have of getting Fool</li>
-</ul>
-</li>
-<li>
-<font color=red>Impostors</font> can become Fool<ul>
-<li>
-<font color=green>ON</font>: <font color=red>Impostors</font> can become this role</li>
-<li>
-<font color=red>OFF</font>: <font color=red>Impostors</font> cannot become this role</li>
 </ul>
 </li>
 <li>

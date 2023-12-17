@@ -1,5 +1,6 @@
 <template><div><h1 id="💞-admirer" tabindex="-1"><a class="header-anchor" href="#💞-admirer" aria-hidden="true">#</a> <font color="#ee43c3">💞 <b>Admirer</b></font> <Badge text="Crewmate" type="tip" vertical="middle"/></h1>
 <hr>
+<font size=4em>Experimental Reason: Should be fixed, Needs Testing</font><br><p>Note: Most likely a Crewmate Support</p>
 <p>As the Admirer, admire a player to make them crewmate aligned.<br>
 They'll win with crewmates and not their original team.<br><br>
 You can only do this once.</p>

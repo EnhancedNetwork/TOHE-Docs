@@ -321,10 +321,10 @@
 </tr>
 </table>
 <h2 id="presets" tabindex="-1"><a class="header-anchor" href="#presets" aria-hidden="true">#</a> Presets</h2>
-<p>You can save your favorite settings as presets and load them later. You can also share your presets with others. Below is a list of presets that you can use in your lobby. Make sure to rename the file to <code v-pre>com.karped1em.townofhostedited.cfg</code> before using it.</p>
+<p>You can save your favorite settings as presets and load them later. You can also share your presets with others. Below is a list of presets that you can use in your lobby. Make sure the file is renamed to <code v-pre>Options.json</code> before using if it isn't already. (If you do not have <code v-pre>File name extensions</code> marked on the <code v-pre>View</code> Tab, you only need to rename it to <code v-pre>Options</code>.)</p>
 <p><a href="/presets/Guesser1.cfg" download>Guesser Mode (No Judge/Sheriff Only)</a> - Drafted by: <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer">Moe<ExternalLinkIcon/></a> <br>
 <a href="/presets/Chaos1.cfg" download>Chaos Mode (Killing Roles Enabled)</a> - Drafted by: <a href="#">witch_craft_</a></p>
-<p>Note: You have to put the file in the following directory: <code v-pre>.\Among Us\BepInEx\config</code> for it to work.</p>
+<p>Note: You have to put the file in the following directory: <code v-pre>.\Among Us\TOHE-DATA\SaveData</code> for it to work. (If you cannot locate <code v-pre>TOHE-DATA\SaveData</code>, try enabling <code v-pre>Hidden items</code> on the <code v-pre>View</code> Tab)</p>
 <p>More presets coming soon!</p>
 <h2 id="welcome-onfirstmeeting-onmeeting-auto-messages" tabindex="-1"><a class="header-anchor" href="#welcome-onfirstmeeting-onmeeting-auto-messages" aria-hidden="true">#</a> Welcome, onFirstMeeting &amp; onMeeting auto messages</h2>
 <p>Open the root directory of game，find <code v-pre>..\Among Us\TOHE-DATA\template.txt</code> file.</p>
@@ -344,7 +344,7 @@
 </ul>
 <hr>
 <h2 id="ban-list-banned-words-banned-names" tabindex="-1"><a class="header-anchor" href="#ban-list-banned-words-banned-names" aria-hidden="true">#</a> Ban list, Banned Words &amp; Banned Names</h2>
-<p>Open the root directory of game: <code v-pre>..\Among Us\TOHE_DATA\</code></p>
+<p>Open the root directory of game: <code v-pre>..\Among Us\TOHE-DATA\</code></p>
 <p>There are four files:</p>
 <ul>
 <li>BanList.txt: Banned players - A list of friendcodes that will be unable to join your lobby (Please use friend codes)</li>

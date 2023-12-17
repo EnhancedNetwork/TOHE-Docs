@@ -4,7 +4,7 @@
 <ul>
 <li>Max
 <ul>
-<li>Set the Maximum amount of Lurker’s that can be in a match</li>
+<li>Set the Maximum amount of Lurkers that can be in a match</li>
 </ul>
 </li>
 <li>Starting kill cooldown

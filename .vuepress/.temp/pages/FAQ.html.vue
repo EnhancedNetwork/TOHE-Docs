@@ -2,7 +2,7 @@
 <h2 id="how-to-install-mod-on-mobile-phones-tablets-and-apple" tabindex="-1"><a class="header-anchor" href="#how-to-install-mod-on-mobile-phones-tablets-and-apple" aria-hidden="true">#</a> How to install mod on mobile phones, tablets, and Apple</h2>
 <p>You can only install mods on PC/Computer. If you have no PC/Computer, you don’t need to worry as, even if you don't have/can't get the mod, you can still join Host-Only mods (such as TOHE, TOH, PL, etc) as long as you have Among Us on any device! You can find the lobbies of these mods to join and play as long as you are on the right game version.</p>
 <h2 id="you-have-been-kicked-by-room" tabindex="-1"><a class="header-anchor" href="#you-have-been-kicked-by-room" aria-hidden="true">#</a> You have been kicked by room</h2>
-<p>This issue may occur because the room prohibits sending certain messages, such as saying &quot;start&quot; or other variants such as &quot;begin&quot;. Some other causes could be that you weren't logged in, used banned words, had a banned nickname, have been banned before, or you could just be on a blacklisted device, (Check <RouterLink to="/options/Settings/System.html">System Settings</RouterLink>). It may also be caused by EAC anti-cheat. If none of the above is true, then you were probably just kicked out manually by the host, or got vote-kicked by other players.</p>
+<p>This issue may occur because the room prohibits sending certain messages, such as saying &quot;start&quot; or other variants such as &quot;begin&quot;. Some other causes could be that you weren't logged in, used banned words, had a banned nickname, have been banned before, or you could just be on a blacklisted device, (Check <RouterLink to="/options/Settings/System.html">System Settings</RouterLink>). It may also be caused by EAC anti-cheat. If none of the above is true, then you were probably just kicked out manually by the host, or got vote-kicked by other players. Another reason you may get kicked is just connection issues.</p>
 <h2 id="you-have-been-kicked-by-among-us-official-anti-cheat" tabindex="-1"><a class="header-anchor" href="#you-have-been-kicked-by-among-us-official-anti-cheat" aria-hidden="true">#</a> You have been kicked by Among Us' official anti-cheat</h2>
 <p>The official Among Us anti-cheat system often treats mods as cheats and may kick you out of the game. This situation is unavoidable, and all Host-Only mods have this problem. If you still want to enter a lobby to play, you can only contact the host to reopen the lobby.</p>
 <h2 id="your-connection-to-the-server-has-been-interrupted" tabindex="-1"><a class="header-anchor" href="#your-connection-to-the-server-has-been-interrupted" aria-hidden="true">#</a> Your connection to the server has been interrupted</h2>
@@ -72,6 +72,9 @@ First, please check whether your network is normal, and then please make sure th
 <li>
 <p>The host or a certain player made a fatal error, and the mod forcibly ended the game to prevent the game from being freezing.</p>
 </li>
+<li>
+<p>None of these, make a #bug-report (Include Logs from /dump!)</p>
+</li>
 </ol>
 <h2 id="just-after-the-start-it-shows-that-the-host-has-forced-the-end-of-the-game" tabindex="-1"><a class="header-anchor" href="#just-after-the-start-it-shows-that-the-host-has-forced-the-end-of-the-game" aria-hidden="true">#</a> Just after the start, it shows that the host has forced the end of the game</h2>
 <p>It's a protection mechanism, just ignore it and keep playing. The reason this occurs is because, there is a bug with Host-Only mods that fails to assign roles. When the bug occurs in the original Town of Host, the host will not be able to see the start button, and other players will be loaded with an infinite black screen. In this case, everyone can only exit the game. In Town of Host: Enhanced, in order to avoid this situation, it will automatically detect whether other players are stuck in loading, and if detected, the game will be automatically terminated to prevent everyone from being stuck.</p>
@@ -80,7 +83,21 @@ First, please check whether your network is normal, and then please make sure th
 <h2 id="there-are-a-lot-of-duplicate-roles-in-the-game" tabindex="-1"><a class="header-anchor" href="#there-are-a-lot-of-duplicate-roles-in-the-game" aria-hidden="true">#</a> There are a lot of duplicate roles in the game</h2>
 <p>This most likely isn't a bug, please make sure the duplicated role has a Maximum of 1 rather than 2-15.</p>
 <h2 id="i-got-vanilla-roles" tabindex="-1"><a class="header-anchor" href="#i-got-vanilla-roles" aria-hidden="true">#</a> I got vanilla roles</h2>
-<p>You might neeed to turn on the &quot;Disable vanilla roles&quot; option, and enable more roles. Another possiblity is that you may have incompatible roles set! If you have a certain role &amp; addon both enabled, the role will become its base. (You can find info on what roles/addons are incompatible on these pages: <RouterLink to="/options/Crewmates/Vanilla/Crewmate.html">Crewmate</RouterLink> | <RouterLink to="/options/Crewmates/Vanilla/Engineer.html">Engineer</RouterLink> | <RouterLink to="/options/Crewmates/Vanilla/Scientist.html">Scientist</RouterLink>)</p>
+<p>There are a few posibilities</p>
+<ol>
+<li>
+<p>You might need to turn on the &quot;Disable vanilla roles&quot; option.</p>
+</li>
+<li>
+<p>You may need to enable more roles or allow more players to be the same role.</p>
+</li>
+<li>
+<p>You may come accross this message: &quot;There are incompatible roles in your role list, you may experience vanilla roles&quot;, which means you have a certain role &amp; it's addon form enabled, (You can find info on what roles/addons are incompatible on these pages: <RouterLink to="/options/Crewmates/Vanilla/Crewmate.html">Crewmate</RouterLink> | <RouterLink to="/options/Crewmates/Vanilla/Engineer.html">Engineer</RouterLink> | <RouterLink to="/options/Crewmates/Vanilla/Scientist.html">Scientist</RouterLink>) (This should not occur anymore as of 1.2.1 dev 3)</p>
+</li>
+<li>
+<p>Eraser might've erased your role, resetting you to your base role (Impostor/Shapeshifter/Crewmate/Engineer/Scientist are all Base Roles (Base Role =/= Team/Role))</p>
+</li>
+</ol>
 <h2 id="the-game-never-ends" tabindex="-1"><a class="header-anchor" href="#the-game-never-ends" aria-hidden="true">#</a> The game never ends</h2>
 <p>There are a few possibilities,</p>
 <ol>
@@ -96,7 +113,14 @@ First, please check whether your network is normal, and then please make sure th
 <li>
 <p>Nobody has met their victory condition. (This may be obvious but, Impostors haven't killed everyone, Crewmates haven't finished all tasks/exiled all evil roles, etc)</p>
 </li>
+<li>
+<p>None of these, make a #bug-report (Include Logs from /dump!)</p>
+</li>
 </ol>
+<h2 id="what-is-game-master-gm" tabindex="-1"><a class="header-anchor" href="#what-is-game-master-gm" aria-hidden="true">#</a> What is Game Master/GM?</h2>
+<p>The Game Master is an observer role.<br>
+Their presence has no effect on the game, and all players know who the Game Master is. The Game Master role will be assigned to the host, who will automatically become a ghost at the start of the game.<br>
+(Note: You can enable this in the Settings Gear. If you want to play normally, disable in again in the Settings Gear)</p>
 <h2 id="how-can-i-access-canary-dev-builds" tabindex="-1"><a class="header-anchor" href="#how-can-i-access-canary-dev-builds" aria-hidden="true">#</a> How can I access Canary &amp; Dev Builds</h2>
 <ol>
 <li>

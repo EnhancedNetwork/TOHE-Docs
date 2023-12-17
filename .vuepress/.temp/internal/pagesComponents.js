@@ -15,12 +15,16 @@ export const pagesComponents = {
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/index.html.vue")),
   // path: /Roles.html
   "v-5bd8e7d6": defineAsyncComponent(() => import(/* webpackChunkName: "v-5bd8e7d6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/Roles.html.vue")),
+  // path: /vote.html
+  "v-08078556": defineAsyncComponent(() => import(/* webpackChunkName: "v-08078556" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/vote.html.vue")),
   // path: /changelogs/Canary.html
   "v-3934aeac": defineAsyncComponent(() => import(/* webpackChunkName: "v-3934aeac" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/changelogs/Canary.html.vue")),
   // path: /changelogs/Dev.html
   "v-5639b11b": defineAsyncComponent(() => import(/* webpackChunkName: "v-5639b11b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/changelogs/Dev.html.vue")),
   // path: /changelogs/Stable.html
   "v-57f51832": defineAsyncComponent(() => import(/* webpackChunkName: "v-57f51832" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/changelogs/Stable.html.vue")),
+  // path: /changelogs/Tags.html
+  "v-6ec8ec09": defineAsyncComponent(() => import(/* webpackChunkName: "v-6ec8ec09" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/changelogs/Tags.html.vue")),
   // path: /options/Settings/Addons.html
   "v-0bfd6e38": defineAsyncComponent(() => import(/* webpackChunkName: "v-0bfd6e38" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Settings/Addons.html.vue")),
   // path: /options/Settings/Crewmates.html
@@ -39,6 +43,166 @@ export const pagesComponents = {
   "v-2db263ab": defineAsyncComponent(() => import(/* webpackChunkName: "v-2db263ab" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Settings/Neutrals.html.vue")),
   // path: /options/Settings/System.html
   "v-4d2f5a68": defineAsyncComponent(() => import(/* webpackChunkName: "v-4d2f5a68" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Settings/System.html.vue")),
+  // path: /options/Crewmates/Basic/Addict.html
+  "v-3ea83793": defineAsyncComponent(() => import(/* webpackChunkName: "v-3ea83793" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Addict.html.vue")),
+  // path: /options/Crewmates/Basic/Alchemist.html
+  "v-5f22fab4": defineAsyncComponent(() => import(/* webpackChunkName: "v-5f22fab4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Alchemist.html.vue")),
+  // path: /options/Crewmates/Basic/Celebrity.html
+  "v-69c26683": defineAsyncComponent(() => import(/* webpackChunkName: "v-69c26683" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Celebrity.html.vue")),
+  // path: /options/Crewmates/Basic/Cleanser.html
+  "v-b7417b16": defineAsyncComponent(() => import(/* webpackChunkName: "v-b7417b16" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Cleanser.html.vue")),
+  // path: /options/Crewmates/Basic/Doctor.html
+  "v-53707ee6": defineAsyncComponent(() => import(/* webpackChunkName: "v-53707ee6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Doctor.html.vue")),
+  // path: /options/Crewmates/Basic/LazyGuy.html
+  "v-7818fa22": defineAsyncComponent(() => import(/* webpackChunkName: "v-7818fa22" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/LazyGuy.html.vue")),
+  // path: /options/Crewmates/Basic/Luckey.html
+  "v-e9a1f572": defineAsyncComponent(() => import(/* webpackChunkName: "v-e9a1f572" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Luckey.html.vue")),
+  // path: /options/Crewmates/Basic/Mini.html
+  "v-99079dd6": defineAsyncComponent(() => import(/* webpackChunkName: "v-99079dd6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Mini.html.vue")),
+  // path: /options/Crewmates/Basic/MiniEvil.html
+  "v-0270043e": defineAsyncComponent(() => import(/* webpackChunkName: "v-0270043e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/MiniEvil.html.vue")),
+  // path: /options/Crewmates/Basic/MiniNice.html
+  "v-b52d6490": defineAsyncComponent(() => import(/* webpackChunkName: "v-b52d6490" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/MiniNice.html.vue")),
+  // path: /options/Crewmates/Basic/Randomizer.html
+  "v-2ee3e6ea": defineAsyncComponent(() => import(/* webpackChunkName: "v-2ee3e6ea" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Randomizer.html.vue")),
+  // path: /options/Crewmates/Basic/SuperStar.html
+  "v-5c883a39": defineAsyncComponent(() => import(/* webpackChunkName: "v-5c883a39" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/SuperStar.html.vue")),
+  // path: /options/Crewmates/Basic/TaskManager.html
+  "v-92d4cc44": defineAsyncComponent(() => import(/* webpackChunkName: "v-92d4cc44" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/TaskManager.html.vue")),
+  // path: /options/Crewmates/Basic/Tracefinder.html
+  "v-f805a70a": defineAsyncComponent(() => import(/* webpackChunkName: "v-f805a70a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Tracefinder.html.vue")),
+  // path: /options/Crewmates/Basic/Transporter.html
+  "v-edbca920": defineAsyncComponent(() => import(/* webpackChunkName: "v-edbca920" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Transporter.html.vue")),
+  // path: /options/Crewmates/Killing/Bastion.html
+  "v-172abac8": defineAsyncComponent(() => import(/* webpackChunkName: "v-172abac8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Bastion.html.vue")),
+  // path: /options/Crewmates/Killing/Bodyguard.html
+  "v-769ed666": defineAsyncComponent(() => import(/* webpackChunkName: "v-769ed666" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Bodyguard.html.vue")),
+  // path: /options/Crewmates/Killing/Crusader.html
+  "v-1e341236": defineAsyncComponent(() => import(/* webpackChunkName: "v-1e341236" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Crusader.html.vue")),
+  // path: /options/Crewmates/Killing/Deceiver.html
+  "v-d17913f6": defineAsyncComponent(() => import(/* webpackChunkName: "v-d17913f6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Deceiver.html.vue")),
+  // path: /options/Crewmates/Killing/Jailer.html
+  "v-6930a97b": defineAsyncComponent(() => import(/* webpackChunkName: "v-6930a97b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Jailer.html.vue")),
+  // path: /options/Crewmates/Killing/Judge.html
+  "v-6c6e67f9": defineAsyncComponent(() => import(/* webpackChunkName: "v-6c6e67f9" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Judge.html.vue")),
+  // path: /options/Crewmates/Killing/Knight.html
+  "v-00869d75": defineAsyncComponent(() => import(/* webpackChunkName: "v-00869d75" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Knight.html.vue")),
+  // path: /options/Crewmates/Killing/NiceGuesser.html
+  "v-3e880529": defineAsyncComponent(() => import(/* webpackChunkName: "v-3e880529" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/NiceGuesser.html.vue")),
+  // path: /options/Crewmates/Killing/Retributionist.html
+  "v-fabb1fd2": defineAsyncComponent(() => import(/* webpackChunkName: "v-fabb1fd2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Retributionist.html.vue")),
+  // path: /options/Crewmates/Killing/Reverie.html
+  "v-6cdb40c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-6cdb40c4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Reverie.html.vue")),
+  // path: /options/Crewmates/Killing/Sheriff.html
+  "v-3debb169": defineAsyncComponent(() => import(/* webpackChunkName: "v-3debb169" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Sheriff.html.vue")),
+  // path: /options/Crewmates/Killing/Veteran.html
+  "v-0b38b791": defineAsyncComponent(() => import(/* webpackChunkName: "v-0b38b791" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Veteran.html.vue")),
+  // path: /options/Crewmates/Killing/VIgilante.html
+  "v-a53b7bca": defineAsyncComponent(() => import(/* webpackChunkName: "v-a53b7bca" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/VIgilante.html.vue")),
+  // path: /options/Crewmates/Power/Copycat.html
+  "v-62dd8aa4": defineAsyncComponent(() => import(/* webpackChunkName: "v-62dd8aa4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Copycat.html.vue")),
+  // path: /options/Crewmates/Power/Dictator.html
+  "v-64642397": defineAsyncComponent(() => import(/* webpackChunkName: "v-64642397" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Dictator.html.vue")),
+  // path: /options/Crewmates/Power/Guardian.html
+  "v-56cb219c": defineAsyncComponent(() => import(/* webpackChunkName: "v-56cb219c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Guardian.html.vue")),
+  // path: /options/Crewmates/Power/Lookout.html
+  "v-04534360": defineAsyncComponent(() => import(/* webpackChunkName: "v-04534360" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Lookout.html.vue")),
+  // path: /options/Crewmates/Power/Marshall.html
+  "v-046fab56": defineAsyncComponent(() => import(/* webpackChunkName: "v-046fab56" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Marshall.html.vue")),
+  // path: /options/Crewmates/Power/Mayor.html
+  "v-80cd5272": defineAsyncComponent(() => import(/* webpackChunkName: "v-80cd5272" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Mayor.html.vue")),
+  // path: /options/Crewmates/Power/Monarch.html
+  "v-8fef53a6": defineAsyncComponent(() => import(/* webpackChunkName: "v-8fef53a6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Monarch.html.vue")),
+  // path: /options/Crewmates/Power/Overseer.html
+  "v-e23d9ea0": defineAsyncComponent(() => import(/* webpackChunkName: "v-e23d9ea0" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Overseer.html.vue")),
+  // path: /options/Crewmates/Power/President.html
+  "v-e907e1e2": defineAsyncComponent(() => import(/* webpackChunkName: "v-e907e1e2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/President.html.vue")),
+  // path: /options/Crewmates/Power/Swapper.html
+  "v-fe8bbc36": defineAsyncComponent(() => import(/* webpackChunkName: "v-fe8bbc36" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Swapper.html.vue")),
+  // path: /options/Crewmates/Power/Telecommunication.html
+  "v-3c7311e3": defineAsyncComponent(() => import(/* webpackChunkName: "v-3c7311e3" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Telecommunication.html.vue")),
+  // path: /options/Crewmates/Support/Chameleon.html
+  "v-15ce620e": defineAsyncComponent(() => import(/* webpackChunkName: "v-15ce620e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Chameleon.html.vue")),
+  // path: /options/Crewmates/Support/Coroner.html
+  "v-73e0429a": defineAsyncComponent(() => import(/* webpackChunkName: "v-73e0429a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Coroner.html.vue")),
+  // path: /options/Crewmates/Support/Deputy.html
+  "v-78e261fc": defineAsyncComponent(() => import(/* webpackChunkName: "v-78e261fc" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Deputy.html.vue")),
+  // path: /options/Crewmates/Support/Detective.html
+  "v-9b0700e0": defineAsyncComponent(() => import(/* webpackChunkName: "v-9b0700e0" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Detective.html.vue")),
+  // path: /options/Crewmates/Support/Enigma.html
+  "v-d0cdde1c": defineAsyncComponent(() => import(/* webpackChunkName: "v-d0cdde1c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Enigma.html.vue")),
+  // path: /options/Crewmates/Support/FortuneTeller.html
+  "v-23d98766": defineAsyncComponent(() => import(/* webpackChunkName: "v-23d98766" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/FortuneTeller.html.vue")),
+  // path: /options/Crewmates/Support/Grenadier.html
+  "v-b92bf0b4": defineAsyncComponent(() => import(/* webpackChunkName: "v-b92bf0b4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Grenadier.html.vue")),
+  // path: /options/Crewmates/Support/Inspector.html
+  "v-0726852e": defineAsyncComponent(() => import(/* webpackChunkName: "v-0726852e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Inspector.html.vue")),
+  // path: /options/Crewmates/Support/Lighter.html
+  "v-7032a662": defineAsyncComponent(() => import(/* webpackChunkName: "v-7032a662" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Lighter.html.vue")),
+  // path: /options/Crewmates/Support/Mechanic.html
+  "v-33443969": defineAsyncComponent(() => import(/* webpackChunkName: "v-33443969" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Mechanic.html.vue")),
+  // path: /options/Crewmates/Support/Medic.html
+  "v-a23538c2": defineAsyncComponent(() => import(/* webpackChunkName: "v-a23538c2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Medic.html.vue")),
+  // path: /options/Crewmates/Support/Medium.html
+  "v-4e41dd18": defineAsyncComponent(() => import(/* webpackChunkName: "v-4e41dd18" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Medium.html.vue")),
+  // path: /options/Crewmates/Support/Merchant.html
+  "v-142cc9a5": defineAsyncComponent(() => import(/* webpackChunkName: "v-142cc9a5" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Merchant.html.vue")),
+  // path: /options/Crewmates/Support/Mortician.html
+  "v-38100ead": defineAsyncComponent(() => import(/* webpackChunkName: "v-38100ead" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Mortician.html.vue")),
+  // path: /options/Crewmates/Support/Observer.html
+  "v-6f8e8d52": defineAsyncComponent(() => import(/* webpackChunkName: "v-6f8e8d52" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Observer.html.vue")),
+  // path: /options/Crewmates/Support/Oracle.html
+  "v-6c1a66a2": defineAsyncComponent(() => import(/* webpackChunkName: "v-6c1a66a2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Oracle.html.vue")),
+  // path: /options/Crewmates/Support/Pacifist.html
+  "v-3f7db35c": defineAsyncComponent(() => import(/* webpackChunkName: "v-3f7db35c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Pacifist.html.vue")),
+  // path: /options/Crewmates/Support/Psychic.html
+  "v-f9a3bc60": defineAsyncComponent(() => import(/* webpackChunkName: "v-f9a3bc60" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Psychic.html.vue")),
+  // path: /options/Crewmates/Support/Snitch.html
+  "v-05048abc": defineAsyncComponent(() => import(/* webpackChunkName: "v-05048abc" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Snitch.html.vue")),
+  // path: /options/Crewmates/Support/Spiritualist.html
+  "v-760420f2": defineAsyncComponent(() => import(/* webpackChunkName: "v-760420f2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Spiritualist.html.vue")),
+  // path: /options/Crewmates/Support/Spy.html
+  "v-ebefd2ee": defineAsyncComponent(() => import(/* webpackChunkName: "v-ebefd2ee" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Spy.html.vue")),
+  // path: /options/Crewmates/Support/TimeManager.html
+  "v-78d782a5": defineAsyncComponent(() => import(/* webpackChunkName: "v-78d782a5" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/TimeManager.html.vue")),
+  // path: /options/Crewmates/Support/TimeMaster.html
+  "v-8963b184": defineAsyncComponent(() => import(/* webpackChunkName: "v-8963b184" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/TimeMaster.html.vue")),
+  // path: /options/Crewmates/Support/Tracker.html
+  "v-b85e96e6": defineAsyncComponent(() => import(/* webpackChunkName: "v-b85e96e6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Tracker.html.vue")),
+  // path: /options/Crewmates/Support/Witness.html
+  "v-76448f2c": defineAsyncComponent(() => import(/* webpackChunkName: "v-76448f2c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Witness.html.vue")),
+  // path: /options/Crewmates/Vanilla/Crewmate.html
+  "v-3d0de61a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3d0de61a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Vanilla/Crewmate.html.vue")),
+  // path: /options/Crewmates/Vanilla/Engineer.html
+  "v-c40f37ec": defineAsyncComponent(() => import(/* webpackChunkName: "v-c40f37ec" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Vanilla/Engineer.html.vue")),
+  // path: /options/Crewmates/Vanilla/Scientist.html
+  "v-1fe34afe": defineAsyncComponent(() => import(/* webpackChunkName: "v-1fe34afe" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Vanilla/Scientist.html.vue")),
+  // path: /options/Experimental/Addon/Fool.html
+  "v-3b655427": defineAsyncComponent(() => import(/* webpackChunkName: "v-3b655427" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Addon/Fool.html.vue")),
+  // path: /options/Experimental/Addon/OiiaiCat.html
+  "v-1e8b2c0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-1e8b2c0e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Addon/OiiaiCat.html.vue")),
+  // path: /options/Experimental/Addon/YouTuber.html
+  "v-ef0c62c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-ef0c62c4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Addon/YouTuber.html.vue")),
+  // path: /options/Experimental/Crewmate/Admirer.html
+  "v-0af64fb6": defineAsyncComponent(() => import(/* webpackChunkName: "v-0af64fb6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Crewmate/Admirer.html.vue")),
+  // path: /options/Experimental/Crewmate/Investigator.html
+  "v-9173f078": defineAsyncComponent(() => import(/* webpackChunkName: "v-9173f078" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Crewmate/Investigator.html.vue")),
+  // path: /options/Experimental/Impostor/Blackmailer.html
+  "v-0d98c341": defineAsyncComponent(() => import(/* webpackChunkName: "v-0d98c341" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Blackmailer.html.vue")),
+  // path: /options/Experimental/Impostor/Butcher.html
+  "v-4a0abb5e": defineAsyncComponent(() => import(/* webpackChunkName: "v-4a0abb5e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Butcher.html.vue")),
+  // path: /options/Experimental/Impostor/Disperser.html
+  "v-bcf1a81a": defineAsyncComponent(() => import(/* webpackChunkName: "v-bcf1a81a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Disperser.html.vue")),
+  // path: /options/Experimental/Impostor/Eraser.html
+  "v-348ffd02": defineAsyncComponent(() => import(/* webpackChunkName: "v-348ffd02" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Eraser.html.vue")),
+  // path: /options/Experimental/Impostor/Hangman.html
+  "v-2b99319c": defineAsyncComponent(() => import(/* webpackChunkName: "v-2b99319c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Hangman.html.vue")),
+  // path: /options/Experimental/Impostor/KillingMachine.html
+  "v-7cd1590b": defineAsyncComponent(() => import(/* webpackChunkName: "v-7cd1590b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Impostor/KillingMachine.html.vue")),
+  // path: /options/Experimental/Impostor/Lightning.html
+  "v-66bf0cfa": defineAsyncComponent(() => import(/* webpackChunkName: "v-66bf0cfa" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Lightning.html.vue")),
+  // path: /options/Experimental/Impostor/Zombie.html
+  "v-592179a8": defineAsyncComponent(() => import(/* webpackChunkName: "v-592179a8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Zombie.html.vue")),
   // path: /options/Addons/Harmful/Disregarded.html
   "v-af508636": defineAsyncComponent(() => import(/* webpackChunkName: "v-af508636" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Addons/Harmful/Disregarded.html.vue")),
   // path: /options/Addons/Harmful/Fragile.html
@@ -55,6 +219,12 @@ export const pagesComponents = {
   "v-4e13bf82": defineAsyncComponent(() => import(/* webpackChunkName: "v-4e13bf82" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Addons/Harmful/Unlucky.html.vue")),
   // path: /options/Addons/Harmful/VoidBallot.html
   "v-2d08a8c9": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d08a8c9" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Addons/Harmful/VoidBallot.html.vue")),
+  // path: /options/Experimental/Neutral/Doppelganger.html
+  "v-2ad68a3c": defineAsyncComponent(() => import(/* webpackChunkName: "v-2ad68a3c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Neutral/Doppelganger.html.vue")),
+  // path: /options/Experimental/Neutral/God.html
+  "v-6cfcbefc": defineAsyncComponent(() => import(/* webpackChunkName: "v-6cfcbefc" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Neutral/God.html.vue")),
+  // path: /options/Experimental/Neutral/Spiritcaller.html
+  "v-57b9c298": defineAsyncComponent(() => import(/* webpackChunkName: "v-57b9c298" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Neutral/Spiritcaller.html.vue")),
   // path: /options/Addons/Helpful/Autopsy.html
   "v-6a019bf7": defineAsyncComponent(() => import(/* webpackChunkName: "v-6a019bf7" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Addons/Helpful/Autopsy.html.vue")),
   // path: /options/Addons/Helpful/Bait.html
@@ -139,168 +309,126 @@ export const pagesComponents = {
   "v-6256c6c8": defineAsyncComponent(() => import(/* webpackChunkName: "v-6256c6c8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Addons/Mixed/Schizophrenic.html.vue")),
   // path: /options/Addons/Mixed/Stubborn.html
   "v-7f5d8ffc": defineAsyncComponent(() => import(/* webpackChunkName: "v-7f5d8ffc" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Addons/Mixed/Stubborn.html.vue")),
-  // path: /options/Crewmates/Basic/Addict.html
-  "v-3ea83793": defineAsyncComponent(() => import(/* webpackChunkName: "v-3ea83793" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Addict.html.vue")),
-  // path: /options/Crewmates/Basic/Alchemist.html
-  "v-5f22fab4": defineAsyncComponent(() => import(/* webpackChunkName: "v-5f22fab4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Alchemist.html.vue")),
-  // path: /options/Crewmates/Basic/Celebrity.html
-  "v-69c26683": defineAsyncComponent(() => import(/* webpackChunkName: "v-69c26683" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Celebrity.html.vue")),
-  // path: /options/Crewmates/Basic/Cleanser.html
-  "v-b7417b16": defineAsyncComponent(() => import(/* webpackChunkName: "v-b7417b16" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Cleanser.html.vue")),
-  // path: /options/Crewmates/Basic/Doctor.html
-  "v-53707ee6": defineAsyncComponent(() => import(/* webpackChunkName: "v-53707ee6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Doctor.html.vue")),
-  // path: /options/Crewmates/Basic/LazyGuy.html
-  "v-7818fa22": defineAsyncComponent(() => import(/* webpackChunkName: "v-7818fa22" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/LazyGuy.html.vue")),
-  // path: /options/Crewmates/Basic/Luckey.html
-  "v-e9a1f572": defineAsyncComponent(() => import(/* webpackChunkName: "v-e9a1f572" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Luckey.html.vue")),
-  // path: /options/Crewmates/Basic/Mini.html
-  "v-99079dd6": defineAsyncComponent(() => import(/* webpackChunkName: "v-99079dd6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Mini.html.vue")),
-  // path: /options/Crewmates/Basic/MiniEvil.html
-  "v-0270043e": defineAsyncComponent(() => import(/* webpackChunkName: "v-0270043e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/MiniEvil.html.vue")),
-  // path: /options/Crewmates/Basic/MiniNice.html
-  "v-b52d6490": defineAsyncComponent(() => import(/* webpackChunkName: "v-b52d6490" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/MiniNice.html.vue")),
-  // path: /options/Crewmates/Basic/SuperStar.html
-  "v-5c883a39": defineAsyncComponent(() => import(/* webpackChunkName: "v-5c883a39" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/SuperStar.html.vue")),
-  // path: /options/Crewmates/Basic/TaskManager.html
-  "v-92d4cc44": defineAsyncComponent(() => import(/* webpackChunkName: "v-92d4cc44" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/TaskManager.html.vue")),
-  // path: /options/Crewmates/Basic/Tracefinder.html
-  "v-f805a70a": defineAsyncComponent(() => import(/* webpackChunkName: "v-f805a70a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Tracefinder.html.vue")),
-  // path: /options/Crewmates/Basic/Transporter.html
-  "v-edbca920": defineAsyncComponent(() => import(/* webpackChunkName: "v-edbca920" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Transporter.html.vue")),
-  // path: /options/Crewmates/Killing/Bastion.html
-  "v-172abac8": defineAsyncComponent(() => import(/* webpackChunkName: "v-172abac8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Bastion.html.vue")),
-  // path: /options/Crewmates/Killing/Bodyguard.html
-  "v-769ed666": defineAsyncComponent(() => import(/* webpackChunkName: "v-769ed666" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Bodyguard.html.vue")),
-  // path: /options/Crewmates/Killing/Crusader.html
-  "v-1e341236": defineAsyncComponent(() => import(/* webpackChunkName: "v-1e341236" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Crusader.html.vue")),
-  // path: /options/Crewmates/Killing/Deceiver.html
-  "v-d17913f6": defineAsyncComponent(() => import(/* webpackChunkName: "v-d17913f6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Deceiver.html.vue")),
-  // path: /options/Crewmates/Killing/Jailer.html
-  "v-6930a97b": defineAsyncComponent(() => import(/* webpackChunkName: "v-6930a97b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Jailer.html.vue")),
-  // path: /options/Crewmates/Killing/Judge.html
-  "v-6c6e67f9": defineAsyncComponent(() => import(/* webpackChunkName: "v-6c6e67f9" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Judge.html.vue")),
-  // path: /options/Crewmates/Killing/Knight.html
-  "v-00869d75": defineAsyncComponent(() => import(/* webpackChunkName: "v-00869d75" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Knight.html.vue")),
-  // path: /options/Crewmates/Killing/NiceGuesser.html
-  "v-3e880529": defineAsyncComponent(() => import(/* webpackChunkName: "v-3e880529" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/NiceGuesser.html.vue")),
-  // path: /options/Crewmates/Killing/Retributionist.html
-  "v-fabb1fd2": defineAsyncComponent(() => import(/* webpackChunkName: "v-fabb1fd2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Retributionist.html.vue")),
-  // path: /options/Crewmates/Killing/Reverie.html
-  "v-6cdb40c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-6cdb40c4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Reverie.html.vue")),
-  // path: /options/Crewmates/Killing/Sheriff.html
-  "v-3debb169": defineAsyncComponent(() => import(/* webpackChunkName: "v-3debb169" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Sheriff.html.vue")),
-  // path: /options/Crewmates/Killing/Veteran.html
-  "v-0b38b791": defineAsyncComponent(() => import(/* webpackChunkName: "v-0b38b791" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Veteran.html.vue")),
-  // path: /options/Crewmates/Killing/VIgilante.html
-  "v-a53b7bca": defineAsyncComponent(() => import(/* webpackChunkName: "v-a53b7bca" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Killing/VIgilante.html.vue")),
-  // path: /options/Crewmates/Power/Copycat.html
-  "v-62dd8aa4": defineAsyncComponent(() => import(/* webpackChunkName: "v-62dd8aa4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Copycat.html.vue")),
-  // path: /options/Crewmates/Power/Dictator.html
-  "v-64642397": defineAsyncComponent(() => import(/* webpackChunkName: "v-64642397" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Dictator.html.vue")),
-  // path: /options/Crewmates/Power/Guardian.html
-  "v-56cb219c": defineAsyncComponent(() => import(/* webpackChunkName: "v-56cb219c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Guardian.html.vue")),
-  // path: /options/Crewmates/Power/Lookout.html
-  "v-04534360": defineAsyncComponent(() => import(/* webpackChunkName: "v-04534360" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Lookout.html.vue")),
-  // path: /options/Crewmates/Power/Marshall.html
-  "v-046fab56": defineAsyncComponent(() => import(/* webpackChunkName: "v-046fab56" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Marshall.html.vue")),
-  // path: /options/Crewmates/Power/Mayor.html
-  "v-80cd5272": defineAsyncComponent(() => import(/* webpackChunkName: "v-80cd5272" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Mayor.html.vue")),
-  // path: /options/Crewmates/Power/Monarch.html
-  "v-8fef53a6": defineAsyncComponent(() => import(/* webpackChunkName: "v-8fef53a6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Monarch.html.vue")),
-  // path: /options/Crewmates/Power/Overseer.html
-  "v-e23d9ea0": defineAsyncComponent(() => import(/* webpackChunkName: "v-e23d9ea0" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Overseer.html.vue")),
-  // path: /options/Crewmates/Power/President.html
-  "v-e907e1e2": defineAsyncComponent(() => import(/* webpackChunkName: "v-e907e1e2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/President.html.vue")),
-  // path: /options/Crewmates/Power/Swapper.html
-  "v-fe8bbc36": defineAsyncComponent(() => import(/* webpackChunkName: "v-fe8bbc36" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Swapper.html.vue")),
-  // path: /options/Crewmates/Power/Telecommunication.html
-  "v-3c7311e3": defineAsyncComponent(() => import(/* webpackChunkName: "v-3c7311e3" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Power/Telecommunication.html.vue")),
-  // path: /options/Crewmates/Support/Chameleon.html
-  "v-15ce620e": defineAsyncComponent(() => import(/* webpackChunkName: "v-15ce620e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Chameleon.html.vue")),
-  // path: /options/Crewmates/Support/Coroner.html
-  "v-73e0429a": defineAsyncComponent(() => import(/* webpackChunkName: "v-73e0429a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Coroner.html.vue")),
-  // path: /options/Crewmates/Support/Deputy.html
-  "v-78e261fc": defineAsyncComponent(() => import(/* webpackChunkName: "v-78e261fc" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Deputy.html.vue")),
-  // path: /options/Crewmates/Support/Detective.html
-  "v-9b0700e0": defineAsyncComponent(() => import(/* webpackChunkName: "v-9b0700e0" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Detective.html.vue")),
-  // path: /options/Crewmates/Support/FortuneTeller.html
-  "v-23d98766": defineAsyncComponent(() => import(/* webpackChunkName: "v-23d98766" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/FortuneTeller.html.vue")),
-  // path: /options/Crewmates/Support/Grenadier.html
-  "v-b92bf0b4": defineAsyncComponent(() => import(/* webpackChunkName: "v-b92bf0b4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Grenadier.html.vue")),
-  // path: /options/Crewmates/Support/Inspector.html
-  "v-0726852e": defineAsyncComponent(() => import(/* webpackChunkName: "v-0726852e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Inspector.html.vue")),
-  // path: /options/Crewmates/Support/Lighter.html
-  "v-7032a662": defineAsyncComponent(() => import(/* webpackChunkName: "v-7032a662" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Lighter.html.vue")),
-  // path: /options/Crewmates/Support/Mechanic.html
-  "v-33443969": defineAsyncComponent(() => import(/* webpackChunkName: "v-33443969" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Mechanic.html.vue")),
-  // path: /options/Crewmates/Support/Medic.html
-  "v-a23538c2": defineAsyncComponent(() => import(/* webpackChunkName: "v-a23538c2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Medic.html.vue")),
-  // path: /options/Crewmates/Support/Medium.html
-  "v-4e41dd18": defineAsyncComponent(() => import(/* webpackChunkName: "v-4e41dd18" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Medium.html.vue")),
-  // path: /options/Crewmates/Support/Merchant.html
-  "v-142cc9a5": defineAsyncComponent(() => import(/* webpackChunkName: "v-142cc9a5" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Merchant.html.vue")),
-  // path: /options/Crewmates/Support/Mortician.html
-  "v-38100ead": defineAsyncComponent(() => import(/* webpackChunkName: "v-38100ead" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Mortician.html.vue")),
-  // path: /options/Crewmates/Support/Observer.html
-  "v-6f8e8d52": defineAsyncComponent(() => import(/* webpackChunkName: "v-6f8e8d52" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Observer.html.vue")),
-  // path: /options/Crewmates/Support/Oracle.html
-  "v-6c1a66a2": defineAsyncComponent(() => import(/* webpackChunkName: "v-6c1a66a2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Oracle.html.vue")),
-  // path: /options/Crewmates/Support/Pacifist.html
-  "v-3f7db35c": defineAsyncComponent(() => import(/* webpackChunkName: "v-3f7db35c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Pacifist.html.vue")),
-  // path: /options/Crewmates/Support/Psychic.html
-  "v-f9a3bc60": defineAsyncComponent(() => import(/* webpackChunkName: "v-f9a3bc60" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Psychic.html.vue")),
-  // path: /options/Crewmates/Support/Snitch.html
-  "v-05048abc": defineAsyncComponent(() => import(/* webpackChunkName: "v-05048abc" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Snitch.html.vue")),
-  // path: /options/Crewmates/Support/Spiritualist.html
-  "v-760420f2": defineAsyncComponent(() => import(/* webpackChunkName: "v-760420f2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Spiritualist.html.vue")),
-  // path: /options/Crewmates/Support/Spy.html
-  "v-ebefd2ee": defineAsyncComponent(() => import(/* webpackChunkName: "v-ebefd2ee" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Spy.html.vue")),
-  // path: /options/Crewmates/Support/TimeManager.html
-  "v-78d782a5": defineAsyncComponent(() => import(/* webpackChunkName: "v-78d782a5" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/TimeManager.html.vue")),
-  // path: /options/Crewmates/Support/TimeMaster.html
-  "v-8963b184": defineAsyncComponent(() => import(/* webpackChunkName: "v-8963b184" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/TimeMaster.html.vue")),
-  // path: /options/Crewmates/Support/Tracker.html
-  "v-b85e96e6": defineAsyncComponent(() => import(/* webpackChunkName: "v-b85e96e6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Tracker.html.vue")),
-  // path: /options/Crewmates/Support/Witness.html
-  "v-76448f2c": defineAsyncComponent(() => import(/* webpackChunkName: "v-76448f2c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Support/Witness.html.vue")),
-  // path: /options/Crewmates/Vanilla/Crewmate.html
-  "v-3d0de61a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3d0de61a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Vanilla/Crewmate.html.vue")),
-  // path: /options/Crewmates/Vanilla/Engineer.html
-  "v-c40f37ec": defineAsyncComponent(() => import(/* webpackChunkName: "v-c40f37ec" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Vanilla/Engineer.html.vue")),
-  // path: /options/Crewmates/Vanilla/Scientist.html
-  "v-1fe34afe": defineAsyncComponent(() => import(/* webpackChunkName: "v-1fe34afe" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Crewmates/Vanilla/Scientist.html.vue")),
-  // path: /options/Experimental/Addon/Fool.html
-  "v-3b655427": defineAsyncComponent(() => import(/* webpackChunkName: "v-3b655427" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Addon/Fool.html.vue")),
-  // path: /options/Experimental/Addon/OIIAI.html
-  "v-bb1580e4": defineAsyncComponent(() => import(/* webpackChunkName: "v-bb1580e4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Addon/OIIAI.html.vue")),
-  // path: /options/Experimental/Addon/YouTuber.html
-  "v-ef0c62c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-ef0c62c4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Addon/YouTuber.html.vue")),
-  // path: /options/Experimental/Crewmate/Admirer.html
-  "v-0af64fb6": defineAsyncComponent(() => import(/* webpackChunkName: "v-0af64fb6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Crewmate/Admirer.html.vue")),
-  // path: /options/Experimental/Crewmate/Investigator.html
-  "v-9173f078": defineAsyncComponent(() => import(/* webpackChunkName: "v-9173f078" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Crewmate/Investigator.html.vue")),
-  // path: /options/Experimental/Impostor/Blackmailer.html
-  "v-0d98c341": defineAsyncComponent(() => import(/* webpackChunkName: "v-0d98c341" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Blackmailer.html.vue")),
-  // path: /options/Experimental/Impostor/Butcher.html
-  "v-4a0abb5e": defineAsyncComponent(() => import(/* webpackChunkName: "v-4a0abb5e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Butcher.html.vue")),
-  // path: /options/Experimental/Impostor/Disperser.html
-  "v-bcf1a81a": defineAsyncComponent(() => import(/* webpackChunkName: "v-bcf1a81a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Disperser.html.vue")),
-  // path: /options/Experimental/Impostor/Eraser.html
-  "v-348ffd02": defineAsyncComponent(() => import(/* webpackChunkName: "v-348ffd02" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Eraser.html.vue")),
-  // path: /options/Experimental/Impostor/Hangman.html
-  "v-2b99319c": defineAsyncComponent(() => import(/* webpackChunkName: "v-2b99319c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Hangman.html.vue")),
-  // path: /options/Experimental/Impostor/KillingMachine.html
-  "v-7cd1590b": defineAsyncComponent(() => import(/* webpackChunkName: "v-7cd1590b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Impostor/KillingMachine.html.vue")),
-  // path: /options/Experimental/Impostor/Lightning.html
-  "v-66bf0cfa": defineAsyncComponent(() => import(/* webpackChunkName: "v-66bf0cfa" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Lightning.html.vue")),
-  // path: /options/Experimental/Impostor/Zombie.html
-  "v-592179a8": defineAsyncComponent(() => import(/* webpackChunkName: "v-592179a8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Impostor/Zombie.html.vue")),
-  // path: /options/Experimental/Neutral/Doppelganger.html
-  "v-2ad68a3c": defineAsyncComponent(() => import(/* webpackChunkName: "v-2ad68a3c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Neutral/Doppelganger.html.vue")),
-  // path: /options/Experimental/Neutral/God.html
-  "v-6cfcbefc": defineAsyncComponent(() => import(/* webpackChunkName: "v-6cfcbefc" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Neutral/God.html.vue")),
-  // path: /options/Experimental/Neutral/Spiritcaller.html
-  "v-57b9c298": defineAsyncComponent(() => import(/* webpackChunkName: "v-57b9c298" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Experimental/Neutral/Spiritcaller.html.vue")),
+  // path: /options/Impostors/Concealing/Escapist.html
+  "v-2d9b93c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d9b93c4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Escapist.html.vue")),
+  // path: /options/Impostors/Concealing/Mastermind.html
+  "v-0c013036": defineAsyncComponent(() => import(/* webpackChunkName: "v-0c013036" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Mastermind.html.vue")),
+  // path: /options/Impostors/Concealing/Miner.html
+  "v-7cc822ee": defineAsyncComponent(() => import(/* webpackChunkName: "v-7cc822ee" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Miner.html.vue")),
+  // path: /options/Impostors/Concealing/Puppeteer.html
+  "v-84c3586c": defineAsyncComponent(() => import(/* webpackChunkName: "v-84c3586c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Puppeteer.html.vue")),
+  // path: /options/Impostors/Concealing/Scavenger.html
+  "v-03c7097c": defineAsyncComponent(() => import(/* webpackChunkName: "v-03c7097c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Scavenger.html.vue")),
+  // path: /options/Impostors/Concealing/Shapemaster.html
+  "v-1aaf5b05": defineAsyncComponent(() => import(/* webpackChunkName: "v-1aaf5b05" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Shapemaster.html.vue")),
+  // path: /options/Impostors/Concealing/SoulCatcher.html
+  "v-7944ec53": defineAsyncComponent(() => import(/* webpackChunkName: "v-7944ec53" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/SoulCatcher.html.vue")),
+  // path: /options/Impostors/Concealing/Swooper.html
+  "v-76e42e2f": defineAsyncComponent(() => import(/* webpackChunkName: "v-76e42e2f" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Swooper.html.vue")),
+  // path: /options/Impostors/Concealing/Trickster.html
+  "v-208cb3b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-208cb3b2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Trickster.html.vue")),
+  // path: /options/Impostors/Concealing/Undertaker.html
+  "v-76928c57": defineAsyncComponent(() => import(/* webpackChunkName: "v-76928c57" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Undertaker.html.vue")),
+  // path: /options/Impostors/Concealing/Vampire.html
+  "v-305d169a": defineAsyncComponent(() => import(/* webpackChunkName: "v-305d169a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Vampire.html.vue")),
+  // path: /options/Impostors/Concealing/Vampiress.html
+  "v-432ed00c": defineAsyncComponent(() => import(/* webpackChunkName: "v-432ed00c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Vampiress.html.vue")),
+  // path: /options/Impostors/Concealing/Warlock.html
+  "v-0c72ddb5": defineAsyncComponent(() => import(/* webpackChunkName: "v-0c72ddb5" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Warlock.html.vue")),
+  // path: /options/Impostors/Concealing/Wildling.html
+  "v-4f084aea": defineAsyncComponent(() => import(/* webpackChunkName: "v-4f084aea" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Wildling.html.vue")),
+  // path: /options/Impostors/Hindering/Anonymous.html
+  "v-3dd0382c": defineAsyncComponent(() => import(/* webpackChunkName: "v-3dd0382c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Hindering/Anonymous.html.vue")),
+  // path: /options/Impostors/Hindering/Dazzler.html
+  "v-8af6768a": defineAsyncComponent(() => import(/* webpackChunkName: "v-8af6768a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Hindering/Dazzler.html.vue")),
+  // path: /options/Impostors/Hindering/Devourer.html
+  "v-2018ca37": defineAsyncComponent(() => import(/* webpackChunkName: "v-2018ca37" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Hindering/Devourer.html.vue")),
+  // path: /options/Impostors/Hindering/Pitfall.html
+  "v-604e65e1": defineAsyncComponent(() => import(/* webpackChunkName: "v-604e65e1" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Hindering/Pitfall.html.vue")),
+  // path: /options/Impostors/Hindering/Twister.html
+  "v-0cdf5bba": defineAsyncComponent(() => import(/* webpackChunkName: "v-0cdf5bba" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Hindering/Twister.html.vue")),
+  // path: /options/Impostors/Killing/Arrogance.html
+  "v-09d921ae": defineAsyncComponent(() => import(/* webpackChunkName: "v-09d921ae" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Arrogance.html.vue")),
+  // path: /options/Impostors/Killing/Bard.html
+  "v-873d60a0": defineAsyncComponent(() => import(/* webpackChunkName: "v-873d60a0" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Bard.html.vue")),
+  // path: /options/Impostors/Killing/Berserker.html
+  "v-4c2d1c0a": defineAsyncComponent(() => import(/* webpackChunkName: "v-4c2d1c0a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Berserker.html.vue")),
+  // path: /options/Impostors/Killing/Bomber.html
+  "v-3ae27852": defineAsyncComponent(() => import(/* webpackChunkName: "v-3ae27852" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Bomber.html.vue")),
+  // path: /options/Impostors/Killing/BountyHunter.html
+  "v-99ac82d4": defineAsyncComponent(() => import(/* webpackChunkName: "v-99ac82d4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/BountyHunter.html.vue")),
+  // path: /options/Impostors/Killing/Chronomancer.html
+  "v-527c7e48": defineAsyncComponent(() => import(/* webpackChunkName: "v-527c7e48" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Chronomancer.html.vue")),
+  // path: /options/Impostors/Killing/Councillor.html
+  "v-ef8a051a": defineAsyncComponent(() => import(/* webpackChunkName: "v-ef8a051a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Councillor.html.vue")),
+  // path: /options/Impostors/Killing/CursedWolf.html
+  "v-24debe86": defineAsyncComponent(() => import(/* webpackChunkName: "v-24debe86" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/CursedWolf.html.vue")),
+  // path: /options/Impostors/Killing/Deathpact.html
+  "v-6126561b": defineAsyncComponent(() => import(/* webpackChunkName: "v-6126561b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Deathpact.html.vue")),
+  // path: /options/Impostors/Killing/EvilGuesser.html
+  "v-27aa9e61": defineAsyncComponent(() => import(/* webpackChunkName: "v-27aa9e61" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/EvilGuesser.html.vue")),
+  // path: /options/Impostors/Killing/EvilTracker.html
+  "v-788bd06d": defineAsyncComponent(() => import(/* webpackChunkName: "v-788bd06d" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/EvilTracker.html.vue")),
+  // path: /options/Impostors/Killing/Greedy.html
+  "v-6cc20921": defineAsyncComponent(() => import(/* webpackChunkName: "v-6cc20921" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Greedy.html.vue")),
+  // path: /options/Impostors/Killing/Inhibitor.html
+  "v-629e12a7": defineAsyncComponent(() => import(/* webpackChunkName: "v-629e12a7" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Inhibitor.html.vue")),
+  // path: /options/Impostors/Killing/Instigator.html
+  "v-f0f11672": defineAsyncComponent(() => import(/* webpackChunkName: "v-f0f11672" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Instigator.html.vue")),
+  // path: /options/Impostors/Killing/Ludopath.html
+  "v-b99a8d30": defineAsyncComponent(() => import(/* webpackChunkName: "v-b99a8d30" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Ludopath.html.vue")),
+  // path: /options/Impostors/Killing/Lurker.html
+  "v-51cad972": defineAsyncComponent(() => import(/* webpackChunkName: "v-51cad972" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Lurker.html.vue")),
+  // path: /options/Impostors/Killing/Mercenary.html
+  "v-0e2f0bbb": defineAsyncComponent(() => import(/* webpackChunkName: "v-0e2f0bbb" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Mercenary.html.vue")),
+  // path: /options/Impostors/Killing/Ninja.html
+  "v-51e2d2b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-51e2d2b2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Ninja.html.vue")),
+  // path: /options/Impostors/Killing/Nuker.html
+  "v-b1b90340": defineAsyncComponent(() => import(/* webpackChunkName: "v-b1b90340" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Nuker.html.vue")),
+  // path: /options/Impostors/Killing/QuickShooter.html
+  "v-883eae7c": defineAsyncComponent(() => import(/* webpackChunkName: "v-883eae7c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/QuickShooter.html.vue")),
+  // path: /options/Impostors/Killing/Saboteur.html
+  "v-c8aa9210": defineAsyncComponent(() => import(/* webpackChunkName: "v-c8aa9210" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Saboteur.html.vue")),
+  // path: /options/Impostors/Killing/Sniper.html
+  "v-f1f0c39c": defineAsyncComponent(() => import(/* webpackChunkName: "v-f1f0c39c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Sniper.html.vue")),
+  // path: /options/Impostors/Killing/Spellcaster.html
+  "v-165cda1d": defineAsyncComponent(() => import(/* webpackChunkName: "v-165cda1d" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Spellcaster.html.vue")),
+  // path: /options/Impostors/Killing/Trapster.html
+  "v-c03015b4": defineAsyncComponent(() => import(/* webpackChunkName: "v-c03015b4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Trapster.html.vue")),
+  // path: /options/Impostors/Killing/Underdog.html
+  "v-c9e73246": defineAsyncComponent(() => import(/* webpackChunkName: "v-c9e73246" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Underdog.html.vue")),
+  // path: /options/Impostors/Madmate/Crewpostor.html
+  "v-de1610a4": defineAsyncComponent(() => import(/* webpackChunkName: "v-de1610a4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Madmate/Crewpostor.html.vue")),
+  // path: /options/Impostors/Madmate/Parasite.html
+  "v-7349b86a": defineAsyncComponent(() => import(/* webpackChunkName: "v-7349b86a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Madmate/Parasite.html.vue")),
+  // path: /options/Impostors/Support/AntiAdminer.html
+  "v-7dc523e8": defineAsyncComponent(() => import(/* webpackChunkName: "v-7dc523e8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/AntiAdminer.html.vue")),
+  // path: /options/Impostors/Support/Camouflager.html
+  "v-ab2f7c90": defineAsyncComponent(() => import(/* webpackChunkName: "v-ab2f7c90" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Camouflager.html.vue")),
+  // path: /options/Impostors/Support/Cleaner.html
+  "v-09fa1060": defineAsyncComponent(() => import(/* webpackChunkName: "v-09fa1060" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Cleaner.html.vue")),
+  // path: /options/Impostors/Support/Consigliere.html
+  "v-5673f08c": defineAsyncComponent(() => import(/* webpackChunkName: "v-5673f08c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Consigliere.html.vue")),
+  // path: /options/Impostors/Support/Fireworker.html
+  "v-03c72b18": defineAsyncComponent(() => import(/* webpackChunkName: "v-03c72b18" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Fireworker.html.vue")),
+  // path: /options/Impostors/Support/Gangster.html
+  "v-7d3297cb": defineAsyncComponent(() => import(/* webpackChunkName: "v-7d3297cb" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Gangster.html.vue")),
+  // path: /options/Impostors/Support/Godfather.html
+  "v-1e1101ae": defineAsyncComponent(() => import(/* webpackChunkName: "v-1e1101ae" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Godfather.html.vue")),
+  // path: /options/Impostors/Support/Morphling.html
+  "v-3a075570": defineAsyncComponent(() => import(/* webpackChunkName: "v-3a075570" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Morphling.html.vue")),
+  // path: /options/Impostors/Support/Nemesis.html
+  "v-0d751a98": defineAsyncComponent(() => import(/* webpackChunkName: "v-0d751a98" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Nemesis.html.vue")),
+  // path: /options/Impostors/Support/TimeThief.html
+  "v-afd96fc6": defineAsyncComponent(() => import(/* webpackChunkName: "v-afd96fc6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/TimeThief.html.vue")),
+  // path: /options/Impostors/Support/Vindicator.html
+  "v-272a8113": defineAsyncComponent(() => import(/* webpackChunkName: "v-272a8113" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Vindicator.html.vue")),
+  // path: /options/Impostors/Support/Visionary.html
+  "v-880e83f4": defineAsyncComponent(() => import(/* webpackChunkName: "v-880e83f4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Visionary.html.vue")),
+  // path: /options/Impostors/Vanilla/Impostor.html
+  "v-827bba1e": defineAsyncComponent(() => import(/* webpackChunkName: "v-827bba1e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Vanilla/Impostor.html.vue")),
+  // path: /options/Impostors/Vanilla/Shapeshifter.html
+  "v-5497c68a": defineAsyncComponent(() => import(/* webpackChunkName: "v-5497c68a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Vanilla/Shapeshifter.html.vue")),
   // path: /options/Neutrals/Benign/Amnesiac.html
   "v-645bd8ed": defineAsyncComponent(() => import(/* webpackChunkName: "v-645bd8ed" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Amnesiac.html.vue")),
   // path: /options/Neutrals/Benign/Follower.html
@@ -315,6 +443,8 @@ export const pagesComponents = {
   "v-7efe6df4": defineAsyncComponent(() => import(/* webpackChunkName: "v-7efe6df4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Maverick.html.vue")),
   // path: /options/Neutrals/Benign/Opportunist.html
   "v-5ae8c79b": defineAsyncComponent(() => import(/* webpackChunkName: "v-5ae8c79b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Opportunist.html.vue")),
+  // path: /options/Neutrals/Benign/Pixie.html
+  "v-930168e2": defineAsyncComponent(() => import(/* webpackChunkName: "v-930168e2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Pixie.html.vue")),
   // path: /options/Neutrals/Benign/Pursuer.html
   "v-08442bce": defineAsyncComponent(() => import(/* webpackChunkName: "v-08442bce" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Pursuer.html.vue")),
   // path: /options/Neutrals/Benign/Romantic.html
@@ -325,6 +455,8 @@ export const pagesComponents = {
   "v-7de60452": defineAsyncComponent(() => import(/* webpackChunkName: "v-7de60452" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Neutrals/Benign/RomanticVengeful.html.vue")),
   // path: /options/Neutrals/Benign/Shaman.html
   "v-70d7d48c": defineAsyncComponent(() => import(/* webpackChunkName: "v-70d7d48c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Shaman.html.vue")),
+  // path: /options/Neutrals/Benign/Taskinator.html
+  "v-02fa1e30": defineAsyncComponent(() => import(/* webpackChunkName: "v-02fa1e30" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Taskinator.html.vue")),
   // path: /options/Neutrals/Benign/Witch.html
   "v-e694537a": defineAsyncComponent(() => import(/* webpackChunkName: "v-e694537a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Witch.html.vue")),
   // path: /options/Neutrals/Chaos/Collector.html
@@ -421,124 +553,6 @@ export const pagesComponents = {
   "v-7a8c747c": defineAsyncComponent(() => import(/* webpackChunkName: "v-7a8c747c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Werewolf.html.vue")),
   // path: /options/Neutrals/Killing/Wraith.html
   "v-f4b1cec4": defineAsyncComponent(() => import(/* webpackChunkName: "v-f4b1cec4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Wraith.html.vue")),
-  // path: /options/Impostors/Concealing/Escapist.html
-  "v-2d9b93c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d9b93c4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Escapist.html.vue")),
-  // path: /options/Impostors/Concealing/Mastermind.html
-  "v-0c013036": defineAsyncComponent(() => import(/* webpackChunkName: "v-0c013036" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Mastermind.html.vue")),
-  // path: /options/Impostors/Concealing/Miner.html
-  "v-7cc822ee": defineAsyncComponent(() => import(/* webpackChunkName: "v-7cc822ee" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Miner.html.vue")),
-  // path: /options/Impostors/Concealing/Puppeteer.html
-  "v-84c3586c": defineAsyncComponent(() => import(/* webpackChunkName: "v-84c3586c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Puppeteer.html.vue")),
-  // path: /options/Impostors/Concealing/Scavenger.html
-  "v-03c7097c": defineAsyncComponent(() => import(/* webpackChunkName: "v-03c7097c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Scavenger.html.vue")),
-  // path: /options/Impostors/Concealing/Shapemaster.html
-  "v-1aaf5b05": defineAsyncComponent(() => import(/* webpackChunkName: "v-1aaf5b05" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Shapemaster.html.vue")),
-  // path: /options/Impostors/Concealing/SoulCatcher.html
-  "v-7944ec53": defineAsyncComponent(() => import(/* webpackChunkName: "v-7944ec53" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/SoulCatcher.html.vue")),
-  // path: /options/Impostors/Concealing/Swooper.html
-  "v-76e42e2f": defineAsyncComponent(() => import(/* webpackChunkName: "v-76e42e2f" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Swooper.html.vue")),
-  // path: /options/Impostors/Concealing/Trickster.html
-  "v-208cb3b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-208cb3b2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Trickster.html.vue")),
-  // path: /options/Impostors/Concealing/Undertaker.html
-  "v-76928c57": defineAsyncComponent(() => import(/* webpackChunkName: "v-76928c57" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Undertaker.html.vue")),
-  // path: /options/Impostors/Concealing/Vampire.html
-  "v-305d169a": defineAsyncComponent(() => import(/* webpackChunkName: "v-305d169a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Vampire.html.vue")),
-  // path: /options/Impostors/Concealing/Vampiress.html
-  "v-432ed00c": defineAsyncComponent(() => import(/* webpackChunkName: "v-432ed00c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Vampiress.html.vue")),
-  // path: /options/Impostors/Concealing/Warlock.html
-  "v-0c72ddb5": defineAsyncComponent(() => import(/* webpackChunkName: "v-0c72ddb5" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Warlock.html.vue")),
-  // path: /options/Impostors/Concealing/Wildling.html
-  "v-4f084aea": defineAsyncComponent(() => import(/* webpackChunkName: "v-4f084aea" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Wildling.html.vue")),
-  // path: /options/Impostors/Hindering/Anonymous.html
-  "v-3dd0382c": defineAsyncComponent(() => import(/* webpackChunkName: "v-3dd0382c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Hindering/Anonymous.html.vue")),
-  // path: /options/Impostors/Hindering/Dazzler.html
-  "v-8af6768a": defineAsyncComponent(() => import(/* webpackChunkName: "v-8af6768a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Hindering/Dazzler.html.vue")),
-  // path: /options/Impostors/Hindering/Devourer.html
-  "v-2018ca37": defineAsyncComponent(() => import(/* webpackChunkName: "v-2018ca37" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Hindering/Devourer.html.vue")),
-  // path: /options/Impostors/Hindering/Pitfall.html
-  "v-604e65e1": defineAsyncComponent(() => import(/* webpackChunkName: "v-604e65e1" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Hindering/Pitfall.html.vue")),
-  // path: /options/Impostors/Hindering/Twister.html
-  "v-0cdf5bba": defineAsyncComponent(() => import(/* webpackChunkName: "v-0cdf5bba" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Hindering/Twister.html.vue")),
-  // path: /options/Impostors/Killing/Arrogance.html
-  "v-09d921ae": defineAsyncComponent(() => import(/* webpackChunkName: "v-09d921ae" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Arrogance.html.vue")),
-  // path: /options/Impostors/Killing/Bard.html
-  "v-873d60a0": defineAsyncComponent(() => import(/* webpackChunkName: "v-873d60a0" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Bard.html.vue")),
-  // path: /options/Impostors/Killing/Berserker.html
-  "v-4c2d1c0a": defineAsyncComponent(() => import(/* webpackChunkName: "v-4c2d1c0a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Berserker.html.vue")),
-  // path: /options/Impostors/Killing/Bomber.html
-  "v-3ae27852": defineAsyncComponent(() => import(/* webpackChunkName: "v-3ae27852" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Bomber.html.vue")),
-  // path: /options/Impostors/Killing/BountyHunter.html
-  "v-99ac82d4": defineAsyncComponent(() => import(/* webpackChunkName: "v-99ac82d4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/BountyHunter.html.vue")),
-  // path: /options/Impostors/Killing/Chronomancer.html
-  "v-527c7e48": defineAsyncComponent(() => import(/* webpackChunkName: "v-527c7e48" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Chronomancer.html.vue")),
-  // path: /options/Impostors/Killing/Councillor.html
-  "v-ef8a051a": defineAsyncComponent(() => import(/* webpackChunkName: "v-ef8a051a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Councillor.html.vue")),
-  // path: /options/Impostors/Killing/CursedWolf.html
-  "v-24debe86": defineAsyncComponent(() => import(/* webpackChunkName: "v-24debe86" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/CursedWolf.html.vue")),
-  // path: /options/Impostors/Killing/Deathpact.html
-  "v-6126561b": defineAsyncComponent(() => import(/* webpackChunkName: "v-6126561b" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Deathpact.html.vue")),
-  // path: /options/Impostors/Killing/EvilGuesser.html
-  "v-27aa9e61": defineAsyncComponent(() => import(/* webpackChunkName: "v-27aa9e61" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/EvilGuesser.html.vue")),
-  // path: /options/Impostors/Killing/EvilTracker.html
-  "v-788bd06d": defineAsyncComponent(() => import(/* webpackChunkName: "v-788bd06d" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/EvilTracker.html.vue")),
-  // path: /options/Impostors/Killing/Greedy.html
-  "v-6cc20921": defineAsyncComponent(() => import(/* webpackChunkName: "v-6cc20921" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Greedy.html.vue")),
-  // path: /options/Impostors/Killing/Inhibitor.html
-  "v-629e12a7": defineAsyncComponent(() => import(/* webpackChunkName: "v-629e12a7" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Inhibitor.html.vue")),
-  // path: /options/Impostors/Killing/Ludopath.html
-  "v-b99a8d30": defineAsyncComponent(() => import(/* webpackChunkName: "v-b99a8d30" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Ludopath.html.vue")),
-  // path: /options/Impostors/Killing/Lurker.html
-  "v-51cad972": defineAsyncComponent(() => import(/* webpackChunkName: "v-51cad972" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Lurker.html.vue")),
-  // path: /options/Impostors/Killing/Mercenary.html
-  "v-0e2f0bbb": defineAsyncComponent(() => import(/* webpackChunkName: "v-0e2f0bbb" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Mercenary.html.vue")),
-  // path: /options/Impostors/Killing/Ninja.html
-  "v-51e2d2b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-51e2d2b2" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Ninja.html.vue")),
-  // path: /options/Impostors/Killing/Nuker.html
-  "v-b1b90340": defineAsyncComponent(() => import(/* webpackChunkName: "v-b1b90340" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Nuker.html.vue")),
-  // path: /options/Impostors/Killing/QuickShooter.html
-  "v-883eae7c": defineAsyncComponent(() => import(/* webpackChunkName: "v-883eae7c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/QuickShooter.html.vue")),
-  // path: /options/Impostors/Killing/Saboteur.html
-  "v-c8aa9210": defineAsyncComponent(() => import(/* webpackChunkName: "v-c8aa9210" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Saboteur.html.vue")),
-  // path: /options/Impostors/Killing/Sniper.html
-  "v-f1f0c39c": defineAsyncComponent(() => import(/* webpackChunkName: "v-f1f0c39c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Sniper.html.vue")),
-  // path: /options/Impostors/Killing/Spellcaster.html
-  "v-165cda1d": defineAsyncComponent(() => import(/* webpackChunkName: "v-165cda1d" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Spellcaster.html.vue")),
-  // path: /options/Impostors/Killing/Trapster.html
-  "v-c03015b4": defineAsyncComponent(() => import(/* webpackChunkName: "v-c03015b4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Trapster.html.vue")),
-  // path: /options/Impostors/Killing/Underdog.html
-  "v-c9e73246": defineAsyncComponent(() => import(/* webpackChunkName: "v-c9e73246" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Killing/Underdog.html.vue")),
-  // path: /options/Impostors/Madmate/Crewpostor.html
-  "v-de1610a4": defineAsyncComponent(() => import(/* webpackChunkName: "v-de1610a4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Madmate/Crewpostor.html.vue")),
-  // path: /options/Impostors/Madmate/Parasite.html
-  "v-7349b86a": defineAsyncComponent(() => import(/* webpackChunkName: "v-7349b86a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Madmate/Parasite.html.vue")),
-  // path: /options/Impostors/Support/AntiAdminer.html
-  "v-7dc523e8": defineAsyncComponent(() => import(/* webpackChunkName: "v-7dc523e8" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/AntiAdminer.html.vue")),
-  // path: /options/Impostors/Support/Camouflager.html
-  "v-ab2f7c90": defineAsyncComponent(() => import(/* webpackChunkName: "v-ab2f7c90" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Camouflager.html.vue")),
-  // path: /options/Impostors/Support/Cleaner.html
-  "v-09fa1060": defineAsyncComponent(() => import(/* webpackChunkName: "v-09fa1060" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Cleaner.html.vue")),
-  // path: /options/Impostors/Support/Consigliere.html
-  "v-5673f08c": defineAsyncComponent(() => import(/* webpackChunkName: "v-5673f08c" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Consigliere.html.vue")),
-  // path: /options/Impostors/Support/Fireworker.html
-  "v-03c72b18": defineAsyncComponent(() => import(/* webpackChunkName: "v-03c72b18" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Fireworker.html.vue")),
-  // path: /options/Impostors/Support/Gangster.html
-  "v-7d3297cb": defineAsyncComponent(() => import(/* webpackChunkName: "v-7d3297cb" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Gangster.html.vue")),
-  // path: /options/Impostors/Support/Godfather.html
-  "v-1e1101ae": defineAsyncComponent(() => import(/* webpackChunkName: "v-1e1101ae" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Godfather.html.vue")),
-  // path: /options/Impostors/Support/Morphling.html
-  "v-3a075570": defineAsyncComponent(() => import(/* webpackChunkName: "v-3a075570" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Morphling.html.vue")),
-  // path: /options/Impostors/Support/Nemesis.html
-  "v-0d751a98": defineAsyncComponent(() => import(/* webpackChunkName: "v-0d751a98" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Nemesis.html.vue")),
-  // path: /options/Impostors/Support/TimeThief.html
-  "v-afd96fc6": defineAsyncComponent(() => import(/* webpackChunkName: "v-afd96fc6" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/TimeThief.html.vue")),
-  // path: /options/Impostors/Support/Vindicator.html
-  "v-272a8113": defineAsyncComponent(() => import(/* webpackChunkName: "v-272a8113" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Vindicator.html.vue")),
-  // path: /options/Impostors/Support/Visionary.html
-  "v-880e83f4": defineAsyncComponent(() => import(/* webpackChunkName: "v-880e83f4" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Support/Visionary.html.vue")),
-  // path: /options/Impostors/Vanilla/Impostor.html
-  "v-827bba1e": defineAsyncComponent(() => import(/* webpackChunkName: "v-827bba1e" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Vanilla/Impostor.html.vue")),
-  // path: /options/Impostors/Vanilla/Shapeshifter.html
-  "v-5497c68a": defineAsyncComponent(() => import(/* webpackChunkName: "v-5497c68a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/options/Impostors/Vanilla/Shapeshifter.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Website/docs/.vuepress/.temp/pages/404.html.vue")),
 }

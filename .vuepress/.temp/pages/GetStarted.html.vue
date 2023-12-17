@@ -7,7 +7,7 @@ This policy is in place to keep the integrity of our Sponsor, Contributor, Teste
 <p>Installation requires that you own a PC version of Among Us on Steam, Epic, or Itch.</p>
 <ol>
 <li>
-<p>Download the latest full Release of TOHE <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank" rel="noopener noreferrer">here<ExternalLinkIcon/></a>. You only need the main zip such as &quot;TOHE.v1.0.0.zip&quot;, not the source code files.</p>
+<p>Download the latest full Release of TOHE in #mod-release or <a href="https://github.com/0xDrMoe/TownofHost-Enhanced/releases" target="_blank" rel="noopener noreferrer">here<ExternalLinkIcon/></a>. You only need the main zip such as &quot;TOHE.v1.0.0.zip&quot;, not the source code files.</p>
 </li>
 <li>
 <p>Once the download is complete, unzip it into the location of your choice. Example: C:\TOHE</p>
@@ -29,7 +29,7 @@ This policy is in place to keep the integrity of our Sponsor, Contributor, Teste
 </ol>
 <h4 id="you-have-now-installed-town-of-host-enhanced-all-that-remains-is-to-start-up-a-private-lobby-and-customize-your-settings" tabindex="-1"><a class="header-anchor" href="#you-have-now-installed-town-of-host-enhanced-all-that-remains-is-to-start-up-a-private-lobby-and-customize-your-settings" aria-hidden="true">#</a> You have now installed Town of Host: Enhanced! All that remains is to start up a private lobby and customize your settings.</h4>
 <h2 id="new-releases" tabindex="-1"><a class="header-anchor" href="#new-releases" aria-hidden="true">#</a> New Releases</h2>
-<p>Keep an eye on the <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank" rel="noopener noreferrer">releases page<ExternalLinkIcon/></a> for new releases. If a new version is released, all you'll usually need to do is repeat steps 1-2 above, unzipping into the same folder where you already have it installed and letting it overwrite. If it says it requires a newer version of Among Us, repeat steps 3-5 as well after making sure your base game is up to date.</p>
+<p>Keep an eye on the <a href="https://github.com/0xDrMoe/TownofHost-Enhanced/releases" target="_blank" rel="noopener noreferrer">releases page<ExternalLinkIcon/></a> for new releases. If a new version is released, all you'll usually need to do is repeat steps 1-2 above, unzipping into the same folder where you already have it installed and letting it overwrite. If it says it requires a newer version of Among Us, repeat steps 3-5 as well after making sure your base game is up to date.</p>
 <h2 id="installing-dev-builds-canary-builds" tabindex="-1"><a class="header-anchor" href="#installing-dev-builds-canary-builds" aria-hidden="true">#</a> Installing Dev Builds/Canary Builds</h2>
 <ol>
 <li>
@@ -46,19 +46,25 @@ This policy is in place to keep the integrity of our Sponsor, Contributor, Teste
 </li>
 </ol>
 <h4 id="you-have-successfully-installed-a-dev-build-canary-build" tabindex="-1"><a class="header-anchor" href="#you-have-successfully-installed-a-dev-build-canary-build" aria-hidden="true">#</a> You have successfully installed a Dev Build/Canary Build!</h4>
-<h2 id="dev-builds-accessible-by-contributors-testers-and-sponsors-that-are-at-least-insider-tier" tabindex="-1"><a class="header-anchor" href="#dev-builds-accessible-by-contributors-testers-and-sponsors-that-are-at-least-insider-tier" aria-hidden="true">#</a> Dev Builds - Accessible by Contributors, Testers, and Sponsors that are at least Insider tier.<br></h2>
-<p><code v-pre>NOT FOR DISTRIBUTION</code></p>
+<h2 id="how-to-gain-dev-builds-access" tabindex="-1"><a class="header-anchor" href="#how-to-gain-dev-builds-access" aria-hidden="true">#</a> How to gain Dev Builds Access<br></h2>
+<ul>
+<li>Accessible by Contributors, Testers, and Sponsors that are at least Insider tier.<br>
+<code v-pre>NOT FOR DISTRIBUTION</code></li>
+</ul>
 <ul>
 <li>To become a <b>Contributor</b>, you need to help with coding in roles/addons/gamemodes/etc related to the mod</li>
 <li>To become a <b>Tester</b>, you must be an active content creator with your <b>TOHE videos</b> having 600+ views on average</li>
 <li>To become a <b>Sponsor</b>, you need to purchase a tier on our <a href="https://ko-fi.com/TOHEN" target="_blank" rel="noopener noreferrer">Ko-fi<ExternalLinkIcon/></a> (For Dev Builds access specifically, you need to purchase at least Insider tier for $5.00)</li>
 </ul>
 <p>Once you have been accepted into one of the above roles, you will be able to access the #dev-builds channel in the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">Town of Host: Enhanced Discord<ExternalLinkIcon/></a></p>
-<h2 id="canary-builds-accessible-by-translators-nitro-boosters-and-sponsors-that-are-at-least-initiate-tier" tabindex="-1"><a class="header-anchor" href="#canary-builds-accessible-by-translators-nitro-boosters-and-sponsors-that-are-at-least-initiate-tier" aria-hidden="true">#</a> Canary Builds - Accessible by Translators, Nitro Boosters, and Sponsors that are at least Initiate tier.<br></h2>
-<p><code v-pre>NOT FOR DISTRIBUTION</code></p>
+<h2 id="how-to-gain-canary-builds-access" tabindex="-1"><a class="header-anchor" href="#how-to-gain-canary-builds-access" aria-hidden="true">#</a> How to gain Canary Builds Access<br></h2>
 <ul>
-<li>To become a <b>Nitro Booster</b>, you must <i>boost the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">Town of Host: Enhanced Discord<ExternalLinkIcon/></a> server</i></li>
-<li>To become a <b>Translator</b>, you need to help with translating the game into other languages. You can find more information about this in the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">Town of Host: Enhanced Discord<ExternalLinkIcon/></a></li>
+<li>Accessible by Translators, Nitro Boosters, and Sponsors that are at least Initiate tier.<br>
+<code v-pre>NOT FOR DISTRIBUTION</code></li>
+</ul>
+<ul>
+<li>To become a <b>Nitro Booster</b>, you must boost the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">Town of Host: Enhanced Discord<ExternalLinkIcon/></a> server</li>
+<li>To become a <b>Translator</b>, you need to help with translating the mod into other languages. You can find more information about this in the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">Town of Host: Enhanced Discord<ExternalLinkIcon/></a></li>
 <li>To become a <b>Sponsor</b>, you need to purchase a tier on our <a href="https://ko-fi.com/TOHEN" target="_blank" rel="noopener noreferrer">Ko-fi<ExternalLinkIcon/></a> (For Canary Builds access specifically, you need to purchase at least Initiate tier (lowest tier) for $3.00)</li>
 </ul>
 <p>Once you have been accepted into one of the above roles, you will be able to access the #canary-builds channel in the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">Town of Host: Enhanced Discord<ExternalLinkIcon/></a>.</p>

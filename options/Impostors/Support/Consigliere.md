@@ -12,7 +12,6 @@ As the Consigiliere, you can reveal the roles of other players using your kill b
 Single click: Reveal role<br>
 Double click: Kill<br>
 If you run out of reveal uses, your kill button functions normally.
-
 * Max
   * Set the Maximum amount of Consiglieres that can be in a match
 * Kill Cooldown

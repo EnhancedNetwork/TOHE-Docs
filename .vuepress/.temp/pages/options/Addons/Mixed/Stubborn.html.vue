@@ -1,6 +1,6 @@
 <template><div><h1 id="😖-stubborn" tabindex="-1"><a class="header-anchor" href="#😖-stubborn" aria-hidden="true">#</a> <font color=#fa5434>😖 <b>Stubborn</b></font> <Badge text="Mixed" type="tip" vertical="middle"/></h1>
 <hr>
-<p>With the Stubborn add on, Eraser can’t erase your role erase, Cleanser can't cleanse you, Bandit can't steal from you and Monarch can't knight you.<br>
+<p>With the Stubborn add on, Eraser can’t erase your role, Cleanser can't cleanse you, Bandit can't steal from you and Monarch can't knight you.<br>
 Additionally, you can’t gain any new addons from the merchant.</p>
 <ul>
 <li>Max

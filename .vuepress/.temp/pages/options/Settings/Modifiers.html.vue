@@ -239,6 +239,30 @@
 <font color=red>OFF</font>: Dress Mannequin will be enabled</li>
 </ul>
 </li>
+<li>Roast Mashmallow
+<ul>
+<li>
+<font color=green>ON</font>: Roast Mashmallow will be disabled</li>
+<li>
+<font color=red>OFF</font>: Roast Mashmallow will be enabled</li>
+</ul>
+</li>
+<li>Collect Samples
+<ul>
+<li>
+<font color=green>ON</font>: Collect Samples will be disabled</li>
+<li>
+<font color=red>OFF</font>: Collect Samples will be enabled</li>
+</ul>
+</li>
+<li>Replace Parts
+<ul>
+<li>
+<font color=green>ON</font>: Replace Parts will be disabled</li>
+<li>
+<font color=red>OFF</font>: Replace Parts will be enabled</li>
+</ul>
+</li>
 </ul>
 </details>
 </li>
@@ -290,6 +314,62 @@
 <font color=green>ON</font>: Scan Boarding Pass will be disabled</li>
 <li>
 <font color=red>OFF</font>: Scan Boarding Pass will be enabled</li>
+</ul>
+</li>
+<li>Collect Vegetables
+<ul>
+<li>
+<font color=green>ON</font>: Collect Vegetables will be disabled</li>
+<li>
+<font color=red>OFF</font>: Collect Vegetables will be enabled</li>
+</ul>
+</li>
+<li>Mine Ores
+<ul>
+<li>
+<font color=green>ON</font>: Mine Ores will be disabled</li>
+<li>
+<font color=red>OFF</font>: Mine Ores will be enabled</li>
+</ul>
+</li>
+<li>Extract Fuel
+<ul>
+<li>
+<font color=green>ON</font>: Extract Fuel will be disabled</li>
+<li>
+<font color=red>OFF</font>: Extract Fuel will be enabled</li>
+</ul>
+</li>
+<li>Catch Fish
+<ul>
+<li>
+<font color=green>ON</font>: Catch Fish will be disabled</li>
+<li>
+<font color=red>OFF</font>: Catch Fish will be enabled</li>
+</ul>
+</li>
+<li>Polish Gem
+<ul>
+<li>
+<font color=green>ON</font>: Polish Gem will be disabled</li>
+<li>
+<font color=red>OFF</font>: Polish Gem will be enabled</li>
+</ul>
+</li>
+<li>Help Critter
+<ul>
+<li>
+<font color=green>ON</font>: Help Critter will be disabled</li>
+<li>
+<font color=red>OFF</font>: Help Critter will be enabled</li>
+</ul>
+</li>
+<li>Hoist Supplies
+<ul>
+<li>
+<font color=green>ON</font>: Hoist Supplies will be disabled</li>
+<li>
+<font color=red>OFF</font>: Hoist Supplies will be enabled</li>
 </ul>
 </li>
 </ul>
@@ -423,6 +503,78 @@
 <font color=green>ON</font>: Start Fans will be disabled</li>
 <li>
 <font color=red>OFF</font>: Start Fans will be enabled</li>
+</ul>
+</li>
+<li>Fix Antenna
+<ul>
+<li>
+<font color=green>ON</font>: Fix Antenna will be disabled</li>
+<li>
+<font color=red>OFF</font>: Fix Antenna will be enabled</li>
+</ul>
+</li>
+<li>Build Sandcastle
+<ul>
+<li>
+<font color=green>ON</font>: Build Sandcastle will be disabled</li>
+<li>
+<font color=red>OFF</font>: Build Sandcastle will be enabled</li>
+</ul>
+</li>
+<li>Crank Generator
+<ul>
+<li>
+<font color=green>ON</font>: Crank Generator will be disabled</li>
+<li>
+<font color=red>OFF</font>: Crank Generator will be enabled</li>
+</ul>
+</li>
+<li>Monitor Mushroom
+<ul>
+<li>
+<font color=green>ON</font>: Monitor Mushroom will be disabled</li>
+<li>
+<font color=red>OFF</font>: Monitor Mushroom will be enabled</li>
+</ul>
+</li>
+<li>Play Video Game
+<ul>
+<li>
+<font color=green>ON</font>: Play Video Game will be disabled</li>
+<li>
+<font color=red>OFF</font>: Play Video Game will be enabled</li>
+</ul>
+</li>
+<li>Find Signal
+<ul>
+<li>
+<font color=green>ON</font>: Find Signal will be disabled</li>
+<li>
+<font color=red>OFF</font>: Find Signal will be enabled</li>
+</ul>
+</li>
+<li>Throw Frisbee
+<ul>
+<li>
+<font color=green>ON</font>: Throw Frisbee will be disabled</li>
+<li>
+<font color=red>OFF</font>: Throw Frisbee will be enabled</li>
+</ul>
+</li>
+<li>Light Weights
+<ul>
+<li>
+<font color=green>ON</font>: Light Weights will be disabled</li>
+<li>
+<font color=red>OFF</font>: Light Weights will be enabled</li>
+</ul>
+</li>
+<li>Collect Shells
+<ul>
+<li>
+<font color=green>ON</font>: Collect Shells will be disabled</li>
+<li>
+<font color=red>OFF</font>: Collect Shells will be enabled</li>
 </ul>
 </li>
 </ul>

@@ -17,7 +17,7 @@ next: Addons
 
 <tr>
 <td><font color=#046300><b>Benign</b></font></td>
-<td align="center">11</td>
+<td align="center">13</td>
 </tr>
 
 <tr>
@@ -37,7 +37,7 @@ next: Addons
 
 <tr>
 <td><font color=#7c8c8d><b>Total:</b></font></td>
-<td align="center"><b>56</b></td>
+<td align="center"><b>58</b></td>
 </tr>
 
 </table>
@@ -45,7 +45,7 @@ next: Addons
 
 ### <font color=#046300><b>Benign</b></font>
 ---
-[Amnesiac](/options/Neutrals/Benign/Amnesiac.html) | [Follower](/options/Neutrals/Benign/Follower.html) | [Hater](/options/Neutrals/Benign/Hater.html) | [Imitator](/options/Neutrals/Benign/Imitator.html) | [Lawyer](/options/Neutrals/Benign/Lawyer.html) | [Maverick](/options/Neutrals/Benign/Maverick.html) | [Opportunist](/options/Neutrals/Benign/Opportunist.html) | [Pursuer](/options/Neutrals/Benign/Pursuer.html) | [Romantic](/options/Neutrals/Benign/Romantic.html) | [Shaman](/options/Neutrals/Benign/Shaman.html) | [Witch](/options/Neutrals/Benign/Witch.html)
+[Amnesiac](/options/Neutrals/Benign/Amnesiac.html) | [Follower](/options/Neutrals/Benign/Follower.html) | [Hater](/options/Neutrals/Benign/Hater.html) | [Imitator](/options/Neutrals/Benign/Imitator.html) | [Lawyer](/options/Neutrals/Benign/Lawyer.html) | [Maverick](/options/Neutrals/Benign/Maverick.html) | [Opportunist](/options/Neutrals/Benign/Opportunist.html) | [Pixie](/options/Neutrals/Benign/Pixie.html) | [Pursuer](/options/Neutrals/Benign/Pursuer.html) | [Romantic](/options/Neutrals/Benign/Romantic.html) | [Shaman](/options/Neutrals/Benign/Shaman.html) | [Taskinator](/options/Neutrals/Benign/Taskinator.html) | [Witch](/options/Neutrals/Benign/Witch.html)
 <br>
 
 ### <font color=#d4af37><b>Chaos</b></font>

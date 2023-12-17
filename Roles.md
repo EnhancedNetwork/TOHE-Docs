@@ -17,9 +17,9 @@ sidebar:
 
 <font size=4em><b>Latest Versions:</b></font><br>
 
-- <b><font size=3em>Dev:</font> [v1.2.1 Dev 2](/Changelogs.html)</b><br>
-- <b><font size=3em>Canary:</font> [v1.2.0 Canary 1](/changelogs/Canary.html)</b><br>
-- <b><font size=3em>Stable:</font> [v1.2.0](/changelogs/Dev.html)</b><br>
+- <b><font size=3em>Dev:</font> [v1.2.1 Dev 4](/changelogs/Dev.html)</b><br>
+- <b><font size=3em>Canary:</font> [v1.2.1 Canary 2](/changelogs/Canary.html)</b><br>
+- <b><font size=3em>Stable:</font> [v1.3.0](/changelogs/Stable.html)</b><br>
 
 <table>
 <tr>
@@ -31,13 +31,13 @@ sidebar:
 <tr>
 <td><a href="/options/Settings/Addons.md"><font color=#ff9ace><b>Add-ons</b></font></a></td>
 <td>Add-ons that can be added to any role for any player</td>
-<td align="center">50</td>
+<td align="center">50 (+1)</td>
 </tr>
 
 <tr>
 <td><a href="/options/Settings/Crewmates.md"><font color=#8cffff><b>Crewmate</b></font></a> </td>
 <td>Play together and win by completing all tasks/voting out all Evil</td>
-<td align="center">63</td>
+<td align="center">65</td>
 </tr>
 
 <tr>
@@ -49,18 +49,18 @@ sidebar:
 <tr>
 <td><a href="/options/Settings/Impostors.md"><font color=red><b>Impostor</b></font></a></td>
 <td>Play together and win via killing/voting out all Crewmates/Neutrals</td>
-<td align="center">56</td>
+<td align="center">57</td>
 </tr>
 
 <tr>
 <td><a href="/options/Settings/Neutrals.md"><font color=#7c8c8d><b>Neutral</b></font></a></td>
 <td>Play alone and win via their own win conditions</td>
-<td align="center">56</td>
+<td align="center">58</td>
 </tr>
 
 <tr>
 <td colspan=2><b>Total:</b></td>
-<td align="center"><b>242</b></td>
+<td align="center"><b>248</b></td>
 </tr>
 </table>
 <br>

@@ -1,5 +1,6 @@
 <template><div><h1 id="🔪-killing-machine" tabindex="-1"><a class="header-anchor" href="#🔪-killing-machine" aria-hidden="true">#</a> <font color=red>🔪 <b>Killing Machine</b></font> <Badge text="Impostor" type="tip" vertical="middle"/></h1>
 <hr>
+<font size=4em>Experimental Reason: Needs Rework (There was plans for a rework, but then TOHRE died so it was never implemented)</font><br><p>Note: Most likely an Impostor Killing</p>
 <p>The Killing Machine has a very short kill cooldown, but cannot vent, has lower vision, cannot sabotage, cannot report, and cannot call emergency meetings. The Killing Machine also has the same vision as Crewmates.</p>
 <ul>
 <li>Max

@@ -1,5 +1,6 @@
 <template><div><h1 id="🧼-eraser" tabindex="-1"><a class="header-anchor" href="#🧼-eraser" aria-hidden="true">#</a> <font color=red>🧼 <b>Eraser</b></font> <Badge text="Impostor" type="tip" vertical="middle"/></h1>
 <hr>
+<font size=4em>Experimental Reason: has issues with some roles, one being Medium</font><br><p>Note: Most likely an Impostor Hindering</p>
 <p>Eraser can vote for any crew target at the meeting to erase the target's roles, and the erasure will take effect after the meeting ends. Note: Players whose skills are erased will always be considered a vanilla role, including the game result page.</p>
 <ul>
 <li>Max

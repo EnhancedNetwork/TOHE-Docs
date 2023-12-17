@@ -1,5 +1,6 @@
 <template><div><h1 id="👑-god" tabindex="-1"><a class="header-anchor" href="#👑-god" aria-hidden="true">#</a> <font color=#f96464>👑 <b>God</b></font> <Badge text="Neutral" type="tip" vertical="middle"/></h1>
 <hr>
+<font size=4em>Experimental Reason: has conflicting win conditions</font><br><p>Note: Most likely a Neutral Chaos/Evil</p>
 <p>God knows everyone's role from the beginning, and God will win alone as long as he lives to the end. Note: God won't be Lovers.</p>
 <ul>
 <li>Max

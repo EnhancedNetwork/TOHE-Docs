@@ -7,6 +7,8 @@ next: Spiritcaller
 
 # <font color=#f96464>👑 <b>God</b></font> <Badge text="Neutral" type="tip" vertical="middle"/>
 ---
+<font size=4em>Experimental Reason: has conflicting win conditions</font><br>
+Note: Most likely a Neutral Chaos/Evil
 
 God knows everyone's role from the beginning, and God will win alone as long as he lives to the end. Note: God won't be Lovers.
 * Max

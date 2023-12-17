@@ -1,5 +1,6 @@
 <template><div><h1 id="🌀-disperser" tabindex="-1"><a class="header-anchor" href="#🌀-disperser" aria-hidden="true">#</a> <font color=red>🌀 <b>Disperser</b></font> <Badge text="Impostor" type="tip" vertical="middle"/></h1>
 <hr>
+<font size=4em>Experimental Reason: can cause bugged meetings</font><br><p>Note: Most likely an Impostor Hindering</p>
 <p>Disperser can use Shapeshift to teleport all players to random vents.<br><br>
 Note: the Disperser itself will not be teleported with shapeshift and players who are in the vent cannot be teleported.</p>
 <ul>

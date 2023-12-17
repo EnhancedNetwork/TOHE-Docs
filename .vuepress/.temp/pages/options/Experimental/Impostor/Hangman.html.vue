@@ -1,5 +1,6 @@
 <template><div><h1 id="🪢-hangman" tabindex="-1"><a class="header-anchor" href="#🪢-hangman" aria-hidden="true">#</a> <font color=red>🪢 Hangman</font> <Badge text="Impostor" type="tip" vertical="middle"/></h1>
 <hr>
+<font size=4em>Experimental Reason: Should be fixed, Needs Testing</font><br><p>Note: Most likely an Impostor Concealing</p>
 <p>The killing method of the Hangman during the Shapeshifting is Strangling. Strangling ignores any status of the target. Such as the shield of a Medic, the skills of a Bodyguard or Superstar. The Strangled player will not leave a dead body, nor will it trigger any of its skills. For example, Veteran kills back, Luckey stays alive, etc. The Seer will not be alerted.</p>
 <ul>
 <li>Max

@@ -1,5 +1,6 @@
 <template><div><h1 id="🕵️-investigator" tabindex="-1"><a class="header-anchor" href="#🕵️-investigator" aria-hidden="true">#</a> <font color=#007FFF>🕵️ <b>Investigator</b></font> <Badge text="Crewmate" type="tip" vertical="middle"/></h1>
 <hr>
+<font size=4em>Experimental Reason: Needs Rework</font><br><p>Note: Most likely a Crewmate Support</p>
 <p>As the Investigator, use your kill button on a player to learn something about them.<br><br>
 Depending on the settings, it'll be either sus/not sus or their exact role.</p>
 <ul>

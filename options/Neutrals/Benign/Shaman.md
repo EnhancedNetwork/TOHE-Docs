@@ -2,7 +2,7 @@
 lang: en-US
 title: Shaman
 prev: Romantic
-next: Witch
+next: Taskinator
 ---
 
 # <font color="#50c878">🧙 <b>Shaman</b></font> <Badge text="Benign" type="tip" vertical="middle"/>

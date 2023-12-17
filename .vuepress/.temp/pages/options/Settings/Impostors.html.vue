@@ -15,7 +15,7 @@
 </tr>
 <tr>
 <td><font color=#6e003a><b>Killing</b></font></td>
-<td align="center">22</td>
+<td align="center">23</td>
 </tr>
 <tr>
 <td><font color=red><b>Madmate</b></font></td>
@@ -31,7 +31,7 @@
 </tr>
 <tr>
 <td><font color=red><b>Total:</b></font></td>
-<td align="center"><b>56</b></td>
+<td align="center"><b>57</b></td>
 </tr>
 </table>
 <br>
@@ -45,7 +45,7 @@
 <br></p>
 <h3 id="killing" tabindex="-1"><a class="header-anchor" href="#killing" aria-hidden="true">#</a> <font color=#b22222><b>Killing</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Impostors/Killing/Arrogance.html">Arrogance</RouterLink> | <RouterLink to="/options/Impostors/Killing/Berserker.html">Berserker</RouterLink> | <RouterLink to="/options/Impostors/Killing/Bomber.html">Bomber</RouterLink> | <RouterLink to="/options/Impostors/Killing/BountyHunter.html">Bounty Hunter</RouterLink> | <RouterLink to="/options/Impostors/Killing/Chronomancer.html">Chronomancer</RouterLink> | <RouterLink to="/options/Impostors/Killing/Councillor.html">Councillor</RouterLink> | <RouterLink to="/options/Impostors/Killing/CursedWolf.html">Cursed Wolf</RouterLink> | <RouterLink to="/options/Impostors/Killing/Deathpact.html">Deathpact</RouterLink> | <RouterLink to="/options/Impostors/Killing/EvilGuesser.html">Evil Guesser</RouterLink> | <RouterLink to="/options/Impostors/Killing/EvilTracker.html">Evil Tracker</RouterLink> | <RouterLink to="/options/Impostors/Killing/Greedy.html">Greedy</RouterLink> | <RouterLink to="/options/Impostors/Killing/Inhibitor.html">Inhibitor</RouterLink> | <RouterLink to="/options/Impostors/Killing/Ludopath.html">Ludopath</RouterLink> | <RouterLink to="/options/Impostors/Killing/Lurker.html">Lurker</RouterLink> | <RouterLink to="/options/Impostors/Killing/Mercenary.html">Mercenary</RouterLink> | <RouterLink to="/options/Impostors/Killing/Ninja.html">Ninja</RouterLink> | <RouterLink to="/options/Impostors/Killing/Quickshooter.html">Quick Shooter</RouterLink> | <RouterLink to="/options/Impostors/Killing/Saboteur.html">Saboteur</RouterLink> | <RouterLink to="/options/Impostors/Killing/Sniper.html">Sniper</RouterLink> | <RouterLink to="/options/Impostors/Killing/Spellcaster.html">Spellcaster</RouterLink> | <RouterLink to="/options/Impostors/Killing/Trapster.html">Trapster</RouterLink> | <RouterLink to="/options/Impostors/Killing/Underdog.html">Underdog</RouterLink>
+<p><RouterLink to="/options/Impostors/Killing/Arrogance.html">Arrogance</RouterLink> | <RouterLink to="/options/Impostors/Killing/Berserker.html">Berserker</RouterLink> | <RouterLink to="/options/Impostors/Killing/Bomber.html">Bomber</RouterLink> | <RouterLink to="/options/Impostors/Killing/BountyHunter.html">Bounty Hunter</RouterLink> | <RouterLink to="/options/Impostors/Killing/Chronomancer.html">Chronomancer</RouterLink> | <RouterLink to="/options/Impostors/Killing/Councillor.html">Councillor</RouterLink> | <RouterLink to="/options/Impostors/Killing/CursedWolf.html">Cursed Wolf</RouterLink> | <RouterLink to="/options/Impostors/Killing/Deathpact.html">Deathpact</RouterLink> | <RouterLink to="/options/Impostors/Killing/EvilGuesser.html">Evil Guesser</RouterLink> | <RouterLink to="/options/Impostors/Killing/EvilTracker.html">Evil Tracker</RouterLink> | <RouterLink to="/options/Impostors/Killing/Greedy.html">Greedy</RouterLink> | <RouterLink to="/options/Impostors/Killing/Inhibitor.html">Inhibitor</RouterLink> | <RouterLink to="/options/Impostors/Killing/Instigator.html">Instigator</RouterLink> | <RouterLink to="/options/Impostors/Killing/Ludopath.html">Ludopath</RouterLink> | <RouterLink to="/options/Impostors/Killing/Lurker.html">Lurker</RouterLink> | <RouterLink to="/options/Impostors/Killing/Mercenary.html">Mercenary</RouterLink> | <RouterLink to="/options/Impostors/Killing/Ninja.html">Ninja</RouterLink> | <RouterLink to="/options/Impostors/Killing/Quickshooter.html">Quick Shooter</RouterLink> | <RouterLink to="/options/Impostors/Killing/Saboteur.html">Saboteur</RouterLink> | <RouterLink to="/options/Impostors/Killing/Sniper.html">Sniper</RouterLink> | <RouterLink to="/options/Impostors/Killing/Spellcaster.html">Spellcaster</RouterLink> | <RouterLink to="/options/Impostors/Killing/Trapster.html">Trapster</RouterLink> | <RouterLink to="/options/Impostors/Killing/Underdog.html">Underdog</RouterLink>
 <br></p>
 <h3 id="madmate" tabindex="-1"><a class="header-anchor" href="#madmate" aria-hidden="true">#</a> <font color=red><b>Madmate</b></font></h3>
 <hr>

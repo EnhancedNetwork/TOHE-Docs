@@ -5,7 +5,7 @@ Minimum it can be is 1 second, while the maximum is your default kill cooldown.<
 <ul>
 <li>Max
 <ul>
-<li>Set the Maximum amount of Ludopath’s that can be in a match</li>
+<li>Set the Maximum amount of Ludopaths that can be in a match</li>
 </ul>
 </li>
 <li>Maximum kill cooldown

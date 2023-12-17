@@ -16,4 +16,8 @@ You can only kill during Lights Out. Your Kill Cooldown is shorter during Lights
 * Kill Cooldown During Lights Out
   * Set how long the Mare has to wait to kill
 
+::: tip Fun Fact
+Mare was originally a Role, but was later changed to an Impostor debuff addon.
+:::
+
 > From: TOH

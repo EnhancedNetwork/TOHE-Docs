@@ -8,7 +8,7 @@ next: Watcher
 # <font color=#eee5be>🔥 <b>Torch</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 ---
 
-Only the <font color=#8cffff>Crewmate</font> will be the Torch, who have max vision and are not affected by Lights sabotage.
+Only <font color=#8cffff>Crewmates</font> will be Torch, they will have max vision and will not be affected by Lights sabotage.
 * Max
   * Set the Maximum amount of Torches that can be in a match
 * Spawn Chance

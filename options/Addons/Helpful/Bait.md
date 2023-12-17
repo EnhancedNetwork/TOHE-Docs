@@ -8,7 +8,7 @@ next: Beartrap
 # <font color=#00f7ff>🪤 <b>Bait</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 ---
 
-When a Bait is killed, the murderer who killed the Bait will be forced to report the Bait's body. However, the skill will be invalid when the Bait is killed by a Scavenger or Cleaner.
+When a Bait is killed, the player who killed the Bait will be forced to report the Bait's body. However, the skill will be invalid when the Bait is killed by a Scavenger or Cleaner.
 * Max
   * Set the Maximum amount of Baits that can be in a match
 * Spawn Chance
@@ -23,7 +23,7 @@ When a Bait is killed, the murderer who killed the Bait will be forced to report
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
 * Minimum Report Delay
-  * Set the minimal time the killer the Bait will auto report in
+  * Set the minimal time the killer of the Bait will auto report in
 * Maximum Report Delay
   * Set the maximum time the killer of Bait will auto report in
 * Warn the killer about the upcoming self-report

@@ -7,7 +7,7 @@
 </tr>
 <tr>
 <td><font color=#046300><b>Benign</b></font></td>
-<td align="center">11</td>
+<td align="center">13</td>
 </tr>
 <tr>
 <td><font color=#d4af37><b>Chaos</b></font></td>
@@ -23,13 +23,13 @@
 </tr>
 <tr>
 <td><font color=#7c8c8d><b>Total:</b></font></td>
-<td align="center"><b>56</b></td>
+<td align="center"><b>58</b></td>
 </tr>
 </table>
 <br>
 <h3 id="benign" tabindex="-1"><a class="header-anchor" href="#benign" aria-hidden="true">#</a> <font color=#046300><b>Benign</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Neutrals/Benign/Amnesiac.html">Amnesiac</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Follower.html">Follower</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Hater.html">Hater</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Imitator.html">Imitator</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Lawyer.html">Lawyer</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Maverick.html">Maverick</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Opportunist.html">Opportunist</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Pursuer.html">Pursuer</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Romantic.html">Romantic</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Shaman.html">Shaman</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Witch.html">Witch</RouterLink>
+<p><RouterLink to="/options/Neutrals/Benign/Amnesiac.html">Amnesiac</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Follower.html">Follower</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Hater.html">Hater</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Imitator.html">Imitator</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Lawyer.html">Lawyer</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Maverick.html">Maverick</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Opportunist.html">Opportunist</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Pixie.html">Pixie</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Pursuer.html">Pursuer</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Romantic.html">Romantic</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Shaman.html">Shaman</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Taskinator.html">Taskinator</RouterLink> | <RouterLink to="/options/Neutrals/Benign/Witch.html">Witch</RouterLink>
 <br></p>
 <h3 id="chaos" tabindex="-1"><a class="header-anchor" href="#chaos" aria-hidden="true">#</a> <font color=#d4af37><b>Chaos</b></font></h3>
 <hr>

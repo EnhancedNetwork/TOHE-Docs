@@ -11,7 +11,7 @@
 </li>
 <li>Map
 <ul>
-<li>Choose the Map between Skeld, Mira HQ, Polus, or Airship</li>
+<li>Choose the Map between The Skeld, MIRA HQ, Polus, Airship, or The Fungle</li>
 </ul>
 </li>
 <li>Impostors

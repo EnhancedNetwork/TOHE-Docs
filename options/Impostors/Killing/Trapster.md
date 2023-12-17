@@ -10,7 +10,6 @@ next: Underdog
 
 As the Trapster, your main method of killing is by body reports.<br>
 When someone tries to report a body you killed, they'll die.
-
 * Max
   * Set the Maximum amount of Trapsters that can be in a match
 * Kill Cooldown

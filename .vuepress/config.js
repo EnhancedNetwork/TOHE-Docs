@@ -189,6 +189,7 @@ export default ({
                 { text: 'Nice Mini', link: '/options/Crewmates/Basic/MiniNice.html' }
               ]
             },
+            { text: 'Randomizer', link: '/options/Crewmates/Basic/Randomizer.html' },
             { text: 'Super Star', link: '/options/Crewmates/Basic/SuperStar.html' },
             { text: 'Task Manager', link: '/options/Crewmates/Basic/TaskManager.html' },
             { text: 'Tracefinder', link: '/options/Crewmates/Basic/Tracefinder.html' },
@@ -230,6 +231,7 @@ export default ({
             { text: 'Coroner', link: '/options/Crewmates/Support/Coroner.html' },
             { text: 'Deputy', link: '/options/Crewmates/Support/Deputy.html' },
             { text: 'Detective', link: '/options/Crewmates/Support/Detective.html' },
+            { text: 'Enigma', link: '/options/Crewmates/Support/Enigma.html' },
             { text: 'Fortune Teller', link: '/options/Crewmates/Support/FortuneTeller.html' },
             { text: 'Grenadier', link: '/options/Crewmates/Support/Grenadier.html' },
             { text: 'Inspector', link: '/options/Crewmates/Support/Inspector.html' },
@@ -260,7 +262,7 @@ export default ({
           '/options/Experimental/Addon/': [
             { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },
             { text: 'Fool', link: '/options/Experimental/Addon/Fool.html' },
-            { text: 'OIIAI', link: '/options/Experimental/Addon/OIIAI.html' },
+            { text: 'Oiiai Cat', link: '/options/Experimental/Addon/OiiaiCat.html' },
             { text: 'YouTuber', link: '/options/Experimental/Addon/YouTuber.html' },
           ],
           '/options/Experimental/Crewmate/': [
@@ -335,6 +337,7 @@ export default ({
             { text: 'Evil Tracker', link: '/options/Impostors/Killing/EvilTracker.html' },
             { text: 'Greedy', link: '/options/Impostors/Killing/Greedy.html' },
             { text: 'Inhibitor', link: '/options/Impostors/Killing/Inhibitor.html' },
+            { text: 'Instigator', link: '/options/Impostors/Killing/Instigator.html' },
             { text: 'Ludopath', link: '/options/Impostors/Killing/Ludopath.html' },
             { text: 'Lurker', link: '/options/Impostors/Killing/Lurker.html' },
             { text: 'Mercenary', link: '/options/Impostors/Killing/Mercenary.html' },
@@ -380,6 +383,7 @@ export default ({
             { text: 'Lawyer', link: '/options/Neutrals/Benign/Lawyer.html' },
             { text: 'Maverick', link: '/options/Neutrals/Benign/Maverick.html' },
             { text: 'Opportunist', link: '/options/Neutrals/Benign/Opportunist.html' },
+            { text: 'Pixie', link: '/options/Neutrals/Benign/Pixie.html' },
             { text: 'Pursuer', link: '/options/Neutrals/Benign/Pursuer.html' },
             {
               text: 'Romantic', link: '/options/Neutrals/Benign/Romantic.html', children: [
@@ -388,6 +392,7 @@ export default ({
               ]
             },
             { text: 'Shaman', link: '/options/Neutrals/Benign/Shaman.html' },
+            { text: 'Taskinator', link: '/options/Neutrals/Benign/Taskinator.html' },
             { text: 'Witch', link: '/options/Neutrals/Benign/Witch.html' },
           ],
           '/options/Neutrals/Chaos': [
@@ -442,7 +447,6 @@ export default ({
             { text: 'Potion Master', link: '/options/Neutrals/Killing/PotionMaster.html' },
             { text: 'Pyromaniac', link: '/options/Neutrals/Killing/Pyromaniac.html' },
             { text: 'Serial Killer', link: '/options/Neutrals/Killing/SerialKiller.html' },
-            { text: 'Shade', link: '/options/Neutrals/Killing/Shade.html' },
             { text: 'Shroud', link: '/options/Neutrals/Killing/Shroud.html' },
             { text: 'Stalker', link: '/options/Neutrals/Killing/Stalker.html' },
             { text: 'Traitor', link: '/options/Neutrals/Killing/Traitor.html' },

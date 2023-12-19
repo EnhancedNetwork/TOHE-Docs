@@ -8,9 +8,9 @@ title: Installation
 
 ## Distribution Policy
 
-<b>Dev and Canary Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
+<b>Dev Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
 If you are a content creator, you may use these builds in your videos, but you may not provide a download link to your viewers. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked.<br><br>
-This policy is in place to keep the integrity of our Sponsor, Contributor, Tester, Nitro Booster, and Translator roles. If you are interested in becoming one of these roles, please see the below sections for more information.</b>
+This policy is in place to keep the integrity of our Sponsor, Contributor, Tester, and Translator roles. If you are interested in becoming one of these roles, please see the below sections for more information.</b>
 
 ## MANUAL INSTALLATION
 Installation requires that you own a PC version of Among Us on Steam, Epic, or Itch. 
@@ -53,10 +53,4 @@ Keep an eye on the [releases page](https://github.com/0xDrMoe/TownofHost-Enhance
 Once you have been accepted into one of the above roles, you will be able to access the #dev-builds channel in the [Town of Host: Enhanced Discord](https://discord.gg/tohe)
 
 ## How to gain Canary Builds Access<br>
-* Accessible by Translators, Nitro Boosters, and Sponsors that are at least Initiate tier.<br>
-`NOT FOR DISTRIBUTION`
-- To become a <b>Nitro Booster</b>, you must boost the [Town of Host: Enhanced Discord](https://discord.gg/tohe) server
-- To become a <b>Translator</b>, you need to help with translating the mod into other languages. You can find more information about this in the [Town of Host: Enhanced Discord](https://discord.gg/tohe)
-- To become a <b>Sponsor</b>, you need to purchase a tier on our [Ko-fi](https://ko-fi.com/TOHEN) (For Canary Builds access specifically, you need to purchase at least Initiate tier (lowest tier) for $3.00)
-
-Once you have been accepted into one of the above roles, you will be able to access the #canary-builds channel in the [Town of Host: Enhanced Discord](https://discord.gg/tohe).
+* Visit the [TOH: Enhanced Discord](https://discord.gg/tohe) and visit #canary-builds, and download the latest dll!

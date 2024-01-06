@@ -15,7 +15,61 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 
 ---
 
-## <font size=5em><b>Latest: v1.3.1 Canary 1</b></font><br>
+## <font size=5em><b>Latest: v1.3.1 Canary 3</b></font><br>
++ By [**Drakos**](https://github.com/Ultradragon005)
+\+ <font color=green><b>NEW</b></font>: Impostor Support role: [Kamikaze](/options/Impostors/Support/Kamikaze.html) (TOHE ORIGINAL :D)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix `<INVALID:AlchemistPotionDidNothing>`<br>
+
+* By [**LezaiYa**](https://github.com/LezaiYa) <br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Correcting translation and string conflicts<br>
+
++ By [**Plaguer**](https://github.com/VillainsRule)
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix spelling in enigma clue<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Change flags in rpcguardandkill
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix tohe in vanilla room<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix the bug where non hosts can trigger spam chats<br>
+\+ <font color=green><b>NEW</b></font>: Added Modded Chinese regions<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent-MM-mass-Shapeshift from crashing lobbies (Please set When cheating player is found option to notify for now)<br>
+
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: EAC by API<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Returned keeper's vote after selecting target (it can now select different person to vote)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix pixie target not being reset when meeting skipped<br>
+\+ <font color=green><b>NEW</b></font>: New Setting captain number of tasks required to slow and reveal<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix count types when main role is assigned<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix few roles that are unable to guess getting doubleshot<br>
+
+## <font size=5em><b>v1.3.1 Canary 2</b></font><br>
+* By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Updater<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent players from vote kicking debug hosts<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed new line in pasted article will automatically send the chat<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: EAC spam crashing the host should be fixed<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed pressing v "use imp vent joystick" spamming errors<br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Setting: "Change Decontamination Time" (Try this out!)<br>
+\+ <font color=green><b>NEW</b></font>: Setting: "Remove Pets At Dead Players" returned<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved sync game settings during the game and some code improvements to performance<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed tag for vanilla players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when notice message was not cleared during the start of a meeting<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Some code changes to make log information more readable<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when some of the settings in the "Disable Task" for The Fungle map were placed incorrectly<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed critical bug when game cannot be end by Sabotage and by done all tasks<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Cleansed Flash still has high speed<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Merchant sometimes didn't work<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed `<Invalid:BenefactorTargetGotShield>`<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when taskless Crewmate can get Mundane<br>
+
+* By [**LezaiYa**](https://github.com/LezaiYa) <br>
+\+ <font color=green><b>NEW</b></font>: Added a skill icon for Vulture, Pursuer, Cleaner (for modded)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug whan Nice Mini can be guessed to death by Guesser<br>
+
+## <font size=5em><b>v1.3.1 Canary 1</b></font><br>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Anti first kill Host<br>

@@ -15,57 +15,32 @@ sidebar:
 
 ---
 
-## <font size=5em><b>Latest Mod Changelogs: v1.3.1 Canary 1</b></font><br>
+## <font size=5em><b>Latest Mod Changelogs: v1.3.1 Canary 3</b></font><br>
+
++ By [**Drakos**](https://github.com/Ultradragon005)
+\+ <font color=green><b>NEW</b></font>: Impostor Support role: [Kamikaze](/options/Impostors/Support/Kamikaze.html) (TOHE ORIGINAL :D)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix `<INVALID:AlchemistPotionDidNothing>`<br>
+
+* By [**LezaiYa**](https://github.com/LezaiYa) <br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Correcting translation and string conflicts<br>
+
++ By [**Plaguer**](https://github.com/VillainsRule)
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix spelling in enigma clue<br>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Anti first kill Host<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved EAC<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix ChatCommandPatch<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix meeting button broken<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix eac sabotage check<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Solsticer and Pelican interaction<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix dictator and solsticer interaction<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix player from voting a dead or disconnected player, and should return the vote if target is dead or null (Improve the logic to skip vote finished checks)<br>
-\- <font color=red><b>REMOVED</b></font>: Remove GAngle and FFAKiller and some obvious roles from guesser gui<br>
-\+ <font color=green><b>NEW</b></font>: Experimental Neutral role: [Solsticer](/options/Experimental/Neutral/Solsticer.html)<br>
-\+ <font color=green><b>NEW</b></font>: Helpful Add-on: [Silent](/options/Addons/Helpful/Silent.html)<br>
-
-* By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Visual Bug With Negative Task<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Neutral Killers Can Be Madmate<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Bug When Players Stuck In Walls After Teleporting<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix bug where roles that use vent to trigger power spawning in ehT dlekS<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Many other miscellaneous bug fixes and changes to improve code redability (This is done because vents do not work on ehT dlekS)<br>
-\+ <font color=green><b>NEW</b></font>: Returned Helpful Add-on: [Flash](/options/Addons/Helpful/Flash.html)<br>
-\+ <font color=green><b>NEW</b></font>: Support map dlekS ehT (Thanks sleepyut (@Galster-dev on github))<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Change flags in rpcguardandkill
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix tohe in vanilla room<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix the bug where non hosts can trigger spam chats<br>
+\+ <font color=green><b>NEW</b></font>: Added Modded Chinese regions<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent-MM-mass-Shapeshift from crashing lobbies (Please set When cheating player is found option to notify for now)<br>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix bug necromancer kill animation shown twice<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix taskinator kicking modded clients<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Console now appears only for people with debugger perms<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Made fool incompatible with repairman<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Some other miscellaneous changes<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Taskinator killing dead players<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Romantic spamming error<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Workaholic getting double shot<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix copycat copying swapper<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix workaholic getting onbound, rebound and doubleshot when cant be guessed and cant guess<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix bounty hunter teammate becoming BH target<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix captain target speed not resetting after meeting<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Host showing romantic partner to romantic if on modded client<br>
-\+ <font color=green><b>NEW</b></font>: Added chat commands /tpin and /tpout (to tp vanilla players in and out of ship in lobby)<br>
-\+ <font color=green><b>NEW</b></font>: Added jester not win info in exile message for next meeting <br>
-\+ <font color=green><b>NEW</b></font>: Crewmate Power role: [Captain](/options/Crewmates/Power/Captain.html)<br>
-\+ <font color=green><b>NEW</b></font>: Crewmate Basic role: [Mole](/options/Crewmates/Basic/Mole.html)<br>
-\+ <font color=green><b>NEW</b></font>: Crewmate Support role: [Benefactor](/options/Crewmates/Support/Benefactor.html)<br>
-\+ <font color=green><b>NEW</b></font>: Crewmate Support role: [Keeper](/options/Crewmates/Support/Keeper.html)<br>
-\+ <font color=green><b>NEW</b></font>: Crewmate Basic role: [Guess Master](/options/Crewmates/Basic/GuessMaster.html)<br>
-\+ <font color=green><b>NEW</b></font>: Harmful Add-on: [Mundane](/options/Addons/Harmful/Mundane.html)<br>
-\+ <font color=green><b>NEW</b></font>: Ported FFA from TOHE+ (Thanks gurge44) (Fixed random spawns, setting vent when 2 players alive, setting cant vent when kill cd is up and many other miscellaneous bugs in FFA mode)<br>
-
-* By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
-\+ <font color=green><b>NEW</b></font>: Added new feature: Update Button (Heavy WIP)<br>
-\+ <font color=green><b>NEW</b></font>: Add region: Modded SA (MSA)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: EAC by API<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Returned keeper's vote after selecting target (it can now select different person to vote)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix pixie target not being reset when meeting skipped<br>
+\+ <font color=green><b>NEW</b></font>: New Setting captain number of tasks required to slow and reveal<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix count types when main role is assigned<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix few roles that are unable to guess getting doubleshot<br>
 
 #### (All Changes/Commits can be seen on [GitHub](https://github.com/0xDrMoe/TownofHost-Enhanced/commits/main))
 
@@ -77,6 +52,6 @@ sidebar:
 = <font color=#F6BE00><b>CHANGE</b></font>: Added formatting info to `Advanced.md` + `TOHE-Data` Info<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Furo's Bio in `AboutUs.md` <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated Role Counts, Sidebars, and Tables. <br>
-= Updated to v1.3.1 Canary 1<br>
+= Updated to v1.3.1 Canary 4<br>
 \+ Have a good day!<br>
-= <font color=#fdf08e><b>NOTE</b></font>: This will be the last site update from me (Pyro) until Febuary/March 2024, as I'm leaving to Jersey for a long trip on December 19th (tomorrow at the time of writing)<br>
+= <font color=#fdf08e><b>NOTE</b></font>: I will still be updating the site, but a tad less than I usually do. This is because I'm in Jersey, until Febuary/March. -Pyro<br>

@@ -12,12 +12,12 @@ title: Installation
 If you are a content creator, you may use these builds in your videos, but you may not provide a download link to your viewers. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked.<br><br>
 This policy is in place to keep the integrity of our Sponsor, Contributor, Tester, Nitro Booster, and Translator roles. If you are interested in becoming one of these roles, please see the below sections for more information.</b>
 
-## MANUAL INSTALLATION
+## MANUAL INSTALLATION STEAM
 Installation requires that you own a PC version of Among Us on Steam, Epic, or Itch. 
 
 1. Download the latest full Release of TOHE in #mod-release or [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases). You only need the main zip such as "TOHE.v1.0.0.zip", not the source code files.
 
-2. Once the download is complete, unzip it into the location of your choice. Example: C:\TOHE
+2. Once the download is complete, unzip it into a new empty folder like on desktop.
 
 3. Locate your AmongUs install. For example, if you own the game on Steam, you can find this by right clicking on the game in your library, selecting "Manage", and finally selecting "Browse local files."
 ![image](./images/SteamGetFolder.png)
@@ -27,7 +27,31 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, or I
 
 5. Within the TOHE folder, run Among Us.exe. The first time running it may take some time while the mod sets up its files. If you see a black screen, just wait a couple minutes. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.
 
-6. (Optional) Right click your Among Us.exe and click 'Create shortcut'. Move your new shortcut to wherever you can easily access it, such as your Desktop!
+6. (Optional) Right click your Among Us.exe and click 'Create shortcut'. Move your new shortcut to wherever you can easily access it, such as your Desktop! You can delete legendary.exe and EpicGamesStart.cmd since its not needed
+as a steam player.
+#### You have now installed Town of Host: Enhanced! All that remains is to start up a private lobby and customize your settings.
+
+## MANUAL INSTALLATION Epic Games
+Installation requires that you own a PC version of Among Us on Steam, Epic, or Itch. 
+
+1. Download the latest full Release of TOHE in #mod-release or [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases). You only need the main zip such as "TOHE.v1.0.0.zip", not the source code files.
+
+2. Once the download is complete, unzip it into a new empty folder somewhere like on desktop.
+
+3. Locate your AmongUs install. Find Among Us and click on the 3 dots `...` > click the folder icon button on the installation bar ![image](https://github.com/whichtwix/TOHRE-Code/assets/91138333/15241301-1de9-4288-a9aa-e45a21cb9f80)
+.
+
+4. Select all of the files in your AmongUs installation and copy them to the folder that now has the files from the TOHE release. The folder should now look something like this:
+![image](https://github.com/whichtwix/TOHRE-Code/assets/91138333/2f0416c1-101f-44a2-9fd1-49f0714254c3).
+
+5. Make sure legendary.exe does not have a (1) or any other number in it and is named exactly this.
+
+
+6. Within the TOHE folder, run EpicGamesStartGame.cmd. The first time running it may take some time while installing a prerequisite and the mod sets up its files. If you see a black screen or a console window, just wait a couple minutes. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.
+
+7. Add the folder you put the mod and among us files in as a exclusion for any antivirus you have and windows defender.
+
+8. (Optional) Right click your EpicGamesStartGame.cmd and click 'Create shortcut'. Move your new shortcut to wherever you can easily access it, such as your Desktop! You can delete steam_appid.txt since its not needed as a epic player.
 #### You have now installed Town of Host: Enhanced! All that remains is to start up a private lobby and customize your settings.
 
 ## New Releases

@@ -3,91 +3,91 @@ lang: en-US
 title: Advanced
 ---
 
-## HotKeys
+## 快捷键
 
 <table>
 <tr>
 <td colspan="3" align="center">
 <strong style="font-size: 25px">
-<b>Host-Only</b>
+<b>仅限房主</b>
 </strong>
 </td>
 </tr>
 <tr>
-<td align="center"><b>Command</b></td>
-<td align="center"><b>Function</b></td>
+<td align="center"><b>指令</b></td>
+<td align="center"><b>功能n</b></td>
 </tr>
 <tr>
 <td><kbd>F6</kbd></td>
-<td>Force skip meeting and count all active votes</td>
+<td>强制跳过会议并计算所有有效投票</td>
 </tr>
 <tr>
-<td><kbd>Ctrl</kbd>+<kbd>Right Click</kbd></td>
-<td>Kill the selected player</td>
+<td><kbd>Ctrl</kbd>+<kbd>单击右键</kbd></td>
+<td>击杀选中的玩家</td>
 </tr>
 <tr>
 <td><kbd>Shift</kbd> + <kbd>C</kbd> + <kbd>Enter</kbd></td>
-<td>Show chat bubble</td>
+<td>显示聊天对话框</td>
 </tr>
 <tr>
 <td><kbd>Shift</kbd> + <kbd>L</kbd> + <kbd>Enter</kbd></td>
-<td>Force end game</td>
+<td>强制结束游戏</td>
 </tr>
 <tr>
 <td><kbd>Shift</kbd> + <kbd>M</kbd> + <kbd>Enter</kbd></td>
-<td>Force start / end meeting</td>
+<td>强制开始/结束会议</td>
 </tr>
 <tr>
 <td><kbd>Shift</kbd></td>
-<td>Start game immediately</td>
+<td>立即开始游戏</td>
 </tr>
 <tr>
 <td><kbd>C</kbd></td>
-<td>Reset start countdown</td>
+<td>重置开始倒计时</td>
 </tr>
 <tr>
 <td><kbd>Shift</kbd> + <kbd>Ctrl</kbd>+ <kbd>N</kbd></td>
-<td>Show description of current game options</td>
+<td>显示当前游戏选项的说明</td>
 </tr>
 <tr>
 <td><kbd>Ctrl</kbd>+ <kbd>N</kbd></td>
-<td>Show current game options</td>
+<td>显示当前游戏选项</td>
 </tr>
 <tr>
 <td><kbd>Ctrl</kbd>+ <kbd>Delete</kbd></td>
-<td>Reset to default TOHE options</td>
+<td>重置为默认TOHE选项</td>
 </tr>
 <tr>
 <td><kbd>Shift</kbd> + <kbd>E</kbd> + <kbd>Enter</kbd></td>
-<td>suicide</td>
+<td>自杀</td>
 </tr>
 <tr>
 <td><kbd>Shift</kbd> + <kbd>D</kbd> + <kbd>Enter</kbd></td>
-<td>open all doors (airship)</td>
+<td>打开所有门（高空飞艇）</td>
 </tr>
 <tr>
 <td><kbd>Shift</kbd> + <kbd>K</kbd> + <kbd>Enter</kbd></td>
-<td>set your kill cooldown to 0</td>
+<td>将击杀冷却时间设为0</td>
 </tr>
 <tr>
 <td><kbd>Shift</kbd> + <kbd>T</kbd> + <kbd>Enter</kbd></td>
-<td>complete all your tasks</td>
+<td>完成所有任务</td>
 </tr>
 <tr>
 <td><kbd>Y</kbd></td>
-<td>pc sync options for all client</td>
+<td>适用于所有客户端的PC同步选项</td>
 </tr>
 <tr>
 <td><kbd>G</kbd></td>
-<td>show intros</td>
+<td>展示简介</td>
 </tr>
 <tr>
 <td><kbd>=</kbd></td>
-<td>switch task show</td>
+<td>切换任务显示</td>
 </tr>
 <tr>
 <td><kbd>I</kbd></td>
-<td>get present coordinate</td>
+<td>获取当前坐标</td>
 </tr>
 </table>
 
@@ -95,37 +95,37 @@ title: Advanced
 <tr>
 <td colspan="3" align="center">
 <strong style="font-size: 25px">
-<b>Mod-Only</b>
+<b>仅限Mod</b>
 </strong>
 </td>
 </tr>
 <tr>
-<td align="center"> <b>Command</b></td>
-<td align="center"> <b>Function</b></td>
+<td align="center"> <b>指令</b></td>
+<td align="center"> <b>功能</b></td>
 </tr>
 <tr>
 <td><kbd>Alt</kbd> + <kbd>F11</kbd></td>
-<td>Change resolution</td>
+<td>更改分辨率</td>
 </tr>
 <tr>
 <td><kbd>F5</kbd> + <kbd>T</kbd></td>
-<td>Reload custom translation</td>
+<td>重新加载自定义翻译</td>
 </tr>
 <tr>
 <td><kbd>F5</kbd> + <kbd>X</kbd></td>
-<td>Output custom translation</td>
+<td>输出自定义翻译</td>
 </tr>
 <tr>
 <td><kbd>Ctrl</kbd> + <kbd>F1</kbd></td>
-<td>Output log file to desktop</td>
+<td>将日志文件输出到桌面</td>
 </tr>
 <tr>
 <td><kbd>Alt</kbd> + <kbd>C</kbd></td>
-<td>Copy current game options</td>
+<td>复制当前游戏选项</td>
 </tr>
 <tr>
 <td><kbd>F10</kbd></td>
-<td>Open root directory of game</td>
+<td>打开游戏根目录</td>
 </tr>
 </table>
 
@@ -133,80 +133,80 @@ title: Advanced
 <tr>
 <td colspan="3" align="center">
 <strong style="font-size: 25px">
-<b>Everyone</b>
+<b>所有人可用</b>
 </strong>
 </td>
 </tr>
 <tr>
-<td align="center"> <b>Command</b></td>
-<td align="center"> <b>Function</b></td>
+<td align="center"> <b>指令</b></td>
+<td align="center"> <b>功能</b></td>
 </tr>
 <tr>
 <td><kbd>Alt</kbd> + <kbd>Enter</kbd></td>
-<td>Switch to full-screen (PC only)</td>
+<td>切换到全屏模式（仅限 PC）</td>
 </tr>
 </table>
 
-## Chat Commands
+## 聊天指令
 
-Below is a list of commands that you can use to make your experience better while playing TOHE. You can use these commands in the chat box to perform certain actions.
+B以下是您可以用来改善TOHE游戏体验的指令列表。您可以在聊天框中使用这些指令来执行某些操作。
 
-Note: Commands in bold are considered "essential" and are recommended for all players.
+注：粗体字指令被视为"基础"指令，建议所有玩家使用。
 
 <table>
 <tr>
 <td colspan="3" align="center">
 <strong style="font-size: 25px">
-<b>Everyone</b>
+<b>所有人可用</b>
 </strong>
 </td></tr>
 <tr>
-<td align="center"> <b>Command</b></td>
-<td align="center"> <b>Function</b></td>
+<td align="center"> <b>指令</b></td>
+<td align="center"> <b>功能</b></td>
 </tr>
 <tr>
 <td><b>/m</b></td>
-<td><b>Show your role description</b></td>
+<td><b>显示您的职业描述</b></td>
 </tr>
 <tr>
 <td><b>/r</b></td>
-<td><b>Show a list of active roles</b></td>
+<td><b>显示当前职业列表</b></td>
 </tr>
 <tr>
-<td><b>/r [role]</b></td>
-<td><b>Show specific role description</b></td>
+<td><b>/r [职业]</b></td>
+<td><b>显示具体的职业说明</b></td>
 </tr>
 <tr>
 <td>/win</td>
-<td>Last win players</td>
+<td>上一局赢得胜利的玩家名单</td>
 </tr>
 <tr>
 <td>/n</td>
-<td>Show current game options</td>
+<td>显示当前游戏选项</td>
 </tr>
 <tr>
 <td>/n r</td>
-<td>Show all enabled roles</td>
+<td>显示所有启用的职业</td>
 </tr>
 <tr>
 <td>/n all</td>
-<td>Show all settings</td>
+<td>显示所有设置</td>
 </tr>
 <tr>
 <td>/h</td>
-<td>Show command list</td>
+<td>显示指令列表</td>
 </tr>
 <tr>
-<td>/color [color]</td>
-<td>Set your color</td>
+<td>/color [颜色]</td>
+<td>设置你的颜色</td>
 </tr>
 <tr>
 <td>/qt</td>
-<td>Exit this lobby forever</td>
+<td>永远离开这个房间</td>
 </tr>
 <tr>
 <td>/xf</td>
-<td>Fix when name cover msg content</td>
+<td>修复名称覆盖信息内容时的问题</td>
 </tr>
 </table>
 
@@ -214,29 +214,29 @@ Note: Commands in bold are considered "essential" and are recommended for all pl
 <tr>
 <td colspan="3" align="center">
 <strong style="font-size: 25px">
-<b>Mod-Only</b>
+<b>仅限Mod</b>
 </strong>
 </td>
 </tr>
 <tr>
-<td align="center"> <b>Command</b></td>
-<td align="center"> <b>Function</b></td>
+<td align="center"> <b>指令</b></td>
+<td align="center"> <b>功能</b></td>
 </tr>
 <tr>
 <td>/dump</td>
-<td>Output log file to desktop</td>
+<td>导出日志文件到桌面</td>
 </tr>
 <tr>
 <td>/v</td>
-<td>Check all player's mod version</td>
+<td>检查所有玩家的mod版本</td>
 </tr>
 <tr>
 <td>/l</td>
-<td>Last game result</td>
+<td>上一场游戏结果</td>
 </tr>
 <tr>
-<td>/t [temp]</td>
-<td>Show template text</td>
+<td>/t [模版]</td>
+<td>显示模板文字</td>
 </tr>
 </table>
 
@@ -244,57 +244,57 @@ Note: Commands in bold are considered "essential" and are recommended for all pl
 <tr>
 <td colspan="3" align="center">
 <strong style="font-size: 25px">
-<b>Host-Only</b>
+<b>仅限房主</b>
 </strong>
 </td>
 </tr>
 <tr>
-<td align="center"> <b>Command</b></td>
-<td align="center"> <b>Function</b></td>
+<td align="center"> <b>指令</b></td>
+<td align="center"> <b>功能</b></td>
 </tr>
 <tr>
-<td><b>/s [text]</b></td>
-<td><b>Send host message</b></td>
+<td><b>/s [文本]</b></td>
+<td><b>发送房主信息</b></td>
 </tr>
 <tr>
 <td><b>/id</b></td>
-<td><b>Show all players' id</b></td>
+<td><b>显示所有玩家的ID</b></td>
 </tr>
 <tr>
-<td>/rn [name]</td>
-<td>Set your name</td>
+<td>/rn [用户名]</td>
+<td>设置你的用户名</td>
 </tr>
 <tr>
-<td>/hn [text]</td>
-<td>Hide lobby code</td>
+<td>/hn [文本]</td>
+<td>隐藏房号</td>
 </tr>
 <tr>
-<td>/level [level]</td>
-<td>Set your game level</td>
+<td>/level [等级]</td>
+<td>设置你的游戏等级</td>
 </tr>
 <tr>
-<td>/dis [crew/imp]</td>
-<td>Someone disconncted</td>
+<td>/dis [船员/内鬼]</td>
+<td>有人掉线</td>
 </tr>
 <tr>
-<td>/mw [seconds]</td>
-<td>Set message wait time</td>
+<td>/mw [秒]</td>
+<td>设置信息发送间隔时间</td>
 </tr>
 <tr>
-<td>/exe [player id]</td>
-<td>Exile player</td>
+<td>/exe [玩家ID]</td>
+<td>驱逐玩家</td>
 </tr>
 <tr>
-<td>/kill [player id]</td>
-<td>Kill player</td>
+<td>/kill [玩家ID]</td>
+<td>击杀玩家</td>
 </tr>
 <tr>
 <td>/end</td>
-<td>Force end game</td>
+<td>强制结束游戏</td>
 </tr>
 <tr>
 <td>/hy</td>
-<td>Force start/end meeting</td>
+<td>强制开启/结束会议</td>
 </tr>
 </table>
 
@@ -302,58 +302,58 @@ Note: Commands in bold are considered "essential" and are recommended for all pl
 <tr>
 <td colspan="3" align="center">
 <strong style="font-size: 25px">
-<b>Moderator-Only</b>
+<b>仅限房主</b>
 </strong>
 </td>
 </tr>
 <tr>
-<td align="center"> <b>Command</b></td>
-<td align="center"> <b>Function</b></td>
+<td align="center"> <b>指令</b></td>
+<td align="center"> <b>功能</b></td>
 </tr>
 <tr>
-<td><b>/s [text]</b></td>
-<td><b>Send moderator message</b> (if setting is on)</td>
+<td><b>/s [文本]</b></td>
+<td><b>发送房主信息</b> (如果设置打开)</td>
 </tr>
 <tr>
 <td><b>/mid</b></td>
-<td><b>Show all players' id</b></td>
+<td><b>显示所有玩家的ID</b></td>
 </tr>
 <tr>
-<td>/warn [player id] [reason]</td>
-<td>Warn specific player</td>
+<td>/warn [玩家ID] [原因]</td>
+<td>警告指定玩家</td>
 </tr>
 <tr>
-<td>/kick [player id] [reason]</td>
-<td>Kick specific player</td>
+<td>/kick [玩家ID] [原因]</td>
+<td>提出指定玩家</td>
 </tr>
 <tr>
-<td>/ban [player id] [reason]</td>
-<td>Ban specific player</td>
+<td>/ban [玩家ID] [原因]</td>
+<td>禁止制定玩家</td>
 </tr>
 <tr>
-<td>/modcolor [hexcode] [hexcode]</td>
-<td>Change the color of the moderator tag</td>
+<td>/标签颜色 [编码] [编码]</td>
+<td>更改房主标签的颜色</td>
 </tr>
 </table>
 
-## Presets
+## 预设
 
-You can save your favorite settings as presets and load them later. You can also share your presets with others. Below is a list of presets that you can use in your lobby. Make sure the file is renamed to `Options.json` before using if it isn't already. (If you do not have `File name extensions` marked on the `View` Tab, you only need to rename it to `Options`.)
+您可以将最喜欢的设置保存为预设，以后再加载。您还可以与他人共享预设。以下是您可以在大厅中使用的预设列表。如果文件尚未重命名为`Options.json`，请确保在使用前将其重命名为`Options.json`。（如果您没有在`视图`选项卡上标记`文件`名和`扩展`名 ，则只需将其重命名为`Options`）。
 
-<a href="/presets/Guesser1.cfg" download>Guesser Mode (No Judge/Sheriff Only)</a> - Drafted by: [Moe](https://github.com/0xDrMoe) <br>
-<a href="/presets/Chaos1.cfg" download>Chaos Mode (Killing Roles Enabled)</a> - Drafted by: [witch_craft_](#)
+<a href="/presets/Guesser1.cfg" download>赌怪模式（无法官/仅限警长）</a> - 制定人：[Moe](https://github.com/0xDrMoe) <br>
+<a href="/presets/Chaos1.cfg" download>混沌模式（已启用击杀角色）</a> - 制定人：[witch_craft_](#)
 
-Note: You have to put the file in the following directory: `.\Among Us\TOHE-DATA\SaveData` for it to work. (If you cannot locate `TOHE-DATA\SaveData`, try enabling `Hidden items` on the `View` Tab)
+注意： 你必须把文件放在以下目录：`.\Among Us\TOHE-DATA\SaveData` 中才能使用。（如果找不到 `TOHE-DATA\SaveData`，请尝试启用`视图`选项卡上的`隐藏项目`）。
 
-More presets coming soon!
+更多预设即将推出！
 
-## Welcome, onFirstMeeting & onMeeting auto messages
+## 欢迎，onFirstMeeting和onMeeting自动消息
 
-Open the root directory of game，find `..\Among Us\TOHE-DATA\template.txt` file.
+找到游戏的根目录 `..\Among Us\TOHE-DATA\template.txt` 文件.
 
-You can see that there are `welcome`, `OnMeeting` and other words in the file, where `welcome` is the message that will be sent when other players enter your lobby, and `OnMeeting` is the message that will be sent when each meeting starts. Where `\n` means newline. While we fully allow you to modify these files as you please, please try not to modify the format of this file to avoid game errors.
+您可以看到文件中有`Welcome`、`OnMeeting`和其他单词，其中`Welcome`是当其他玩家进入您的大厅时发送的消息，`OnMeeting`是每次会议开始时发送的信息。其中`\n`表示换行。虽然我们完全允许您随意修改这些文件，但请尽量不要修改此文件的格式，以免出现游戏错误。
 
-Valid variables:
+有效变量：
 
 - `{{PlayerSpeedMod}}` `{{CrewLightMod}}` `{{ImpostorLightMod}}` `{{KillCooldown}}`
 - `{{NumCommonTasks}}`  `{{NumLongTasks}}` `{{NumShortTasks}}`
@@ -367,13 +367,13 @@ Valid variables:
 - `{{Map}}`
 ---
 
-## Ban list, Banned Words & Banned Names
+## 禁用列表、禁用词语和禁用用户名
 
-Open the root directory of game: `..\Among Us\TOHE-DATA\`
+打开游戏根目录： `..\Among Us\TOHE-DATA\`
 
-There are four files:
+这里有四个文件:
 
-- BanList.txt: Banned players - A list of friendcodes that will be unable to join your lobby (Please use friend codes)
-- BanWords.txt: Banned Words - A list of words that will be filtered out in the chat
-- DenyName.txt: Banned Names - A list of names that will be filtered out in the game
-- template.txt: Message template ([above](#welcome-onfirstmeeting-onmeeting-auto-messages)) You can modify the welcome message and onMeeting message here
+- BanList.txt: 被禁止的玩家 - 无法加入房间的好友代码列表（请使用好友代码）
+- BanWords.txt: 禁用词语 - 聊天中将被过滤掉的词语列表
+- DenyName.txt: 禁用用户名 - 将在游戏中被过滤掉的用户名列表
+- template.txt: 信息模板 ([上面](#welcome-onfirstmeeting-onmeeting-auto-messages)) 您可以在此处修改Welcome消息和onMeeting消息

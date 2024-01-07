@@ -1,8 +1,8 @@
 <template><div><h1 id="🌌-reverie" tabindex="-1"><a class="header-anchor" href="#🌌-reverie" aria-hidden="true">#</a> <font color="#00bfff">🌌 <b>Reverie</b></font> <Badge text="Killing" type="tip" vertical="middle"/></h1>
 <hr>
-<p>As the Reverie, you can kill but your cooldown starts very high.<br><br>
-It lowers with each kill you make.<br><br>
-You win with other crewmates.</p>
+<p>As the Reverie, you can kill but your cooldown starts high.<br><br>
+It increases if you kill a crewmate and reduces otherwise.<br>
+Depending on the host's settings, you may misfire on reaching max kill cooldown and your target dies with you.<br></p>
 <ul>
 <li>Max
 <ul>

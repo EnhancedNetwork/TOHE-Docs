@@ -26,9 +26,6 @@
 </ul>
 </li>
 </ul>
-<div class="custom-container danger"><p class="custom-container-title">Fun Fact</p>
-<p>Ninja was originally called Assassin.</p>
-</div>
 <blockquote>
 <p>From: TOHR &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>
 </blockquote>

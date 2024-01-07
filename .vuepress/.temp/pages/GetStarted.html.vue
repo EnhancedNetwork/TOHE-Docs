@@ -1,8 +1,8 @@
 <template><div><h1 id="installation" tabindex="-1"><a class="header-anchor" href="#installation" aria-hidden="true">#</a> INSTALLATION</h1>
 <h2 id="distribution-policy" tabindex="-1"><a class="header-anchor" href="#distribution-policy" aria-hidden="true">#</a> Distribution Policy</h2>
-<p><b>Dev and Canary Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
+<p><b>Dev Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
 If you are a content creator, you may use these builds in your videos, but you may not provide a download link to your viewers. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked.<br><br>
-This policy is in place to keep the integrity of our Sponsor, Contributor, Tester, Nitro Booster, and Translator roles. If you are interested in becoming one of these roles, please see the below sections for more information.</b></p>
+This policy is in place to keep the integrity of our Sponsor, Contributor, Tester, and Translator roles. If you are interested in becoming one of these roles, please see the below sections for more information.</b></p>
 <h2 id="manual-installation" tabindex="-1"><a class="header-anchor" href="#manual-installation" aria-hidden="true">#</a> MANUAL INSTALLATION</h2>
 <p>Installation requires that you own a PC version of Among Us on Steam, Epic, or Itch.</p>
 <ol>
@@ -59,15 +59,8 @@ This policy is in place to keep the integrity of our Sponsor, Contributor, Teste
 <p>Once you have been accepted into one of the above roles, you will be able to access the #dev-builds channel in the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">Town of Host: Enhanced Discord<ExternalLinkIcon/></a></p>
 <h2 id="how-to-gain-canary-builds-access" tabindex="-1"><a class="header-anchor" href="#how-to-gain-canary-builds-access" aria-hidden="true">#</a> How to gain Canary Builds Access<br></h2>
 <ul>
-<li>Accessible by Translators, Nitro Boosters, and Sponsors that are at least Initiate tier.<br>
-<code v-pre>NOT FOR DISTRIBUTION</code></li>
+<li>Visit the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">TOH: Enhanced Discord<ExternalLinkIcon/></a> and visit #canary-builds, and download the latest dll!</li>
 </ul>
-<ul>
-<li>To become a <b>Nitro Booster</b>, you must boost the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">Town of Host: Enhanced Discord<ExternalLinkIcon/></a> server</li>
-<li>To become a <b>Translator</b>, you need to help with translating the mod into other languages. You can find more information about this in the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">Town of Host: Enhanced Discord<ExternalLinkIcon/></a></li>
-<li>To become a <b>Sponsor</b>, you need to purchase a tier on our <a href="https://ko-fi.com/TOHEN" target="_blank" rel="noopener noreferrer">Ko-fi<ExternalLinkIcon/></a> (For Canary Builds access specifically, you need to purchase at least Initiate tier (lowest tier) for $3.00)</li>
-</ul>
-<p>Once you have been accepted into one of the above roles, you will be able to access the #canary-builds channel in the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">Town of Host: Enhanced Discord<ExternalLinkIcon/></a>.</p>
 </div></template>
 
 

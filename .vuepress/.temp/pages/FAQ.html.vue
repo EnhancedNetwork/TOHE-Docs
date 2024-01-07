@@ -131,6 +131,8 @@ Their presence has no effect on the game, and all players know who the Game Mast
 Read near the bottom of the <RouterLink to="/GetStarted.html">Install/Get Started</RouterLink> page.</p>
 </li>
 </ol>
+<h2 id="can-you-use-the-submerged-mod-with-tohe" tabindex="-1"><a class="header-anchor" href="#can-you-use-the-submerged-mod-with-tohe" aria-hidden="true">#</a> Can you use the Submerged mod with TOHE?</h2>
+<p>While this is technically possible, we don't recommend it as Submerged still requires all players to have it to play. If you do want to attempt this, we can say that the host would need Town of Host: Enhanced (TOHE) installed (as it's intended for only the host to install), as well as having Submerged installed. All of the people in your lobby could join normally but they would need the Submerged mod installed. (This applies to any custom Among Us map, Submerged is used in the example however, as it's one of the most popular)</p>
 </div></template>
 
 

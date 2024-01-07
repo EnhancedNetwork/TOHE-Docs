@@ -1,6 +1,6 @@
 <template><div><h1 id="roles" tabindex="-1"><a class="header-anchor" href="#roles" aria-hidden="true">#</a> Roles</h1>
 <font size=4em><b>Latest Versions:</b></font><br><ul>
-<li><b><font size=3em>Dev:</font> <RouterLink to="/changelogs/Dev.html">v1.3.1 Dev 1</RouterLink></b><br></li>
+<li><b><font size=3em>Dev:</font> <RouterLink to="/changelogs/Dev.html">v1.3.1 Dev 2</RouterLink></b><br></li>
 <li><b><font size=3em>Canary:</font> <RouterLink to="/changelogs/Canary.html">v1.2.1 Canary 2</RouterLink></b><br></li>
 <li><b><font size=3em>Stable:</font> <RouterLink to="/changelogs/Stable.html">v1.3.0</RouterLink></b><br></li>
 </ul>
@@ -13,12 +13,12 @@
 <tr>
 <td><font color=#ff9ace><b>Add-ons</b></font></td>
 <td>Add-ons that can be added to any role for any player</td>
-<td align="center">51 (+1)</td>
+<td align="center">53 (+1)</td>
 </tr>
 <tr>
 <td><font color=#8cffff><b>Crewmate</b></font> </td>
 <td>Play together and win by completing all tasks/voting out all Evil</td>
-<td align="center">67</td>
+<td align="center">70</td>
 </tr>
 <tr>
 <td><font color=#76b8e0><b>Experimental</b></font></td>
@@ -37,7 +37,7 @@
 </tr>
 <tr>
 <td colspan=2><b>Total:</b></td>
-<td align="center"><b>252</b></td>
+<td align="center"><b>255</b></td>
 </tr>
 </table>
 <br>

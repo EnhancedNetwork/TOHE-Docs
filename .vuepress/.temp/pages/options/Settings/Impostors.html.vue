@@ -23,7 +23,7 @@
 </tr>
 <tr>
 <td><font color=#00ffff><b>Support</b></font> </td>
-<td align="center">12</td>
+<td align="center">13</td>
 </tr>
 <tr>
 <td><font color=#8cffff><b>Vanilla</b></font> </td>
@@ -31,7 +31,7 @@
 </tr>
 <tr>
 <td><font color=red><b>Total:</b></font></td>
-<td align="center"><b>57</b></td>
+<td align="center"><b>58</b></td>
 </tr>
 </table>
 <br>
@@ -53,7 +53,7 @@
 <br></p>
 <h3 id="support" tabindex="-1"><a class="header-anchor" href="#support" aria-hidden="true">#</a> <font color=#00ffff><b>Support</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Impostors/Support/AntiAdminer.html">Anti Adminer</RouterLink> | <RouterLink to="/options/Impostors/Support/Camouflager.html">Camouflager</RouterLink> | <RouterLink to="/options/Impostors/Support/Cleaner.html">Cleaner</RouterLink> | <RouterLink to="/options/Impostors/Support/Consigliere.html">Consigliere</RouterLink> | <RouterLink to="/options/Impostors/Support/Fireworker.html">Fireworker</RouterLink> | <RouterLink to="/options/Impostors/Support/Gangster.html">Gangster</RouterLink> | <RouterLink to="/options/Impostors/Support/Godfather.html">Godfather</RouterLink> | <RouterLink to="/options/Impostors/Support/Morphling.html">Morphling</RouterLink> | <RouterLink to="/options/Impostors/Support/Nemesis.html">Nemesis</RouterLink> | <RouterLink to="/options/Impostors/Support/TimeThief.html">Time Thief</RouterLink> | <RouterLink to="/options/Impostors/Support/Vindicator.html">Vindicator</RouterLink> | <RouterLink to="/options/Impostors/Support/Visionary.html">Visionary</RouterLink>
+<p><RouterLink to="/options/Impostors/Support/AntiAdminer.html">Anti Adminer</RouterLink> | <RouterLink to="/options/Impostors/Support/Camouflager.html">Camouflager</RouterLink> | <RouterLink to="/options/Impostors/Support/Cleaner.html">Cleaner</RouterLink> | <RouterLink to="/options/Impostors/Support/Consigliere.html">Consigliere</RouterLink> | <RouterLink to="/options/Impostors/Support/Fireworker.html">Fireworker</RouterLink> | <RouterLink to="/options/Impostors/Support/Gangster.html">Gangster</RouterLink> | <RouterLink to="/options/Impostors/Support/Godfather.html">Godfather</RouterLink> | <RouterLink to="/options/Impostors/Support/Kamikaze.html">Kamikaze</RouterLink> | <RouterLink to="/options/Impostors/Support/Morphling.html">Morphling</RouterLink> | <RouterLink to="/options/Impostors/Support/Nemesis.html">Nemesis</RouterLink> | <RouterLink to="/options/Impostors/Support/TimeThief.html">Time Thief</RouterLink> | <RouterLink to="/options/Impostors/Support/Vindicator.html">Vindicator</RouterLink> | <RouterLink to="/options/Impostors/Support/Visionary.html">Visionary</RouterLink>
 <br></p>
 <h3 id="vanilla" tabindex="-1"><a class="header-anchor" href="#vanilla" aria-hidden="true">#</a> <font color=#8cffff><b>Vanilla</b></font></h3>
 <hr>

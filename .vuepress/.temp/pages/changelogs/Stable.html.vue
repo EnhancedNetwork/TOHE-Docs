@@ -2,7 +2,62 @@
 <hr>
 <p>To access Stable Builds, visit the <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank" rel="noopener noreferrer">TOH: Enhanced Git-Hub<ExternalLinkIcon/></a> and download the latest release!</p>
 <hr>
-<h2 id="latest-v1-3-0" tabindex="-1"><a class="header-anchor" href="#latest-v1-3-0" aria-hidden="true">#</a> <font size=5em><b>Latest: v1.3.0</b></font><br></h2>
+<h2 id="latest-v1-4-0" tabindex="-1"><a class="header-anchor" href="#latest-v1-4-0" aria-hidden="true">#</a> <font size=5em><b>Latest: v1.4.0</b></font><br></h2>
+<p>###【New Roles】
++ <font color=green><b>NEW</b></font>: Benefactor (Support Crewmate - By: ryuk)
++ <font color=green><b>NEW</b></font>: Keeper (Support Crewmate - By: ryuk)
++ <font color=green><b>NEW</b></font>: Captain (Power Crewmate - By: ryuk)
++ <font color=green><b>NEW</b></font>: Mole (Basic Crewmate - By: ryuk)
++ <font color=green><b>NEW</b></font>: Guess Master (Basic Crewmate - By: ryuk)
++ <font color=green><b>NEW</b></font>: Kamikaze (Support Impostor - By: Drakos)
++ <font color=green><b>NEW</b></font>: Solsticer (Experimental Neutral - By: NikoCat223)
++ <font color=green><b>NEW</b></font>: Flash (Helpful Addon - By: TommyXL)
++ <font color=green><b>NEW</b></font>: Silent (Helpful Addon - By: NikoCat223)
++ <font color=green><b>NEW</b></font>: Mundane (Harmful Addon - By: ryuk)
+###【New Settings】
++ <font color=green><b>NEW</b></font>: dlekS ehT !paM weN (Thanks sleepyut (@Galster-dev on GitHub) and TommyXL)
++ <font color=green><b>NEW</b></font>: New Gamemode: FFA from TOHE+ (By: ryuk, Special Thanks: Gurge44)
++ <font color=green><b>NEW</b></font>: Added chat commands /tpin, /tpout - TP players in and out of ship in lobby (By: ryuk)
++ <font color=green><b>NEW</b></font>: New Setting: Prevent /quit due to malicious use (By: Furo)
++ <font color=green><b>NEW</b></font>: New Setting: Change Decontamination Time (Very Cool! Try this! By: TommyXL)
++ <font color=green><b>NEW</b></font>: Returned Setting: Remove Pets At Dead Players (By: ryuk)
++ <font color=green><b>NEW</b></font>: New Region: Modded South America - MSA (By: Pietro)
++ <font color=green><b>NEW</b></font>: New Region: Modded Chinese - Multiple (By: NikoCat223)
++ <font color=green><b>NEW</b></font>: New Button: Update! Now update the mod automatically! (By: Pietro)
+###【Changes】
++ <font color=green><b>NEW</b></font>: Added Skill Icons: Vulture, Pursuer and Cleaner (By: LeziYa)
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Updated Log Readability (By: TommyXL)
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Enhanced Anti-Cheat (EAC) now done by API (By: ryuk &amp; Moe)
+= <font color=#F6BE00><b>CHANGE</b></font>: Fool (Addon) now incompatible with Repairman (Addon) to avoid issues (By: ryuk)
+= <font color=#e08709><b>IMPROVEMENT</b></font>: System now sends message after clearing - Very Useful! (By: ryuk)
+###【Bug Fixes &amp; More】
+= <font color=#1376f0><b>BUG FIX</b></font>: Alchemist invalid string fix (By: Drakos)
+= <font color=#1376f0><b>BUG FIX</b></font>: Votes now return if a player dies mid-round or disconnects (By: NikoCat223, ryuk)
+= <font color=#1376f0><b>BUG FIX</b></font>: Multiple Bug Fixes (By: NikoCat233, LezaiYa)
+= <font color=#32CD32><b>TYPO</b></font>: Typos that have been corrected. <br>Enigma Typo (By: Plaguer)
+= <font color=#1376f0><b>BUG FIX</b></font>: Prevent-MM-Mass-Shapeshift - Set Cheating Player Notification to &quot;Notify&quot; (By: NikoCat223)
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Removed Unnecessary roles from Guesser GUIs (By: NikoCat223)
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Workaholic getting Onbound, Rebound and Double Shot when Anti-Guess Enabled (By: ryuk)
+= <font color=#1376f0><b>BUG FIX</b></font>: Several Other Misc Fixes (by: Several Contributors/Devs)
+###【Translator Credits】
++ <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font>: (By: Dx7405)
++ <font color=#1e448b><b>Dutch</b></font>: (By: apemv, madmazel_)
++ <font color=#002654><b>French</b></font>: (By: FuroYT, KevOut, Klaomi, Sansationnelle)
++ <font color=#009344><b>Italian</b></font>: (By: alot, Baphojack, Mattix606)
++ <font color=#bd0029><b>Japanese</b></font>: (By: Sunnyboi)
++ <font color=#009b3a><b>Latam (Latin American)</b></font>: (By: CreepPower)
++ <font color=#0036a7><b>Russian</b></font>: (By: chill_ultimated, Nevermore59, Shoulder Devil, TommyXL)
++ <font color=#de2910><b>Simplified Chinese</b></font>: (By: CrewCyan, Hinharrrrr, LezaiYa, NikoCat223)
++ <font color=#ffc400><b>Spanish</b></font> (By: Dawson, Sunnyboi, thewhiskas27, xxSShadow)
++ <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)</p>
+<ul>
+<li>Check out all of our translators on our website</li>
+</ul>
+<ul>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.3.0...v1.4.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.4.0 Changelog</strong><ExternalLinkIcon/></a></li>
+</ul>
+<hr>
+<h2 id="v1-3-0" tabindex="-1"><a class="header-anchor" href="#v1-3-0" aria-hidden="true">#</a> <font size=5em><b>v1.3.0</b></font><br></h2>
 <ul>
 <li>
 <p>By <a href="https://github.com/NetherDragonTw" target="_blank" rel="noopener noreferrer"><strong>NetherDragonTw</strong><ExternalLinkIcon/></a><br>

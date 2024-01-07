@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Lazy Guy
-prev: Doctor
+prev: GuessMaster
 next: Luckey
 ---
 

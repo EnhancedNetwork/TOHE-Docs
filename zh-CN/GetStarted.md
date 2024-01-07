@@ -59,4 +59,4 @@ title: Installation
 - 成为<b>翻译人员</b>, 你需要帮助将mod翻译成其他语言。你可以在[Town of Host: Enhanced Discord](https://discord.gg/tohe)中找到更多关于这方面的信息
 - 成为<b>赞助商</b>, 您需要在我们的 [Ko-fi](https://ko-fi.com/TOHEN)上购买一个层级（不支持中国大陆主流支付方式（微信，支付宝）（具体到测试版访问，您至少需要购买初始层级（最低层级），价格为 3.00 美元）
 
-一旦您被接纳为上述角色之一，您就可以访问 #canary-builds 频道 [Town of Host: Enhanced Discord](https://discord.gg/tohe).
+一旦您被接纳为上述角色之一，您就可以访问#canary-builds频道 [Town of Host: Enhanced Discord](https://discord.gg/tohe).

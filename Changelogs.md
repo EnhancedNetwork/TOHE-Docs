@@ -17,30 +17,54 @@ sidebar:
 
 ## <font size=5em><b>Latest Mod Changelogs: v1.3.1 Canary 3</b></font><br>
 
-+ By [**Drakos**](https://github.com/Ultradragon005)
-\+ <font color=green><b>NEW</b></font>: Impostor Support role: [Kamikaze](/options/Impostors/Support/Kamikaze.html) (TOHE ORIGINAL :D)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix `<INVALID:AlchemistPotionDidNothing>`<br>
-
-* By [**LezaiYa**](https://github.com/LezaiYa) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Correcting translation and string conflicts<br>
-
-+ By [**Plaguer**](https://github.com/VillainsRule)
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix spelling in enigma clue<br>
-
-* By [**NikoCat223**](https://github.com/NikoCat233)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Change flags in rpcguardandkill
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix tohe in vanilla room<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix the bug where non hosts can trigger spam chats<br>
-\+ <font color=green><b>NEW</b></font>: Added Modded Chinese regions<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent-MM-mass-Shapeshift from crashing lobbies (Please set When cheating player is found option to notify for now)<br>
-
-* By [**ryuk**](https://github.com/ryuk2098)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: EAC by API<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Returned keeper's vote after selecting target (it can now select different person to vote)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix pixie target not being reset when meeting skipped<br>
-\+ <font color=green><b>NEW</b></font>: New Setting captain number of tasks required to slow and reveal<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix count types when main role is assigned<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix few roles that are unable to guess getting doubleshot<br>
+###【New Roles】<br>
+\+ <font color=green><b>NEW</b></font>: Benefactor (Support Crewmate - By: ryuk)<br>
+\+ <font color=green><b>NEW</b></font>: Keeper (Support Crewmate - By: ryuk)<br>
+\+ <font color=green><b>NEW</b></font>: Captain (Power Crewmate - By: ryuk)<br>
+\+ <font color=green><b>NEW</b></font>: Mole (Basic Crewmate - By: ryuk)<br>
+\+ <font color=green><b>NEW</b></font>: Guess Master (Basic Crewmate - By: ryuk)<br>
+\+ <font color=green><b>NEW</b></font>: Kamikaze (Support Impostor - By: Drakos)<br>
+\+ <font color=green><b>NEW</b></font>: Solsticer (Experimental Neutral - By: NikoCat223)<br>
+\+ <font color=green><b>NEW</b></font>: Flash (Helpful Addon - By: TommyXL)<br>
+\+ <font color=green><b>NEW</b></font>: Silent (Helpful Addon - By: NikoCat223)<br>
+\+ <font color=green><b>NEW</b></font>: Mundane (Harmful Addon - By: ryuk)<br>
+###【New Settings】<br>
+\+ <font color=green><b>NEW</b></font>: dlekS ehT !paM weN (Thanks sleepyut (@Galster-dev on GitHub) and TommyXL)<br>
+\+ <font color=green><b>NEW</b></font>: New Gamemode: FFA from TOHE+ (By: ryuk, Special Thanks: Gurge44)<br>
+\+ <font color=green><b>NEW</b></font>: Added chat commands /tpin, /tpout - TP players in and out of ship in lobby (By: ryuk)<br>
+\+ <font color=green><b>NEW</b></font>: New Setting: Prevent /quit due to malicious use (By: Furo)<br>
+\+ <font color=green><b>NEW</b></font>: New Setting: Change Decontamination Time (Very Cool! Try this! By: TommyXL)<br>
+\+ <font color=green><b>NEW</b></font>: Returned Setting: Remove Pets At Dead Players (By: ryuk)<br>
+\+ <font color=green><b>NEW</b></font>: New Region: Modded South America - MSA (By: Pietro)<br>
+\+ <font color=green><b>NEW</b></font>: New Region: Modded Chinese - Multiple (By: NikoCat223)<br>
+\+ <font color=green><b>NEW</b></font>: New Button: Update! Now update the mod automatically! (By: Pietro)<br>
+###【Changes】<br>
+\+ <font color=green><b>NEW</b></font>: Added Skill Icons: Vulture, Pursuer and Cleaner (By: LeziYa)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Updated Log Readability (By: TommyXL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Enhanced Anti-Cheat (EAC) now done by API (By: ryuk & Moe)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Fool (Addon) now incompatible with Repairman (Addon) to avoid issues (By: ryuk)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: System now sends message after clearing - Very Useful! (By: ryuk)<br>
+###【Bug Fixes & More】<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Alchemist invalid string fix (By: Drakos)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Votes now return if a player dies mid-round or disconnects (By: NikoCat223, ryuk)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Multiple Bug Fixes (By: NikoCat233, LezaiYa)<br>
+= <font color=#32CD32><b>TYPO</b></font>: Typos that have been corrected. <br>Enigma Typo (By: Plaguer)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Prevent-MM-Mass-Shapeshift - Set Cheating Player Notification to "Notify" (By: NikoCat223)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Removed Unnecessary roles from Guesser GUIs (By: NikoCat223)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Workaholic getting Onbound, Rebound and Double Shot when Anti-Guess Enabled (By: ryuk)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Several Other Misc Fixes (by: Several Contributors/Devs)<br>
+###【Translator Credits】<br>
+\+ <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font>: (By: Dx7405)<br>
+\+ <font color=#1e448b><b>Dutch</b></font>: (By: apemv, madmazel_)<br>
+\+ <font color=#002654><b>French</b></font>: (By: FuroYT, KevOut, Klaomi, Sansationnelle)<br>
+\+ <font color=#009344><b>Italian</b></font>: (By: alot, Baphojack, Mattix606)<br>
+\+ <font color=#bd0029><b>Japanese</b></font>: (By: Sunnyboi)<br>
+\+ <font color=#009b3a><b>Latam (Latin American)</b></font>: (By: CreepPower)<br>
+\+ <font color=#0036a7><b>Russian</b></font>: (By: chill_ultimated, Nevermore59, Shoulder Devil, TommyXL)<br>
+\+ <font color=#de2910><b>Simplified Chinese</b></font>: (By: CrewCyan, Hinharrrrr, LezaiYa, NikoCat223)<br>
+\+ <font color=#ffc400><b>Spanish</b></font> (By: Dawson, Sunnyboi, thewhiskas27, xxSShadow)<br>
+\+ <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)<br>
+- Check out all of our translators on our website<br>
 
 #### (All Changes/Commits can be seen on [GitHub](https://github.com/0xDrMoe/TownofHost-Enhanced/commits/main))
 
@@ -49,9 +73,10 @@ sidebar:
 ## <font size=5em><b>Latest Site Changelogs:</b></font><br>
 
 * By [**Pyro**](https://github.com/Pyro0TV)<br>
+= <font color=#ece218><b>NOTICE</b></font>: You may not be able to fnd new 1.4.0 roles, as there are not yet pages created for them. You may find these by other methods such as, using `/role [ROLE]` the TOM bot on the TOHE Discord, or `/r [ROLE]` in the mod itself.
 = <font color=#F6BE00><b>CHANGE</b></font>: Added formatting info to `Advanced.md` + `TOHE-Data` Info<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Furo's Bio in `AboutUs.md` <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated Role Counts, Sidebars, and Tables. <br>
-= Updated to v1.3.1 Canary 4<br>
+= Updated to v1.4.0<br>
 \+ Have a good day!<br>
 = <font color=#fdf08e><b>NOTE</b></font>: I will still be updating the site, but a tad less than I usually do. This is because I'm in Jersey, until Febuary/March. -Pyro<br>

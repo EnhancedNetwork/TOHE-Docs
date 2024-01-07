@@ -1,5 +1,5 @@
 ---
-lang: en-US
+ lang: en-US
 title: Advanced
 ---
 
@@ -15,7 +15,7 @@ title: Advanced
 </tr>
 <tr>
 <td align="center"><b>指令</b></td>
-<td align="center"><b>功能n</b></td>
+<td align="center"><b>功能</b></td>
 </tr>
 <tr>
 <td><kbd>F6</kbd></td>

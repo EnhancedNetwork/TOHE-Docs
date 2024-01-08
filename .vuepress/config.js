@@ -13,6 +13,11 @@ export default ({
       lang: 'fr-FR',
       title: 'TOHE',
       description: 'Un mod Among Us qui ajoute une tonne de nouveaux rôles et paramètres au jeu!',
+    },
+    '/zh-CN/': {
+      lang: 'zh-CN',
+      title: 'TOHE',
+      description: '一个在我们中间的模组，为游戏添加了大量新角色和设置！',
     }
   },
   bundler: viteBundler({
@@ -32,6 +37,9 @@ export default ({
         },
         '/fr/': {
           placeholder: 'Rechercher',
+        },
+        '/zh-CN/': {
+          placeholder: '搜索',
         }
       },
       maxSuggestions: 10,
@@ -573,6 +581,86 @@ export default ({
         backToHome: 'Ramenez-moi dans mon espace sécurisé s\'il vous plaît.',
         toggleColorMode: 'Basculer le mode couleur',
         selectLanguageName: 'French',
+      },
+      'zh-CN': {
+        base: '/zh-CN/',
+        navbar: [
+          {
+            text: '角色',
+            children: [
+              {
+                text: '所有角色',
+                link: 'Roles.html',
+              },
+              {
+                text: '冒牌者角色',
+                link: 'options/Settings/Impostors.html',
+              },
+              {
+                text: '船员角色',
+                link: 'options/Settings/Crewmates.html',
+              },
+              {
+                text: '中立角色',
+                link: 'options/Settings/Neutrals.html',
+              },
+              {
+                text: '附加角色',
+                link: 'options/Settings/Addons.html',
+              },
+              {
+                text: '实验性角色',
+                link: 'options/Settings/Experimental.html',
+              },
+              {
+                text: '自定义设置',
+                link: 'options/Settings/Custom.html',
+              },
+              {
+                text: '游戏设置',
+                link: 'options/Settings/Game.html',
+              },
+              {
+                text: '游戏修改器',
+                link: 'options/Settings/Modifiers.html',
+              },
+            ]
+          },
+          {
+            text: '关于',
+            link: 'AboutUs.html',
+          },
+          {
+            text: '高级',
+            link: 'Advanced.html',
+          },
+          {
+            text: '安装',
+            link: 'GetStarted.html',
+          },
+          {
+            text: '常问问题',
+            link: 'FAQ.html',
+          },
+        ],
+        repo: '0xDrMoe/TOHRE-Code',
+        repoLabel: '贡献!',
+        docsRepo: '0xDrMoe/TOHRE-Code',
+        docsBranch: 'main',
+        editLinks: true,
+        editLinkText: '帮助我们改进这个页面!',
+        notFound: [
+          '你要去哪里?',
+          '嗯? 你怎么到这儿来了?',
+          '老实说, 你是怎么到这儿来的?',
+          '这不是你要找的页面.',
+          '这里什么也没有.',
+          '不, 这里没有.',
+          '无论你在找什么, 这里都没有'
+        ],
+        backToHome: '请把我带回我的安全空间.',
+        toggleColorMode: '切换颜色模式',
+        selectLanguageName: 'Chinese',
       },
     }
   })

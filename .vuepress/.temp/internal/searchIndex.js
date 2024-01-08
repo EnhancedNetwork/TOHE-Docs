@@ -1660,6 +1660,629 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Addict",
+    "headers": [],
+    "path": "/options/Crewmates/Basic/Addict.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Alchemist",
+    "headers": [],
+    "path": "/options/Crewmates/Basic/Alchemist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Celebrity",
+    "headers": [],
+    "path": "/options/Crewmates/Basic/Celebrity.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Cleanser",
+    "headers": [],
+    "path": "/options/Crewmates/Basic/Cleanser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Doctor",
+    "headers": [],
+    "path": "/options/Crewmates/Basic/Doctor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Guess Master",
+    "headers": [],
+    "path": "/options/Crewmates/Basic/GuessMaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lazy Guy",
+    "headers": [],
+    "path": "/options/Crewmates/Basic/LazyGuy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Luckey",
+    "headers": [],
+    "path": "/options/Crewmates/Basic/Luckey.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mini",
+    "headers": [],
+    "path": "/options/Crewmates/Basic/Mini.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Evil Mini",
+    "headers": [],
+    "path": "/options/Crewmates/Basic/MiniEvil.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Nice Mini",
+    "headers": [],
+    "path": "/options/Crewmates/Basic/MiniNice.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mole",
+    "headers": [],
+    "path": "/options/Crewmates/Basic/Mole.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Randomizer",
+    "headers": [],
+    "path": "/options/Crewmates/Basic/Randomizer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Super Star",
+    "headers": [],
+    "path": "/options/Crewmates/Basic/SuperStar.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Task Manager",
+    "headers": [],
+    "path": "/options/Crewmates/Basic/TaskManager.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Tracefinder",
+    "headers": [],
+    "path": "/options/Crewmates/Basic/Tracefinder.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Transporter",
+    "headers": [],
+    "path": "/options/Crewmates/Basic/Transporter.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bastion",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Bastion.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bodyguard",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Bodyguard.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Crusader",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Crusader.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Deceiver",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Deceiver.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Jailer",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Jailer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Judge",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Judge.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Knight",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Knight.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Nice Guesser",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/NiceGuesser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Retributionist",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Retributionist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Reverie",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Reverie.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sheriff",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Sheriff.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Veteran",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/Veteran.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vigilante",
+    "headers": [],
+    "path": "/options/Crewmates/Killing/VIgilante.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Captain",
+    "headers": [],
+    "path": "/options/Crewmates/Power/Captain.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Copycat",
+    "headers": [],
+    "path": "/options/Crewmates/Power/Copycat.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Dictator",
+    "headers": [],
+    "path": "/options/Crewmates/Power/Dictator.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Guardian",
+    "headers": [],
+    "path": "/options/Crewmates/Power/Guardian.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lookout",
+    "headers": [],
+    "path": "/options/Crewmates/Power/Lookout.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Marshall",
+    "headers": [],
+    "path": "/options/Crewmates/Power/Marshall.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mayor",
+    "headers": [],
+    "path": "/options/Crewmates/Power/Mayor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Monarch",
+    "headers": [],
+    "path": "/options/Crewmates/Power/Monarch.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Overseer",
+    "headers": [],
+    "path": "/options/Crewmates/Power/Overseer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "President",
+    "headers": [],
+    "path": "/options/Crewmates/Power/President.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Swapper",
+    "headers": [],
+    "path": "/options/Crewmates/Power/Swapper.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Telecommunication",
+    "headers": [],
+    "path": "/options/Crewmates/Power/Telecommunication.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Benefactor",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Benefactor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Chameleon",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Chameleon.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Coroner",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Coroner.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Deputy",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Deputy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Detective",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Detective.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Enigma",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Enigma.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Fortune Teller",
+    "headers": [],
+    "path": "/options/Crewmates/Support/FortuneTeller.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Grenadier",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Grenadier.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Inspector",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Inspector.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Keeper",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Keeper.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lighter",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Lighter.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mechanic",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Mechanic.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Medic",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Medic.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Medium",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Medium.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Merchant",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Merchant.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mortician",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Mortician.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Observer",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Observer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Oracle",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Oracle.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Pacifist",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Pacifist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Psychic",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Psychic.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Snitch",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Snitch.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Spiritualist",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Spiritualist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Spy",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Spy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Time Manager",
+    "headers": [],
+    "path": "/options/Crewmates/Support/TimeManager.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Time Master",
+    "headers": [],
+    "path": "/options/Crewmates/Support/TimeMaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Tracker",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Tracker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Witness",
+    "headers": [],
+    "path": "/options/Crewmates/Support/Witness.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Crewmate",
+    "headers": [],
+    "path": "/options/Crewmates/Vanilla/Crewmate.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Engineer",
+    "headers": [],
+    "path": "/options/Crewmates/Vanilla/Engineer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Scientist",
+    "headers": [],
+    "path": "/options/Crewmates/Vanilla/Scientist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Fool",
+    "headers": [],
+    "path": "/options/Experimental/Addon/Fool.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Oiiai Cat",
+    "headers": [],
+    "path": "/options/Experimental/Addon/OiiaiCat.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "YouTuber",
+    "headers": [],
+    "path": "/options/Experimental/Addon/YouTuber.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Admirer",
+    "headers": [],
+    "path": "/options/Experimental/Crewmate/Admirer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Investigator",
+    "headers": [],
+    "path": "/options/Experimental/Crewmate/Investigator.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Blackmailer",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Blackmailer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Butcher",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Butcher.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Disperser",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Disperser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Eraser",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Eraser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hangman",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Hangman.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Killing Machine",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/KillingMachine.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lightning",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Lightning.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Zombie",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Zombie.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Doppelganger",
+    "headers": [],
+    "path": "/options/Experimental/Neutral/Doppelganger.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "God",
+    "headers": [],
+    "path": "/options/Experimental/Neutral/God.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Solsticer",
+    "headers": [],
+    "path": "/options/Experimental/Neutral/Solsticer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Spiritcaller",
+    "headers": [],
+    "path": "/options/Experimental/Neutral/Spiritcaller.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Disregarded",
     "headers": [],
     "path": "/options/Addons/Harmful/Disregarded.html",
@@ -2031,510 +2654,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Addict",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/Addict.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Alchemist",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/Alchemist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Celebrity",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/Celebrity.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Cleanser",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/Cleanser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Doctor",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/Doctor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Guess Master",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/GuessMaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lazy Guy",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/LazyGuy.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Luckey",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/Luckey.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mini",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/Mini.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Evil Mini",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/MiniEvil.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Nice Mini",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/MiniNice.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mole",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/Mole.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Randomizer",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/Randomizer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Super Star",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/SuperStar.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Task Manager",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/TaskManager.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Tracefinder",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/Tracefinder.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Transporter",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/Transporter.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bastion",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Bastion.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bodyguard",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Bodyguard.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Crusader",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Crusader.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Deceiver",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Deceiver.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Jailer",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Jailer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Judge",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Judge.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Knight",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Knight.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Nice Guesser",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/NiceGuesser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Retributionist",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Retributionist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Reverie",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Reverie.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sheriff",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Sheriff.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Veteran",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/Veteran.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vigilante",
-    "headers": [],
-    "path": "/options/Crewmates/Killing/VIgilante.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Captain",
-    "headers": [],
-    "path": "/options/Crewmates/Power/Captain.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Copycat",
-    "headers": [],
-    "path": "/options/Crewmates/Power/Copycat.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Dictator",
-    "headers": [],
-    "path": "/options/Crewmates/Power/Dictator.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Guardian",
-    "headers": [],
-    "path": "/options/Crewmates/Power/Guardian.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lookout",
-    "headers": [],
-    "path": "/options/Crewmates/Power/Lookout.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Marshall",
-    "headers": [],
-    "path": "/options/Crewmates/Power/Marshall.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mayor",
-    "headers": [],
-    "path": "/options/Crewmates/Power/Mayor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Monarch",
-    "headers": [],
-    "path": "/options/Crewmates/Power/Monarch.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Overseer",
-    "headers": [],
-    "path": "/options/Crewmates/Power/Overseer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "President",
-    "headers": [],
-    "path": "/options/Crewmates/Power/President.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Swapper",
-    "headers": [],
-    "path": "/options/Crewmates/Power/Swapper.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Telecommunication",
-    "headers": [],
-    "path": "/options/Crewmates/Power/Telecommunication.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Crewmate",
-    "headers": [],
-    "path": "/options/Crewmates/Vanilla/Crewmate.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Engineer",
-    "headers": [],
-    "path": "/options/Crewmates/Vanilla/Engineer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Scientist",
-    "headers": [],
-    "path": "/options/Crewmates/Vanilla/Scientist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Benefactor",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Benefactor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Chameleon",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Chameleon.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Coroner",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Coroner.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Deputy",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Deputy.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Detective",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Detective.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Enigma",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Enigma.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Fortune Teller",
-    "headers": [],
-    "path": "/options/Crewmates/Support/FortuneTeller.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Grenadier",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Grenadier.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Inspector",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Inspector.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Keeper",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Keeper.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lighter",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Lighter.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mechanic",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Mechanic.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Medic",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Medic.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Medium",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Medium.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Merchant",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Merchant.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mortician",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Mortician.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Observer",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Observer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Oracle",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Oracle.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pacifist",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Pacifist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Psychic",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Psychic.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Snitch",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Snitch.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Spiritualist",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Spiritualist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Spy",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Spy.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Time Manager",
-    "headers": [],
-    "path": "/options/Crewmates/Support/TimeManager.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Time Master",
-    "headers": [],
-    "path": "/options/Crewmates/Support/TimeMaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Tracker",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Tracker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Witness",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Witness.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Amnesiac",
     "headers": [],
     "path": "/options/Neutrals/Benign/Amnesiac.html",
@@ -2773,6 +2892,104 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Escapist",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Escapist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mastermind",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Mastermind.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Miner",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Miner.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Puppeteer",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Puppeteer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Scavenger",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Scavenger.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Shapemaster",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Shapemaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Soul Catcher",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/SoulCatcher.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Swooper",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Swooper.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Trickster",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Trickster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Undertaker",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Undertaker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vampire",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Vampire.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vampiress",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Vampiress.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Warlock",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Warlock.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Wildling",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Wildling.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Agitator",
     "headers": [],
     "path": "/options/Neutrals/Killing/Agitator.html",
@@ -2965,223 +3182,6 @@ export const searchIndex = [
     "title": "Wraith",
     "headers": [],
     "path": "/options/Neutrals/Killing/Wraith.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Fool",
-    "headers": [],
-    "path": "/options/Experimental/Addon/Fool.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Oiiai Cat",
-    "headers": [],
-    "path": "/options/Experimental/Addon/OiiaiCat.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "YouTuber",
-    "headers": [],
-    "path": "/options/Experimental/Addon/YouTuber.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Admirer",
-    "headers": [],
-    "path": "/options/Experimental/Crewmate/Admirer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Investigator",
-    "headers": [],
-    "path": "/options/Experimental/Crewmate/Investigator.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Blackmailer",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Blackmailer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Butcher",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Butcher.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Disperser",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Disperser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Eraser",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Eraser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hangman",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Hangman.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Killing Machine",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/KillingMachine.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lightning",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Lightning.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Zombie",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Zombie.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Doppelganger",
-    "headers": [],
-    "path": "/options/Experimental/Neutral/Doppelganger.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "God",
-    "headers": [],
-    "path": "/options/Experimental/Neutral/God.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Solsticer",
-    "headers": [],
-    "path": "/options/Experimental/Neutral/Solsticer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Spiritcaller",
-    "headers": [],
-    "path": "/options/Experimental/Neutral/Spiritcaller.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Escapist",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Escapist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mastermind",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Mastermind.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Miner",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Miner.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Puppeteer",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Puppeteer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Scavenger",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Scavenger.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Shapemaster",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Shapemaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Soul Catcher",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/SoulCatcher.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Swooper",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Swooper.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Trickster",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Trickster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Undertaker",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Undertaker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vampire",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Vampire.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vampiress",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Vampiress.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Warlock",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Warlock.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Wildling",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Wildling.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -4046,6 +4046,34 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Egoist",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Miscellaneous/Egoist.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Lovers",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Miscellaneous/Lovers.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Reach",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Miscellaneous/Reach.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Workhorse",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Miscellaneous/Workhorse.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
     "title": "Antidote",
     "headers": [],
     "path": "/zh-CN/options/Addons/Mixed/Antidote.html",
@@ -4119,34 +4147,6 @@ export const searchIndex = [
     "title": "Stubborn",
     "headers": [],
     "path": "/zh-CN/options/Addons/Mixed/Stubborn.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Egoist",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Miscellaneous/Egoist.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Lovers",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Miscellaneous/Lovers.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Reach",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Miscellaneous/Reach.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Workhorse",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Miscellaneous/Workhorse.html",
     "pathLocale": "/zh-CN/",
     "extraFields": []
   },
@@ -4424,6 +4424,27 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Fool",
+    "headers": [],
+    "path": "/zh-CN/options/Experimental/Addon/Fool.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Oiiai Cat",
+    "headers": [],
+    "path": "/zh-CN/options/Experimental/Addon/OiiaiCat.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "YouTuber",
+    "headers": [],
+    "path": "/zh-CN/options/Experimental/Addon/YouTuber.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
     "title": "Chameleon",
     "headers": [],
     "path": "/zh-CN/options/Crewmates/Support/Chameleon.html",
@@ -4616,27 +4637,6 @@ export const searchIndex = [
     "title": "Scientist",
     "headers": [],
     "path": "/zh-CN/options/Crewmates/Vanilla/Scientist.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Fool",
-    "headers": [],
-    "path": "/zh-CN/options/Experimental/Addon/Fool.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Oiiai Cat",
-    "headers": [],
-    "path": "/zh-CN/options/Experimental/Addon/OiiaiCat.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "YouTuber",
-    "headers": [],
-    "path": "/zh-CN/options/Experimental/Addon/YouTuber.html",
     "pathLocale": "/zh-CN/",
     "extraFields": []
   },

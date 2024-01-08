@@ -1,12 +1,12 @@
 ---
 lang: en-US
-title: Changelogs Tags
+title: Canary Changelogs
 sidebar:
-- { text: Latest Changelog, link: /Changelogs.html}
-- { text: Changelogs Tags, link: /changelogs/Tags.html}
-- { text: Previous Stable Changelogs, link: /changelogs/Stable.html}
-- { text: Previous Canary Changelogs, link: /changelogs/Canary.html}
-- { text: Previous Dev Changelogs, link: /changelogs/Dev.html}
+- { text: Latest Changelog, link: /ChangelogsMain.html}
+- { text: Changelogs Tags, link: /changelogs/TagsChangelogs.html}
+- { text: Previous Stable Changelogs, link: /changelogs/StableChangelogs.html}
+- { text: Previous Canary Changelogs, link: /changelogs/CanaryChangelogs.html}
+- { text: Previous Dev Changelogs, link: /changelogs/DevChangelogs.html}
 ---
 
 # Recently Added Tags

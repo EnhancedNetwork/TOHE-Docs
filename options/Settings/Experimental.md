@@ -16,12 +16,12 @@ next: Impostors
 
 <tr>
 <td><font color=#ff9ace><b>Add-ons</b></font></td>
-<td align="center">2</td>
+<td align="center">3</td>
 </tr>
 
 <tr>
 <td><font color=#8cffff><b>Crewmate</b></font> </td>
-<td align="center">3</td>
+<td align="center">2</td>
 </tr>
 
 <tr>

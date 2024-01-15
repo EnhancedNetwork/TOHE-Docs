@@ -32,7 +32,7 @@ next: Crewmates
 
 <tr>
 <td><font color=red><b>Madmate</b></font></td>
-<td align="center">2</td>
+<td align="center">4</td>
 </tr>
 
 <tr>
@@ -47,7 +47,7 @@ next: Crewmates
 
 <tr>
 <td><font color=red><b>Total:</b></font></td>
-<td align="center"><b>58</b></td>
+<td align="center"><b>60</b></td>
 </tr>
 
 </table>

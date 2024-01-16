@@ -17,7 +17,7 @@ next: Crewmates
 
 <tr>
 <td><font color=indigo><b>Concealing</b></font></td>
-<td align="center">13</td>
+<td align="center">14</td>
 </tr>
 
 <tr>
@@ -47,7 +47,7 @@ next: Crewmates
 
 <tr>
 <td><font color=red><b>Total:</b></font></td>
-<td align="center"><b>60</b></td>
+<td align="center"><b>61</b></td>
 </tr>
 
 </table>
@@ -55,7 +55,7 @@ next: Crewmates
 
 ### <font color=indigo><b>Concealing</b></font>
 ---
-[Escapist](/options/Impostors/Concealing/Escapist.html) | [Mastermind](/options/Impostors/Concealing/Mastermind.html) | [Miner](/options/Impostors/Concealing/Miner.html) | [Puppeteer](/options/Impostors/Concealing/Puppeteer.html) | [Scavenger](/options/Impostors/Concealing/Scavenger.html) | [Shapemaster](/options/Impostors/Concealing/Shapemaster.html) | [Soul Catcher](/options/Impostors/Concealing/SoulCatcher.html) | [Swooper](/options/Impostors/Concealing/Swooper.html) | [Trickster](/options/Impostors/Concealing/Trickster.html) | [Undertaker](/options/Impostors/Concealing/Undertaker.html) | [Vampire](/options/Impostors/Concealing/Vampire.html) | [Warlock](/options/Impostors/Concealing/Warlock.html) | [Wildling](/options/Impostors/Concealing/Wildling.html)
+[Escapist](/options/Impostors/Concealing/Escapist.html) | [Mastermind](/options/Impostors/Concealing/Mastermind.html) | [Miner](/options/Impostors/Concealing/Miner.html) | [Puppeteer](/options/Impostors/Concealing/Puppeteer.html) | [Rift Maker](/options/Impostors/Concealing/RiftMaker.html) | [Scavenger](/options/Impostors/Concealing/Scavenger.html) | [Shapemaster](/options/Impostors/Concealing/Shapemaster.html) | [Soul Catcher](/options/Impostors/Concealing/SoulCatcher.html) | [Swooper](/options/Impostors/Concealing/Swooper.html) | [Trickster](/options/Impostors/Concealing/Trickster.html) | [Undertaker](/options/Impostors/Concealing/Undertaker.html) | [Vampire](/options/Impostors/Concealing/Vampire.html) | [Warlock](/options/Impostors/Concealing/Warlock.html) | [Wildling](/options/Impostors/Concealing/Wildling.html)
 <br>
 
 ### <font color=#636363><b>Hindering</b></font>

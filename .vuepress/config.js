@@ -312,6 +312,7 @@ export default ({
             { text: 'Mastermind', link: '/options/Impostors/Concealing/Mastermind.html' },
             { text: 'Miner', link: '/options/Impostors/Concealing/Miner.html' },
             { text: 'Puppeteer', link: '/options/Impostors/Concealing/Puppeteer.html' },
+            { text: 'Rift Maker', link: '/options/Impostors/Concealing/RiftMaker.html' },
             { text: 'Scavenger', link: '/options/Impostors/Concealing/Scavenger.html' },
             { text: 'Shapemaster', link: '/options/Impostors/Concealing/Shapemaster.html' },
             { text: 'Soul Catcher', link: '/options/Impostors/Concealing/SoulCatcher.html' },

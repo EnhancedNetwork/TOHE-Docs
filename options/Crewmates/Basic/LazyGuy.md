@@ -2,7 +2,7 @@
 lang: en-US
 title: Lazy Guy
 prev: GuessMaster
-next: Luckey
+next: Mini
 ---
 
 # <font color="#a2ddfb">🛋️ <b>Lazy Guy</b></font> <Badge text="Basic" type="tip" vertical="middle"/>

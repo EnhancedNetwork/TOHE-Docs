@@ -16,7 +16,7 @@ next: Neutrals
 </tr>
 <tr>
 <td><font color=#e69c9c><b>Basic</b></font></td>
-<td align="center">14</td>
+<td align="center">13</td>
 </tr>
 
 <tr>
@@ -41,7 +41,7 @@ next: Neutrals
 
 <tr>
 <td><font color=#8cffff><b>Total:</b></font></td>
-<td align="center"><b>70</b></td>
+<td align="center"><b>69</b></td>
 </tr>
 
 </table>
@@ -49,7 +49,7 @@ next: Neutrals
 
 ### <font color=#e69c9c><b>Basic</b></font>
 ---
-[Addict](/options/Crewmates/Basic/Addict.html) | [Alchemist](/options/Crewmates/Basic/Alchemist.html) | [Celebrity](/options/Crewmates/Basic/Celebrity.html) | [Cleanser](/options/Crewmates/Basic/Cleanser.html) | [Doctor](/options/Crewmates/Basic/Doctor.html) | [Guess Master](/options/Crewmates/Basic/GuessMaster.html) | [Lazy Guy](/options/Crewmates/Basic/LazyGuy.html) | [Luckey](/options/Crewmates/Basic/Luckey.html) | [Mini](/options/Crewmates/Basic/Mini.html) | [Mole](/options/Crewmates/Basic/Mole.html) | [Super Star](/options/Crewmates/Basic/SuperStar.html) | [Randomizer](/options/Crewmates/Basic/Randomizer.html) | [Task Manager](/options/Crewmates/Basic/TaskManager.html) | [Tracefinder](/options/Crewmates/Basic/Tracefinder.html) | [Transporter](/options/Crewmates/Basic/Transporter.html)
+[Addict](/options/Crewmates/Basic/Addict.html) | [Alchemist](/options/Crewmates/Basic/Alchemist.html) | [Celebrity](/options/Crewmates/Basic/Celebrity.html) | [Cleanser](/options/Crewmates/Basic/Cleanser.html) | [Doctor](/options/Crewmates/Basic/Doctor.html) | [Guess Master](/options/Crewmates/Basic/GuessMaster.html) | [Lazy Guy](/options/Crewmates/Basic/LazyGuy.html) | [Mini](/options/Crewmates/Basic/Mini.html) | [Mole](/options/Crewmates/Basic/Mole.html) | [Super Star](/options/Crewmates/Basic/SuperStar.html) | [Randomizer](/options/Crewmates/Basic/Randomizer.html) | [Task Manager](/options/Crewmates/Basic/TaskManager.html) | [Tracefinder](/options/Crewmates/Basic/Tracefinder.html) | [Transporter](/options/Crewmates/Basic/Transporter.html)
 <br>
 
 ### <font color=#b22222><b>Killing</b></font>

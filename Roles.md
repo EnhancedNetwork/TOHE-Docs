@@ -17,7 +17,7 @@ sidebar:
 
 <font size=4em><b>Latest Versions:</b></font><br>
 
-- <b><font size=3em>Dev:</font> [v1.3.1 Dev 2 (HOTFIX #2)](/changelogs/Dev.html)</b><br>
+- <b><font size=3em>Dev:</font> [v1.4.1 Dev 1.2](/changelogs/Dev.html)</b><br>
 - <b><font size=3em>Canary:</font> [v1.3.1 Canary 3](/changelogs/Canary.html)</b><br>
 - <b><font size=3em>Stable:</font> [v1.4.0](/changelogs/Stable.html)</b><br>
 
@@ -31,7 +31,7 @@ sidebar:
 <tr>
 <td><font color=#ff9ace><b>Add-ons</b></font></td>
 <td>Add-ons that can be added to any role for any player</td>
-<td align="center">53 (+1)</td>
+<td align="center">54 (+1)</td>
 </tr>
 
 <tr>

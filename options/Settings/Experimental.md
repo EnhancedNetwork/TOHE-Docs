@@ -59,5 +59,5 @@ next: Impostors
 
 ### <font color=#7f8c8d><b>Neutral</b></font>
 ---
-[Doppelganger](/options/Experimental/Neutral/Doppelganger.html) | [God](/options/Experimental/Neutral/God.html) | [Solsticer](/options/Experimental/Neutral/Solsticer.html) | [Spiritcaller](/options/Experimental/Neutral/Spiritcaller.html)
+[Doppelganger](/options/Experimental/Neutral/Doppelganger.html) | [God](/options/Experimental/Neutral/God.html) | [Quizmaster](/options/Experimental/Neutral/Quizmaster.html) | [Solsticer](/options/Experimental/Neutral/Solsticer.html) | [Spiritcaller](/options/Experimental/Neutral/Spiritcaller.html)
 <br>

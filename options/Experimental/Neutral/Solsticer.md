@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Solsticer
-prev: God
+prev: Quizmaster
 next: Spiritcaller
 ---
 

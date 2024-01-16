@@ -37,12 +37,12 @@ next: /options/settings/Experimental.html
 
 <tr>
 <td><font color=#32a87f><b>Mixed</b></font></td>
-<td align="center">11</td>
+<td align="center">12</td>
 </tr>
 
 <tr>
 <td><font color=#ff9ace><b>Total:</b></font></td>
-<td align="center"><b>53 (+1)</b></td>
+<td align="center"><b>54 (+1)</b></td>
 </tr>
 
 </table>
@@ -69,7 +69,7 @@ next: /options/settings/Experimental.html
 
 ### <font color=#32a87f><b>Mixed</b></font>
 ---
-[Antidote](/options/Addons/Mixed/Antidote.html) | [Avenger](/options/Addons/Mixed/Avenger.html) | [Aware](/options/Addons/Mixed/Aware.html) | [Bloodlust](/options/Addons/Mixed/Bloodlust.html) | [Diseased](/options/Addons/Mixed/Diseased.html) | [Ghoul](/options/Addons/Mixed/Ghoul.html) | [Gravestone](/options/Addons/Mixed/Gravestone.html) | [Guesser](/options/Addons/Mixed/Guesser.html) | [Rebound](/options/Addons/Mixed/Rebound.html) | [Schizophrenic](/options/Addons/Mixed/Schizophrenic.html) | [Stubborn](/options/Addons/Mixed/Stubborn.html)
+[Antidote](/options/Addons/Mixed/Antidote.html) | [Avenger](/options/Addons/Mixed/Avenger.html) | [Aware](/options/Addons/Mixed/Aware.html) | [Bloodlust](/options/Addons/Mixed/Bloodlust.html) | [Diseased](/options/Addons/Mixed/Diseased.html) | [Ghoul](/options/Addons/Mixed/Ghoul.html) | [Gravestone](/options/Addons/Mixed/Gravestone.html) | [Guesser](/options/Addons/Mixed/Guesser.html) | [Rebound](/options/Addons/Mixed/Rebound.html) | [Schizophrenic](/options/Addons/Mixed/Schizophrenic.html) | [Stubborn](/options/Addons/Mixed/Stubborn.html) | [Susceptible](/options/Addons/Mixed/Susceptible.html)
 
 <br>
 

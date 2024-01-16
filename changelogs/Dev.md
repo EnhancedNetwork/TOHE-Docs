@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: Dev Changelogs
+title: Canary Changelogs
 sidebar:
 - { text: Latest Changelog, link: /Changelogs.html}
 - { text: Changelogs Tags, link: /changelogs/Tags.html}
@@ -15,7 +15,51 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 ---
 
-## <font size=5em><b>Latest: v1.3.1 Dev 2 (HOTFIX #2)</b></font><br>
+## <font size=5em><b>Latest: v1.4.1 Dev 1.2</b></font><br>
+* (Hotfix as requested by Tommy, sorry folks!)
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed bug when sometimes non modded player does not teleported
+---
+
+## <font size=5em><b>v1.4.1 Dev 1.1</b></font><br>
+* (Just some bugfixes!) - Quizmaster should be working now!<br>
+
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Quizmaster not working<br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Burst Error When Game End<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix MeetingHud OnDestroy Null Error<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Sort Options & Remove Unused Options<br>
+
+---
+
+## <font size=5em><b>v1.4.1 Dev 1</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Support Vanilla Hide & Seek<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed vents on Dleks map<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Provocateur now cannot get Bait<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Kamikaze now cannot get Swift<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Evil Tracker now cannot get Seer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Bard not work<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Tracker error In logs<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed other errors In logs (i hope)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed check game end<br>
+
+* By [**FuroYT**](https://github.com/FuroYT) <br>
+\+ <font color=green><b>NEW</b></font>: Experimental Neutral: Quizmaster<br>
+
++ By [**Drakos**](https://github.com/Ultradragon005)
+\+ <font color=green><b>NEW</b></font>: Harmful Add-on: Susceptible<br>
+
+* By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
+\+ <font color=green><b>NEW</b></font>: Add option to hide 'Host♥' text<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Translate API tags, if translation available<br>
+
+---
+
+## <font size=5em><b>v1.3.1 Dev 2 (HOTFIX #2)</b></font><br>
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix meeting button broken<br>
 

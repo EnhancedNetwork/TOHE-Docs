@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: Changelogs Tags
+title: Canary Changelogs
 sidebar:
 - { text: Latest Changelog, link: /Changelogs.html}
 - { text: Changelogs Tags, link: /changelogs/Tags.html}

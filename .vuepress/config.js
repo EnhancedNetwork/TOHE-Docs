@@ -184,6 +184,7 @@ export default ({
             { text: 'Rebound', link: '/options/Addons/Mixed/Rebound.html' },
             { text: 'Schizophrenic', link: '/options/Addons/Mixed/Schizophrenic.html' },
             { text: 'Stubborn', link: '/options/Addons/Mixed/Stubborn.html' },
+            { text: 'Susceptible', link: '/options/Addons/Mixed/Susceptible.html' },
           ],
           '/options/Crewmates/Basic/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
@@ -301,6 +302,7 @@ export default ({
             { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },
             { text: 'Doppelganger', link: '/options/Experimental/Neutral/Doppelganger.html' },
             { text: 'God', link: '/options/Experimental/Neutral/God.html' },
+            { text: 'Quizmaster', link: '/options/Experimental/Neutral/Quizmaster.html' },
             { text: 'Solsticer', link: '/options/Experimental/Neutral/Solsticer.html' },
             { text: 'Spiritcaller', link: '/options/Experimental/Neutral/Spiritcaller.html' },
           ],
@@ -368,8 +370,10 @@ export default ({
           ],
           '/options/Impostors/Madmate/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
+            { text: 'Convict', link: '/options/Impostors/Madmate/Convict.html' },
             { text: 'Crewposter', link: '/options/Impostors/Madmate/Crewposter.html' },
             { text: 'Parasite', link: '/options/Impostors/Madmate/Parasite.html' },
+            { text: 'Refugee', link: '/options/Impostors/Madmate/Refugee.html' },
           ],
           '/options/Impostors/Support/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
@@ -380,6 +384,7 @@ export default ({
             { text: 'Fireworker', link: '/options/Impostors/Support/Fireworker.html' },
             { text: 'Gangster', link: '/options/Impostors/Support/Gangster.html' },
             { text: 'Godfather', link: '/options/Impostors/Support/Godfather.html' },
+            { text: 'Kamikazet', link: '/options/Impostors/Support/Kamikaze.html' },
             { text: 'Morphling', link: '/options/Impostors/Support/Morphling.html' },
             { text: 'Nemesis', link: '/options/Impostors/Support/Nemesis.html' },
             { text: 'Time Thief', link: '/options/Impostors/Support/TimeThief.html' },

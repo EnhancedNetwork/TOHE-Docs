@@ -2535,6 +2535,125 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Fool",
+    "headers": [],
+    "path": "/options/Experimental/Addon/Fool.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Oiiai Cat",
+    "headers": [],
+    "path": "/options/Experimental/Addon/OiiaiCat.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "YouTuber",
+    "headers": [],
+    "path": "/options/Experimental/Addon/YouTuber.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Admirer",
+    "headers": [],
+    "path": "/options/Experimental/Crewmate/Admirer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Investigator",
+    "headers": [],
+    "path": "/options/Experimental/Crewmate/Investigator.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Blackmailer",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Blackmailer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Butcher",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Butcher.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Disperser",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Disperser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Eraser",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Eraser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hangman",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Hangman.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Killing Machine",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/KillingMachine.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lightning",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Lightning.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Zombie",
+    "headers": [],
+    "path": "/options/Experimental/Impostor/Zombie.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Doppelganger",
+    "headers": [],
+    "path": "/options/Experimental/Neutral/Doppelganger.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "God",
+    "headers": [],
+    "path": "/options/Experimental/Neutral/God.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Solsticer",
+    "headers": [],
+    "path": "/options/Experimental/Neutral/Solsticer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Spiritcaller",
+    "headers": [],
+    "path": "/options/Experimental/Neutral/Spiritcaller.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Amnesiac",
     "headers": [],
     "path": "/options/Neutrals/Benign/Amnesiac.html",
@@ -2965,125 +3084,6 @@ export const searchIndex = [
     "title": "Wraith",
     "headers": [],
     "path": "/options/Neutrals/Killing/Wraith.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Fool",
-    "headers": [],
-    "path": "/options/Experimental/Addon/Fool.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Oiiai Cat",
-    "headers": [],
-    "path": "/options/Experimental/Addon/OiiaiCat.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "YouTuber",
-    "headers": [],
-    "path": "/options/Experimental/Addon/YouTuber.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Admirer",
-    "headers": [],
-    "path": "/options/Experimental/Crewmate/Admirer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Investigator",
-    "headers": [],
-    "path": "/options/Experimental/Crewmate/Investigator.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Blackmailer",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Blackmailer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Butcher",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Butcher.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Disperser",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Disperser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Eraser",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Eraser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hangman",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Hangman.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Killing Machine",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/KillingMachine.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lightning",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Lightning.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Zombie",
-    "headers": [],
-    "path": "/options/Experimental/Impostor/Zombie.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Doppelganger",
-    "headers": [],
-    "path": "/options/Experimental/Neutral/Doppelganger.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "God",
-    "headers": [],
-    "path": "/options/Experimental/Neutral/God.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Solsticer",
-    "headers": [],
-    "path": "/options/Experimental/Neutral/Solsticer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Spiritcaller",
-    "headers": [],
-    "path": "/options/Experimental/Neutral/Spiritcaller.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -3801,6 +3801,62 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Disregarded",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Harmful/Disregarded.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Fragile",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Harmful/Fragile.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Hurried",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Harmful/Hurried.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Influenced",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Harmful/Influenced.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Oblivious",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Harmful/Oblivious.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Rascal",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Harmful/Rascal.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Unlucky",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Harmful/Unlucky.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Void Ballot",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Harmful/VoidBallot.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
     "title": "Autopsy",
     "headers": [],
     "path": "/zh-CN/options/Addons/Helpful/Autopsy.html",
@@ -3934,62 +3990,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Disregarded",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Harmful/Disregarded.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Fragile",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Harmful/Fragile.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Hurried",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Harmful/Hurried.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Influenced",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Harmful/Influenced.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Oblivious",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Harmful/Oblivious.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Rascal",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Harmful/Rascal.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Unlucky",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Harmful/Unlucky.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Void Ballot",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Harmful/VoidBallot.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
     "title": "Egoist",
     "headers": [],
     "path": "/zh-CN/options/Addons/Miscellaneous/Egoist.html",
@@ -4014,62 +4014,6 @@ export const searchIndex = [
     "title": "Workhorse",
     "headers": [],
     "path": "/zh-CN/options/Addons/Miscellaneous/Workhorse.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Circumvent",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Impostor/Circumvent.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Clumsy",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Impostor/Clumsy.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Last Impostor",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Impostor/LastImpostor.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Madmate",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Impostor/Madmate.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Mare",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Impostor/Mare.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Mimic",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Impostor/Mimic.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Stealer",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Impostor/Stealer.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Swift",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Impostor/Swift.html",
     "pathLocale": "/zh-CN/",
     "extraFields": []
   },
@@ -4147,6 +4091,62 @@ export const searchIndex = [
     "title": "Stubborn",
     "headers": [],
     "path": "/zh-CN/options/Addons/Mixed/Stubborn.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Circumvent",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Impostor/Circumvent.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Clumsy",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Impostor/Clumsy.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Last Impostor",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Impostor/LastImpostor.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Madmate",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Impostor/Madmate.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Mare",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Impostor/Mare.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Mimic",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Impostor/Mimic.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Stealer",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Impostor/Stealer.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Swift",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Impostor/Swift.html",
     "pathLocale": "/zh-CN/",
     "extraFields": []
   },
@@ -4620,20 +4620,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Admirer",
-    "headers": [],
-    "path": "/zh-CN/options/Experimental/Crewmate/Admirer.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Investigator",
-    "headers": [],
-    "path": "/zh-CN/options/Experimental/Crewmate/Investigator.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
     "title": "Fool",
     "headers": [],
     "path": "/zh-CN/options/Experimental/Addon/Fool.html",
@@ -4651,6 +4637,20 @@ export const searchIndex = [
     "title": "YouTuber",
     "headers": [],
     "path": "/zh-CN/options/Experimental/Addon/YouTuber.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Admirer",
+    "headers": [],
+    "path": "/zh-CN/options/Experimental/Crewmate/Admirer.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Investigator",
+    "headers": [],
+    "path": "/zh-CN/options/Experimental/Crewmate/Investigator.html",
     "pathLocale": "/zh-CN/",
     "extraFields": []
   },

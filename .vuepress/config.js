@@ -385,7 +385,7 @@ export default ({
             { text: 'Fireworker', link: '/options/Impostors/Support/Fireworker.html' },
             { text: 'Gangster', link: '/options/Impostors/Support/Gangster.html' },
             { text: 'Godfather', link: '/options/Impostors/Support/Godfather.html' },
-            { text: 'Kamikazet', link: '/options/Impostors/Support/Kamikaze.html' },
+            { text: 'Kamikaze', link: '/options/Impostors/Support/Kamikaze.html' },
             { text: 'Morphling', link: '/options/Impostors/Support/Morphling.html' },
             { text: 'Nemesis', link: '/options/Impostors/Support/Nemesis.html' },
             { text: 'Time Thief', link: '/options/Impostors/Support/TimeThief.html' },

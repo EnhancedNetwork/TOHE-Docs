@@ -324,11 +324,17 @@
 <p>You can save your favorite settings as presets and load them later. You can also share your presets with others. Below is a list of presets that you can use in your lobby. Make sure the file is renamed to <code v-pre>Options.json</code> before using if it isn't already. (If you do not have <code v-pre>File name extensions</code> marked on the <code v-pre>View</code> Tab, you only need to rename it to <code v-pre>Options</code>.)</p>
 <p><a href="/presets/Guesser1.cfg" download>Guesser Mode (No Judge/Sheriff Only)</a> - Drafted by: <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer">Moe<ExternalLinkIcon/></a> <br>
 <a href="/presets/Chaos1.cfg" download>Chaos Mode (Killing Roles Enabled)</a> - Drafted by: <a href="#">witch_craft_</a></p>
-<p>Note: You have to put the file in the following directory: <code v-pre>.\Among Us\TOHE-DATA\SaveData</code> for it to work. (If you cannot locate <code v-pre>TOHE-DATA\SaveData</code>, try enabling <code v-pre>Hidden items</code> on the <code v-pre>View</code> Tab)</p>
+<p>Note: You have to put the file in the following directory: <code v-pre>.\Among Us\TOHE-DATA\SaveData</code> for it to work. (If you cannot locate <code v-pre>TOHE-DATA\SaveData</code>, try enabling <code v-pre>Hidden items</code> on the <code v-pre>View</code> Tab!)</p>
 <p>More presets coming soon!</p>
 <h2 id="welcome-onfirstmeeting-onmeeting-auto-messages" tabindex="-1"><a class="header-anchor" href="#welcome-onfirstmeeting-onmeeting-auto-messages" aria-hidden="true">#</a> Welcome, onFirstMeeting &amp; onMeeting auto messages</h2>
-<p>Open the root directory of game，find <code v-pre>..\Among Us\TOHE-DATA\template.txt</code> file.</p>
-<p>You can see that there are <code v-pre>welcome</code>, <code v-pre>OnMeeting</code> and other words in the file, where <code v-pre>welcome</code> is the message that will be sent when other players enter your lobby, and <code v-pre>OnMeeting</code> is the message that will be sent when each meeting starts. Where <code v-pre>\n</code> means newline. While we fully allow you to modify these files as you please, please try not to modify the format of this file to avoid game errors.</p>
+<p>Open the root directory of the mod and find the <code v-pre>..\Among Us\TOHE-DATA\template.txt</code> file.</p>
+<p>You can see that there are some words in the file, such as <code v-pre>welcome</code>, <code v-pre>onMeeting</code>, and other gibberish.</p>
+<ul>
+<li><code v-pre>welcome:exampleMessage</code> is the message that will be sent when other players enter your lobby.</li>
+<li><code v-pre>onMeeting:exampleMessage</code> is the message that will be sent when each meeting starts.
+You can edit these templates, or add your own in new-lines!
+On a new-line, you want to add your trigger word and your message. Such as: <code v-pre>example:this is an example template!</code> <i>(The trigger word being <code v-pre>example</code> and the message being <code v-pre>this is an example template!</code>. (YOU NEED THE <code v-pre>:</code>!))</i> You can add as many of these as you want. You can then save the file, boot up the mod, and run <code v-pre>/t example</code> in your chat box to see if it's set up to your liking!</li>
+</ul>
 <p>Valid variables:</p>
 <ul>
 <li><code v-pre>{{PlayerSpeedMod}}</code> <code v-pre>{{CrewLightMod}}</code> <code v-pre>{{ImpostorLightMod}}</code> <code v-pre>{{KillCooldown}}</code></li>
@@ -343,14 +349,30 @@
 <li><code v-pre>{{Map}}</code></li>
 </ul>
 <hr>
-<h2 id="ban-list-banned-words-banned-names" tabindex="-1"><a class="header-anchor" href="#ban-list-banned-words-banned-names" aria-hidden="true">#</a> Ban list, Banned Words &amp; Banned Names</h2>
-<p>Open the root directory of game: <code v-pre>..\Among Us\TOHE-DATA\</code></p>
-<p>There are four files:</p>
+<p>Text Formatting:</p>
 <ul>
-<li>BanList.txt: Banned players - A list of friendcodes that will be unable to join your lobby (Please use friend codes)</li>
-<li>BanWords.txt: Banned Words - A list of words that will be filtered out in the chat</li>
-<li>DenyName.txt: Banned Names - A list of names that will be filtered out in the game</li>
-<li>template.txt: Message template (<a href="#welcome-onfirstmeeting-onmeeting-auto-messages">above</a>) You can modify the welcome message and onMeeting message here</li>
+<li><code v-pre>&lt;color=#[hex]&gt;exampleText&lt;/color&gt;</code> Changes the <font color=#ff5c00>C</font><font color=#ffba00>o</font><font color=#89ff00>l</font><font color=#3a6c93>o</font><font color=#42398b>r</font> of the text/font.</li>
+<li><code v-pre>&lt;b&gt;exampleText&lt;/b&gt;</code> Enables <b>Bold</b> for the text/font.</li>
+<li><code v-pre>&lt;s&gt;exampleText&lt;/s&gt;</code> Enables <s>Strikethrough</s> for the text/font.</li>
+<li><code v-pre>&lt;u&gt;exampleText&lt;/u&gt;</code> Enables <u>Underline</u> for the text/font.</li>
+<li><code v-pre>&lt;i&gt;exampleText&lt;/i&gt;</code> Enables <i>Italics</i> for the text/font.</li>
+<li><code v-pre>&lt;mark&gt;exampleText&lt;/mark&gt;</code> Enables <mark>Highlight</mark> for the text/font.</li>
+<li><code v-pre>&lt;sup&gt;exampleText&lt;/sup&gt;</code> Enables <sup>Superscript</sup> for the text/font.</li>
+<li><code v-pre>&lt;sub&gt;exampleText&lt;/sub&gt;</code> Enables <sub>Subscript</sub> for the text/font.</li>
+<li><code v-pre>&lt;size=[size][%]&gt;exampleText&lt;/size&gt;</code> Sets the <font size=2em>Size</font> of the text/font. (Can type exact text/font sizes or use percentages.)</li>
+<li><code v-pre>\n</code> Creates a New Line. (Such as <code v-pre>&lt;br&gt;</code> (or the <code v-pre>[Enter]</code> key) would)</li>
+</ul>
+<h2 id="tohe-data-info" tabindex="-1"><a class="header-anchor" href="#tohe-data-info" aria-hidden="true">#</a> TOHE-DATA Info</h2>
+<p>Open the root directory of game: <code v-pre>...\Among Us\TOHE-DATA\</code></p>
+<p>There are a few files:</p>
+<ul>
+<li>BanList.txt: A list of friendcodes that will be unable to join your lobby.</li>
+<li>Default_Teamplate.txt: This will pull from <code v-pre>template.txt</code> and is used in game. Think of this as the final product used in-game, and <code v-pre>template.txt</code> as the rough draft.</li>
+<li>DenyName.txt: A list of names that will be filtered out in the game.</li>
+<li>Moderators.txt: A list of friendcodes that will be given more permissions to moderate your lobby (such as /kick). Only grant users you trust these permissions!</li>
+<li>template.txt: You can modify the <code v-pre>welcome</code> and <code v-pre>onMeeting</code> messages here. You can also add custom templates here as well following the same format as <code v-pre>welcome</code> &amp; <code v-pre>onMeeting</code> use.</li>
+<li>VIP-List.txt: A list of friendcodes that will be given a sweet VIP tag (editable via <code v-pre>...\Among Us\Language\english.dat</code>) as well as permissions to change their name color.</li>
+<li>WhiteList.txt: A list of friendcodes that will be exempt from blacklisted platforms, along with level requirements.</li>
 </ul>
 </div></template>
 

@@ -31,12 +31,12 @@ next: Impostors
 
 <tr>
 <td><font color=#7c8c8d><b>Neutral</b></font></td>
-<td align="center">3</td>
+<td align="center">4</td>
 </tr>
 
 <tr>
 <td><font color=#76b8e0><b>Total:</b></font></td>
-<td align="center"><b>16</b></td>
+<td align="center"><b>17</b></td>
 </tr>
 
 </table>
@@ -59,5 +59,5 @@ next: Impostors
 
 ### <font color=#7f8c8d><b>Neutral</b></font>
 ---
-[Doppelganger](/options/Experimental/Neutral/Doppelganger.html) | [God](/options/Experimental/Neutral/God.html) | [Spiritcaller](/options/Experimental/Neutral/Spiritcaller.html)
+[Doppelganger](/options/Experimental/Neutral/Doppelganger.html) | [God](/options/Experimental/Neutral/God.html) | [Solsticer](/options/Experimental/Neutral/Solsticer.html) | [Spiritcaller](/options/Experimental/Neutral/Spiritcaller.html)
 <br>

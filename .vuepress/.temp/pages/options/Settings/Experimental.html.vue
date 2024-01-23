@@ -19,11 +19,11 @@
 </tr>
 <tr>
 <td><font color=#7c8c8d><b>Neutral</b></font></td>
-<td align="center">3</td>
+<td align="center">4</td>
 </tr>
 <tr>
 <td><font color=#76b8e0><b>Total:</b></font></td>
-<td align="center"><b>16</b></td>
+<td align="center"><b>17</b></td>
 </tr>
 </table>
 <br>
@@ -41,7 +41,7 @@
 <br></p>
 <h3 id="neutral" tabindex="-1"><a class="header-anchor" href="#neutral" aria-hidden="true">#</a> <font color=#7f8c8d><b>Neutral</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Experimental/Neutral/Doppelganger.html">Doppelganger</RouterLink> | <RouterLink to="/options/Experimental/Neutral/God.html">God</RouterLink> | <RouterLink to="/options/Experimental/Neutral/Spiritcaller.html">Spiritcaller</RouterLink>
+<p><RouterLink to="/options/Experimental/Neutral/Doppelganger.html">Doppelganger</RouterLink> | <RouterLink to="/options/Experimental/Neutral/God.html">God</RouterLink> | <RouterLink to="/options/Experimental/Neutral/Solsticer.html">Solsticer</RouterLink> | <RouterLink to="/options/Experimental/Neutral/Spiritcaller.html">Spiritcaller</RouterLink>
 <br></p>
 </div></template>
 

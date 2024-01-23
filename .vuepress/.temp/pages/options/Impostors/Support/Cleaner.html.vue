@@ -1,6 +1,6 @@
 <template><div><h1 id="🧹-cleaner" tabindex="-1"><a class="header-anchor" href="#🧹-cleaner" aria-hidden="true">#</a> <font color="red">🧹 <b>Cleaner</b></font> <Badge text="Support" type="tip" vertical="middle"/></h1>
 <hr>
-<p>Cleaner can press the Report button to clean up any Dead Bod they see. If the cleanup is successful, the Cleaner will see a Shield animation as a reminder. The cleaned up body cannot be reported.</p>
+<p>Cleaner can press the Report button to clean up any dead body they see. If the cleanup is successful, the Cleaner will see a Shield animation as a reminder. The cleaned up body cannot be reported.</p>
 <ul>
 <li>Max
 <ul>

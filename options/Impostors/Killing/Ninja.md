@@ -20,8 +20,4 @@ The Ninja can use the kill button to mark a target, and if the mark is successfu
   * <font color=green>ON</font>: the Ninja can kill once it successfully assassinates someone
   * <font color=red>OFF</font>: the Ninja can only Assassinate people to kill
 
-::: danger Fun Fact
-Ninja was originally called Assassin.  
-:::
-
 > From: TOHR & Coding: [KARPED1EM](https://github.com/KARPED1EM)

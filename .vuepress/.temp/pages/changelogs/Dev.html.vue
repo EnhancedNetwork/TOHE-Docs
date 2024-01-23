@@ -2,18 +2,91 @@
 <hr>
 <p>To access Dev Builds, become a Sponsor on <a href="https://ko-fi.com/tohen" target="_blank" rel="noopener noreferrer">Ko-Fi<ExternalLinkIcon/></a> (at least Insider), <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank" rel="noopener noreferrer">Contribute<ExternalLinkIcon/></a>, or be a [Tester] (Content Creator with your TOHE videos having 600+ views on average)</p>
 <hr>
-<h2 id="latest-v1-2-1-dev-4" tabindex="-1"><a class="header-anchor" href="#latest-v1-2-1-dev-4" aria-hidden="true">#</a> <font size=5em><b>Latest: v1.2.1 Dev 4</b></font><br></h2>
+<h2 id="latest-v1-3-1-dev-2-hotfix-2" tabindex="-1"><a class="header-anchor" href="#latest-v1-3-1-dev-2-hotfix-2" aria-hidden="true">#</a> <font size=5em><b>Latest: v1.3.1 Dev 2 (HOTFIX #2)</b></font><br></h2>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+<li>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix meeting button broken<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Workaholic getting Double Shot<br></p>
+</li>
+</ul>
+<hr>
+<h2 id="v1-3-1-dev-2-hotfix-1" tabindex="-1"><a class="header-anchor" href="#v1-3-1-dev-2-hotfix-1" aria-hidden="true">#</a> <font size=5em><b>v1.3.1 Dev 2 (HOTFIX #1)</b></font><br></h2>
+<p>= I just don't have words.... (proper file attached in this hotfix)<br></p>
+<hr>
+<h2 id="v1-3-1-dev-2" tabindex="-1"><a class="header-anchor" href="#v1-3-1-dev-2" aria-hidden="true">#</a> <font size=5em><b>v1.3.1 Dev 2</b></font><br></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Anti first kill Host<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved EAC<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix ChatCommandPatch<br>
++ <font color=green><b>NEW</b></font>: Experimental Neutral role: <RouterLink to="/options/Experimental/Neutral/Solsticer.html">Solsticer</RouterLink><br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Added new feature: Update Button (Heavy WIP)<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Taskinator killing alive players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Romantic spamming error<br>
++ <font color=green><b>NEW</b></font>: Crewmate Power role: <RouterLink to="/options/Crewmates/Power/Captain.html">Captain</RouterLink><br></p>
+</li>
+</ul>
+<hr>
+<h2 id="v1-3-1-dev-1" tabindex="-1"><a class="header-anchor" href="#v1-3-1-dev-1" aria-hidden="true">#</a> <font size=5em><b>v1.3.1 Dev 1</b></font><br></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Visual Bug With Negative Task<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Neutral Killers Can Be Madmate<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Bug When Players Stuck In Walls After Teleporting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix bug where roles that use vent to trigger power spawning in ehT dlekS<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Many other miscellaneous bug fixes and changes to improve code redability (This is done because vents do not work on ehT dlekS)<br>
++ <font color=green><b>NEW</b></font>: Re-added Helpful Add-on: <RouterLink to="/options/Addons/Helpful/Flash.html">Flash</RouterLink><br>
++ <font color=green><b>NEW</b></font>: Support map: dlekS ehT (Thanks <a href="https://github.com/Galster-dev" target="_blank" rel="noopener noreferrer"><strong>sleepyut</strong><ExternalLinkIcon/></a>)<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Necromancer kill animation shown twice<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Taskinator kicking modded clients<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Console now appears only for people with debugger perms<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Made Fool incompatible with Repairman<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Some other miscellaneous changes<br>
++ <font color=green><b>NEW</b></font>: Ported FFA from TOHE+ (Thanks Gurge44)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed random spawns, setting vent when 2 players alive, setting cant vent when kill cd is up and many other miscellaneous bugs in FFA mode<br>
++ <font color=green><b>NEW</b></font>: Added chat commands /tpin and /tpout (to tp vanilla players in and out of ship in lobby)<br>
++ <font color=green><b>NEW</b></font>: Added jester not win info in exile message for next meeting <br>
++ <font color=green><b>NEW</b></font>: Crewmate Basic role: <RouterLink to="/options/Crewmates/Basic/Mole.html">Mole</RouterLink> <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Partially Fixed host getting dc'd sometimes because of Fortegreen<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Add Region: Modded SA (MSA)<br></p>
+</li>
+</ul>
+<hr>
+<h2 id="v1-2-1-dev-4" tabindex="-1"><a class="header-anchor" href="#v1-2-1-dev-4" aria-hidden="true">#</a> <font size=5em><b>v1.2.1 Dev 4</b></font><br></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed player names for desync impostor during Mushroom Mixup <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when shapeshift cooldown sets to 0 after Mushroom Mixup (Vanilla Bug) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Desync Impostor Reset Cooldown Sabotages (If setting Sabotage Cooldown Control is enabled, desync impostors resets cooldown sabotages when any sabotage is clicked) <br></li>
-</ul>
-<ul>
-<li>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Desync Impostor Reset Cooldown Sabotages (If setting Sabotage Cooldown Control is enabled, desync impostors resets cooldown sabotages when any sabotage is clicked) <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 - <font color=red><b>REMOVED</b></font>: Removed egoist count as setting from ParityCop <br>
 + <font color=green><b>NEW</b></font>: Added setting for Egoist to be counted as converted neutral <br>
-+ <font color=green><b>NEW</b></font>: Added setting for converted madmate to kill without repercussions <br></li>
++ <font color=green><b>NEW</b></font>: Added setting for converted madmate to kill without repercussions <br></p>
+</li>
 </ul>
 <hr>
 <h2 id="v1-2-1-dev-3" tabindex="-1"><a class="header-anchor" href="#v1-2-1-dev-3" aria-hidden="true">#</a> <font size=5em><b>v1.2.1 Dev 3</b></font><br></h2>

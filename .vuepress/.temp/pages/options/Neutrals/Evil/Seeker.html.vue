@@ -21,7 +21,7 @@ The Seeker needs to collect certain number of points set by the host to win</p>
 </li>
 </ul>
 <blockquote>
-<p>From: <a href="#">ryuk</a></p>
+<p>Idea: <a href="#">lily0la</a> &amp; Coding: <a href="#">ryuk</a></p>
 </blockquote>
 </div></template>
 

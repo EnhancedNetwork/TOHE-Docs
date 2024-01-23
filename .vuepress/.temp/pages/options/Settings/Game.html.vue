@@ -1,5 +1,7 @@
 <template><div><h1 id="🎮-game-settings" tabindex="-1"><a class="header-anchor" href="#🎮-game-settings" aria-hidden="true">#</a> <font color=#ffc0cb>🎮 Game Settings</font></h1>
 <hr>
+<h2 id="📃-standard" tabindex="-1"><a class="header-anchor" href="#📃-standard" aria-hidden="true">#</a> <font color=#ffc0cb>📃 Standard</font></h2>
+<hr>
 <h3 id="ejection" tabindex="-1"><a class="header-anchor" href="#ejection" aria-hidden="true">#</a> <font size=4em color=#ffeee8>Ejection</font></h3>
 <ul>
 <li>Confirm Ejections Mode
@@ -64,9 +66,10 @@
 <font color=green>ON</font>: Map will be chosen randomly<ul>
 <li>Chance that the map is
 <ul>
-<li>Skeld - Set the chance that the map will be Skeld</li>
+<li>The Skeld - Set the chance that the map will be The Skeld</li>
 <li>MIRA HQ - Set the chance that the map will be MIRA HQ</li>
 <li>Polus - Set the chance that the map will be Polus</li>
+<li>dlekS ehT  - Set the chance that the map will be dlekS ehT</li>
 <li>Airship - Set the chance that the map will be Airship</li>
 <li>The Fungle - Set the chance that the map will be The Fungle</li>
 <li>Use a more random map selection
@@ -120,9 +123,9 @@
 <li>Map Modifications
 <ul>
 <li>
-<font color=green>ON</font>: Map modifiers to change how you can play on maps</li>
+<font color=green>ON</font>: Mess with Map modifiers to change how you can play on maps</li>
 <li>
-<font color=red>OFF</font>: Map modifiers will not be implemented<ul>
+<font color=red>OFF</font>: Map modifiers will not be implemented and will work as Vanilla intended<ul>
 <li>Variable Electrical (<font color=red>Airship</font>)
 <ul>
 <li>The Electrical room will be randomized.</li>
@@ -798,9 +801,387 @@
 </ul>
 </li>
 </ul>
-<blockquote>
-<p>From: TOHE</p>
-</blockquote>
+<h2 id="⚔️-free-for-all" tabindex="-1"><a class="header-anchor" href="#⚔️-free-for-all" aria-hidden="true">#</a> <font color=#ffc0cb>⚔️ Free For All</font></h2>
+<hr>
+<ul>
+<li>
+<p>Maximum Game Length</p>
+<ul>
+<li>Set how long the game will be</li>
+</ul>
+</li>
+<li>
+<p>Kill Cooldown</p>
+<ul>
+<li>Set the global Kill Cooldown of all players</li>
+</ul>
+</li>
+<li>
+<p>Prevent venting when only 2 players are alive</p>
+<ul>
+<li>
+<font color=green>ON</font>: Venting will be disabled when only 2 players are alive</li>
+<li>
+<font color=red>OFF</font>: Venting will not be disabled when only 2 players are alive</li>
+</ul>
+</li>
+<li>
+<p>Prevent players whose kill cooldown is up from venting</p>
+<ul>
+<li>
+<font color=green>ON</font>: Players who have 0 Cooldown will not be able to vent</li>
+<li>
+<font color=red>OFF</font>: Players who have 0 Cooldown will still be able to vent</li>
+</ul>
+</li>
+<li>
+<p>Enable Random Events</p>
+<ul>
+<li>
+<font color=green>ON</font>: Random Events may occur</li>
+<li>
+<font color=red>OFF</font>: Random Events will not occur</li>
+</ul>
+</li>
+<li>
+<p>Shield Duration</p>
+<ul>
+<li>Set how long Shields will last</li>
+</ul>
+</li>
+<li>
+<p>Increased Speed</p>
+<ul>
+<li>Set how fast Increased Speed makes players</li>
+</ul>
+</li>
+<li>
+<p>Decreased Speed</p>
+<ul>
+<li>Set how slow Decreased Speed makes players</li>
+</ul>
+</li>
+<li>
+<p>Modified Speed Duration</p>
+<ul>
+<li>Set how long Speed modifications will last</li>
+</ul>
+</li>
+<li>
+<p>Lowered Vision</p>
+<ul>
+<li>Set how low the Vision will be</li>
+</ul>
+</li>
+<li>
+<p>Lowered Vision Duration</p>
+<ul>
+<li>Set how long Lowered Vision will last</li>
+</ul>
+</li>
+<li>
+<p>Enable Random Swaps from time to time</p>
+<ul>
+<li>
+<font color=green>ON</font>: Random Swaps may occur</li>
+<li>
+<font color=red>OFF</font>: Random Swaps will not occur</li>
+</ul>
+</li>
+<li>
+<p>Shields break after 1 kill attempt</p>
+<ul>
+<li>
+<font color=green>ON</font>: Shields will break after 1 kill attempt</li>
+<li>
+<font color=red>OFF</font>: Shields will not break after 1 kill attempt</li>
+</ul>
+</li>
+<li>
+<p>Random Maps Mode</p>
+<ul>
+<li>
+<font color=green>ON</font>: Map will be chosen randomly<ul>
+<li>Chance that the map is
+<ul>
+<li>The Skeld - Set the chance that the map will be The Skeld</li>
+<li>MIRA HQ - Set the chance that the map will be MIRA HQ</li>
+<li>Polus - Set the chance that the map will be Polus</li>
+<li>dlekS ehT  - Set the chance that the map will be dlekS ehT</li>
+<li>Airship - Set the chance that the map will be Airship</li>
+<li>The Fungle - Set the chance that the map will be The Fungle</li>
+<li>Use a more random map selection
+<ul>
+<li>
+<font color=green>ON</font>: Maps will be selected even more randomly</li>
+<li>
+<font color=red>OFF</font>: Maps will not be selected even more randomly</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Map Modifications</p>
+<ul>
+<li>
+<font color=green>ON</font>: Mess with Map modifiers to change how you can play on maps</li>
+<li>
+<font color=red>OFF</font>: Map modifiers will not be implemented and will work as Vanilla intended<ul>
+<li>Variable Electrical (<font color=red>Airship</font>)
+<ul>
+<li>The Electrical room will be randomized.</li>
+</ul>
+</li>
+<li>Disable Moving Platform (<font color=red>Airship</font>)
+<ul>
+<li>
+<font color=green>ON</font>: Moving platform will be disabled</li>
+<li>
+<font color=red>OFF</font>: Moving platform will be enabled</li>
+</ul>
+</li>
+<li>Disable Spore Trigger (<font color=#ffa646>Fungle</font>)
+<ul>
+<li>
+<font color=green>ON</font>: Spore Trigger will be disabled</li>
+<li>
+<font color=red>OFF</font>: Spore Trigger will be enabled</li>
+</ul>
+</li>
+<li>Disable Zipline (<font color=#ffa646>Fungle</font>)
+<ul>
+<li>
+<font color=green>ON</font>: Zipline will be disabled<ul>
+<li>Disable Use From Top
+<ul>
+<li>
+<font color=green>ON</font>: Zipline will be disabled from the top</li>
+<li>
+<font color=red>OFF</font>: Zipline will not be disabled from the top</li>
+</ul>
+</li>
+<li>Disable Use From Bottom
+<ul>
+<li>
+<font color=green>ON</font>: Zipline will be disabled from the bottom</li>
+<li>
+<font color=red>OFF</font>: Zipline will not be disabled from the bottom</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<font color=red>OFF</font>: Zipline will be enabled</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Disable Devices</p>
+<ul>
+<li>
+<font color=green>ON</font>: Devices will be disabled<ul>
+<li>Disable Skeld Devices
+<ul>
+<li>
+<font color=green>ON</font>: Skeld Devices will be disabled<ul>
+<li>Disable Admin
+<ul>
+<li>
+<font color=green>ON</font>: Admin will be disabled</li>
+<li>
+<font color=red>OFF</font>: Admin will be enabled</li>
+</ul>
+</li>
+<li>Disable Cameras
+<ul>
+<li>
+<font color=green>ON</font>: Cameras will be disabled</li>
+<li>
+<font color=red>OFF</font>: Cameras will be enabled</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<font color=red>OFF</font>: Skeld Devices will be enabled</li>
+</ul>
+</li>
+<li>Disable MiraHQ Devices
+<ul>
+<li>
+<font color=green>ON</font>: MiraHQ Devices will be disabled<ul>
+<li>Disable Admin
+<ul>
+<li>
+<font color=green>ON</font>: Admin will be disabled</li>
+<li>
+<font color=red>OFF</font>: Admin will be enabled</li>
+</ul>
+</li>
+<li>Disable DoorLog
+<ul>
+<li>
+<font color=green>ON</font>: DoorLog will be disabled</li>
+<li>
+<font color=red>OFF</font>: DoorLog will be enabled</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<font color=red>OFF</font>: MiraHQ Devices will be enabled</li>
+</ul>
+</li>
+<li>Disable Polus Devices
+<ul>
+<li>
+<font color=green>ON</font>: Polus Devices will be disabled<ul>
+<li>Disable Admin
+<ul>
+<li>
+<font color=green>ON</font>: Admin will be disabled</li>
+<li>
+<font color=red>OFF</font>: Admin will be enabled</li>
+</ul>
+</li>
+<li>Disable Cameras
+<ul>
+<li>
+<font color=green>ON</font>: Cameras will be disabled</li>
+<li>
+<font color=red>OFF</font>: Cameras will be enabled</li>
+</ul>
+</li>
+<li>Disable Vitals
+<ul>
+<li>
+<font color=green>ON</font>: Vitals will be disabled</li>
+<li>
+<font color=red>OFF</font>: Vitals will be enabled</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<font color=red>OFF</font>: Polus Devices will be enabled</li>
+</ul>
+</li>
+<li>Disable Airship Devices
+<ul>
+<li>
+<font color=green>ON</font>: Airship Devices will be disabled<ul>
+<li>Disable Cockpit Admin
+<ul>
+<li>
+<font color=green>ON</font>: Cockpit Admin will be disabled</li>
+<li>
+<font color=red>OFF</font>: Cockpit Admin will be enabled</li>
+</ul>
+</li>
+<li>Disable Records Admin
+<ul>
+<li>
+<font color=green>ON</font>: Records Admin will be disabled</li>
+<li>
+<font color=red>OFF</font>: Records Admin will be enabled</li>
+</ul>
+</li>
+<li>Disable Cameras
+<ul>
+<li>
+<font color=green>ON</font>: Cameras will be disabled</li>
+<li>
+<font color=red>OFF</font>: Cameras will be enabled</li>
+</ul>
+</li>
+<li>Disable Vitals
+<ul>
+<li>
+<font color=green>ON</font>: Vitals will be disabled</li>
+<li>
+<font color=red>OFF</font>: Vitals will be enabled</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<font color=red>OFF</font>: Airship Devices will be enabled</li>
+</ul>
+</li>
+<li>Disable Fungle Devices
+<ul>
+<li>
+<font color=green>ON</font>: Fungle Devices will be disabled<ul>
+<li>Disable Binoculars (Will Not Work for Vanilla)
+<ul>
+<li>
+<font color=green>ON</font>: Binoculars will be disabled</li>
+<li>
+<font color=red>OFF</font>: Binoculars will be enabled</li>
+</ul>
+</li>
+<li>Disable Vitals
+<ul>
+<li>
+<font color=green>ON</font>: Vitals will be disabled</li>
+<li>
+<font color=red>OFF</font>: Vitals will be enabled</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<font color=red>OFF</font>: Fungle Devices will be enabled</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Ignore Conditions
+<ul>
+<li>Ignore <font color=red>Impostors</font>
+<ul>
+<li>
+<font color=green>ON</font>: <font color=red>Impostors</font> conditions will be ignored</li>
+<li>
+<font color=red>OFF</font>: <font color=red>Impostors</font> conditions will not be ignored</li>
+</ul>
+</li>
+<li>Ignore <font color=#7f8c8d>Neutrals</font>
+<ul>
+<li>
+<font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> conditions will be ignored</li>
+<li>
+<font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> conditions will not be ignored</li>
+</ul>
+</li>
+<li>Ignore <font color=#8cffff>Crewmates</font>
+<ul>
+<li>
+<font color=green>ON</font>: <font color=#8cffff>Crewmates</font> conditions will be ignored</li>
+<li>
+<font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> conditions will not be ignored</li>
+</ul>
+</li>
+<li>Ignore after First Death
+<ul>
+<li>
+<font color=green>ON</font>: Conditions will be ignored after the first death</li>
+<li>
+<font color=red>OFF</font>: Conditions will not be ignored after the first death</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 </div></template>
 
 

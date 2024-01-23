@@ -11,7 +11,7 @@
 </tr>
 <tr>
 <td><font color=#00ff00><b>Helpful</b></font></td>
-<td align="center">19</td>
+<td align="center">20</td>
 </tr>
 <tr>
 <td><font color=red><b>Impostor</b></font></td>
@@ -27,17 +27,17 @@
 </tr>
 <tr>
 <td><font color=#ff9ace><b>Total:</b></font></td>
-<td align="center"><b>50 (+1)</b></td>
+<td align="center"><b>53 (+1)</b></td>
 </tr>
 </table>
 <br>
 <h3 id="harmful" tabindex="-1"><a class="header-anchor" href="#harmful" aria-hidden="true">#</a> <font color=#ff0000><b>Harmful</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Addons/Harmful/Disregarded.html">Disregarded</RouterLink> | <RouterLink to="/options/Addons/Harmful/Fragile.html">Fragile</RouterLink> | <RouterLink to="/options/Addons/Harmful/Hurried.html">Hurried</RouterLink> | <RouterLink to="/options/Addons/Harmful/Influenced.html">Influenced</RouterLink> | <RouterLink to="/options/Addons/Harmful/Oblivious.html">Oblivious</RouterLink> | <RouterLink to="/options/Addons/Harmful/Rascal.html">Rascal</RouterLink> | <RouterLink to="/options/Addons/Harmful/Unlucky.html">Unlucky</RouterLink> | <RouterLink to="/options/Addons/Harmful/VoidBallot.html">Void Ballot</RouterLink>
+<p><RouterLink to="/options/Addons/Harmful/Disregarded.html">Disregarded</RouterLink> | <RouterLink to="/options/Addons/Harmful/Fragile.html">Fragile</RouterLink> | <RouterLink to="/options/Addons/Harmful/Mundane.html">Mundane</RouterLink> | <RouterLink to="/options/Addons/Harmful/Hurried.html">Hurried</RouterLink> | <RouterLink to="/options/Addons/Harmful/Influenced.html">Influenced</RouterLink> | <RouterLink to="/options/Addons/Harmful/Oblivious.html">Oblivious</RouterLink> | <RouterLink to="/options/Addons/Harmful/Rascal.html">Rascal</RouterLink> | <RouterLink to="/options/Addons/Harmful/Unlucky.html">Unlucky</RouterLink> | <RouterLink to="/options/Addons/Harmful/VoidBallot.html">Void Ballot</RouterLink>
 <br></p>
 <h3 id="helpful" tabindex="-1"><a class="header-anchor" href="#helpful" aria-hidden="true">#</a> <font color=#00ff00><b>Helpful</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Addons/Helpful/Autopsy.html">Autopsy</RouterLink> | <RouterLink to="/options/Addons/Helpful/Bait.html">Bait</RouterLink> | <RouterLink to="/options/Addons/Helpful/Beartrap.html">Beartrap</RouterLink> | <RouterLink to="/options/Addons/Harmful/Bewilder.html">Bewilder</RouterLink> | <RouterLink to="/options/Addons/Helpful/Burst.html">Burst</RouterLink> | <RouterLink to="/options/Addons/Helpful/Cyber.html">Cyber</RouterLink> | <RouterLink to="/options/Addons/Helpful/DoubleShot.html">Double Shot</RouterLink> | <RouterLink to="/options/Addons/Helpful/Lazy.html">Lazy</RouterLink> | <RouterLink to="/options/Addons/Helpful/Loyal.html">Loyal</RouterLink> | <RouterLink to="/options/Addons/Helpful/Lucky.html">Lucky</RouterLink> | <RouterLink to="/options/Addons/Helpful/Necroview.html">Necroview</RouterLink> | <RouterLink to="/options/Addons/Helpful/Nimble.html">Nimble</RouterLink> | <RouterLink to="/options/Addons/Helpful/Overclocked.html">Overclocked</RouterLink> | <RouterLink to="/options/Addons/Helpful/Repairman.html">Repairman</RouterLink> | <RouterLink to="/options/Addons/Helpful/Seer.html">Seer</RouterLink> | <RouterLink to="/options/Addons/Helpful/Sleuth.html">Sleuth</RouterLink> | <RouterLink to="/options/Addons/Helpful/Tiebreaker.html">Tiebreaker</RouterLink> | <RouterLink to="/options/Addons/Helpful/Torch.html">Torch</RouterLink> | <RouterLink to="/options/Addons/Helpful/Watcher.html">Watcher</RouterLink>
+<p><RouterLink to="/options/Addons/Helpful/Autopsy.html">Autopsy</RouterLink> | <RouterLink to="/options/Addons/Helpful/Bait.html">Bait</RouterLink> | <RouterLink to="/options/Addons/Helpful/Beartrap.html">Beartrap</RouterLink> | <RouterLink to="/options/Addons/Helpful/Bewilder.html">Bewilder</RouterLink> | <RouterLink to="/options/Addons/Helpful/Burst.html">Burst</RouterLink> | <RouterLink to="/options/Addons/Helpful/Cyber.html">Cyber</RouterLink> | <RouterLink to="/options/Addons/Helpful/DoubleShot.html">Double Shot</RouterLink> | <RouterLink to="/options/Addons/Helpful/Flash.html">Flash</RouterLink> | <RouterLink to="/options/Addons/Helpful/Lazy.html">Lazy</RouterLink> | <RouterLink to="/options/Addons/Helpful/Loyal.html">Loyal</RouterLink> | <RouterLink to="/options/Addons/Helpful/Lucky.html">Lucky</RouterLink> | <RouterLink to="/options/Addons/Helpful/Necroview.html">Necroview</RouterLink> | <RouterLink to="/options/Addons/Helpful/Nimble.html">Nimble</RouterLink> | <RouterLink to="/options/Addons/Helpful/Overclocked.html">Overclocked</RouterLink> | <RouterLink to="/options/Addons/Helpful/Repairman.html">Repairman</RouterLink> | <RouterLink to="/options/Addons/Helpful/Seer.html">Seer</RouterLink> | <RouterLink to="/options/Addons/Helpful/Silent.html">Silent</RouterLink> | <RouterLink to="/options/Addons/Helpful/Sleuth.html">Sleuth</RouterLink> | <RouterLink to="/options/Addons/Helpful/Tiebreaker.html">Tiebreaker</RouterLink> | <RouterLink to="/options/Addons/Helpful/Torch.html">Torch</RouterLink> | <RouterLink to="/options/Addons/Helpful/Watcher.html">Watcher</RouterLink>
 <br></p>
 <h3 id="impostor" tabindex="-1"><a class="header-anchor" href="#impostor" aria-hidden="true">#</a> <font color=red><b>Impostor</b></font></h3>
 <hr>
@@ -48,7 +48,7 @@
 <p><RouterLink to="/options/Addons/Miscellaneous/Egoist.html">Egoist</RouterLink> | <RouterLink to="/options/Addons/Miscellaneous/Lovers.html">Lovers</RouterLink> | <RouterLink to="/options/Addons/Miscellaneous/Reach.html">Reach</RouterLink> | <RouterLink to="/options/Addons/Miscellaneous/Workhorse.html">Workhorse</RouterLink></p>
 <h3 id="mixed" tabindex="-1"><a class="header-anchor" href="#mixed" aria-hidden="true">#</a> <font color=#32a87f><b>Mixed</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Addons/Mixed/Antidote.html">Antidote</RouterLink> | <RouterLink to="/options/Addons/Mixed/Avenger.html">Avenger</RouterLink> | <RouterLink to="/options/Addons/Mixed/Aware.html">Aware</RouterLink> | <RouterLink to="/options/Addons/Mixed/Bloodlust.html">Bloodlust</RouterLink> | <RouterLink to="/options/Addons/Mixed/Diseased.html">Diseased</RouterLink> | <RouterLink to="/options/Addons/Mixed/Ghoul.html">Ghoul</RouterLink> | <RouterLink to="/options/Addons/Mixed/Glow.html">Glow</RouterLink> | <RouterLink to="/options/Addons/Mixed/Gravestone.html">Gravestone</RouterLink> | <RouterLink to="/options/Addons/Mixed/Guesser.html">Guesser</RouterLink> | <RouterLink to="/options/Addons/Mixed/Rebound.html">Rebound</RouterLink> | <RouterLink to="/options/Addons/Mixed/Schizophrenic.html">Schizophrenic</RouterLink> | <RouterLink to="/options/Addons/Mixed/Stubborn.html">Stubborn</RouterLink></p>
+<p><RouterLink to="/options/Addons/Mixed/Antidote.html">Antidote</RouterLink> | <RouterLink to="/options/Addons/Mixed/Avenger.html">Avenger</RouterLink> | <RouterLink to="/options/Addons/Mixed/Aware.html">Aware</RouterLink> | <RouterLink to="/options/Addons/Mixed/Bloodlust.html">Bloodlust</RouterLink> | <RouterLink to="/options/Addons/Mixed/Diseased.html">Diseased</RouterLink> | <RouterLink to="/options/Addons/Mixed/Ghoul.html">Ghoul</RouterLink> | <RouterLink to="/options/Addons/Mixed/Gravestone.html">Gravestone</RouterLink> | <RouterLink to="/options/Addons/Mixed/Guesser.html">Guesser</RouterLink> | <RouterLink to="/options/Addons/Mixed/Rebound.html">Rebound</RouterLink> | <RouterLink to="/options/Addons/Mixed/Schizophrenic.html">Schizophrenic</RouterLink> | <RouterLink to="/options/Addons/Mixed/Stubborn.html">Stubborn</RouterLink></p>
 <br>
 <details>
 <summary><font color=#ff9ace size='4em'><b>Settings</b></font></summary>

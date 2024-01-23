@@ -13,6 +13,11 @@ export default ({
       lang: 'fr-FR',
       title: 'TOHE',
       description: 'Un mod Among Us qui ajoute une tonne de nouveaux rôles et paramètres au jeu!',
+    },
+    '/zh-CN/': {
+      lang: 'zh-CN',
+      title: 'TOHE',
+      description: '一个在我们中间的模组，为游戏添加了大量新角色和设置！',
     }
   },
   bundler: viteBundler({
@@ -32,6 +37,9 @@ export default ({
         },
         '/fr/': {
           placeholder: 'Rechercher',
+        },
+        '/zh-CN/': {
+          placeholder: '搜索',
         }
       },
       maxSuggestions: 10,
@@ -115,6 +123,7 @@ export default ({
             { text: 'Fragile', link: '/options/Addons/Harmful/Fragile.html' },
             { text: 'Hurried', link: '/options/Addons/Harmful/Hurried.html' },
             { text: 'Influenced', link: '/options/Addons/Harmful/Influenced.html' },
+            { text: 'Mundane', link: '/options/Addons/Harmful/Mundane.html' },
             { text: 'Oblivious', link: '/options/Addons/Harmful/Oblivious.html' },
             { text: 'Rascal', link: '/options/Addons/Harmful/Rascal.html' },
             { text: 'Unlucky', link: '/options/Addons/Harmful/Unlucky.html' },
@@ -129,6 +138,7 @@ export default ({
             { text: 'Burst', link: '/options/Addons/Helpful/Burst.html' },
             { text: 'Cyber', link: '/options/Addons/Helpful/Cyber.html' },
             { text: 'Double Shot', link: '/options/Addons/Helpful/DoubleShot.html' },
+            { text: 'Flash', link: '/options/Addons/Helpful/Flash.html' },
             { text: 'Lazy', link: '/options/Addons/Helpful/Lazy.html' },
             { text: 'Loyal', link: '/options/Addons/Helpful/Loyal.html' },
             { text: 'Lucky', link: '/options/Addons/Helpful/Lucky.html' },
@@ -137,6 +147,7 @@ export default ({
             { text: 'Overclocked', link: '/options/Addons/Helpful/Overclocked.html' },
             { text: 'Repairman', link: '/options/Addons/Helpful/Repairman.html' },
             { text: 'Seer', link: '/options/Addons/Helpful/Seer.html' },
+            { text: 'Silent', link: '/options/Addons/Helpful/Silent.html' },
             { text: 'Sleuth', link: '/options/Addons/Helpful/Sleuth.html' },
             { text: 'Tiebreaker', link: '/options/Addons/Helpful/Tiebreaker.html' },
             { text: 'Torch', link: '/options/Addons/Helpful/Torch.html' },
@@ -181,6 +192,7 @@ export default ({
             { text: 'Celebrity', link: '/options/Crewmates/Basic/Celebrity.html' },
             { text: 'Cleanser', link: '/options/Crewmates/Basic/Cleanser.html' },
             { text: 'Doctor', link: '/options/Crewmates/Basic/Doctor.html' },
+            { text: 'Guess Master', link: '/options/Crewmates/Basic/GuessMaster.html' },
             { text: 'Lazy Guy', link: '/options/Crewmates/Basic/LazyGuy.html' },
             { text: 'Luckey', link: '/options/Crewmates/Basic/Luckey.html' },
             {
@@ -189,6 +201,7 @@ export default ({
                 { text: 'Nice Mini', link: '/options/Crewmates/Basic/MiniNice.html' }
               ]
             },
+            { text: 'Mole', link: '/options/Crewmates/Basic/Mole.html' },
             { text: 'Randomizer', link: '/options/Crewmates/Basic/Randomizer.html' },
             { text: 'Super Star', link: '/options/Crewmates/Basic/SuperStar.html' },
             { text: 'Task Manager', link: '/options/Crewmates/Basic/TaskManager.html' },
@@ -213,6 +226,7 @@ export default ({
           ],
           '/options/Crewmates/Power/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
+            { text: 'Captain', link: '/options/Crewmates/Power/Captain.html' },
             { text: 'Copycat', link: '/options/Crewmates/Power/Copycat.html' },
             { text: 'Dictator', link: '/options/Crewmates/Power/Dictator.html' },
             { text: 'Guardian', link: '/options/Crewmates/Power/Guardian.html' },
@@ -227,6 +241,7 @@ export default ({
           ],
           '/options/Crewmates/Support/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
+            { text: 'Benefactor', link: '/options/Crewmates/Support/Benefactor.html' },
             { text: 'Chameleon', link: '/options/Crewmates/Support/Chameleon.html' },
             { text: 'Coroner', link: '/options/Crewmates/Support/Coroner.html' },
             { text: 'Deputy', link: '/options/Crewmates/Support/Deputy.html' },
@@ -235,6 +250,7 @@ export default ({
             { text: 'Fortune Teller', link: '/options/Crewmates/Support/FortuneTeller.html' },
             { text: 'Grenadier', link: '/options/Crewmates/Support/Grenadier.html' },
             { text: 'Inspector', link: '/options/Crewmates/Support/Inspector.html' },
+            { text: 'Keeper', link: '/options/Crewmates/Support/Keeper.html' },
             { text: 'Lighter', link: '/options/Crewmates/Support/Lighter.html' },
             { text: 'Mechanic', link: '/options/Crewmates/Support/Mechanic.html' },
             { text: 'Medic', link: '/options/Crewmates/Support/Medic.html' },
@@ -285,6 +301,7 @@ export default ({
             { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },
             { text: 'Doppelganger', link: '/options/Experimental/Neutral/Doppelganger.html' },
             { text: 'God', link: '/options/Experimental/Neutral/God.html' },
+            { text: 'Solsticer', link: '/options/Experimental/Neutral/Solsticer.html' },
             { text: 'Spiritcaller', link: '/options/Experimental/Neutral/Spiritcaller.html' },
           ],
           '/options/Impostors/Concealing/': [
@@ -564,6 +581,86 @@ export default ({
         backToHome: 'Ramenez-moi dans mon espace sécurisé s\'il vous plaît.',
         toggleColorMode: 'Basculer le mode couleur',
         selectLanguageName: 'French',
+      },
+      'zh-CN': {
+        base: '/zh-CN/',
+        navbar: [
+          {
+            text: '角色',
+            children: [
+              {
+                text: '所有角色',
+                link: 'Roles.html',
+              },
+              {
+                text: '冒牌者角色',
+                link: 'options/Settings/Impostors.html',
+              },
+              {
+                text: '船员角色',
+                link: 'options/Settings/Crewmates.html',
+              },
+              {
+                text: '中立角色',
+                link: 'options/Settings/Neutrals.html',
+              },
+              {
+                text: '附加角色',
+                link: 'options/Settings/Addons.html',
+              },
+              {
+                text: '实验性角色',
+                link: 'options/Settings/Experimental.html',
+              },
+              {
+                text: '自定义设置',
+                link: 'options/Settings/Custom.html',
+              },
+              {
+                text: '游戏设置',
+                link: 'options/Settings/Game.html',
+              },
+              {
+                text: '游戏修改器',
+                link: 'options/Settings/Modifiers.html',
+              },
+            ]
+          },
+          {
+            text: '关于',
+            link: 'AboutUs.html',
+          },
+          {
+            text: '高级',
+            link: 'Advanced.html',
+          },
+          {
+            text: '安装',
+            link: 'GetStarted.html',
+          },
+          {
+            text: '常问问题',
+            link: 'FAQ.html',
+          },
+        ],
+        repo: '0xDrMoe/TOHRE-Code',
+        repoLabel: '贡献!',
+        docsRepo: '0xDrMoe/TOHRE-Code',
+        docsBranch: 'main',
+        editLinks: true,
+        editLinkText: '帮助我们改进这个页面!',
+        notFound: [
+          '你要去哪里?',
+          '嗯? 你怎么到这儿来了?',
+          '老实说, 你是怎么到这儿来的?',
+          '这不是你要找的页面.',
+          '这里什么也没有.',
+          '不, 这里没有.',
+          '无论你在找什么, 这里都没有'
+        ],
+        backToHome: '请把我带回我的安全空间.',
+        toggleColorMode: '切换颜色模式',
+        selectLanguageName: 'Chinese',
       },
     }
   })

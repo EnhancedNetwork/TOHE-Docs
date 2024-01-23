@@ -33,7 +33,7 @@
 <p>I help with performance improvements &amp; bug fixes, sometimes I add new roles. I also coded a customized wordle game and my own Among Us mod which are both available on my <a href="https://github.com/Gurge44" target="_blank" rel="noopener noreferrer">github<ExternalLinkIcon/></a>. I really like Among Us mods and I have a lot of motivation to keep coding and playing. I enjoy coding challenges, like roles that are very complex and/or take a while to make. I like traffic lights more than anything else, especially those in the city I live in, since they also speak and have counters. I like everything timer related.</p>
 </details>
 <hr>
-<p><a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat233</strong><ExternalLinkIcon/></a>: Feature Coding</p>
+<p><a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat233</strong><ExternalLinkIcon/></a>: Feature &amp; Role Coding</p>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 <p>(placeholder)</p>
@@ -53,10 +53,10 @@
 <p>(placeholder)</p>
 </details>
 <hr>
-<p><a href="https://github.com/FuroYT" target="_blank" rel="noopener noreferrer"><strong>FuroYT</strong><ExternalLinkIcon/></a>: Feature Coding</p>
+<p><a href="https://github.com/FuroYT" target="_blank" rel="noopener noreferrer"><strong>FuroYT</strong><ExternalLinkIcon/></a>: Feature Coding, <font color=#002654><b>French</b></font> Translator</p>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
-<p>(placeholder)</p>
+<p>I am a part of the TOHE French Translation team. I enjoy programming and gaming. I suck at drawing. I'm learning music creation.</p>
 </details>
 <hr>
 <p><a href="https://github.com/Huier-Huang" target="_blank" rel="noopener noreferrer"><strong>天寸梦初</strong><ExternalLinkIcon/></a>：Role Coding</p>

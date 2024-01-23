@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Mini
-prev: Luckey
+prev: LazyGuy
 next: Mole
 ---
 

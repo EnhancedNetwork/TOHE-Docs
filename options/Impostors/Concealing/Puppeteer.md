@@ -2,7 +2,7 @@
 lang: en-US
 title: Puppeteer
 prev: Miner
-next: Scavenger
+next: RiftMaker
 ---
 
 # <font color="red">🎭 <b>Puppeteer</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>

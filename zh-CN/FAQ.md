@@ -1,142 +1,142 @@
 ---
-lang: en-US
-title: Frequently Asked Questions
+lang: zh-CN
+title: 常见问题
 ---
 
 # FAQ
 
-## How to install mod on mobile phones, tablets, and Apple
+## 如何在手机、 平板电脑和苹果设备上安装模组
 
-You can only install mods on PC/Computer. If you have no PC/Computer, you don’t need to worry as, even if you don't have/can't get the mod, you can still join Host-Only mods (such as TOHE, TOH, PL, etc) as long as you have Among Us on any device! You can find the lobbies of these mods to join and play as long as you are on the right game version.
+您只能在电脑上安装模组。 如果你没有 PC/计算机，你不需要担心，即使你没有得到/无法得到， 只要您在任何设备上都有Among Us，您仍然可以加入仅限主机的模组(如TOHE、TOH、PL等) ！ 只要您使用正确的游戏版本，您就可以找到使用这些模组的大厅，然后加入并游玩。
 
-## You have been kicked by room
+## 您被踢出了房间
 
-This issue may occur because the room prohibits sending certain messages, such as saying "start" or other variants such as "begin". Some other causes could be that you weren't logged in, used banned words, had a banned nickname, have been banned before, or you could just be on a blacklisted device, (Check [System Settings](/options/Settings/System.html)). It may also be caused by EAC anti-cheat. If none of the above is true, then you were probably just kicked out manually by the host, or got vote-kicked by other players. Another reason you may get kicked is just connection issues.
+出现这个问题可能是因为房间禁止发送某些信息，例如说“开始”或其他变体，如“起始”，“开”，等。 其它原因可能是您未登录，使用禁用的单词，您的昵称已被封禁，或者您在黑名单上。(检查[系统设置](/options/Settings/System.html)。 它也可能是由EAC anti-cheat造成的。 如果上面没有一个是满足条件的，那么你可能只是被房主手动踢出或被其他玩家投票踢出了。 您可能被踢出的另一个原因是因为连接问题。
 
-## You have been kicked by Among Us' official anti-cheat
+## 您已被Among Us的官方反作弊踢出
 
-The official Among Us anti-cheat system often treats mods as cheats and may kick you out of the game. This situation is unavoidable, and all Host-Only mods have this problem. If you still want to enter a lobby to play, you can only contact the host to reopen the lobby.
+Among Us的官方反作弊系统常常把模组当作作弊，并可能把你踢出游戏。 这种情况是不可避免的，所有仅限主机模组都有这个问题。 如果你仍然想要进入一个大厅来玩，你只能重新连接到大厅。
 
-## Your connection to the server has been interrupted
+## 您与服务器的连接已中止
 
-If you find that other people can play normally, there are two possibilities:
+如果你发现其他人可以正常游戏，就有两种可能性：
 
-1. Among Us official servers are overloaded, this situation cannot be avoided.
+1. Among Us的官方服务器超载，这种情况是无法避免的。
 
-2. It's time for you to replace the accelerator. If a large number of players are reporting this problem, it is because of a bug in the mod, please wait patiently for the fix and update.
+2. 现在是您更换加速器的时候了。 如果很多玩家正在报告此问题。 这是因为模组中的错误，请耐心等待修复和更新。
 
-## Unable to connect to your Among Us account
+## 无法连接到Among Us的帐户
 
-There are a few possiblities such as having bad network strength, changing your VPN/VPN instability may also cause this problem. Some solutions are to restart the game, restart the VPN, restarting your router, or restarting the computer entirely.
+有几种可能性，例如网络信号不强，您的加速器的不稳定性也可能造成这个问题。 解决方案是重启游戏，重新连接加速器，重新启动您的路由器，或者重新启动计算机。
 
-## An unknown error has occurred and your connection to the server has been interrupted
+## 发生未知错误，您与服务器的连接已中止
 
-Unfortunately, this is a disconnection caused by a mod error or server error. If possible, please send the log to dev to solve the problem as soon as possible. Of course, this does not rule out your network reasons.
+不幸的是，这是由模组错误或服务器错误造成的断开连接。 如果可能，请发送日志到开发者以尽快解决问题。 当然，这并不排除您的网络原因。
 
-## The mod file is damaged, please restart the game or reinstall the mod
+## 模组文件已损坏，请重启游戏或重新安装模组
 
-There are two possibilities:
+有两种可能性：
 
-1. There is a problem with your network that causes the mod to fail to check the integrity.
+1. 您的网络存在问题，导致模组无法检查其完整性。
 
-2. The files of the mod or game are deleted or modified artificially or by a program, anti-virus software, etc.
-    First, please check whether your network is normal, and then please make sure that your network proxy software is not a global proxy. After that, please restart the game. If you still get the same prompt, please try to reinstall your vanilla Among Us files aswell as the mod files.
+2. 模组或游戏的文件被人为、某些程序或抗病毒软件删除或修改。
+   首先请检查您的网络是否正常， 然后请确保您的网络代理软件不是全局代理软件。 然后，请重新开始游戏。 如果你仍然得到同样的提示, 请尝试重新安装Among Us的原版以及模组文件。
 
-## After installing the mod, it is still in vanilla
+## 安装了 Mod 后，它仍然是原版
 
-1. This may be caused by your antivirus software identifying the mod as a virus and automatically deleting it. Please try to close the antivirus software and reinstall it.
+1. 这可能是因为您的抗病毒软件将模组识别为病毒并自动删除。 请尝试关闭抗病毒软件并重新安装它。
 
-2. Please make sure that your game path does not contain any non-English, any characters other than English and numbers in the path may cause the mod to fail to load.
+2. 请确保您的游戏路径不包含任何非英文的字符。 除英文和数字以外的任何字符出现在游戏目录都可能导致模组无法加载。
 
-## How to get the log file
+## 如何获取日志文件
 
-You have three methods to get log files:
+您有三种方法获取日志文件：
 
-1. Press <kbd>Ctrl</kbd> + <kbd>F1</kbd> in the game, then you can find the log file on your desktop, the file name starts with `TOHE...`.
+1. 在游戏中按 <kbd>Ctrl</kbd> + <kbd>F1</kbd> 然后您可以在桌面上找到日志文件，文件名以"TOHE"开头。
 
-2. Send the message "/dump" in the game, then you can find the log file on your desktop, the file name starts with `TOHE...`.
+2. 在游戏中发送消息“/dump”然后您可以在桌面上找到日志文件，文件名以"TOHE"开头。
 
-3. Please find your Among Us game directory, enter the `Among Us/BepInEx` folder, and then you will see a file called `LogOutput.log`, this is the log file.
+3. 找到您的游戏目录，找到里面的“Among Us/BeplnEX”文件夹，然后您将看到一个名为“LogOutput.log”的文件，这是日志文件。
 
-## Test Error Lv.x
+## 其他错误
 
-Please restart the game.
+请重启游戏。
 
-## The meeting cannot be end normally, and the lower left corner displays an error: Please terminate the meeting manually
+## 会议不能正常结束，左下角显示一个错误：请手动终止会议
 
-This is due to some bugs in the meeting billing that prevent the meeting from ending normally. Please press <kbd>Shift</kbd> + <kbd>M</kbd> + <kbd>Enter</kbd> to end the meeting forcefully. If possible, please send the log file to the devs so that they can solve the problem as soon as possible.
+这是因为会议上出现了一些故障，使会议无法正常结束。 请按 <kbd>Shift</kbd> + <kbd>M</kbd> + <kbd>Enter</kbd> 来强行结束会议。 如果可能，请发送日志到开发者以尽快解决问题。
 
-## The opening shows that I am one role/team, but in game I am a different role/team
+## 开局展示职业时显示我是一个角色/团队，但在游戏中，我是一个不同的角色/团队
 
-In order to be compatible with vanilla, Host-only mods have to give you a Impostor base so that you can have the kill button. (Or for some roles, such as Crewpostor, you are an Impostor but your base is Engineer so that you can do Tasks to kill.) So for players who don't have the mod installed, you will see that you are an Impostor with no teammates. The initial team you are on is your role base. Please look at the bottom of your screen on the Role Reveal screen, or above your name in game to see what your actual role/team is.
+为了与原版兼容，仅限主机模组必须给您一个Imposator职业，以便您可以拥有击杀按钮。 (对于某些角色，如Crewpostor，你是一个伪装者，但你的职业是工程师，所以你可以执行任务来击杀。) 所以对于没有安装模组的玩家来说，你会看到你是没有团队成员的伪装者。 您最初的团队是您的基础角色。 请在角色展示屏幕上查看屏幕底部， 在游戏中它显示在你的名字上面，看看你的实际角色/团队是什么。
 
-## What are the Host-Only mods
+## 什么是仅主机模组
 
-Host-Only mods are mods that are compatible with vanilla clients, meaning it only needs to be installed by the host and other players can still play without installing the mod.
+仅限主机模组是与原版客户端兼容的模组， 意味着它只需要由主机安装，其他玩家仍然可以在不安装模组的情况下玩。
 
-## The game ends inexplicably
+## 游戏令人费解地结束
 
-The game will end suddenly if there are an equal amount of Impostors alive to Non-Killing players (and the victory condition of a Neutral isn't met), the victory conditions of a Neutral is met, or the Crew is done all of their tasks. Some other possibilities may include:
+如果与中立玩家有着相同数量的内鬼，游戏将突然结束(并且中立的胜利条件没有得到满足)， 中立的胜利条件已经得到满足，或者船员完成了他们的所有任务。 其他一些可能性包括：
 
-1. You have turned on the "Ghost ignores tasks" option and all alive players are finished tasks.
+1. 您已经打开了“幽灵忽略任务”选项，并且所有存活的玩家都已完成任务。
 
-2. You have made the punishment of the "Voting Mode" option to be Suicide, which could have killing all players, leaving Impostors or Neutrals alive to take the win.
+2. 您已经惩罚了“投票模式”选择为自杀, 这可能会杀死所有玩家，让内鬼或中立者活着赢得胜利。
 
-3. The host or a certain player made a fatal error, and the mod forcibly ended the game to prevent the game from being freezing.
+3. 主机或某个玩家造成了致命的错误，模组强行结束游戏以防止游戏被冻结。
 
-4. None of these, make a #bug-report (Include Logs from /dump!)
+4. 所有这些都不会生成#bug-report (包括/dump的日志!)
 
-## Just after the start, it shows that the host has forced the end of the game
+## 刚刚开始后，它会显示主机已强制游戏结束
 
-It's a protection mechanism, just ignore it and keep playing. The reason this occurs is because, there is a bug with Host-Only mods that fails to assign roles. When the bug occurs in the original Town of Host, the host will not be able to see the start button, and other players will be loaded with an infinite black screen. In this case, everyone can only exit the game. In Town of Host: Enhanced, in order to avoid this situation, it will automatically detect whether other players are stuck in loading, and if detected, the game will be automatically terminated to prevent everyone from being stuck.
+它是一种保护机制，请忽略它而继续玩耍。 之所以出现这种情况，是因为存在一个仅限主机模组的错误，无法分配角色。 当错误发生在原始Town of Host时，主机将无法看到启动按钮， 和其他玩家将被无限的黑屏加载。 在这种情况下，每个人都只能退出游戏。 在Town of Host: Enhanced为了避免这种情况，它将自动检测其他玩家是否被卡住， 如果检测到，游戏将自动终止，以防止每个人被卡住。
 
-## Most of the screen is black, but I can interact with the GUI and the sound can still be heard
+## 大部分屏幕是黑色的，但我可以与GUI交互，声音仍然可以被听见
 
-This is caused by the failure of the client to assign roles, and it is also one of the unavoidable problems of Host-Only mods. Unfortunately, when this happens, you have to quit the game or just wait until the game ends.
+这是由于客户未能分配角色造成的，这也是仅限主机模式不可避免的问题之一。 不幸的是，当这种情况发生时，你必须退出游戏，或者等到游戏结束。
 
-## There are a lot of duplicate roles in the game
+## 游戏中有很多重复角色
 
-This most likely isn't a bug, please make sure the duplicated role has a Maximum of 1 rather than 2-15.
+这可能不是一个漏洞，请确保重复角色的最大值为1而不是2-15。
 
-## I got vanilla roles
+## 我得到了原版职业
 
-There are a few posibilities
+有几种可能性
 
-1. You might need to turn on the "Disable vanilla roles" option.
+1. 您可能需要打开“禁用原版角色”选项。
 
-2. You may need to enable more roles or allow more players to be the same role.
+2. 您可能需要启用更多角色或允许更多玩家成为相同角色。
 
-3. You may come accross this message: "There are incompatible roles in your role list, you may experience vanilla roles", which means you have a certain role & it's addon form enabled, (You can find info on what roles/addons are incompatible on these pages: [Crewmate](/options/Crewmates/Vanilla/Crewmate.html) | [Engineer](/options/Crewmates/Vanilla/Engineer.html) | [Scientist](/options/Crewmates/Vanilla/Scientist.html)) (This should not occur anymore as of 1.2.1 dev 3)
+3. 您可能会收到此消息：“角色列表中有不兼容的角色 您可以体验原版角色“，这意味着您有一个特定的角色，它的添加表单已启用， (您可以在这些页面找到角色/附加组件不兼容的信息: [Crewmate](/options/Crewmates/Vanilla/Crewmate.html)  | [Engineer](/options/Crewmates/Vanilla/Engineer.html) | [Scientist](/options/Crewmates/Vanilla/Scientist.html) (从1.2.1 dev 3) 不应再发生这种情况)
 
-4. Eraser might've erased your role, resetting you to your base role (Impostor/Shapeshifter/Crewmate/Engineer/Scientist are all Base Roles (Base Role =/= Team/Role))
+4. 擦除你的角色，重置你的基本角色 (Impostor/Shapeshifter/Crewmate/Engineer/Scientist 都是基础角色(Base Role =/= Team/Role))
 
-## The game never ends
+## 游戏永远不结束
 
-There are a few possibilities,
+有几种可能性，
 
-1. You have enabled "No Game End" in settings. Please turn it off to play normally.
+1. 您已在设置中启用"游戏不结束"。 请关闭它来正常游玩。
 
-2. If there is equal amount of Crewmates to Impostors, a Crewmate may have the Scizophrenic addon (count as 2 people)
+2. 如果同内鬼相同的船员数量，船员可能有Scizophre野外插件(计为2人)
 
-3. If Cultist is enabled, you might have "Charmed players count as" set to Cultist. You need to have it set to Nothing (They will not count as an Alive player) or Original Team (They will count as their Original Team), as setting it to Cultist means that Charmed players are counted as another alive Cultist. (they wont have recruiting powers like Cultist but game will treat them like they are Cultist.)
+3. 如果启用Cultist，您可能已将“聊天玩家计数为”设置为“Cultist”。 您需要设置为“死的” (他们不会计为活着玩家) 或原团队(他们将计为他们的原团队)， 将其设置为Cultist, 意味着聊天玩家被视为另一个活着的Cultist。 (他们不会像Cultist那样拥有完成任务的能力，但游戏会像Cultist一样对待他们。)
 
-4. Nobody has met their victory condition. (This may be obvious but, Impostors haven't killed everyone, Crewmates haven't finished all tasks/exiled all evil roles, etc)
+4. 没有人达到他们的胜利条件。 (这可能是很明显的，但内鬼没有杀死任何人，船员尚未完成所有任务，没有流放所有内鬼等)
 
-5. None of these, make a #bug-report (Include Logs from /dump!)
+5. 所有这些都不会生成#bug-report (包括/dump的日志!)
 
-## What is Game Master/GM?
+## 什么是游戏管理员/GM？
 
-The Game Master is an observer role.<br>
-Their presence has no effect on the game, and all players know who the Game Master is. The Game Master role will be assigned to the host, who will automatically become a ghost at the start of the game.<br>
-(Note: You can enable this in the Settings Gear. If you want to play normally, disable in again in the Settings Gear)
+游戏管理员是巡查员。<br>
+他们的存在对游戏没有影响，所有玩家都知道谁是游戏管理员。 游戏管理员角色将分配给主机，游戏管理员将在游戏开始时自动变成幽灵。<br>
+(注意：您可以在设置器中启用此功能。 如果您想要正常游玩，请在设置里禁用)
 
-## How can I access Canary & Dev Builds
+## 如何访问开发版本
 
-1. Become a Translator, Sponsor (Initiate+), or Nitro Booster for Canary Access.
+1. 成为翻译者、赞助者(Initiate+) 或Nitro Booster访问开发版本。
 
-2. Become a Contributor, Tester, or Sponsor (Insider+) for Canary <i>and</i> Dev Access.<br>
-Read near the bottom of the [Install/Get Started](/GetStarted.html) page.
+2. 要成为有Canary <i>和</i> Dev 访问权限的贡献者、测试者或赞助者(Insider+) 。<br>
+   请阅读[Install/Get Started](/GetStarted.html) 页面底部。
 
-## Can you use the Submerged mod with TOHE?
+## 您是否可以使用TOHE的子模组？
 
-While this is technically possible, we don't recommend it as Submerged still requires all players to have it to play. If you do want to attempt this, we can say that the host would need Town of Host: Enhanced (TOHE) installed (as it's intended for only the host to install), as well as having Submerged installed. All of the people in your lobby could join normally but they would need the Submerged mod installed. (This applies to any custom Among Us map, Submerged is used in the example however, as it's one of the most popular)
+虽然这在技术上是可能的，但我们不推荐它，因为子模组仍然要求所有玩家都需要安装它。 如果您确实想尝试这样， 主机将需要安装一个Town of Host：Enhanced (TOHE) (因为它可以只安装主机)， 以及所有人将需要安装子模组。 您大厅中的所有人都可以正常加入，但他们需要安装子模组。 (这适用于Among Us任何自定义的地图，子模组被用在示例中，因为它是最受欢迎的版本之一)

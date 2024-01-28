@@ -1,27 +1,29 @@
 ---
-lang: en-US
-title: Amnesiac
+lang: zh-CN
+title: 失忆者
 prev: /options/settings/Neutrals.html
-next: Follower
+next: 赌徒
 ---
 
-# <font color="#7FBFFF">🧠 <b>Amnesiac</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
----
+# <font color="#7FBFFF">🧠 <b>失忆者</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
 
-As the Amnesiac, use your report button on a body to remember their role.<br><br>
-If the target was an Impostor, you'll become a Refugee.<br>
-If the target was a Crewmate, you'll become the target role if compatible (otherwise you become Engineer).<br>
-If the target was a passive neutral or a neutral killer not specified, you'll become the role defined in the settings.<br>
-If the target was a neutral killer of a select few, you'll become the role they are.<br>
-* Max
-  * Set the Maximum amount of Amnesiacs that can be in a match
-* If neutral is incompatible, turn into
-  * Set what role the Amnesiac will become if they try to remember a role that is incompatible with the Amnesiac, choose from:
-    * Amnesiac
-    * Witch
-    * Pursuer
-    * Follower
-    * Maverick
-    * Imitator
+***
 
-> From: ToUR
+失忆者使用报告按钮记住玩家的身份。<br><br>
+如果目标是内鬼，你将变成逃亡者。<br>
+如果目标是船员，且符合条件的话，你将成为目标的身份(否则你会成为工程师)。<br>
+如果目标是被动中立或未指定的带刀中立，你会成为设置中的中立身份。<br>
+如果目标是少数人中的带刀中立，你将会成为他们的身份。<br>
+
+- 最大人数
+  - 设置一局游戏中失忆者的最大数量
+- 如果中立不兼容，则变为
+  - 设置如果失忆者记忆了一个不兼容的角色时，失忆者将变为什么身份，从以下选项中选择：
+    - 失忆者
+    - 巫婆
+    - 起诉人
+    - 赌徒
+    - 独行者
+    - 效仿者
+
+> 职业来自：ToUR

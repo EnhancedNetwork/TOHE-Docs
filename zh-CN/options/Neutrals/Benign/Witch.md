@@ -1,21 +1,23 @@
 ---
-lang: en-US
-title: Witch
-prev: Taskinator
-next: /options/settings/Neutrals.html
+lang: zh-CN
+title: 女巫
+prev: 任务执行者
+next: ""
 ---
 
-# <font color="#bf5fff">🧙‍♀️ <b>Witch</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
----
+# <font color="#bf5fff">🧙‍♀️ <b>女巫</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
 
-Interact with people to make them kill one-another, stay alive to win (non-crew team win).
-* Control Cooldown
-  * Set how long a Witch has to wait to make people kill each other
-* Can Vent
-  * <font color=green>ON</font>: the Witch can vent
-  * <font color=red>OFF</font>: the Witch cannot vent
-* Has <font color=red>Impostor</font> Vision
-  * <font color=green>ON</font>: the Witch has <font color=red>Impostor</font> Vision
-  * <font color=red>OFF</font>: the Witch does not have <font color=red>Impostor</font> Vision
+***
 
-> From: Town of Salem 1 & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+与人们互动，让他们互相残杀，活着取胜(非船员阵营获胜)
+
+- 控制冷却时间
+  - 设定女巫需要等待多长时间才能杀死他人
+- 是否可以使用通风口
+  - <font color=green>开</font>女巫可以使用通风口
+  - <font color=red>关</font>女巫无法使用通风口
+- 是否拥有<font color=red>内鬼</font>视野
+  - <font color=green>开</font>女巫拥有<font color=red>内鬼</font>视野
+  - <font color=red>关</font>女巫没有<font color=red>内鬼</font>视野
+
+> 创建者:Town of Salem II & Coding: [Loonie Toons](https://github.com/Loonie-Toons)

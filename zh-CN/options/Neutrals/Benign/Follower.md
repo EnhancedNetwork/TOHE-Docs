@@ -1,27 +1,30 @@
 ---
-lang: en-US
-title: Follower
-prev: Amnesiac
-next: Hater
+lang: zh-CN
+title: 赌徒
+prev: 失忆者
+next: FFF团
 ---
 
-# <font color="#ff9409">🚶 <b>Follower</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
----
+# <font color="#ff9409">🚶<b>赌徒</b></font><Badge text="Benign" type="tip" vertical="middle"/>
 
-The Follower can use their Kill button to Follow players, and use it again to follow another player. They will win with their Target, and they can win after death.
-* Maximum Number of Follows
-  * Set the amount of times a Follower can swap their Target
-* Follow Cooldown
-  * Set how long a Follower needs to wait to Follow a player
-* Increase Cooldown per 1 follow by
-  * Set how much the Followers follow cooldown increases after each target swap
-* Maximum Follow Cooldown
-  * Set the Maximum amount of time a Followers follow cooldown can go up to
-* Follower knows their target’s role
-  * <font color=green>ON</font>: the Follower will see their target's role
-  * <font color=red>OFF</font>: the Follower has no clue what their target's role is
-* Follower’s target knows who the Follower is
-  * <font color=green>ON</font>: the Follower’s target can see who the Follower is
-  * <font color=red>OFF</font>: the target will have no idea who the Follower is
+***
 
-> From: TOHY & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+赌徒可以使用击杀键对任意玩家下注，然后可以再次下注另一名玩家。 赌徒与目标一齐胜利，死亡后也可以胜利。
+
+- 下注次数上限
+  - 设置赌徒下注目标的次数
+- 下注冷却时间
+  - 设置赌徒需要相隔多久才可以下注他人
+- 每下注一个人增加冷却
+  - 设置赌徒每下注一个人增加多少冷却
+- 赌徒最大冷却
+  - 设置赌徒冷却最大值
+- 赌徒知道他下注的人的职业
+  - <font color=green>启用</font>：赌徒可以看到目标的职业
+  - <font color=red>关闭</font>：赌徒不知道目标的职业
+- 目标知道谁是赌徒
+  - <font color=green>启用</font>：赌徒的目标可以看见谁是赌徒
+  - <font color=red>关闭</font>：赌徒的目标并不知道谁是赌徒
+
+> 职业来自：TOHY的编程员：咔皮呆
+> (https\://github.com/KARPED1EM)

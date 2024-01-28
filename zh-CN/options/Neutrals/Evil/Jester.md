@@ -1,33 +1,36 @@
 ---
-lang: en-US
-title: Jester
-prev: Innocent
-next: Masochist
+lang: zh-CN
+title: 小丑
+prev: 无辜者
+next: 受虐狂
 ---
 
-# <font color="#ec62a5">🤡 <b>Jester</b></font> <Badge text="Evil" type="tip" vertical="middle"/>
----
+# <font color="#ec62a5">🤡 <b>小丑</b></font> <Badge text="Evil" type="tip" vertical="middle"/>
 
-If the Jester get voted out, the Jester wins the game alone. If the Jester is still alive at the end of the game, the Jester loses the game. Note: Jester, Executioner, and Innocent can win together.
-* Max
-  * Set the Maximum amount of Jesters that can be in a match.
-* Can call emergency meetings
-  * <font color=green>ON</font>: this role can call a meeting like normal
-  * <font color=red>OFF</font>: this role cannot call an emergency meeting
-* Can Vent
-  * <font color=green>ON</font>: this role gets the ability to Vent
-  * <font color=red>OFF</font>: this role cannot Vent
-* * Has Impostor Vision
-  * <font color=green>ON</font>: the Jester has the same vision as an Impostor
-  * <font color=red>OFF</font>: the Jester has default vision
-* Hide Jester's Vote
-  * <font color=green>ON</font>: the Jester's vote will be hidden from other players
-  * <font color=red>OFF</font>: the Jester's vote will be shown to other players
-* <font color=#f46f4e>(Hidden Role) Sunnyboy - Has a % chance of replacing Jester</font>
+***
+
+如果小丑被投出，那么小丑就能赢得这场游戏 如果小丑在游戏结束时还活着，那么小丑就会输掉这场游戏 注：小丑、刽子手和无辜可以携手共赢
+
+- 最大值
+  - 设置一场比赛中可以出现的最大小丑数量
+- 是否可以召开紧急会议
+  - <font color=green>开启</font>：此角色可以像正常一样召开会议
+  - <font color=red>关闭</font>：此角色不能召开紧急会议
+- 是否能使用通风管道
+  - <font color=green>开启</font>：此角色能够使用通风口
+  - <font color=red>关闭</font>：此角色不能使用通风口
+- - 是否拥有内鬼视野
+  - <font color=green>开启</font>：小丑和内鬼有着相同的视野
+  - <font color=red>关</font>：小丑只有默认视野
+- 是否隐藏小丑的投票
+  - <font color=green>开</font>：小丑的投票将对其他玩家隐藏
+  - <font color=red>关</font>:小丑的投票会被其他玩家看见
+- <font color=#f46f4e>(隐藏角色)阳光开朗大男孩有  %的机会替换Jester</font>
 
 <center>
 
-[<font color="#ff9902">Sunnyboy</font>](./Sunnyboy.html)
+[<font color="#ff9902">阳光开朗大男孩</font>](./Sunnyboy.html)
+
 </center>
 
-> From: TOH
+> 创建者: Town Of Host

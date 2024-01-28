@@ -1,26 +1,28 @@
 ---
-lang: en-US
-title: Imitator
-prev: Hater
-next: Lawyer
+lang: 职业来自：TOHERE 失忆老人
+title: 效仿者
+prev: FFF团
+next: 律师
 ---
 
-# <font color="#b3d94c">👥 <b>Imitator</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
----
+# <font color="#b3d94c">👥 <b>模仿者</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
 
-As the Imitator, use your kill button to imitate a player.<br><br>
-You'll either become a Sheriff, Refugee, or some other Neutral.<br>
-* Max
-  * Set the Maximum amount of Imitators that can be in a match
-* Imitate Cooldown
-  * Set time an Imitator must wait before they can imitate another player
-* If neutral is incompatible, turn into
-  * Set what role the Imitator will become if they try to imitate a role that is incompatible with the Imitator, choose from:
-    * Amnesiac
-    * Imitator
-    * Witch
-    * Pursuer
-    * Follower
-    * Maverick
+***
 
-> From: TOHRE (Old Amnesiac)
+模仿者可以使用击杀键去模仿别人的职业.<br><br>
+你可以成为警长, 逃亡者或者其他中立.<br>
+
+- 模仿者最大数量
+  - 一场游戏内最多可以存在多少个模仿者
+- 模仿冷却
+  - 模仿者需要多久时间后才可以模仿别人
+- 如果模仿的职业不能模仿会成为什么
+  - 设置如果模仿者模仿的职业不可以模仿会变成什么
+    - 失忆者
+    - 模仿者
+    - 巫师
+    - 起诉人
+    - 赌徒
+    - 独行者
+
+> 职业来自：TOHERE (失忆老人)

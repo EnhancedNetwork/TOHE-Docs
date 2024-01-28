@@ -1,25 +1,28 @@
 ---
-lang: en-US
-title: Pixie
-prev: Opportunist
-next: Pursuer
+lang: zh-CN
+title: 小精灵
+prev: 投机者
+next: 起诉人
 ---
 
-# <font color="#01ff00">🧚 <b>Pixie</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
----
+# <font color="#01ff00">🧚 <b>小精灵</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
 
-As the Pixie, Mark up to X amount of targets each round by using kill button on them. When the meeting starts, your job is to have one of the marked targets ejected. If unsuccessful you will suicide, except if you didn't mark any targets or all the targets are dead. The selected targets resets to 0 after the meeting ends. If you succeed you will gain a point. You see all your targets in colored names.<br><br>
-You win with the winning team when you have certain amounts of points set by the host.
-* Max
-  * Set the Maximum amount of Pixies that can be in a match 
-* Number of points required to win
-  * Set how many points the Pixie must collect to win
-* Maximum number of targets per round
-  * Set how many people the Pixie can mark per round
-* Mark cooldown
-  * Set how long the Pixie has to wait to mark a player
-* Pixie suicides if target is not voted out
-  * <font color=green>ON</font>: the Pixie will suicide if none of their targets are voted out
-  * <font color=red>OFF</font>: the Pixie will not suicide even if none of their targets are voted out
+***
 
-> Idea: [Azanthiel] & Coding: [ryuk](https://github.com/ryuk2098)
+小精灵可以使用击杀键去标记一名玩家 当会议开启时, 你的目标就是驱逐你的目标 如果你没驱逐该名目标, 你将会自杀, 除非你没有标记任何目标或者所以目标都死光了 当会议结束后, 目标将会变为0 如果你成功驱逐目标你将会拿到一分 你可以看见你的目标的名字有颜色.<br><br>
+当你拿到的分数达到了房主设置的数量, 你会和胜利的阵营一起胜利
+
+- 小精灵的最大数量
+  - 一场游戏内最多可以存在多少小精灵
+- 需要多少分数才可以胜利
+  - 设置小精灵需要拿到的分数以获取胜利
+- 一轮内最多可以有多少个目标
+  - 设置小精灵在一轮游戏中可以标记多少个目标
+- 标记冷却
+  - 设置小精灵需要多久才可以标记玩家
+- 如果目标没有被驱逐, 小精灵会不会自杀
+  - <font color=green>启用</font>：如果没有任何一个目标被驱逐, 小精灵将会自杀
+  - <font color=red>关闭</font>：即使没有任何一个目标被驱逐, 小精灵也不会自杀
+
+> 想法来源：编程：ryuk
+> (https\://github.com/ryuk2098)

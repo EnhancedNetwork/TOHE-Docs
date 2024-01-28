@@ -1,29 +1,31 @@
 ---
-lang: en-US
-title: Hater
-prev: Follower
-next: Imitator
+lang: zh-CN
+title: FFF团
+prev: 赌徒
+next: 效仿者
 ---
 
-# <font color="#414b66">😠 <b>Hater</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
----
+# <font color="#414b66">😠 <b>FFF团</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
 
-As the Hater, you have no kill cooldown. However, you can only kill Lovers, and other recruiting roles/recruited add-ons, depending on the settings. Killing anyone else will make you suicide. You win at the end of the game with the winning team if none of the killable roles are alive. You will not be Lovers.
-* Max
-  * Set the Maximum amount of Haters that can be in a match 
-* Hater kills target when misfire
-  * <font color=green>ON</font>: The Hater will kill their target on misfire
-  * <font color=red>OFF</font>: The Hater will not kill their target on misfire
-* Select addons that Hater can kill
-  * <font color=green>ON</font>: Choose addons that the Hater can kill without misfiring
-    * Madmate
-    * Charmed
-    * Lovers
-    * Jackal Team
-    * Egoist
-    * Infected Team
-    * Virus Team
-    * Admirer
-  * <font color=red>OFF</font>: Don't choose addons that the Hater can kill without misfiring
+***
 
-> Idea: [thewhiskas27] & Coding: [NikoCat233](https://github.com/NikoCat233) (Originally From: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM))
+FFF团没有击杀冷却 但是你只能击杀恋人和可以招募人的职业, 随着设定而变化 击杀其他职业的人会使你自杀 你会胜利在游戏结束后如果场上没有任何带刀职业存活 你无法成为恋人
+
+- 最大
+  - 一场游戏内可存在的FFF团数量
+- FFF团会击杀对方即使刀错了
+  - 一场游戏内可存在的FFF团数量
+- 选择FFF团可以击杀的职业
+  - <font color=green>启用</font>：FFF团可以击杀的职业
+    - 叛徒
+    - 魅魔的随从
+    - 恋人
+    - 豺狼阵营
+    - 利己主义者
+    - 被感染的人
+    - 病毒阵营
+    - 被仰慕的人
+  - <font color=red>关闭</font>：不能选择FFF团可击杀职业
+
+> 想法来自：nikocat233
+> (https\://github.com/NikoCat233) (原作者: SNR & Coding: [咔皮呆](https://github.com/KARPED1EM))

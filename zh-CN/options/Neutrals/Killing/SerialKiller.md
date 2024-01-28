@@ -1,29 +1,31 @@
 ---
-lang: en-US
-title: Serial Killer
-prev: Pyromaniac
-next: Shroud
+lang: zh-CN
+title: 连环杀手
+prev: 焚烧狂
+next: 裹尸布
 ---
 
-# <font color="#233fcc">🔪 <b>Serial Killer</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
----
+# <font color="#233fcc">🔪 <b>连环杀手</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
-As the Serial Killer, your job is to simply murder everyone to win.
-* Kill Cooldown
-  * Set how long the Serial Killer needs to wait to Kill
-* Can Vent
-  * <font color=green>ON</font>: the Serial Killer has the ability to Vent
-  * <font color=red>OFF</font>: the Serial Killer cannot vent
-* Has <font color=red>Impostor</font> Vision
-  * <font color=green>ON</font>: the Serial Killer has the same vision as an Impostor
-  * <font color=red>OFF</font>: the Serial Killer has default vision
-* Has Serial Killer Buddy
-  * <font color=green>ON</font>: the Serial Killer gets a teammate on their team
-    * Chance to Spawn
-      * Set the chance that the Serial Killer will have to get a teammate
-  * <font color=red>OFF</font>: the Serial Killer will be alone
-* Reflect harmful interactions
-  * <font color=green>ON</font>: the Serial Killer will be impacted by any harmful interactions
-  * <font color=red>OFF</font>: the Serial Killer will be immune to any harmful interactions
+***
 
-> From: Town of Salem 1 & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+作为连环杀手，你的工作就是简单地击杀所有船员来取得获胜
+
+- 击杀冷却
+  - 设置连环杀手等待杀戮所需的时间
+- 是否可以使用通风口
+  - <font color=green>开</font>：连环杀手可以使用通风口
+  - <font color=red>关闭</font>连环杀手不能使用通风口
+- 拥有<font color=red>伪装者</font>视野
+  - <font color=green>开</font>连环杀手与内鬼有着相同的视野
+  - <font color=red>关</font>连环杀手有默认的视野
+- 连环杀手有同伴
+  - <font color=green>开</font>连环杀手有一个队友加入他们的团队
+    - 可能生成
+      - 设置连环杀手获得队友的机会
+  - <font color=red>关</font>连环杀手将孤军奋战
+- 反映有害的相互作用
+  - <font color=green>开启</font>: 连环杀手将受到任何有害交互的影响
+  - <font color=red>关闭</font>︰ 连环杀手将免受任何有害交互的影响
+
+> 创建者:Town of Salem II & Coding: [Loonie Toons](https://github.com/Loonie-Toons)

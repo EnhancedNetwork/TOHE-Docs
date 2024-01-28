@@ -10,7 +10,7 @@ next: Ludopath
 
 As the Instigator, it's your job to turn the crewmates against each other. Each time a Crewmate is voted out in a meeting, as long as you are alive, an additional Crewmate who voted for the innocent player will die after the meeting. The number of additional players dying is determined by the host.
 * Max
-  * Set the Maximum amount of Instigator’s that can be in a match
+  * Set the Maximum amount of Instigators that can be in a match
 * Kill Cooldown
   * Set how long the Instigator has to wait to Kill
 * Ability Use Count

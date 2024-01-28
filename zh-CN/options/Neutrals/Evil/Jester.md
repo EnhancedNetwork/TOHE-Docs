@@ -9,7 +9,6 @@ next: Masochist
 ---
 
 If the Jester get voted out, the Jester wins the game alone. If the Jester is still alive at the end of the game, the Jester loses the game. Note: Jester, Executioner, and Innocent can win together.
-
 * Max
   * Set the Maximum amount of Jesters that can be in a match.
 * Can call emergency meetings

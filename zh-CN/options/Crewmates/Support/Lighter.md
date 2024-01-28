@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Lighter
-prev: Inspector
+prev: Keeper
 next: Mechanic
 ---
 

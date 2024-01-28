@@ -9,7 +9,6 @@ next: Guesser
 ---
 
 As the Gravestone, your role is revealed to everyone when you die.
-
 * Max
   * Set the Maximum amount of Gravestones that can be in a match
 * Spawn Chance

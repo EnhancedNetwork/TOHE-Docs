@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Sleuth
-prev: Seer
+prev: Silent
 next: Tiebreaker
 ---
 

@@ -2,7 +2,7 @@
 lang: en-US
 title: Doctor
 prev: Cleanser
-next: LazyGuy
+next: GuessMaster
 ---
 
 # <font color="#80ffdd">👨‍⚕️ <b>Doctor</b></font> <Badge text="Basic" type="tip" vertical="middle"/>

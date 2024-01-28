@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Lazy
-prev: DoubleShot
+prev: Flash
 next: Loyal
 ---
 
@@ -10,7 +10,6 @@ next: Loyal
 
 As the Lazy, you are assigned a single short task and are immune to Warlocks, Puppeteers, and Gangsters.<br>
 The Witch can still control you.
-
 * Max
   * Set the Maximum amount of Lazys that can be in a match.
 * Spawn Chance

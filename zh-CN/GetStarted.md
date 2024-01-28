@@ -1,56 +1,63 @@
 ---
-lang: en-US
-title: Installation
+lang: zh-CN
+title: 安装
 ---
 
-# INSTALLATION
+# 安装
 
+## 分发政策
 
-## Distribution Policy
+<b>开发版本是不可以分发给玩家的。 如果您被发现正在分发这些开发版本，您将被撤销您的职位，并且您对构建的访问权限将被撤销。 <br>
+如果您是创作者，您可以在视频中使用这些开发版本，但您可能无法为您的观众提供下载链接。 如果您被发现正在分发这些开发版本，您将被撤销您的职位，同时您对构建的访问权限将被撤销。<br><br>
+这是为了不让我们的赞助者、贡献者、测试者和翻译者滥用职权。 如果您有兴趣成为其中一员，请参阅以下部分了解更多信息。</b>
 
-<b>Dev Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
-If you are a content creator, you may use these builds in your videos, but you may not provide a download link to your viewers. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked.<br><br>
-This policy is in place to keep the integrity of our Sponsor, Contributor, Tester, and Translator roles. If you are interested in becoming one of these roles, please see the below sections for more information.</b>
+## 安装教程
 
-## MANUAL INSTALLATION
-Installation requires that you own a PC version of Among Us on Steam, Epic, or Itch. 
+安装需要您在Steam、Epic或Itch上拥有Among Us的PC版本。
 
-1. Download the latest full Release of TOHE in #mod-release or [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases). You only need the main zip such as "TOHE.v1.0.0.zip", not the source code files.
+1. 下载最新版本的 TOHE 版本在 #mod-release 或 [here]
+   (https\://github.com/0xDrMoe/TownofHost-Enhanced/releases)。 您只需TOHE压缩包，例如"TOHE.v1.0.0zip"，而不是源代码文件。
 
-2. Once the download is complete, unzip it into the location of your choice. Example: C:\TOHE
+2. 下载完成后，解压到任意一个文件夹。 例如：C:\TOHE
 
-3. Locate your AmongUs install. For example, if you own the game on Steam, you can find this by right clicking on the game in your library, selecting "Manage", and finally selecting "Browse local files."
-![image](./images/SteamGetFolder.png)
+3. 找到您的Among Us游戏目录。 例如，如果你拥有Steam游戏，你可以通过右键点击你的库中的游戏来找到这个游戏，选择"管理"，最后选择"浏览本地文件"。
+   ![image](./images/SteamGetFolder.png)
 
-4. Select all of the files in your AmongUs installation and copy them to the folder that now has the files from the TOHE release. The folder should now look something like this:
-![image](./images/ResultFolder.png)
+4. 选择您在 AmongUs 安装文件夹中的所有文件并将其复制到刚才解压TOHE文件的文件夹。 文件夹现在应该像这样：
+   ![image](./images/ResultFolder.png)。
 
-5. Within the TOHE folder, run Among Us.exe. The first time running it may take some time while the mod sets up its files. If you see a black screen, just wait a couple minutes. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.
+5. 在文件夹中，运行Among Us.exe。 第一次运行可能需要一些时间才能让模组设置完成其它文件。 如果你看到黑屏，请等几分钟。 一旦它完成加载，您应该看见一个带有TOHE新闻的窗口。 如果您看不到任何关于TOHE的信息，请检查您的文件是否都在文件夹中。
 
-6. (Optional) Right click your Among Us.exe and click 'Create shortcut'. Move your new shortcut to wherever you can easily access it, such as your Desktop!
-#### You have now installed Town of Host: Enhanced! All that remains is to start up a private lobby and customize your settings.
+6. (可选) 右键单击您的Among Us.exe，然后单击“创建快捷方式”。 将您的快捷方式移动到您可以轻松访问的地方，例如桌面。
 
-## New Releases
-Keep an eye on the [releases page](https://github.com/0xDrMoe/TownofHost-Enhanced/releases) for new releases. If a new version is released, all you'll usually need to do is repeat steps 1-2 above, unzipping into the same folder where you already have it installed and letting it overwrite. If it says it requires a newer version of Among Us, repeat steps 3-5 as well after making sure your base game is up to date.
+#### 您现在已经安装了Town of Host: Enhanced！ 然后您可以启动一个私人房间并且自定义您的房间设置。
 
-## Installing Dev Builds/Canary Builds
-1. Download the latest dll in #dev-builds or #canary-builds.
+## 新版本发布
 
-2. Once the download is complete, move the dll into your Among Us\BepInEx\plugins folder. ("Among Us" being your modded Among Us folder.)
+请关注 (https\://github.com/0xDrMoe/TownofHost-Enhanced/releases) 以获取新版本。 如果发布了新版本，您需要做的重复上面的步骤 1-2，解压到已经安装的同一文件夹中，然后将它覆盖。 如果TOHE提示需要更新Among Us的版本，请确保您的Among Us版本是最新的。
 
-3. Within the TOHE folder, run Among Us.exe. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.
+## 安装开发版本
 
-4. (Optional) Right click your Among Us.exe and click 'Create shortcut'. Move your new shortcut to wherever you can easily access it, such as your Desktop!
-#### You have successfully installed a Dev Build/Canary Build!
+1. 在 #dev-build或 #cany-builds 中下载最新的 dll。
 
-## How to gain Dev Builds Access<br>
-* Accessible by Contributors, Testers, and Sponsors that are at least Insider tier.<br>
-`NOT FOR DISTRIBUTION`
-- To become a <b>Contributor</b>, you need to help with coding in roles/addons/gamemodes/etc related to the mod
-- To become a <b>Tester</b>, you must be an active content creator with your <b>TOHE videos</b> having 600+ views on average
-- To become a <b>Sponsor</b>, you need to purchase a tier on our [Ko-fi](https://ko-fi.com/TOHEN) (For Dev Builds access specifically, you need to purchase at least Insider tier for $5.00)
+2. 下载完成后，将dll 移动到您的Among Us\BepInExx\plugins 文件夹中。 (当前Among Us文件夹需要是安装了TOHE的文件夹)
 
-Once you have been accepted into one of the above roles, you will be able to access the #dev-builds channel in the [Town of Host: Enhanced Discord](https://discord.gg/tohe)
+3. 在文件夹中，运行Among Us.exe。 一旦它完成加载，您应该看见一个带有TOHE新闻的窗口。 如果您看不到任何关于TOHE的信息，请检查您的文件是否都在文件夹中。
 
-## How to gain Canary Builds Access<br>
-* Visit the [TOH: Enhanced Discord](https://discord.gg/tohe) and visit #canary-builds, and download the latest dll!
+4. (可选) 右键单击您的Among Us.exe，然后单击“创建快捷方式”。 将您的快捷方式移动到您可以轻松访问的地方，例如桌面。
+
+#### 你已经成功安装了一个开发版本！
+
+## 如何获取开发版本的访问权限<br>
+
+- 参与者、测试者和至少是内部人员级别的赞助商都可以访问<br>“不用于分发”
+
+* 要成为一个 <b>贡献者</b>，您需要帮助编程中与模组相关的角色、插件、游戏模式和其他部分
+* 要成为<b>测试者</b>，您必须是一名活跃的UP主/油管主，您的<b>TOHE视频</b>平均浏览量超过600次
+* 要成为<b>赞助者</b>，您需要在我们的[Ko-fi](https://ko-fi.com/TOHEN)上购买(特别是对于开发人员构建访问，您需要以5.00美元的价格购买至少一个Insider层）
+
+一旦您被接纳为上述角色之一， 您将能够访问在 [Town of Host：Enhanced Discord](https://discord.gg/tohe)上的#dev_build频道。
+
+## 如何获取开发版本的访问权限<br>
+
+- 要访问测试版发布，请访问 [TOH: Enhanced Discord](https://discord.gg/tohe) 的 #canary-builds 并下载最新的 dll！

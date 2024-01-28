@@ -1,27 +1,28 @@
 ---
-lang: en-US
-title: Autopsy
-prev: /options/Settings/Addons.html
-next: Bait
+lang: zh-US
+title: 验尸
+prev: /options/settings/Neutrals.html
+next: 诱饵
 ---
 
-# <font color=#80ffdd>➕ <b>Autopsy</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
----
+# <font color=#80ffdd><b>尸检</b></font><Badge text="Helpful" type="tip" vertical="middle"/>
 
-As the Autopsy, you can see how people died.<br><br>
-Cannot be assigned to Doctor, Tracefinder, Scientist, or Sunnyboy.
-* Max
-  * Set the Maximum amount of Autopsies that can be in a match
-* Spawn Chance
-  * Set the percentage players have of getting Autopsy
-* <font color=red>Impostors</font> can become Autopsy
-  * <font color=green>ON</font>: <font color=red>Impostors</font> can become this role
-  * <font color=red>OFF</font>: <font color=red>Impostors</font> cannot become this role
-* <font color=#8cffff>Crewmates</font> can become Autopsy
-  * <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become this role
-  * <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
-* <font color=#7f8c8d>Neutrals</font> can become Autopsy
-  * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
-  * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+***
 
-> From: TOHY & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+就像验尸一样，你可以看到他们是怎么死的。<br><br>\n不能分配给医生、调查员、科学家或SunnyBoy
+
+- 最大人数
+  - 设置可以匹配的最大验尸数量
+- 生成概率
+  - 设置玩家获得尸检的概率
+- <font color=red>内鬼</font>可以成为尸检者
+  - <font color=green>开启</font>：<font color=red>视点替用特效</font>可以成为此角色
+  - <font color=red>关闭</font>: <font color=red>导入器</font> 不能成为此角色
+- <font color=#8cffff>船员</font>可以进行尸检
+  - <font color=green>开启</font>：<font color=#8cffff>船员</font>可以成为此角色
+  - <font color=red>关闭</font>: <font color=#8cffff>船员</font> 不能成为此角色
+- <font color=#7f8c8d>中立</font>可以成为验尸官
+  - <font color=green>开启</font>：<font color=#7f8c8d>中立</font>可以成为此角色
+  - <font color=red>关闭</font>：<font color=#7f8c8d>中立</font>不能成为此角色
+
+> 来自: TOHY & 编码: [Loonie Toons](https://github.com/Loonie-Toons)

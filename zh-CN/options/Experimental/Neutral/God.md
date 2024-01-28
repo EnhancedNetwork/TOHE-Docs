@@ -1,23 +1,26 @@
 ---
-lang: en-US
-title: God
-prev: Doppelganger
-next: Solsticer
+lang: zh-CN
+title: 上帝
+prev: 分身
+next: 求解器
 ---
 
-# <font color=#f96464>👑 <b>God</b></font> <Badge text="Neutral" type="tip" vertical="middle"/>
----
-<font size=4em>Experimental Reason: has conflicting win conditions</font><br>
-Note: Most likely a Neutral Chaos/Evil
+# <font color=#f96464> 👑 <b>神</b></font> <Badge text="Neutral" type="tip" vertical="middle"/>
 
-God knows everyone's role from the beginning, and God will win alone as long as he lives to the end. Note: God won't be Lovers.
-* Max
-  * Set the Maximum amount of Gods that can be in a match.
-* Inform players at meetings that God is still alive
-  * <font color=green>ON</font>: it will be announced that God is Alive, if God is alive
-  * <font color=red>OFF</font>: players will have no idea about God
-* Can Guess in Guesser Mode
-  * <font color=green>ON</font>: God can Guess people in Guesser Mode <b>(easy way to quickly win, it’s overpowered/broken)</b>
-  * <font color=red>OFF</font>: God cannot Guess, even when Guesser Mode is enabled
+***
 
-> From: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+<font size=4em>实验原因：获胜条件冲突</font><br>
+注意：很可能是中立的混沌/邪恶
+
+神从一开始就知道每个人的职业，只要神活到最后，他就会独自获胜。 注意：神不会成为恋人。
+
+- 最大值
+  - 设置比赛中可以出现最大神的数。
+- 在会议上告诉玩家神还活着
+  - <font color=green>ON</font>：如果神还活着，就会宣布神还活着
+  - <font color=red>OFF</font>：玩家对神一无所知
+- 可以在猜测模式下猜测
+  - <font color=green>ON</font>：神可以在猜谜模式中猜人 <b>（快速获胜的简单方法，它被压倒/破碎）</b>
+  - <font color=red>OFF</font>：神无法猜测，即使开启了猜测模式
+
+> 来自： SNR & Coding： [KARPED1EM]（https\://github.com/KARPED1EM）

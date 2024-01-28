@@ -17,7 +17,7 @@ next: Crewmates
 
 <tr>
 <td><font color=indigo><b>Concealing</b></font></td>
-<td align="center">13</td>
+<td align="center">14</td>
 </tr>
 
 <tr>
@@ -32,12 +32,12 @@ next: Crewmates
 
 <tr>
 <td><font color=red><b>Madmate</b></font></td>
-<td align="center">2</td>
+<td align="center">4</td>
 </tr>
 
 <tr>
 <td><font color=#00ffff><b>Support</b></font> </td>
-<td align="center">12</td>
+<td align="center">13</td>
 </tr>
 
 <tr>
@@ -47,7 +47,7 @@ next: Crewmates
 
 <tr>
 <td><font color=red><b>Total:</b></font></td>
-<td align="center"><b>57</b></td>
+<td align="center"><b>61</b></td>
 </tr>
 
 </table>
@@ -55,7 +55,7 @@ next: Crewmates
 
 ### <font color=indigo><b>Concealing</b></font>
 ---
-[Escapist](/options/Impostors/Concealing/Escapist.html) | [Mastermind](/options/Impostors/Concealing/Mastermind.html) | [Miner](/options/Impostors/Concealing/Miner.html) | [Puppeteer](/options/Impostors/Concealing/Puppeteer.html) | [Scavenger](/options/Impostors/Concealing/Scavenger.html) | [Shapemaster](/options/Impostors/Concealing/Shapemaster.html) | [Soul Catcher](/options/Impostors/Concealing/SoulCatcher.html) | [Swooper](/options/Impostors/Concealing/Swooper.html) | [Trickster](/options/Impostors/Concealing/Trickster.html) | [Undertaker](/options/Impostors/Concealing/Undertaker.html) | [Vampire](/options/Impostors/Concealing/Vampire.html) | [Warlock](/options/Impostors/Concealing/Warlock.html) | [Wildling](/options/Impostors/Concealing/Wildling.html)
+[Escapist](/options/Impostors/Concealing/Escapist.html) | [Mastermind](/options/Impostors/Concealing/Mastermind.html) | [Miner](/options/Impostors/Concealing/Miner.html) | [Puppeteer](/options/Impostors/Concealing/Puppeteer.html) | [Rift Maker](/options/Impostors/Concealing/RiftMaker.html) | [Scavenger](/options/Impostors/Concealing/Scavenger.html) | [Shapemaster](/options/Impostors/Concealing/Shapemaster.html) | [Soul Catcher](/options/Impostors/Concealing/SoulCatcher.html) | [Swooper](/options/Impostors/Concealing/Swooper.html) | [Trickster](/options/Impostors/Concealing/Trickster.html) | [Undertaker](/options/Impostors/Concealing/Undertaker.html) | [Vampire](/options/Impostors/Concealing/Vampire.html) | [Warlock](/options/Impostors/Concealing/Warlock.html) | [Wildling](/options/Impostors/Concealing/Wildling.html)
 <br>
 
 ### <font color=#636363><b>Hindering</b></font>
@@ -75,7 +75,7 @@ next: Crewmates
 
 ### <font color=#00ffff><b>Support</b></font>
 ---
-[Anti Adminer](/options/Impostors/Support/AntiAdminer.html) | [Camouflager](/options/Impostors/Support/Camouflager.html) | [Cleaner](/options/Impostors/Support/Cleaner.html) | [Consigliere](/options/Impostors/Support/Consigliere.html) | [Fireworker](/options/Impostors/Support/Fireworker.html) | [Gangster](/options/Impostors/Support/Gangster.html) | [Godfather](/options/Impostors/Support/Godfather.html) | [Morphling](/options/Impostors/Support/Morphling.html) | [Nemesis](/options/Impostors/Support/Nemesis.html) | [Time Thief](/options/Impostors/Support/TimeThief.html) | [Vindicator](/options/Impostors/Support/Vindicator.html) | [Visionary](/options/Impostors/Support/Visionary.html)
+[Anti Adminer](/options/Impostors/Support/AntiAdminer.html) | [Camouflager](/options/Impostors/Support/Camouflager.html) | [Cleaner](/options/Impostors/Support/Cleaner.html) | [Consigliere](/options/Impostors/Support/Consigliere.html) | [Fireworker](/options/Impostors/Support/Fireworker.html) | [Gangster](/options/Impostors/Support/Gangster.html) | [Godfather](/options/Impostors/Support/Godfather.html) | [Kamikaze](/options/Impostors/Support/Kamikaze.html) | [Morphling](/options/Impostors/Support/Morphling.html) | [Nemesis](/options/Impostors/Support/Nemesis.html) | [Time Thief](/options/Impostors/Support/TimeThief.html) | [Vindicator](/options/Impostors/Support/Vindicator.html) | [Visionary](/options/Impostors/Support/Visionary.html)
 <br>
 
 ### <font color=#8cffff><b>Vanilla</b></font>

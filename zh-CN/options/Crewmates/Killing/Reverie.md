@@ -8,9 +8,9 @@ next: Sheriff
 # <font color="#00bfff">🌌 <b>Reverie</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
-As the Reverie, you can kill but your cooldown starts very high.<br><br>
-It lowers with each kill you make.<br><br>
-You win with other crewmates.
+As the Reverie, you can kill but your cooldown starts high.<br><br>
+It increases if you kill a crewmate and reduces otherwise.<br>
+Depending on the host's settings, you may misfire on reaching max kill cooldown and your target dies with you.<br>
 * Max
   * Set the Maximum amount of Reveries that can be in a match
 * Starting kill cooldown

@@ -11,7 +11,6 @@ next: Bomber
 As the Berserker, you level up with each kill. Upon reaching a certain level defined by the host, you unlock a new power.<br><br>
 Scavenged kills make your kills disappear.<br>
 Bombed kills make your kills explode.
-
 * Max
   * Set the Maximum amount of Berserkers that can be in a match
 * Berserker kill cooldown

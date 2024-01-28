@@ -18,4 +18,4 @@ The Seeker needs to collect certain number of points set by the host to win
 * Tag Cooldown
   * Set how long a Seeker needs to wait to tag a player
 
-> From: [ryuk](#)
+> Idea: [lily0la](#) & Coding: [ryuk](#)

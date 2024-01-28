@@ -10,7 +10,6 @@ next: Schizophrenic
 
 With the Rebound add-on, if a Guesser successfully guessed you or a Judge successfully judged you, they will die instead.<br>
 If a player with Double Shot guesses you correctly, they will die instantly.
-
 * Max
   * Set the Maximum amount of Rebounds that can be in a match
 * Spawn Chance

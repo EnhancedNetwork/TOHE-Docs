@@ -2,7 +2,64 @@
 <hr>
 <p>To access Dev Builds, become a Sponsor on <a href="https://ko-fi.com/tohen" target="_blank" rel="noopener noreferrer">Ko-Fi<ExternalLinkIcon/></a> (at least Insider), <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank" rel="noopener noreferrer">Contribute<ExternalLinkIcon/></a>, or be a [Tester] (Content Creator with your TOHE videos having 600+ views on average)</p>
 <hr>
-<h2 id="latest-v1-3-1-dev-2-hotfix-2" tabindex="-1"><a class="header-anchor" href="#latest-v1-3-1-dev-2-hotfix-2" aria-hidden="true">#</a> <font size=5em><b>Latest: v1.3.1 Dev 2 (HOTFIX #2)</b></font><br></h2>
+<h2 id="latest-v1-4-1-dev-1-2" tabindex="-1"><a class="header-anchor" href="#latest-v1-4-1-dev-1-2" aria-hidden="true">#</a> <font size=5em><b>Latest: v1.4.1 Dev 1.2</b></font><br></h2>
+<ul>
+<li>
+<p>(Hotfix as requested by Tommy, sorry folks!)</p>
+</li>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed bug when sometimes non modded player does not teleported</p>
+</li>
+</ul>
+<hr>
+<h2 id="v1-4-1-dev-1-1" tabindex="-1"><a class="header-anchor" href="#v1-4-1-dev-1-1" aria-hidden="true">#</a> <font size=5em><b>v1.4.1 Dev 1.1</b></font><br></h2>
+<ul>
+<li>
+<p>(Just some bugfixes!) - Quizmaster should be working now!<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Quizmaster not working<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Burst Error When Game End<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix MeetingHud OnDestroy Null Error<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Sort Options &amp; Remove Unused Options<br></p>
+</li>
+</ul>
+<hr>
+<h2 id="v1-4-1-dev-1" tabindex="-1"><a class="header-anchor" href="#v1-4-1-dev-1" aria-hidden="true">#</a> <font size=5em><b>v1.4.1 Dev 1</b></font><br></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Support Vanilla Hide &amp; Seek<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed vents on Dleks map<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Provocateur now cannot get Bait<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Kamikaze now cannot get Swift<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Evil Tracker now cannot get Seer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Bard not work<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Tracker error In logs<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed other errors In logs (i hope)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed check game end<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/FuroYT" target="_blank" rel="noopener noreferrer"><strong>FuroYT</strong><ExternalLinkIcon/></a> <br>
++ <font color=green><b>NEW</b></font>: Experimental Neutral: Quizmaster<br></p>
+</li>
+</ul>
+<ul>
+<li>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>
++ <font color=green><b>NEW</b></font>: Harmful Add-on: Susceptible<br></li>
+</ul>
+<ul>
+<li>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Add option to hide 'Host♥' text<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Translate API tags, if translation available<br></li>
+</ul>
+<hr>
+<h2 id="v1-3-1-dev-2-hotfix-2" tabindex="-1"><a class="header-anchor" href="#v1-3-1-dev-2-hotfix-2" aria-hidden="true">#</a> <font size=5em><b>v1.3.1 Dev 2 (HOTFIX #2)</b></font><br></h2>
 <ul>
 <li>
 <p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>

@@ -7,11 +7,11 @@
 </tr>
 <tr>
 <td><font color=#ff9ace><b>Add-ons</b></font></td>
-<td align="center">2</td>
+<td align="center">3</td>
 </tr>
 <tr>
 <td><font color=#8cffff><b>Crewmate</b></font> </td>
-<td align="center">3</td>
+<td align="center">2</td>
 </tr>
 <tr>
 <td><font color=red><b>Impostor</b></font></td>
@@ -41,7 +41,7 @@
 <br></p>
 <h3 id="neutral" tabindex="-1"><a class="header-anchor" href="#neutral" aria-hidden="true">#</a> <font color=#7f8c8d><b>Neutral</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Experimental/Neutral/Doppelganger.html">Doppelganger</RouterLink> | <RouterLink to="/options/Experimental/Neutral/God.html">God</RouterLink> | <RouterLink to="/options/Experimental/Neutral/Solsticer.html">Solsticer</RouterLink> | <RouterLink to="/options/Experimental/Neutral/Spiritcaller.html">Spiritcaller</RouterLink>
+<p><RouterLink to="/options/Experimental/Neutral/Doppelganger.html">Doppelganger</RouterLink> | <RouterLink to="/options/Experimental/Neutral/God.html">God</RouterLink> | <RouterLink to="/options/Experimental/Neutral/Quizmaster.html">Quizmaster</RouterLink> | <RouterLink to="/options/Experimental/Neutral/Solsticer.html">Solsticer</RouterLink> | <RouterLink to="/options/Experimental/Neutral/Spiritcaller.html">Spiritcaller</RouterLink>
 <br></p>
 </div></template>
 

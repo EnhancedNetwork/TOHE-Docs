@@ -23,11 +23,11 @@
 </tr>
 <tr>
 <td><font color=#32a87f><b>Mixed</b></font></td>
-<td align="center">11</td>
+<td align="center">12</td>
 </tr>
 <tr>
 <td><font color=#ff9ace><b>Total:</b></font></td>
-<td align="center"><b>53 (+1)</b></td>
+<td align="center"><b>54 (+1)</b></td>
 </tr>
 </table>
 <br>
@@ -48,7 +48,7 @@
 <p><RouterLink to="/options/Addons/Miscellaneous/Egoist.html">Egoist</RouterLink> | <RouterLink to="/options/Addons/Miscellaneous/Lovers.html">Lovers</RouterLink> | <RouterLink to="/options/Addons/Miscellaneous/Reach.html">Reach</RouterLink> | <RouterLink to="/options/Addons/Miscellaneous/Workhorse.html">Workhorse</RouterLink></p>
 <h3 id="mixed" tabindex="-1"><a class="header-anchor" href="#mixed" aria-hidden="true">#</a> <font color=#32a87f><b>Mixed</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Addons/Mixed/Antidote.html">Antidote</RouterLink> | <RouterLink to="/options/Addons/Mixed/Avenger.html">Avenger</RouterLink> | <RouterLink to="/options/Addons/Mixed/Aware.html">Aware</RouterLink> | <RouterLink to="/options/Addons/Mixed/Bloodlust.html">Bloodlust</RouterLink> | <RouterLink to="/options/Addons/Mixed/Diseased.html">Diseased</RouterLink> | <RouterLink to="/options/Addons/Mixed/Ghoul.html">Ghoul</RouterLink> | <RouterLink to="/options/Addons/Mixed/Gravestone.html">Gravestone</RouterLink> | <RouterLink to="/options/Addons/Mixed/Guesser.html">Guesser</RouterLink> | <RouterLink to="/options/Addons/Mixed/Rebound.html">Rebound</RouterLink> | <RouterLink to="/options/Addons/Mixed/Schizophrenic.html">Schizophrenic</RouterLink> | <RouterLink to="/options/Addons/Mixed/Stubborn.html">Stubborn</RouterLink></p>
+<p><RouterLink to="/options/Addons/Mixed/Antidote.html">Antidote</RouterLink> | <RouterLink to="/options/Addons/Mixed/Avenger.html">Avenger</RouterLink> | <RouterLink to="/options/Addons/Mixed/Aware.html">Aware</RouterLink> | <RouterLink to="/options/Addons/Mixed/Bloodlust.html">Bloodlust</RouterLink> | <RouterLink to="/options/Addons/Mixed/Diseased.html">Diseased</RouterLink> | <RouterLink to="/options/Addons/Mixed/Ghoul.html">Ghoul</RouterLink> | <RouterLink to="/options/Addons/Mixed/Gravestone.html">Gravestone</RouterLink> | <RouterLink to="/options/Addons/Mixed/Guesser.html">Guesser</RouterLink> | <RouterLink to="/options/Addons/Mixed/Rebound.html">Rebound</RouterLink> | <RouterLink to="/options/Addons/Mixed/Schizophrenic.html">Schizophrenic</RouterLink> | <RouterLink to="/options/Addons/Mixed/Stubborn.html">Stubborn</RouterLink> | <RouterLink to="/options/Addons/Mixed/Susceptible.html">Susceptible</RouterLink></p>
 <br>
 <details>
 <summary><font color=#ff9ace size='4em'><b>Settings</b></font></summary>

@@ -1,27 +1,27 @@
 ---
-lang: en-US
-title: Workhorse
-prev: Reach
+lang: zh-CN
+title: 加班狂
+prev: 持枪
 next: /options/Settings/Addons.html
 ---
 
-# <font color=#00ffff>🐎 <b>Workhorse</b></font> <Badge text="Miscellaneous" type="tip" vertical="middle"/>
+# <font color=#00ffff>🐎 <b>加班狂</b></font> <Badge text="Miscellaneous" type="tip" vertical="middle"/>
 
 ***
 
-The first player to complete all the tasks will become Workhorse, Workhorse will give the player extra tasks. The amount of additional tasks are set by the host.
+第一个完成所有任务的玩家将成为加班狂，加班狂会有更多的任务。 额外任务的数量由房主设定。
 
-- Max
-  - Set the Maximum amount of Workhorses that can be in a match
-- Assign only to Crewmates
-  - <font color=green>ON</font>: only <font color=#8cffff>Crewmates</font> can become Workhorse
-  - <font color=red>OFF</font>: any Role that completes their tasks can become Workhorse
-- Additional Long Tasks
-  - Set how many Long Tasks a player will get if they become Workhorse
-- Additional Short Tasks
-  - Set how many Short Tasks a player will get if they become Workhorse
-- Snitch can become Workhorse
-  - <font color=green>ON</font>: the Snitch can become Workhorse if they complete their tasks before anyone else
-  - <font color=red>OFF</font>: Others can still become Workhorse while the Snitch cannot
+- 最大数量
+  - 设置游戏中加班狂的最大数量
+- 只有船员会成为加班狂
+  - <font color=green>开</font>：只有<font color=#8cffff>船员阵营</font>会成为加班狂
+  - <font color=red>关</font>：任何最先完成所有任务的身份都可以成为加班狂
+- 额外的长任务数
+  - 设置玩家成为加班狂后会额外获得多少个长任务
+- 额外的短任务数
+  - 设置玩家成为加班狂后会额外获得多少个短任务
+- 告密者可以成为加班狂
+  - <font color=green>开</font>：如果告密者在其他人之前完成所有任务的话，可以成为加班狂
+  - <font color=red>关</font>：其他人仍然可以成为加班狂，而告密者不能
 
-> From: TOH
+> 来自：TOH

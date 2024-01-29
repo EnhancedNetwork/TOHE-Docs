@@ -1,34 +1,34 @@
 ---
-lang: en-US
-title: Benefactor
-prev: /options/Settings/Crewmates.html
-next: Chameleon
+lang: zh-CN
+title: 恩人
+prev: ""
+next: 变色龙
 ---
 
-# <font color="#24ac64">➕ <b>Benefactor</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#24ac64">➕ <b>恩人</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-As the Benefactor, whenever you complete a task, the task will be marked. When another player completes the marked task, they get a temporary shield.<br><br>
-Note: Shield only protects from direct kill attacks
+作为恩人，当你完成一项任务时，该任务就会被标记 当另一个玩家完成所标记的任务时，他们会得到一个临时盾牌。<br><br>
+注意：保护只能保护他们免受直接击杀伤害。
 
-- Max
-  - Set the Maximum amount of Benefactors that can be in a match
-- Number of tasks that can be marked in one round
-  - Set how many tasks the Benefactor can mark in one round
-- Shield Duration
-  - Set how long the Benefactor's shield lasts for
-- Shield breaks after one kill attempt
-  - <font color=green>ON</font>: shield will break on first contact
-  - <font color=red>OFF</font>: shield will not break on first contact
-- Override Benefactor’s Tasks
-  - <font color=green>ON</font>: you can set a different amount of Tasks that a Benefactor needs to do
-  - <font color=red>OFF</font>: the Benefactor does the same amount of Tasks as anyone else
-    - Benefactor has Common Tasks
-      - Set if the Benefactor has Common Tasks
-    - Amount of Long Tasks for Benefactor
-      - Set the amount of Long Tasks the Benefactor will receive
-    - Amount of Short Tasks for Benefactor
-      - Set the amount of Short Tasks the Benefactor will receive
+- 最大数量
+  - 设置游戏中恩人的最大数量
+- 一轮可标记的任务数
+  - 设置恩人一轮可以标记的任务数
+- 盾牌持续时间
+  - 设置恩人之盾的持续时间
+- 盾牌在一次击杀尝试后破掉
+  - <font color=green>开</font>盾牌在第一次击杀时就会破裂
+  - <font color=red>关</font>盾牌不会在第一次击杀时破掉
+- 覆盖恩人人的任务
+  - <font color=green>开</font>您可以设置恩人需要完成的不同数量的任务
+  - <font color=red>关</font>：恩人人和其他人一样做同样数量的任务
+    - 恩者有共同的任务
+      - 设置恩人是否有共同任务
+    - 恩人的长期任务量
+      - 设置捐恩人将收到的长期任务的数量
+    - 恩人的短期任务量
+      - 设置恩人将收到的短期任务的数量
 
-> Idea: [spong](#) & Coding: [ryuk](https://github.com/ryuk2098)
+> 想法来自:[spong]编程:: [ryuk](https://github.com/ryuk2098)

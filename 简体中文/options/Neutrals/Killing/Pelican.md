@@ -1,22 +1,22 @@
 ---
 lang: zh-CN
-title: Pelican
-prev: Occultist
-next: Pickpocket
+title: 鹈鹕
+prev: 神秘者
+next: 小偷
 ---
 
-# <font color="#34c84b">🦩 <b>Pelican</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#34c84b">🦩 <b>鹈鹕</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-Only the Pelican team and the <font color=#8cffff>Crewmate</font> team are left, and the number of Pelican is greater than the number of <font color=#8cffff>Crewmate</font> members, then the Pelican win. The Pelican can use the kill button to swallow a player alive (the player who is swallowed alive will be teleported out of the map and cannot interact with the game). After the swallow is successful, the Pelican will see an shield-animation shows on his body as a reminder. An emergency meeting or reporting a dead body will result in the instant death of all players swallowed by the Pelican. If the Pelican dies or disconnects, all players swallowed immediately return to where the Pelican died.
+只剩下Pelica队和 <font color=#8cffff>船员</font> 队， 和圣公会的数量大于 <font color=#8cffff>船员</font> 成员的数量，然后 获胜。 鹈鹕可以使用杀戮按钮将一个玩家活生生地吞下(被活生生吞下的玩家将被传送出地图，并且不能与游戏互动) 在吞咽成功后，鹈鹕会看到他身上的盾牌动画作为提醒。 紧急会议或报告尸体将导致所有被鹈鹕吞噬的球员立即死亡 如果鹈鹕死亡或断开连接，所有被吞咽的球员立即返回鹈鹕死亡的地方
 
-Note: Pelican swallowing people is not a normal way to kill, so role skills such as Bodyguard and Veteran will not take effect.
+注：鹈鹕吞食人不是一种正常的杀戮方式，因此保镖和老兵等角色技能不会生效。
 
-- Eat Cooldown
-  - Set how long the Pelican has to wait to be able to Eat a player
-- Can Vent
-  - <font color=green>ON</font>: the Pelican has the ability to Vent
-  - <font color=red>OFF</font>: the Pelican cannot vent
+- 吞咽时间
+  - 设置小鹈鹕需要多久才可以吞噬玩家
+- 是否可以进入通风管道
+  - <font color=green>开</font>鹈鹕有权限进入通风管道
+  - <font color=red>关闭</font>鹈鹕没有权限进入通风管道
 
-> From: Goose Goose Duck & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自:TOHR & Coding: [KARPED1EM](https://github.com/KARPED1EM)

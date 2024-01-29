@@ -1,41 +1,41 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Oiiai Cat
-prev: Fool
-next: YouTuber
+prev: 蠢蛋
+next: UP主
 ---
 
 # <font color=#2bdb2b>🐱 <b>Oiiai Cat</b></font> <Badge text="Addon" type="tip" vertical="middle"/>
 
 ***
 
-<font size=4em>Experimental Reason: Recently Added, Needs Testing</font><br>
-Note: Most likely a Mixed Add-on
+<font size=4em>实验原因：最近更新的职业，需要测试</font><br>
+注意：很可能是一个混合加载项
 
-As the Oiiai, you will erase your killer's main role.<br>
-Additionally, Oiiai may pass on to the killer.<br>
-A player can only be erased once
+作为Oiiai，您将擦除您杀手的主要角色。<br>
+此外，Oiiai可能会传递给杀手。<br>
+玩家只能被擦除一次
 
-- Max
-  - Set the Maximum amount of Oiiai Cats that can be in a match
-- Spawn Chance
-  - Set the percentage players have of getting Oiiai
-- <font color=red>Impostors</font> can become Oiiai
-  - <font color=green>ON</font>: <font color=red>Impostors</font> can become this role
-  - <font color=red>OFF</font>: <font color=red>Impostors</font> cannot become this role
-- <font color=#8cffff>Crewmates</font> can become Oiiai
-  - <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become this role
-  - <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
-- <font color=#7f8c8d>Neutrals</font> can become Oiiai
-  - <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
-  - <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
-- Oiiai can pass onto the killer
-  - <font color=green>ON</font>: Oiiai's killer will gain the Oiiai addon
-  - <font color=red>OFF</font>: Oiiai's killer will not gain the Oiiai addon
-- Neutrals turn to
-  - Set what role that a Neutral that killed an Oiiai will become, choose from:
-    - Amnesiac
-    - Imitator
-    - Don't change the role
+- 最大数量
+  - 设置游戏中Oiiai的最大数量
+- 生成概率
+  - 设置玩家获得Oiiai的百分率
+- <font color=red>伪装者</font> 可以有Oiiai
+  - <font color=green>启用</font>：<font color=red>内鬼</font>可以成为该附加职业
+  - <font color=red>关闭</font>: <font color=red>伪装者</font> 不能有该职业
+- <font color=#8cffff>船员</font> 可以成为Oiiai
+  - <font color=green>启用</font>: <font color=#8cffff>船员</font> 可以有该职业
+  - <font color=red>关闭</font>: <font color=#8cffff>船员</font> 不能有该职业
+- <font color=#7f8c8d>中立阵营</font>可以成为Oiiai
+  - <font color=green>启用</font>: <font color=#7f8c8d>中立</font> 可以有该职业
+  - <font color=red>关闭</font>: <font color=#7f8c8d>中立</font> 不能有该职业
+- Oiiai可以传递给杀手
+  - <font color=green>启用</font>: 击杀Oiiai的凶手将获得Oiiai附加职业
+  - <font color=red>关闭</font>：杀死Oiiai的凶手将不会获得Oiiai附加职业
+- 中立转变职业
+  - 设置一个中立杀死Oiiai后将成为什么职业，可成为的职业有：
+    - 失忆者
+    - 模仿者
+    - 不改变原先职业
 
-> Idea & Coding: [NikoCat223](https://github.com/NikoCat233)
+> 想法 & 编码: [NikoCat223](https://github.com/NikoCat233)

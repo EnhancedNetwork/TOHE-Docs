@@ -1,21 +1,21 @@
 ---
-lang: en-US
-title: Greedy
-prev: EvilTracker
-next: Inhibitor
+lang: zh-CN
+title: 贪婪者
+prev: 邪恶的追踪者
+next: 抑郁者
 ---
 
-# <font color=red>🤑 <b>Greedy</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# 贪婪者
 
 ***
 
-Greedy kills with odd and even kills will have different kill cooldowns. Greedy’s kill cooldown is reset every meeting, and Greedy’s first kill is always an odd kill.
+贪婪者的杀死与奇数和偶数的杀死将有不同的杀死冷却时间。 贪婪者的杀人冷却时间在每次会议后重置，贪婪者的第一次杀人总是奇数杀人。
 
-- Max
-  - Set the Maximum amount of Greedys that can be in a match
-- Odd Numbered kill cooldown
-  - Set how long the Greedy’s kill cooldown is after killing their 1st, 3rd, 5th[...] person
-- Even-Numbered kill cooldown
-  - Set how long the Greedy’s kill cooldown is after killing their 2nd, 4th, 6th[...] person
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 单数击杀冷却时间
+  - 设置 Greedy 在杀死第1个、第3个、第5个...之后的冷却时间。 人员
+- 双数击杀冷却时间
+  - 设置 Greedy 在杀死第1个、第3个、第5个...之后的冷却时间。 人员
 
-> From: TOHY
+> 来自: TOH+

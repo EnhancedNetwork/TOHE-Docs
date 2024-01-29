@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: YouTuber
 prev: OiiaiCat
 next: /options/settings/Experimental.html
@@ -14,8 +14,8 @@ next: /options/settings/Experimental.html
 
 只有<font color=#8cffff>船员</font>才能成为UP主 当UP主成为游戏中第一个被杀的玩家时，UP主将独自获胜 如果UP主不符合获胜条件，UP主将跟随<font color=#8cffff>船员</font>获胜 注：被投出、被猜测者猜中等间接杀戮方式不会触发UP主技能注：被投出、被猜测者猜中等间接杀戮方式不会触发UP主技能
 
-- 最大值
-  - 设置可以匹配的UP主的最大数量
+- 最大数量
+  - 设置游戏中UP主的最大数量
 - 设置成为机会
   - 设置玩家成为UP主的百分比
 

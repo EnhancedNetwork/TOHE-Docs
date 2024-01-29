@@ -1,28 +1,28 @@
 ---
-lang: en-US
-title: Devourer
-prev: Dazzler
-next: Pitfall
+lang: zh-CN
+title: 吞噬者
+prev: 眩晕者
+next: 设陷者
 ---
 
-# <font color="red">👹 <b>Devourer</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>
+# <font color="red">👹 <b>吞噬者</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>
 
 ***
 
-As the Devourer, you use your shapeshift to permanently change the appearance of the target of the shapeshift. Additionally, for each player's appearance changed, your kill cooldown is reduced by a defined number of seconds. If the Devourer dies or gets voted out during a meeting, the player's appearance will change back to their normal appearance.
+作为吞噬者，您可以使用变形能力永久改变变形目标的外观 此外，对于每个玩家的外观更改，您的击杀冷却时间将减少一定秒数 如果吞噬者在会议期间死亡或被投票出局，玩家将恢复正常
 
-- Max
-  - Set the Maximum amount of Devourers that can be in a match
-- Starting kill cooldown
-  - Set the Starting kill cooldown for the Devourer
-- Reduce kill cooldown by
-  - Set how much the kill cooldown will be reduced by for each player's appearance changed
-- Minimum kill cooldown
-  - Set the lowest the kill cooldown can go
-- Devour Cooldown
-  - Set how long the Devourer needs to wait to Devour again
-- Hide the names of consumed players
-  - <font color=green>ON</font>: the names of the players that were Devoured will not appear in game
-  - <font color=red>OFF</font>: the names of the players that were Devoured will appear in game
+- 最大数量
+  - 设置游戏中吞噬者的最大数量
+- 开始击杀的冷却时间
+  - 设置吞噬者的起始击杀冷却时间
+- 击杀成功减少冷却时间
+  - 设置每个玩家外观变化时击杀冷却时间减少的幅度
+- 击杀冷却时间下限
+  - 设置击杀冷却时间的最低限制
+- 吞噬冷却
+  - 设置吞噬者需要等待多久才能再次吞噬
+- 隐藏已吞噬玩家的姓名
+  - <font color=green>启用</font>：被吞噬的玩家的名字将不会在游戏中显示
+  - <font color=red>关闭</font>：被吞噬的玩家的名字将在游戏中显示
 
-> From: Idea & Coding: [papercut](https://github.com/lars-wu)
+> 来自：想法&编码：[papercut](https://github.com/lars-wu)

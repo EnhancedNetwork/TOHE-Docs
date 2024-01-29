@@ -1,24 +1,24 @@
 ---
-lang: en-US
-title: Hangman
-prev: Eraser
-next: Killing Machine
+lang: zh-CN
+title: 刽子手
+prev: 抹除者
+next: 杀人机器
 ---
 
-# <font color=red>🪢 Hangman</font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🪢 刽子手</font> <Badge text="Impostor" type="tip" vertical="middle"/>
 
 ***
 
-<font size=4em>Experimental Reason: Should be fixed, Needs Testing</font><br>
-Note: Most likely an Impostor Concealing
+<font size=4em>实验原因： 应该修复，需要测试</font><br>。
+注：很可能是内鬼在隐藏
 
-The killing method of the Hangman during the Shapeshifting is Strangling. Strangling ignores any status of the target. Such as the shield of a Medic, the skills of a Bodyguard or Superstar. The Strangled player will not leave a dead body, nor will it trigger any of its skills. For example, Veteran kills back, Luckey stays alive, etc. The Seer will not be alerted.
+在变形过程中，刽子手的杀人方法是勒死。 扼杀会忽略目标的任何状态 比如医生的盾牌、保镖或大明星的技能。 被勒死的玩家不会留下尸体，也不会触发任何技能。 例如，老兵反杀、幸运 不死等。 预言家不能语言。
 
-- Max
-  - Set the Maximum amount of Hangmen that can be in a match.
-- Shapeshift cooldown
-  - Set how long the Hangman needs to wait to shapeshift to use his ability
-- Shapeshift duration
-  - Set how long the Hangman stays shapeshifted to use his ability.
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 变形冷却时间
+  - 设定刽子手需要等待多久才能变形以使用其能力
+- 变形持续时间
+  - 设定刽子手使用变形能力的持续时间
 
-> From: [草暖](https://b23.tv/kTnVK2c) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来源: [草暖](https://b23.tv/kTnVK2c) 编码: [卡皮呆]

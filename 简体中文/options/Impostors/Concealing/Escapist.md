@@ -1,21 +1,21 @@
 ---
-lang: en-US
-title: Escapist
-prev: /options/Settings/Impostors.html
-next: Mastermind
+lang: zh-CN
+title: 逃逸者
+prev: /options/设置/冒名顶替者.html
+next: 策划者
 ---
 
-# <font color="red">🏃 <b>Escapist</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">🏃 <b>逃逸者</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 
 ***
 
-Escapist can mark a location by shapeshifting, and then they can Unshift. When they Shapeshift again, they will return to their Original Shapeshift location.
+逃逸者可以通过变形来标记一个位置，然后他们可以解除变形。 当它们再次变形时，它们将返回其原始变形位置。
 
-- Max
-  - Set the Maximum amount of Escapists that can be in a match
-- Shapeshift Duration
-  - Set the amount of time an Escapist can Shapeshift for
-- Shapeshift Cooldown
-  - Set the amount of time an Escapist has to wait before they can Shapeshift again
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 变形持续时间
+  - 设置逃避者可以变形的时间
+- 储存子弹冷却时间
+  - 设置逃逸者再次变形之前必须等待的时间
 
-> From: TOU & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自: TOU & 编码: [咔皮呆](https://github.com/KARPED1EM)

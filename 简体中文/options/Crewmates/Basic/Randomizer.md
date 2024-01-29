@@ -1,23 +1,23 @@
 ---
-lang: en-US
-title: Randomizer
-prev: Mole
-next: SuperStar
+lang: zh-CN
+title: 萧穆
+prev: 鼹鼠
+next: 大明星
 ---
 
-# <font color="#ffa500">🎲 <b>Randomizer</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
+# <font color="#ffa500">🎲 <b>萧穆</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
 
 ***
 
-As the Randomizer, when you die, your killer will do one of the following:<br>
+作为萧穆，当你死时，凶手会做以下其中一件事:<br>
 
-1. self-report your body
-2. stand next to your body
-3. have their kill cooldown set to 600s
-4. Randomly avenge a player
+1. 自动报告你的尸体
+2. 站在你的尸体旁边
+3. 将他们的杀戮冷却时间设置为600秒
+4. 随机为玩家报仇
 
-- Max
-  - Set the Maximum amount of Randomizers that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
   - Warn the killer about the upcoming self-report
   - <font color=green>ON</font>: The killer of the Randomizer will hear a little tune play before they report
   - <font color=red>OFF</font>: No tune will play

@@ -1,36 +1,36 @@
 ---
-lang: en-US
-title: Nice Guesser
-prev: Knight
-next: Retributionist
+lang: zh-CN
+title: 正义赌怪
+prev: 侠客
+next: 惩罚者
 ---
 
-# <font color="#eede26">👑 <b>Nice Guesser</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#eede26">👑 <b>正义赌怪</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-The Nice Guesser can guess the role of a certain player during the meeting.
+正义赌怪可以在会议期间猜测某个玩家的角色
 
-If it is correct, the target dies, and if it is wrong, the Nice Guesser dies.
+如果正确，目标死亡；如果错误，邪恶赌怪死亡。
 
-The guessing command is `/bt [player ID] [Role]`
+判断命令是 `/tl[玩家ID]`。
 
-You can see the ID of player’s next to their name, or by typing `/id`
+您可以在玩家用户名旁或输入 `/id`，查看玩家的 ID。
 
-(PS: You don’t need to worry about this if you have a TOHE Modded Client, as it includes a built-in Guesser GUI on Player Nameplates)
+附注：如果您使用 TOHE模组客户端，则无需担心此问题，因为它在玩家名称板上包含了一个内置的试用按钮。
 
-- Max
-  - Set the Maximum amount of Nice Guessers that can be in a match
-- Maximum number of guesses
-  - Set how many times Nice Guessers can guess
-- Can Guess <font color=#8cffff>Crewmate</font> Roles
-  - <font color=green>ON</font>: the Nice Guesser can guess Crewmates
-  - <font color=red>OFF</font>: the Nice Guesser cannot guess Crewmates
-- Can Guess Add-Ons
-  - <font color=green>ON</font>: the Nice Guesser can guess players Add-Ons
-  - <font color=red>OFF</font>: Nice Guesser cannot guess based off of Add-Ons
-- Try to hide guesser's command
-  - <font color=green>ON</font>: the mod will attempt to hide the Nice Guesser’s commands
-  - <font color=red>OFF</font>: the mod will not care to hide the Nice Guesser’s commands
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 每次会议猜测次数上限
+  - 设置正义赌怪可以猜测的次数
+- 可以猜测 <font color=#8cffff>船员</font> 角色
+  - <font color=green>ON</font>：正义的赌怪可以猜船员
+  - <font color=red>关闭</font>：正义赌怪无法猜测 Crewmates
+- 可以猜测附加职业
+  - <font color=green>启用</font>: 正义赌怪可以猜测附加职业
+  - <font color=red>关闭</font>: 正义赌怪不能猜测附加职业
+- 尝试混淆赌怪指令
+  - <font color=green>启用</font>: 模组会混淆正义赌怪的猜测指令
+  - <font color=red>关闭</font>：该模块不会隐藏“正义赌怪”的命令
 
-> From: TheOtherRoles, Coding: [KARPED1EM](https://github.com/KARPED1EM)、[Commandf1](https://github.com/commandf1)
+> 来自: TheOtherRoles, 编码: [咔皮呆](https://github.com/KARPED1EM)、[Commandf1](https://github.com/commandf1)

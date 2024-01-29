@@ -1,19 +1,19 @@
 ---
-lang: en-US
-title: Swift
-prev: Stealer
-next: /options/Settings/Addons.html
+lang: zh-CN
+title: 迅捷
+prev: 窃票者
+next: /选项/设置/Addons.html
 ---
 
-# <font color=red>🏃 <b>Swift</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🏃 <b>迅捷</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 
 ***
 
-As the Swift, your kills will not cause you to lunge.
+迅捷让你的击杀不会有出刀动作
 
-- Max
-  - Set the Maximum amount of Swifts that can be in a match
-- Spawn Chance
-  - Set the percentage players have of getting Swift
+- 最大数量
+  - 设置游戏中迅捷的最大数量
+- 出现机率
+  - 设置玩家可能会拿到迅捷的机率
 
-> From: TOHEX
+> 来源：TOHEX

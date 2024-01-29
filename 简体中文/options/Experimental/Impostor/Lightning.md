@@ -1,31 +1,31 @@
 ---
-lang: en-US
-title: Lightning
-prev: KillingMachine
-next: Zombie
+lang: zh-CH
+title: 球状闪电
+prev: 杀戮机器
+next: 僵尸
 ---
 
-# <font color=red>🌩️ <b>Lightning</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🌩️ <b>球状闪电</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 
 ***
 
-<font size=4em>Experimental Reason:</font>
-![image](../../../images/LightningReason.png)
+<font size=4em>实验性原因：</font>
+！[image](../../images/LightningReason.png)
 
 ***
 
-Note: Most likely an Impostor Concealing
+注意：有可能是伪装者在隐瞒
 
-The Lightning cannot do regular kills. After the Lightning uses their kill button on the target, the target will vaporize into a quantum ghost after a set time, and everyone can see the 「■」 next to the name of the quantum ghost as a reminder. If there is non-spherical lightning and a player who is not a quantum ghost touches the quantum ghost, the quantum ghost will be quantized immediately and die. If the quantum ghost survives until a meeting, they will die after the meeting ends. During this time, any active interaction (kill button) with the quantum ghost has no effect. According to the host's settings, killing the Lightning may cause the killer to vaporize into a quantum ghost.
+球状闪电无法正常杀人 球状闪电在目标上使用其击杀按钮后，目标会在设定时间后蒸发成一个量子幽灵。 并且每个人都可以看到量子幽灵名称旁边的 「■」 提醒 如果有非球形闪电和量子幽灵的玩家碰到量子幽灵， 量子幽灵将立即量化并死亡 如果量子幽灵存活到会议开始，则立即在会议结束后死亡 在这段时间里，任何与量子幽灵的交互(杀死按钮) 都没有效果。 根据房主的设置，杀死球状闪电可能会导致即将量化的玩家蒸发成一个量子幽灵。
 
-- Max
-  - Set the Maximum amount of Lightnings that can be in a match
-- Lightning Cooldown
-  - Set how long a Lightning needs to wait to be able to Quantimize someone
-- Duration of the transformation to Quantum Ghost
-  - Set how long it takes for the player to turn into a Quantum Ghost after the Lightning tries to Kill them.
-- Killer can transform into Quantum Ghost
-  - <font color=green>ON</font>: The Lightning can become a Quantum Ghost
-  - <font color=red>OFF</font>: The Lightning cannot become a Quantum Ghost
+- 最大数量
+  - 设置游戏中球状闪电的最大数量
+- 量子化冷却时间
+  - 设定量子闪电需要等待多长时间才能成功量化玩家
+- 转化为量子幽灵的时间
+  - 设定玩家在球状闪电试图杀死他们后变成量子幽灵需要多长时间
+- 击杀者可以转换成量子幽灵
+  - <font color=green>启用</font>: 球状闪电会变成一个量子幽灵
+  - <font color=red>关闭</font>: 球状闪电不能变成一个量子幽灵
 
-> From: [提米SaMa-](https://space.bilibili.com/1677307793) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自: [提米SaMa-](https://space.bilibili.com/1677307793) & 编码: [咔皮呆](https://github.com/KARPED1EM)

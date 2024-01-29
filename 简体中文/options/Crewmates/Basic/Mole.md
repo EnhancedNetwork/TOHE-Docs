@@ -1,19 +1,20 @@
 ---
-lang: en-US
-title: Mole
-prev: Mini
-next: Randomizer
+lang: zh-CN
+title: 鼹鼠
+prev: 迷你船员
+next: 萧幕
 ---
 
-# <font color="#2a1e1c">⛏️ <b>Mole</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
+# <font color="#2a1e1c">⛏️ <b>鼹鼠</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
 
 ***
 
-As the Mole, when you vent, you stay in the vent for 1 second. When you come out of the vent, you will spawn near a random vent in the map (Except the one you just used).
+作为鼹鼠，当你使用通风口时，你只能在通风口停留1秒钟 当你从管道口出来时，你会在地图上一个随机的管道口附近生成
+(除了你刚才用过的那个)
 
-- Max
-  - Set the Maximum amount of Moles that can be in a match
-- Dig cooldown
-  - Set how long the Mole has to wait to use their Ability
+- 最大数量
+  - 设置游戏中鼹鼠的最大数量
+- 挖掘冷却时间
+  - 设置鼹鼠必须等待多长时间才能使用他们的能力
 
-> Idea: [thewhiskas27](#) & Coding: [ryuk](https://github.com/ryuk2098)
+> 想法:[thewhiskas27]编码:[ryuk](https://github.com/ryuk2098)

@@ -1,29 +1,29 @@
 ---
-lang: en-US
-title: Vampire
-prev: Undertaker
-next: Warlock
+lang: zh-CN
+title: 吸血鬼
+prev: 送葬者
+next: 术士
 ---
 
-# <font color=red>🧛 <b>Vampire</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color=red>🧛 <b>吸血鬼</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 
 ***
 
-You kill with a delay. If you bite someone, they will die a set amount of time later. If a Meeting is called, the player you bite Dies immediately. (If you bite a Bait, you Self-Report)
+您杀人会有延迟 如果您咬了某人，他会在一段时间后死去 如果召开了会议，您咬的玩家会立即死亡 （如果你咬了一个诱饵，你要自己报告）
 
-- Max
-  - Set the Maximum amount of Vampires that can be in a match
-- Bite Kill Delay
-  - Set how long it takes for a Vampires target to die after being Bit by the Vampire.
-- Can Vent
-  - <font color=green>ON</font>: Vampire can Vent
-  - <font color=red>OFF</font>: Vampire cannot Vent
-- <font color=#f46f4e>(Hidden Role) Vampiress - Has a % Chance of replacing Vampire.</font>
+- 最大数量
+  - 设置游戏中吸血鬼的最大数量
+- 吸血目标延迟死亡时间
+  - 设置吸血鬼咬人后目标死亡所需的时间
+- 吸血鬼可以跳管
+  - <font color=green>启用</font>: 可以跳管
+  - <font color=red>关闭</font>: 吸血鬼不能跳管
+- <font color=#f46f4e>（隐藏角色）吸血女王(?) - 有 %的几率取代吸血鬼。</font>
 
 <center>
 
-[<font color="red">Vampiress</font>](./Vampiress.html)
+[<font color="red">吸血女王</font>](./Vampiress.html)
 
 </center>
 
-> From: TOH
+> 来自: TOH

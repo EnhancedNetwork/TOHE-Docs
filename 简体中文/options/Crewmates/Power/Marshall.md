@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Marshall
 prev: Lookout
 next: Mayor
@@ -11,8 +11,8 @@ next: Mayor
 
 If the Marshall completes all of their tasks, they will be revealed to the Crew. (Including Madmates/etc). Non-Crew teams will not be able to see the Marshall.
 
-- Max
-  - Set the Maximum amount of Marshalls that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Override Marshall’s Tasks
   - <font color=green>ON</font>: the Marshall will not have the same tasks as everyone else
     - Marshall has Common Tasks

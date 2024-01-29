@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Dictator
 prev: Copycat
 next: Guardian
@@ -11,7 +11,7 @@ next: Guardian
 
 When the Dictator votes someone, the Meeting will ignore everyone else's votes and end the meeting. The moment the Meeting ends after the Dictator votes someone out, the Dictator will Suicide.
 
-- Max
-  - Set the Maximum amount of Dictators that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 
 > From: TOHTOR

@@ -1,29 +1,29 @@
 ---
-lang: en-US
-title: Spy
-prev: Spiritualist
-next: TimeManager
+lang: zh-CN
+title: 间谍
+prev: 灵魂论者
+next: 时间管理者
 ---
 
-# <font color="#34495e">🕵️ <b>Spy</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#34495e">🕵️ <b>间谍</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-As the Spy, when someone uses their kill button on you (any ability that is used through the kill button), you'll see their name in orange for a few seconds.<br>
-Note: If a Crewmate used their ability on you, you'll also see them with an orange name!<br>
-Note: If you have no ability uses left, you won't see orange names at all!<br>
-Note: If the kill button interaction is blocked the player's cooldown will reset to 10s
+作为间谍，当有人对你使用他们的击杀按钮（通过击杀按钮使用的任何能力）时，你会在几秒钟内看到他们的名字变为橙色。<br>
+注意：如果船员对你使用了他们的能力，你也会看到他们的名字变为橙色！<br>
+注意：如果你没有剩余的能力使用次数，你将完全看不到橙色的名字！<br>
+注意：如果击杀按钮交互被阻止，玩家的冷却时间将重置为10秒
 
-- Max
-  - Set the Maximum amount of Spies that can be in a match
-- Initial Ability Use Limit
-  - Set how many ability uses the Spy has initially
-- Colored Name Duration
-  - Set how long a Spy's target has a colored name for
-- <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
-  - Set the amount of Ability uses a Spy gains with each Task completed (0.1 increments)
-- Block kill button interaction
-  - <font color=green>ON</font>: the interaction with the killer and Spy is stopped.
-  - <font color=red>OFF</font>: the interaction with the killer and Spy is not stopped.
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 初始技能数量
+  - 设置间谍初始能力使用次数
+- 彩色名称持续时间
+  - 设置间谍的目标拥有彩色名称的时间
+- <font color=#00ffff>能</font> <font color=#7fffd2>增加互动尸体次数</font> <font color=#00ffff>每完成一项任务时</font>
+  - 设置侦察员每次完成任务后获得的能力值（以 0.1 为增量）
+- 阻止杀死按钮的交互
+  - <font color=green>在</font>上：与杀手和间谍的互动停止了。
+  - <font color=red>关闭</font>：与杀手和间谍的互动没有停止。
 
-> From: TOHE+
+> 来自: TOHE+

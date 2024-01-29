@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Grenadier
 prev: FortuneTeller
 next: Inspector
@@ -11,8 +11,8 @@ next: Inspector
 
 The Grenadier can vent to Flashbang and hinder Non-Crew Vision (unless Mad Grenadier) and will see a shield animation on their body as a reminder.
 
-- Max
-  - Set the Maximum amount of Grenadiers that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Grenade Cooldown
   - Set how long a Grenadier has to wait to Flash players
 - Grenade Duration

@@ -1,8 +1,8 @@
 ---
-lang: en-US
-title: Burst
-prev: Bewilder
-next: Cyber
+lang: zh-CN
+title: 爆破者
+prev: 迷幻者
+next: 迅捷
 ---
 
 # <font color=#b619b9>💥 <b>Burst</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
@@ -12,8 +12,8 @@ next: Cyber
 The Burst is an add-on that causes the Burst's killer to explode after a time set in the settings. The killer will be notified on killing the Burst.<br>
 If the killer is inside a vent, they will not die.
 
-- Max
-  - Set the Maximum amount of Bursts that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Spawn Chance
   - Set the percentage players have of getting Burst
 - <font color=red>Impostors</font> can have Burst

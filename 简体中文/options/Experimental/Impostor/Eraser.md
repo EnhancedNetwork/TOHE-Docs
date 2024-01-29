@@ -1,25 +1,25 @@
 ---
-lang: en-US
-title: Eraser
-prev: Disperser
-next: Hangman
+lang: zh-CN
+title: 抹除者
+prev: 分散者
+next: 刽子手
 ---
 
-# <font color=red>🧼 <b>Eraser</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🧼 <b>抹除者</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 
 ***
 
-<font size=4em>Experimental Reason: has issues with some roles, one being Medium</font><br>
-Note: Most likely an Impostor Hindering
+<font size=4em>实验原因：与一些职业有冲突，其中之一是中位数</font><br>
+注意：很可能是一个伪装者的阻碍
 
-Eraser can vote for any crew target at the meeting to erase the target's roles, and the erasure will take effect after the meeting ends. Note: Players whose skills are erased will always be considered a vanilla role, including the game result page.
+抹除者可以在会议上向目标投票，以擦除目标的角色，并且擦除将在会议结束后生效。 注意：技能被抹去的玩家将始终被视为原版职业，包括游戏结果页面。
 
-- Max
-  - Set the Maximum amount of Erasers that can be in a match
-- Max Erases
-  - Set the Max amount of times the Eraser can Erase players roles
-- Hide Eraser Votes
-  - <font color=green>ON</font>: The Erasers votes will be hidden in Meeting
-  - <font color=red>OFF</font>: The Erasers votes will appear as a normal vote
+- 最大数量
+  - 设置游戏中抹除者的最大数量
+- 抹除次数上限
+  - 设置橡皮擦可以擦除玩家职业的最多次数
+- 隐藏抹除者的投票
+  - <font color=green>启用</font>：抹除的投票结果将在会议中隐藏
+  - <font color=red>关闭</font>：抹除者的投票将正常显示
 
-> From: TOR:GMH & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自: TOR:GMH & 编码: [咔皮呆](https://github.com/KARPED1EM)

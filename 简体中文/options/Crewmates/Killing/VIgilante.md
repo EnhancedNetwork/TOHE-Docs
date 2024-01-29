@@ -1,20 +1,20 @@
 ---
-lang: en-US
-title: Vigilante
-prev: Veteran
+lang: zh-CH
+title: 义务警员
+prev: 老兵
 next: /options/settings/Crewmates.html
 ---
 
-# <font color="#9304c1">🤺 <b>Vigilante</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#9304c1">🤺 <b>义务警员</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-The Vigilante is tasked with eliminating potential threats to the crew, but if they mistakenly kill an innocent crew member, they become a Madmate driven by guilt and remorse.<br>
-Note: Gangster can not convert Vigilante into madmate.
+义警的任务是消除对船员的潜在威胁，但如果他们错误地杀死了一名无辜的船员，他们就会成为被内疚和悔恨驱使的疯子。<br>
+注意：黑帮不能将义警变成疯子。
 
-- Max
-  - Set the Maximum amount of Vigilantes that can be in a match
-- Crusade Cooldown
-  - Set how long the Vigilante has to wait to Kill
+- 最大数量
+  - 设置游戏中义务警员的最大数量
+- 十字军东征冷却时间
+  - 设置义警必须等待多长时间才能杀死
 
-> From: SLE (Mercenary)
+> 发件人： SLE （Mercenary）

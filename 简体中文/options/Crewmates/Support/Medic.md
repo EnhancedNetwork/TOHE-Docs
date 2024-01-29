@@ -1,46 +1,45 @@
 ---
-lang: en-US
-title: Medic
-prev: Mechanic
-next: Medium
+lang: zh-CN
+title: 医生
+prev: 机械师
+next: 通灵师
 ---
 
-# <font color="#00ff97">🚑 <b>Medic</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#00ff97">🚑 <b>医生</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-The Medic can place a shield on the target by pressing the Kill button. The Medic can only give one shield for the whole game. When the Medic dies, the target's shield will be removed. The Medic can also see if someone is trying to break the target's shield.<br>
-Depending on the host's settings, the Medic or the target can see if the player has a shield (shown as a<font size="5em" color="#00ff97">「⬤」</font>next to the name).
+医生可以通过按下“杀戮”按钮在目标上放置盾牌。 医生整场比赛只能提供一个盾牌 当医生死亡时，目标的护盾将会被移除。 医生还可以查看是否有人试图破坏目标的护盾。<br>
+根据房主的设置，医生或目标可以查看玩家是否有盾牌（显示为名称旁边的<font size="5em" color="#00ff97">「⬤」</font>）。
 
-- Max
-  - Set the Maximum amount of Medics that can be in a match
-- Who can see the shield
-  - Nothing - No one can see the shield
-  - Medic+Shielded - The Medic AND the Shielded player can see the shield
-  - Medic - Only the Medic can see the shield
-  - Shielded - Only the Shielded player can see the shield
-- Who can see kill attempt
-  - Nothing - No one can see the kill attempt
-  - Medic+Shielded - The Medic AND the Shielded player can see the kill attempt
-  - Medic - Only the Medic can see the kill attempt
-  - Shielded - Only the Shielded player can see the kill attempt
-- Shield deactivates when the Medic dies
-  - <font color=green>ON</font>: the Shield will disappear when the Medic dies
-    - Shield deactivation is visible
-      - <font color=green>ON</font>: the Shield will show that it disappeared
-        - Immediately - the Shield will disappear immediately when the Medic dies
-        - After Meeting - the Shield will disappear after the next Meeting
-        - <font color=red>OFF</font> - the Shield will disappear without showing that it disappeared
-  - <font color=red>OFF</font>: the Shield will remain even after the Medic dies
-- On kill attempt, reset murderer's cooldown to
-  - Set the kill cooldown after the shield is attempted to be broken
-- Guessing ignores Medic Shield
-  - <font color=green>ON</font>: Shield will be ignored when someone tries to guess the Shielded player
-  - <font color=red>OFF</font>: Shield will protect the Shielded player from being guessed
+- 最大数量
+  - 设置游戏中"医生"的最大数量
+- 谁能看到盾牌
+  - 什么都没有——没有人能看到盾牌
+  - 医生+护盾 - 医生和护盾玩家可以看到护盾
+  - 医生 - 只有医生医能看到盾牌
+  - 屏蔽 - 只有被屏蔽的玩家才能看到屏蔽
+- 谁能看到杀人动画
+  - 什么都没有 - 没有人能看到击杀动画
+  - 医生+盾牌 - 医生和盾牌玩家可以看到击杀动画
+  - 医生 - 只有医生能看到击杀动画
+  - 护盾 - 只有被保护的玩家可以看到击杀尝试
+- 医生死亡时，护盾失效
+  - <font color=green>开</font>: 医生死亡后，护盾会消失
+    - 盾牌停用可见
+      - <font color=green>开</font>: 盾牌会显示它消失了
+        - 立即 - 医生死亡后，护盾会立即消失
+        - 会议结束后 - 下次会议结束后，盾牌将消失
+        - <font color=red>关</font> – 盾牌会消失，但不会显示它已消失
+  - <font color=red>关</font>: 即使医生死亡，盾牌也会保留
+- 尝试击杀时，将凶手的冷却时间重置为
+  - 在试图打破护盾后设置击杀冷却时间
+- 赌怪会忽略医疗护盾
+  - <font color=green>开</font>: 当有人试图猜测被护盾保护的玩家时，护盾将被忽略
+  - <font color=red>关</font>: 护盾将保护被保护玩家不被猜中
 
-:::tip Did You Know?
+:::tip 您知道吗？
 
-Medic was reworked as of Canary Build 1 (2.5.1_1), previously it was based on [KARPED1EM](https://github.com/KARPED1EM)'s code, but now it's based on Town of Us Reactivated
-:::
+医生从Canary 第 1 版 (2.5.1_1) 开始重新设计，以前是基于 [KARPED1EM](https://github.com/KARPED1EM)的代码，但现在是基于Town of Us Reactivated
 
-> From: ToUR & Coding: [Tommy-XL](https://github.com/Tommy-XL)
+> 来源: ToUR 编码: [Tommy-XL](https://github.com/Tommy-XL)

@@ -1,24 +1,24 @@
 ---
 lang: zh-CN
-title: Anonymous
+title: 骇客
 prev: /options/Settings/Impostors.html
-next: Dazzler
+next: 眩晕者
 ---
 
-# <font color="red">🕵️ <b>Anonymous</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>
+# <font color="red">🕵️ <b>骇客</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>
 
 ***
 
-The Anonymous can Shapeshift into people to make them automatically report any dead body the Anonymous killed, or if no dead body, they will report themself.<br>
+骇客可以变形其他人，让他们自动报告匿名者杀死的任何尸体，如果没有尸体，他们会报告自己。<br>
 
-- Notes:
-  - Hacking ignores whether a body can be reported
-  - Hacking Lazy Guy will do nothing<br><br>
-- Max
-  - Set the Maximum amount of Anonymous’ that can be in a match
-- Kill Cooldown
-  - Set how long the Anonymous needs to wait to use their Ability/Kill
-- Ability Use Count
-  - Set how many times the Anonymous can use his Ability
+- 注意：
+  - 黑客攻击忽略了是否可以报告尸体
+  - 黑客 Lazy Guy 将无能为力<br><br>
+- 最大数量
+  - 设置游戏中骇客的最大数量
+- 击杀冷却时间
+  - 设置骇客需要等待多长时间才能使用他们的技能/击杀
+- 能力使用次数
+  - 设置骇客可以使用他的能力的次数
 
-> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 创意与编码：[KARPED1EM]（https\://github.com/KARPED1EM）

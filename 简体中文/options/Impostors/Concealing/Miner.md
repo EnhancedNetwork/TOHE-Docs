@@ -1,21 +1,21 @@
 ---
-lang: en-US
-title: Miner
-prev: Mastermind
-next: Puppeteer
+lang: zh-CN
+title: 矿工
+prev: 策划者
+next: 傀儡师
 ---
 
-# <font color="red">⛏️ <b>Miner</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">⛏️ <b>矿工</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 
 ***
 
-Miner can Shapeshift to return to the last Vent they vented in.
+矿工可以变形成上次他们爆发的最后一个通风口。
 
-- Max
-  - Set the Maximum amount of Miners that can be in a match
-- Shapeshift Duration
-  - Set the amount of time a Miner can Shapeshift for
-- Shapeshift Cooldown
-  - Set the amount of time a Miner has to wait before they can Shapeshift again
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 变形持续时间
+  - 设置矿工可以变形的时间
+- 变形冷却
+  - 设置矿工再次变形之前必须等待的时间
 
-> From: TOHR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+>

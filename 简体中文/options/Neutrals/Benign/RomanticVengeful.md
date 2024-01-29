@@ -1,20 +1,20 @@
 ---
 lang: zh-CN
-title: Vengeful Romantic
-prev: Romantic
-next: Romantic
+title: 复仇浪漫者
+prev: 无情浪漫者
+next: 萨满
 ---
 
-# <font color="#8b0000">💕 <b>Vengeful Romantic</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
+# <font color="#8b0000">💕 <b>复仇浪漫者</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
 
 ***
 
-You change your roles from Romantic if your partner (A crew or non neutral killer) is killed. As a Vengeful Romantic, Your goal is to avenge your partner, which means you have to kill the killer of your partner. If you succeed to do so, the Both you and your partner win with the winning team at the end. If you try to kill someone other than your partner's killer, then the you will die by misfire.
+如果你的恋人(不带刀中立) 被杀，你的职业就会从浪漫者转变成复仇浪漫者。 复仇浪漫者需要击杀杀害你恋人的凶手以达成胜利条件。 如果你成功了，你将会与你的恋人一起跟随获胜阵营一起胜利。 如果你尝试击杀其他人，你将会走火而死
 
-- Vengeful Romantic Kill Cooldown
-  - Set the cooldown for the Vengeful Romantic's kill
-- Vengeful Romantic Can Vent
-  - <font color=green>ON</font>: the Vengeful Romantic can vent
-  - <font color=red>OFF</font>: the Vengeful Romantic cannot vent
+- 复仇浪漫者的击杀冷却时间
+  - 设置复仇浪漫者的击杀冷却时间
+- 复仇浪漫者使用通风管
+  - <font color=green>开</font>：复仇浪漫者可以使用通风管
+  - <font color=red>关</font>：复仇浪漫者不可以使用通风管
 
-> From: Stellar Roles & Coding: [Gurge44](#) & [ryuk](#)
+> 来自：Stellar Roles & 编码：[Gurge44](#) & [ryuk](#)

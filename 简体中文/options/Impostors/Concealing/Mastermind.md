@@ -1,22 +1,21 @@
 ---
-lang: en-US
-title: Mastermind
-prev: Escapist
-next: Miner
+lang: zh-CN
+title: 策划者
+prev: 逃逸者
+next: 矿工
 ---
 
-# <font color="red">🧙‍♂️ <b>Mastermind</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">🧙‍♂️<b>策划者</b></font><Badge text="Concealing" type="tip" vertical="middle"/>
 
 ***
 
-As the Mastermind, you can use your kill button on a player once to manipulate them. This does nothing if the target doesn't have a kill button. But if the target has a kill button of any time, they'll be told after a delay that they were manipulated and they must kill someone in a limited time to survive. If the time limit expires or a meeting gets called before killing someone, they die.<br>
-Double click on someone to kill them normally.
+作为策划者，你可以对玩家使用一次击杀按钮来操纵他们。 如果目标没有杀人按钮，这没有任何作用，但如果目标有任何类型的杀人按钮，他们将在延迟后被告知他们被操纵，他们必须在有限的时间内杀死某人才能生存。 如果时间限制到期或在杀人前召开会议，他们就会死亡。<br>正常情况下，双击某人就会杀死他们。
 
-- Max
-  - Set the Maximum amount of Masterminds that can be in a match
-- Time limit to kill someone
-  - Set the amount of time the Masterminds target has until they kill someone before they suicide
-- Manipulation notification delay
-  - Set the amount of time it will take for the Masterminds target to be notified that they were manipulated
+- 最大数量
+  - 设置游戏中策划者的最大数量
+- 杀人的时间限制
+  - 设定策划者目标在自杀前杀人的时间
+- 操作通知延迟
+  - 设置通知Mastermind目标被操纵的时间
 
-> From: TOHE+
+> 来自: TOHE+

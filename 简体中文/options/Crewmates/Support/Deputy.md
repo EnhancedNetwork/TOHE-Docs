@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Deputy
 prev: Coroner
 next: Detective
@@ -11,8 +11,8 @@ next: Detective
 
 Reset a players kill cooldown by using your kill button on them. If target has no kill button, then the ability was a waste.
 
-- Max
-  - Set the Maximum amount of Deputies that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Handcuff Cooldown
   - Set the time a Deputy has to wait to use their Ability
 - Kill Cooldown for handcuffed player

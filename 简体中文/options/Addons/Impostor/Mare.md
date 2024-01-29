@@ -1,25 +1,25 @@
 ---
-lang: en-US
-title: Mare
-prev: Madmate
-next: Mimic
+lang: zh-CN
+title: 梦魇
+prev: 叛徒
+next: 宝箱怪
 ---
 
-# <font color=red>🐴 <b>Mare</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🐴 <b>梦魇</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 
 ***
 
-You can only kill during Lights Out. Your Kill Cooldown is shorter during Lights Out. However, during Lights Out, your name will show up as Red for everyone.
+梦魇只能在停电时下进行击杀。 停电期间，且梦魇击杀冷却很短。 但是请注意，停电时间内所有玩家都能看到梦魇的名字以红色表示。
 
-- Max
-  - Set the Maximum amount of Mares that can be in a match
-- Spawn Chance
-  - Set the percentage players have of getting Mare
-- Kill Cooldown During Lights Out
-  - Set how long the Mare has to wait to kill
+- 最大数量
+  - 设置游戏中梦魇的最大数量。
+- 出现概率
+  - 设置梦魇的出现概率
+- 熄灯时的击杀冷却时间
+  - 设置梦魇必须等待多长时间才能击杀
 
-:::tip Fun Fact
-Mare was originally a Role, but was later changed to an Impostor debuff addon.
+:::tip 有趣的事实
+梦魇最初是一个职业，但后来改为了一个内鬼debuff附加职业。
 :::
 
-> From: TOH
+>

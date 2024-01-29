@@ -1,24 +1,24 @@
 ---
-lang: en-US
-title: Bewilder
-prev: Beartrap
-next: Burst
+lang: zh-CN
+title: 迷幻者
+prev: 陷阱师
+next: 爆裂
 ---
 
-# <font color=#c894f5>🤪 <b>Bewilder</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
+# <font color=#c894f5>🤪 <b>迷幻者</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 
 ***
 
-The <font color=red>Impostors</font> won't be Bewilder. Bewilder may have a smaller/bigger vision depends on the host settings. When the Bewilder is killed, the murderer's vision will become as small/big as the Bewilder.
+<font color=red>伪装者</font>不会成为迷惑者。 迷幻者是一个更小/更大的视野取决于房主设置。 当迷幻者被杀死时，凶手的视野会变得和迷幻者一样小/一样大。
 
-- Max
-  - Set the Maximum amount of Bewilders that can be in a match.
-- Spawn Chance
-  - Set the percentage players have of getting Bewilder.
-- Bewilder Vision
-  - Set how far players with Bewilder can see.
-- Killer gets Bewilder's Vision
-  - <font color=green>ON</font>: The Bewilders Killer will gain the Bewilders Vision
-  - <font color=red>OFF</font>: The Bewilders Killer will not gain the Bewilders Vision
+- 最大数量
+  - 设置游戏中迷幻者的最大数量
+- 生成概率
+  - 设置玩家成为迷幻者的百分比。
+- 视野
+  - 设置玩家可以看到的距离。
+- 杀手得到了迷幻者的视野
+  - <font color=green>开启</font>: 杀手将获得迷幻者视野
+  - <font color=red>关闭</font>: 杀手不会获得迷幻者视野
 
-> From: TOHR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自:TOHR & Coding: [KARPED1EM](https://github.com/KARPED1EM)

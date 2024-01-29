@@ -1,67 +1,66 @@
 ---
-lang: en-US
-title: Judge
-prev: Jailer
-next: Knight
+lang: zh-CN
+title: 法官
+prev: 狱警
+next: 侠客
 ---
 
-# <font color="#f8d85a">👨‍⚖️ <b>Judge</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#f8d85a">👨‍⚖️<b>法官</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-The Judge can judge a certain player during the Meeting.
+法官可以在会议期间对某位玩家进行审判。
 
-If the Target is evil, the Target will be killed. If the Judge is wrong and the Target isn’t evil, the Judge will Suicide.
+如果目标是邪恶的，目标就会被杀死。 如果法官判断错误，而目标并不是邪恶的，法官就会自杀。
 
-The judging command is `/tl [player ID]`.
+判断命令是 `/tl[玩家ID]`。
 
-You can see the ID of player’s next to their name, or by typing `/id`
+您可以在玩家用户名旁或输入 `/id`，查看玩家的 ID。
 
-PS: You don’t need to worry about this if you have a TOHE Modded Client, as it includes a built-in Trial Button on Player Nameplates.
+附注：如果您使用 TOHE模组客户端，则无需担心此问题，因为它在玩家名称板上包含了一个内置的试用按钮。
 
-- Max
-  - Set the Maximum amount of Judges that can be in a match
-- Max Trials per Meeting
-  - Set how many times a Judge can Trial players per Meeting
+- 最大数量
+  - 设置游戏中法官的最大数量
+- 每次会议审判次数上限
+  - 设置法官每次会议可以对玩家进行审判的次数
 
-<details>
-<summary><font color=f8d85a><b>Can Trial</b></font> - <i>Options</i></summary>
+<details><summary><font color=f8d85a><b>可以试用</b></font> - <i>设置</i></summary>
 
-- Madmates
-  - <font color=green>ON</font>: this Add-On can be Trialed by the Judge
-  - <font color=red>OFF</font>: the Judge will suicide if they try to trial
-- Charmed
-  - <font color=green>ON</font>: this Add-On can be Trialed by the Judge
-  - <font color=red>OFF</font>: the Judge will suicide if they try to Trial this role
-- Sidekicks
-  - <font color=green>ON</font>: this Add-On can be Trialed by the Judge
-  - <font color=red>OFF</font>: the Judge will suicide if they try to Trial this Add-On
-- Infected
-  - <font color=green>ON</font>: this Add-On can be Trialed by the Judge
-  - <font color=red>OFF</font>: the Judge will suicide if they try to Trial this Add-On
-- Contagious
-  - <font color=green>ON</font>: this Add-On can be Trialed by the Judge
-  - <font color=red>OFF</font>: the Judge will suicide if they try to Trial this Add-On
-- <font color=#8cffff>Crewmate</font> Killing
-  - <font color=green>ON</font>: this Role-Type can be Trialed by the Judge
-  - <font color=red>OFF</font>: the Judge will suicide if they try to Trial this Role type
-- <font color=#7f8c8d>Neutral</font> Benign
-  - <font color=green>ON</font>: this Role-Type can be Trialed by the Judge
-  - <font color=red>OFF</font>: the Judge will suicide if they try to Trial this Role type
-- <font color=#7f8c8d>Neutral</font> Evil
-  - <font color=green>ON</font>: this Role-Type can be Trialed by the Judge
-  - <font color=red>OFF</font>: the Judge will suicide if they try to Trial this Role type
-- <font color=#7f8c8d>Neutral</font> Chaos
-  - <font color=green>ON</font>: this Role-Type can be Trialed by the Judge
-  - <font color=red>OFF</font>: the Judge will suicide if they try to Trial this Role type
-- <font color=#7f8c8d>Neutral</font> Killing
-  - <font color=green>ON</font>: this Role-Type can be Trialed by the Judge
-  - <font color=red>OFF</font>: the Judge will suicide if they try to Trial this Role type
+- 叛徒
+  - <font color=green>开启</font>：这个附加职业可以由法官试用
+  - <font color=red>关闭</font>：如果法官试图审判他们，法官将自杀
+- 魅魔小弟
+  - <font color=green>开启</font>：这个附加职业可以由法官试用
+  - <font color=red>关闭</font>：如果法官试图审判他们，法官将自杀
+- 跟班
+  - <font color=green>开启</font>：这个附加职业可以由法官试用
+  - <font color=red>关闭</font>：如果法官试图审判他们，法官将自杀
+- 感染者
+  - <font color=green>开启</font>：这个附加职业可以由法官试用
+  - <font color=red>关闭</font>：如果法官试图审判他们，法官将自杀
+- 病毒
+  - <font color=green>开启</font>：这个附加职业可以由法官试用
+  - <font color=red>关闭</font>：如果法官试图审判他们，法官将自杀
+- 带刀<font color=#8cffff>船员</font>
+  - <font color=green>开启</font>：这个职业类型可以由法官试用
+  - <font color=red>关闭</font>：如果法官试图审判他们，法官将自杀
+- 友好<font color=#7f8c8d>中立</font>
+  - <font color=green>开启</font>：这个职业类型可以由法官试用
+  - <font color=red>关闭</font>：如果法官试图审判他们，法官将自杀
+- 邪恶<font color=#7f8c8d>中立</font>
+  - <font color=green>开启</font>：这个职业类型可以由法官试用
+  - <font color=red>关闭</font>：如果法官试图审判他们，法官将自杀
+- 混乱<font color=#7f8c8d>中立</font>
+  - <font color=green>开启</font>：这个职业类型可以由法官试用
+  - <font color=red>关闭</font>：如果法官试图审判他们，法官将自杀
+- 带刀<font color=#7f8c8d>中立</font>
+  - <font color=green>开启</font>：这个职业类型可以由法官试用
+  - <font color=red>关闭</font>：如果法官试图审判他们，法官将自杀
 
 </details>
 
-- Hide Judge’s commands
-  - <font color=green>ON</font>: the mod will attempt to hide the Judge’s `/tl` commands
-  - <font color=red>OFF</font>: the mod will not care to hide the Judge’s commands.
+- 隐藏法官的命令
+  - <font color=green>开启</font>：模组将尝试隐藏法官的`/tl`命令
+  - <font color=red>关闭</font>:模组将不会隐藏法官的指令
 
-> From: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自: SNR & 编码: [咔皮呆](https://github.com/KARPED1EM)

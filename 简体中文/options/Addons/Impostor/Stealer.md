@@ -1,21 +1,21 @@
 ---
-lang: en-US
-title: Stealer
-prev: Mimic
-next: Swift
+lang: zh-CN
+title: 窃票者
+prev: 宝箱怪
+next: 迅捷
 ---
 
-# <font color=red>🤑 <b>Stealer</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🤑 <b>窃票者</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 
 ***
 
-Only <font color=red>Impostor</font> other than Bombers and Trapsters will become Stealer. Every time a Stealer kills a person, he gets an additional vote (the vote number is set by the host, and the decimal is rounded down). Also, extra votes from the Stealer are hidden during meeting.
+只有 <font color=red>内鬼</font> 除了自爆兵和诡雷之外的职业会成为窃票者。 窃票者每次击杀一个人都会增加自己本局的票数（增加数量根据房主设定，小数向下取整）。 此外，窃票者额外的票是隐藏的。
 
-- Max
-  - Set the Maximum amount of Stealers that can be in a match.
-- Spawn Chance
-  - Set the percentage players have of getting Stealer.
-- Votes Increase Amount Per Kill
-  - Set how much the Stealers votes increase after a kill.
+- 最大数量
+  - 设置游戏中窃票者的最大数量。
+- 出现概率
+  - 设置窃票者出现概率
+- 每次击杀增加的票数
+  - 设置击杀玩家后窃票者的票数增加多少。
 
-> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 想法和编码: [咔皮呆](https://github.com/KARPED1EM)

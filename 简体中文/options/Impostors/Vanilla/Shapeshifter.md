@@ -1,7 +1,7 @@
 ---
 lang: zh-CN
-title: Shapeshifter
-prev: Impostor
+title: 变形者
+prev: 内鬼
 next: /options/Settings/Impostors.html
 ---
 
@@ -12,8 +12,8 @@ next: /options/Settings/Impostors.html
 作为变形者，你有一个变形能力，你可以用它来陷害其他船员。<br>
 只是要注意，在变形时有一个蛋和伪装是暂时的
 
-- 最大值
-  - 设置随机身份中可以出现的变形者的最大数量
+- 最大数量
+  - 设置游戏中变形者的最大数量
 - 变形持续时间
   - 设置变形者保持变形状态的时间
 - 变形冷却

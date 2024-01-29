@@ -10,7 +10,7 @@ contributors: false
 
 :::
 
-<font size=4em>尚未完成，许多 "关于 "下拉菜单可能有占位符简介</font>
+<font size=4em>尚未完成，许多 "关于" 下拉菜单可能有占位符简介</font>
 
 ## 项目负责人
 
@@ -19,7 +19,7 @@ contributors: false
 <details>
 <summary><b><font color=gray>关于</font></b></summary>
 
-我是一名热爱编码和游戏的年轻开发人员。 我从高中时就开始编码，至今已有 6 年时间。 我目前正在学习几种编码语言，但我能说英语、法语和阿拉伯语！ Among Us发布时我就开始玩了，一直玩到现在。 在高空飞艇之后，我停止了游戏，但我偶然发现了TOHE，并爱上了它。 我决定帮忙制作这个模组，不知怎么的，我现在成了项目负责人。
+我是一名热爱编程和游戏的年轻开发人员。 我从高中时就开始编程，至今已有 6 年时间。 我目前正在学习几种编程语言，但我能说英语、法语和阿拉伯语！ Among Us刚发布时我就开始玩了，一直玩到现在。 在高空飞艇之后，我停止了游戏，但我偶然发现了TOHE，并爱上了它。 我决定帮忙制作这个模组，不知怎么的，我现在成了项目负责人。
 
 我擅长于HTML、CS、SQL和JavaScript，但我正在学习 Python 和 C++。 我从大学毕业，获得计算机科学学位，目前我是自由职业网络开发者。 我的主要目标是成为一名全栈开发人员，专注于网络安全领域。 我正在努力实现这一目标。
 
@@ -71,7 +71,7 @@ contributors: false
 
 ***
 
-[**绿色游戏**](https://github.com/NikoCat233):功能和职业编码
+[**NikoCat233**](https://github.com/NikoCat233):功能和职业编码
 
 <details>
 <summary><b><font color=gray>关于</font></b></summary>
@@ -231,7 +231,7 @@ TOHE 的老兵，擅长 Photoshop(PS)，可惜仍在找工作
 
 ***
 
-[**法官**](https://github.com/hinhinarrrrrr)：<font color=#de2910><b>繁体中文</b></font>翻译
+[**法官**](https://github.com/hinhinarrrrrr)：<font color=#de2910><b>繁体中文</b></font>翻译人员
 
 <details>
 <summary><b><font color=gray>关于</font></b></summary>
@@ -476,9 +476,9 @@ TOH: Enhanced是TOHE: Restored的延续 (后更名为TOH: Re-Edited)
 [**Town Of Host**](https://github.com/tukasa0001/TownOfHost) (By: tukasa0001)
 
 <details>
-<summary><b><font color=gray>Mod Info</font></b></summary>
+模组信息
 
-The Original Town of Host Mod. This is the Original Base for Most/All Town of Host Mods.
+Town of Host模组的分支 这里的大部分基础上的代码都来自 Town of Host模组的
 
 </details>
 
@@ -487,9 +487,9 @@ The Original Town of Host Mod. This is the Original Base for Most/All Town of Ho
 [**Town Of Host Y**](https://github.com/Yumenopai/TownOfHost_Y) (By: Yumenopai)
 
 <details>
-<summary><b><font color=gray>Mod Info</font></b></summary>
+<summary><b><font color=gray>模组信息</font></b></summary>
 
-Mutliple Ideas such as: AntiAdminer, CursedWolf, Workaholic, Greedy (Greedier), Stalker (DarkHide).
+多种想法，例如：监管者，呪狼，工作狂，贪婪者，潜藏者
 
 </details>
 
@@ -498,9 +498,9 @@ Mutliple Ideas such as: AntiAdminer, CursedWolf, Workaholic, Greedy (Greedier), 
 [**Town Of Host: The Other Roles**](https://github.com/music-discussion/TownOfHost-TheOtherRoles) (By: Discussions)
 
 <details>
-<summary><b><font color=gray>Mod Info</font></b></summary>
+<summary><b><font color=gray>模组信息</font></b></summary>
 
-MANY Role Ideas, also Exile Confirm, & Split RPC Pack.
+许多职业想法，还有驱逐确认和拆分 RPC 包。
 
 </details>
 
@@ -509,9 +509,9 @@ MANY Role Ideas, also Exile Confirm, & Split RPC Pack.
 [**Town Of Plus**](https://github.com/tugaru1975/TownOfPlus) (By: tugaru1975)
 
 <details>
-<summary><b><font color=gray>Mod Info</font></b></summary>
+<summary><b><font color=gray>模组信息</font></b></summary>
 
-Reference: Zoom.
+参考资料: 放大
 
 </details>
 
@@ -520,9 +520,9 @@ Reference: Zoom.
 [**Town Of Host +**](https://github.com/Loonie-Toons/TownOfHostPlus) (By: TheSkullCreeper)
 
 <details>
-<summary><b><font color=gray>Mod Info</font></b></summary>
+<summary><b><font color=gray>模组信息</font></b></summary>
 
-Multiple Ideas such as: Marshall, Poisoner, Necroview, & Sidekick.
+多种想法，如展现者、投毒者、死神和跟班。
 
 </details>
 
@@ -531,20 +531,20 @@ Multiple Ideas such as: Marshall, Poisoner, Necroview, & Sidekick.
 [**Town Of Host Edited +**](https://github.com/Gurge44/TOHE_PLUS) (By: Gurge44)
 
 <details>
-<summary><b><font color=gray>Mod Info</font></b></summary>
+<summary><b><font color=gray>模组信息</font></b></summary>
 
-Multiple Ideas such as: Pyromaniac, Necromancer, Huntsman (Head Hunter), & Alchemist.
+多种想法，如焚烧狂、死灵法师、猎人和炼金术士。
 
 </details>
 
 ***
 
-[**Town Of Host Edited Xi**](https://github.com/TOHEX-Official/TownOfHostEdited-Xid) (By: TOHEX-Official(Xieiawa & Slok7565))
+[**Town Of Host Edited Xi**](https://github.com/TOHEX-Official/TownOfHostEdited-Xid) (By: TOHEX-Official(喜和Slok7565))
 
 <details>
-<summary><b><font color=gray>Mod Info</font></b></summary>
+<summary><b><font color=gray>模组信息</font></b></summary>
 
-Some Ideas such as: Swapper.
+一些想法，如换票师
 
 </details>
 
@@ -553,9 +553,9 @@ Some Ideas such as: Swapper.
 [**Project Lotus**](https://github.com/ImaMapleTree/Lotus) (By: ImaMapleTree)
 
 <details>
-<summary><b><font color=gray>Mod Info</font></b></summary>
+<summary><b><font color=gray>模组信息</font></b></summary>
 
-Multiple Ideas such as: Crusader.
+多种想法，如十字军。
 
 </details>
 
@@ -564,9 +564,9 @@ Multiple Ideas such as: Crusader.
 [**Stellar Roles**](https://github.com/Mr-Fluuff/StellarRolesAU) (By: Mr-Fluuff)
 
 <details>
-<summary><b><font color=gray>Mod Info</font></b></summary>
+<summary><b><font color=gray>模组信息</font></b></summary>
 
-Multiple Ideas such as: Inspector (ParityCop).
+多种想法，如检查员。
 
 </details>
 
@@ -575,9 +575,9 @@ Multiple Ideas such as: Inspector (ParityCop).
 [**Super New Roles**](https://github.com/SuperNewRoles/SuperNewRoles) (By: SuperNewRoles (ykundesu))
 
 <details>
-<summary><b><font color=gray>Mod Info</font></b></summary>
+<summary><b><font color=gray>模组信息</font></b></summary>
 
-Reference: Credentials menu, Switch Horse Mode, Search Mod Game, & Custom Button.
+参考： 凭证菜单、切换马模式、搜索模组游戏和自定义按钮。
 
 </details>
 
@@ -586,9 +586,9 @@ Reference: Credentials menu, Switch Horse Mode, Search Mod Game, & Custom Button
 [**Revolutionary Host Roles**](https://github.com/sansaaaaai/Revolutionary-host-roles) (By: sansaaaaai)
 
 <details>
-<summary><b><font color=gray>Mod Info</font></b></summary>
+<summary><b><font color=gray>模组信息</font></b></summary>
 
-Reference: Modify settings menu.
+参考： 修改设置菜单。
 
 </details>
 
@@ -597,9 +597,9 @@ Reference: Modify settings menu.
 [**Town of Us Reactivated**](https://github.com/eDonnes124/Town-Of-Us-R) (By: eDonnes124)
 
 <details>
-<summary><b><font color=gray>Mod Info</font></b></summary>
+<summary><b><font color=gray>模组信息</font></b></summary>
 
-Multiple Ideas such as: Witness (Detective), Medic, & Tracker.
+多种想法，如侦探、医生和追踪者。
 
 </details>
 
@@ -608,15 +608,15 @@ Multiple Ideas such as: Witness (Detective), Medic, & Tracker.
 [**The Other Roles**](https://github.com/TheOtherRolesAU/TheOtherRoles) (By: TheOtherRolesAU)
 
 <details>
-<summary><b><font color=gray>Mod Info</font></b></summary>
+<summary><b><font color=gray>模组信息</font></b></summary>
 
-Multiple Ideas such as: Evil Guesser, Nice Guesser, and more included in TOH: TOR.
+多种想法，如 TOH: TOR中还包括邪恶赌怪、正义赌怪等更多
 
 </details>
 
 ***
 
-<p align="right">Feedback & Contact</p>
+<p align="right">反馈与联系</p>
 
 <p align="right">
 <a href="https://discord.gg/tohe" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>&nbsp;

@@ -1,34 +1,34 @@
 ---
 lang: zh-CN
-title: Cultist
-prev: Collector
-next: Phantom
+title: 魅魔
+prev: 集票者
+next: 幻影
 ---
 
-# <font color="#cf6acd">🦹 <b>Cultist</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
+# <font color="#cf6acd">🦹 <b>魅魔</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
 
 ***
 
-Only the Cultist team and the <font color=#8cffff>Crewmate</font> team are left, and the number of Cult members is greater than the number of <font color=#8cffff>Crewmate</font> members, then the Cultist win. Cultist can charm a non <font color=#7f8c8d>Neutral</font> player by hitting the kill button. The charmed player's skills will not change and will be considered as a Cultist team and will no longer have the original victory conditions.
+场上只剩下魅魔阵营和<font color=#8cffff>船员</font>阵营且魅魔阵营人数大于<font color=#8cffff>船员</font>阵营人数时，魅魔阵营获胜。 魅魔可以通过点击击杀按钮来吸引非<font color=#7f8c8d>中立</font>玩家。 魅惑玩家的技能不会改变，将被视为魅魔队伍，不再有原本的胜利条件。
 
-- Charm Cooldown
-  - Set how long a Cultist needs to wait to Charm a player
-- Increases Charm Cooldown For Each Charm
-  - Set how much the Cultists Charm Cooldown increases after each Charm
-- Maximum Number Of Charm
-  - Set how many times the Cultist can Charm people
-- Know Charmed Player’s Role
-  - <font color=green>ON</font>: the Cultist can see the role of player’s that they’ve Charmed
-  - <font color=red>OFF</font>: the Cultist cannot see the Charmed player’s roles
-- Charmed players know each other
-  - <font color=green>ON</font>: Charmed players can see each other.
-  - <font color=red>OFF</font>: Charmed players don’t know who else is a Charmed player
-- Charmed players count as
-  - Nothing
-  - Cultist
-  - Original Team
-- <font color=#7f8c8d>Neutral</font> Roles can be Charmed
-  - <font color=green>ON</font>: when the Cultist attempts to Charm a Neutral, they will become Charmed
-  - <font color=red>OFF</font>: when the Cultist attempts to Charm a Neutral, the Cultist will receive a message saying “This player cannot be Charmed”
+- 魅惑冷却
+  - 设置魅魔需要等待多长时间才能对玩家施加魅力
+- 增加每个护身符的护身符冷却时间
+  - 设置每次魅惑后魅魔魅惑冷却时间增加多少
+- 魅力最大数量
+  - 设置魅魔可以魅惑人的次数
+- 了解魅惑玩家的角色
+  - <font color=green>开</font>:魅魔可以看到他们施了魔法的玩家的角色
+  - <font color=red>关</font>:魅魔不可以看到他们施了魔法的玩家的角色
+- 被魅惑的玩家可以互认
+  - <font color=green>开</font>:被魅惑的玩家可以互相看到
+  - <font color=red>关</font>:被魅惑的玩家不知道还有谁是被魅惑的玩家
+- 被魅惑的玩家算作
+  - 不计人数
+  - 魅魔阵营
+  - 原始阵营
+- <font color=#7f8c8d>中立</font>身份可以被魅惑
+  - <font color=green>开</font>：当魅魔试图魅惑一名中立角色时，他们会被魅惑
+  - <font color=red>关</font>：当魅魔试图迷惑中立阵营时，魅魔会收到一条信息，提示 "无法魅惑该玩家"。
 
-> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 创意和编码: [KARPED1EM](https://github.com/KARPED1EM)

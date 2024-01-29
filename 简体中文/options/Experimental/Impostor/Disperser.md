@@ -1,25 +1,25 @@
 ---
-lang: en-US
-title: Disperser
-prev: Butcher
-next: Eraser
+lang: zh-CN
+title: 分散者
+prev: 屠夫
+next: 抹除者
 ---
 
-# <font color=red>🌀 <b>Disperser</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🌀 <b>分散者</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 
 ***
 
-<font size=4em>Experimental Reason: can cause bugged meetings</font><br>
-Note: Most likely an Impostor Hindering
+<font size=4em>实验原因：可能导致会议被窃听</font><br>
+注意：很可能冒名顶替者妨碍
 
-Disperser can use Shapeshift to teleport all players to random vents.<br><br>
-Note: the Disperser itself will not be teleported with shapeshift and players who are in the vent cannot be teleported.
+分散者可以使用变形将所有玩家传送到随机通风口。<br><br>
+注意：分散器本身不会被变形传送，通风口中的玩家也不会被传送。
 
-- Max
-  - Set the Maximum amount of Dispersers that can be in a match
-- Shapeshift Cooldown
-  - Set how long the Disperser has to wait to use Shapeshift
-- Shapeshift Duration
-  - Set how long the Disperser can use Shapeshift for
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 变形冷却
+  - 设定分散者必须等待多久才能使用变形
+- 变形持续
+  - 设置分散者可以使用变形的时间
 
-> From: ToUR
+> 来自:TOUR

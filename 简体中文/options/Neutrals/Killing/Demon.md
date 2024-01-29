@@ -1,31 +1,32 @@
 ---
 lang: zh-CN
-title: Demon
-prev: Bloodknight
-next: Glitch
+title: 玩家
+prev: 嗜血骑士
+next: 缺点者
 ---
 
-# <font color="#68bc71">👿 <b>Demon</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#68bc71">👿 <b>玩家</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-Only the Demon team and the <font color=#8cffff>Crewmate</font> team are left, and the number of Demon is greater than the number of <font color=#8cffff>Crewmate</font> members, then the Demon win. The Demon's killing rules are different from others. Everyone in the Demon's perspective has health volume. Demon kill and are killed instead consume health. Killing will take effect when the health is exhausted. Note: If other people consume the Demon's health but fail to kill the player, the murderer will see the shield-animation on the Demon as a reminder.
+只剩下玩家队伍和<font color=#8cffff>船员</font>队伍，且玩家数量大于<font color=#8cffff>船员</font>成员数量，则玩家获胜 玩家的杀戮规则不同于其他杀戮规则 在玩家的视角中，每个人都有生命值 玩家击杀和被击杀会消耗生命值。 生命值耗尽时击杀生效 注意：如果其他人消耗了恶魔的生命值但未能杀死玩家，凶手将看到恶魔上的盾牌动画作为提醒。
 
-- Attack Cooldown
-  - Set how long a Demon needs to wait in between their Attacks
-- Can Vent
-  - <font color=green>ON</font>: the Demon has the ability to Vent
-  - <font color=red>OFF</font>: the Demon cannot vent
-- Has <font color=red>Impostor</font> Vision
-  - <font color=green>ON</font>: the Demon has the same vision as an Impostor
-  - <font color=red>OFF</font>: the Demon has default vision
-- Player max health
-  - Set how much health a player appears to have to the Demon
-- Damage
-  - Set how much Damage the Demon does to other players
-- Demon Max Health
-  - Set how much health a demon appears to have to themself
-- Demon damage received
-  - Set how much health a Demon loses when someone tries to kill them
+- 攻击冷却
+  - 设置玩家的攻击冷却
+- 可以进入通风管道
+  - <font color=green>启用</font>：玩家是否有权限进入通风管道
+  - <font color=red>关闭</font>：玩家没有权限进入通风管道
+- 有 <font color=red>内鬼</font> 视野
+  - <font color=green>启用</font>：玩家与内鬼有着相同的视野
+  - <font color=red>关闭</font>：玩家有默认视野
+- 其他玩家最大血量
+  - 设置其他玩家的血量
+- 攻击伤害
+  - 设置玩家需要对其他玩家造成多少伤害才会击杀
+- 玩家的血量
+  - 设置玩家的血量
+- 玩家受到的伤害
+  - 设置玩家需要受到多少伤害才会死亡
 
-> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 想法和编程：[咔皮呆]
+> (https\://github.com/KARPED1EM)

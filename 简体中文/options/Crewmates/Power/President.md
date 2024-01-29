@@ -1,22 +1,22 @@
 ---
-lang: en-US
-title: President
-prev: Overseer
-next: Swapper
+lang: zh-CN
+title: 总统
+prev: 预言家
+next: 换票师
 ---
 
-# <font color="#ba55d3">🏛️ <b>President</b></font> <Badge text="Power" type="tip" vertical="middle"/>
+# <font color="#ba55d3">🏛️ <b>总统</b></font> <Badge text="Power" type="tip" vertical="middle"/>
 
 ***
 
-The President has 2 abilities: End the meeting and Reveal identity.<br><br>
-Ability 1: End the meeting - Type /end in meetings as President to instantly end the meeting.<br><br>
-Ability 2: Reveal identity - Type /reveal in meetings to reveal yourself. Revealing yourself will make it so every player can see that you are the President and you will become unguessable after typing the command. However, after the President has revealed themselves, whoever killed the President will have their kill CD greatly reduced on their next kill.
+总统有2个能力：结束会议和揭示身份。<br><br>
+能力1：结束会议 - 在会议中键入/end以立即结束会议。<br><br>
+能力2：揭示身份 - 在会议中键入/reveal以揭示自己的职业。 揭示自己的身份将使每个玩家都能看到您是总统，输入命令后你您将不可被赌怪猜测。 然而，在总统显露身份之后，杀死总统的人凶手的击杀冷却时间将大大缩短。
 
-- Max
-  - Set the Maximum amount of Presidents that can be in a match
-- Max Number of Ability Uses
-  - Set how many times the President can use their Ability
+- 最大数量
+  - 设置游戏中总统的最大数量
+- 最大使用能力次数
+  - 设置总统的能力次数
 - President can be guessed after revealing
   - <font color=green>ON</font>: Players can guess the President after they have revealed
   - <font color=red>OFF</font>: Players cannot guess the President after they have revealed

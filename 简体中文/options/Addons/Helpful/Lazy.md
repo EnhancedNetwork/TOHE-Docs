@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Lazy
 prev: Flash
 next: Loyal
@@ -12,8 +12,8 @@ next: Loyal
 As the Lazy, you are assigned a single short task and are immune to Warlocks, Puppeteers, and Gangsters.<br>
 The Witch can still control you.
 
-- Max
-  - Set the Maximum amount of Lazys that can be in a match.
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Spawn Chance
   - Set the percentage players have of getting Lazy
 - <font color=#8cffff>Crewmates</font> without tasks can be Lazy

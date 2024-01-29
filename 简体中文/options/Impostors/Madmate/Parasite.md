@@ -1,17 +1,17 @@
 ---
 lang: zh-CN
-title: Parasite
-prev: Crewpostor
+title: 寄生虫
+prev: 逃亡者
 next: /options/Settings/Impostors.html
 ---
 
-# <font color="red">🦠 <b>Parasite</b></font> <Badge text="Madmate" type="tip" vertical="middle"/>
+# <font color="red">🦠 <b>寄生虫</b></font> <Badge text="Madmate" type="tip" vertical="middle"/>
 
 ***
 
-The Parasite doesn’t know the Other Impostors, and the Other <font color=red>Impostors</font> don’t know the Parasite. However the Parasite still wins with Impostors, and acts like a normal <font color=red>Impostor</font> in every way.
+寄生虫不能看到其他伪装者(红名)，其他 <font color=red>伪装者</font> 也不能看到寄生虫 但寄生虫依然会和伪装者一起获胜，并且他在各方面都和<font color=red>伪装者</font> 很相似
 
-- Max
-  - Set the Maximum amount of Parasites that can be in a match
+- 最大数量
+  - 设置游戏中寄生虫的最大数量
 
-> From: TOH+
+> 来自: TOH+

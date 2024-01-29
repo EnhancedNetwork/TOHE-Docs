@@ -1,28 +1,28 @@
 ---
-lang: en-US
-title: Scientist
-prev: Engineer
-next: /options/Settings/Crewmates.html
+lang: zh-CN
+title: 科学家
+prev: 工程师
+next: ""
 ---
 
-# <font color="#8ee98e">🔬 <b>Scientist</b></font> <Badge text="Vanilla" type="tip" vertical="middle"/>
+# <font color="#8ee98e">🔬 <b>科学家</b></font> <Badge text="Vanilla" type="tip" vertical="middle"/>
 
 ***
 
-As the Scientist, you have a portable tablet with the crew's vitals on it.<br>
-Use this any way you'd like.<br>
-Catching self-reports, extra intel on body age, etc.
+作为科学家，您有一台上面有船员生命体征的便携式平板电脑。<br>
+想怎么用就怎么用<br>
+捕捉自刀自告，关于尸体死亡时间的额外信息，等等
 
-- Max
-  - Set the Maximum amount of Scientists that can be in a match
-- Vitals Cooldown
-  - Set how long the Scientist has to wait to use Vitals
-- Vitals Duration
-  - Set how long the Scientist can use Vitals for at a time
+- 最大数量
+  - 设置游戏中科学家的最大数量
+- 技能冷却时间设置
+  - 设置科学家必须等待多长时间才能查看生命体征
+- 查看生命体征的持续时间
+  - 设置科学家一次可以查看生命体征的时间
 
-:::danger "I have this disabled, why does it keep spawning?"
-You may have incompatible roles set! If you have a certain role & addon both enabled, the role will become its base. (This should not occur anymore as of 1.2.1 Dev 3) Here's ones that become Engineer:<br>
-Role: Doctor + Addon: Autopsy
+:::danger 我把它关闭了，为什么它还在产生？
+您可能设置了不兼容的职业！ 如果你有一个特定的角色和插件都启用，该角色将成为其基础 (从1.2.1 Dev 3开始，这种情况应该不会再发生)这里有一些成为工程师的职业
+职业:医生 + 组件: 尸检
 :::
 
-> From: Innersloth
+> Innersloth制作

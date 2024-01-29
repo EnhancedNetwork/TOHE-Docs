@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Lookout
 prev: Guardian
 next: Marshall
@@ -12,7 +12,7 @@ next: Marshall
 As the Lookout, you can see the IDs of every player at all times.<br>
 This allows you to see through shapeshifts and camouflages.
 
-- Max
-  - Set the Maximum amount of Lookouts that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 
 > Idea: [Dawson](#) & Coding: [Loonie Toons](https://github.com/Loonie-Toons)

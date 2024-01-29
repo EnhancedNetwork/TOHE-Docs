@@ -1,19 +1,19 @@
 ---
-lang: en-US
-title: Witness
-prev: Tracker
-next: /options/Settings/Crewmates.html
+lang: zh-CN
+title: 目击者
+prev: 正义追踪者
+next: /options/设置/船员.html
 ---
 
-# <font color="#e70052">👁️‍🗨️ <b>Witness</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#e70052">👁️‍🗨️ <b>目击者</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-As the Witness, when you use your kill button on someone, you will know if they killed in the last X seconds or not. (X depends on the settings)
+作为见证人，当你在某人身上使用你的击杀按钮时，你将会知道他们在过去的X秒内是否杀人。 (X取决于设置)
 
-- Ability Cooldown
-  - Set the amount of time Witnesses need to wait to use their ability
-- Max Time after killing where killer appears red
-  - Set the amount of time after a kill where the killer will appear red to the Witness
+- 能力冷却时间
+  - 设置目击者需要等待使用他们的能力的时间
+- 击杀后，凶手出现红色的最长时间
+  - 设置击杀后杀手出现红色的时间
 
-> From: ToUR (Detective) & Coding: [Gurge44](#)
+> 来自: ToUR (侦探) & 编码: [Gurge44](#)

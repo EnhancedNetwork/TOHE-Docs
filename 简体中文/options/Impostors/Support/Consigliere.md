@@ -1,24 +1,24 @@
 ---
 lang: zh-CN
-title: Consigliere
-prev: Cleaner
-next: Fireworker
+title: 军师
+prev: 清洁工
+next: 烟花商人
 ---
 
-# <font color="red">👨‍⚖️ <b>Consigliere</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">👨‍⚖️ <b>军师</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-As the Consigiliere, you can reveal the roles of other players using your kill button.<br>
-Single click: Reveal role<br>
-Double click: Kill<br>
-If you run out of reveal uses, your kill button functions normally.
+作为 军师，您可以使用击杀按钮揭示其他玩家的角色。<br>
+单击 显示角色<br>
+双击： 杀死<br>
+如果您用完了揭示技能，您的击杀按钮会正变得普通。
 
-- Max
-  - Set the Maximum amount of Consiglieres that can be in a match
-- Kill Cooldown
-  - Set the Consigiliere’s Kill Cooldown
-- Maximum Reveals
-  - Set the Maximum amount of times the Consigliere can reveal a role
+- 最大数量
+  - 设置游戏中军师的最大数量
+- 击杀冷却
+  - 设置 军师 的击杀冷却时间
+- 最大揭示技能数量
+  - 设置军师揭示职业的最大次数
 
-> From: TOHY
+> 来源于:tohy

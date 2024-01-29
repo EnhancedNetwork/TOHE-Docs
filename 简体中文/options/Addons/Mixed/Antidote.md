@@ -1,33 +1,33 @@
 ---
-lang: en-US
-title: Antidote
+lang: zh-CN
+title: 健康
 prev: /options/Settings/Addons.html
-next: Avenger
+next: 复仇者
 ---
 
-# <font color=#ff9876>🧪 <b>Antidote</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
+# <font color=#ff9876>🧪 <b>健康</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
 
 ***
 
-When someone tries to use kill button on you, their cooldown will be decreased by configurable amount of time.
+当有人试图对你使用击杀按钮时，他们的冷却时间将减少为房主配置的时间。
 
-- Max
-  - Set the Maximum amount of Antidote that can be in a match
-- Spawn Chance
-  - Set the percentage players have of getting Antidote
-- <font color=red>Impostors</font> can become Antidote
-  - <font color=green>ON</font>: <font color=red>Impostors</font> can become this role
-  - <font color=red>OFF</font>: <font color=red>Impostors</font> cannot become this role
-- <font color=#8cffff>Crewmates</font> can become Antidote
-  - <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become this role
-  - <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
-- <font color=#7f8c8d>Neutrals</font> can become Antidote
-  - <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
-  - <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
-- Decrease the cooldown by
-  - Set how much the cooldown will be decreased by
-- Cooldown returns to normal after a meeting
-  - <font color=green>ON</font>: Killer's cooldown will return to normal after a meeting
-  - <font color=red>OFF</font>: Killer's cooldown will not return to normal after a meeting
+- 最大数量
+  - 设置游戏中健康的最大数量
+- 出现概率
+  - 设置一局游戏中健康的出现概率
+- <font color=red>内鬼阵营</font>可以成为健康
+  - <font color=green>开</font>：<font color=red>内鬼阵营</font>可以成为这个附加身份
+  - <font color=red>关</font>：<font color=red>内鬼阵营</font>不能成为这个附加身份
+- <font color=#8cffff>船员阵营</font>可以成为健康
+  - <font color=green>开</font>：<font color=#8cffff>船员阵营</font>可以成为这个附加身份
+  - <font color=red>关</font>：<font color=#8cffff>船员阵营</font>不能成为这个附加身份
+- <font color=#7f8c8d>中立阵营</font>可以成为健康
+  - <font color=green>开</font>：<font color=#7f8c8d>中立阵营</font>可以成为这个附加身份
+  - <font color=red>关</font>：<font color=#7f8c8d>中立阵营</font>不能成为这个附加身份
+- 冷却时间减少
+  - 设置冷却时间减少的数量
+- 会议结束后冷却恢复正常
+  - <font color=green>开</font>：杀手的冷却时间会在会议后恢复正常
+  - <font color=red>关</font>：杀手的冷却时间不会在会议后恢复正常
 
-> From: [Gurge44](#) & Coding: [ryuk](#)
+> 来自：[Gurge44](#) & 编码：[ryuk](#)

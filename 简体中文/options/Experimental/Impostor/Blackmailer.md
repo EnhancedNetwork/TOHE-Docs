@@ -1,23 +1,23 @@
 ---
-lang: en-US
-title: Blackmailer
-prev: /options/Settings/Experimental.html
-next: Butcher
+lang: zh-CN
+title: 勒索者
+prev: ""
+next: 屠夫
 ---
 
-# <font color=red>🔇 <b>Blackmailer</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🔇 <b>勒索者</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 
 ***
 
-<font size=4em>Experimental Reason: Should be fixed, Needs Testing</font><br>
-Note: Most likely an Impostor Hindering
+<font size=4em>实验原因： 应该修复，需要测试</font><br>。
+注：很可能是内鬼阻碍
 
-As the Blackmailer, when you shift into a target you will blackmail that player, and the blackmailed player cannot speak.<br><br>
-Speaking by the blackmailed player will trigger the confusion command, please do not speak when the blackmailed player sees his icon
+作为勒索者，当你变身成为目标时，你将勒索该玩家，而被勒索的玩家不能说话。<br><br>
+被勒索玩家说话会触发混乱指令，请不要在被勒索玩家看到他的图标时说话
 
-- Max
-  - Set the Maximum amount of Blackmailers that can be in a match
-- Blackmail Cooldown
-  - Set how long the Blackmailer has to wait to blackmail a player
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 勒索冷却时间
+  - 设置勒索者勒索玩家的等待时间
 
-> From: ToUR & Coding: [LezaiYa](https://github.com/LezaiYa)
+> 来源于: TOUR 编码: [乐崽丫](https://github.com/LezaiYa)

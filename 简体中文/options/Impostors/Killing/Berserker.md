@@ -1,45 +1,45 @@
 ---
 lang: zh-CN
-title: Berserker
-prev: Arrogance
-next: Bomber
+title: 狂战士
+prev: 狂妄杀手
+next: 自爆兵
 ---
 
-# <font color=red>🪓 <b>Berserker</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>🪓 <b>狂战士</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-As the Berserker, you level up with each kill. Upon reaching a certain level defined by the host, you unlock a new power.<br><br>
-Scavenged kills make your kills disappear.<br>
-Bombed kills make your kills explode.
+作为狂战士，您每次击杀都会升级。 达到房主定义的某一级别后，您将解锁一种新的力量。<br><br>
+清除他人的击杀会使您的击杀消失。<br>
+炸弹击杀会使您的击杀转为爆炸。
 
-- Max
-  - Set the Maximum amount of Berserkers that can be in a match
-- Berserker kill cooldown
-  - Set how long the Berserker has to wait to kill
-- Max level that Berserker can reach
-  - Set the Berserkers maximum level that they can build up to
-- Unlock lower kill cooldown
-  - <font color=green>ON</font>: Berserker can unlock a lower kill cooldown if they reach a certain level
-    - Kill cooldown after unlocking
-      - Set the kill cooldown that the Berserker will have after reaching a certain level
-    - Level requirement for unlock
-      - Set the level that the Berserker needs to reach to unlock this buff
-  - <font color=red>OFF</font>: Berserker cannot unlock a lower kill cooldown even if they reach a certain level
-- Unlock scavenged kills
-  - <font color=green>ON</font>: Berserker can unlock scavenged kills if they reach a certain level
-    - Level requirement for unlock
-      - Set the level that the Berserker needs to reach to unlock this buff
-  - <font color=red>OFF</font>: Berserker cannot unlock scavenged kills even if they reach a certain level
-- Unlock bombed kills
-  - <font color=green>ON</font>: Berserker can unlock bombed kills if they reach a certain level
-    - Level requirement for unlock
-      - Set the level that the Berserker needs to reach to unlock this buff
-  - <font color=red>OFF</font>: Berserker cannot unlock bombed kills even if they reach a certain level
-- Unlock immortality
-  - <font color=green>ON</font>: Berserker can unlock immortality if they reach a certain level
-    - Level requirement for unlock
-      - Set the level that the Berserker needs to reach to unlock this buff
-  - <font color=red>OFF</font>: Berserker cannot unlock immortality even if they reach a certain level
+- 最大数量
+  - 设置游戏中狂战士的最大数量
+- 狂战士击杀冷却时间
+  - 设定狂战士等待多长时间才能击杀
+- 狂战士能够达到的最高等级
+  - 设置狂战士可以达到的最高等级
+- 解锁较低的击杀冷却时间
+  - <font color=green>启用</font>：如果狂战士达到一定等级，他们可以解锁更快的击杀冷却时间
+    - 解锁后的杀敌冷却时间
+      - 设置狂战士在达到一定级别后的杀死冷却时间
+    - 解锁的等级要求
+      - 设置狂战士需要达到的等级以解锁此增益效果
+  - <font color=red>关闭</font>：狂战士即使达到一定等级也无法解锁更快的击杀冷却时间
+- 解锁清除他人的击杀
+  - <font color=green>启用</font>: 狂战士如果达到一定级别，可以解锁清除他人的击杀
+    - 解锁的等级要求
+      - 设置狂战士需要达到的等级以解锁此增益效果
+  - <font color=red>关闭</font>：狂战士即使达到一定级别也无法解锁清除他人的击杀
+- 解锁爆炸击杀
+  - <font color=green>启用</font>: 狂战士 可以在达到一定等级时解锁爆炸击杀
+    - 解锁的等级要求
+      - 设置狂战士需要达到的等级以解锁此增益效果
+  - <font color=red>关闭</font>：狂战士即使达到一定等级也无法解锁爆炸杀死玩家
+- 解锁永生(immortality)
+  - <font color=green>启用</font>：如果狂战士达到一定等级，他们可以解锁不朽之身
+    - 解锁的等级要求
+      - 设置狂战士需要达到的等级以解锁此增益效果
+  - <font color=red>关闭</font>：狂战士即使达到一定级别也无法解锁不朽状态
 
-> From: TOHEX
+> 来自: TOHEX

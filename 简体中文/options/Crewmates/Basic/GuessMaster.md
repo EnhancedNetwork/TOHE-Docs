@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Guess Master
 prev: Doctor
 next: LazyGuy
@@ -11,7 +11,7 @@ next: LazyGuy
 
 As the Guess Master, you will receive information about every attempted guess made during a meeting. You will be informed about the role guesser tried to guess, and you will also be notified in case of a misguess.
 
-- Max
-  - Set the Maximum amount of Guess Masters that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 
 > Idea: [spong](#) & Coding: [ryuk](https://github.com/ryuk2098)

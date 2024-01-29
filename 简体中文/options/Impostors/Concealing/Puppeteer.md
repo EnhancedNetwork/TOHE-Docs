@@ -1,20 +1,20 @@
 ---
-lang: en-US
-title: Puppeteer
-prev: Miner
-next: RiftMaker
+lang: zh-CN
+title: 傀儡师
+prev: 矿工
+next: 裂谷制造者
 ---
 
-# <font color="red">🎭 <b>Puppeteer</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# 傀儡师
 
 ***
 
-The Puppeteer can choose a target to kill for him. The target will kill anyone as long as they are not an Impostor. Puppeteers cannot kill Normally. Lazy guy will not do your bidding.
+傀儡师可以选择一个目标来替他杀死。 只要不是冒牌者，目标会杀死任何人。 傀儡师不能杀人。 懒人不会听你的指挥。
 
-- Max
-  - Set the Maximum amount of Puppeteers that can be in a match
-- Puppet dies alongside victim
-  - <font color=green>ON</font>: the person they targeted will suicide
-  - <font color=red>OFF</font>: the person they targeted won't suicide
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 傀儡与受害者一同死去
+  - <font color=green>在</font>上：他们所针对的人将会自杀
+  - <font color=red>关闭</font>：他们针对的人不会自杀
 
-> From: TOH
+> 来自:TOH

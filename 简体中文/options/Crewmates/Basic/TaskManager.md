@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Task Manager
 prev: SuperStar
 next: Tracefinder
@@ -11,7 +11,7 @@ next: Tracefinder
 
 You see the total number of tasks completed by everyone all together next to your role name, which updates in real time.
 
-- Max
-  - Set the Maximum amount of Task Managers that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 
 > From: TOHY

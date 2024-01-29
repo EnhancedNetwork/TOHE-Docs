@@ -1,15 +1,15 @@
 ---
-lang: en-US
-title: Evil Mini
-prev: Mini
-next: MiniNice
+lang: zh-CN
+title: 邪恶的迷你船员
+prev: 迷你船员
+next: 小美
 ---
 
-# <font color=red>🐁 <b>Evil Mini</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
+# <font color=red>🐁 <b>邪恶的迷你船员</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
 
 ***
 
-As an Evil Mini, you are unkillable until you grow up and have a very long initial kill cooldown, which is drastically shortened as you grow up.<br><br>
-(If the Evil Mini is somehow killed before they grow up, the game will not end unlike it's Nice counterpart)
+作为一只邪恶的迷你船员，你在长大之前是不可杀死的，而且有一个非常长的初始杀戮冷却时间，随着你的成长，这个时间会大大缩短。<br><br>
+（如果邪恶的迷你船员在长大之前被杀死，邪恶的迷你船员将胜利）
 
-> Idea & Coding: [LezaiYa](#)
+> 想法 & 编码: [LezaiYa](#)

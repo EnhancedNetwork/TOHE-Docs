@@ -1,21 +1,21 @@
 ---
-lang: en-US
-title: Vector
-prev: Terrorist
-next: Vulture
+lang: zh-CN
+title: 马里奥
+prev: 恐怖分子
+next: 秃鹫
 ---
 
-# <font color=#ff6201>💨 <b>Vector</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
+# <font color=#ff6201>💨 <b>马里奥</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
 
 ***
 
-Vector will win alone by venting a certain number of times.
+马里奥只要使用通风口达到一定次数就会获胜
 
-- Max
-  - Set the Maximum amount of Vectors that can be in a match
-- Number of Vents to win
-  - Set the number of vents needed to win
-- Vent Cooldown
-  - Set how long the Vector has to wait to Vent
+- 最大数量
+  - 设置游戏中马里奥的最大数量
+- 获胜的通风口数量
+  - 设置获胜所需的通风口数量
+- 通风口冷却
+  - 设置马里奥需要等待多长时间才能使用通风口
 
-> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 编码和想法: [KARPED1EM](https://github.com/KARPED1EM)

@@ -1,26 +1,26 @@
 ---
 lang: zh-CN
-title: Time Thief
-prev: Nemesis
-next: Vindicator
+title: 蚀时者
+prev: 复仇者
+next: 卫道士
 ---
 
-# <font color="red">⏳ <b>Time Thief</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">⏳ <b>蚀时者</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-Every time the Time Thief kills, the Meeting time will be reduced. If the Time Thief dies, Meeting time will return to normal depending on settings.
+每当蚀时者杀死一个人，会减少会议时间。 如果蚀时者死亡，会议时间将根据设置恢复正常。
 
-- Max
-  - Set the Maximum amount of Time Thieves that can be in a match
-- Kill Cooldown
-  - Set how long the Time Thief needs to wait to Kill
-- Lower Meeting Time by
-  - Set how much time the Time Thief steals from the Meeting every time they kill a player
-- Minimum Voting Time
-  - Set the lowest that voting time can go
-- Return Stolen Time Upon Death
-  - <font color=green>ON</font>: the Meeting time will go back to normal once the Time Thief dies
-  - <font color=red>OFF</font>: the Meeting time will remain lowered
+- 最大数量
+  - 设置游戏中蚀时者的最大数量
+- 击杀冷却
+  - 设置蚀时者的击杀冷却
+- 每次击杀缩短的会议时间
+  - 设置蚀时者每次杀死一名玩家时从会议窃取的时间量
+- 蚀时者存活时会议时间最低下限
+  - 将投票时间设置为最低
+- 死亡时归还被偷走的时间
+  - <font color=green>开启</font>: 会议时间将在蚀时者死亡后恢复正常
+  - <font color=red>关闭</font>: 会议时间将持续降低
 
-> From: TOH
+> 来源于：TOH

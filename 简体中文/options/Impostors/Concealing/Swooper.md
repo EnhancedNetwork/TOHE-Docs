@@ -1,24 +1,24 @@
 ---
-lang: en-US
-title: Swooper
-prev: SoulCatcher
-next: Trickster
+lang: zh-CN
+title: 隐匿者
+prev: 灵魂捕手
+next: 鼹鼠
 ---
 
-# <font color="red">🦇 <b>Swooper</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">🦇 <b>鼹鼠</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 
 ***
 
-The Swooper can Vent to turn invisible Temporarily. They can Vent again to cancel the Ability.
+Swooper可以通过Vent暂时变得隐形。 他们可以再次发泄来取消这个能力。
 
-- Max
-  - Set the Maximum amount of Swoopers that can be in a match
-- Swoop Cooldown
-  - Set long the Swooper has to wait to use their Ability
-- Swoop Duration
-  - Set how long the Swooper stays Swooped/Invisible for
-- Swooper vents normally when swooping is on cooldown
-  - <font color=green>ON</font>: Venting will work normally when Swooper cooldown isn't up
-  - <font color=red>OFF</font>: Venting will not work normally if Swooper cooldown isn't up
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 技能冷却时间
+  - 设置鼹鼠必须等待多长时间才能使用他们的能力
+- 骑翔持续时间
+  - 设置 Swooper 保持 Swooped/Invisible 的时间
+- 当滑翔冷却时，滑翔通常会打开通风口
+  - <font color=green>关于</font>：当 Swooper 冷却时间未到时，通风将正常工作
+  - <font color=red>关闭</font>：如果Swooper冷却时间没有到，通风无法正常工作
 
-> From: TOHR & Coding：[KARPED1EM](https://github.com/KARPED1EM)
+> 来自：TOHR & Coding：[咔皮呆](https://github.com/KARPED1EM)

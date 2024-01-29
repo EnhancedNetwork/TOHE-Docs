@@ -1,21 +1,21 @@
 ---
-lang: en-US
-title: Fool
+lang: zh-CN
+title: 蠢蛋
 prev: /options/settings/Experimental.html
-next: OiiaiCat
+next: Oiiai
 ---
 
-# <font color=#e6e7ff>👻 <b>Fool</b></font> <Badge text="Addon" type="tip" vertical="middle"/>
+# <font color=#e6e7ff>👻 <b>蠢蛋</b></font> <Badge text="Addon" type="tip" vertical="middle"/>
 
 ***
 
-<font size=4em>Experimental Reason: Should be fixed, Needs Testing</font><br>
-Note: Most likely a Harmful Add-on
+<font size=4em>实验原因：应修复，需要测试</font><br>
+注意：最有可能是有害的附加组件
 
-Mechanic and <font color=red>Impostors</font> won't be Fool. Fools can't repair any sabotage.
+修理工和<font color=red>内鬼</font>不会成为蠢蛋 Fools can't repair any sabotage.
 
-- Max
-  - Set the Maximum amount of Fools that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Spawn Chance
   - Set the percentage players have of getting Fool
 - <font color=#8cffff>Crewmates</font> can become Fool

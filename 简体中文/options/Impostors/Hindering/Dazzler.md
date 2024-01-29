@@ -1,28 +1,28 @@
 ---
-lang: en-US
-title: Dazzler
-prev: Anonymous
-next: Devourer
+lang: zh-CN
+title: 眩晕者
+prev: 骇客
+next: 吞噬者
 ---
 
-# <font color="red">🎇 <b>Dazzler</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>
+# <font color="red">🎇 <b>眩晕者</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>
 
 ***
 
-The Dazzler can Shapeshift into players to reduce their vision permanently, if you die their vision returns to normal.
+眩晕者可以变形成玩家，永久降低他们的视野，如果你死了，他们的视野就会恢复正常。
 
-- Max
-  - Set the Maximum amount of Dazzlers that can be in a match
-- Kill Cooldown
-  - Set how long the Dazzler needs to wait to Kill
-- Dazzle Cooldown
-  - Set how long the Dazzler needs to wait to Dazzle again
-- Reduced vision
-  - Set how much vision the Dazzler will reduce from the player they Dazzle
-- Max number of players affected by reduced vision
-  - Set the Maximum amount of players that can be affected by the Dazzlers reduced vision
-- Reset vision of dazzled players on death/eject
-  - <font color=green>ON</font>: the players that were Dazzled will have their vision returned to normal if the Dazzler dies or is ejected
-  - <font color=red>OFF</font>: the players that were Dazzled will NOT have their vision remain reduced if the Dazzler dies or is ejected
+- 最大数量
+  - 设置游戏中眩晕者的最大数量
+- 击杀冷却时间
+  - 设置眩晕者的击杀冷却
+- 眩晕冷却
+  - 设置眩晕者需要等待多久才能再次眩晕
+- 视野下降
+  - 设置眩晕者减少玩家的视野
+- 受视野下降影响的最大玩家人数
+  - 设置可以受到眩晕者视野减少影响的最大玩家数量
+- 重置眩晕玩家死亡/驱逐时的视野
+  - <font color=green>开启</font>：被眩晕的玩家在眩晕者死亡或是被驱逐时，他们的视野将恢复正常
+  - <font color=red>关闭</font>：被眩晕的玩家在迷惑者死亡或是被驱逐时，他们的视野不会变正常
 
-> From: Idea & Coding: [papercut](https://github.com/lars-wu)
+> 来自: 想法 & 编码: [papercut](https://github.com/lars-wu)

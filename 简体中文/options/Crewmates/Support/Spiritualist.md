@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Spiritualist
 prev: Snitch
 next: Spy
@@ -11,8 +11,8 @@ next: Spy
 
 You get an arrow pointing to the ghost of the body that was reported in the last meeting. If the ghost is Good, you will be lead to a Killer. If the ghost is Bad, you will be lead to a Crewmate.
 
-- Max
-  - Set the Maximum amount of Spiritualists that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Ghost arrow interval
   - Set how long a Spiritualist has to wait to see a Ghost arrow pop-up
 - Ghost arrow duration

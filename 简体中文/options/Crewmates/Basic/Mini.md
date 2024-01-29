@@ -1,38 +1,38 @@
 ---
-lang: en-US
-title: Mini
-prev: LazyGuy
-next: Mole
+lang: zh-CN
+title: 迷你船员
+prev: 摆烂人
+next: 卧底
 ---
 
-# <font color="#dddddd">🐁 <b>Mini</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
+# <font color="#dddddd">🐁 <b>迷你船员</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
 
 ***
 
-The mechanics for the Mini can differ whether or not it's an Evil Mini or a Nice Mini.
+迷你船员的代码结构可能会有所不同，无论是坏迷你还是好迷你
 
-- Time required to grow (s)
-  - Set how long (in Seconds) it will take for a Mini to fully grow up.
-- Everyone can see the Mini
-  - The Mini will be known by all players.
-- Mini can be an Impostor
-  - <font color=green>ON</font>: the Mini can be an Evil Mini
-    - Probability of Mini being an Impostor
-      - Set the chance that a Mini can spawn as an Evil Mini
-    - Kill Cooldown when under 18
-      - Set the Evil Mini's Kill Cooldown while they are under 18
-    - Kill Cooldown when over 18
-      - Set the Evil Mini's Kill Cooldown while they are over 18
-  - <font color=red>OFF</font>: the Mini cannot be an Evil Mini
-- Display age change in real-time
-  - <font color=green>ON</font>: the Mini's age will be displayed in real-time
-  - <font color=red>OFF</font>: the Mini's age will not be displayed in real-time
+- 长大所需时间（秒）
+  - 设置迷你船员需要多长时间（以秒为单位）才能完全长大
+- 所有人都可以知道谁是迷你船员
+  - 所有玩家都将知道迷你船员是谁
+- 迷你船员可以成为伪装者
+  - <font color=green>启用</font>：迷你船员可以是邪恶的
+    - 迷你船员成为伪装者的概率
+      - 设置坏迷你船员的生成概率
+    - 18岁以下的迷你船员的击杀冷却时间
+      - 设置在18岁以下的坏迷你船员击杀冷却时间
+    - 18岁以上的坏迷你船员击杀冷却时间
+      - 设置在18岁以上的坏迷你船员击杀冷却时间
+  - <font color=red>关闭</font>：迷你船员不能成为坏迷你船员
+- 实时显示年龄变化情况
+  - <font color=green>启用</font>：迷你船员的年龄将实时显示
+  - <font color=red>关闭</font>：迷你船员的年龄变化不会实时显示
 
 <center>
 
-[<font color=red>Evil Mini Settings</font>](./MiniEvil.html)<br>
-[<font color="#dddddd">Nice Mini Settings</font>](./MiniNice.html)
+[<font color=red>坏迷你船员设置</font>](./MiniEvil.html)<br>
+[<font color="#dddddd">好迷你船员设置</font>](./MiniNice.html)
 
 </center>
 
-> Idea & Coding: [LezaiYa](#)
+> 想法 & 编码: [乐崽吖](LezaiYa)(#)

@@ -1,21 +1,21 @@
 ---
 lang: zh-CN
-title: Shaman
-prev: Romantic
-next: Taskinator
+title: 萨满
+prev: 复仇浪漫者
+next: 任务执行者
 ---
 
-# <font color="#50c878">🧙 <b>Shaman</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
+# <font color="#50c878">🧙 <b>萨满</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
 
 ***
 
-As Shaman you can use your kill button to select voodoo doll once every round. All the interactions with you using kill button will be deflected to the voodoo doll and the voodoo doll will destroy.<br><br>
-Since Witch uses magic too, the effect of the voodoo doll will be nullified (voodoo doll won't be destroyed though) and will take place on Shaman itself.<br><br>
-If you survive till the end, you win with the winning team.
+萨满每一轮都可以使用击杀键选择一名巫毒娃娃。 所有与你的互动都会被转移到巫毒娃娃上，而巫毒娃娃将会摧毁<br><br>
+由于巫师也使用魔法，所以攻击将不会转移到巫毒娃娃身上(而且巫毒娃娃不会被摧毁) ，并且会发生在萨满本身身上<br><br>
+如果你生存到了最后，你将会跟随胜利的阵营一起获胜
 
-- Max
-  - Set the Maximum amount of Shamans that can be in a match
-- Voodoo Cooldown
-  - Set the cooldown of the voodoo doll
+- 最大数量
+  - 设置游戏中萨满的最大数量
+- 标记巫毒娃娃的冷却时间
+  - 设置标记巫毒娃娃的冷却时间
 
-> Idea & Coding: [ryuk](#)
+> 想法 & 编码：[ryuk](#)

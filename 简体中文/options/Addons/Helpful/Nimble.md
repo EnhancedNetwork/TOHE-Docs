@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Nimble
 prev: Necroview
 next: Overclocked
@@ -12,8 +12,8 @@ next: Overclocked
 As the Nimble, you gain access to the vent ability.<br><br>
 Only assigned to <font color=#8cffff>Crewmates</font> that have an <font color=red>Impostor</font> basis.
 
-- Max
-  - Set the Maximum amount of Nimbles that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Spawn Chance
   - Set the percentage players have of getting Nimble
 

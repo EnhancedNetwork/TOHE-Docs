@@ -1,33 +1,34 @@
 ---
-lang: en-US
-title: Retributionist
-prev: NiceGuesser
-next: Reverie
+lang: zh-CN
+title: 惩罚者
+prev: 正义赌怪
+next: 遐想者
 ---
 
-# <font color="#228b22">🔥 <b>Retributionist</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#228b22">🔥 <b>复仇者</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-Have the ability to Kill a few players after the Retributionist dies using `/ret {ID}`
+在复仇者死后使用`/ret {ID}`有能力杀死几个玩家
 
-- Max
-  - Set the Maximum amount of Retributionists that can be in a match
-- Max retributions
-  - Set the Maximum amount of retributions (kills) a Retributionist can make after their death
-- Maximum players needed to block retributions
-  - Set the max amount of players that have to be alive to prevent the Retributionist from killing
-- Can only retribute on task completion
-  - <font color=green>ON</font>: you can only retribute (kill) players once you finish your tasks
-  - <font color=red>OFF</font>: you can retribute (kill) players even if your tasks aren't completed
-- Override Retributionist’s Tasks
-  - <font color=green>ON</font>: you can set a different amount of Tasks that a Retributionist needs to do
-    - Retributionist has Common Tasks
-      - Set if the Retributionist has Common Tasks
-    - Amount of Long Tasks for Retributionist
-      - Set the amount of Long Tasks the Retributionist will receive
-    - Amount of Short Tasks for Retributionist
-      - Set the amount of Short Tasks the Retributionist will receive
-  - <font color=red>OFF</font>: the Retributionist does the same amount of Tasks as anyone else
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 最大复仇次数
+  - 设置复仇者在死后可以进行的最大报复（杀戮）数量
+- 最多需要的玩家来阻止报复
+  - 设置最大存活玩家数量，以防止报应者杀死
+- 只能在任务完成后进行报答
+  - <font color=green>在</font>: 你只能在完成任务后对玩家进行报复（击杀）
+  - <font color=red>关闭</font>：即使您的任务未完成，您也可以报复（杀死）玩家
+- 特别设置复仇者的任务数
+  - <font color=green>ON</font>: 你可以设置复仇者需要完成的不同数量的任务
+    - 复仇者有共同任务
+      - 设置复仇者是否有共同任务
+    - 复仇者的长任务量
+      - 设置复仇者将接收的长任务量
+    - 商人的短任务量
+      - 设置复仇者将接收的短任务量
+  - <font color=red>关闭</font>：复仇者完成与其他人一样多的任务
 
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> 来源：想法 & 编程：[Loonie Toons]
+> (https\://github.com/Loonie-Toons)

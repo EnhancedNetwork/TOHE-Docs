@@ -1,19 +1,19 @@
 ---
-lang: en-US
-title: Reach
-prev: Lovers
-next: Workhorse
+lang: zh-CN
+title: 持枪
+prev: 恋人
+next: 加班狂
 ---
 
-# <font color=#74ba43>🫳 <b>Reach</b></font> <Badge text="Miscellaneous" type="tip" vertical="middle"/>
+# <font color=#74ba43>🫳 <b>持枪</b></font> <Badge text="Miscellaneous" type="tip" vertical="middle"/>
 
 ***
 
-Only roles with a kill button can get this add-on. You have the longest kill range possible in the game, unlike everyone else.
+只有拥有击杀按钮的玩家能获得此附加职业。 在游戏中，你有着与其他人更长的击杀范围。
 
-- Max
-  - Set the Maximum amount of Reaches that can be in a match
-- Spawn Chance
-  - Set the percentage players have of getting Reach
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 出现概率
+  - 设置一局游戏中持枪的出现概率
 
-> From: [Gurge44](#) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自：[Gurge44](#) & 编码：[KARPED1EM](https://github.com/KARPED1EM)

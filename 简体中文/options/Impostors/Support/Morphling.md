@@ -1,23 +1,23 @@
 ---
 lang: zh-CN
-title: Morphling
-prev: Kamikaze
-next: Nemesis
+title: 化形者
+prev: 神风特工队
+next: 复仇者
 ---
 
-# <font color="red">👤 <b>Morphling</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">👤 <b>化形者</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-As the Morphling, you are a Shapeshifter but cannot kill while not shapeshift.
+作为Morphling，你是一个变形者，但在不变形的情况下不能杀人。
 
-- Max
-  - Set the Maximum amount of Morphlings that can be in a match
-- Kill Cooldown
-  - Set the Morphling’s Kill Cooldown
-- Shapeshift Cooldown
-  - Set how long the Morphling needs to wait to Shapeshift
-- Shapeshift Duration
-  - Set how long the Morphling will stay in their Shapeshift form until they unshift
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 击杀冷却时间
+  - 设置 变体精灵 的击杀冷却时间
+- 变形冷却
+  - 设置变形者变形是否可以留下证据
+- 变形持续时间
+  - 设置变形者在变形形态下保持的时间，直到他们解除变形
 
-> From: Idea & Coding: [LoonieToons](https://github.com/Loonie-Toons)
+>

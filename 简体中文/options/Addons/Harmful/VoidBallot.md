@@ -1,28 +1,28 @@
 ---
-lang: en-US
-title: Void Ballot
-prev: Unlucky
-next: /options/Settings/Addons.html
+lang: zh-CN
+title: 无效投票
+prev: 倒霉蛋
+next: /选项/设置/Addons.html
 ---
 
-# <font color=#ff3399>🗳️ <b>Void Ballot</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>
+# <font color=#ff3399>🗳️ <b>无效投票</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>
 
 ***
 
-Holder of this addon will have 0 vote count.
+此附加会让你的投票变得无效
 
-- Max
-  - Set the Maximum amount of Void Ballot that can be in a match
-- Spawn Chance
-  - Set the percentage players have of getting Void Ballot
-- <font color=red>Impostors</font> can become Void Ballot
-  - <font color=green>ON</font>: <font color=red>Impostors</font> can become this role
-  - <font color=red>OFF</font>: <font color=red>Impostors</font> cannot become this role
-- <font color=#8cffff>Crewmates</font> can become Void Ballot
-  - <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become this role
-  - <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
-- <font color=#7f8c8d>Neutrals</font> can become Void Ballot
-  - <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
-  - <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+- 最大数量
+  - 设置游戏中无效投票的最大数量
+- 出现机率
+  - 设置无效投票的出现机率
+- <font color=red>内鬼</font>是否能成为无效投票
+  - <font color=green>启用</font>：<font color=red>内鬼</font>可以成为无效投票
+  - <font color=red>关闭</font>：<font color=red>内鬼</font>无法成为无效投票
+- <font color=#8cffff>船员</font>是否能成为无效投票
+  - <font color=green>启用</font>：<font color=#8cffff>船员</font>可以成为无效投票
+  - <font color=red>关闭</font>：<font color=#8cffff>船员</font>无法成为无效投票
+- <font color=#7f8c8d>中立</font>是否能成为无效投票
+  - <font color=green>启用</font>：<font color=#7f8c8d>中立</font>可以成为无效投票
+  - <font color=red>关闭</font>：<font color=#7f8c8d>中立</font>无法成为无效投票
 
-> From: Idea & Coding: [LoonieToons](https://github.com/Loonie-Toons/)
+> 来自：想法与编码：[LoonieToons](https://github.com/Loonie-Toons/)

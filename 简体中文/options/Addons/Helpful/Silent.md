@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Silent
 prev: Seer
 next: Sleuth
@@ -12,8 +12,8 @@ next: Sleuth
 As the Silent, your vote icon won't appear on the result screen.<br>
 So nobody knows who you voted for.
 
-- Max
-  - Set the Maximum amount of Silents that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Spawn Chance
   - Set the chance of a Silent spawning
 - <font color=red>Impostors</font> can become Silent

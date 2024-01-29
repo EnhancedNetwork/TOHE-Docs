@@ -1,27 +1,27 @@
 ---
 lang: zh-CN
-title: Camouflager
+title: 隐蔽者
 prev: AntiAdminer
-next: Cleaner
+next: 清洁工
 ---
 
-# <font color="red">🦎 <b>Camouflager</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">🦎 <b>隐蔽者</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-When a Camouflager Shapeshifts, all players will look the same. All players will go back to their normal self once Camouflager unshifts.
+当隐蔽者变形时，所有玩家颜色都是一样的。 一旦隐蔽者解除技能，所有玩家都会恢复到正常状态
 
-- Max
-  - Set the Maximum amount of Camouflagers that can be in a match.
-- Camouflage Cooldown
-  - Set how long the Camouflager needs to wait to use their ability
-- Camouflage Duration
-  - Set how long the Camouflage ability lasts for
-- Can use comms sabotage
-  - <font color=green>ON</font>: the Camouflager can sabotage comms
-  - <font color=red>OFF</font>: the Camouflager cannot sabotage comms
-- Disable body reporting when camouflage is active
-  - <font color=green>ON</font>: players cannot report bodies when Camouflager is camouflaged
-  - <font color=red>OFF</font>: players can report bodies when Camouflager is camouflaged
+- 最大数量
+  - 设置游戏中隐蔽者的最大数量
+- 隐蔽的冷却时间
+  - 设置隐蔽者需要等待多长时间才能使用他们的能力
+- 隐蔽持续时间
+  - 设置隐蔽技能持续的时间
+- 可以使用通讯破坏功能
+  - <font color=green>开启</font>: 隐蔽者可以破坏通信
+  - <font color=red>关闭</font>: 隐蔽者不能破坏通信
+- 当隐蔽激活时，禁用尸体报告
+  - <font color=green>开启</font>: 当隐蔽者伪装时，玩家无法报告尸体
+  - <font color=red>关闭</font>: 玩家可以在隐蔽者伪装时报告尸体
 
-> From: TheOtherRoles
+> 来自: TheOther Roles

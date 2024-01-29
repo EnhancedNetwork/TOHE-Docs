@@ -1,24 +1,24 @@
 ---
-lang: en-US
-title: Deceiver
-prev: Crusader
-next: Jailer
+lang: zh-CN
+title: 赝品商
+prev: 十字军
+next: 狱卒
 ---
 
-# <font color="#be29ec">👿 <b>Deceiver</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#be29ec">👿<b>赝品商</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-The Deceiver can pass counterfeits to other players through the kill button. If a Non-Killing role receives the Counterfeit, they will Suicide after the Meeting. If a Killing role receives the counterfeit, they will suicide after attempting to kill someone.
+赝品商可以通过击杀键将赝品卖给其他玩家。 如果非带刀职业收到了赝品，他们将在会议结束后自杀。 如果带刀职业收到了赝品，他们将在试图击杀后自杀。
 
-- Max
-  - Set the Maximum amount of Deceivers that can be in a match
-- Ability cooldown
-  - Set how long a Deceiver needs to wait to slide someone a Counterfeit
-- Max number of uses
-  - Set how many times a Deceiver can give people Counterfeits
-- Deceiver loses ability if it deceives player without kill button
-  - <font color=green>ON</font>: Deceiver will lose their ability if they deceive a player without a kill button
-  - <font color=red>OFF</font>: Deceiver will not lose their ability even if they deceive a player without a kill button
+- 最大数量
+  - 设置游戏中赝品商的最大数量
+- 贩卖赝品冷却
+  - 设置赝品商需要等待多长时间才能给某人传递一个赝品
+- 贩卖赝品次数上限
+  - 设置赝品商可以给人们赝品的次数
+- 如果赝品商在没有杀死按钮的情况下欺骗玩家，将失去能力
+  - <font color=green>开</font>：如果赝品商欺骗一个没有击杀按钮的玩家，他们将失去能力
+  - <font color=red>关闭</font>：赝品商即使欺骗一个没有击杀按钮的玩家，也不会失去他们的能力
 
-> From: [罗寄](#) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自: [罗寄](#) & 编码: [咔皮呆](https://github.com/KARPED1EM)

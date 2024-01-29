@@ -1,24 +1,24 @@
 ---
-lang: en-US
-title: Saboteur
-prev: QuickShooter
-next: Sniper
+lang: zh-CN
+title: 破坏者
+prev: 快枪手
+next: 狙击手
 ---
 
-# <font color="red">🔌 <b>Saboteur</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="red">🔌 <b>破坏者</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-Saboteur can only kill during Sabotages.
+破坏者只能在破坏设施期间进行击杀
 
-- Max
-  - Set the Maximum amount of Saboteurs that can be in a match
-- Kill Cooldown
-  - Set how long the Saboteur needs to wait to perform a kill
+- 最大数量
+  - 设置游戏中破坏者的最大数量
+- 击杀冷却时间
+  - 设置破坏者需要等待多长时间才能执行击杀
 
-:::danger Fun Fact
+:::danger 有趣的事实
 
-This role was formerly a Hidden Role under [Inhibitor](Inhibitor)
-:::
+此角色以前是[抑郁者](Inhibitor)
+下的隐藏角色:::
 
-> Idea: [Pyro](#) & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> 想法: [Pyro](#) & 编码: [Loonie Toons](https://github.com/Loonie-Toons)

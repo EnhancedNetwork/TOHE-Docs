@@ -1,217 +1,217 @@
 ---
-lang: en-US
-title: System Settings
-prev: Custom
+lang: zh-CN
+title: 系统设置
+prev: 自定义
 next: /Roles.html
 ---
 
-# <font color=#ffc0cb>⚙️ System Settings</font>
+# <font color=#ffc0cb>⚙️ 系统设置</font>
 
 ***
 
-- <font color=#ffeb04>Preset</font>
-  - Swap and choose your saved lobby settings
+- <font color=#ffeb04>预设</font>
+  - 交换并选择您保存的预设
 
-- <font color=red>Black Screen Prevention (Recommended)</font>
-  - <font color=green>ON</font>: Mod will prevent black-screening
-  - <font color=red>OFF</font>: Mod will not prevent black-screening
+- <font color=red>防黑屏(建议使用)</font>
+  - <font color=green>启用</font>: 模组 将防止黑屏bug
+  - <font color=red>关闭</font>: 模组 将不会防止黑屏bug
 
-- Enable Gradient Tags <font color=red>(can cause disconnect issues)</font>
-  - <font color=green>ON</font>: Gradient Tags can be used.
-  - <font color=red>OFF</font>: Gradient Tags cannot be used.
+- 启用渐变标签 <font color=red>(可能导致断开连接)</font>
+  - <font color=green>启用</font>: 能够使用渐变标签
+  - <font color=red>关闭</font>: 渐变标签无法启用
 
-- <font color=#01ff00>Enable use of /kcount command</font>
-  - <font color=green>ON</font>: Players can use /kcount to see the amount of killers left
-  - <font color=red>OFF</font>: Players cannot use /kcount to see the amount of killers left
+- <font color=#01ff00>启用 使用/kcount指令</font>
+  - <font color=green>启用</font>：玩家可以使用 /kcount 查看剩余伪装者和带刀中立数量
+  - <font color=red>关闭</font>：玩家无法使用 /kcount 查看剩余伪装者和带刀中立数量
 
-- <font color=#01ff00>See ejected roles in meetings</font>
-  - <font color=green>ON</font>: Roles of ejected players will be shown to everyone
-  - <font color=red>OFF</font>: Roles of ejected players will not be shown to everyone
+- <font color=#01ff00>在会议中看到被驱逐玩家的职业</font>
+  - <font color=green>启用</font>: 已被驱逐的玩家的职业将会展示给全体玩家
+  - <font color=red>关闭</font>︰ 被驱逐玩家的职业将不会展示给全体玩家
 
-- Kick players whose level is lower than
-  - Set the minimum level required to play
-    - Temp Ban low level players
-      - <font color=green>ON</font>: Temporarily bans low level players from your lobby
-      - <font color=red>OFF</font>: Doesn't temporarily ban low level players from your lobby, kicks them like usual
+- 踢出等级低于房主设定的玩家
+  - 设置进入房间所需的最低等级
+    - 临时封禁等级低玩家
+      - <font color=green>启用</font>: 临时封禁等级低玩家加入您的房间
+      - <font color=red>关闭</font>: 不临时封禁等级低玩家加入你的房间, 那么就踢出他们
 
-- Turn on Whitelist to bypass level kick
-  - <font color=green>ON</font>: Whitelisted players can join the lobby even if they don't meet lobby requirements
-  - <font color=red>OFF</font>: Whitelisted players are ignored, and treated as everyone else is
+- 启用白名单跳过等级限制
+  - <font color=green>启用</font>: 在白名单内的玩家即使不符合等级要求，也可以进入您的房间
+  - <font color=red>关闭</font>：一视同仁
 
-- Kick Non-PC players
-  - <font color=green>ON</font>: Non-PC players cannot play
-    - Kick Android players
-      - <font color=green>ON</font>: Android players will be kicked from the lobby automatically
-      - <font color=red>OFF</font>: Android players will not be kicked from the lobby automatically
-    - Kick iOS players
-      - <font color=green>ON</font>: iOS players will be kicked from the lobby automatically
-      - <font color=red>OFF</font>: iOS players will not be kicked from the lobby automatically
-    - Kick Xbox players
-      - <font color=green>ON</font>: Xbox players will be kicked from the lobby automatically
-      - <font color=red>OFF</font>: Xbox players will not be kicked from the lobby automatically
-    - Kick PlayStation players
-      - <font color=green>ON</font>: PlayStation players will be kicked from the lobby automatically
-      - <font color=red>OFF</font>: PlayStation players will not be kicked from the lobby automatically
-    - Kick Nintendo Switch players
-      - <font color=green>ON</font>: Nintendo Switch players will be kicked from the lobby automatically
-      - <font color=red>OFF</font>: Nintendo Switch players will not be kicked from the lobby automatically
-  - <font color=red>OFF</font>: Non-PC players can play
+- 踢出非PC端玩家
+  - <font color=green>启用</font>: 非PC 玩家无法进入您的房间
+    - 踢出安卓端的玩家
+      - <font color=green>启用</font>: 安卓玩家将会自动从房间内踢出
+      - <font color=red>关闭</font>: 安卓玩家将不会自动被踢出房间
+    - 踢出IOS端玩家
+      - <font color=green>启用</font>: IOS端玩家将自动被系统踢出
+      - <font color=red>关闭</font>: iOS 玩家将不会自动被踢出房间
+    - 踢出Xbox端玩家
+      - <font color=green>启用</font>: Xbox 玩家将会被自动踢出房间
+      - <font color=red>关闭</font>: Xbox 玩家将不会自动被踢出房间
+    - 踢出PS端玩家
+      - <font color=green>启用</font>: PlayStation 玩家将会被自动踢出房间
+      - <font color=red>关闭</font>：Play Station玩家将不会自动从房间踢出
+    - 踢出任天堂端玩家
+      - <font color=green>启用</font>: 任天堂端玩家将被自动踢出房间
+      - <font color=red>关闭</font>: 任天堂端玩家不会自动被踢出房间
+  - <font color=red>关闭</font>︰ 非PC 玩家可以加入房间
 
-- Kick players without a friend code
-  - <font color=green>ON</font>: Players without a registered account cannot play
-  - <font color=red>OFF</font>: Players without a registered account can play
-    - Temp Ban players without a friend code
-      - <font color=green>ON</font>: Temporarily bans players without friend codes from your lobby
-      - <font color=red>OFF</font>: Doesn't temporarily ban players without friend codes from your lobby, kicks them like usual
+- 踢出没有好友代码的玩家
+  - <font color=green>启用</font>：没有注册账户的玩家无法加入房间
+  - <font color=red>关闭</font>: 没有注册帐户的玩家可以加入房间
+    - 临时封禁没有朋友代码的玩家
+      - <font color=green>启用</font>: 临时封禁没有好友代码的玩家
+      - <font color=red>关闭</font>: 没有好友代码的玩家会被踢出而非封禁
 
-- Apply VIP List
-  - <font color=green>ON</font>: Players who are VIPs will be given a VIP Tag in the lobby
-  - <font color=red>OFF</font>: There will be no VIP Tag in the lobby
+- 启用VIP名单
+  - <font color=green>打开</font>：作为VIP名单列表内的玩家将在大厅中获得一个 VIP 标签
+  - <font color=red>关闭</font>: 大厅中将没有VIP标签
 
-- Apply DenyName List
-  - <font color=green>ON</font>: Players using names in the DenyName.txt document cannot play
-  - <font color=red>OFF</font>: All names are allowed to play
+- 启用黑名单列表
+  - <font color=green>启用</font>：在Denyname中的玩家无法加入您的房间
+  - <font color=red>关闭</font>︰ 允许所有人进入
 
-- Apply BanList
-  - <font color=green>ON</font>: Players that have been banned in previous lobbies cannot join new lobbies by the host
-  - <font color=red>OFF</font>: Players that have been banned in previous lobbies can rejoin new lobbies by the host
+- 启用封禁名单
+  - <font color=green>启用</font>：被您封禁过的玩家若没有删除名单中的名字，将无法再次加入您的房间
+  - <font color=red>关闭</font>: 任何人都可加入
 
-- Apply Moderator List
-  - <font color=green>ON</font>: Players that have been added to the Host’s Moderator List will be given Moderator Permissions in the lobby
-  - <font color=red>OFF</font>: Players that have been added to the Host’s Moderator List will not be given Moderator Permissions in the lobby
-    - Allow moderators to use /say command
-      - <font color=green>ON</font>: Moderators can use /say to send a message when dead
-      - <font color=red>OFF</font>: Moderators cannot use /say to send a message when dead
+- 启用协管名单
+  - <font color=green>启用</font>: 已添加到协管列表的玩家将在房间获得协助房主管理的权限
+  - </font>关闭\</0>: 一视同仁
+    - 允许协管使用 /say 命令
+      - <font color=green>启用</font>: 协管在任何时候可以使用 /say发送消息
+      - <font color=red>关闭</font>：协管不能使用 /say发送消息
 
-- Kick players that say start
-  - <font color=green>ON</font>: Players that type “start, Start, begin, etc” will be kicked from the lobby
-    - Number of warnings before kick
-      - Set how many times a player can say start before they get kicked
-    - Block a player after they’re kicked
-      - <font color=green>ON</font>: Players that get kicked from spamming Start will be auto-blocked
-      - <font color=red>OFF</font>: Players can join even when kicked
-  - <font color=red>OFF</font>: Players will be able to say “start, Start, begin, etc” without being kicked
+- 踢出催开始的急性子玩家
+  - <font color=green>启用</font>：输入“start、Start、begin等”的玩家将被踢出房间
+    - 踢出前的警告数
+      - 设置玩家在踢出之前可以催多少次开始
+    - 被踢出后阻止一名玩家
+      - <font color=green>启用</font>: 禁止玩家发送网址
+      - <font color=red>关闭</font>玩家在被踢出可再次进入房间
+  - <font color=red>关闭</font>: 无视玩家催开始
 
-- Temp ban players who keep quitting
-  - <font color=green>ON</font>: Players that keep quitting will be blacklisted from joining for some time
-  - <font color=red>OFF</font>: Players that keep quitting will not be blacklisted from joining for some time
-    - Amount of Quits needed for temp ban
-      - Set how many times a player can say quit before they get temp banned
+- 临时封禁反复退出的玩家
+  - <font color=green>启用</font>：频繁退出的玩家将被黑名单上一段时间禁止加入房间
+  - <font color=red>关闭</font>：频繁退出的玩家不会上黑名单
+    - 临时封禁的所需反复退出次数
+      - 设置玩家被临时封禁之前可以退出多少次
 
-- Minutes to wait before auto-starting
-  - Set how many minutes the host has to wait before the game auto-starts
+- 自动开始游戏前等待几分钟
+  - 设置房主必须等待多少分钟才能自动开始游戏
 
-- Force start when Lobby Timer (in minutes) goes below
-  - Set the time when the game will auto-start
+- 设置在下方的房间爆炸倒计时(分钟) 数到多少后强制开始游戏
+  - 设置游戏自动开始的倒计时时间
 
-- Minimum Player Threshold to auto-start
-  - Set the minimum amount of players required to auto-start the game
+- 自动开始游戏的最少玩家数
+  - 设置自动开始游戏所需的玩家最少数量
 
-- Initial countdown for auto-starting
-  - Set the countdown for auto-starting the game
+- 自动开始游戏的初始倒计时
+  - 设置自动开始游戏的倒计时
 
-- Auto Play Again
-  - <font color=green>ON</font>: The game will auto-start again after the game ends
-  - <font color=red>OFF</font>: The game will not auto-start again after the game ends
-    - Delay before re-entering lobby
-      - Set how long it will take to re-enter lobby after a round
+- 自动重新开始游玩
+  - <font color=green>启用</font>：游戏结束后自动开始
+  - <font color=red>关闭</font>：游戏结束后不会自动开始
+    - 重新进入大厅前的等待时间
+      - 设置一轮结束后重新进入大厅需要多长时间
 
-- <font color=#01ff00>Low Load Mode</font>
-  - <font color=green>ON</font>: Mod will use less power for loading things, making it run a bit faster
-  - <font color=red>OFF</font>: Mod will use its default power for loading things, making it run a bit slower
+- <font color=#01ff00>低负载模式</font>
+  - <font color=green>启用</font>: 模组 用更低的负载来运行, 使它运行得更快
+  - <font color=red>关闭</font>: 模组 将使用正常负载模式来运行, 使它的运行比低负载模式略慢一点
 
-- <font color=#0000ff>End the game when a player has a critical error</font>
-  - <font color=green>ON</font>: Game will force end once a player gets a game breaking bug
-  - <font color=red>OFF</font>: Game will continue as before
+- <font color=#0000ff>有玩家发生黑屏或其他错误时强制结束游戏</font>
+  - <font color=green>启用</font>：一旦玩家发生游戏严重错误，游戏将强制结束
+  - <font color=red>关闭</font>: 游戏将一如既往地继续
 
-- When a cheating player is found
-  - You can choose an action to take when a player is found cheating
-    - Ban - Adds them to the BanList.txt immediately
-    - Kick - Kicks them from the lobby
-    - Notify Me - Notify only the host of the cheating player
-    - Notify Everyone - Notify everyone of the cheating player
+- 当发现开挂的玩家时
+  - 当发现有玩家作弊时，您能够选择的反击办法
+    - 封禁 - 立即将它们添加到 BanList.txt
+    - 踢出 - 踢出那帮挂dog
+    - 仅通知我 - 只告诉房主
+    - 通知每个人-通知所有人(除了作弊者)
 
-- Display Kill-log
-  - <font color=green>ON</font>: Kill-log of the previous round will be displayed once people enter the lobby
-  - <font color=red>OFF</font>: Kill-log will not automatically be displayed. (People can still `/l`)
+- 游戏结束显示上局的击杀日志
+  - <font color=green>启用</font>: 结束后系统自动发送上局击杀日志
+  - <font color=red>关闭</font>: 不发送击杀日志 (玩家可以使用 /l 指令)
 
-- Display Last Roles
-  - <font color=green>ON</font>: Everyone's roles of the previous round will be displayed once people enter the lobby
-  - <font color=red>OFF</font>: Roles will not automatically be displayed. (People can still `/l`)
+- 系统发送上局所有玩家职业情况
+  - <font color=green>启用</font>: 一旦玩家进入大厅，所有人在上一轮中的职业将会被显示
+  - <font color=red>关闭</font>: 职业不会自动显示 (玩家可以使用 /l 指令)
 
-- Auto Display Last Result
-  - <font color=green>ON</font>: Last Results of the previous round will be displayed once people enter the lobby
-  - <font color=red>OFF</font>: Last Results will not automatically be displayed. (People can still `/l`)
+- 自动显示上次游戏结局
+  - <font color=green>启用</font>：一旦玩家进入大厅，上一轮游戏的结局将会显示
+  - <font color=red>关闭</font>: 不显示结局 (玩家可以使用 /l 指令)
 
-- Suffix
-  - Change the Suffix under Host name
-  - You can choose between:
-    - None - Displays nothing
-    - Version - Displays which TOHE update the lobby is using
-    - Streaming - Displays that you are Live-Streaming
-    - Recording - Displays that you are Recording
-    - Room Host - Displays that you are the Host of the Room
-    - Original Name - Displays your Among Us Display Name
-    - Don’t kill me - Displays the words “Don’t kill me” below your name
-    - No phones - Displays “No phones” below your name
-    - Auto-Host - Displays “Auto-Host” below your name
+- 后缀
+  - 更改房主名字下面的标签
+  - 您可以在以下两者中选择：
+    - 无 - 什么都不显示
+    - 版本 - 显示您使用的TOHE 的版本
+    - 直播中 - 告诉别人您正在直播
+    - 录制中 - 告诉别人你正在录素材
+    - 房主 - 告诉别人你是房主
+    - 原版名字 - 您在Among Us中的名字
+    - 佛祖保佑(别杀我) - 告诉别人不要针对您
+    - 安卓别进啊啊啊啊啊(禁止手机端) - 告诉别人您不允许手机玩家
+    - 自动房主 - 告诉别人您是托管状态
 
-- Hide Game Settings
-  - <font color=green>ON</font>: Others won't see what roles are enabled/disabled
-  - <font color=red>OFF</font>: Others can see what roles are enabled/disabled like usual
+- 隐藏游戏设置
+  - <font color=green>启用</font>: 其他人不会看到什么职业被启用/禁用
+  - <font color=red>关闭</font>: 其他人可以像通常一样看到启用/禁用哪些职业
 
-- Players can use the `/color` command
-  - <font color=green>ON</font>: players can `/color` to change their Bean Color
-  - <font color=red>OFF</font>: players cannot change it with the command and have to do it normally
+- 玩家能使用 /color 指令
+  - <font color=green>启用</font>: 玩家可以改变他们的太空人颜色
+  - <font color=red>关闭</font>︰ 玩家不能用命令改变颜色
 
-- Player Name Mode
-  - This is how the player’s name is displayed in game. You can choose between:
-    - Disable - Default player names will be used
-    - Color - Display the player’s color
-    - Random - Display a random name
+- 显示玩家名称的模式
+  - 这是选择游戏中玩家姓名的显示方式 你可以选择:
+    - 禁用 - 将使用默认玩家名称
+    - 颜色 - 根据玩家太空人颜色来显示名称
+    - 随机显示 - 随机名称
 
-- Disable Emoji in names
-  - <font color=green>ON</font>: players cannot use emoji in their names
-  - <font color=red>OFF</font>: players can use emoji in their names
+- 禁用表情符号名称
+  - <font color=green>启用</font>: 玩家不能在其名字中使用表情
+  - <font color=red>关闭</font>：玩家可以使用表情符号作为他们的名字
 
-- Show Role Info to Unmodded Clients Round 1
-  - <font color=green>ON</font>: Info about each User's role is sent to them Round 1
-  - <font color=red>OFF</font>: Users have to manually type /m to check their role info
+- 在第一轮会议将每一位玩家的职业介绍展示给他们
+  - <font color=green>启用</font>: 每个用户职业的信息已经发送到他们的私密聊天
+  - <font color=red>关闭</font>︰ 用户必须手动输入 /m 或 /myrole 才能了解他们的职业信息
 
-- Show Role Descriptions to Unmodded Clients at First Meeting
-  - <font color=green>ON</font>: descriptions about each User's role is sent to them on the First Meeting
-  - <font color=red>OFF</font>: Users have to manually type /m to check their role description
+- 在第一次会议上向每位玩家显示角色描述
+  - <font color=green>启用</font>: 关于每个玩家职业的描述将在第一次会议上发送给他们
+  - <font color=red>关闭</font>︰ 用户必须手动输入 /m 或 /myrole 才能了解他们的职业描述
 
-- <font color=red>No Game End</font>
-  - <font color=green>ON</font>: the game cannot end until the host ends it
-  - <font color=red>OFF</font>: the game can end normally
+- <font color=red>无终模式</font>
+  - <font color=green>启用</font>︰ 除了房主强制结束，游戏不能结束
+  - <font color=red>关闭</font>︰ 游戏可以正常结束
 
-- <font color=red>BepInEx Console</font>
-  - <font color=green>ON</font>: the console stays open during Hosting
-  - <font color=red>OFF</font>: the console minimizes during Hosting
+- <font color=red>启用BepInEx控制台</font>
+  - <font color=green>启用</font>：控制台在游戏期间保持打开
+  - <font color=red>关闭</font>: 控制台在游戏时最小化
 
-- Role Assigning Algorithm
-  - These just change how roles are randomly assigned. You can choose between:
-    - Default
-    - .NET System Random
-    - HashRandom
+- 职业分配算法
+  - 这些算法只会改变角色的随机分配模式 你可以选择:
+    - 默认
+    - .NET
+    - 哈希
     - [Xorshift](https://www.programmingalgorithms.com/algorithm/xor-shift/)
     - [MersenneTwister](https://www.programmingalgorithms.com/algorithm/mersenne-twister/)
 
-- <font color=#ffc0cb>Camouflage Appearance</font>
-  - Set the appearance of how Camouflage looks when communications are sabotaged
-    - Default - Everyone appears grey
-    - <font color=#ffff00>Host</font> - Everyone appears as the host's skin
-    - <font color=#e3bacd>KARPED1EM</font> - Everyone appears as KARPED1EM's skin (the original creator of the mod)
-    - <font color=#f5dbdf>Lauryn</font> - Everyone appears as Lauryn's skin (the project leads girlfriend)
-    - <font color=#ff8000>Moe</font> - Everyone appears as Moe's skin (the project lead)
-    - <font color=#ec7578>Pyro</font> - Everyone appears as Pyro's skin (the Website Assistant)
-    - <font color=#9e2424>ryuk</font> - Everyone appears as ryuk's skin (a lead contributor)
-    - <font color=#fffff>Gurge44</font> - Everyone appears as Gurge44's skin (a lead contributor/TOHE+ Dev)
-    - <font color=#ec7578>TommyXL</font> - Everyone appears as TommyXL's skin (a lead contributor)
+- <font color=#ffc0cb>伪装外观</font>
+  - 设置通讯设备在遭到破坏时的外观
+    - 默认 - 小灰人
+    - <font color=#ffff00>房主</font> - 每个人都是房主的样子
+    - <font color=#e3bacd>咔皮呆</font> - 每个人都是 咔皮呆的皮肤(模式的原创作者)
+    - <font color=#f5dbdf>Lauryn(Loonie?)</font> - 每个人都看起来是Lauryn(Loonie)的样子(项目领先他的女友)
+    - <font color=#ff8000>Moe</font> - 每个人都是Moe的样子(TOHEnhanced创始人)
+    - <font color=#ec7578>Pyro</font> - 每个人都是Pyro的样子(网站研发帮助者)
+    - <font color=#9e2424>ryuk</font> - 每个人都是ryuk的样子(主要贡献者)
+    - <font color=#fffff>Gurge44</font> - 每个人看起来都是Gurge44的样子(主要贡献者/ TOHE+ Dev)
+    - <font color=#ec7578>TommyXL</font> - 每个人都是 TommyXL的样子(主要贡献者)
 
-- <font color=cyan>Enable Youtuber Plan</font>
-  - <font color=green>ON</font>: Host can use the command `/up [rolename]` to get the specified role on the next game - Requires Permissions
-  - <font color=red>OFF</font>: Host cannot use the command `/up [rolename]` to get the specified role on the next game
+- <font color=cyan>启用 创作者保护计划</font>
+  - <font color=green>启用</font>: 房主可以使用命令"/up [职业名]"指定下一局游戏的职业 - 需要权限
+  - <font color=red>关闭</font>: 房主不能使用命令"/up [职业名]"指定下局游戏职业
 
-> From: TOHE
+> 来自: TOHE

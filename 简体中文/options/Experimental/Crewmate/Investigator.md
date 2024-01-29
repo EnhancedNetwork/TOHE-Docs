@@ -1,26 +1,26 @@
 ---
-lang: en-US
-title: Investigator
-prev: Admirer
+lang: zh-CN
+title: 研究者
+prev: 仰慕者
 next: /options/Settings/Experimental.html
 ---
 
-# <font color=#007FFF>🕵️ <b>Investigator</b></font> <Badge text="Crewmate" type="tip" vertical="middle"/>
+# <font color=#007FFF>🕵️ <b>研究者</b></font> <Badge text="Crewmate" type="tip" vertical="middle"/>
 
 ***
 
-<font size=4em>Experimental Reason: Needs Rework</font><br>
-Note: Most likely a Crewmate Support
+<font size=4em>实验理由：需要改进</font><br>
+注：最有可能是船员支持
 
-As the Investigator, use your kill button on a player to learn something about them.<br><br>
-Depending on the settings, it'll be either sus/not sus or their exact role.
+作为研究者，使用你的击杀按钮来了解一个玩家的信息。<br><br>
+根据设置的不同，它将是可疑/不可疑或者他们的确切角色。
 
-- Investigate Cooldown
-  - Set how long the Investigator has to wait to investigate players
-- Maximum Investigations
-  - Set how many times the Investigator can investigate players
-- Reveal Mode
-  - Role - Reveals the targets Role
-  - Suspicion - Reveals if the Target has a kill button
+- 调查冷却
+  - 设置研究者必须等待多长时间来调查玩家
+- 最多调查次数
+  - 设置研究者可以调查玩家的次数
+- 显示模式
+  - 职业 - 揭示目标的职业
+  - 可疑 - 揭示目标是否有一个杀死按钮
 
-> From: Project Lotus
+> 来自:Project Lotus

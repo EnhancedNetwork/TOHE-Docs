@@ -1,22 +1,22 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Killing Machine
-prev: Hangman
-next: Lightning
+prev: 刽子手
+next: 球状闪电
 ---
 
-# <font color=red>🔪 <b>Killing Machine</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🔪 <b>杀戮机器</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 
 ***
 
-<font size=4em>Experimental Reason: Needs Rework (There was plans for a rework, but then TOHRE died so it was never implemented)</font><br>
-Note: Most likely an Impostor Killing
+<font size=4em>实验原因：需要返工（有返工计划，但后来TOHRE死亡，因此从未实施） </font><br>
+注意：很可能是冒名顶替者杀人
 
-The Killing Machine has a very short kill cooldown, but cannot vent, has lower vision, cannot sabotage, cannot report, and cannot call emergency meetings. The Killing Machine also has the same vision as Crewmates.
+杀戮机器的击杀冷却时间很短，但无法使用通风口，视力较低，无法破坏，无法报告，无法召集紧急会议 杀戮机器的视野与船员相同
 
-- Max
-  - Set the Maximum amount of Killing Machines that can be in a match
-- Kill Cooldown
-  - Set the Killing Machines Kill Cooldown
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 击杀冷却
+  - 设置杀戮机器的击杀冷却时间
 
-> From: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM)

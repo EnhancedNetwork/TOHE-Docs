@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Necroview
 prev: Lucky
 next: Nimble
@@ -14,8 +14,8 @@ The Necroview can see the teams of dead players. The following info will be disp
 \- The <font color=#8cffff>Cyan</font> name indicate the Crewmates<br>
 \- The <font color=#7c8c8d>Gray</font> name indicate the Neutrals
 
-- Max
-  - Set the Maximum amount of Necroviews that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Spawn Chance
   - Set the percentage players have of getting Necroview.
 - <font color=red>Impostors</font> can become Necroview

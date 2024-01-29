@@ -1,24 +1,24 @@
 ---
-lang: en-US
-title: Quick Shooter
-prev: Ninja
-next: Saboteur
+lang: zh-CN
+title: 快枪手
+prev: 忍者
+next: 破坏者
 ---
 
-# <font color="red">🔫 <b>Quick Shooter</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="red">🔫 <b>快速射手</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-When the kill Cooldown is over, the Quick Shooter can reset the Kill Cooldown by Shapeshifting, and will Store a Bullet. (When the storage is successful, a shield-like animation will appear to show that they successfully stored a Bullet.) <br>
-After a Quick Shooter completes a kill, he can offset the Kill Cooldown until he runs out of bullets. At the beginning of each meeting, the Quick Shooter can only keep a certain number of bullets (Set by Host).
+当击杀冷却结束时，快速射手可以通过变形重置击杀冷却，并储存一颗子弹。 （当存储成功时，会出现一个盾牌状的动画，以显示他们成功存储了一颗子弹。） <br>
+快速射手在完成击杀后，可以抵消击杀冷却时间，直到他的子弹用完。 每次会议开始时，快速射手只能保留一定数量的子弹（由主持人设置）。
 
-- Max
-  - Set the Maximum amount of Quick Shooters that can be in a match
-- Kill Cooldown
-  - Set the Quick Shooter’s Kill Cooldown
-- Shapeshift cooldown
-  - Set the Quick Shooter’s Shapeshift Cooldown
-- Max Bullets reserved for a meeting
-  - Set how many Bullets the Quick Shooter can have in a Meeting
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 击杀冷却
+  - 设置 快速射手 的击杀冷却时间
+- 储存子弹冷却时间
+  - 设置快速射击手的变形冷却时间
+- 会议保留子弹数量
+  - 设置快速射手在会议中可以拥有多少发子弹
 
-> Idea & Coding: [NCSIMON](https://github.com/NCSIMON)、[KARPED1EM](https://github.com/KARPED1EM)
+> 来自: TOHY & 编码: [NCSIMON](https://github.com/NCSIMON)、[咔皮呆](https://github.com/KARPED1EM)

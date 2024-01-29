@@ -1,19 +1,19 @@
 ---
 lang: zh-CN
-title: Cursed Wolf
-prev: Councillor
-next: Deathpact
+title: 呪狼
+prev: 议员
+next: 死亡契约
 ---
 
-# <font color=red>🐺 <b>Cursed Wolf</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# 呪狼
 
 ***
 
-When the Cursed Wolf is about to be killed, the Cursed Wolf will curse the killer to death. (The maximum number of times you can counterattack is set by the host).
+当被呪狼即将被杀死时，呪狼会诅咒杀手致死。 （你可以反击的最大次数由房主设定）。
 
-- Max
-  - Set the Maximum amount of Cursed Wolves that can be in a match
-- Amount of Cursed Shields
-  - Set how many Shields the Cursed Wolf has
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 反杀次数上限
+  - 设置呪狼拥有的护盾数量
 
-> From: TOHY
+> 来源于:tohy

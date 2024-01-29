@@ -1,16 +1,17 @@
 ---
-lang: en-US
-title: Susceptible
-prev: Stubborn
+lang: zh-CN
+title: 易受影响的
+prev: 顽固者
 next: /options/Settings/Addons.html
 ---
 
-# <font color=#f2f17e>❔ <b>Susceptible</b></font> <Badge text="Neutral" type="tip" vertical="middle"/>
----
+# <font color=#f2f17e>❔ <b>易受影响的</b></font> <Badge text="Neutral" type="tip" vertical="middle"/>
 
-As the Susceptible, your death reason will be random.
+***
 
-* This page is not yet completed! Sorry for the inconvience!
-  * This page still needs: Role Color & Settings.
+你的死亡原因是可疑，随机的
 
-> Idea: [FlyFlyTurtle] & Coding: [Drakos]
+- 此页面尚未完成！ 很抱歉给你带来不愉快！
+  - 此页面仍然需要：角色颜色和设置
+
+> 想法: [FlyFlyTurtle] & 编码: [Drakos]

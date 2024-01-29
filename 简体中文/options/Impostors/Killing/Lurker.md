@@ -1,21 +1,21 @@
 ---
-lang: en-US
-title: Lurker
+lang: zh-CH
+title: 潜伏者
 prev: Ludopath
-next: Mercenary
+next: 雇佣兵
 ---
 
-# <font color=red>👁️ <b>Lurker</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>👁️ <b>潜伏者</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-As the Lurker, you can jump into a vent to reduce your cooldown by a certain number of seconds. After you kill, your cooldown is reset to its original value.
+作为潜伏者，您可以跳进管道来减少你的击杀冷却时间 在您杀死一名玩家后，你的击杀冷却时间会重置为原始值(房主设定的cd??? 不知道了)
 
-- Max
-  - Set the Maximum amount of Lurkers that can be in a match
-- Starting kill cooldown
-  - Set the Lurkers kill cooldown at the start of a match
-- Reduce kill cooldown by
-  - Set how much the Lurkers kill cooldown gets lowered by
+- 最大数量
+  - 设置游戏中潜伏者的最大数量
+- 开始击杀的冷却时间
+  - 设置潜伏者在游戏开始后击杀完后的冷却时间
+- 减少击杀冷却时间
+  - 设置潜伏者击杀冷却时间减少多少
 
-> From: Idea & Coding: [papercut](https://github.com/lars-wu)
+> 来自:想法和编码:[papercut](https://github.com/lars-wu)

@@ -1,18 +1,18 @@
 ---
-lang: en-US
-title: Enigma
-prev: Detective
-next: FortuneTeller
+lang: zh-CN
+title: 谜团
+prev: 侦探
+next: 占卜师
 ---
 
 # <font color="#676798">🧠 <b>Enigma</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-As the Enigma, you get a random clue about the killer each meeting, depending on the setting, you may have to report the body to receive a clue. The more tasks you complete the more precise the clues get.
+作为谜团，每次会议你都会得到一个有关杀手的随机线索，根据情况，你可能需要报告尸体以获得线索。 The more tasks you complete the more precise the clues get.
 
-- Max
-  - Set the Maximum amount of Enigmas that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Number of Tasks to complete to see Stage 1 Clues
   - Set the number of tasks that the Enigma has to have completed to get Stage 1 Clues
 - Number of Tasks to complete to see Stage 2 Clues

@@ -1,25 +1,25 @@
 ---
-lang: en-US
-title: Schizophrenic
-prev: Rebound
-next: Stubborn
+lang: zh-CN
+title: 双重人格
+prev: 回弹者
+next: 固执者
 ---
 
-# <font color=#3a648f>🫂 <b>Schizophrenic</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
+# <font color=#3a648f>🫂 <b>双重人格</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
 
 ***
 
-Madmates and <font color=#7f8c8d>Neutrals</font> can't become Schizophrenic. Schizophrenic will be considered as 2 players in the game (not applying to meeting votes). Having at least one player as Schizophrenic won't end the game if there are only them and the <font color=red>Impostor</font> left.
+叛徒和中立阵营不能成为双重人格 双重人格在游戏中将被视为 2 名玩家（不适用于会议投票）。 如果只剩下他们和<font color=red>宣传者</font>，那么至少有一名玩家是精神分裂症患者也不会结束游戏。
 
-- Max
-  - Set the Maximum amount of Schizophrenics that can be in a match
-- Spawn Chance
-  - Set the percentage players have of getting Schizophrenic
-- <font color=red>Impostors</font> can become Schizophrenic
-  - <font color=green>ON</font>: <font color=red>Impostors</font> can become this role
-  - <font color=red>OFF</font>: <font color=red>Impostors</font> cannot become this role
-- <font color=#8cffff>Crewmates</font> can become Schizophrenic
-  - <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become this role
-  - <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
+- 最大值
+  - 设置游戏中双重人格的最大数量
+- 产生几率
+  - 设定玩家成为双重人格的百分比
+- <font color=red>内鬼</font>可能会变成双重人格
+  - <font color=green>开</font>:<font color=red>内鬼</font>可以成为这个职业
+  - <font color=red>关</font>:<font color=red>内鬼</font>不能成为这个职业
+- <font color=#8cffff>船员</font>可以成为双重人格
+  - <font color=green>开</font>:<font color=#8cffff>船员</font>可以成为这一角色
+  - <font color=red>关</font>:<font color=#8cffff>船员</font>不能成为该职业
 
-> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 创意与编码： [KARPED1EM](https://github.com/KARPED1EM)

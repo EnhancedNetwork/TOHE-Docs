@@ -1,29 +1,29 @@
 ---
-lang: en-US
-title: Addict
+lang: zh-CN
+title: 瘾君子
 prev: /options/Settings/Crewmates.html
-next: Alchemist
+next: 炼金术士
 ---
 
-# <font color="green">💊 <b>Addict</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
+# <font color="green">💊 <b>瘾君子</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
 
 ***
 
-As the Addict, you have a suicide timer. When it expires you kill yourself.<br>
-The timer is indicated by the vent cooldown. When the vent cooldown is at 0 seconds, you still have a short time to vent.<br>
-If you don't make it you die, if you make it the suicide timer is reset.<br>
-Also, after you are ventilated, no one can interact with you for a defined period of time.<br>
-After this period is over, you are immobilized for another defined period of time and cannot report any bodies.
+瘾君子有一个自杀倒计时。 当时间归零时，瘾君子会自杀。<br>
+计时器为通风管冷却时间。 当管道冷却时间为0秒时，你仍然有一段时间可以跳入管道。<br>
+如果你没有进入管道的话，就会自杀，如果你进入了管道的话，自杀计时器将被重置。<br>
+此外，在你跳入管道后，在规定的时间内，任何人无法对你进行互动。<br>
+这段时间结束后，你会在一段时间内无法动弹。
 
-- Max
-  - Set the Maximum amount of Addicts that can be in a match
-- Vent Cooldown
-  - Set how long an Addict has to wait to Vent
-- Time Until Suicide
-  - Set how long an Addict has until they Suicide
-- Invulnerability Time
-  - Set the time the Addict is invulnerable for after venting
-- Time the Addict gets frozen in place after Invulnerability
-  - Set the time the Addict is stuck in place for after invulnerability
+- 最大数量
+  - 设置游戏中瘾君子的最大数量
+- 使用管道冷却时间
+  - 设置瘾君子需要等待多长时间才能使用管道
+- 自杀倒计时
+  - 设置瘾君子自杀的倒计时
+- 瘾君子的护盾持续时间
+  - 设置瘾君子的无敌时间
+- 瘾君子的护盾结束后被冻结的时间
+  - 设置在护盾时间结束后，瘾君子会冻结的时间
 
-> From: Idea & Coding: [papercut](https://github.com/lars-wu)
+> 来自: 想法 & 编码: [papercut](https://github.com/lars-wu)

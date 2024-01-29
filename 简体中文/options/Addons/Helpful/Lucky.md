@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Lucky
 prev: Loyal
 next: Necroview
@@ -11,8 +11,8 @@ next: Necroview
 
 With the Lucky add-on there is a probability for you to evade the kill, the specific probability is set by the host. When the evasion takes effect, the killer will see the shield-animation, but you not know anything.
 
-- Max
-  - Set the Maximum amount of Luckys that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Spawn Chance
   - Set the percentage players have of getting Lucky
 - Probability of surviving a kill

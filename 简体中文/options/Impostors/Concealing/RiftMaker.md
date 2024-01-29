@@ -1,19 +1,19 @@
 ---
-lang: en-US
-title: RiftMaker
-prev: Puppeteer
-next: Scavenger
+lang: zh-CN
+title: 裂谷制造者
+prev: 傀儡师
+next: 清道夫
 ---
 
-# <font color="red">☄️ <b>Rift Maker</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red"><b>裂缝制造者</b></font><Badge text="Concealing" type="tip" vertical="middle"/>
 
 ***
 
-As Rift Maker you can shapeshift to create a rift. You can teleport from one rift to another by touching the area where the rift was created. Trying to vent will kick you out and all the rifts will be destroyed.<br><br>
+作为裂缝制造者，你可以通过变形来制造裂缝。 您可以通过触摸创建裂缝的区域来从一个裂缝传送到另一个裂缝。 试图发泄会把你踢出去，所有的裂缝都会被摧毁。<br><br>
 
-Note: Up to two rifts can be placed at a time, if you try to place a third, it removes the first one.
+注意：最多可以同时放置两个裂缝，如果尝试放置第三个，将移除第一个裂缝。
 
-- This page is not yet completed! Sorry for the inconvience!
-  - This page still needs: Settings.
+- 本页尚未完成！ 抱歉给您带来不便！
+  - 此页面仍然需要：职业颜色和设置。
 
-> From: TOHE+
+> 来自：TOHE+

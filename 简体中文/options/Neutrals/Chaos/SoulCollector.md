@@ -1,23 +1,23 @@
 ---
-lang: en-US
-title: Soul Collector
-prev: Revolutionist
-next: Terrorist
+lang: zh-CN
+title: 灵魂收集者
+prev: 革命家
+next: 恐怖分子
 ---
 
-# <font color=#a675a1>👻 <b>Soul Collector</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
+# <font color=#a675a1>👻 <b>灵魂收集者</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
 
 ***
 
-As a Soul Collector, you vote players to predict their death. If the prediction is correct and the target dies in the next round you collect their soul.<br><br>
-You win by collecting configurable number of souls set by the host
+灵魂收集者可以投票预测玩家的死亡。 如果预测正确，并且目标在下一轮死亡，你将收集他们的灵魂。<br><br>
+你通过收集由房主设置的灵魂数量来取得胜利。
 
-- Max
-  - Set the Maximum amount of Soul Collectors that can be in a match
-- Required number of souls
-  - Set the amount of correct predictions the Soul Collector needs to win
-- Can collect their own soul
-  - <font color=green>ON</font>: the Soul Catcher can predict their own death
-  - <font color=red>OFF</font>: the Soul Catcher cannot predict if they die
+- 最大数量
+  - 设置游戏中灵魂收集者的最大数量
+- 所需灵魂数量
+  - 设置灵魂收集者获胜需要的正确预测数量
+- 可以收集自己的灵魂
+  - <font color=green>开</font>：灵魂收集者可以预测自己的死亡
+  - <font color=red>关</font>：灵魂收集者不可以预测自己的死亡
 
-> From: [ryuk](#)
+> 来自：[ryuk](#)

@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Watcher
 prev: Torch
 next: /options/Settings/Addons.html
@@ -11,18 +11,18 @@ next: /options/Settings/Addons.html
 
 During the meeting, Watcher can see everyone's votes.
 
-- Max
-  - Set the Maximum amount of Watchers that can be in a match
-- Spawn Chance
-  - Set the percentage players have of getting Watcher
-- <font color=red>Impostors</font> can become Watcher
-  - <font color=green>ON</font>: <font color=red>Impostors</font> can become this role
-  - <font color=red>OFF</font>: <font color=red>Impostors</font> cannot become this role
-- <font color=#8cffff>Crewmates</font> can become Watcher
-  - <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become this role
-  - <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
-- <font color=#7f8c8d>Neutrals</font> can become Watcher
-  - <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
-  - <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+- 最大数量
+  - 设置游戏中观察者的最大数量
+- 出现概率
+  - 设置玩家获得观察者的百分比
+- <font color=red>内鬼</font>可以成为观察者
+  - <font color=green>开启</font>：<font color=red>内鬼</font>可以成为此角色
+  - <font color=red>关闭</font>：<font color=red>内鬼</font>不能成为此角色
+- <font color=#8cffff>船员</font>可以成为观察者
+  - <font color=green>开启</font>：<font color=#8cffff>船员</font>可以成为此角色
+  - <font color=red>关闭</font>：<font color=#8cffff>船员</font>不能成为此角色
+- <font color=#7f8c8d>中立阵营</font>可以成为观察者
+  - <font color=green>开启</font>上：<font color=#7f8c8d>中立阵营</font>可以成为此角色
+  - <font color=red>关闭</font>：<font color=#7f8c8d>中立阵营</font>不能成为此角色
 
-> From: TOH & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自: TOH & 编码: [咔皮呆](https://github.com/KARPED1EM)

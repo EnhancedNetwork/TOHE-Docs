@@ -1,7 +1,7 @@
 ---
-lang: en-US
-title: Sleuth
-prev: Silent
+lang: zh-CN
+title: 侦探
+prev: 沉默者
 next: Tiebreaker
 ---
 
@@ -13,8 +13,8 @@ As the Sleuth, you can gain info from dead bodies.<br><br>
 Optionally, you may also gain the killer's role.<br><br>
 Not assigned to Detective or Mortician.
 
-- Max
-  - Set the Maximum amount of Sleuths that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Spawn Chance
   - Set the chance of a Sleuth spawning
 - <font color=red>Impostors</font> can become Sleuths

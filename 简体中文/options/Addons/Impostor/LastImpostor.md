@@ -1,17 +1,17 @@
 ---
-lang: en-US
-title: Last Impostor
-prev: Clumsy
-next: Madmate
+lang: zh-CN
+title: 绝境者
+prev: 笨蛋
+next: 叛徒
 ---
 
-# <font color=red>🤚 <b>Last Impostor</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🤚 <b>绝境者</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 
 ***
 
-This effect is given to the last surviving Impostor. Reduces their kill cooldown.
+这个职业会给最后一个存活的伪装者 会减少他的击杀冷却时间
 
-- Kill Cooldown Reduction
-  - Set the percentage that the Kill Cooldown of the Last Impostor gets reduced by
+- 击杀冷却时间减少
+  - 设定绝境者的减少击杀冷却时间
 
-> From: TOH
+> 来自: TOH

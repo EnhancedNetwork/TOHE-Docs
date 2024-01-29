@@ -1,32 +1,32 @@
 ---
 lang: zh-CN
-title: Arsonist
-prev: Agitator
-next: Bandit
+title: 纵火犯
+prev: 煽动者
+next: 强盗
 ---
 
-# <font color="#ff6633">🔥 <b>Arsonist</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#ff6633">🔥<b>纵火犯</b></font><Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-The Arsonist can douse by clicking the kill button on the player and following them for a few seconds. When the dousing starts and its successful, a shield-animation will be displayed as a reminder (only visible to themselves). When all surviving players have been doused by the Arsonist, the Arsonist can vent to start the fire and win alone.
+纵火犯可以通过点击击杀按钮并跟随他们几秒钟来浇油。 当浇油开始并且成功了, 会显示一个盾在被浇油的人的身上。(只有纵火犯可见) 当所有存活玩家都被纵火犯浇上了油，纵火犯就可以通过使用通风口去点燃他们并独自胜利
 
-If the player name shows 「△」, that means they are being doused.
+当玩家的名字显示「△」，这代表他正在被浇油
 
-if the player name shows 「▲」, it means they have been completely doused.
+当玩家的名字显示「▲」，这代表他已经被浇上了油
 
-- Max
-  - Set the Maximum amount of Arsonists that can be in a match
-- Douse Duration
-  - Set how long the Arsonist needs to be next to someone for a successful Dousing
-- Cooldown
-  - Set the time an Arsonist needs to wait until they can Douse again
-- Can ignite anytime
-  - <font color=green>ON</font>: the Arsonist can ignite all currently doused players whenever they want
-    - Minimum doused needed for ignite
-      - Set the Minimum amount of players that the Arsonist needs to have doused before they can ignite
-    - Maximum doused needed for ignite
-      - Set the Maximum amount of players that the Arsonist can ignite at a time
-  - <font color=red>OFF</font>: the Arsonist cannot ignite all currently doused players whenever they want
+- 最大数量
+  - 设置游戏中纵火犯的最大数量
+- 浇油所需时间
+  - 设置纵火犯浇油时需要贴多久才可以成功浇上油
+- 浇油冷却
+  - 设置纵火犯需要多久后才可以浇油
+- 可以随时点燃
+  - <font color=green>开</font>：纵火犯可以随时点燃场上已被浇上油的玩家
+    - 最少需要浇上多少个油才可以点燃
+      - 设置纵火犯在引燃之前需要浇油的最小玩家数量
+    - 点火所需的最大浇油量
+      - 设置纵火犯一次可以点燃的最大玩家数量
+  - <font color=red>关</font>：纵火犯不能在任何时候点燃所有目前被浇油的玩家
 
-> From: TOH
+> 来自: TOH

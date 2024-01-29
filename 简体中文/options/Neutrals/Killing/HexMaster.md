@@ -1,24 +1,25 @@
 ---
 lang: zh-CN
-title: Hex Master
-prev: Glitch
-next: Huntsman
+title: 巫师
+prev: 缺点者
+next: 猎人
 ---
 
-# <font color="#ff00ff">✝️ <b>Hex Master</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#ff00ff">✝️ <b>巫师</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-As the Hex Master, you can hex players or kill them.<br><br>
-Hexing a player works the same as spelling as a Spellcaster.
+作为巫师，你可以用妖术杀死玩家。<br><br>
+对玩家施咒的效果和施法者施法的效果一样
 
-- Switch Action Via
-  - Set how the Hex Master can swap actions between:
-    - Double Click
-    - Kill
-    - Vent
-- Hexes appear as spells
-  - <font color=green>ON</font>: Hexes will look like Spellcaster spells
-  - <font color=red>OFF</font>: Hexes will not look like Spellcaster spells
+- 切换击杀模式
+  - 设置 巫师 如何在以下动作之间进行交换：
+    - 双击
+    - 击杀
+    - 通风口
+- 妖术以咒语的形式出现
+  - </font>开启\</0>：魔法将看起来像施法者的咒语
+  - <font color=red>关闭</font>：魔法将不会像施法者施法一样显示
 
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> 职业来源：想法和编程：[Loonie Toons]
+> (https\://github.com/Loonie-Toons)

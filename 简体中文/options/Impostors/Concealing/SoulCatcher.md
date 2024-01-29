@@ -1,21 +1,21 @@
 ---
-lang: en-US
-title: Soul Catcher
-prev: Shapemaster
-next: Swooper
+lang: zh-CN
+title: 夺魂者
+prev: 千面鬼
+next: 隐匿者
 ---
 
-# <font color="red">👻 <b>Soul Catcher</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">👻 <b>夺魂者</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 
 ***
 
-The Soul Catcher will Swap places with their Shapeshift Target as long as they aren’t in an abnormal state. (Pelican stomach, Vent, Dead)
+只要夺魂者不处于异常状态，他们将与他们的变形目标交换位置。 （鹈鹕胃，通风口，死亡）
 
-- Max
-  - Set the Maximum amount of Soul Catchers that can be in a match
-- Shapeshift Duration
-  - Set how long the Soul Catcher stays Shapeshifted for
-- Shapeshift Cooldown
-  - Set long the Soul Catcher needs to wait to Shapeshift
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 变形持续时间
+  - 设置夺魂者保持变形状态的时间
+- 变形冷却
+  - 设定夺魂者需要等待多久才能变形
 
-> From: [法师](https://space.bilibili.com/511107305) & Coding: [NCSIMON](https://github.com/NCSIMON)
+> 来自: [法师](https://space.bilibili.com/511107305) & 编码: [NCSIMON](https://github.com/NCSIMON)

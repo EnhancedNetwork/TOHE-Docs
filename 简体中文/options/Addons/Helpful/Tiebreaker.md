@@ -1,28 +1,28 @@
 ---
-lang: en-US
-title: Tiebreaker
-prev: Sleuth
-next: Torch
+lang: zh-CN
+title: 破平者
+prev: 侦探
+next: 火炬
 ---
 
-# <font color=#1447af>👔 <b>Tiebreaker</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
+# <font color=#1447af>👔 <b>破平者</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 
 ***
 
-When tie vote, priority will be given to the target voted by the Tiebreaker. Note: If multiple Tiebreaker choose different tie targets at the same time, the skills of the Tiebreaker will not take effect.
+当出现平票时，优先选择破平者投票的目标进行放逐。 请注意：如果多个破平者在平票时同时选择不同的目标的话，则破平者的技能不会生效。
 
-- Max
-  - Set the Maximum amount of Tiebreakers that can be in a match
-- Spawn Chance
-  - Set the percentage players have of getting Tiebreaker
-- <font color=red>Impostors</font> can become Tiebreaker
-  - <font color=green>ON</font>: <font color=red>Impostors</font> can become this role
-  - <font color=red>OFF</font>: <font color=red>Impostors</font> cannot become this role
-- <font color=#8cffff>Crewmates</font> can become Tiebreaker
-  - <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become this role
-  - <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
-- <font color=#7f8c8d>Neutrals</font> can become Tiebreaker
-  - <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
-  - <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+- 最大数量
+  - 设置游戏中破平者的最大数量
+- 出现概率
+  - 设置游戏中破平者的出现概率
+- <font color=red>内鬼阵营</font>可以成为破平者
+  - <font color=green>开启</font>：<font color=red>内鬼阵营</font>可以成为这个附加身份
+  - <font color=red>关闭</font>：<font color=red>内鬼阵营</font>不能成为这个附加身份
+- <font color=#8cffff>船员阵营</font>可以成为破平者
+  - <font color=green>开启</font>：<font color=#8cffff>船员阵营</font>可以成为这个附加身份
+  - <font color=red>关闭</font>：<font color=#8cffff>船员阵营</font>不能成为这个附加身份
+- <font color=#7f8c8d>中立阵营</font>可以成为破平者
+  - <font color=green>开启</font>：<font color=#7f8c8d>中立阵营</font>可以成为这个附加身份
+  - <font color=red>关闭</font>：<font color=#7f8c8d>中立阵营</font>不能成为这个附加身份
 
-> From: TOR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自：TOR & 编码：[KARPED1EM](https://github.com/KARPED1EM)

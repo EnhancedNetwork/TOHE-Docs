@@ -23,7 +23,7 @@ title: 安装
 3. 找到您的Among Us游戏目录。 例如，如果你拥有Steam游戏，你可以通过右键点击你的库中的游戏来找到这个游戏，选择"管理"，最后选择"浏览本地文件"。
    ![image](./images/SteamGetFolder.png)
 
-4. 选择您在 AmongUs 安装文件夹中的所有文件并将其复制到刚才解压TOHE文件的文件夹。 文件夹现在应该像这样：
+4. 选择您在 Among Us 安装文件夹中的所有文件并将其复制到刚才解压TOHE文件的文件夹。 文件夹现在应该像这样：
    ![image](./images/ResultFolder.png)。
 
 5. 在文件夹中，运行Among Us.exe。 第一次运行可能需要一些时间才能让模组设置完成其它文件。 如果你看到黑屏，请等几分钟。 一旦它完成加载，您应该看见一个带有TOHE新闻的窗口。 如果您看不到任何关于TOHE的信息，请检查您的文件是否都在文件夹中。
@@ -34,13 +34,13 @@ title: 安装
 
 ## 新版本发布
 
-请关注 (https\://github.com/0xDrMoe/TownofHost-Enhanced/releases) 以获取新版本。 如果发布了新版本，您需要做的重复上面的步骤 1-2，解压到已经安装的同一文件夹中，然后将它覆盖。 如果TOHE提示需要更新Among Us的版本，请确保您的Among Us版本是最新的。
+请关注 [发布页面](https://github.com/0xDrMoe/TownofHost-Enhanced/releases) 以获取新版本。 如果发布了新版本，您需要做的重复上面的步骤 1-2，解压到已经安装的同一文件夹中，然后将它覆盖。 如果TOHE提示需要更新Among Us的版本，请确保您的Among Us版本是最新的。
 
-## 安装开发版本
+## 安装开发/测试版本
 
-1. 在 #dev-build或 #cany-builds 中下载最新的 dll。
+1. 在 #dev-build 或 #cany-builds 中下载最新的 dll。
 
-2. 下载完成后，将dll 移动到您的Among Us\BepInExx\plugins 文件夹中。 (当前Among Us文件夹需要是安装了TOHE的文件夹)
+2. 下载完成后，将 dll 移动到您的Among Us\BepInEx\plugins 文件夹中。 (当前Among Us文件夹需要是安装了TOHE的文件夹)
 
 3. 在文件夹中，运行Among Us.exe。 一旦它完成加载，您应该看见一个带有TOHE新闻的窗口。 如果您看不到任何关于TOHE的信息，请检查您的文件是否都在文件夹中。
 
@@ -50,14 +50,15 @@ title: 安装
 
 ## 如何获取开发版本的访问权限<br>
 
-- 参与者、测试者和至少是内部人员级别的赞助商都可以访问<br>“不用于分发”
+- 贡献者、测试者和至少是内部人员级别的赞助商都可以访问<br>
+  “不用于分发”
 
-* 要成为一个 <b>贡献者</b>，您需要帮助编程中与模组相关的角色、插件、游戏模式和其他部分
-* 要成为<b>测试者</b>，您必须是一名活跃的UP主/油管主，您的<b>TOHE视频</b>平均浏览量超过600次
-* 要成为<b>赞助者</b>，您需要在我们的[Ko-fi](https://ko-fi.com/TOHEN)上购买(特别是对于开发人员构建访问，您需要以5.00美元的价格购买至少一个Insider层）
+* 要成为一个 <b>贡献者</b>，您需要编码模组相关的职业、附加职业、游戏模式和其他部分
+* 要成为 <b>测试者</b>，您必须是一名活跃的UP主/油管主，您的<b>TOHE视频</b>平均浏览量超过600次
+* 要成为 <b>赞助者</b>，您需要在我们的[Ko-fi](https://ko-fi.com/TOHEN)上购买(特别是对于开发人员构建访问，您需要以5.00美元的价格购买至少一个内幕消息层)
 
-一旦您被接纳为上述角色之一， 您将能够访问在 [Town of Host：Enhanced Discord](https://discord.gg/tohe)上的#dev_build频道。
+一旦您被接纳为上述角色之一， 您将能够访问在 [Town of Host：Enhanced Discord](https://discord.gg/tohe)上的 #dev_build 频道。
 
-## 如何获取开发版本的访问权限<br>
+## 如何获取测试版本的访问权限<br>
 
 - 要访问测试版发布，请访问 [TOH: Enhanced Discord](https://discord.gg/tohe) 的 #canary-builds 并下载最新的 dll！

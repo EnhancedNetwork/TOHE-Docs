@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Overseer
 prev: Monarch
 next: President
@@ -11,8 +11,8 @@ next: President
 
 An Overseer can see the Role of the Nearest Player by using their Kill Button, but has very limited Vision.
 
-- Max
-  - Set the Maximum amount of Overseers that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Reveal Cooldown
   - Set how long an Overseer needs to wait to use their Ability
 - Reveal Time

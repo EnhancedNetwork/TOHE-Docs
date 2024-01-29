@@ -1,23 +1,23 @@
 ---
 lang: zh-CN
-title: Poisoner
-prev: Plaguebearer
-next: PotionMaster
+title: 投毒者
+prev: 瘟疫使者
+next: 药剂师
 ---
 
-# <font color="#478800">🧪 <b>Poisoner</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#478800">🧪 <b>投毒者</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-As the Poisoner, your kills are delayed.<br>
-Kill everyone to win.
+作为投毒者，你的杀人行动会有延迟。<br>
+杀死所有人获胜。
 
-- Poison Cooldown
-  - Set how long a Poisoner has to wait to poison a player
-- Poison Kill Delay
-  - Set how long it takes for the Poisoned target to die
-- Can Vent
-  - <font color=green>ON</font>: the Poisoner has the ability to Vent
-  - <font color=red>OFF</font>: the Poisoner cannot vent
+- 毒药冷却
+  - 设置投毒者需要多久才可以下毒
+- 毒杀延迟
+  - 设置中毒目标死亡所需的时间
+- 可不可以使用通风管道
+  - <font color=green>开</font>投毒者有权限进入通风管道
+  - <font color=red>关闭</font>投毒者没有权限进入通风管道
 
-> From: Town of Us Reactivated & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> 来自:Town of Salem II & 编码: [Loonie Toons](https://github.com/Loonie-Toons)

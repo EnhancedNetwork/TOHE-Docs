@@ -1,21 +1,21 @@
 ---
 lang: zh-CN
-title: Cleaner
-prev: Camouflager
-next: Consigliere
+title: 清理工
+prev: 隐蔽者
+next: 军师
 ---
 
-# <font color="red">🧹 <b>Cleaner</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">🧹 <b>清理工</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-Cleaner can press the Report button to clean up any dead body they see. If the cleanup is successful, the Cleaner will see a Shield animation as a reminder. The cleaned up body cannot be reported.
+清理工可以按下报告按钮，清理他们看到的任何尸体。 如果清理成功，"清理工 "会看到一个 "盾牌 "动画作为提醒。 清理后的尸体不能报告
 
-- Max
-  - Set the Maximum amount of Cleaners that can be in a match.
-- Kill Cooldown
-  - Set the Cleaners Kill Cooldown
-- Kill Cooldown on Clean
-  - Set what the Cleaner's Kill Cooldown is after cleaning a body
+- 最大数量
+  - 设置游戏中清理工的最大数量
+- 击杀冷却时间
+  - 设置 "清理工 "击杀冷却时间
+- 清除冷却时间
+  - 设置清理尸体后清理工的杀戮冷却时间
 
-> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 想法与编码: [KARPED1EM](https://github.com/KARPED1EM)

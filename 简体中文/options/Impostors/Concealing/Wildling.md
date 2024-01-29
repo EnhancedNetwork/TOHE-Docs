@@ -1,23 +1,23 @@
 ---
-lang: en-US
-title: Wildling
-prev: Warlock
-next: /options/Settings/Impostors.html
+lang: zh-CN
+title: 野人
+prev: 术士
+next: ""
 ---
 
-# <font color="red">🐺 <b>Wildling</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">🐺 <b>野人</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 
 ***
 
-The Wildling can Shapeshift, but cannot Vent. After a Wilding kills, they gain a Temporary shield and become invincible for a set amount of time.
+野人可以变形，但不能使用通风口 野人队员击杀敌人后，会获得一个临时护盾，并在一定时间内处于无敌状态。
 
-- Max
-  - Set the Maximum amount of Wildlings that can be in a match.
-- Protection Duration
-  - Set how long the Wildling is invincible for after killing
-- Shapeshift Cooldown
-  - Set long the Wildling needs to wait to Shapeshift
-- Shapeshift Duration
-  - Set how long the Wildling stays Shapeshifted for
+- 最大数量
+  - 设置游戏中野人的最大数量
+- 保护期限
+  - 设置野人被杀死后的无敌时间
+- 变形冷却
+  - 设定野人需要等待多久才能变形
+- 变形持续时间
+  - 设定野人保持变形的时间
 
-> From: TOH+
+> 创建者:toh+

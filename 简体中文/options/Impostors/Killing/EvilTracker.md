@@ -1,29 +1,29 @@
 ---
-lang: en-US
-title: Evil Tracker
-prev: EvilGuesser
-next: Greedy
+lang: zh-CH
+title: 邪恶追踪者
+prev: 邪恶赌怪
+next: 贪婪者
 ---
 
-# <font color=red>🕵️ <b>Evil Tracker</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#3cb371">🐾 <b>正义/邪恶追踪者</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-The Evil Tracker can track other people, and the Evil Tracker can Shapeshift into someone to switch the tracking target to the Shapeshift target (You will immediately unshift after performing Shapeshift). The arrow below the Evil Tracker’s name indicates the direction of the target. When the Evil Tracker’s teammate kills, the Evil Tracker will see a kill-flash.
+邪恶追踪者可以追踪其他人，邪恶追踪者可以变身成某个人来切换追踪目标到变身目标（变身后立即解除变身）。 邪恶追踪者名字下面的箭头指示了目标的方向。 当邪恶追踪者的队友击杀时，邪恶追踪者将会看到一个击杀闪光。
 
-- Max
-  - Set the Maximum amount of Evil Trackers that can be in a match.
-- Can See Kill-Flash
-  - <font color=green>ON</font>: the Evil Tracker will receive a Flash when their teammate kills.
-  - <font color=red>OFF</font>: the Evil Tracker will not receive this Flash.
-- Can Set Target
-  - Set how the Evil Tracker can Set their Target
-    - Never
-    - Once in a game
-    - Every Meeting
-    - Any Time
-- Can See Target’s Last Room In Meeting
-  - <font color=green>ON</font>: the Evil Tracker can see what room their Target was in right before the Meeting
-  - <font color=red>OFF</font>: the Evil Tracker will not receive this info.
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- \<color=#ff1919>内鬼</color>进行击杀时可见击杀闪光
+  - <font color=green>在</font>上：当他们的队友击杀敌人时，邪恶追踪者将收到一道闪光。
+  - <font color=red>关闭</font>：邪恶追踪器将不会接收此闪光。
+- 可以设置目标
+  - 设置邪恶追踪器如何设置其目标
+    - 从不
+    - 一次在游戏中
+    - 每次会议
+    - 任何时间
+- 可以在会议中看到目标在会议前处于的最后一个房间
+  - <font color=green>启用</font>：正义追踪者可以看到目标在会议开始之前最后所在的房间
+  - <font color=red>关闭</font>：邪恶追踪器将不会接收此闪光。
 
-> From: TOHE-R
+> 来自：TOHE-R

@@ -1,28 +1,28 @@
 ---
-lang: en-US
-title: Disregarded
-prev: /options/Settings/Addons.html
-next: Fragile
+lang: zh-CN
+title: 不受重视
+prev: ""
+next: 脆弱
 ---
 
-# <font color=#ff6347>🤚 <b>Disregarded</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>
+# <font color=#ff6347>🤚 <b>不受重视</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>
 
 ***
 
-With the Disregarded add-on, your corpse cannot be reported.
+不受重视的尸体无法报告。
 
-- Max
-  - Set the Maximum amount of Disregarded that can be in a match
-- Spawn Chance
-  - Set the percentage players have of getting Disregarded
-- <font color=red>Impostors</font> can become Disregarded
-  - <font color=green>ON</font>: <font color=red>Impostors</font> can become this role
-  - <font color=red>OFF</font>: <font color=red>Impostors</font> cannot become this role
-- <font color=#8cffff>Crewmates</font> can become Disregarded
-  - <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become this role
-  - <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
-- <font color=#7f8c8d>Neutrals</font> can become Disregarded
-  - <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
-  - <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+- 最大数量
+  - 设置游戏中不受重视的最大数量
+- 出现概率
+  - 设置游戏中不受重视的出现概率
+- <font color=red>内鬼阵营</font>可以成为不受重视
+  - <font color=green>开启</font>：<font color=red>内鬼阵营</font>可以成为这个附加身份
+  - <font color=red>关闭</font>：<font color=red>内鬼阵营</font>无法成为这个附加身份
+- <font color=#8cffff>船员阵营</font>可以成为不受重视
+  - <font color=green>启用</font>：<font color=#8cffff>船员阵营</font>可以成为这个附加身份
+  - <font color=red>关闭</font>：<font color=#8cffff>船员阵营</font>无法成为这个附加身份
+- <font color=#7f8c8d>中立阵营</font>可以成为不受重视
+  - <font color=green>开启</font>：<font color=#7f8c8d>中立阵营</font>可以成为这个附加身份
+  - <font color=red>关闭</font>：<font color=#7f8c8d>中立阵营</font>不能成为这个附加身份
 
-> From: Idea & Coding: [papercut](https://github.com/lars-wu)
+> 来自: 想法 & 编码: [papercut](https://github.com/lars-wu)

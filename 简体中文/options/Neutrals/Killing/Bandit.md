@@ -1,35 +1,35 @@
 ---
 lang: zh-CN
-title: Bandit
-prev: Arsonist
-next: BloodKnight
+title: 强盗
+prev: 纵火犯
+next: 嗜血骑士
 ---
 
-# <font color="#8B008B">🦝 <b>Bandit</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#8B008B">🦝 <b>强盗</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-As the Bandit, use your kill button to steal a player's add-on. Depending on the settings, you may instantly steal the addon or after the meeting starts. After the max number of steals are reached you will be able to kill normally. Additionally, if there are no stealable addons present on the target you will the target.<br><br>
-Kill everyone to win.<br><br>
-Note: Cleansed, Last Impostor and Lovers can not be stolen.
+作为强盗，使用您的击杀按钮来盗取玩家的附加组职业。 根据设置，您可以立即盗取附加职业，也可以在会议开始后盗取。 达到最大盗取次数后，您将能够正常击杀。 此外，如果目标上没有可盗取的附加职业，您将盗取目标<br><br>
+击杀所有人即可获胜。<br><br>
+注意：干净，绝境者和恋人无法被盗。
 
-- Max
-  - Set the Maximum amount of Bandits that can be in a match
-- Maximum Steals
-  - Set the Maximum amount of Steals a Bandit can do
-- Kill Cooldown
-  - Set the amount of time a Bandit must wait between kills
-- Steal Mode
-  - Instantly - Steal the addon instantly
-  - On Meeting - Steal the addon when the meeting starts
-- Can Steal Betrayal Addons
-  - <font color=green>ON</font>: the Bandit can steal Betrayal Addons
-  - <font color=red>OFF</font>: the Bandit cannot steal Betrayal Addons
-- Can Steal Impostor Only Addons
-  - <font color=green>ON</font>: the Bandit can steal Impostor Only Addons
-  - <font color=red>OFF</font>: the Bandit cannot steal Impostor Only Addons
-- Can Sabotage
-  - <font color=green>ON</font>: the Bandit can Sabotage
-  - <font color=red>OFF</font>: the Bandit cannot Sabotage
+- 最大数量
+  - 设置游戏中强盗的最大数量
+- 最大盗取次数
+  - 设置强盗的最大盗取次数
+- 击杀冷却时间
+  - 设置强盗击杀之间必须等待的时间
+- 盗取模式
+  - 即时 - 即时盗取附加职业
+  - 会议中 - 会议开始时盗取附加职业
+- 可以盗取背叛的附加职业
+  - <font color=green>开</font>：强盗可盗取背叛的附加职业
+  - <font color=red>关</font>：强盗无法盗取背叛的附加职业
+- 可以盗取只有内鬼才可以获取的附加职业
+  - <font color=green>开</font>：强盗可以盗取只有内鬼才可以获取的附加
+  - <font color=red>关</font>：强盗无法盗取只有内鬼才可以获取的附加
+- 可以破坏
+  - <font color=green>开</font>：强盗可以破坏
+  - <font color=red>关</font>：强盗无法破坏
 
-> From: [ryuk](#)
+> 来自：[ryuk](#)

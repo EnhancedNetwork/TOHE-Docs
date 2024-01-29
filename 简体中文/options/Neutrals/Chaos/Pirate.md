@@ -1,29 +1,29 @@
 ---
-lang: en-US
-title: Pirate
-prev: Phantom
-next: Provocateur
+lang: zh-CN
+title: 决斗者
+prev: 幽灵
+next: 自爆卡车
 ---
 
-# <font color="#edc240">🏴‍☠️ <b>Pirate</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
+# <font color="#edc240">🏴‍☠️ <b>决斗者</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
 
 ***
 
-As the Pirate, use your kill button to select a target every round.<br>
-You will duel with your target in the next meeting.<br>
-If both Pirate and the target chooses the name number, Pirate wins.<br>
-Additionally, if Pirate wins the duel or the target doesn't participate in the duel, the Pirate kills the target.<br><br>
-Dueling command:- /duel X (where X can be 0, 1 or 2)<br><br>
-You win after winning a certain number of duels set by the host.
+作为决斗者，每轮使用击杀按钮选择一个目标。
+你将在下一次会议中与你的目标决斗。
+如果决斗者和目标都选择了相同的编号，则决斗者获胜。
+此外，如果决斗者赢得决斗或目标不参加决斗，决斗者将杀死目标。<br><br>
+决斗命令：- /duel X（其中 X 可以是 0、1 或 2）<br><br>
+在主持人设定的一定数量的决斗中获胜即可获胜。
 
-- Max
-  - Set the Maximum amount of Pirates that can be in a match
-- Duel Cooldown
-  - Set how long a Pirate needs to wait to use their ability
-- Hide Pirate's commands
-  - <font color=green>ON</font>: the mod will attempt to hide the Pirate's `/duel` commands
-  - <font color=red>OFF</font>: the mod will not care to hide the Pirate's commands
-- Number of successful duels needed to win
-  - Set how many times the Pirate needs to win a duel to win
+- 最大数量
+  - 设置游戏中决斗者的最大数量
+- 决斗冷却
+  - 设置决斗者使用能力需要等待的时间
+- 隐藏决斗者的命令
+  - <font color=green>开</font>：MOD 将尝试隐藏海盗的"/dule命令
+  - <font color=red>关</font>：mod将不会注意隐藏海盗的命令
+- 获胜所需的成功决斗次数
+  - 设置决斗者需要赢得多少次决斗才能获胜
 
-> From: Town of Salem 1 & Coding: [ryuk](#)
+> 想法来自: Town of Salem 1 & 代码: [ryuk](#)

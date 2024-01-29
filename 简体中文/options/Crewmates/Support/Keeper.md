@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Keeper
 prev: Inspector
 next: Lighter
@@ -11,8 +11,8 @@ next: Lighter
 
 As the Keeper, you can vote someone to protect them from being ejected. You can only do this a configurable amount of times.
 
-- Max
-  - Set the Maximum amount of Keepers that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Max protections
   - Set the number of ability uses the Keeper gets
 - Hide Keeper's vote

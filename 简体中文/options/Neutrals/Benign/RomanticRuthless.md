@@ -1,20 +1,20 @@
 ---
 lang: zh-CN
-title: Ruthless Romantic
-prev: RomanticVengeful
-next: Romantic
+title: 无情浪漫者
+prev: 复仇浪漫者
+next: 浪漫者
 ---
 
-# <font color="#d2691e">💕 <b>Ruthless Romantic</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
+# <font color="#d2691e">💕 <b>无情浪漫者</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
 
 ***
 
-You change your roles from Romantic if your partner (A neutral killer) is killed. As Ruthless Romantic, you win if you kill everyone and be the last one standing. If you win your dead partner also wins with you.
+如果你的恋人(带刀中立) 被杀，你的职业就会从浪漫者转变成无情浪漫者。 无情浪漫者需要击杀所有人以获取胜利。 死去的恋人也会跟随你一起胜利
 
-- Ruthless Romantic Kill Cooldown
-  - Set the cooldown for the Ruthless Romantic's kill
-- Ruthless Romantic Can Vent
-  - <font color=green>ON</font>: the Ruthless Romantic can vent
-  - <font color=red>OFF</font>: the Ruthless Romantic cannot vent
+- 无情浪漫者的击杀冷却时间
+  - 设置无情浪漫者的击杀冷却时间
+- 无情浪漫者使用通风管
+  - <font color=green>开</font>：无情浪漫者可以使用通风管
+  - <font color=red>关</font>：无情浪漫者不可以使用通风管
 
-> From: Stellar Roles & Coding: [Gurge44](#) & [ryuk](#)
+> 来自：Stellar Role & 编码: [Gurge44](#) & [ryuk](#)

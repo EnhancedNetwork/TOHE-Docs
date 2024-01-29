@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Torch
 prev: Tiebreaker
 next: Watcher
@@ -11,8 +11,8 @@ next: Watcher
 
 Only <font color=#8cffff>Crewmates</font> will be Torch, they will have max vision and will not be affected by Lights sabotage.
 
-- Max
-  - Set the Maximum amount of Torches that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Spawn Chance
   - Set the percentage players have of getting Torch
 - Torch Vision

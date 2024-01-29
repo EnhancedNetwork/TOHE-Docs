@@ -1,25 +1,25 @@
 ---
-lang: en-US
-title: Copycat
-prev: Captain
-next: Dictator
+lang: zh-CN
+title: 模仿猫
+prev: 舰长
+next: 独裁者
 ---
 
-# <font color="#ffb2ab">📝 <b>Copycat</b></font> <Badge text="Power" type="tip" vertical="middle"/>
+# <font color="#ffb2ab">📝 <b>模仿猫</b></font> <Badge text="Power" type="tip" vertical="middle"/>
 
 ***
 
-As the Copycat, you can use your kill button to copy target's role.<br><br>
-You can only copy some crewmate roles. (Roles that do not have arrows and the roles that do not have basis engineer)<br>
-If you copy rascal or a madmate you will turn into madmate. According to host settings, you may copy crew variant of a neutral or impostor role.<br><br>
-Additionally, You do not have access to guessing.
+作为模仿者，你可以使用你的击杀按钮来复制目标的角色。<br><br>
+你只能复制一些机组人员的角色。 (没有箭头的角色和没有基础工程师的角色)<br>
+如果你复制小丑或疯子，你会变成疯子。 根据主机设置，您可以复制中立或冒名顶替角色的机组变体。<br><br>
+另外，您无法猜测。
 
-- Max
-  - Set the Maximum amount of Copycats that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Copy cooldown
-  - Set how long the Copycat needs to wait to use their ability
-- Can copy evil variants of crew roles
-  - <font color=green>ON</font>: Copycat will be able to copy evil versions of crewmate roles
-  - <font color=red>OFF</font>: Copycat will not be able to copy evil versions of crewmate roles
+  - 设置模仿猫需要等待多长时间才能使用他们的能力
+- 可以复制船员身份的邪恶体
+  - <font color=green>ON</font>：模仿猫将能够复制crewmate角色的邪恶版本
+  - <font color=red>关闭</font>：模仿猫将无法复制恶意版本的机组成员角色
 
-> From: SLE & Coding: [ryuk](#)
+> 来自: SLE & 编码: [ryuk](#)

@@ -1,21 +1,21 @@
 ---
 lang: zh-CN
-title: Godfather
-prev: Gangster
-next: Kamikaze
+title: 教父
+prev: 歹徒
+next: 神风特工队
 ---
 
-# <font color="red">🤵 <b>Godfather</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">🤵 <b>教父</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-As the Godfather, you vote someone to make them your target.<br>
-In the next round, if someone kills the target, the killer will turn into a Refugee or Madmate depending on the host settings.
+作为教父，你可以投票选择某人成为你的目标。<br>
+下一轮，如果有人杀死了目标，凶手将根据房主设定变成逃亡者或叛徒。
 
-- Max
-  - Set the Maximum amount of Godfathers that can be in a match
-- Killer turns into
-  - <font color=red>Refugee</font>: Killer will turn into Refugee.
-  - <font color=red>Madmate</font>: Killer will turn into Madmate.
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 带刀玩家变成
+  - <font color=red>逃亡者</font>：凶手会变成逃亡者
+  - <font color=red>叛徒</font>：凶手将变成叛徒
 
-> Idea & Coding: [ryuk](#)
+> 想法 & 编码: [ryuk](#)

@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Super Star
 prev: Randomizer
 next: TaskManager
@@ -11,8 +11,8 @@ next: TaskManager
 
 The Super Star will have a Star next to their name so everyone knows who they are. The Super Star can only be killed when alone with a Killer.
 
-- Max
-  - Set the Maximum amount of Super Stars that can be in a match.
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Everyone knows the Super Star:
   - <font color=green>ON</font>: a <font color=yellow>yellow</font> star will appear next to the Super Star’s name
   - <font color=red>OFF</font>: the Super Star remains secret

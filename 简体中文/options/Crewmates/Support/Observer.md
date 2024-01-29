@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Observer
 prev: Mortician
 next: Oracle
@@ -11,7 +11,7 @@ next: Oracle
 
 The Observer can see all shield animations caused by other players after the first meeting.
 
-- Max
-  - Set the Maximum amount of Observers that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 
 > Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)

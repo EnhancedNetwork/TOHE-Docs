@@ -1,25 +1,25 @@
 ---
-lang: en-US
-title: Undertaker
-prev: Trickster
-next: Vampire
+lang: zh-CN
+title: 送葬者
+prev: 鼹鼠
+next: 吸血鬼
 ---
 
-# <font color="red">🏋️‍♂️ <b>Undertaker</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">🏋️‍♂️ <b>送葬者</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 
 ***
 
-Everytime you Shapeshift into a player you mark the location. Your kills will then teleport to the marked location.<br>
-After every kill and meeting your marked location will reset.<br><br>
-After every teleported kill you will freeze for a configurable amount of time.
+每次你变身成为一个玩家，你都会标记位置。 您的击杀将传送到标记位置。<br>
+每次击杀和与标记位置会重置。<br><br>
+每次传送击杀后，您将会冻结一段可配置的时间。
 
-- Max
-  - Set the Maximum amount of Undertakers that can be in a match
-- Kill Cooldown
-  - Set how long the Undertaker has to wait to Kill
-- Shapeshift Cooldown
-  - Set how long the Undertaker needs to wait to Shapeshift
-- Freeze Duration
-  - Set how long the Undertaker will Freeze for after using their ability
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 击杀冷却
+  - 设置承办人等待多长时间才能杀死
+- 储存子弹冷却时间
+  - 设置 Undertaker 需要等待多长时间才能变形
+- 冻结持续时间
+  - 设置使用能力后，掘墓人将被冻结多长时间
 
-> From: ToUR
+> 来自:TOH+

@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Oracle
 prev: Observer
 next: Pacifist
@@ -11,8 +11,8 @@ next: Pacifist
 
 When you vote for a Player, you can see if they are a Crewmate, Neutral, or Impostor.
 
-- Max
-  - Set the Maximum amount of Oracles that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Maximum Uses
   - Set how many Ability uses an Oracle can use
 - Hide Oracle’s vote

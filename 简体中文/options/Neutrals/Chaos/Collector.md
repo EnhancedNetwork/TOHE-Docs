@@ -1,19 +1,19 @@
 ---
-lang: zh-CN
-title: Collector
-prev: /options/settings/Neutrals.html
-next: Cultist
+lang: zh-CH
+title: 集票者
+prev: ""
+next: 魅魔
 ---
 
-# <font color="#9d8892">🫴 <b>Collector</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
+# <font color="#9d8892">🫴 <b>集票者</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
 
 ***
 
-After the Collector votes for a target, they will collect all the votes cast onto that target in the meeting. When the Collector collects the specified number of votes, the Collector wins. Note: Collector wins take precedence over exile players.
+集票者为目标投票后，他们将收集会议中对该目标的所有投票。 当集票者收集到指定数量的票数时，集票者获胜。 注意：集票者的胜利优先于放逐玩家。
 
-- Max
-  - Set the Maximum amount of Collectors that can be in a match
-- Required number of votes
-  - Set the amount of Votes a Collector needs to receive to Win
+- 最大数量
+  - 设置游戏中集票者的最大数量
+- 需要集票数量
+  - 设置集票者需要收集多少个票才能获胜
 
-> Idea & Coding: [NCSIMON](https://github.com/NCSIMON)
+> 编码和想法: [NCSIMON](https://github.com/NCSIMON)

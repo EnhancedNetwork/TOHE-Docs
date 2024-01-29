@@ -1,26 +1,26 @@
 ---
-lang: en-US
-title: Ninja
-prev: Mercenary
-next: QuickShooter
+lang: zh-CN
+title: 忍者
+prev: 嗜血杀手
+next: 快枪手
 ---
 
-# <font color="red">🥷 <b>Ninja</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="red">🥷 <b>忍者</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-<font size=4em>Formerly known as Assassin</font>
+<font size=4em>以前被称为刺客</font>
 
-The Ninja can use the kill button to mark a target, and if the mark is successful, a shield-animation will be displayed as a reminder. The Ninja can then use Shapeshift to teleport to the marked person and kill the marked person. Ninja cannot kill regularly, but may be able to kill regularly after assassination according to the host's settings.
+忍者可以使用击杀按钮来标记目标，如果标记成功，会显示护盾破碎的动画作为提醒 然后忍者可以使用变形传送到被标记的人并杀死被标记的人。 忍者无法正常击杀，但根据房主的设定，刺杀后或许可以正常击杀。
 
-- Max
-  - Set the Maximum amount of Ninjas that can be in a match
-- Mark Cooldown
-  - Set how long the Ninja needs to wait to Mark their Target
-- Assassinate Cooldown
-  - Set how long an Ninja needs to wait to initiate the assassination on someone
-- Can kill after Assassinating
-  - <font color=green>ON</font>: the Ninja can kill once it successfully assassinates someone
-  - <font color=red>OFF</font>: the Ninja can only Assassinate people to kill
+- 最大设置
+  - 设置游戏中"职业名自己填"的最大数量
+- 标记冷却
+  - 设置忍者标记的冷却
+- 刺杀冷却时间
+  - 设置忍者的刺杀冷却时间
+- 刺杀后是否可以杀人
+  - <font color=green>启用</font>：忍者一旦成功刺杀某人就可以正常击杀
+  - <font color=red>关闭</font>：忍者只能透过刺杀来杀人
 
-> From: TOHR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自：TOHR 和编码：[咔皮呆](https://github.com/KARPED1EM)

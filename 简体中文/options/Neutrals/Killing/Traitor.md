@@ -1,27 +1,27 @@
 ---
 lang: zh-CN
-title: Traitor
-prev: Stalker
-next: Virus
+title: 背叛者
+prev: 潜藏者
+next: 病毒
 ---
 
-# <font color="#ba2e05">👺 <b>Traitor</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#ba2e05">👺 <b>背叛者</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-As the Traitor, you were an <font color=red>Impostor</font> that betrayed the Impostors.<br>
-You know the <font color=red>Impostors</font> but they don't know you.<br>The twist? They can kill you but you can't kill them.
+背叛者是背叛了<font color=red>内鬼</font>的叛徒。<br>
+你知道<font color=red>内鬼</font>，但他们不知道你。<br> 内鬼可以杀死你，但你不能杀死他们。
 
-- Kill Cooldown
-  - Set how long the Traitor needs to wait to Kill
-- Can Vent
-  - If toggled <font color-green>ON</font>, the Traitor can Vent
-  - If toggled <font color-red>OFF</font>, the Traitor cannot Vent
-- Has <font color=red>Impostor</font> Vision
-  - If toggled <font color-green>ON</font>, the Traitor can see as far as an <font color=red>Impostor</font> can
-  - If toggled <font color-red>OFF</font>, the Traitor will have <font color=#8cffff>Crewmate</font> Vision
-- Can Sabotage
-  - If toggled <font color-green>ON</font>, the Traitor can Sabotage
-  - If toggled <font color-red>OFF</font>, the Traitor cannot Sabotage
+- 击杀冷却时间
+  - 设置背叛者的击杀冷却
+- 可以使用通风管道
+  - 如果切换为<font color-green>开</font>，背叛者可以使用管道
+  - 如果切换为<font color-red>关</font>，背叛者不能使用管道
+- 拥有<font color=red>内鬼</font>的视野
+  - 如果切换为<font color-green>开</font>，背叛者可以看到与<font color=red>内鬼</font>一样的视野
+  - 如果切换为<font color-red>关</font>，背叛者会有<font color=#8cffff>船员</font>视野
+- 可以破坏
+  - 如果切换为<font color-green>开</font>，背叛者可以破坏
+  - 如果切换为<font color-red>关</font>，背叛者不能破坏
 
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> 来自：想法&编码： [Loonie Toons](https://github.com/Loonie-Toons)

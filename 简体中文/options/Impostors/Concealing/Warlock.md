@@ -1,25 +1,25 @@
 ---
-lang: en-US
-title: Warlock
-prev: Vampire
-next: Wildling
+lang: zh-CN
+title: 术士
+prev: 吸血鬼
+next: 野人
 ---
 
-# <font color="red">🧙 <b>Warlock</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">🧙 <b>术士</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 
 ***
 
-The Warlock can curse other players while Unshifted, but when they Shapeshift after cursing a player, the player will kill the closest player to them, no matter who or how far. You can kill normally while Shapeshifted.
+术士可以在不变形的情况下诅咒其他玩家，但当他们在诅咒玩家后变形时，玩家将杀死离他们最近的玩家，不管是谁或多远。 你可以在变形时正常杀人。
 
-- Max
-  - Set the Maximum amount of Warlocks that can be in a match
-- Can Kill Impostors
-  - <font color=green>ON</font>: the person they targeted can kill the Warlocks <font color=red>Impostor</font> teammates if they are close together
-  - <font color=red>OFF</font>: the person they targeted cannot kill the Warlocks <font color=red>Impostor</font> teammates
-- Can Kill Themself
-  - <font color=green>ON</font>: the person they targeted can Kill the Warlock if they are the closest players to each other
-  - <font color=red>OFF</font>: the person they targeted cannot kill the Warlock
-- Shapeshift Duration
-  - Set how long the Warlock will stay shifted for
+- 最大数量
+  - 设置游戏中术士的最大数量
+- 可以杀死伪装者
+  - <font color=green>开启</font>上：他们的目标可以杀死术士<font color=red>伪装者</font>的队友，如果他们靠得很近的话。
+  - <font color=red>关闭</font>：他们的目标不能杀死术士<font color=red>伪装者</font>的队友。
+- 可以击杀自己
+  - <font color=green>开启</font>上：如果他们是彼此最接近的玩家，他们的目标可以杀死术士。
+  - <font color=red>关闭</font>：他们的目标不能杀死术士。
+- 变形持续时间
+  - 设置术士移动的时间
 
-> From: TOH
+> 来源于：TOH

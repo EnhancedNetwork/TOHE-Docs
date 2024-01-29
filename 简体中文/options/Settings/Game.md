@@ -1,337 +1,337 @@
 ---
-lang: en-US
-title: Game Settings
-prev: System
-next: Modifiers
+lang: zh-CN
+title: 游戏设置
+prev: 系统
+next: 修改器
 ---
 
-# <font color=#ffc0cb>🎮 Game Settings</font>
+# <font color=#ffc0cb>🎮 游戏设置</font>
 
 ***
 
-## <font color=#ffc0cb>📃 Standard</font>
+## <font color=#ffc0cb>📃 标准</font>
 
 ***
 
-### <font size=4em color=#ffeee8>Ejection</font>
+### <font size=4em color=#ffeee8>驱逐</font>
 
-- Confirm Ejections Mode
-  - Set how the game will describe ejections
-    - None - Ejections will be described as “#### was ejected”
-    - Team - Ejections will tell you what team the player was on
-    - Role - Ejections will tell you what role the player was
-- Show remaining <font color=red>Impostors</font> on ejects
-  - <font color=green>ON</font>: The game will tell you how many <font color=red>Impostors</font> are left
-    - Show remaining <font color=#7f8c8d>Neutral Killers</font> on ejects
-      - <font color=green>ON</font>: The game will tell you how many <font color=#7f8c8d>Neutral Killers</font> are left
-      - <font color=red>OFF</font>: The game will not tell you how many <font color=#7f8c8d>Neutral Killers</font> are left
-  - <font color=red>OFF</font>: The game will not tell you how many <font color=red>Impostors</font> are left
-- Show what team the ejected player's role is on
-  - <font color=green>ON</font>: The game will tell you what team the ejected player's role is on
-  - <font color=red>OFF</font>: The game will not tell you what team the ejected player's role is on
-- Confirm Egoists on ejection
-  - <font color=green>ON</font>: Egoists will be confirmed on ejection
-  - <font color=red>OFF</font>: Egoists will not be confirmed on ejection
-- Confirm Lovers on ejection
-  - <font color=green>ON</font>: Lovers will be confirmed on ejection
-  - <font color=red>OFF</font>: Lovers will not be confirmed on ejection
+- 确认驱逐模式
+  - 设置游戏如何描述驱逐
+    - 无 - 驱逐将被描述为“####被驱逐了”
+    - 阵营 - 驱逐将告诉被驱逐的玩家所在的阵营
+    - 职业 - 驱逐将告诉您被驱逐的玩家的职业
+- 在投票时显示剩余还有多少名 <font color=red>内鬼</font>
+  - <font color=green>开</font>游戏将告诉你还剩下多少个<font color=red>内鬼</font>
+    - 同时显示剩余<font color=#7f8c8d>带刀中立</font>数量
+      - <font color=green>开</font>：游戏将告诉你还剩下多少个<font color=#7f8c8d>带刀中立</font>
+      - <font color=red>关</font>：游戏不会告诉你还剩下多少个<font color=#7f8c8d>带刀中立</font> 。
+  - <font color=red>关</font>：游戏不会告诉你还剩下多少个 <font color=red>内鬼</font> 。
+- 显示被驱逐的玩家的阵营
+  - <font color=green>开</font>：游戏将告诉你被驱逐的玩家在哪个阵营
+  - <font color=red>关</font>：游戏不会告诉你被驱逐的玩家在哪个阵营中
+- 确认在驱逐时的利己主义者
+  - <font color=green>开</font>：游戏将告诉你被驱逐的玩家是否是利己主义者
+  - <font color=red>关</font>：游戏将不会告诉你被驱逐的玩家是否是利己主义者
+- 确认在驱逐时的恋人们
+  - <font color=green>开</font>：游戏将告诉你被驱逐的玩家是否是恋人们
+  - <font color=red>关</font>：游戏将不会告诉你被驱逐的玩家是否是恋人们
 
-### <font size=4em color=#13bce9>Maps</font>
+### <font size=4em color=#13bce9>地图</font>
 
-- Random Maps Mode
-  - <font color=green>ON</font>: Map will be chosen randomly
-    - Chance that the map is
-      - The Skeld - Set the chance that the map will be The Skeld
-      - MIRA HQ - Set the chance that the map will be MIRA HQ
-      - Polus - Set the chance that the map will be Polus
-      - dlekS ehT  - Set the chance that the map will be dlekS ehT
-      - Airship - Set the chance that the map will be Airship
-      - The Fungle - Set the chance that the map will be The Fungle
-      - Use a more random map selection
-        - <font color=green>ON</font>: Maps will be selected even more randomly
-        - <font color=red>OFF</font>: Maps will not be selected even more randomly
-  - Random Spawns Mode
-    - <font color=green>ON</font>: Spawn locations will be chosen randomly
-      - Random Spawns in Locations
-        - <font color=green>ON</font>: Spawn locations will be chosen randomly in their respective locations
-          - Additional Spawn Locations (Airship)
-            - <font color=green>ON</font>: More spawn locations will be added
-            - <font color=red>OFF</font>: More spawn locations will not be added
-        - <font color=red>OFF</font>: Spawn locations will be chosen randomly in the entire map
-      - Random Spawns on Vents
-        - <font color=green>ON</font>: Spawn locations will be chosen randomly on vents
-        - <font color=red>OFF</font>: Spawn locations will be chosen normally
-    - <font color=red>OFF</font>: Spawn locations will be chosen normally
-  - Map Modifications
-    - <font color=green>ON</font>: Mess with Map modifiers to change how you can play on maps
-    - <font color=red>OFF</font>: Map modifiers will not be implemented and will work as Vanilla intended
-      - Variable Electrical (<font color=red>Airship</font>)
-        - The Electrical room will be randomized.
-      - Disable Moving Platform (<font color=red>Airship</font>)
-        - <font color=green>ON</font>: Moving platform will be disabled
-        - <font color=red>OFF</font>: Moving platform will be enabled
-      - Disable Spore Trigger (<font color=#ffa646>Fungle</font>)
-        - <font color=green>ON</font>: Spore Trigger will be disabled
-        - <font color=red>OFF</font>: Spore Trigger will be enabled
-      - Disable Zipline (<font color=#ffa646>Fungle</font>)
-        - <font color=green>ON</font>: Zipline will be disabled
-          - Disable Use From Top
-            - <font color=green>ON</font>: Zipline will be disabled from the top
-            - <font color=red>OFF</font>: Zipline will not be disabled from the top
-          - Disable Use From Bottom
-            - <font color=green>ON</font>: Zipline will be disabled from the bottom
-            - <font color=red>OFF</font>: Zipline will not be disabled from the bottom
-        - <font color=red>OFF</font>: Zipline will be enabled
-  - Reset Doors After Meetings (<font color=red>Airship</font>/<font color=#a167c0>Polus</font>/<font color=#ffa646>Fungle</font>)
-    - <font color=green>ON</font>: Doors will be reset after meetings
-      - Reset Doors Mode
-        - Set how Doors will be reset on these maps, choose from:
-        - All Open
-        - All Closed
-        - Closed Random
-      - <font color=red>OFF</font>: Doors will not be reset after meetings
+- 随机地图模式
+  - <font color=green>开</font>：将随机选择地图
+    - 选择地图为
+      - 骷髅舰 - 设置地图为骷髅舰
+      - 米拉总部 - 设置地图为米拉总部
+      - 波鲁斯 - 设置地图为波鲁斯
+      - 骷髅舰镜像地图  - 设置地图为骷髅舰镜像地图
+      - 飞艇 - 设置地图为飞艇
+      - 真菌丛林地图 - 设置地图为真菌丛林地图
+      - 使用更随机的地图选择
+        - <font color=green>开</font>：地图将会更加随机选择
+        - <font color=red>关</font>：地图将不会更加随机地选择
+  - 随机刷新模式
+    - <font color=green>开</font>：玩家的出生点将随机选择
+      - 随机出生在结构里
+        - <font color=green>开</font>：出生点将在所有结构的位置上随机选择
+          - 额外出生点（仅限飞艇地图）
+            - <font color=green>开</font>：将添加更多的出生点
+            - <font color=red>关</font>：将不会添加更多出生点
+        - <font color=red>关</font>：出生点将在整张地图中随机选择
+      - 出生点将在通风口上随机刷新
+        - <font color=green>开</font>：出生点将在通风口上随机选择
+        - <font color=red>关</font>：出生点将按照正常方式选择
+    - <font color=red>关</font>：出生点将按照正常选择
+  - 修改地图玩法
+    - <font color=green>开</font>：通过调整地图修饰符来改变你在地图上的玩法
+    - <font color=red>关</font>：地图修饰符将不会被使用，并将按照原版的玩法
+      - 配电室随机门（<font color=red>仅限飞艇地图</font>）
+        - 配电室的门将随机开关
+      - 禁用移动平台（<font color=red>仅限飞艇地图</font>）
+        - <font color=green>开</font>：移动平台将被禁用
+        - <font color=red>关</font>：移动平台将被启用
+      - 禁用蘑菇爆炸（<font color=#ffa646>仅限真菌丛林地图</font>）
+        - <font color=green>开</font>：蘑菇喷射出紫色烟雾将被禁用
+        - <font color=red>关</font>：蘑菇喷射出紫色烟雾将被启用
+      - 禁用滑索（<font color=#ffa646>仅限真菌丛林地图</font>）
+        - <font color=green>开</font>：滑索将被禁用
+          - 禁用从顶部使用
+            - <font color=green>开</font>：滑索将禁止从顶部往下滑
+            - <font color=red>关</font>：滑索将可以从顶部往下滑
+          - 禁用从底部使用
+            - <font color=green>开</font>：滑索将禁止从低部往下升
+            - <font color=red>关</font>：滑索将可以从低部往上升
+        - <font color=red>关</font>：滑索将被启用
+  - 会议后重置门（<font color=red>飞艇</font>/<font color=#a167c0>波鲁斯</font>/<font color=#ffa646>真菌丛林</font>）
+    - <font color=green>开</font>：会议结束后，门将被重置
+      - 如何重置门
+        - 设置这些地图上的门将如何重置，可选择以下方式：
+        - 全部打开
+        - 全部关闭
+        - 随机关闭
+      - <font color=red>关</font>：会议后门将不会重置
 
-### <font size=4em color=#f36060>Sabotage</font>
+### <font size=4em color=#f36060>破坏</font>
 
-- Camouflage During Comms Sabotage
-  - <font color=green>ON</font>: when Comms are sabotaged, everyone will turn into the specified appearance
-    - Disable comms camouflage on some maps
-      - <font color=green>ON</font>: Comms camouflage will be disabled on some maps
-        - Disable comms camouflage on The Skeld
-          - <font color=green>ON</font>: Comms camouflage will be disabled on The Skeld
-          - <font color=red>OFF</font>: Comms camouflage will be enabled on The Skeld
-        - Disable comms camouflage on MiraHQ
-          - <font color=green>ON</font>: Comms camouflage will be disabled on MiraHQ
-          - <font color=red>OFF</font>: Comms camouflage will be enabled on MiraHQ
-        - Disable comms camouflage on Polus
-          - <font color=green>ON</font>: Comms camouflage will be disabled on Polus
-          - <font color=red>OFF</font>: Comms camouflage will be enabled on Polus
-        - Disable comms camouflage on Airship
-          - <font color=green>ON</font>: Comms camouflage will be disabled on Airship
-          - <font color=red>OFF</font>: Comms camouflage will be enabled on Airship
-        - Disable comms camouflage on Fungle
-          - <font color=green>ON</font>: Comms camouflage will be disabled on Fungle
-          - <font color=red>OFF</font>: Comms camouflage will be enabled on Fungle
-    - Disable body reporting while camouflaged
-      - <font color=green>ON</font>: players cannot report bodies while camouflaged
-      - <font color=red>OFF</font>: players can report bodies while camouflaged
-  - <font color=red>OFF</font>: Camouflage Comms Sabotage works like it normally would
-- Sabotage Cooldown Control
-  - <font color=green>ON</font>: the host can control the sabotage cooldown
-    - Sabotage Cooldown
-      - Set how long the sabotage cooldown will be
-  - <font color=red>OFF</font>: the sabotage cooldown will be normal
-- Sabotage Duration Control
-  - <font color=green>ON</font>: the host can control how long sabotages last
-    - Polus Reactor Time Limit
-      - Set how long the Polus Reactor sabotage will last
-    - Airship Reactor Time Limit
-      - Set how long the Airship Reactor sabotage will last
-  - <font color=red>OFF</font>: the sabotages will last their normal duration
-- Fix Lights Special Settings
-  - <font color=green>ON</font>: the host can control what happens when the lights are fixed
-    - Block Switches When They Are Up
-      - <font color=green>ON</font>: switches will be blocked when they are on
-      - <font color=red>OFF</font>: switches will not be blocked when they are on
-    - Disable Viewing Deck Lights Panel (Airship)
-      - <font color=green>ON</font>: the Viewing Deck Lights Panel will be disabled
-      - <font color=red>OFF</font>: the Viewing Deck Lights Panel will be enabled
-    - Disable Gap Room Lights Panel (Airship)
+- 通信破坏时伪装
+  - <font color=green>开</font>：当通信被破坏时，每个人都会变成指定的外观
+    - 在某些地图上禁用通信伪装
+      - <font color=green>开</font>：通信伪装将在某些地图上被禁用
+        - 在骷髅舰上禁用通信伪装
+          - <font color=green>开</font>：骷髅舰上的通信伪装将被禁用
+          - <font color=red>关</font>：骷髅舰上将启用通信伪装
+        - 在米拉基地上禁用通信伪装
+          - <font color=green>开</font>：米拉基地上的通信伪装将被禁用
+          - <font color=red>关</font>：将在米拉基地上启用通信伪装
+        - 在波鲁斯上禁用通信伪装
+          - <font color=green>开</font>：波鲁斯上的通信伪装将被禁用
+          - <font color=red>关</font>：将在波鲁斯上启用通信伪装
+        - 在飞艇上禁用通信伪装
+          - <font color=green>开</font>：飞艇上的通信伪装将被禁用
+          - <font color=red>关</font>：将在飞艇上启用通信伪装
+        - 在真菌丛林上禁用通信伪装
+          - <font color=green>开</font>：真菌丛林上的通信伪装将被禁用
+          - <font color=red>关</font>：将在真菌丛林上启用通信伪装
+    - 当伪装激活时，禁用尸体报告
+      - <font color=green>开</font>：当通信伪装时，玩家无法报告尸体
+      - <font color=red>关</font>：玩家可以在通信伪装时报告尸体
+  - <font color=red>关</font>：伪装通信破坏工作方式与正常情况下相同
+- 修改破坏冷却时间
+  - <font color=green>开</font>：房主可以控制破坏冷却时间
+    - 破坏冷却时间
+      - 设置破坏冷却时间
+  - <font color=red>关</font>：破坏冷却时间将于正常情况下相同
+- 修改破坏持续时间
+  - <font color=green>开</font>：房主可以控制破坏持续的时间
+    - 波鲁斯抗震稳定器修理时限
+      - 设置波鲁斯抗震稳定器的修理时限
+    - 飞艇引擎修理时限
+      - 设置飞船引擎修理时限
+  - <font color=red>关</font>：破坏持续时间将于正常情况下相同
+- 停电特殊设定
+  - <font color=green>开</font>：主持人可以控制停电时发生的事情
+    - 禁用电力破坏
+      - <font color=green>开</font>：开关打开时将会被锁定
+      - <font color=red>关</font>：当开关处于打开状态时，将不会被锁定
+    - 禁用瞭望台配电箱(飞艇地图)
+      - <font color=green>开</font>：观景台灯光面板将被禁用
+      - <font color=red>关</font>：观景台灯光面板将不会被禁用
+    - 禁用升降机配电箱
       - <font color=green>ON</font>: the Gap Room Lights Panel will be disabled
       - <font color=red>OFF</font>: the Gap Room Lights Panel will be enabled
     - Disable Cargo Lights Panel
       - <font color=green>ON</font>: the Cargo Lights Panel will be disabled
       - <font color=red>OFF</font>: the Cargo Lights Panel will be enabled
 
-### <font size=4em color=#ff9999>Disable</font>
+### <font size=4em color=#ff9999>禁用</font>
 
-- Disable Unnecessary Shield Animations
-  - <font color=green>ON</font>: Unnecessary animations will be disabled
-  - <font color=red>OFF</font>: All animations will be enabled
-- Disable Kill Animations on Guesses
-  - <font color=green>ON</font>: Kill animations will be disabled when guessing
-  - <font color=red>OFF</font>: Kill animations will be enabled when guessing
-- Disable Vanilla Roles
-  - <font color=green>ON</font>: the host can disable Vanilla Roles
-  - <font color=red>OFF</font>: Vanilla Roles will be enabled
-- Disable Task Win
-  - <font color=green>ON</font>: Task wins will not be possible
-  - <font color=red>OFF</font>: Task wins will be possible
-- Disable Meetings
-  - <font color=green>ON</font>: Meetings will not be possible
-  - <font color=red>OFF</font>: Meetings will be possible
-- Disable Sabotages
-  - <font color=green>ON</font>: Sabotages will not be possible
-    - Disable Doors Sabotage
-      - <font color=green>ON</font>: Doors Sabotage will be disabled
-      - <font color=red>OFF</font>: Doors Sabotage will be enabled
-  - <font color=red>OFF</font>: Sabotages will be possible
-- Disable Devices
-  - <font color=green>ON</font>: Devices will be disabled
-    - Disable Skeld Devices
-      - <font color=green>ON</font>: Skeld Devices will be disabled
-        - Disable Admin
-          - <font color=green>ON</font>: Admin will be disabled
-          - <font color=red>OFF</font>: Admin will be enabled
-        - Disable Cameras
-          - <font color=green>ON</font>: Cameras will be disabled
-          - <font color=red>OFF</font>: Cameras will be enabled
-      - <font color=red>OFF</font>: Skeld Devices will be enabled
-    - Disable MiraHQ Devices
-      - <font color=green>ON</font>: MiraHQ Devices will be disabled
-        - Disable Admin
-          - <font color=green>ON</font>: Admin will be disabled
-          - <font color=red>OFF</font>: Admin will be enabled
-        - Disable DoorLog
-          - <font color=green>ON</font>: DoorLog will be disabled
-          - <font color=red>OFF</font>: DoorLog will be enabled
-      - <font color=red>OFF</font>: MiraHQ Devices will be enabled
-    - Disable Polus Devices
-      - <font color=green>ON</font>: Polus Devices will be disabled
-        - Disable Admin
-          - <font color=green>ON</font>: Admin will be disabled
-          - <font color=red>OFF</font>: Admin will be enabled
-        - Disable Cameras
-          - <font color=green>ON</font>: Cameras will be disabled
-          - <font color=red>OFF</font>: Cameras will be enabled
-        - Disable Vitals
-          - <font color=green>ON</font>: Vitals will be disabled
-          - <font color=red>OFF</font>: Vitals will be enabled
-      - <font color=red>OFF</font>: Polus Devices will be enabled
-    - Disable Airship Devices
-      - <font color=green>ON</font>: Airship Devices will be disabled
-        - Disable Cockpit Admin
-          - <font color=green>ON</font>: Cockpit Admin will be disabled
-          - <font color=red>OFF</font>: Cockpit Admin will be enabled
-        - Disable Records Admin
-          - <font color=green>ON</font>: Records Admin will be disabled
-          - <font color=red>OFF</font>: Records Admin will be enabled
-        - Disable Cameras
-          - <font color=green>ON</font>: Cameras will be disabled
-          - <font color=red>OFF</font>: Cameras will be enabled
-        - Disable Vitals
-          - <font color=green>ON</font>: Vitals will be disabled
-          - <font color=red>OFF</font>: Vitals will be enabled
-      - <font color=red>OFF</font>: Airship Devices will be enabled
-    - Disable Fungle Devices
-      - <font color=green>ON</font>: Fungle Devices will be disabled
-        - Disable Binoculars
-          - <font color=green>ON</font>: Binoculars will be disabled
-          - <font color=red>OFF</font>: Binoculars will be enabled
-        - Disable Vitals
-          - <font color=green>ON</font>: Vitals will be disabled
-          - <font color=red>OFF</font>: Vitals will be enabled
-      - <font color=red>OFF</font>: Fungle Devices will be enabled
-  - Ignore Conditions
-    - Ignore <font color=red>Impostors</font>
-      - <font color=green>ON</font>: <font color=red>Impostors</font> conditions will be ignored
-      - <font color=red>OFF</font>: <font color=red>Impostors</font> conditions will not be ignored
-    - Ignore <font color=#7f8c8d>Neutrals</font>
-      - <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> conditions will be ignored
-      - <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> conditions will not be ignored
-    - Ignore <font color=#8cffff>Crewmates</font>
-      - <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> conditions will be ignored
-      - <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> conditions will not be ignored
-    - Ignore after First Death
-      - <font color=green>ON</font>: Conditions will be ignored after the first death
-      - <font color=red>OFF</font>: Conditions will not be ignored after the first death
+- 禁用不必要的护盾动画
+  - <font color=green>开</font>: 不必要的动画将被禁用
+  - <font color=red>关</font>：所有动画将被启用
+- 禁用在会议上被猜死的击杀动画
+  - <font color=green>开</font>：被猜死的玩家不会显示击杀动画
+  - <font color=red>关</font>：被猜死的玩家会显示击杀动画
+- 禁用原版职业
+  - <font color=green>开</font>：原版职业将被禁用
+  - <font color=red>关</font>：原版职业将不会被禁用
+- 禁用任务胜利
+  - <font color=green>开</font>：就算船员阵营完成了所有任务也不会胜利
+  - <font color=red>关</font>：船员阵营可以在完成了所有任务之后胜利
+- 禁用会议
+  - <font color=green>开</font>：船员将无法开会和报告尸体
+  - <font color=red>关</font>：船员可以开会和报告尸体
+- 禁用破坏
+  - <font color=green>开</font>：内鬼将无法破坏
+    - 禁用关门
+      - <font color=green>开</font>：内鬼将无法关门
+      - <font color=red>关</font>：内鬼将可以正常关门
+  - <font color=red>关</font>：内鬼可以正常破坏
+- 禁用设备
+  - <font color=green>开</font>：设备将被禁用
+    - 禁用骷髅舰设备
+      - <font color=green>开</font>：骷髅舰设备将被禁用
+        - 禁用管理室地图
+          - <font color=green>开</font>：管理室地图将被禁用
+          - <font color=red>关</font>：管理室地图将不会被禁用
+        - 禁用监控
+          - <font color=green>开</font>：监控将被禁用
+          - <font color=red>关</font>：监控将不会被禁用
+      - <font color=red>关</font>：骷髅舰设备将不会被禁用
+    - 禁用米拉总部设备
+      - <font color=green>开</font>：米拉总部设备将被禁用
+        - 禁用管理室地图
+          - <font color=green>开</font>：管理室地图将被禁用
+          - <font color=red>关</font>：管理室地图将不会被禁用
+        - 禁用米拉总部门禁记录
+          - <font color=green>开</font>：门禁将被禁用
+          - <font color=red>关</font>：门禁将不会被禁用
+      - <font color=red>关</font>：米拉总部设备将不会被禁用
+    - 禁用波鲁斯设备
+      - <font color=green>开</font>：波鲁斯设备将被禁用
+        - 禁用管理室地图
+          - <font color=green>开</font>：管理室地图将被禁用
+          - <font color=red>关</font>：管理室地图将不会被禁用
+        - 禁用监控
+          - <font color=green>开</font>：监控将被禁用
+          - <font color=red>关</font>：监控将不会被禁用
+        - 禁用波鲁斯生命监测装置
+          - <font color=green>开</font>：生命检测系统将被禁用
+          - <font color=red>关</font>：生命检测系统将不会被禁用
+      - <font color=red>关</font>：波鲁斯设备将不会被禁用
+    - 禁用飞艇设备
+      - <font color=green>开</font>：飞艇设备将被禁用
+        - 禁用驾驶舱地图
+          - <font color=green>开</font>：驾驶舱地图将被禁用
+          - <font color=red>关</font>：驾驶舱地图将不会被禁用
+        - 禁用档案室地图
+          - <font color=green>开</font>：档案室地图将被禁用
+          - <font color=red>关</font>：档案室地图将不会被禁用
+        - 禁用监控
+          - <font color=green>开</font>：监控将被禁用
+          - <font color=red>关</font>：监控将不会被禁用
+        - 禁用波鲁斯生命监测装置
+          - <font color=green>开</font>：生命检测系统将被禁用
+          - <font color=red>关</font>：生命检测系统将不会被禁用
+      - <font color=red>关</font>：飞艇设备将不会被禁用
+    - 禁用真菌丛林设备
+      - <font color=green>开</font>：真菌丛林设备将被禁用
+        - 禁用双筒望远镜
+          - <font color=green>开</font>：双筒望远镜将被禁用
+          - <font color=red>关</font>：双筒望远镜将不会被禁用
+        - 禁用真菌丛林生命监测装置
+          - <font color=green>开</font>：生命检测系统将被禁用
+          - <font color=red>关</font>：生命检测系统将不会被禁用
+      - <font color=red>关</font>：真菌丛林设备将不会被禁用
+  - 白名单
+    - 忽略<font color=red>内鬼阵营</font>
+      - <font color=green>开</font>：<font color=red>内鬼阵营</font>将不会受影响
+      - <font color=red>关</font>：<font color=red>内鬼阵营</font>将会受影响
+    - 忽略<font color=#7f8c8d>中立阵营</font>
+      - <font color=green>开</font>：<font color=#7f8c8d>中立阵营</font>将不会受影响
+      - <font color=red>关</font>：<font color=#7f8c8d>中立阵营</font>将会受影响
+    - 忽略<font color=#8cffff>船员阵营</font>
+      - <font color=green>开</font>：<font color=#8cffff>船员阵营</font>将不会受影响
+      - <font color=red>关</font>：<font color=#8cffff>船员阵营</font>将会受影响
+    - 忽略幽灵阵营
+      - <font color=green>开</font>：幽灵阵营将不会受影响
+      - <font color=red>关</font>：幽灵阵营将会受影响
 
-### <font size=4em color=#93f1f0>Meeting</font>
+### <font size=4em color=#93f1f0>会议</font>
 
-- Sync Buttons Mode
-  - <font color=green>ON</font>: the host can control how many buttons are allowed overall
-  - <font color=red>OFF</font>: the buttons needed to call a meeting will be normal
-- Meeting When No One is Dead
-  - <font color=green>ON</font>: the host can control whether meetings can be called when no one is dead
-    - Meeting Time When No One is Dead
-      - Set how long the meeting will last when no one is dead
-  - <font color=red>OFF</font>: meetings can be called when no one is dead
-- Additional Emergency Cooldown
-  - Minimum Living Players to be Applied
-    - Set how many players need to be alive for the additional emergency cooldown to be applied
-  - Additional Cooldown
-    - Set how long the additional emergency cooldown will be
-- Voting Mode
-  - <font color=green>ON</font>: Change how votes work
-    - If the Player Skipped
-      - No vote - The player's vote will not be counted
-      - Suicide - The player will suicide after meeting
-        - Ignore the First Meeting
-          - <font color=green>ON</font>: The first meeting will not suicide the player
-          - <font color=red>OFF</font>: The first meeting will suicide the player
-        - Ignore when No Dead Body
-          - <font color=green>ON</font>: If there's no dead body, skipping will not suicide the player
-          - <font color=red>OFF</font>: If there's no dead body, skipping will suicide the player
-        - Ignore at Emergency Meetings
-          - <font color=green>ON</font>: If an Emergency Button is called, skipping will not suicide the player
-          - <font color=red>OFF</font>: If an Emergency Button is called, skipping will suicide the player
-      - Self Vote - The player will vote themself
-        - Ignore the First Meeting
-          - <font color=green>ON</font>: The first meeting will not suicide the player
-          - <font color=red>OFF</font>: The first meeting will suicide the player
-        - Ignore when No Dead Body
-          - <font color=green>ON</font>: If there's no dead body, skipping will not suicide the player
-          - <font color=red>OFF</font>: If there's no dead body, skipping will suicide the player
-        - Ignore at Emergency Meetings
-          - <font color=green>ON</font>: If an Emergency Button is called, skipping will not suicide the player
-          - <font color=red>OFF</font>: If an Emergency Button is called, skipping will suicide the player
-    - If the player didn't vote
-      - No vote - No vote will be tallied (Abstain)
-      - Suicide - The player will suicide after the meeting
-      - Self Vote - The player will vote themself
-      - Skip - The player will automatically skip
-    - When Tied Vote
-      - No ejects - No ejects will happen (Tied)
-      - Eject All - Ejects all tied players
-      - Eject Random - Ejects a random player between the tied players
-  - <font color=red>OFF</font>: Votes will remain the same
+- 所有船员共享会议次数
+  - <font color=green>开</font>：房主可以控制船员一共有多少会议次数
+  - <font color=red>关</font>：发起紧急会议的次数于正常相同
+- 全员存活时的会议设定
+  - <font color=green>开</font>：当没有人死亡时，房主可以控制是否可以召开会议
+    - 全员存活时的会议时间
+      - 设置会议在没有人死亡时的持续时间
+  - <font color=red>关</font>：当没有人死亡时可以召开会议
+- 附加紧急会议冷却时间
+  - 适用存活人数
+    - 设置需要有多少玩家存活才会应用额外的紧急冷却时间
+  - 附加冷却时间
+    - 设置额外紧急冷却时间将是多久
+- 投票模式
+  - <font color=green>开</font>：改变投票方式
+    - 跳过投票时
+      - 不投票-玩家的投票将不会被计算
+      - 自杀 - 玩家在会议结束后会自杀
+        - 忽略首次会议
+          - <font color=green>开</font>：第一次会议，跳过不会导致玩家自杀
+          - <font color=red>关</font>：第一次会议，跳过也会导致玩家自杀
+        - 忽略无尸体会议
+          - <font color=green>开</font>：没有尸体，跳过不会导致玩家自杀
+          - <font color=red>关</font>：没有尸体，跳过也会导致玩家自杀
+        - 忽略紧急会议按钮发起的会议
+          - <font color=green>开</font>：如果当前会议是通过按下紧急按钮开始的，跳过不会让玩家自杀
+          - <font color=red>关</font>：如果当前会议是通过按下紧急按钮开始的，跳过也会让玩家自杀
+      - 自投 - 玩家将投票给自己
+        - 忽略首次会议
+          - <font color=green>开</font>：第一次会议，跳过不会导致玩家自投
+          - <font color=red>关</font>：第一次会议，跳过也会导致玩家自投
+        - 忽略无尸体会议
+          - <font color=green>开</font>：没有尸体，跳过不会导致玩家自投
+          - <font color=red>关</font>：没有尸体，跳过也会导致玩家自投
+        - 忽略紧急会议按钮发起的会议
+          - <font color=green>开</font>: 如果当前会议是通过按下紧急按钮开始的，跳过不会让玩家自投
+          - <font color=red>关</font>: 如果当前会议是通过按下紧急按钮开始的，跳过也会让玩家自投
+    - 如果玩家没有投票
+      - 无投票 - 玩家的投票将不会计算 (弃权)
+      - 自杀 - 玩家在会议结束后会自杀
+      - 自投 - 玩家将投票给自己
+      - 跳过 - 玩家将自动跳过
+    - 当投票平局时
+      - 没有弹出 - 不会发生弹出（平局）
+      - 全部弹出 - 弹出所有平局的玩家
+      - 随机弹出 - 在平局的玩家之间随机弹出一个玩家
+  - <font color=red>关</font>：投票将于正常相同
 
-### <font size=4em color=#c1ffd1>Different</font>
+### <font size=4em color=#c1ffd1>机制</font>
 
-- Fall From Ladders
-  - <font color=green>ON</font>: Players will fall from ladders
-    - Fall to Death Chance
-      - Set the chance that players have to die when falling from ladders
-  - <font color=red>OFF</font>: Players will not fall from ladders
-- Reset First Kill Cooldown
-  - <font color=green>ON</font>: The kill cooldown will be reset to their respective cooldowns
-  - <font color=red>OFF</font>: The kill cooldown will be standard
-- Shield the person who got killed first in the last game
-  - <font color=green>ON</font>: Protects the player who was killed in the previous game
-  - <font color=red>OFF</font>: The game will go as normal
-- Kill Flash Duration
-  - Set how long the kill flash will last
+- 在梯子上攀爬时有可能摔死
+  - <font color=green>开</font>：玩家将从梯子上摔下来
+    - 从梯子上摔死的概率
+      - 设置玩家从梯子上掉下来时死亡的几率
+  - <font color=red>关</font>：玩家将不会从梯子上摔下来
+- 重置首杀冷却
+  - <font color=green>开</font>：击杀冷却时间将被重置各自的冷却时间
+  - <font color=red>关</font>：击杀冷却时间将是正常的
+- 首刀保护（仅限被杀）
+  - <font color=green>开</font>：保护在上一场游戏中被杀的玩家
+  - <font color=red>关</font>：游戏将正常进行
+- 击杀闪烁持续时间
+  - 设置击杀闪烁持续时间
 
-### <font size=4em color=#d9daff>Ghost</font>
+### <font size=4em color=#d9daff>死后</font>
 
-- Ghosts Exempt From Tasks
-  - <font color=green>ON</font>: Ghosts will be exempt from tasks
-  - <font color=red>OFF</font>: Ghosts will not be exempt from tasks
-- Ghosts Can See Other Roles
-  - <font color=green>ON</font>: Ghosts will be able to see other players' roles
-  - <font color=red>OFF</font>: Ghosts will not be able to see other players' roles
-- Ghosts Can See Vote Colors
-  - <font color=green>ON</font>: Ghosts will be able to see other players' vote colors
-  - <font color=red>OFF</font>: Ghosts will not be able to see other players' vote colors
-- Ghosts Can See Cause of Death
-  - <font color=green>ON</font>: Ghosts will be able to see the cause of death of other players
-  - <font color=red>OFF</font>: Ghosts will not be able to see the cause of death of other players
+- 幽灵不能完成任务
+  - <font color=green>开</font>：幽灵将不能完成任务
+  - <font color=red>关</font>：幽灵将能完成任务
+- 幽灵可见他人职业
+  - <font color=green>开</font>：幽灵将能够看到其他玩家的职业
+  - <font color=red>关</font>：幽灵将无法看到其他玩家的职业
+- 幽灵可见投票情况
+  - <font color=green>开</font>：幽灵将能够看到其他玩家的投票情况
+  - <font color=red>关</font>：幽灵将无法看到其他玩家的投票情况
+- 幽灵可以看见其他玩家的死因
+  - <font color=green>开</font>：幽灵将能够看到其他玩家的死因
+  - <font color=red>关</font>：幽灵将无法看到其他玩家的死因
 
-## <font color=#ffc0cb>⚔️ Free For All</font>
+## <font color=#ffc0cb>⚔️ 自由击杀</font>
 
 ***
 
-- Maximum Game Length
-  - Set how long the game will be
+- 最大游戏时长
+  - 设置最大游戏时长
 
-- Kill Cooldown
-  - Set the global Kill Cooldown of all players
+- 击杀冷却
+  - 设置所有玩家的全局击杀冷却时间
 
-- Prevent venting when only 2 players are alive
-  - <font color=green>ON</font>: Venting will be disabled when only 2 players are alive
-  - <font color=red>OFF</font>: Venting will not be disabled when only 2 players are alive
+- 当只有2名玩家存活时，防止进入通风管道
+  - <font color=green>开</font>：当只有2个玩家存活时，将禁止进入通风管道
+  - <font color=red>关</font>：当只有2名玩家存活时，通风管道不会被禁用
 
-- Prevent players whose kill cooldown is up from venting
+- 防止击杀冷却时间结束的玩家使用通风口
   - <font color=green>ON</font>: Players who have 0 Cooldown will not be able to vent
   - <font color=red>OFF</font>: Players who have 0 Cooldown will still be able to vent
 

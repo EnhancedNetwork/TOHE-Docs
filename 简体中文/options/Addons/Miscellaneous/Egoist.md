@@ -1,28 +1,28 @@
 ---
-lang: en-US
-title: Egoist
+lang: zh-CN
+title: 利己主义者
 prev: /options/Settings/Addons.html
-next: Lovers
+next: 恋人
 ---
 
-# <font color=#5600ff>💪 <b>Egoist</b></font> <Badge text="Miscellaneous" type="tip" vertical="middle"/>
+# <font color=#5600ff>💪 <b>利己主义者</b></font> <Badge text="Miscellaneous" type="tip" vertical="middle"/>
 
 ***
 
-Madmate and <font color=#7f8c8d>Neutrals</font> won't be Egoist. If the Egoist's team wins, the Egoist wins instead of his team.
+叛徒与<font color=#7f8c8d>中立阵营</font>不会为利己主义者。 如果利己主义者的阵营赢了，利己主义者抢夺胜利。
 
-- Max
-  - Set the Maximum amount of Egoists that can be in a match
-- Spawn Chance
-  - Set the percentage players have of getting Egoist
-- <font color=#8cffff>Crewmates</font> can become Egoist
-  - <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become this role
-  - <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
-- An <font color=red>Impostor</font> can become Egoist
-  - <font color=green>ON</font>: <font color=red>Impostors</font> can become this role
-  - <font color=red>OFF</font>: <font color=red>Impostors</font> cannot become this role
-- <font color=red>Impostors</font> Can See Other Egoist Impostor
-  - <font color=green>ON</font>: an <font color=red>Impostor</font> can see the Egoist, and an Egoist can see the <font color=red>Impostor</font> like normal
-  - <font color=red>OFF</font>: the <font color=red>Impostor</font> has no clue of his Egoist teammate
+- 最大数量
+  - 设置游戏中利己主义者的最大数量
+- 出现概率
+  - 设置游戏中出现利己主义者的概率
+- <font color=#8cffff>船员阵营</font>可以成为利己主义者
+  - <font color=green>启用</font>：<font color=#8cffff>船员阵营</font>可以成为这个附加身份
+  - <font color=red>关闭</font>：<font color=#8cffff>船员阵营</font>无法成为这个附加身份
+- <font color=red>内鬼</font>可以成为利己主义者
+  - <font color=green>开启</font>：<font color=red>内鬼阵营</font>可以成为这个附加身份
+  - <font color=red>关闭</font>：<font color=red>内鬼阵营</font>无法成为这个附加身份
+- <font color=red>内鬼阵营</font>可以看到其他利己主义者内鬼
+  - <font color=green>开启</font>：<font color=red>内鬼</font>可以看到利己主义者，而利己主义者可以正常看到<font color=red>内鬼</font>
+  - <font color=red>关闭</font>：<font color=red>内鬼</font>对他的利己主义者队友毫无头绪
 
-> From: [小叨院长](https://space.bilibili.com/1998829749) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自：[小叨院长](https://space.bilibili.com/1998829749) & 编码：[KARPED1EM](https://github.com/KARPED1EM)

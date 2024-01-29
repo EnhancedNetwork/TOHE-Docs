@@ -1,32 +1,32 @@
 ---
-lang: en-US
-title: Lovers
-prev: Egoist
-next: Reach
+lang: zh-CN
+title: 情侣
+prev: 利己主义者
+next: 持枪
 ---
 
-# <font color=#ff9ace>💞 <b>Lovers</b></font> <Badge text="Miscellaneous" type="tip" vertical="middle"/>
+# <font color=#ff9ace>💞 <b>情侣</b></font> <Badge text="Miscellaneous" type="tip" vertical="middle"/>
 
 ***
 
-Lovers are a combination of two players. The Lovers wins when only the Lovers is left. When one of the Lovers wins, the other also wins together. Lovers can see the 「♡」 mark next to each other's name. If one of the Lovers dies, the other will die in love (may not die in love according to the host's settings). When one of the Lovers is exiled in the meeting, the other will die and become a dead body that cannot be reported.
+恋人是两个玩家的组合 当只剩下情侣的时候，情侣赢了 当其中一个情侣赢了，另一个也一起赢了 情侣可以看到「♡」 在对方的名字旁边做记号 如果情人中的一个死了，另一个也会在爱中死去(根据房主的设置，可能不会死于爱情) 当其中一个情人在会议中被投出时，另一个就会死去，成为一具无法报告的尸体
 
-- Spawn Chance
-  - Set the percentage players have of getting Lovers
-- Lovers know the roles of each other
-  - <font color=green>ON</font>: Lovers can see each other's roles
-  - <font color=red>OFF</font>: Lovers cannot see each other's roles
-- Lovers die together
-  - <font color=green>ON</font>: A Lover will Suicide if their Lover dies
-  - <font color=red>OFF</font>: Each Lover has to die separately. (If a lover is alive at the end of the match, Lovers will win)
-- <font color=red>Impostors</font> can be in love
-  - <font color=green>ON</font>: Impostors can become Lovers
-  - <font color=red>OFF</font>: Impostors cannot become Lovers
-- <font color=#7f8c8d>Neutrals</font> can be in love
-  - <font color=green>ON</font>: Neutrals can become Lovers
-  - <font color=red>OFF</font>: Neutrals cannot become Lovers
-- <font color=#8cffff>Crewmates</font> can be in love
-  - <font color=green>ON</font>: Crewmates can become Lovers
-  - <font color=red>OFF</font>: Crewmates cannot become Lovers
+- 生成机会
+  - 设置玩家获得情侣的百分比
+- 情侣们知道彼此的职业
+  - <font color=green>开</font>:恋人可以看到彼此的职业
+  - <font color=red>关</font>:恋人不能看到彼此的职业
+- 恋人同归于尽
+  - <font color=green>开</font>:如果一个恋人死了，另一个恋人会自杀
+  - <font color=red>关</font>:每一个恋人都不会一起死亡 (如果恋人在比赛结束时还活着，那么恋人队将获胜)
+- <font color=red>内鬼</font>是否可以坠入爱河
+  - <font color=green>开</font>:内鬼可以成为情人
+  - <font color=red>关闭</font>:内鬼不能成为情人
+- <font color=#7f8c8d>中立阵营</font>可以坠入爱河
+  - <font color=green>开</font>:中立阵营可以坠入爱河
+  - <font color=red>关</font>:中立不能成为情人
+- <font color=#8cffff>船员</font>可以坠入爱河
+  - <font color=green>开</font>:船员可以成为恋人
+  - <font color=red>关</font>:船员不能成为情人
 
-> From: TOH
+> 来源于:TOH

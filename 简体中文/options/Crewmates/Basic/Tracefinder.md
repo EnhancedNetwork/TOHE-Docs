@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Tracefinder
 prev: TaskManager
 next: Transporter
@@ -11,8 +11,8 @@ next: Transporter
 
 Access to Vitals, and receive Arrows pointing to dead bodies.
 
-- Max
-  - Set the Maximum amount of Tracefinders that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Vitals Cooldown
   - Set long the Tracefinder has to wait to use check their Mobile Vitals
 - Vitals Duration

@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Doctor
 prev: Cleanser
 next: GuessMaster
@@ -11,8 +11,8 @@ next: GuessMaster
 
 Doctor can see cause of death for all players. They also have access to Mobile Vitals like a scientist.
 
-- Max
-  - Set the Maximum amount of Doctors that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Battery Duration
   - Set how long the Doctor can have Vitals up for
 - Everyone knows who the Doctor is

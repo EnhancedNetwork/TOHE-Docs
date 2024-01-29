@@ -1,24 +1,24 @@
 ---
-link: en-US
-title: Bastion
+link: zh-CN
+title: 埋雷兵
 prev: /options/Settings/Crewmates.html
-next: Bodyguard
+next: 保镖
 ---
 
-# <font color="#696969">💣 <b>Bastion</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#696969">💣<b>埋雷兵</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-As the Bastion, bomb vents to kill off impostors and neutrals.<br><br>
-Be careful though, crewmates can also be killed with the bombs.
+埋雷兵通过使用通风口放置炸弹来击杀内鬼阵营和中立阵营。<br><br>
+注意：炸弹也会炸死船员
 
-- Bombs clear after meetings
-  - Any bombs the Bastion places will be cleared after a meeting ends
-- Bomb Cooldown
-  - Set how long the Bastion needs to wait before placing another bomb in a vent
-- <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
-  - Set the amount of Ability Uses a Bastion gains with each Task completed (0.1 increments)
-- (Initial) Maximum bombs
-  - Set the maximum initial amount of bombs a Bastion will have
+- 会议结束后炸弹被清除
+  - 会议结束后，埋雷兵的任何炸弹都将被清除
+- 埋雷冷却时间
+  - 设置埋雷兵在放置另一个炸弹之前需要等待多长时间
+- <font color=#00ffff>能力大小</font> <font color=#7fffd2>使用增益</font> <font color=#00ffff>每完成一项任务</font>
+  - 设置每次完成任务后埋雷兵获得的能力使用次数（每次增加0.1次）
+- (初始) 最大炸弹数
+  - 设置一个埋雷兵初始拥有的最大炸弹数量
 
-> From: [Discussions](#) & Coding: [Loonie](#) & [Gurge](#)
+> 来自：[讨论](#)和编码：[Loonie](#)和[Gurge](#)

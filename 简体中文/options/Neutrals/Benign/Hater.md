@@ -9,23 +9,23 @@ next: 效仿者
 
 ***
 
-FFF团没有击杀冷却 但是你只能击杀恋人和可以招募人的职业, 随着设定而变化 击杀其他职业的人会使你自杀 你会胜利在游戏结束后如果场上没有任何带刀职业存活 你无法成为恋人
+FFF团没有击杀冷却。 但是你只能击杀恋人和可以招募人的职业，随着设定而变。 击杀其他职业的人会使你自杀。 如果场上没有任何带刀职业存活，你就会获胜。 你无法成为恋人。
 
-- 最大
-  - 一场游戏内可存在的FFF团数量
+- 最大数量
+  - 设置游戏中FFF团的最大数量
 - FFF团会击杀对方即使刀错了
-  - 一场游戏内可存在的FFF团数量
+  - <font color=green>开</font>：FFF团在误杀时也会击杀对方
+  - <font color=red>关</font>：FFF团在误杀时不会击杀对方
 - 选择FFF团可以击杀的职业
-  - <font color=green>启用</font>：FFF团可以击杀的职业
+  - <font color=green>开</font>：FFF团可以击杀的职业
     - 叛徒
-    - 魅魔的随从
+    - 魅魔小弟
     - 恋人
-    - 豺狼阵营
+    - 豺狼类
     - 利己主义者
-    - 被感染的人
-    - 病毒阵营
-    - 被仰慕的人
+    - 感染者
+    - 传染性
+    - 仰慕者
   - <font color=red>关闭</font>：不能选择FFF团可击杀职业
 
-> 想法来自：nikocat233
-> (https\://github.com/NikoCat233) (原作者: SNR & Coding: [咔皮呆](https://github.com/KARPED1EM))
+> 想法：[thewhiskas27] & 编码：[NikoCat233](https://github.com/NikoCat233) (原来自：SNR & 编码：[咔皮呆](https://github.com/KARPED1EM))

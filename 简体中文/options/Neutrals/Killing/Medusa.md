@@ -1,25 +1,26 @@
 ---
 lang: zh-CN
-title: Medusa
-prev: Juggernaut
-next: Necromancer
+title: 美杜莎
+prev: 天启
+next: 亡灵巫师
 ---
 
-# <font color="#9900cc">🐍 <b>Medusa</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#9900cc">🐍 <b>美杜莎</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-You can stone bodies to make them un-reportable. Much like Cleaning a body.
+你可以石化尸体使它们无法报告。 就像清洗一具身体
 
-- Kill Cooldown
-  - Set the Medusa’s Kill Cooldown
-- Kill Cooldown On Stone Gaze
-  - Set the Medusas Kill Cooldown after Stoning a Body
-- Can Vent
-  - <font color=green>ON</font>: Medusa can vent
-  - <font color=red>OFF</font>: Medusa cannot vent
-- Has <font color=red>Impostor</font> Vision
-  - <font color=green>ON</font>: Medusa has the same vision as an Impostor
-  - <font color=red>OFF</font>: Medusa has default vision
+- 击杀冷却
+  - 设置美杜莎的杀戮冷却时间
+- 消除石化的冷却时间
+  - 设置美杜莎石击后的冷却时间
+- 可不可以钻管
+  - <font color=green>启用</font>：美杜莎可以钻管
+  - <font color=red>关</font>美杜莎无法使用通风口
+- 有<font color=red>内鬼</font>视野
+  - <font color=green>开启</font>：美杜莎和内鬼有着相同的视野
+  - <font color=red>关</font>：美杜莎只有默认视野
 
-> Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> 职业来源：想法和编程：[Loonie Toons]
+> (https\://github.com/Loonie-Toons)

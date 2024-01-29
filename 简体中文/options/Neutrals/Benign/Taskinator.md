@@ -1,30 +1,30 @@
 ---
 lang: zh-CN
-title: Taskinator
-prev: Shaman
-next: Witch
+title: 任务执行者
+prev: 萨满
+next: 巫师
 ---
 
-# <font color="#4233a2">📑 <b>Taskinator</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
+# <font color="#4233a2">📑 <b>任务执行者</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
 
 ***
 
-As the Taskinator, whenever you complete a task, the task will be bombed. When another player completes the bombed task, the bomb will detonate and the player will die.<br><br>
-You win if you survive till the end and Crew doesn't win.<br><br>
-Note: Taskinator bombs ignore all protection.
+任务执行者完成任务后，那个任务将会被埋下了炸弹。 当其他玩家完成了那个有炸弹的任务，该名玩家将会被炸死。<br><br>
+如果你生存到了最后，你将会抢夺游戏胜利。<br><br>
+注意：任务执行者埋下炸弹无视所有护盾
 
-- Max
-  - Set the Maximum amount of Taskinators that can be in a match
-- Number of tasks that can be bombed in one round
-  - Set the amount of tasks that the Taskinator can bomb in one round
-- Override Taskinator’s Tasks
-  - <font color=green>ON</font>: you can set a different amount of Tasks that a Taskinator needs to do
-  - <font color=red>OFF</font>: the Taskinator does the same amount of Tasks as anyone else
-    - Taskinator has Common Tasks
-      - Set if the Taskinator has Common Tasks
-    - Amount of Long Tasks for Taskinator
-      - Set the amount of Long Tasks the Taskinator will receive
-    - Amount of Short Tasks for Taskinator
-      - Set the amount of Short Tasks the Taskinator will receive
+- 最大数量
+  - 设置游戏中任务执行者的最大数量
+- 一轮可埋下的炸弹数
+  - 设置一轮最多可以埋下多少个炸弹
+- 特别设置任务执行者的任务
+  - <font color=green>启用</font>：你可以设置任务执行者需要完成多少个任务
+  - <font color=red>关闭</font>：任务执行者的任务数量将会和其他人一样
+    - 任务执行者有没有通用任务
+      - 设置任务执行者有通用任务
+    - 任务执行者的长任务数量
+      - 设置任务执行者的长任务数量
+    - 任务执行者的短任务数量
+      - 设置任务执行者的短任务数量
 
-> Idea: [Dx] & Coding: [ryuk](https://github.com/ryuk2098)
+> 想法：[Dx] & 编码：[ryuk](https://github.com/ryuk2098)

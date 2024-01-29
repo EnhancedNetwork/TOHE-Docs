@@ -1,33 +1,33 @@
 ---
-lang: en-US
-title: Pitfall
-prev: Devourer
-next: Twister
+lang: zh-CN
+title: 设陷者
+prev: 吞噬者
+next: 龙卷风
 ---
 
-# <font color=red>🤸 <b>Pitfall</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>
+# <font color=red>🤸 <b>设陷者</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>
 
 ***
 
-As the Pitfall, you use your shapeshift to mark the area around the shapeshift as a trap. Players who enter this area will be immobilized for a short period of time and their vision will be affected.
+作为 "设陷者"，你可以使用变形按钮将变形周围的区域标记为陷阱。 进入该区域的玩家将在短时间内无法移动，视力也会受到影响。
 
-- Max
-  - Set the Maximum amount of Pitfalls that can be in a match
-- Trap Cooldown
-  - Set how long a Pitfall needs to wait to use their Ability
-- Number of Traps that can be set
-  - Set how many Traps the Pitfall can set down
-- Number of Players that can be caught per Trap
-  - Set how many players can be caught in a Trap
-- Time the Trap remains active
-  - Set how long the trap remains active
-- Trap Radius
-  - Set how big the trap is
-- Trap freeze time
-  - Set how long a player is frozen for
-- Trap caused vision
-  - Set how much vision is affected
-- Trap caused vision time
-  - Set how long the vision is affected for
+- 最大数量
+  - 设置游戏中设险者的最大数量
+- 陷阱冷却时间
+  - 设置 设陷者 使用能力需要等待的时间
+- 可设置的陷阱数量
+  - 设置坑道陷阱的数量
+- 每个陷阱可捕捉的玩家数量
+  - 设置陷阱可容纳多少玩家
+- 陷阱保持活动的时间
+  - 设置陷阱的有效时间
+- 陷阱半径
+  - 设置陷阱的大小
+- 诱捕器冻结时间
+  - 设置玩家被冻结的时间
+- 陷阱引起的视觉
+  - 设定视力受影响的程度
+- 陷阱造成的视觉时间
+  - 设置视力受影响的时间
 
-> From: Idea & Coding: [papercut](https://github.com/lars-wu)
+>

@@ -1,22 +1,22 @@
 ---
-lang: en-US
-title: Spellcaster
-prev: Sniper
-next: Trapster
+lang: zh-CN
+title: 女巫
+prev: 狙击手
+next: 诡雷
 ---
 
-# <font color="red">🧙 <b>Spellcaster</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="red">🧙 <b>女巫</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-The Spellcaster has two attack methods: Direct Killing & Spelling. Pressing the Kill button twice (Depending on Switch Method) will result in a normal kill. Pressing the Kill button once will cast a spell on the Spellcaster’s target. During the Meeting, the Spellcasters target(s) will have a symbol next to their name (A cross) indicating that they were Spelled. If the Spellcaster is not ejected/guessed by the end of the meeting, all of their targets will die when the Meeting concludes.
+女巫有两种攻击方式：直接击杀和施法 按两次终止按钮（取决于开关方法）将导致正常终止。 按下击杀按钮一次将对女巫的目标施法。 在会议期间，女巫的目标将在他们的名字旁边有一个符号（一个十字），表示他们被施法了。 如果女巫在会议结束时没有被驱逐/猜中，他们的所有目标将在会议结束时死亡。
 
-- Max
-  - Set the Maximum amount of Spellcasters that can be in a match
-- Switch Action Via
-  - Set how the Spellcaster can switch between using a Spell, and killing normally
-    - Kill - Alternate between normal killing and Spellcasting when interacting with the Kill button on a target
-    - Vent - Alternate between normal killing and Spellcasting when interacting with a Vent
-    - Double-Click - Single click to Spellcast, double click to kill normally
+- 最大数量
+  - 设置游戏中女巫的最大数量
+- 切换击杀模式
+  - 设置女巫如何在使用法术和正常击杀之间切换
+    - 击杀-当与目标上的击杀按钮交互时，在普通击杀和施法之间交替
+    - 通风口 - 与通风口交互时，交替进行正常击杀和施法
+    - 双击模式-单击施法，双击正常杀死
 
-> From: TOH
+> 来自:TOH

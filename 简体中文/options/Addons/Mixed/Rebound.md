@@ -1,29 +1,29 @@
 ---
-lang: en-US
-title: Rebound
-prev: Guesser
-next: Schizophrenic
+lang: zh-CN
+title: 回弹者
+prev: 赌怪
+next: 双重人格
 ---
 
-# <font color=#56b5ff>🏀 <b>Rebound</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
+# <font color=#56b5ff>🏀 <b>回弹者</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
 
 ***
 
-With the Rebound add-on, if a Guesser successfully guessed you or a Judge successfully judged you, they will die instead.<br>
-If a player with Double Shot guesses you correctly, they will die instantly.
+如果正义/邪恶的赌怪成功猜中你，或者正义/邪恶的法官成功审判你的话，他们将会死亡 ，而不是你会死亡。<br>
+如果双重猜测成功猜测你，他们会立刻死亡。
 
-- Max
-  - Set the Maximum amount of Rebounds that can be in a match
-- Spawn Chance
-  - Set the percentage players have of getting Rebound
-- <font color=red>Impostors</font> can become Rebound
-  - <font color=green>ON</font>: <font color=red>Impostors</font> can become this role
-  - <font color=red>OFF</font>: <font color=red>Impostors</font> cannot become this role
-- <font color=#8cffff>Crewmates</font> can become Rebound
-  - <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become this role
-  - <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
-- <font color=#7f8c8d>Neutrals</font> can become Rebound
-  - <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
-  - <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+- 最大人数
+  - 设置游戏中回弹者的最大数量
+- 出现概率
+  - 设置一局游戏中回弹者出现的概率
+- <font color=red>内鬼阵营</font>可以成为回弹者
+  - <font color=green>开</font>：<font color=red>内鬼阵营</font>可以成为这个附加身份
+  - <font color=red>关</font>：<font color=red>内鬼阵营</font>不能成为这个附加身份
+- <font color=#8cffff>船员阵营</font>可以成为回弹者
+  - <font color=green>开</font>：<font color=#8cffff>船员阵营</font>可以成为这个附加身份
+  - <font color=red>关</font>：<font color=#8cffff>船员阵营</font>不能成为这个附加身份
+- <font color=#7f8c8d>中立阵营</font>可以成为回弹者
+  - <font color=green>开</font>：<font color=#7f8c8d>中立阵营</font>可以成为这个附加身份
+  - <font color=red>关</font>：<font color=#7f8c8d>中立阵营</font>不能成为这个附加身份
 
-> From: SLE [SolarFlare](#) & Coding: [ryuk](#)
+> 来自：SLE [SolarFlare](#) & 编码：[ryuk](#)

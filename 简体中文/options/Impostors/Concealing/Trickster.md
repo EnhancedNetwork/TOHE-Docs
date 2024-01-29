@@ -1,17 +1,17 @@
 ---
-lang: en-US
-title: Trickster
-prev: Swooper
-next: Undertaker
+lang: zh-CN
+title: 鼹鼠
+prev: 隐匿者
+next: 送葬者
 ---
 
-# <font color="red">🎭 <b>Trickster</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">🎭 <b>鼹鼠</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 
 ***
 
-You don’t appear as <font color=red>Impostor</font> to Crewmates. (Sheriff cannot shoot you, it’s considered Misfire/Psychic does not see you as Evil. Snitch cannot find you.)
+你在伙伴眼中看起来不像 <font color=red>个骗子</font> 。 （警长无法射击你，这被视为误射/心灵感应者不认为你是邪恶的。 告密者找不到你。）
 
-- Max
-  - Set the Maximum amount of Tricksters that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 
-> From: TOH+
+> 来自:TOH+

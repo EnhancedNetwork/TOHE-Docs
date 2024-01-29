@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Flash
 prev: DoubleShot
 next: Lazy
@@ -11,8 +11,8 @@ next: Lazy
 
 The Flash's default movement speed is faster than others. (speed depends on the setting of the host)
 
-- Max
-  - Set the Maximum amount of Flashes that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Spawn Chance
   - Set the percentage players have of getting Flash
 - Flash Speed

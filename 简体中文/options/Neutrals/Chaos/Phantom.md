@@ -1,36 +1,36 @@
 ---
-lang: en-US
-title: Phantom
-prev: Cultist
-next: Pirate
+lang: zh-CN
+title: 幽灵
+prev: 魅魔
+next: 决斗者
 ---
 
-# <font color="#662962">👻 <b>Phantom</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
+# <font color="#662962">👻<b> 幽灵</b></font><Badge text="Chaos" type="tip" vertical="middle"/>
 
 ***
 
-Complete all of your Tasks, and Die in any order to win with the winning team. (Can steal the Win and win Solo depending on Settings)
-However you cannot win if you are alive at the end of the game, or haven't completed all of your Tasks.
+完成所有任务，以任意顺序死亡，与获胜阵营一起获胜 (根据设置，可以偷胜或独赢）
+但是，如果您在游戏结束时还活着，或者没有完成所有任务，您就无法获胜。
 
-- Max
-  - Set the Maximum amount of Phantoms that can be in a match
-- Can Vent
-  - <font color=green>ON</font>: the Phantom can Vent while they are alive
-  - <font color=red>OFF</font>: the Phantom cannot Vent while they are alive
-- Snatches Victory
-  - <font color=green>ON</font>: The Phantom may steal the win if they have completed all of their Tasks and have died
-  - <font color=red>OFF</font>: The Phantom will win normally if they have completed all of their Tasks and have died
-- Can Guess in Guesser Mode
-  - <font color=green>ON</font>: the Phantom can Guess people in Guesser Mode (easy way to suicide if done Tasks/to do Tasks quicker too)
-  - <font color=red>OFF</font>: the Phantom cannot Guess, even when Guesser Mode is enabled
-- Override Phantom’s Tasks
-  - <font color=green>ON</font>: you can set a different amount of Tasks that a Phantom needs to do over the amount a normal <font color=#8cffff>Crewmate</font> has to do
-  - <font color=red>OFF</font>: the Phantom does the same amount of Tasks as anyone else
-    - Phantom has Common Tasks
-      - Set if the Phantom has Common Tasks
-    - Amount of Long Tasks for Phantom
-      - Set the amount of Long Tasks the Phantom will receive
-    - Amount of Short Tasks for Phantom
-      - Set the amount of Short Tasks the Phantom will receive
+- 最大数量
+  - 设置游戏中幽灵的最大数量
+- 可以进入通风口
+  - <font color=green>开</font>幽灵可以在他们还活着的时候进入通风口
+  - <font color=red>关</font>:幽灵不能在他们活着的时候进入通风口
+- 抢夺胜利
+  - <font color=green>开</font> ：幽灵完成了所有任务并死亡，他们可能会窃取胜利
+  - <font color=red>关</font>:如果幻影完成了所有任务并且已经死亡，他们将正常获胜
+- 可以在猜测模式下猜测
+  - <font color=green>开</font>：幽灵可以在猜测模式下猜测人（如果完成任务/更快地完成任务，则可以轻松自杀）
+  - <font color=red>关</font>:幽灵无法猜测，即使启用了猜测模式
+- 特别设置幽灵的任务数
+  - <font color=green>开</font>：你可以设置幽灵与普通<font color=#8cffff>船员</font>不同的任务数，
+  - <font color=red>关</font>：幽灵与其他人的任务数一样
+    - 幽灵的普通任务数
+      - 设置幽灵拥有的普通任务数
+    - 幽灵的长任务数量
+      - 设置幽灵的长任务数量
+    - 幽灵的短任务数量
+      - 设置幽灵的短任务数量
 
-> Idea [Pyro](#) & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> 创意 (#)和编码： Pyro和Loonie Toons (https\://github.com/Loonie-Toons)

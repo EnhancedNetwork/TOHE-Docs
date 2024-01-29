@@ -1,31 +1,31 @@
 ---
-lang: en-US
-title: Aware
-prev: Avenger
-next: Bloodlust
+lang: zh-CN
+title: 意识者
+prev: 复仇者
+next: 嗜血者
 ---
 
-# <font color=#4B0082>➕ <b>Aware</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
+# <font color=#4B0082>➕ <b>意识者</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
 
 ***
 
-As Aware, you will be notified in the next meeting if a revealing role interacts with you.
+作为意识者，在有人揭示了你的身份时，你会在下一次会议时收到通知。
 
-- Max
-  - Set the Maximum amount of Aware that can be in a match
-- Spawn Chance
-  - Set the percentage players have of getting Aware
-- Impostors can become Aware
-  - <font color=green>ON</font>: Impostors can become Aware
-  - <font color=red>OFF</font>: Impostors cannot become Aware
-- Crewmates can become Aware
-  - <font color=green>ON</font>: Crewmates can become Aware
-  - <font color=red>OFF</font>: Crewmates cannot become Aware
-- Neutrals can become Aware
-  - <font color=green>ON</font>: Neutrals can become Aware
-  - <font color=red>OFF</font>: Neutrals cannot become Aware
-- Knows the role of player
-  - <font color=green>ON</font>: Aware knows the role of the player
-  - <font color=red>OFF</font>: Aware does not know the role of the player
+- 最大数量
+  - 设置游戏中意识者的最大数量
+- 出现概率
+  - 设置一局游戏中意识者的出现概率
+- 内鬼阵营可以成为意识者
+  - <font color=green>开</font>：内鬼阵营可以成为意识者
+  - <font color=red>关</font>：内鬼阵营不能成为意识者
+- 船员阵营可以成为意识者
+  - <font color=green>开</font>：船员阵营可以成为意识者
+  - <font color=red>关</font>：船员阵营不能成为意识者
+- 中立阵营可以成为意识者
+  - <font color=green>开</font>：中立阵营可以成为意识者
+  - <font color=red>关</font>：中立阵营不能成为意识者
+- 确定玩家的身份
+  - <font color=green>开</font>：意识者知道玩家的身份
+  - <font color=red>关</font>：意识者不知道玩家的身份
 
-> From: [Dailyhare](#) & Coding: [ryuk](#)
+> 来自：[Dailyhare](#) & 编码：[ryuk](#)

@@ -1,20 +1,19 @@
 ---
-lang: en-US
-title: Ludopath
-prev: Instigator
-next: Lurker
+lang: zh-CN
+title: 速度者
+prev: 煽动者
+next: 潜伏者
 ---
 
-# <font color=red>🤡 <b>Ludopath</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>🤡 <b>速度者</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-As the Ludopath, your kill cooldown is randomized.<br><br>
-Minimum it can be is 1 second, while the maximum is your default kill cooldown.
+（内鬼阵营）：\n速度者的击杀冷却时间是随机的。击杀冷却最小值为1秒，而最大值是你默认的击杀冷却时间
 
-- Max
-  - Set the Maximum amount of Ludopaths that can be in a match
-- Maximum kill cooldown
-  - Set the Ludopath’s maximum kill cooldown
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 击杀冷却时间上限
+  - 设置猎人的最大击杀冷却时间
 
-> Idea: [Dawson](#) & Coding: [LoonieToons](https://github.com/Loonie-Toons)
+> 想法: [Dawson](#) & 编码: [LoonieToons](https://github.com/Loonie-Toons)

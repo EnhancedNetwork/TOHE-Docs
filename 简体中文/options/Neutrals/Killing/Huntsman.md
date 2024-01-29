@@ -1,33 +1,33 @@
 ---
 lang: zh-CN
-title: Huntsman
-prev: HexMaster
-next: Infectious
+title: 猎人
+prev: 巫师
+next: 感染者
 ---
 
-# <font color="#ad8739">🏹 <b>Huntsman</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#ad8739">🏹 <b>猎人</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-As the Huntsman, you have a certain amount of targets that reset every meeting. If you kill one of your targets, your kill cooldown decreases by the set amount permanately. If you kill someone else other than any of your targets, your kill cooldown permanately increases by the set amount. You see your targets with a colored name.
+作为猎人，你有一定数量的目标，每次会议都会重置。 如果你杀死了你的目标之一，你的击杀冷却时间将永久减少设定的数量。 如果你杀死的人不是你的目标之一，你的杀人冷却时间将永久增加相应的数量。 您可以通过彩色名称看到您的目标。
 
-- Kill Cooldown
-  - Set how long a Huntsman has to wait to kill
-- Kill Cooldown decrease on killing target
-  - Set how much the Huntsman's kill cooldown will decrease by if they kill their target
-- Kill Cooldown increase on killing others
-  - Set how much the Huntsman's kill cooldown will increase by if they kill someone other than their target
-- Can Vent
-  - <font color=green>ON</font>: Huntsman can vent
-  - <font color=red>OFF</font>: Huntsman cannot vent
-- Has <font color=red>Impostor</font> Vision
-  - <font color=green>ON</font>: Huntsman has the same vision as an Impostor
-  - <font color=red>OFF</font>: Huntsman has default vision
-- Number of targets
-  - Set the number of targets the Huntsman will have to reduce their kill cooldown
-- Maximum kill cooldown
-  - Set the Huntsman maximum kill cooldown
-- Minimum kill cooldown
-  - Set the Huntsman minimum kill cooldown
+- 击杀冷却时间
+  - 设定猎人等待多长时间才能击杀
+- 击杀目标后的杀戮冷却时间减少
+  - 设置猎人击杀目标后冷却时间减少的数量
+- 击杀其他人后的杀戮冷却时间增加
+  - 设置猎人击杀除目标外其他人时的冷却时间增加量
+- 可以使用通风管道
+  - <font color=green>ON</font>: 猎人可以使用管道
+  - <font color=red>关</font>猎人无法使用通风口
+- 是否有内鬼视野
+  - <font color=green>开启</font>：猎人和内鬼有着相同的视野
+  - <font color=red>关</font>：猎人只有默认视野
+- 目标数量
+  - 设置猎人需要减少他们的击杀冷却时间的目标数量
+- 最大击杀冷却时间
+  - 设置猎人的最大击杀冷却时间
+- 最小杀戮冷却时间
+  - 设置猎人的最小击杀冷却时间
 
-> From: TOHE+
+> 来自: TOHE+

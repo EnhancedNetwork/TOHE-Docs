@@ -1,39 +1,39 @@
 ---
 lang: zh-CN
-title: Virus
-prev: Traitor
-next: Werewolf
+title: 病毒
+prev: 背叛者
+next: 月下狼人
 ---
 
-# <font color="#2e8b57">🦠 <b>Virus</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#2e8b57">🦠 <b>病毒</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-The task of the virus is to kill or infect all other players. When the virus murders a crewmate, their corpse is infected with a virus. The <font color=#8cffff>Crewmate</font> who reports this corpse is infected and joins the virus team or dies at the end of the meeting if the virus won't get voted out, dependent on the settings. If there are more players on the Virus team than on the <font color=#8cffff>Crewmate</font> team, the Virus team wins.
+病毒的任务是杀死或感染其他所有玩家。 当病毒杀死一位船员时，他们的尸体将会感染病毒。 报告这具尸体的<font color=#8cffff>船员</font>会被感染并加入病毒团队，如果病毒没有被放逐的话，则报告这具尸体的玩家会在会议结束后死亡，这取决于房主设置。 如果病毒团队的玩家比<font color=#8cffff>船员</font>团队的多，病毒团队胜利。
 
-- Kill Cooldown
-  - Set how long a Virus needs to wait to  Contaminate/Kill a player
-- Can Vent
-  - <font color=green>ON</font>: the Virus has the ability to Vent
-  - <font color=red>OFF</font>: the Virus cannot Vent
-- Has <font color=red>Impostor</font> Vision
-  - <font color=green>ON</font>: the Virus has the same vision as an Impostor
-  - '<font color=red>OFF</font>: the Virus has default vision
-- Maximum Number Of Contaminations
-  - Set how many times the Virus can Contaminate people
-- Know Contaminated Player’s Role
-  - <font color=green>ON</font>: the Virus can see the role of player’s that they’ve Contaminated
-  - <font color=red>OFF</font>: the Virus cannot see the Contaminated player’s roles
-- Contaminated players know each other
-  - <font color=green>ON</font>: Contaminated players can see each other
-  - <font color=red>OFF</font>: Contaminated players don’t know who else is a Contaminated player
-- Contaminated player dies after meeting
-  - <font color=green>ON</font>: the Contaminated player will die after the meeting
-  - <font color=red>OFF</font>: the Contaminated player lives on
-- Infected players count as
-  - Set what an Infected (by Virus) player counts as one of the following:
-    - Nothing
-    - Original Team
-    - Virus Team
+- 击杀冷却
+  - 设置病毒需要等待多长时间才能感染/击杀玩家
+- 可以使用通风管道
+  - <font color=green>开</font>：病毒可以使用通风管道
+  - <font color=red>关</font>：病毒不能使用通风管道
+- 拥有<font color=red>内鬼</font>的视野
+  - <font color=green>开</font>：病毒拥有内鬼视野
+  - <font color=red>关</font>：病毒拥有默认视野
+- 最大传染次数
+  - 设置病毒传染人的最大次数
+- 知道传染性玩家的身份
+  - <font color=green>开</font>：病毒可以看到传染性玩家的身份
+  - <font color=red>关</font>：病毒不能看到传染性玩家的身份
+- 传染性玩家互相认识
+  - <font color=green>开</font>：传染性玩家互相认识
+  - <font color=red>关</font>：传染性玩家不互相认识
+- 传染性玩家会议后死亡
+  - <font color=green>开</font>：传染性玩家会议后死亡
+  - <font color=red>关</font>：传染性玩家能继续存活
+- 感染者玩家视为
+  - 设置感染者结算时视为以下之一：
+    - 不计人数
+    - 原始阵营
+    - 病毒阵营
 
-> From: Idea & Coding: [papercut](https://github.com/lars-wu)
+> 来自：想法&编码：[papercut](https://github.com/lars-wu)

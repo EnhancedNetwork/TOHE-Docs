@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Mortician
 prev: Merchant
 next: Observer
@@ -11,8 +11,8 @@ next: Observer
 
 The Mortician will see arrows pointing to all dead bodies, and if the mortician reports a body, they will know the last player the target was in contact with.
 
-- Max
-  - Set the Maximum amount of Morticians that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Has Arrows pointing toward bodies
   - <font color=green>ON</font>: the Mortician will see arrows pointing to all dead bodies
   - <font color=red>OFF</font>: the Mortician will not see arrows pointing to all dead bodies

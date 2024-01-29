@@ -1,39 +1,39 @@
 ---
 lang: zh-CN
-title: Deathpact
-prev: CursedWolf
-next: EvilGuesser
+title: 死亡契约
+prev: 诅咒之狼
+next: 邪恶的赌怪
 ---
 
-# <font color=red>🩸 <b>Deathpact</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>🩸 <b>死亡契约</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-As the Deathpact, the targets of your shapeshifting are marked for a deathpact. If enough players are marked for a death pact, the marked players must meet within a defined period of time; if they fail to do so, they die. If a marked player dies before the death pact is completed, the pact is withdrawn.
+作为死亡契约，你的变形目标被标记为死亡契约。 如果有足够多的玩家被标记为死亡契约，则被标记的玩家必须在规定的时间内见面。如果他们不这样做，他们就会死。 如果被标记的玩家在死亡契约完成之前死亡，则该契约将被撤销。
 
-- Max
-  - Set the Maximum amount of Deathpact that can be in a match
-- Kill Cooldown
-  - Set the Deathpact's Kill Cooldown
-- Death Pact Assign Cooldown
-  - Set the Deathpact's Assignment Cooldown
-- Death Pact duration
-  - Set the duration of the pact before they die
-- Number of players in Death Pact
-  - Set the number of players to be marked that should meet within the defined period of time
-- Show arrows leading to other players in Death Pact
-  - <font color=green>ON</font>: the Deathpact will see arrows pointing to the other players in the Death Pact
-  - <font color=red>OFF</font>: the Deathpact will not see arrows pointing to the other players in the Death Pact
-- Reduce vision for players in Death Pact
-  - <font color=green>ON</font>: the Deathpact will have their vision reduced
-    - Vision for players in Death Pact
-      - Set the vision for players in Death Pact while the pact is active
-  - <font color=red>OFF</font>: the Deathpact will not have their vision reduced
-- Kill players in Death Pact on meeting
-  - <font color=green>ON</font>: the Deathpact will kill the players in the Death Pact if they don't meet in time
-  - <font color=red>OFF</font>: the Deathpact will not kill the players in the Death Pact if they don't meet in time
-- Players in active Death Pact can call meeting
-  - <font color=green>ON</font>: Players in the Deathpact can call meetings
-  - <font color=red>OFF</font>: Players in the Deathpact cannot call meetings
+- 最大数量
+  - 设置游戏中死亡契约的最大数量
+- 击杀冷却时间
+  - 设置死亡契约的击杀冷却时间
+- 死亡契约分配冷却时间
+  - 设置死亡契约的分配冷却时间
+- 死亡契约持续时间
+  - 在他们死之前设定契约的持续时间。
+- 死亡契约玩家数量
+  - 设置要标记的玩家数量，这些玩家应在定义的时间段内会面
+- 在死亡契约中显示指向其他玩家的箭头
+  - <font color=green>开启</font>：死亡契约将看到指向死亡契约中其他玩家的箭头。
+  - <font color=red>关闭</font>：死亡契约不会看到指向死亡契约中其他玩家的箭头。
+- 降低死亡契约中玩家的视野
+  - <font color=green>开启</font>：死亡契约将降低他们的视野。
+    - 死亡契约中的玩家视野
+      - 当契约激活时，为死亡契约中的玩家设置视野
+  - <font color=red>关闭</font>：死亡契约不会降低他们的视野
+- 在会议上杀死死亡契约中的玩家
+  - <font color=green>上</font>：死亡契约将杀死死亡契约中的玩家，如果他们没有及时见面。
+  - <font color=red>关闭</font>：如果死亡契约中的玩家没有及时相遇，死亡契约将不会杀死他们。
+- 死亡契约激活的玩家可以召集会议
+  - <font color=green>ON</font>：死亡契约中的玩家可以召集会议。
+  - <font color=red>关闭</font>：死亡契约中的玩家不能召集会议
 
-> From: Idea & Coding: [papercut](https://github.com/lars-wu)
+> 来自：创意与编码：剪纸]（https：//github.com/lars-wu）

@@ -1,59 +1,59 @@
 ---
-lang: en-US
-title: Merchant
-prev: Medic
-next: Mortician
+lang: zh-CN
+title: 商人
+prev: 医生
+next: 入殓师
 ---
 
-# <font color="#d27d2d">🛒 <b>Merchant</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#d27d2d">🛒 <b>商人</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-Complete Tasks to give Players a Random Add-On, and receive money that can be used to escape death if you have enough.
+完成任务以获得随机职业，并获得足够的金钱，便可以逃脱死亡。
 
-- Max
-  - Set the Maximum amount of Merchants that can be in a match.
-- Max Amount of Add-Ons to Sell
-  - Set how many Add-Ons a Merchant can sell
-- Amount of Money earned for selling an Add-On
-  - Set how much Money the Merchant receives for selling an Add-On to someone
-- Amount of Money required to bribe a Killer
-  - Set how much Money the Merchant must have to Bribe a Killer so you won’t die
-- Inform Mechant when a Killer gets bribed
-  - <font color=green>ON</font>: the Merchant will receive a Notice above their name informing them that they bribed a Killer
-  - <font color=red>OFF</font>: the Merchant will not receive this Notice
-- Can Sell to Crewmates
-  - <font color=green>ON</font>: Merchant can sell Add-Ons to players of this team
-  - <font color=red>OFF</font>: players of this team cannot receive Add-Ons from the Merchant
-- Can Sell to Impostors
-  - <font color=green>ON</font>: Merchant can sell Add-Ons to players of this team
-  - <font color=red>OFF</font>: players of this team cannot receive Add-Ons from the Merchant
-- Can Sell to Neutrals
-  - <font color=green>ON</font>: Merchant can sell Add-Ons to players of this team
-  - <font color=red>OFF</font>: players of this team cannot receive Add-Ons from the Merchant
-- Can Sell Helpful Add-Ons
-  - <font color=green>ON</font>: Merchant can sell Add-Ons of this type to players
-  - <font color=red>OFF</font>: this type of Add-On cannot be sold by the Merchant
-- Can Sell Harmful Add-Ons
-  - <font color=green>ON</font>: Merchant can sell Add-Ons of this type to players
-  - <font color=red>OFF</font>: this type of Add-On cannot be sold by the Merchant
-- Can Sell Mixed Add-Ons
-  - <font color=green>ON</font>: Merchant can sell Add-Ons of this type to players
-  - <font color=red>OFF</font>: this type of Add-On cannot be sold by the Merchant
-- Can Sell Harmful Add-Ons only to Evil
-  - <font color=green>ON</font>: the Merchant can only sell their Harmful Add-Ons to Evil Roles
-  - <font color=red>OFF</font>: the Merchant can sell Harmful Add-Ons as they normally would
-- Can Sell Helpful Add-Ons only to Crew
-  - <font color=green>ON</font>: the Merchant can only sell their Helpful Add-Ons to Crew Roles
-  - <font color=red>OFF</font>: the Merchant can sell Helpful Add-Ons as they normally would
-- Override Merchant’s Tasks
-  - <font color=green>ON</font>: you can set a different amount of Tasks that a Merchant needs to do
-  - <font color=red>OFF</font>: the Merchant does the same amount of Tasks as anyone else
-    - Merchant has Common Tasks
-      - Set if the Merchant has Common Tasks
-    - Amount of Long Tasks for Merchant
-      - Set the amount of Long Tasks the Merchant will receive
-    - Amount of Short Tasks for Merchant
-      - Set the amount of Short Tasks the Merchant will receive
+- 最大数量
+  - 设置游戏中商人的最大数量
+- 可售附加职业的最大数量
+  - 设置商人可以销售的附加职业数量
+- 销售附加职业所赚取的金额
+  - 设置商人销售附加职业时收到的金额
+- 需要贿赂杀手的金额
+  - 设定商人必须拥有多少金钱才能贿赂杀手以免死亡
+- 当杀手被贿赂时通知商人
+  - <font color=green>启用</font>：商户将收到一个通知，在他的名字上方通知他贿赂了一个杀手
+  - <font color=red>关闭</font>：商人不会收到此通知
+- 可以出售给船员
+  - <font color=green>启用</font>: 商人可以向该团队的玩家出售附加职业
+  - <font color=red>关闭</font>：该团队的玩家无法从商人获得附加职业
+- 可以卖给内鬼阵营
+  - <font color=green>启用</font>: 商人可以向该团队的玩家出售附加职业
+  - <font color=red>关闭</font>：该团队的玩家无法从商人获得附加职业
+- 可以向中立出售
+  - <font color=green>启用</font>: 商人可以向该团队的玩家出售附加职业
+  - <font color=red>关闭</font>：该团队的玩家无法从商人获得附加职业
+- 可以销售帮助类附加职业
+  - <font color=green>启用</font>: 商人可以向玩家出售此类型的附加职业
+  - <font color=red>关闭</font>：此类附加职业无法由商人销售
+- 可以销售有害类附加职业
+  - <font color=green>启用</font>: 商人可以向玩家出售此类型的附加职业
+  - <font color=red>关闭</font>：此类附加职业无法由商人销售
+- 可以销售混合类附加职业
+  - <font color=green>启用</font>: 商人可以向玩家出售此类型的附加职业
+  - <font color=red>关闭</font>：此类附加职业无法由商人销售
+- 只能向坏人销售有害类附加职业
+  - <font color=green>启用</font>：商家只能将其有害类附加职业出售给坏人
+  - <font color=red>关闭</font>：商家可以像往常一样销售有害类附加职业
+- 只能向船员销售帮助类附加职业
+  - <font color=green>启用</font>：商人只能将帮助类附加职业出售给船员
+  - <font color=red>关闭</font>：商家可以像往常一样销售帮助类附加职业
+- 特别设置商人的任务数
+  - <font color=green>启用</font>: 您可以设置商人需要完成的不同任务数量
+  - <font color=red>关闭</font>：商家与其他人一样完成相同数量的任务
+    - 商人的普通任务数
+      - 设置商人是否有共同任务
+    - 商人的长任务量
+      - 设置商人的长任务量
+    - 商家的短任务量
+      - 设置商人的短任务量
 
-> From: Idea & Coding: [papercut](https://github.com/lars-wu)
+> 来自: 想法 & 编码: [papercut](https://github.com/lars-wu)

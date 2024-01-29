@@ -1,22 +1,22 @@
 ---
-lang: en-US
-title: Mimic
-prev: Mare
-next: Stealer
+lang: zh-CN
+title: 宝箱怪
+prev: 梦魇
+next: 窃票者
 ---
 
-# <font color=red>👥 <b>Mimic</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>👥 <b>宝箱怪</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
 
 ***
 
-Only <font color=red>Impostor</font> can become Mimic. When the Mimic is dead, other <font color=red>Impostors</font> will receive a message once a meeting is called, this message will include information on roles who were killed by the Mimic.
+只有<font color=red>内鬼</font>会成为宝箱怪。 宝箱怪死后，其他<font color=red>内鬼</font>可以在会议上收到信息。信息包含了宝箱怪生前击杀的所有人的职业。
 
-- Max
-  - Set the Maximum amount of Mimics that can be in a match
-- Spawn Chance
-  - Set the percentage players have of getting Mimic
-- Mimic can see the roles of dead players
-  - <font color=green>ON</font>: Mimic can see the roles of dead players
-  - <font color=red>OFF</font>: Mimic cannot see the roles of dead players
+- 最大数量
+  - 设置游戏中宝箱怪的最大数量。
+- 出现概率
+  - 设置宝箱怪出现概率
+- 宝箱怪可以看到死亡玩家的职业
+  - <font color=green>开</font>：宝箱怪可以看到死亡玩家的职业
+  - <font color=red>关</font>：宝箱怪不可以看到死亡玩家的职业
 
-> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 想法和编码: [咔皮呆](https://github.com/KARPED1EM)

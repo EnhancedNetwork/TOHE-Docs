@@ -1,23 +1,23 @@
 ---
-lang: en-US
-title: Instigator
-prev: Inhibitor
-next: Ludopath
+lang: zh-CN
+title: 煽动者
+prev: 抑郁者
+next: 速度者
 ---
 
-# <font color=red>🤬 <b>Instigator</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>🤬 <b>煽动者</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-As the Instigator, it's your job to turn the crewmates against each other. Each time a Crewmate is voted out in a meeting, as long as you are alive, an additional Crewmate who voted for the innocent player will die after the meeting. The number of additional players dying is determined by the host.
+作为煽动者，你的任务是使船员们互相对立 每次在会议中有一个船员被投票出局时，只要你还活着，会议结束后，投票给无辜玩家的其中一名船员也会死亡。 额外玩家死亡的数量由房主决定
 
-- Max
-  - Set the Maximum amount of Instigators that can be in a match
-- Kill Cooldown
-  - Set how long the Instigator has to wait to Kill
-- Ability Use Count
-  - Set how many times the Instigator can use their ability
-- Kills per Ability use
-  - Set how many kills the Instigator will get when they use their ability
+- 最大数量
+  - 设置游戏中教唆者的最大数量
+- 击杀冷却时间
+  - 设置煽动者击杀冷却时间
+- 能力使用次数
+  - 设置煽动者使用他的技能的次数
+- 每次使用技能的击杀数
+  - 设置煽动者使用技能后的击杀冷却时间
 
-> Idea & Coding: [lars-wu (papercut)](https://github.com/lars-wu)
+> 想法 & 编码: [lars-wu (papercut)](https://github.com/lars-wu)

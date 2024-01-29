@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Pacifist
 prev: Oracle
 next: Psychic
@@ -11,8 +11,8 @@ next: Psychic
 
 When the Pacifist vents, they will reset the kill cooldown for everyone with a kill button, even if they technically can’t kill (like the Medic). If they become Mad Pacifist, this ability will only work on Crewmates.
 
-- Max
-  - Set the Maximum amount of Pacifists that can be in a match
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
 - Ability Cooldown
   - Set how long a Pacifist needs to wait to Reset everyone's Kill Cooldown
 - Max Number of Ability Uses

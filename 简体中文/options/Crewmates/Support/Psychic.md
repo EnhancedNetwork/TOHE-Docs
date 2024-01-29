@@ -1,34 +1,34 @@
 ---
-lang: en-US
-title: Psychic
-prev: Pacifist
-next: Snitch
+lang: zh-CN
+title: 愚者
+prev: 和平之鸽
+next: 告密者
 ---
 
-# <font color="#6f698c">🪬 <b>Psychic</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#6f698c">🪬 <b>愚者</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-The Psychic can see the names of some players in Red (In the Meeting), and at least one of them is Evil. If they become Mad Psychic, the names of <font color=#7f8c8d>Neutrals</font> and Killing <font color=#8cffff>Crewmates</font> will become Red.
+愚者可以在会议中看到一些玩家的名字是红色的，其中至少有一个是邪恶的。 如果他变成背叛的愚者， <font color=#7f8c8d>中立</font> 和 <font color=#8cffff>带刀船员</font> 的名字将变为红色。
 
-- Max
-  - Set the Maximum amount of Psychics that can be in a match
-- Max number of red names
-  - Set the number of red names that can appear every Meeting (at least 1 is Bad)
-- New red names every meeting
-  - <font color=green>ON</font>: the red names will change every meeting
-  - <font color=red>OFF</font>: red names will remain the same unless something happens
-- <font color=#8cffff>Crewmate</font> Killings can be red
-  - <font color=green>ON</font>: Crewmate Killing roles can appear as Red
-  - <font color=red>OFF</font>: Crewmate Killing roles can appear as Red
-- <font color=#7f8c8d>Neutral Benign</font> can be red
-  - <font color=green>ON</font>: Neutral Benign roles can appear as Red
-  - <font color=red>OFF</font>: Neutral Benign roles cannot appear as Red
-- <font color=#7f8c8d>Neutral Evil</font> can be red
-  - <font color=green>ON</font>: Neutral Evil roles can appear as Red
-  - <font color=red>OFF</font>: Neutral Evil roles cannot appear as Red
-- <font color=#7f8c8d>Neutral Chaos</font> can be red
-  - <font color=green>ON</font>: Neutral Chaos roles can appear as Red
-  - <font color=red>OFF</font>: Neutral Chaos roles cannot appear as Red
+- 最大数量
+  - 设置游戏中愚者的最大数量
+- 可以看到几个红名
+  - 设置每次会议中可以出现的红名数量（至少1个是不好的）
+- 每次会议刷新红名
+  - <font color=green>启用</font>：红名将在每次会议中变更
+  - <font color=red>关闭</font>：除非发生了某些事情，否则红名保持不变
+- <font color=#8cffff>带刀船员</font> 可以是红色
+  - <font color=green>启用</font>: 带刀船员显示为红名
+  - <font color=red>关闭</font>：带刀船员不显示红名
+- <font color=#7f8c8d>友好中立</font> 可以是红名
+  - <font color=green>启用</font>: 友好中立显示红名
+  - <font color=red>关闭</font>：友好中立不为红名
+- <font color=#7f8c8d>邪恶中立</font> 可以是红名
+  - <font color=green>启用</font>：邪恶中立可为红名
+  - <font color=red>关闭</font>：邪恶中立不为红名
+- <font color=#7f8c8d>混乱中立</font> 可为红名
+  - <font color=green>启用</font>：混乱中立可为红名
+  - <font color=red>关闭</font>: 混乱中立不为红名
 
-> From: TOHR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自: TOHR & 编码: [咔皮呆](https://github.com/KARPED1EM)

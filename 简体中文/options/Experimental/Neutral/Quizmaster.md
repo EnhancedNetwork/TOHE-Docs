@@ -1,19 +1,21 @@
 ---
-lang: en-US
-title: Quizmaster
-prev: God
-next: Solsticer
+lang: zh-CN
+title: 测验长
+prev: 神
+next: 至日者
 ---
 
-# <font color=#f2f17e>❔ <b>Quizmaster</b></font> <Badge text="Neutral" type="tip" vertical="middle"/>
----
-<font size=4em>Experimental Reason: requires testing</font><br>
-Note: Most likely a Neutral Chaos
+# <font color=#f2f17e>❔ <b>竞猜大师</b></font> <Badge text="Neutral" type="tip" vertical="middle"/>
 
-As the Quizmaster, you can mark a player using your kill button. In the next meeting, the marked player will "?!" next to their name. If the player answers a question wrongly, or doesn't answer, they will die. If the Quizmaster was killed/ejected in the same meeting, the player will live.<br>
-The Quizmaster cannot mark multiple people in the same round
+***
 
-* This page is not yet completed! Sorry for the inconvience!
-  * This page still needs: Role Color & Settings.
+<font size=4em>实验原因：获胜条件冲突</font><br>
+注意：很可能是中立的混沌/邪恶
 
-> Idea: [Spong] & Coding: [Furo]
+作为问答大师，您可以使用您的杀死按钮标记一个玩家。 在下一次会议中，被标记的玩家将在他们的名字旁边显示"?!"。 如果玩家回答问题错误或者没有回答，他们将会死亡。 如果在同一次会议中，问答主持人被杀死/驱逐，玩家将活下来。<br>
+问答主持人不能在同一轮中标记多个人
+
+- 此页面尚未完成！ 很抱歉给你带来不愉快！
+  - 此页面仍然需要：角色颜色和设置。
+
+> 想法来自：[Spong] & 编程：[Furo]

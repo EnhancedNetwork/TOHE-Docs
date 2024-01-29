@@ -1,23 +1,23 @@
 ---
 lang: zh-CN
-title: Wraith
-prev: Werewolf
+title: 魅影
+prev: 月下狼人
 next: /options/settings/Neutrals.html
 ---
 
-# <font color="#4b0082">🩻 <b>Wraith</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#4b0082">🩻 <b>魅影</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-As the Wraith, you can use vents to temporarily go invisible.<br>
-Due to vents toggling your ability to go invisible, you cannot vent.<br>
-Trying to vent while invisible will cause you to become visible again.<br>
-Even when on cooldown, you cannot vent.<br><br>
-Kill everyone to win.
+作为幽灵，您可以使用通风口暂时隐身。<br>
+由于通风口切换隐身能力，您无法使用通风口。<br>
+试图在隐身时通风口会导致您再次可见。<br>
+即使在冷却时，您也无法使用通风口。<br><br>
+杀死所有人以获胜。
 
-- Vanish Cooldown
-  - Set how long a Wraith needs to wait to Vanish
-- Vanish Duration
-  - Set how long a Wraith will stay Vanished
+- 消失冷却
+  - 设置幽灵需要等待多长时间才能消失
+- 消失期限
+  - 设置幽灵会消失多久
 
-> From: TOHR & Coding：[KARPED1EM](https://github.com/KARPED1EM)
+> 来自:TOHR & Coding：[KARPED1EM](https://github.com/KARPED1EM)

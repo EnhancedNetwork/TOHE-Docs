@@ -1,19 +1,19 @@
 ---
-lang: en-US
-title: Scavenger
-prev: RiftMaker
-next: Shapemaster
+lang: zh-CN
+title: 清道夫
+prev: 裂谷制造者
+next: 千面鬼
 ---
 
-# <font color="red">🧺 <b>Scavenger</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
+# <font color="red">🧺 <b>清道夫</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 
 ***
 
-When a Scavenger kills, it will not leave a dead body, (Like Hangman if they are Shapeshifted). If they kill a bait, No self report will be made.
+当一个清道夫杀死时，它不会留下尸体，（就像绞刑者一样，如果他们变形了）。 如果它们杀死了一个诱饵，将不会进行自我报告。
 
-- Max
-  - Set the Maximum amount of Scavengers that can be in a match
-- Kill Cooldown
-  - Set how long the Scavenger needs to wait to use his Ability
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 击杀冷却
+  - 设置猎物需要等待多长时间才能使用他的能力
 
-> From: [喜](https://space.bilibili.com/443432765) & Coding: [喜](https://space.bilibili.com/443432765)、[KARPED1EM](https://github.com/KARPED1EM)
+> 来自：[喜](https://space.bilibili.com/443432765) & 编码：[喜](https://space.bilibili.com/443432765)、[KARPED1EM](https://github.com/KARPED1EM)

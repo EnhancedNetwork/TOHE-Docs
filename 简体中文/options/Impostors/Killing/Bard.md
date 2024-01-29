@@ -1,17 +1,16 @@
 ---
 lang: zh-CN
-title: Bard
-prev: Arrogance
-next: Arrogance
+title: 吟游诗人
+prev: 狂妄杀手
+next: 狂妄杀手
 ---
 
-# <font color=red>🎻 <b>Bard</b></font> <Badge text="Hidden" type="tip" vertical="middle"/>
+# <font color=red>🎻 <b>吟游诗人</b></font> <Badge text="Hidden" type="tip" vertical="middle"/>
 
 ***
 
-When the Bard is alive, the ejection confirmation will display a sentence composed by the bard<br>
-Whenever the Bard completes a creation, the Bard’s kill cooldown is permanently cut in half
+吟游诗人在场时，驱逐确认将会显示为吟游诗人创作的句子。每当吟游诗人完成一次创作，则吟游诗人的击杀冷却永久减半
 
-- You must have “Disable Hidden Roles” toggled <font color=red>OFF</font> for this to have a chance to appear
+- 您必须将“禁用隐藏职业”切换为<font color=red>关闭</font>，才有机会出现吟游诗人
 
-> From: Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自: 想法 & 编码: [咔皮呆](https://github.com/KARPED1EM)

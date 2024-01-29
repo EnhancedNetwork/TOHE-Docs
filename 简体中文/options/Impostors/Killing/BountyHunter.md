@@ -1,26 +1,26 @@
 ---
 lang: zh-CN
-title: Bounty Hunter
-prev: Bomber
-next: Chronomancer
+title: 赏金猎人
+prev: 轰炸机
+next: 计时员
 ---
 
-# <font color=red>🎯 <b>Bounty Hunter</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>🎯<b>赏金猎人</b></font><Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-If you kill your assigned target, your next kill cooldown will be shortened. If you kill anyone other than your target, your next kill cooldown will be increased. The target swaps after a certain amount of time.
+如果击杀指定目标，下一次击杀冷却时间将缩短。 如果你杀死目标以外的人，你的下一次击杀冷却时间将会增加。 目标在一定时间后交换。
 
-- Max
-  - Set the Maximum amount of Bounty Hunters that can be in a match
-- Time Until Target Swaps
-  - Set how long the Bounty Hunter has to kill their current Target before it swaps to someone else
-- Kill Cooldown After Killing Bounty
-  - Set the Bounty Hunter’s Kill Cooldown if they kill their set Target successfully
-- Kill Cooldown After Killing Others
-  - Set the Bounty Hunter’s Kill Cooldown if they don’t kill their set Target
-- Show arrow pointing towards target
-  - <font color=green>ON</font>: the Bounty Hunter will see an arrow of where their target is
-  - <font color=red>OFF</font>: the Bounty Hunter will not receive this arrow
+- 最大数量
+  - 设置游戏中"职业名自己填"的最大数量
+- 目标交换之前的时间
+  - 设置赏金猎人需要多长时间才能杀死当前目标，然后将其交换给其他人
+- 击杀赏金后的冷却时间
+  - 如果赏金猎人成功击杀其设定的目标，则设置赏金猎人的击杀冷却时间
+- 赏金猎人击杀赏金目标以外玩家的惩罚冷却时间
+  - 如果赏金猎人没有击杀他们设定的目标，则设置赏金猎人的击杀冷却时间
+- 显示指向目标的箭头
+  - <font color=green>ON</font>：赏金猎人将看到一个箭头指示他们的目标位置
+  - <font color=red>关闭</font>：赏金猎人将不会收到这个箭头
 
-> From: TOH
+> 来自:TOH

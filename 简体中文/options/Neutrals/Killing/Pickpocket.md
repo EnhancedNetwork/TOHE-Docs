@@ -1,27 +1,28 @@
 ---
 lang: zh-CN
-title: Pickpocket
-prev: Pelican
-next: Plaguebearer
+title: 小偷
+prev: 鹈鹕
+next: 瘟疫使者
 ---
 
-# <font color="#47008b">👤 <b>Pickpocket</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#47008b">👤 <b>小偷</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 
 ***
 
-As the Pickpocket, you steal votes from your kills.<br>
-These votes are hidden.<br>
-Kill everyone to win.
+作为小偷，你从你的杀戮中窃取选票。<br>
+这些选票是隐藏的。<br>
+杀光所有人来赢
 
-- Kill Cooldown
-  - Set how long a Pickpocket has to wait to Kill (and steal votes)
-- Can Vent
-  - <font color=green>ON</font>: the Pickpocket can Vent
-  - <font color=red>OFF</font>: the Pickpocket cannot Vent
-- Has <font color=red>Impostor</font> Vision
-  - <font color=green>ON</font>: the Pickpocket can see as far as an <font color=red>Impostor</font> can
-  - <font color=red>OFF</font>: the Pickpocket will have <font color=#8cffff>Crewmate</font> Vision
-- Votes gained for each kill
-  - Set how much the Pickpockets votes increase after a kill (0.1 vote increments)
+- 击杀冷却
+  - 设置小偷必须等待多长时间才能杀戮(并窃取选票）
+- 是否可以进入通风管道
+  - <font color=green>启用</font>：小偷可以钻管
+  - <font color=red>关闭</font>：小偷不能钻管
+- 有 <font color=red>内鬼</font> 视野
+  - <font color=green>开启</font>：小偷可以拥有<font color=red>内鬼<1>一样的视野
+  - <font color=red>关闭</font>: 小偷将有<font color=#8cffff>船员<1>的视野
+- 每杀一个人来获得的选票
+  - 设置杀死一个人后小偷的票数增加多少（0.1票增量）
 
-> From: Project Lotus & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> 职业来源：想法和编程：[Loonie Toons]
+> (https\://github.com/Loonie-Toons)

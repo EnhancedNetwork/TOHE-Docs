@@ -1,29 +1,28 @@
 ---
-lang: en-US
-title: Stubborn
-prev: Schizophrenic
+lang: zh-CN
+title: 固执者
+prev: 精神分裂症
 next: /options/Settings/Addons.html
 ---
 
-# <font color=#fa5434>😖 <b>Stubborn</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
+# <font color=#fa5434>😖 <b>固执者</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
 
 ***
 
-With the Stubborn add on, Eraser can’t erase your role, Cleanser can't cleanse you, Bandit can't steal from you and Monarch can't knight you.<br>
-Additionally, you can’t gain any new addons from the merchant.
+有了顽固的附加物，橡皮擦不能抹去你的角色，清洁剂不能净化你，强盗不能从你那里偷东西，君主不能授予你骑士身份。<br>此外，你不能从商家那里获得任何新的插件。
 
-- Max
-  - Set the Maximum amount of Stubborns that can be in a match
-- Spawn Chance
-  - Set the percentage players have of getting Stubborn
-- <font color=red>Impostors</font> can have Stubborn
-  - <font color=green>ON</font>: <font color=red>Impostors</font> can become this role
-  - <font color=red>OFF</font>: <font color=red>Impostors</font> cannot become this role
-- <font color=#8cffff>Crewmates</font> can have Stubborn
-  - <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become this role
-  - <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
-- <font color=#7f8c8d>Neutrals</font> can have Stubborn
-  - <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
-  - <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+- 最大数量
+  - 设置游戏中固执者的最大数量
+- 随机匹配
+  - 设置玩家获得固执的百分比
+- <font color=red>内鬼</font>可以成为固执
+  - <font color=green>开启</font>： <font color=red>内鬼</font>可以成为该角色
+  - <font color=red>关</font>:<font color=red>内鬼</font>不能成为这个职业
+- <font color=#8cffff>船员</font>可以成为固执
+  - <font color=green>开</font>:<font color=#8cffff>船员</font>可以成为这个职业
+  - <font color=red>关</font>:船员不能成为这个职业
+- <font color=#7f8c8d>中立</font>可以成为这个职业
+  - <font color=green>开</font>:中立可以成为这个职业
+  - <font color=red>关</font>:中立不能成为
 
-> Idea: [Dailyhare](#) & Coding: [ryuk](#)
+>

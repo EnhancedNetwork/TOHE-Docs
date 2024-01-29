@@ -1,31 +1,31 @@
 ---
-lang: en-US
-title: Revolutionist
-prev: Provocateur
-next: Spiritcaller
+lang: zh-CN
+title: 革命家
+prev: 自爆卡车
+next: 灵魂召唤者
 ---
 
-# <font color=#ba4d06>🚨 <b>Revolutionist</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
+# <font color=#ba4d06>🚨<b>革命家</b></font><Badge text="Chaos" type="tip" vertical="middle"/>
 
 ***
 
-Revolutionist can recruit players by clicking the kill button on the player and following them for a few seconds. When they start recruiting and the recruiting is successful, a shield animation will be displayed as a reminder (only visible to the Revolutionist). Players have a chance of being killed immediately after being recruited (the host sets the probability). When the specified number of players are recruited (the number is set by the host) and they vent within the specified time, the Revolutionist and all the players who are recruited win; if not, the recruited player dies; if the Revolutionist is killed during the countdown, nothing happens; if a meeting is held, the Revolutionist dies. Note: Players who died after being recruited can still win with the Revolutionist.
+革命者可以通过点击玩家上的杀戮按钮并跟随他们几秒钟来招募玩家。 当他们开始招募并且招募成功时，盾牌动画将显示为提醒（仅对革命者可见）。 玩家在被招募后立即被杀的概率（主机设定概率）。 当指定数量的玩家被招募（数量由主持人设置）并在指定时间内发泄时，革命者和所有被招募的玩家都获胜；否则，被招募的玩家死亡；如果革命者在倒计时期间被杀，什么也不会发生；如果举行会议，革命者死亡。 注意：被招募后死亡的玩家仍然可以与革命者一起获胜。
 
-If the player name displays 「○」, it means that they are being recruited;
+如果显示玩家名称「○」，则表示他们正在被招募；
 
-If the player name displays 「●」, it means they have been recruited.
+如果显示玩家名称「●」，则表示他们已被招募。
 
-- Max
-  - Set the Maximum amount of Revolutionists that can be in a match
-- Tag Duration
-  - Set how long a Revolutionist needs to stand with someone to Tag them
-- Tag Cooldown
-  - Set how long a Revolutionist needs to wait to Tag someone
-- Amount of Players needed to Tag
-  - Set how many players a Revolutionist needs to Tag to win
-- Tagged player sacrifice probability
-  - Set the percentage a Tagged player will Suicide once they get Tagged
-- Time to Vent
-  - Set how long a Revolutionist has to Vent.
+- 最大数量
+  - 设置游戏中革命家的最大数量
+- 标签持续时间
+  - 设置革命者需要与某人站在一起标记他们的时间
+- 标记冷却
+  - 设置革命者需要等待多长时间才能标记某人
+- 需要标记的玩家数量
+  - 设置革命者需要标记多少名玩家才能获胜
+- 被拉拢玩家牺牲概率
+  - 设置标记玩家被标记后自杀的概率
+- 达到胜利条件后跳管道时间限制
+  - 设置革命家使用通风口的时长
 
-> From: [波奇酱](#) & Coding: [NCSIMON](https://github.com/NCSIMON)
+> 来自：[波奇酱](#) & 编码：[NCSIMON](https://github.com/NCSIMON)

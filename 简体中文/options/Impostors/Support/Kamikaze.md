@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 神风特工队
 prev: 教父
 next: 化形者

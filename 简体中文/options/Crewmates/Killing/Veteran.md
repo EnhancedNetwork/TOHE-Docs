@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 老兵
 prev: 警长
 next: 义务警员

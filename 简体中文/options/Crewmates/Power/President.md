@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 总统
 prev: 预言家
 next: 换票师
@@ -17,20 +17,20 @@ next: 换票师
   - 设置游戏中总统的最大数量
 - 最大使用能力次数
   - 设置总统的能力次数
-- President can be guessed after revealing
-  - <font color=green>ON</font>: Players can guess the President after they have revealed
-  - <font color=red>OFF</font>: Players cannot guess the President after they have revealed
-- Neutrals can see revealed President
-  - <font color=green>ON</font>: Neutrals can see the revealed President
-  - <font color=red>OFF</font>: Neutrals cannot see the revealed President
-- Madmates can see revealed President
-  - <font color=green>ON</font>: Madmates can see the revealed President
-  - <font color=red>OFF</font>: Madmates cannot see the revealed President
-- Impostors can see revealed President
-  - <font color=green>ON</font>: Impostors can see the revealed President
-  - <font color=red>OFF</font>: Impostors cannot see the revealed President
-- Hide President's Commands
-  - <font color=green>ON</font>: The mod will hide commands President's commands
-  - <font color=red>OFF</font>: The mod will not hide commands President's commands
+- 总统透露后可以猜测
+  - <font color=green>开</font>:玩家可以猜测透露后的总统
+  - <font color=red>关</font>:玩家不可以猜测透露后的总统
+- 中立可以看到揭示的总统
+  - <font color=green>ON</font>：中立可以看到揭示的总统
+  - <font color=red>关闭</font>：中立无法看到被揭示的总统
+- 叛徒可以看到揭示的总统
+  - <font color=green>开</font>：叛徒可以看到揭示的总统
+  - <font color=red>关</font>：叛徒无法看到揭示的总统
+- 骗子可以看到揭示的总统
+  - <font color=green>在</font>上 : 内鬼可以看到揭示的总统
+  - <font color=red>关</font>：内鬼无法看到揭示的总统
+- 隐藏总统的命令
+  - <font color=green>ON</font>：该模块将隐藏总统的指令
+  - <font color=red>关</font>: 模组将不会混淆总统的指令
 
-> From: SLE & Coding: [SolarFlare](#)
+> 来自: SLE & 编码: [SolarFlare](#)

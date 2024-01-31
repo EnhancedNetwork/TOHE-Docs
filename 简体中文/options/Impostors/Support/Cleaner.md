@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 清理工
 prev: 隐蔽者
 next: 军师

@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 秃鹫
 prev: 马里奥
 next: 工作狂
@@ -16,12 +16,12 @@ next: 工作狂
 - 最大数量
   - 设置游戏中秃鹫的最大数量
 - 箭头指向尸体
-  - <font color=green>开</font>秃鹫：秃鹫会收到指向尸体的箭头（就像验师一样）
-  - <font color=red>关</font>注意：秃鹫不会收到任何箭头
+  - <font color=green>开</font>：秃鹫会收到指向尸体的箭头（就像入殓师一样）
+  - <font color=red>关</font>：秃鹫不会收到任何箭头
 - 获胜所需的尸体
   - 设置秃鹫获胜需要吃掉的尸体数量
 - 是否可以使用通风口
   - <font color=green>开</font>：秃鹫具有使用通风口的能力
   - <font color=red>关</font>：秃鹫不能使用通风口
 
-> 想法:TheOtherRoles编程:[ryuk](#)
+> 来自:TheOtherRoles 编码:[ryuk](#)

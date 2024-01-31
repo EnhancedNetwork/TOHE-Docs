@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 小丑
 prev: 无辜者
 next: 受虐狂
@@ -15,10 +15,10 @@ next: 受虐狂
   - 设置游戏中小丑的最大数量
 - 是否可以召开紧急会议
   - <font color=green>开启</font>：此角色可以像正常一样召开会议
-  - <font color=red>关闭</font>：此角色不能召开紧急会议
+  - <font color=red>关</font>：此职业不能召开紧急会议
 - 是否能使用通风管道
   - <font color=green>开启</font>：此角色能够使用通风口
-  - <font color=red>关闭</font>：此角色不能使用通风口
+  - <font color=red>关</font>：此职业不能使用通风口
 - - 是否拥有内鬼视野
   - <font color=green>开启</font>：小丑和内鬼有着相同的视野
   - <font color=red>关</font>：小丑只有默认视野

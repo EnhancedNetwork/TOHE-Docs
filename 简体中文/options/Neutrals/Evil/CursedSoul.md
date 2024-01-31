@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 被诅咒的灵魂
 prev: /options/settings/Neutrals.html
 next: 末日赌怪

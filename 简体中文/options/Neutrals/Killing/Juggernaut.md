@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 天启
 prev: 扫把星
 next: 美杜莎
@@ -9,20 +9,20 @@ next: 美杜莎
 
 ***
 
-作为天启, 你的击杀每次击杀都会减少你的冷却时间。<br><br>
-杀死每一个人以获胜。
+作为天启, 你的每次击杀都会减少你的冷却时间。<br><br>
+击杀所有人以获胜。
 
-- 默认杀戮冷却时间
-  - 设置天启的原始杀戮冷却时间
+- 默认击杀冷却时间
+  - 设置天启的原始击杀冷却时间
 - 减少击杀冷却时间
-  - 设定每次击杀的 天启 杀死船员减少多少冷却时间
-- 最小杀戮冷却时间
-  - 设置天启杀戮冷却时间的最低值
+  - 设定天启每次击杀船员会减少多少击杀冷却时间
+- 最小击杀冷却时间
+  - 设置天启击杀冷却时间的最低值
 - 有<font color=red>内鬼</font>视野
-  - <font color=green>开启</font>：天启和内鬼有着相同的视野
+  - <font color=green>开</font>：天启和内鬼有着相同的视野
   - <font color=red>关</font>：天启只有默认视野
-- 可不可以钻管
+- 是否能使用通风口
   - <font color=green>开</font>：天启可以使用通风口
-  - <font color=red>关</font>天启无法使用通风口
+  - <font color=red>关</font>：天启无法使用通风口
 
-> 来自:Town of Salem II & 编码: [Loonie Toons](https://github.com/Loonie-Toons)
+> 来自:Town of Us Reactivated & 编码: [Loonie Toons](https://github.com/Loonie-Toons)

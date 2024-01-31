@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 起诉人
 prev: 小精灵
 next: 浪漫者

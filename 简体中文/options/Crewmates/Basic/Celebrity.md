@@ -1,23 +1,23 @@
 ---
-lang: zh-CN
-title: Celebrity
-prev: Alchemist
-next: Cleanser
+lang: 简体中文
+title: 网红
+prev: 炼金术士
+next: 清洗者
 ---
 
-# <font color="#ee4a55">🎥 <b>Celebrity</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
+# <font color="#ee4a55">🎥 <b>网红</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
 
 ***
 
-All <font color=#8cffff>Crewmates</font> see the Kill-Flash when Celebrity dies. And get an Alert in the next Meeting. The <font color=red>Impostors</font> (and <font color=#7f8c8d>Neutrals</font> depending on Settings) don’t know anything about this.
+当网红死亡时，所有<font color=#8cffff>船员</font>都能看到反应堆被破坏了一下的画面 在网红死亡之后的第一次会议中所有船员收到提醒。 <font color=red>内鬼</font> （和 <font color=#7f8c8d>中立</font> 根据房主设置而定）对此一无所知。
 
 - 最大数量
-  - 设置游戏中"职业名自己填"的最大数量
-- <font color=red>Impostors</font> know when the Celebrity dies
-  - <font color=green>ON</font>: <font color=red>Impostors</font> can see the kill flash of when the Celebrity dies
-  - <font color=red>OFF</font>: <font color=red>Impostors</font> cannot tell when a Celebrity gets killed
-- <font color=#7f8c8d>Neutrals</font> know when the Celebrity dies
-  - <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can see the kill flash of when the Celebrity dies
-  - <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot tell when a Celebrity gets killed.
+  - 设置游戏中网红的最大数量
+- <font color=red>内鬼</font>知道网红死亡
+  - <font color=green>开</font>：<font color=red>内鬼</font>能看到网红的死亡提示
+  - <font color=red>关</font>：<font color=red>内鬼</font>不知道网红的死亡
+- <font color=#7f8c8d>中立</font>知道网红死亡
+  - <font color=green>开</font>：<font color=#7f8c8d>中立</font>能看到网红的死亡提示
+  - <font color=red>关</font>：<font color=#7f8c8d>中立</font>不知道网红的死亡
 
-> From: Goose Goose Duck & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自：鹅鸭杀 & 编码: [咔皮呆](https://github.com/KARPED1EM)

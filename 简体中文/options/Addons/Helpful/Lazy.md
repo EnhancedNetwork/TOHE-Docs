@@ -1,26 +1,26 @@
 ---
-lang: zh-CN
-title: Lazy
-prev: Flash
-next: Loyal
+lang: 简体中文
+title: 懒人
+prev: 闪电侠
+next: 忠诚
 ---
 
-# <font color=#a4dffe>🛋️ <b>Lazy</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
+# <font color=#a4dffe>🛋️ <b>懒人</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 
 ***
 
-As the Lazy, you are assigned a single short task and are immune to Warlocks, Puppeteers, and Gangsters.<br>
-The Witch can still control you.
+作为懒人，你被分配一个简短的任务，并且免疫术士、傀儡师和歹徒。<br>
+女巫仍然可以控制你。
 
 - 最大数量
-  - 设置游戏中"职业名自己填"的最大数量
-- Spawn Chance
-  - Set the percentage players have of getting Lazy
-- <font color=#8cffff>Crewmates</font> without tasks can be Lazy
-  - <font color=green>ON</font>: All <font color=#8cffff>Crewmates</font> can receive Lazy
-  - <font color=red>OFF</font>: Only <font color=#8cffff>Crewmates</font> with tasks can receive Lazy
-- Task based <font color=#8cffff>Crewmates</font> can be Lazy
-  - <font color=green>ON</font>: <font color=#8cffff>Crewmate</font> based roles with tasks can receive Lazy
-  - <font color=red>OFF</font>: <font color=#8cffff>Crewmate</font> based roles with tasks cannot receive Lazy
+  - 设置游戏中懒人的最大数量
+- 出现概率
+  - 设置懒人的出现概率
+- 无任务的<font color=#8cffff>船员</font>可以成为懒人
+  - <font color=green>开</font>：所有<font color=#8cffff>船员</font>可以成为懒人
+  - <font color=red>关</font>：只有<font color=#8cffff>船员</font>且有任务的可以成为懒人
+- 基于任务的<font color=#8cffff>船员阵营</font>可能成为懒人
+  - <font color=green>开</font>：<font color=#8cffff>船员</font> 基于任务的职业可以成为懒人
+  - <font color=red>关</font>： <font color=#8cffff>船员</font> 基于任务的职业不可以成为懒人
 
-> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 想法 & 编码：[咔皮呆](https://github.com/KARPED1EM)

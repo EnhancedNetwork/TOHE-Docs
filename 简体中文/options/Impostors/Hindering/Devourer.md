@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 吞噬者
 prev: 眩晕者
 next: 设陷者
@@ -22,7 +22,7 @@ next: 设陷者
 - 吞噬冷却
   - 设置吞噬者需要等待多久才能再次吞噬
 - 隐藏已吞噬玩家的姓名
-  - <font color=green>启用</font>：被吞噬的玩家的名字将不会在游戏中显示
-  - <font color=red>关闭</font>：被吞噬的玩家的名字将在游戏中显示
+  - <font color=green>开</font>：被吞噬的玩家的名字将不会在游戏中显示
+  - <font color=red>关</font>：被吞噬的玩家的名字将在游戏中显示
 
 > 来自：想法&编码：[papercut](https://github.com/lars-wu)

@@ -1,5 +1,5 @@
 ---
-link: zh-CN
+link: 简体中文
 title: 埋雷兵
 prev: /options/Settings/Crewmates.html
 next: 保镖

@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 病毒
 prev: 背叛者
 next: 月下狼人

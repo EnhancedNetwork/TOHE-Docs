@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 复仇浪漫者
 prev: 无情浪漫者
 next: 萨满

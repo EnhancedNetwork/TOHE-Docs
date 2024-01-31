@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 狙击手
 prev: 破坏者
 next: 女巫

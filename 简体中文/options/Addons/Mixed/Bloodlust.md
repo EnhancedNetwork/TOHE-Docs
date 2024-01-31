@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 嗜血者
 prev: 意识者
 next: 患病

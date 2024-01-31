@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 赌怪
 prev: 墓碑
 next: 回弹
@@ -17,16 +17,16 @@ next: 回弹
 - 最大人数
   - 设置游戏中赌怪的最大数量
 - 出现概率
-  - 设置玩家成为赌怪的概率
-- <font color=red>内鬼</font>阵营可以成为赌怪
-  - <font color=green>开</font>：<font color=red>内鬼</font>阵营可以成为该附加职业
-  - <font color=red>关</font>：<font color=red>内鬼</font>阵营不能成为该附加职业
-- <font color=#8cffff>船员</font>阵营可以成为赌怪
-  - <font color=green>开</font>：<font color=#8cffff>船员</font>阵营可以成为该附加职业
-  - <font color=red>关</font>：<font color=#8cffff>船员</font>阵营不能成为该附加职业
+  - 设置赌怪的出现概率
+- <font color=red>内鬼阵营</font>可以成为赌怪
+  - <font color=green>开</font>：<font color=red>内鬼阵营</font>可以成为这个附加职业
+  - <font color=red>关</font>：<font color=red>内鬼阵营</font>不可以成为这个附加职业
+- <font color=#8cffff>船员阵营</font>可以成为赌怪
+  - <font color=green>开</font>：<font color=#8cffff>船员阵营</font>可以成为这个附加职业
+  - <font color=red>关</font>：<font color=#8cffff>船员阵营</font>不可以成为这个附加职业
 - <font color=#7f8c8d>中立阵营</font>可以成为赌怪
-  - <font color=green>开</font>：<font color=#7f8c8d>中立</font>阵营可以成为该附加职业
-  - <font color=red>关</font>：<font color=#7f8c8d>中立</font>阵营不能成为该附加职业
+  - <font color=green>开</font>：<font color=#7f8c8d>中立阵营</font>可以成为这个附加职业
+  - <font color=red>关</font>：<font color=#7f8c8d>中立阵营</font>不可以成为这个附加职业
 - 可以猜测附加职业
   - 如果为开，任何附加职业都能被猜测
   - <font color=red>关</font>：任何人都可以毫无顾虑地说出附加职业，不用担心被猜到

@@ -1,5 +1,5 @@
 ---
-link: zh-CN
+link: 简体中文
 title: 保镖
 prev: 埋雷兵
 next: 十字军

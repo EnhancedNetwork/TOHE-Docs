@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 蚀时者
 prev: 复仇者
 next: 卫道士
@@ -21,6 +21,6 @@ next: 卫道士
   - 将投票时间设置为最低
 - 死亡时归还被偷走的时间
   - <font color=green>开启</font>: 会议时间将在蚀时者死亡后恢复正常
-  - <font color=red>关闭</font>: 会议时间将持续降低
+  - <font color=red>关</font>: 会议时间将保持降低
 
 > 来源于：TOH

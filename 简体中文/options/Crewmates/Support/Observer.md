@@ -1,17 +1,17 @@
 ---
-lang: zh-CN
-title: Observer
-prev: Mortician
-next: Oracle
+lang: 简体中文
+title: 观察者
+prev: 入殓师
+next: 预言家
 ---
 
-# <font color="#a8e0fa">🔭 <b>Observer</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#a8e0fa">🔭 <b>观察者</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-The Observer can see all shield animations caused by other players after the first meeting.
+在第一次会议后，观察者可以看到其他玩家引起的所有护盾动画。
 
 - 最大数量
-  - 设置游戏中"职业名自己填"的最大数量
+  - 设置游戏中观察者的最大数量
 
-> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 想法 & 编码：[咔皮呆](https://github.com/KARPED1EM)

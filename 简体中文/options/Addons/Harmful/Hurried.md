@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 焦急者
 prev: 脆弱
 next: 影响者
@@ -16,14 +16,14 @@ next: 影响者
   - 设置游戏中焦急者的最大数量
 - 出现概率
   - 设置游戏中焦急者的出现概率
-- 叛徒在游戏开始时能成为焦急者
-  - <font color=green>开启</font>：叛徒在游戏开始时能成为焦急者
-  - <font color=red>关闭</font>：叛徒在游戏开始时不能成为焦急者
-- 基于任务的船员能够成为焦急者
-  - <font color=green>开启</font>：基于任务的船员可以成为焦急者（通过完成任务来激活技能的船员）
-  - <font color=red>关闭</font>：基于任务的船员不能成为焦急者（通过完成任务来激活技能的船员）
+- 叛徒在游戏开始时可以成为焦急者
+  - <font color=green>开</font>：叛徒在游戏开始时可以成为焦急者
+  - <font color=red>关</font>：叛徒在游戏开始时不可以成为焦急者
+- 基于任务的船员可以成为焦急者
+  - <font color=green>开</font>：基于任务的船员可以成为焦急者（通过完成任务来激活技能的船员）
+  - <font color=red>关</font>：基于任务的船员不可以成为焦急者（通过完成任务来激活技能的船员）
 - 焦急者能够在游戏内被招募（叛徒除外）
-  - <font color=green>开启</font>：焦急者可以被魅魔、豺狼、任何招募身份招募
-  - <font color=red>关闭</font>：焦急者不可以被魅魔、豺狼、任何招募角色招募
+  - <font color=green>开</font>：焦急者可以被魅魔、豺狼、任何招募职业招募
+  - <font color=red>关</font>：焦急者不可以被魅魔、豺狼、任何招募职业招募
 
 > 想法：[Pyro](#) & 编码：[NikoCat223](https://github.com/NikoCat233)

@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 女巫
 prev: 狙击手
 next: 诡雷

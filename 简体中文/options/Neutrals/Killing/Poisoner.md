@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 投毒者
 prev: 瘟疫使者
 next: 药剂师
@@ -9,15 +9,15 @@ next: 药剂师
 
 ***
 
-作为投毒者，你的杀人行动会有延迟。<br>
-杀死所有人获胜。
+作为投毒者，你的击杀会有延迟。<br>
+击杀所有人获胜。
 
-- 毒药冷却
-  - 设置投毒者需要多久才可以下毒
+- 投毒冷却
+  - 设置投毒者投毒的冷却
 - 毒杀延迟
   - 设置中毒目标死亡所需的时间
-- 可不可以使用通风管道
-  - <font color=green>开</font>投毒者有权限进入通风管道
-  - <font color=red>关闭</font>投毒者没有权限进入通风管道
+- 是否能使用通风口
+  - <font color=green>开</font>投毒者可以使用通风口
+  - <font color=red>关</font>投毒者不能使用通风口
 
-> 来自:Town of Salem II & 编码: [Loonie Toons](https://github.com/Loonie-Toons)
+> 来自:Town of Us Reactivated & 编码: [Loonie Toons](https://github.com/Loonie-Toons)

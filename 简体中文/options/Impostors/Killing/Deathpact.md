@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 死亡契约
 prev: 诅咒之狼
 next: 邪恶的赌怪
@@ -23,17 +23,17 @@ next: 邪恶的赌怪
   - 设置要标记的玩家数量，这些玩家应在定义的时间段内会面
 - 在死亡契约中显示指向其他玩家的箭头
   - <font color=green>开启</font>：死亡契约将看到指向死亡契约中其他玩家的箭头。
-  - <font color=red>关闭</font>：死亡契约不会看到指向死亡契约中其他玩家的箭头。
+  - <font color=red>关</font>：死亡契约不会看到指向死亡契约中其他玩家的箭头。
 - 降低死亡契约中玩家的视野
   - <font color=green>开启</font>：死亡契约将降低他们的视野。
     - 死亡契约中的玩家视野
       - 当契约激活时，为死亡契约中的玩家设置视野
-  - <font color=red>关闭</font>：死亡契约不会降低他们的视野
+  - <font color=red>关</font>：死亡契约不会降低他们的视野
 - 在会议上杀死死亡契约中的玩家
   - <font color=green>上</font>：死亡契约将杀死死亡契约中的玩家，如果他们没有及时见面。
-  - <font color=red>关闭</font>：如果死亡契约中的玩家没有及时相遇，死亡契约将不会杀死他们。
+  - <font color=red>关</font>：如果死亡契约中的玩家没有及时相遇，死亡契约将不会杀死他们。
 - 死亡契约激活的玩家可以召集会议
   - <font color=green>ON</font>：死亡契约中的玩家可以召集会议。
-  - <font color=red>关闭</font>：死亡契约中的玩家不能召集会议
+  - <font color=red>关</font>：死亡契约中的玩家不能召集会议
 
 > 来自：创意与编码：剪纸]（https：//github.com/lars-wu）

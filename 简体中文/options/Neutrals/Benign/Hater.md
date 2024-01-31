@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: FFF团
 prev: 赌徒
 next: 效仿者
@@ -26,6 +26,6 @@ FFF团没有击杀冷却。 但是你只能击杀恋人和可以招募人的职�
     - 感染者
     - 传染性
     - 仰慕者
-  - <font color=red>关闭</font>：不能选择FFF团可击杀职业
+  - <font color=red>关</font>：不能选择FFF团可击杀职业
 
 > 想法：[thewhiskas27] & 编码：[NikoCat233](https://github.com/NikoCat233) (原来自：SNR & 编码：[咔皮呆](https://github.com/KARPED1EM))

@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 煽动者
 prev: ""
 next: 纵火犯

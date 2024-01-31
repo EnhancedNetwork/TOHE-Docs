@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 嗜血骑士
 prev: 强盗
 next: 缺点者

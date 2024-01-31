@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 设陷者
 prev: 吞噬者
 next: 龙卷风

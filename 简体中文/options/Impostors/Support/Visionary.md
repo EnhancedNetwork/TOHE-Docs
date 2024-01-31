@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 幻想家
 prev: 卫道士
 next: /options/设置/船员.html

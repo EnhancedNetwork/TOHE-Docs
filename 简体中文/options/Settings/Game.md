@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 游戏设置
 prev: 系统
 next: 修改器
@@ -136,12 +136,12 @@ next: 修改器
     - 禁用瞭望台配电箱(飞艇地图)
       - <font color=green>开</font>：观景台灯光面板将被禁用
       - <font color=red>关</font>：观景台灯光面板将不会被禁用
-    - 禁用升降机配电箱
-      - <font color=green>ON</font>: the Gap Room Lights Panel will be disabled
-      - <font color=red>OFF</font>: the Gap Room Lights Panel will be enabled
-    - Disable Cargo Lights Panel
-      - <font color=green>ON</font>: the Cargo Lights Panel will be disabled
-      - <font color=red>OFF</font>: the Cargo Lights Panel will be enabled
+    - 禁用间隙室照明面板（飞艇）
+      - <font color=green>开</font>：间隙室间照明面板将被禁用
+      - <font color=red>关</font>： 启用间隙室照明面板
+    - 禁用货物照明面板
+      - <font color=green>开</font>：货物照明面板将被禁用
+      - <font color=red>关</font>：货物照明面板将被启用
 
 ### <font size=4em color=#ff9999>禁用</font>
 
@@ -332,139 +332,139 @@ next: 修改器
   - <font color=red>关</font>：当只有2名玩家存活时，通风管道不会被禁用
 
 - 防止击杀冷却时间结束的玩家使用通风口
-  - <font color=green>ON</font>: Players who have 0 Cooldown will not be able to vent
-  - <font color=red>OFF</font>: Players who have 0 Cooldown will still be able to vent
+  - <font color=green>开</font>：击杀冷却完毕的玩家将无法使用通风管道
+  - <font color=red>关</font>：击杀冷却完毕的玩家仍然可使用通风管道
 
-- Enable Random Events
-  - <font color=green>ON</font>: Random Events may occur
-  - <font color=red>OFF</font>: Random Events will not occur
+- 启用随机事件
+  - <font color=green>开</font>: 可能发生随机事件
+  - <font color=red>关</font>：不会发生随机事件
 
-- Shield Duration
-  - Set how long Shields will last
+- 盾牌持续时间
+  - 设置护盾保护持续多长时间
 
-- Increased Speed
-  - Set how fast Increased Speed makes players
+- 增加玩家速度
+  - 增加所有玩家的速度
 
-- Decreased Speed
-  - Set how slow Decreased Speed makes players
+- 降低玩家速度
+  - 降低所有玩家的速度
 
-- Modified Speed Duration
-  - Set how long Speed modifications will last
+- 修改速度持续时间
+  - 设置速度修改的持续时间
 
-- Lowered Vision
-  - Set how low the Vision will be
+- 降低视野
+  - 设置视野的最低范围
 
-- Lowered Vision Duration
-  - Set how long Lowered Vision will last
+- 降低视野持续时间
+  - 设置持续时间较长的降低视野
 
-- Enable Random Swaps from time to time
-  - <font color=green>ON</font>: Random Swaps may occur
-  - <font color=red>OFF</font>: Random Swaps will not occur
+- 启用随机交换
+  - <font color=green>ON</font>: 可能发生随机交换
+  - <font color=red>关</font>：不会发生随机交换
 
-- Shields break after 1 kill attempt
-  - <font color=green>ON</font>: Shields will break after 1 kill attempt
-  - <font color=red>OFF</font>: Shields will not break after 1 kill attempt
+- 盾牌在一次击杀后破掉
+  - <font color=green>ON</font>：在1次击杀尝试后，护盾将会破裂
+  - <font color=red>关</font>：盾牌将在1次击杀尝试后不会破裂
 
-- Random Maps Mode
-  - <font color=green>ON</font>: Map will be chosen randomly
-    - Chance that the map is
-      - The Skeld - Set the chance that the map will be The Skeld
-      - MIRA HQ - Set the chance that the map will be MIRA HQ
-      - Polus - Set the chance that the map will be Polus
-      - dlekS ehT  - Set the chance that the map will be dlekS ehT
-      - Airship - Set the chance that the map will be Airship
-      - The Fungle - Set the chance that the map will be The Fungle
-      - Use a more random map selection
-        - <font color=green>ON</font>: Maps will be selected even more randomly
-        - <font color=red>OFF</font>: Maps will not be selected even more randomly
+- 随机地图模式
+  - <font color=green>ON</font>: 地图将会随机选择
+    - 选择地图为
+      - The Skeld - 设置地图为The Skeld
+      - MIRA HQ - 设置地图为MIRA HQ
+      - Polus - 设置地图为Polus
+      - dlekS ehT - 设置地图为dlekS ehT
+      - 飞艇 - 设置地图为飞艇
+      - The Fungle - 设置地图为The Fungle
+      - 使用更随机的地图选择
+        - <font color=green>ON</font>: 地图选择将更加随机
+        - <font color=red>关</font>：地图将不再被更加随机地选择
 
-- Map Modifications
-  - <font color=green>ON</font>: Mess with Map modifiers to change how you can play on maps
-  - <font color=red>OFF</font>: Map modifiers will not be implemented and will work as Vanilla intended
-    - Variable Electrical (<font color=red>Airship</font>)
-      - The Electrical room will be randomized.
-    - Disable Moving Platform (<font color=red>Airship</font>)
-      - <font color=green>ON</font>: Moving platform will be disabled
-      - <font color=red>OFF</font>: Moving platform will be enabled
-    - Disable Spore Trigger (<font color=#ffa646>Fungle</font>)
-      - <font color=green>ON</font>: Spore Trigger will be disabled
-      - <font color=red>OFF</font>: Spore Trigger will be enabled
-    - Disable Zipline (<font color=#ffa646>Fungle</font>)
-      - <font color=green>ON</font>: Zipline will be disabled
-        - Disable Use From Top
-          - <font color=green>ON</font>: Zipline will be disabled from the top
-          - <font color=red>OFF</font>: Zipline will not be disabled from the top
-        - Disable Use From Bottom
-          - <font color=green>ON</font>: Zipline will be disabled from the bottom
-          - <font color=red>OFF</font>: Zipline will not be disabled from the bottom
-      - <font color=red>OFF</font>: Zipline will be enabled
+- 修改地图玩法
+  - <font color=green>ON</font>: 通过更改地图修饰符来改变您在地图上的游戏方式
+  - <font color=red>关</font>：地图修饰符将不会被使用，并将按照原版的玩法
+    - 可变电气（<font color=red>飞艇</font>）
+      - 配电室的门将随机开关
+    - 禁用移动平台（<font color=red>飞船</font>）
+      - <font color=green>开启</font>：移动平台将被禁用
+      - <font color=red>关</font>：将启用移动平台
+    - 禁用孢子触发器（<font color=#ffa646>真菌</font>）
+      - <font color=green>ON</font>：孢子触发器将被禁用
+      - <font color=red>关</font>：孢子触发器将被启用
+    - 禁用滑索（<font color=#ffa646>Fungle</font>）
+      - <font color=green>ON</font>：Zipline将被禁用
+        - 禁用从顶部使用
+          - <font color=green>ON</font>: Zipline将从顶部禁用
+          - <font color=red>关</font>：滑索下去不会被禁用
+        - 禁用从底部使用
+          - <font color=green>ON</font>：Zipline将从底部禁用
+          - <font color=red>关</font>：滑索上去不会被禁用
+      - <font color=red>关</font>：将启用滑索
 
-- Disable Devices
-  - <font color=green>ON</font>: Devices will be disabled
-    - Disable Skeld Devices
-      - <font color=green>ON</font>: Skeld Devices will be disabled
-        - Disable Admin
-          - <font color=green>ON</font>: Admin will be disabled
-          - <font color=red>OFF</font>: Admin will be enabled
-        - Disable Cameras
-          - <font color=green>ON</font>: Cameras will be disabled
-          - <font color=red>OFF</font>: Cameras will be enabled
-      - <font color=red>OFF</font>: Skeld Devices will be enabled
-    - Disable MiraHQ Devices
-      - <font color=green>ON</font>: MiraHQ Devices will be disabled
-        - Disable Admin
-          - <font color=green>ON</font>: Admin will be disabled
-          - <font color=red>OFF</font>: Admin will be enabled
-        - Disable DoorLog
-          - <font color=green>ON</font>: DoorLog will be disabled
-          - <font color=red>OFF</font>: DoorLog will be enabled
-      - <font color=red>OFF</font>: MiraHQ Devices will be enabled
-    - Disable Polus Devices
-      - <font color=green>ON</font>: Polus Devices will be disabled
-        - Disable Admin
-          - <font color=green>ON</font>: Admin will be disabled
-          - <font color=red>OFF</font>: Admin will be enabled
-        - Disable Cameras
-          - <font color=green>ON</font>: Cameras will be disabled
-          - <font color=red>OFF</font>: Cameras will be enabled
-        - Disable Vitals
-          - <font color=green>ON</font>: Vitals will be disabled
-          - <font color=red>OFF</font>: Vitals will be enabled
-      - <font color=red>OFF</font>: Polus Devices will be enabled
-    - Disable Airship Devices
-      - <font color=green>ON</font>: Airship Devices will be disabled
-        - Disable Cockpit Admin
-          - <font color=green>ON</font>: Cockpit Admin will be disabled
-          - <font color=red>OFF</font>: Cockpit Admin will be enabled
-        - Disable Records Admin
-          - <font color=green>ON</font>: Records Admin will be disabled
-          - <font color=red>OFF</font>: Records Admin will be enabled
-        - Disable Cameras
-          - <font color=green>ON</font>: Cameras will be disabled
-          - <font color=red>OFF</font>: Cameras will be enabled
-        - Disable Vitals
-          - <font color=green>ON</font>: Vitals will be disabled
-          - <font color=red>OFF</font>: Vitals will be enabled
-      - <font color=red>OFF</font>: Airship Devices will be enabled
-    - Disable Fungle Devices
-      - <font color=green>ON</font>: Fungle Devices will be disabled
-        - Disable Binoculars (Will Not Work for Vanilla)
-          - <font color=green>ON</font>: Binoculars will be disabled
-          - <font color=red>OFF</font>: Binoculars will be enabled
-        - Disable Vitals
-          - <font color=green>ON</font>: Vitals will be disabled
-          - <font color=red>OFF</font>: Vitals will be enabled
-      - <font color=red>OFF</font>: Fungle Devices will be enabled
-  - Ignore Conditions
-    - Ignore <font color=red>Impostors</font>
-      - <font color=green>ON</font>: <font color=red>Impostors</font> conditions will be ignored
-      - <font color=red>OFF</font>: <font color=red>Impostors</font> conditions will not be ignored
-    - Ignore <font color=#7f8c8d>Neutrals</font>
-      - <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> conditions will be ignored
-      - <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> conditions will not be ignored
-    - Ignore <font color=#8cffff>Crewmates</font>
-      - <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> conditions will be ignored
-      - <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> conditions will not be ignored
-    - Ignore after First Death
-      - <font color=green>ON</font>: Conditions will be ignored after the first death
-      - <font color=red>OFF</font>: Conditions will not be ignored after the first death
+- 禁用设备
+  - <font color=green>开启</font>：设备将被禁用
+    - 禁用Skeld设备
+      - <font color=green>开启</font>：Skeld设备将被禁用
+        - 禁用管理员
+          - <font color=green>在</font>上：管理员将被禁用
+          - <font color=red>关</font>：管理员将被启用
+        - 禁用监控
+          - <font color=green>ON</font>: 摄像头将被禁用
+          - <font color=red>关</font>: 摄像头将被启用
+      - <font color=red>关</font>：Skeld设备将被启用
+    - 禁用MiraHQ设备
+      - <font color=green>ON</font>：MiraHQ设备将被禁用
+        - 禁用管理员
+          - <font color=green>ON</font>: 管理员将被禁用
+          - <font color=red>关</font>: 管理员将被启用
+        - 禁用关门
+          - <font color=green>在</font>: DoorLog 将被禁用
+          - <font color=red>关</font>：DoorLog 将被启用
+      - <font color=red>关</font>：MiraHQ 设备将被启用
+    - 禁用Polus设备
+      - <font color=green>在</font>: Polus 设备将被禁用
+        - 禁用管理员
+          - <font color=green>在</font>：管理员将被禁用
+          - <font color=red>关</font>：管理员将被启用
+        - 禁用监控
+          - <font color=green>开启</font>：相机将被禁用
+          - <font color=red>关</font>：摄像头将被启用
+        - 禁用真菌丛林生命监测装置
+          - <font color=green>开</font>：生命指标将被禁用
+          - <font color=red>关</font>：生命体征将被启用
+      - <font color=red>关</font>：Polus设备将被启用
+    - 禁用Airship设备
+      - <font color=green>ON</font>：飞艇设备将被禁用
+        - 禁用驾驶舱管理员
+          - <font color=green>ON</font>: Cockpit Admin 将被禁用
+          - <font color=red>关</font>：将启用Cockpit管理员
+        - 禁用记录管理员
+          - <font color=green>在</font>上：记录管理员将被禁用
+          - <font color=red>关</font>：管理室定位将被启用
+        - 禁用监控
+          - <font color=green>ON</font>: 摄像头将被禁用
+          - <font color=red>关</font>：摄像头将被启用
+        - 禁用真菌丛林生命监测装置
+          - <font color=green>ON</font>: 体征将被禁用
+          - <font color=red>关</font>：生命体征将被启用
+      - <font color=red>关</font>：将启用飞船设备
+    - 禁用Fungle设备
+      - <font color=green>ON</font>：Fungle设备将被禁用
+        - 禁用双筒望远镜（对原版无效）
+          - <font color=green>ON</font>：望远镜将被禁用
+          - <font color=red>关</font>：双筒望远镜将被启用
+        - 禁用真菌丛林生命监测装置
+          - <font color=green>在</font>上：生命指标将被禁用
+          - <font color=red>关</font>：生命体征将被启用
+      - <font color=red>关</font>：将启用 Fungle 设备
+  - 白名单
+    - 忽略<font color=red>内鬼阵营</font>
+      - <font color=green>开</font>: <font color=red>内鬼</font> 将不会受影响
+      - <font color=red>关</font>： <font color=red>内鬼</font> 的条件将不会被忽略
+    - 忽略<font color=#7f8c8d>中立阵营</font>
+      - <font color=green>开启</font>： <font color=#7f8c8d>中立阵营</font> 将会被忽略
+      - <font color=red>关</font>: <font color=#7f8c8d>中立</font> 条件将不会被忽略
+    - 忽略<font color=#8cffff>船员阵营</font>
+      - <font color=green>开</font>： <font color=#8cffff>船员阵营</font> 将会受影响
+      - <font color=red>关</font>: <font color=#8cffff>船员阵营</font> 条件将不会被忽略
+    - 忽略幽灵阵营
+      - <font color=green>ON</font>：第一次死亡后，条件将被忽略
+      - <font color=red>关</font>：第一次死亡后条件将不会被忽略

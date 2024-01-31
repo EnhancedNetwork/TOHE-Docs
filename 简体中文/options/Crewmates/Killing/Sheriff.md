@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 警长
 prev: 遐想者
 next: 老兵

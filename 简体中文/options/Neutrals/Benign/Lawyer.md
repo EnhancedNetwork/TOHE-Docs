@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 律师
 prev: 效仿者
 next: 独行者

@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 马里奥
 prev: 恐怖分子
 next: 秃鹫
@@ -18,4 +18,5 @@ next: 秃鹫
 - 通风口冷却
   - 设置马里奥需要等待多长时间才能使用通风口
 
-> 编码和想法: [KARPED1EM](https://github.com/KARPED1EM)
+> 创意和编码：咔皮呆
+> (https\://github.com/KARPED1EM)

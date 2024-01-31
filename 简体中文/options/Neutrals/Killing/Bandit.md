@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 强盗
 prev: 纵火犯
 next: 嗜血骑士

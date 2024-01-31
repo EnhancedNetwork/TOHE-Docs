@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 浪漫者
 prev: 起诉人
 next: 萨满

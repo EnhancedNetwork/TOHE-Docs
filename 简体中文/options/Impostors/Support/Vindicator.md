@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 卫道士
 prev: 蚀时者
 next: 幻想家

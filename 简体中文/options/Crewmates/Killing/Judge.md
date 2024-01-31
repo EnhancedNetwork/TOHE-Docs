@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 法官
 prev: 狱警
 next: 侠客
@@ -43,7 +43,7 @@ next: 侠客
   - <font color=red>关闭</font>：如果法官试图审判他们，法官将自杀
 - 带刀<font color=#8cffff>船员</font>
   - <font color=green>开启</font>：这个职业类型可以由法官试用
-  - <font color=red>关闭</font>：如果法官试图审判他们，法官将自杀
+  - <font color=red>关</font>：如果法官试图审判他们，法官将自杀
 - 友好<font color=#7f8c8d>中立</font>
   - <font color=green>开启</font>：这个职业类型可以由法官试用
   - <font color=red>关闭</font>：如果法官试图审判他们，法官将自杀

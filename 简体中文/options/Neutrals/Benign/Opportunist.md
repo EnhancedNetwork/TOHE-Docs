@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 投机者
 prev: 独行者
 next: 小精灵

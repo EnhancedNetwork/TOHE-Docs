@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 赝品商
 prev: 十字军
 next: 狱卒

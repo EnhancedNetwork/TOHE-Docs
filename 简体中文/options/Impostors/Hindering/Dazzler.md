@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 眩晕者
 prev: 骇客
 next: 吞噬者
@@ -23,6 +23,6 @@ next: 吞噬者
   - 设置可以受到眩晕者视野减少影响的最大玩家数量
 - 重置眩晕玩家死亡/驱逐时的视野
   - <font color=green>开启</font>：被眩晕的玩家在眩晕者死亡或是被驱逐时，他们的视野将恢复正常
-  - <font color=red>关闭</font>：被眩晕的玩家在迷惑者死亡或是被驱逐时，他们的视野不会变正常
+  - <font color=red>关</font>：被眩晕的玩家在眩晕者死亡或是被驱逐时，他们的视野不会变正常
 
 > 来自: 想法 & 编码: [papercut](https://github.com/lars-wu)

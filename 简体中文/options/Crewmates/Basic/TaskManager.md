@@ -1,17 +1,17 @@
 ---
-lang: zh-CN
-title: Task Manager
-prev: SuperStar
-next: Tracefinder
+lang: 简体中文
+title: 任务管理者
+prev: 大明星
+next: 寻迹者
 ---
 
-# <font color="#01ffa5">📝 <b>Task Manager</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
+# <font color="#6495ed">⏰ <b>时间管理者</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-You see the total number of tasks completed by everyone all together next to your role name, which updates in real time.
+您可以在您的职业名称旁边看到所有人完成的任务总数，该数字会实时更新。
 
 - 最大数量
-  - 设置游戏中"职业名自己填"的最大数量
+  - 设置游戏中任务管理者的最大数量
 
-> From: TOHY
+> 来自: TOHY

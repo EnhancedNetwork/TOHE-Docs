@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 巫婆
 prev: 任务执行者
 next: ""

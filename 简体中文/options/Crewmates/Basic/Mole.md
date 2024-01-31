@@ -1,8 +1,8 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 鼹鼠
 prev: 迷你船员
-next: 萧幕
+next: 萧暮
 ---
 
 # <font color="#2a1e1c">⛏️ <b>鼹鼠</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
@@ -17,4 +17,4 @@ next: 萧幕
 - 挖掘冷却时间
   - 设置鼹鼠必须等待多长时间才能使用他们的能力
 
-> 想法:[thewhiskas27]编码:[ryuk](https://github.com/ryuk2098)
+> 想法：[thewhiskas27] & 编码：[ryuk](https://github.com/ryuk2098)

@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 神秘者
 prev: 亡灵巫师
 next: 鹈鹕
@@ -18,8 +18,8 @@ next: 鹈鹕
   - 通风口
   - 双击
 - 诅咒看起来像咒语
-  - </font>开启\</0>：咒语将具有与咒语相同的图标
-  - <font color=red>关闭</font>：诅咒将有不同的图标
+  - </font>开\</0>：诅咒的图标将与咒语相同
+  - <font color=red>关</font>： 诅咒将有不同的图标
 
-> 职业来源：想法和编程：[Loonie Toons]
+> 来自：想法和编码：[Loonie Toons]
 > (https\://github.com/Loonie-Toons)

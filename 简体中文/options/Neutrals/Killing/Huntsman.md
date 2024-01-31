@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 猎人
 prev: 巫师
 next: 感染者

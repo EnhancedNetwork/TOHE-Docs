@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 扫把星
 prev: 豺狼
 next: 天启
@@ -9,18 +9,18 @@ next: 天启
 
 ***
 
-当有人试图杀死扫把星时，他们反而会自杀，因为他们是“倒霉的”了，杀光每个人都赢了
+每当扫把星受到攻击时，扫把星都会诅咒他们，导致他们死于厄运。由于他们被厄运击杀，所以每个人都能获胜。
 
 - 击杀冷却
   - 设置扫把星需要等待多久才能使用他们的能力
-- 可不可以钻管
-  - <font color=green>启用</font>：扫把星可以钻管
-  - <font color=red>关</font>扫把星无法使用通风口
+- 是否能使用通风口
+  - <font color=green>开</font>：扫把星可以使用通风口
+  - <font color=red>关</font>：扫把星无法使用通风口
 - 是否拥有<font color=red>内鬼</font>视野
-  - <font color=green>开启</font>：扫把星可以看见一名<font color=red>内鬼<1>一样远的地方
-  - <font color=red>关闭</font>: 扫把星将有<font color=#8cffff>船员<1>的视野
-- 倒霉咒语的数量
-  - 设置 扫把星 可以使用的 使别人倒霉 的次数
+  - <font color=green>开</font>: 扫把星可以拥有<font color=red>内鬼</font>视野
+  - <font color=red>关</font>: 扫把星将有<font color=#8cffff>船员</font>的视野
+- 诅咒的次数
+  - 设置扫把星可以诅咒别人的次数
 
-> 职业来源：想法和编程：[Loonie Toons]
+> 来自：想法和编码：[Loonie Toons]
 > (https\://github.com/Loonie-Toons)

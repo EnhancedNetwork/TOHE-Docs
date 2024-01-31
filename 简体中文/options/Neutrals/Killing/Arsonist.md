@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 纵火犯
 prev: 煽动者
 next: 强盗

@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 独行者
 prev: 律师
 next: 投机者

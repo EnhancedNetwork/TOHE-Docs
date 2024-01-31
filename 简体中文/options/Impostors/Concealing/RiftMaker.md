@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 裂谷制造者
 prev: 傀儡师
 next: 清道夫

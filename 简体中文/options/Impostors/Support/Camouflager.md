@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 隐蔽者
 prev: AntiAdminer
 next: 清洁工
@@ -18,10 +18,10 @@ next: 清洁工
 - 隐蔽持续时间
   - 设置隐蔽技能持续的时间
 - 可以使用通讯破坏功能
-  - <font color=green>开启</font>: 隐蔽者可以破坏通信
-  - <font color=red>关闭</font>: 隐蔽者不能破坏通信
+  - <font color=green>开</font>: 隐蔽者可以破坏通信
+  - <font color=red>关</font>: 隐蔽者不能破坏通信
 - 当隐蔽激活时，禁用尸体报告
-  - <font color=green>开启</font>: 当隐蔽者伪装时，玩家无法报告尸体
-  - <font color=red>关闭</font>: 玩家可以在隐蔽者伪装时报告尸体
+  - <font color=green>开</font>: 当隐蔽者伪装时，玩家无法报告尸体
+  - <font color=red>关</font>: 玩家可以在隐蔽者伪装时报告尸体
 
 > 来自: TheOther Roles

@@ -1,27 +1,27 @@
 ---
-lang: zh-CN
-title: Marshall
-prev: Lookout
-next: Mayor
+lang: 简体中文
+title: 展现者
+prev: 瞭望台
+next: 市长
 ---
 
-# <font color="#5573aa">🤴 <b>Marshall</b></font> <Badge text="Power" type="tip" vertical="middle"/>
+# <font color="#5573aa">🤴 <b>展现者</b></font> <Badge text="Power" type="tip" vertical="middle"/>
 
 ***
 
-If the Marshall completes all of their tasks, they will be revealed to the Crew. (Including Madmates/etc). Non-Crew teams will not be able to see the Marshall.
+如展现者完成了他们所有的任务，他们将被透露给船员。 （包括Madmates/等）。 非船员团队将无法看到展现者
 
 - 最大数量
-  - 设置游戏中"职业名自己填"的最大数量
-- Override Marshall’s Tasks
-  - <font color=green>ON</font>: the Marshall will not have the same tasks as everyone else
-    - Marshall has Common Tasks
-      - <font color=green>ON</font>: the Marshall will have to do Common Tasks like everyone else
-      - <font color=red>OFF</font>: the Marshall doesn’t receive Common Tasks
-    - Amount of Long Tasks for Marshall
-      - Set how many Long Tasks the Marshall has to do
-    - Amount of Short Tasks for Marshall
-      - Set how many Short Tasks the Marshall has to do
-  - <font color=red>OFF</font>: the Marshall will have the same tasks as everyone else
+  - 设置游戏中展现者的最大数量
+- 覆盖展现者的任务
+  - <font color=green>开启</font>：展现者将不会有与其他人相同的任务。
+    - 展现者有共同的任务
+      - <font color=green>开</font>：展现者将不会像其他人相同的任务。
+      - <font color=red>关</font>:展现者不会接收到常见任务
+    - 展现者的长任务量
+      - 设置展现者必须完成的长任务数量
+    - 展现者的短任务量
+      - 设置展现者必须完成的短任务数量
+  - <font color=red>关</font>：展现者的任务与其他人相同
 
-> From: TOH+
+> 来自:TOH+

@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 龙卷风
 prev: 设陷者
 next: ""

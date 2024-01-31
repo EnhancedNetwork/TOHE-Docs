@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 灵魂收集者
 prev: 革命家
 next: 恐怖分子

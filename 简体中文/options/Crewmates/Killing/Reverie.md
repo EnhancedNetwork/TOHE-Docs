@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 遐想者
 prev: 惩罚者
 next: 警长

@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 诡雷
 prev: 女巫
 next: 失败者
@@ -13,17 +13,17 @@ next: 失败者
 当有人试图报告你杀死的尸体时，他们会死。
 
 - 最大数量
-  - 设置游戏中"职业名自己填"的最大数量
+  - 设置游戏中诡雷的最大数量
 - 击杀冷却
   - 设置诡雷需要等待多长时间才能杀死玩家
 - 捕捉连续的尸体
   - <font color=green>ON</font>: 被陷阱师杀死的角色将会触发另一个陷阱，作用于报告他们的玩家身上。
-  - <font color=red>关闭</font>：被陷阱师杀死的角色不会触发报告它们的玩家的另一个陷阱。
+  - <font color=red>关</font>：被诡雷杀死的玩家不会触发报告它们的玩家的另一个陷阱。
 - 陷阱陷阱师的身体
   - <font color=green>ON</font>：Trapster的身体将被视为被Trapster杀死的身体
-  - <font color=red>关闭</font>：Trapster的身体不会被视为被Trapster杀死的身体
+  - <font color=red>关</font>：诡雷的尸体不会被视为被诡雷杀死的尸体
     - 捕捉连续的尸体
       - <font color=green>ON</font>: 被陷阱师杀死的角色将会触发另一个陷阱，作用于报告他们的玩家身上。
-      - <font color=red>关闭</font>：被陷阱师杀死的角色不会触发报告它们的玩家的另一个陷阱。
+      - <font color=red>关</font>：被诡雷杀死的角色不会触发报告它们的玩家的另一个陷阱。
 
 > 想法和编码: [KARPED1EM](https://github.com/KARPED1EM)

@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 探索者
 prev: 受虐狂
 next: /options/设置/船员.html

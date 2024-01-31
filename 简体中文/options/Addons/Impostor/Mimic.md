@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 宝箱怪
 prev: 梦魇
 next: 窃票者
@@ -14,9 +14,9 @@ next: 窃票者
 - 最大数量
   - 设置游戏中宝箱怪的最大数量。
 - 出现概率
-  - 设置宝箱怪出现概率
+  - 设置宝箱怪的出现概率
 - 宝箱怪可以看到死亡玩家的职业
   - <font color=green>开</font>：宝箱怪可以看到死亡玩家的职业
   - <font color=red>关</font>：宝箱怪不可以看到死亡玩家的职业
 
-> 想法和编码: [咔皮呆](https://github.com/KARPED1EM)
+> 想法 & 编码: [咔皮呆](https://github.com/KARPED1EM)

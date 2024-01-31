@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 小精灵
 prev: 投机者
 next: 起诉人

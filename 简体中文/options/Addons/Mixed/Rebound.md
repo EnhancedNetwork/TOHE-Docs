@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 回弹者
 prev: 赌怪
 next: 双重人格
@@ -15,15 +15,15 @@ next: 双重人格
 - 最大人数
   - 设置游戏中回弹者的最大数量
 - 出现概率
-  - 设置一局游戏中回弹者出现的概率
+  - 设置回弹者的出现概率
 - <font color=red>内鬼阵营</font>可以成为回弹者
-  - <font color=green>开</font>：<font color=red>内鬼阵营</font>可以成为这个附加身份
-  - <font color=red>关</font>：<font color=red>内鬼阵营</font>不能成为这个附加身份
+  - <font color=green>开</font>：<font color=red>内鬼阵营</font>可以成为这个附加职业
+  - <font color=red>关</font>：<font color=red>内鬼阵营</font>不可以成为这个附加职业
 - <font color=#8cffff>船员阵营</font>可以成为回弹者
-  - <font color=green>开</font>：<font color=#8cffff>船员阵营</font>可以成为这个附加身份
-  - <font color=red>关</font>：<font color=#8cffff>船员阵营</font>不能成为这个附加身份
+  - <font color=green>开</font>：<font color=#8cffff>船员阵营</font>可以成为这个附加职业
+  - <font color=red>关</font>：<font color=#8cffff>船员阵营</font>不可以成为这个附加职业
 - <font color=#7f8c8d>中立阵营</font>可以成为回弹者
-  - <font color=green>开</font>：<font color=#7f8c8d>中立阵营</font>可以成为这个附加身份
-  - <font color=red>关</font>：<font color=#7f8c8d>中立阵营</font>不能成为这个附加身份
+  - <font color=green>开</font>：<font color=#7f8c8d>中立阵营</font>可以成为这个附加职业
+  - <font color=red>关</font>：<font color=#7f8c8d>中立阵营</font>不可以成为这个附加职业
 
 > 来自：SLE [SolarFlare](#) & 编码：[ryuk](#)

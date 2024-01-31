@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 侠客
 prev: 法官
 next: 正义赌怪
@@ -16,7 +16,7 @@ next: 正义赌怪
 - 击杀冷却
   - 设置侠客的击杀冷却
 - 可以进入通风口
-  - <font color=green>启用</font>：可以钻管
-  - <font color=red>关闭</font>：不可以钻管
+  - <font color=green>开</font>：可以使用通风口
+  - <font color=red>关</font>：不可以使用通风口
 
 > 来自:鹅鸭杀&编码:[Commandf1](https://github.com/commandf1)

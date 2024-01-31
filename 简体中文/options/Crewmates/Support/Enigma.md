@@ -1,39 +1,39 @@
 ---
-lang: zh-CN
-title: 谜团
+lang: 简体中文
+title: 猜想者
 prev: 侦探
-next: 占卜师
+next: 调查员
 ---
 
-# <font color="#676798">🧠 <b>Enigma</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#676798">🧠 <b>猜想者</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-作为谜团，每次会议你都会得到一个有关杀手的随机线索，根据情况，你可能需要报告尸体以获得线索。 The more tasks you complete the more precise the clues get.
+作为猜想者，每次会议你都会得到一个有关凶手的随机线索，根据情况，你可能需要报告尸体以获得线索。 您完成的任务越多，得到的线索就越精确。
 
 - 最大数量
-  - 设置游戏中"职业名自己填"的最大数量
-- Number of Tasks to complete to see Stage 1 Clues
-  - Set the number of tasks that the Enigma has to have completed to get Stage 1 Clues
-- Number of Tasks to complete to see Stage 2 Clues
-  - Set the number of tasks that the Enigma has to have completed to get Stage 2 Clues
-- Number of Tasks to complete to see Stage 3 Clues
-  - Set the number of tasks that the Enigma has to have completed to get Stage 3 Clues
-- Probability to see Stage 2 Clues
-  - Set the percentage that the Enigma will get Stage 2 Clues
-- Probability to see Stage 3 Clues
-  - Set the percentage that the Enigma will get Stage 3 Clues
-- Enigma can get Clues without reporting a dead body
-  - <font color=green>ON</font>: the Enigma can find out clues even if they don't report a dead body
-  - <font color=red>OFF</font>: the Enigma can only find out clues if they report a dead body
-- Override Enigma’s Tasks
-  - <font color=green>ON</font>: you can set a different amount of Tasks that an Enigma needs to do
-  - <font color=red>OFF</font>: the Enigma does the same amount of Tasks as anyone else
-    - Enigma has Common Tasks
-      - Set if the Enigma has Common Tasks
-    - Amount of Long Tasks for Enigma
-      - Set the amount of Long Tasks the Enigma will receive
-    - Amount of Short Tasks for Enigma
-      - Set the amount of Short Tasks the Enigma will receive
+  - 设置游戏中猜想者的最大数量
+- 要查看第一阶段的线索所需的任务数
+  - 设置查看第一阶段线索所需的任务数
+- 要查看第二阶段线索需要完成的任务数
+  - 设置查看第二阶段线索所需的任务数
+- 要查看第三阶段的线索所需的任务数
+  - 设置查看第三阶段的线索所需的任务数
+- 看到第二阶段线索的概率
+  - 设置猜想者获得第二阶段线索的概率
+- 看到第三阶段线索的概率
+  - 设置猜想者获得第三阶段线索的概率
+- 猜想者可以在不报告尸体的情况下获得线索
+  - <font color=green>开</font>：猜想者即使不报告尸体也能获得线索
+  - <font color=red>关</font>：猜想者只有报告尸体才能获得线索
+- 特别设置猜想者的任务
+  - <font color=green>开</font>：您可以设置猜想者需要完成的任务数
+  - <font color=red>关</font>：猜想者与其他人完成相同数量的任务
+    - 猜想者具有通用任务
+      - 设置猜想者是否有通用任务
+    - 猜想者的长任务数量
+      - 设置猜想者长任务数量
+    - 猜想者的短任务数量
+      - 设置猜想者短任务数量
 
-> Idea & Coding: [lars-wu (papercut)](https://github.com/lars-wu)
+> 想法 & 编码：[lars-wu（papercut）](https://github.com/lars-wu)

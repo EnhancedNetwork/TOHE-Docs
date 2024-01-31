@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 巫师
 prev: 缺点者
 next: 猎人
@@ -18,8 +18,8 @@ next: 猎人
     - 击杀
     - 通风口
 - 妖术以咒语的形式出现
-  - </font>开启\</0>：魔法将看起来像施法者的咒语
-  - <font color=red>关闭</font>：魔法将不会像施法者施法一样显示
+  - </font>开启\</0>：咒语将看起来像施法者施法
+  - <font color=red>关闭</font>：咒语将不会像施法者施法一样显示
 
 > 职业来源：想法和编程：[Loonie Toons]
 > (https\://github.com/Loonie-Toons)

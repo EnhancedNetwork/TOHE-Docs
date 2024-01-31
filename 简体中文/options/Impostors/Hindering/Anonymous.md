@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 骇客
 prev: /options/Settings/Impostors.html
 next: 眩晕者

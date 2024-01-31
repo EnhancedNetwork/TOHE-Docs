@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 效仿者
 prev: FFF团
 next: 律师

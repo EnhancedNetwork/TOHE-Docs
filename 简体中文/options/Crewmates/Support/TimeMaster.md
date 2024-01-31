@@ -1,27 +1,27 @@
 ---
-lang: zh-CN
-title: Time Master
-prev: TimeManager
-next: Tracker
+lang: 简体中文
+title: 时间之主
+prev: 时间操控者
+next: 正义追踪者
 ---
 
-# <font color="#44baff">⏳ <b>Time Master</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#44baff">⏳ <b>时间之主</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-As the Time Master, use the vents to mark everyone's position.<br>
-When using the ability again, every alive player will be rewinded back to the marked positions.<br><br>
-During the ability duration, the Time Master gains a time shield that protects them from death.
+作为时间之主，使用通风口标记每个人的位置。<br>
+再次使用该能力时，每个活着的玩家将会被倒回到标记的位置。<br><br>
+在能力持续期间，时间之主获得一层时间护盾，保护他们免受死亡。
 
 - 最大数量
-  - 设置游戏中"职业名自己填"的最大数量
-- Time Shield Cooldown
-  - Set how long the Time Master has to wait to use their Ability
-- Time Shield Duration
-  - Set how long the Time Master can stay protected for
-- (Initial) Max number of Ability Uses
-  - Set the amount of Ability Uses a Time Master has at the start of the game
-- <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
-  - Set the amount of Ability Uses a Time Master gains with each Task completed (0.1 increments)
+  - 设置游戏中时间之主的最大数量
+- 时间之盾冷却时间
+  - 设置时间之主必须等待多长时间才能使用其技能
+- 时间之盾持续时间
+  - 设置时间之主的护盾保护时间
+- 初始技能数
+  - 设置时间之主在游戏开始后的技能使用次数
+- <font color=#00ffff>能</font> <font color=#7fffd2>增加时间记录/倒流次数</font> <font color=#00ffff>(在完成每项任务后)</font>
+  - 设置时间之主每次完成任务后获得的能力值（0.1次）
 
-> From: TOHEX
+> 来自: TOHEX

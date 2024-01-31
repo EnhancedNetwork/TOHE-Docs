@@ -1,25 +1,25 @@
 ---
-lang: zh-CN
-title: Torch
-prev: Tiebreaker
-next: Watcher
+lang: 简体中文
+title: 火炬
+prev: 破平者
+next: 窥视者
 ---
 
-# <font color=#eee5be>🔥 <b>Torch</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
+# <font color=#eee5be>🔥 <b>火炬</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 
 ***
 
-Only <font color=#8cffff>Crewmates</font> will be Torch, they will have max vision and will not be affected by Lights sabotage.
+只有<font color=#8cffff>船员阵营</font>会成为火炬，他们将拥有最大的视野，且不会受到照明破坏的影响。
 
 - 最大数量
-  - 设置游戏中"职业名自己填"的最大数量
-- Spawn Chance
-  - Set the percentage players have of getting Torch
-- Torch Vision
-  - Set how far the Torch can see
+  - 设置游戏中火炬的最大数量
+- 出现概率
+  - 设置游戏中火炬的出现概率
+- 火炬的视野
+  - 设置火炬的视野范围
 
-:::tip Fun Fact
-Torch was originally called "Lighter" in Build 3.0.0 Dev 1 and was renamed to "Torch" in Build 3.0.0 Dev 2!
+:::tip 有趣的事实
+火炬在Build 3.0.0 Dev 1中被称为执灯人，在Build 3.0.0 Dev 2中改名为了火炬！
 :::
 
-> From: TOH & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自：TOH & 编码：[咔皮呆](https://github.com/KARPED1EM)

@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 破坏者
 prev: 快枪手
 next: 狙击手

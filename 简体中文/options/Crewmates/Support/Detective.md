@@ -1,20 +1,20 @@
 ---
-lang: zh-CN
-title: Detective
-prev: Deputy
-next: Enigma
+lang: 简体中文
+title: 侦探
+prev: 捕快
+next: 猜想者
 ---
 
-# <font color="#7160e8">🕵️‍♂️ <b>Detective</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#7160e8">🕵️‍♂️ <b>侦探</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-After the Detective reports the body. They will receive a clue message, which will tell the Detective what the role of the body was.
+侦探报告尸体后 他们将收到一条线索消息，该消息将告诉侦探关于尸体的信息
 
 - 最大数量
-  - 设置游戏中"职业名自己填"的最大数量
-- Can find the killer’s role
-  - <font color=green>ON</font>: the Detective can find out the Role of the Killer of any body the Detective reports
-  - <font color=red>OFF</font>: the Detective will not be able to find the exact killer’s role
+  - 设置游戏中侦探的最大数量
+- 是否可以找到凶手的职业
+  - <font color=green>开</font>：侦探可以找出击杀玩家的凶手的职业
+  - <font color=red>关</font>：侦探将无法找到凶手的职业
 
-> From: TOHR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自：TOHR & 编码：[咔皮呆](https://github.com/KARPED1EM)

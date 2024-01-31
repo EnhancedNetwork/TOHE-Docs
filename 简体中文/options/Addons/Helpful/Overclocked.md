@@ -1,22 +1,22 @@
 ---
-lang: zh-CN
-title: Overclocked
-prev: Nimble
-next: Repairman
+lang: 简体中文
+title: 超频波
+prev: 敏捷
+next: 维修员
 ---
 
-# <font color=#c4ad2c>⚡ <b>Overclocked</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
+# <font color=#c4ad2c>⚡ <b>超频波</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 
 ***
 
-As the Overclocked, your kill cooldown is reduced by a percentage.<br><br>
-Only assigned to roles with a kill button.
+作为超频波，您的击杀冷却时间会按百分比减少。<br><br>
+仅分配给带有击杀按钮的职业。
 
 - 最大数量
-  - 设置游戏中"职业名自己填"的最大数量
-- Spawn Chance
-  - Set the percentage players have of getting Overclocked.
-- Kill Cooldown Reduction
-  - Set the percentage that the Kill Cooldown of an Overclocked player gets reduced by
+  - 设置游戏中超频波的最大数量
+- 出现概率
+  - 设置超频波的出现概率
+- 减少击杀冷却时间
+  - 设置超频波玩家的减少击杀冷却时间的百分比
 
-> From: Idea & Coding: [LoonieToons](https://github.com/Loonie-Toons/)
+> 来自：想法 & 编码：[LoonieToons](https://github.com/Loonie-Toons/)

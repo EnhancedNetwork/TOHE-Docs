@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 梦魇
 prev: 叛徒
 next: 宝箱怪
@@ -22,4 +22,4 @@ next: 宝箱怪
 梦魇最初是一个职业，但后来改为了一个内鬼debuff附加职业。
 :::
 
->
+> 来自：TOH

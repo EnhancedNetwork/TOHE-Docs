@@ -1,20 +1,20 @@
 ---
-lang: zh-CN
-title: Super Star
-prev: Randomizer
-next: TaskManager
+lang: 简体中文
+title: 大明星
+prev: 萧暮
+next: 任务管理者
 ---
 
-# <font color="#f6f657">🌟 <b>Super Star</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
+# <font color="#f6f657">🌟 <b>大明星</b></font> <Badge text="Basic" type="tip" vertical="middle"/>
 
 ***
 
-The Super Star will have a Star next to their name so everyone knows who they are. The Super Star can only be killed when alone with a Killer.
+大明星的名字旁边会有一颗星星，这样每个人都知道大明星是谁。 当大明星与坏人独处时才能被击杀。
 
 - 最大数量
-  - 设置游戏中"职业名自己填"的最大数量
-- Everyone knows the Super Star:
-  - <font color=green>ON</font>: a <font color=yellow>yellow</font> star will appear next to the Super Star’s name
-  - <font color=red>OFF</font>: the Super Star remains secret
+  - 设置游戏中大明星的最大数量
+- 每个人都知道这位大明星：
+  - <font color=green>开</font>：一个 <font color=yellow>黄色的</font>星星将出现在大明星的名字后面
+  - <font color=red>关</font>：大明星没有明显分辨特点
 
-> From: Goose Goose Duck & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 来自: 鹅鸭杀 & 编码: [咔皮呆](https://github.com/KARPED1EM)

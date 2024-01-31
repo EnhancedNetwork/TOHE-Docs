@@ -1,8 +1,8 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 监管者
 prev: /options/Settings/Impostors.html
-next: 伪装者
+next: 隐蔽者
 ---
 
 # <font color="red"><b>监管者</b></font><Badge text="Support" type="tip" vertical="middle"/>
@@ -15,7 +15,7 @@ next: 伪装者
   - 设置游戏中监管者的最大数量
 - 可以跟踪摄像头的使用情况
   - <font color=green>开启</font>: 监管者知道什么时候有人靠近摄像头
-  - <font color=red>关闭</font>︰ 监管者没有收到这个信息
+  - <font color=red>关</font>︰ 监管者无法看见监控的讯息
 
 > 职业来自：TOHY的编程员：咔皮呆
 > (https\://github.com/Yumenopai)

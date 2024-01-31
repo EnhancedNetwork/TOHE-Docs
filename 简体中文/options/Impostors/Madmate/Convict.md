@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 罪犯
 prev: /options/Settings/Impostors.html
 next: 船鬼
@@ -10,7 +10,7 @@ next: 船鬼
 ***
 
 作为罪犯，你原本是一名处刑人或律师
-但是你的目标死亡了，你要为伪装者工作
+你的目标死亡了，现在你要为内鬼工作
 
 - 可在处刑人/律师设置中设定该职业
 

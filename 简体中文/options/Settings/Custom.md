@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 自定义设置
 prev: /职业
 next: 内鬼

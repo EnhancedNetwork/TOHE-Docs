@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 策划者
 prev: 逃逸者
 next: 矿工

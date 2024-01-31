@@ -1,24 +1,24 @@
 ---
-lang: zh-CN
-title: Medium
-prev: Medic
-next: Merchant
+lang: 简体中文
+title: 通灵师
+prev: 医生
+next: 商人
 ---
 
-# <font color=#a200ff>👻 <b>Medium</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color=#a200ff>👻 <b>通灵师</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 
 ***
 
-The Medium can establish contact with a dead player after their dead body is reported. The player who reports does not have to be the Medium. The dead player needs to answer with `/ms YES` or `/ms NO` or else the Medium will not be able to see the dead player's message.
+在尸体被报告后，通灵师可以与其建立联系。 报告的玩家不需要是通灵师才能建立联系。 建立关系的玩家需要回答`/ms YES`或`/ms NO`，否通灵师将无法看到死亡玩家的回答。
 
 - 最大数量
-  - 设置游戏中"职业名自己填"的最大数量
-- Max number of contacts (ability uses)
-  - Set how many times the Medium can contact Ghosts
-- Receive messages only from <font color=#8cffff>Crewmates</font> (Including Special ones like Mad/Charmed/Infected/etc)
-  - <font color=green>ON</font>: the Medium can only communicate with Crewmates
-  - <font color=red>OFF</font>: the Medium can communicate with Crewmates, Impostors, and Neutrals
-- <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
-  - Set the amount of Ability Uses a Medium gains with each Task completed (0.1 increments)
+  - 设置游戏中通灵师的最大数量
+- 建立联系次数上限
+  - 设置通灵师可以与鬼魂联系的次数
+- 只接收来自 <font color=#8cffff>船员</font> 的消息（包括叛徒/魅惑的/感染的等特殊船员）
+  - <font color=green>开</font>：通灵师只会和船员建立联系
+  - <font color=red>关</font>：通灵师可以与船员、伪装者和中立建立联系
+- <font color=#00ffff>能</font> <font color=#7fffd2>增加通灵次数</font> <font color=#00ffff>(在完成每项任务后)</font>
+  - 设置每次完成任务后通灵师获得的能力使用次数（0.1次）
 
-> Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+> 想法 & 编码: [咔皮呆](https://github.com/KARPED1EM)

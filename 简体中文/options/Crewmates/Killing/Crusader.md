@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 十字军
 prev: 保镖
 next: 赝品商

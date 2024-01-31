@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 模仿猫
 prev: 舰长
 next: 独裁者
@@ -15,11 +15,11 @@ next: 独裁者
 另外，您无法猜测。
 
 - 最大数量
-  - 设置游戏中"职业名自己填"的最大数量
-- Copy cooldown
+  - 设置游戏中模仿猫的最大数量
+- 复制冷却时间
   - 设置模仿猫需要等待多长时间才能使用他们的能力
 - 可以复制船员身份的邪恶体
   - <font color=green>ON</font>：模仿猫将能够复制crewmate角色的邪恶版本
-  - <font color=red>关闭</font>：模仿猫将无法复制恶意版本的机组成员角色
+  - <font color=red>关</font>：模仿猫将无法复制邪恶版本的船员职业
 
 > 来自: SLE & 编码: [ryuk](#)

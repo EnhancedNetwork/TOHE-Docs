@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 游戏修改器
 prev: 游戏
 next: 内鬼阵营

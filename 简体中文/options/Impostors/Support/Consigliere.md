@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 军师
 prev: 清洁工
 next: 烟花商人

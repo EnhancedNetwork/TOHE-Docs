@@ -1,21 +1,21 @@
 ---
-lang: zh-CN
-title: Monarch
-prev: Mayor
-next: Overseer
+lang: 简体中文
+title: 君主
+prev: 市长
+next: 预言家
 ---
 
-# <font color="#ffa500">👑 <b>Monarch</b></font> <Badge text="Power" type="tip" vertical="middle"/>
+# <font color="#ffa500">👑 <b>君主</b></font> <Badge text="Power" type="tip" vertical="middle"/>
 
 ***
 
-You can make players Knighted, which gives them an extra vote. You cannot Knight someone with different voting methods, like Mayor/Vindicator/Dictator/Stealer. You cannot Knight the Glitch.
+您可以让玩家成为骑士，这将给他们额外的一票。 你不能用不同的投票方法封骑士，比如市长/维护者/独裁者/窃贼。 你不能把故障封为骑士。
 
 - 最大数量
-  - 设置游戏中"职业名自己填"的最大数量
-- Knight Cooldown
-  - Set how a Monarch needs to wait to Knight players
-- Maximum Knights
-  - Set the Max amount of players that the Monarch can make Knighted
+  - 设置游戏中君主的最大数量
+- 骑士冷却
+  - 设置君主需要等待多长时间才能骑士玩家
+- 最高骑士数量
+  - 设置君主可以封为骑士的最大玩家数量
 
-> From: Town of Salem 2 & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> 来自: Town of Salem 2 & 编码: [Loonie Toons](https://github.com/Loonie-Toons)

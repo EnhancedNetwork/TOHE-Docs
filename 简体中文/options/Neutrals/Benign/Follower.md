@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 赌徒
 prev: 失忆者
 next: FFF团

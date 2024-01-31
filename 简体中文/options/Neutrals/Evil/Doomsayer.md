@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 末日战士
 prev: 被诅咒的灵魂
 next: 处刑人
@@ -15,12 +15,12 @@ next: 处刑人
 您可以在玩家名称之前查看玩家的ID ，或使用`/id`命令查看所有玩家的ID。
 
 - 最大数量
-  - 设置游戏中"职业名自己填"的最大数量
+  - 设置游戏中的末日赌怪最大数量
 - 获胜的猜测数量
   - 设置世界末日预言家需要猜对多少人才能获胜
-- 可以猜测<font color=red>冒名顶替者</font>
-  - <font color=green>开</font>:末日预言家可以猜测<font color=red>冒名顶替者</font>
-  - <font color=red>关</font>:末日预言家不可以猜测<font color=red>冒名顶替者</font>
+- 可以猜测<font color=red>内鬼</font>
+  - <font color=green>开</font>:末日赌怪可以猜测<font color=red>内鬼</font>
+  - <font color=red>关</font>:末日赌怪不可以猜测<font color=red>内鬼</font>
 - 可以猜测<font color=#8cffff>船员</font>阵营
   - <font color=green>开</font>:末日预言家可以猜测<font color=#8cffff>船员</font>
   - <font color=red>关</font>:末日预言家不能猜测<font color=#8cffff>船员</font>

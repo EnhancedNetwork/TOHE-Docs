@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 狱警
 prev: 赝品商
 next: 法官

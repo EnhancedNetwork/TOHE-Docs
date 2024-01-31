@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 流氓
 prev: 胆小鬼
 next: 倒霉蛋
@@ -15,9 +15,9 @@ next: 倒霉蛋
 - 最大数量
   - 设置游戏中流氓的最大数量
 - 出现机率
-  - 设置流氓的出现机率
-- 在被驱逐时以叛徒的身份出现
-  - <font color=green>启用</font>：流氓在被驱逐时会以叛徒的身份出现
-  - <font color=red>关闭</font>：流氓被驱逐时会像平常一样出现
+  - 设置流氓的出现概率
+- 在被驱逐时以叛徒的职业显示
+  - <font color=green>开</font>：流氓在被驱逐时会以叛徒的职业显示
+  - <font color=red>关</font>：流氓被驱逐时会像平常一样显示
 
-> 来自：想法与编码：[Loonie Toons](https://github.com/Loonie-Toons)
+> 来自：想法 & 编码：[Loonie Toons](https://github.com/Loonie-Toons)

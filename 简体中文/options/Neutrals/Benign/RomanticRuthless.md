@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 无情浪漫者
 prev: 复仇浪漫者
 next: 浪漫者

@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 蠢蛋
 prev: /options/settings/Experimental.html
 next: Oiiai
@@ -10,19 +10,19 @@ next: Oiiai
 ***
 
 <font size=4em>实验原因：应修复，需要测试</font><br>
-注意：最有可能是有害的附加组件
+注意：最有可能是有害附加职业
 
-修理工和<font color=red>内鬼</font>不会成为蠢蛋 Fools can't repair any sabotage.
+修理工和<font color=red>内鬼</font>不会成为蠢蛋 蠢蛋无法修复任何破坏
 
 - 最大数量
-  - 设置游戏中"职业名自己填"的最大数量
-- Spawn Chance
-  - Set the percentage players have of getting Fool
-- <font color=#8cffff>Crewmates</font> can become Fool
-  - <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become this role
-  - <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
-- <font color=#7f8c8d>Neutrals</font> can become Fool
-  - <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
-  - <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+  - 设置游戏中蠢蛋的最大数量
+- 出现概率
+  - 设置蠢蛋的出现概率
+- <font color=#8cffff>船员阵营</font>可以成为蠢蛋
+  - <font color=green>开</font>：<font color=#8cffff>船员阵营</font>可以成为这个附加职业
+  - <font color=red>关</font>：<font color=#8cffff>船员阵营</font>不可以成为这个附加职业
+- <font color=#7f8c8d>中立阵营</font>可以成为蠢蛋
+  - <font color=green>开</font>：<font color=#7f8c8d>中立阵营</font>可以成为这个附加职业
+  - <font color=red>关</font>：<font color=#7f8c8d>中立阵营</font>不可以成为这个附加职业
 
-> From: TOHY & Coding: [NCSIMON](https://github.com/NCSIMON)、[KARPED1EM](https://github.com/KARPED1EM)
+> 来自：TOHY & 编码：[NCSIMON](https://github.com/NCSIMON)、[咔皮呆](https://github.com/KARPED1EM)

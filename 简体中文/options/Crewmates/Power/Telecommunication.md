@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 通讯员
 prev: Swapper
 next: /options/Settings/Crewmates.html
@@ -15,9 +15,9 @@ next: /options/Settings/Crewmates.html
   - 设置游戏中通讯员的最大数量
 - 可追踪摄像头的使用情况
   - <font color=green>开启</font>：通讯员可以跟踪摄像机的使用情况
-  - <font color=red>关闭</font>：通讯员无法跟踪摄像机的使用情况
+  - <font color=red>关闭</font>：通讯员无法得知摄像机的使用情况
 - 可以使用通风口
   - <font color=green>开启</font>: 通讯员可以使用通风口
-  - <font color=red>关闭</font>: 通讯员不能使用通风口
+  - <font color=red>关</font>: 通讯员不能使用通风口
 
 > 来自 TOHY & Coding： [Yumenopai](https://github.com/Yumenopai)

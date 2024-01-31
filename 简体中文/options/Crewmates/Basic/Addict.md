@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 瘾君子
 prev: /options/Settings/Crewmates.html
 next: 炼金术士

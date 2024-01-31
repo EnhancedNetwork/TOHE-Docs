@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 变形者
 prev: 内鬼
 next: /options/Settings/Impostors.html

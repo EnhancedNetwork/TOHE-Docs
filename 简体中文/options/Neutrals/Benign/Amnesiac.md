@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: 简体中文
 title: 失忆者
 prev: /options/settings/Neutrals.html
 next: 赌徒

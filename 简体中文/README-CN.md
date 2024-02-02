@@ -29,16 +29,7 @@ footer: "© 2023 By Town of Host: Enhanced"
 <p>简体中文翻译贡献者（英文名）：<b>Sheep</b>、<b>xqw</b>、<b>ninyouyigehao</b>、<b>hujia898</b>、<b>LezaiYa</b>、<b>JJJJGGGG12345</b>、<b>CrewCyan</b>、<b>hhg</b>、<b>xiaoxiangren</b>、<b>yuebing</b>、<b>xianpisa</b></p>
 <p>简体中文翻译贡献者（中文名）：<b>Sheep</b>、<b>xqw</b>、<b>您有一个好</b>、<b>hujia898</b>、<b>乐崽吖</b>、<b>JJJJGGGG12345</b>、<b>船员小青</b>、<b>哈哈哥</b>、<b>小箱人</b>、<b>月饼</b>、<b>咸披萨</b></p>
 <p>简体中文翻译有问题？联系<b>我们</b></p>
-<p>请点击以下链接发送邮件：</p>
-<p><a href="#" onclick="composeEmail()">QQ邮箱</a></p>
-
-<script>
-function composeEmail() {
-  var recipient = '1792157206@qq.com';
-  window.open('mailto:' + recipient);
-}
-</script>
-<a href="mailto:1792157206@qq.com"><img src="https://img.shields.io/badge/QQ邮箱%20-%231DA1F2.svg?&style=for-the-badge&logo=mail&logoColor=white&color=FFFF00"/></a> <a href="https://qm.qq.com/cgi-bin/qm/qr?k=j3iy9y-Agf69s14pF2Card5atV30OA3E" target="_blank"><img src="https://img.shields.io/badge/QQ%20-%231DA1F2.svg?&style=for-the-badge&logo=Tencent+QQ&logoColor=white&color=1e6fff"/></a> <a href="https://space.bilibili.com/1696643493" target="_blank"><img src="https://img.shields.io/badge/Bilibili%20-%231DA1F2.svg?&style=for-the-badge&logo=bilibili&logoColor=white&color=fb7299"/></a>
+<a href="mailto:1792157206@qq.com?subject=网站简体中文翻译有问题&body=您好，翻译者，网站有简体中文的翻译问题，以下是我列举的翻译问题：" target="_blank"><img src="https://img.shields.io/badge/QQ邮箱%20-%231DA1F2.svg?&style=for-the-badge&logo=mail+qq&logoColor=white&color=FFFF00"/></a> <a href="https://qm.qq.com/cgi-bin/qm/qr?k=j3iy9y-Agf69s14pF2Card5atV30OA3E" target="_blank"><img src="https://img.shields.io/badge/QQ%20-%231DA1F2.svg?&style=for-the-badge&logo=Tencent+QQ&logoColor=white&color=1e6fff"/></a> <a href="https://space.bilibili.com/1696643493" target="_blank"><img src="https://img.shields.io/badge/Bilibili%20-%231DA1F2.svg?&style=for-the-badge&logo=bilibili&logoColor=white&color=fb7299"/></a>
 <center>
 
 ***

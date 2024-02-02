@@ -621,6 +621,8 @@ Town of Host模组的分支 这里的大部分基础上的代码都来自 Town o
 <p align="right">
 <a href="https://discord.gg/tohe" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>&nbsp;
 <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank"><img src="https://img.shields.io/badge/Github%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
+<a href="mailto:1792157206@qq.com" target="_blank"><img src="https://img.shields.io/badge/QQ邮箱%20-%231DA1F2.svg?&style=for-the-badge&logo=mail+qq&logoColor=white&color=FFFF00"/></a>
+<a href="https://qm.qq.com/cgi-bin/qm/qr?k=j3iy9y-Agf69s14pF2Card5atV30OA3E" target="_blank"><img src="https://img.shields.io/badge/QQ%20-%231DA1F2.svg?&style=for-the-badge&logo=Tencent+QQ&logoColor=white&color=1e6fff"/></a>
 </p>
 
 ***

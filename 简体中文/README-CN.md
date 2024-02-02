@@ -25,6 +25,24 @@ footer: "© 2023 By Town of Host: Enhanced"
 
 ***
 
+<center>
+<p>简体中文翻译贡献者（英文名）：<b>Sheep</b>、<b>xqw</b>、<b>ninyouyigehao</b>、<b>hujia898</b>、<b>LezaiYa</b>、<b>JJJJGGGG12345</b>、<b>CrewCyan</b>、<b>hhg</b>、<b>xiaoxiangren</b>、<b>yuebing</b>、<b>xianpisa</b></p>
+<p>简体中文翻译贡献者（中文名）：<b>Sheep</b>、<b>xqw</b>、<b>您有一个好</b>、<b>hujia898</b>、<b>乐崽吖</b>、<b>JJJJGGGG12345</b>、<b>船员小青</b>、<b>哈哈哥</b>、<b>小箱人</b>、<b>月饼</b>、<b>咸披萨</b></p>
+<p>简体中文翻译有问题？联系<b>我们</b></p>
+<p>请点击以下链接发送邮件：</p>
+<p><a href="#" onclick="composeEmail()">QQ邮箱</a></p>
+
+<script>
+function composeEmail() {
+  var recipient = '1792157206@qq.com';
+  window.open('mailto:' + recipient);
+}
+</script>
+<a href="mailto:1792157206@qq.com"><img src="https://img.shields.io/badge/QQ邮箱%20-%231DA1F2.svg?&style=for-the-badge&logo=mail&logoColor=white&color=FFFF00"/></a> <a href="https://qm.qq.com/cgi-bin/qm/qr?k=j3iy9y-Agf69s14pF2Card5atV30OA3E" target="_blank"><img src="https://img.shields.io/badge/QQ%20-%231DA1F2.svg?&style=for-the-badge&logo=Tencent+QQ&logoColor=white&color=1e6fff"/></a> <a href="https://space.bilibili.com/1696643493" target="_blank"><img src="https://img.shields.io/badge/Bilibili%20-%231DA1F2.svg?&style=for-the-badge&logo=bilibili&logoColor=white&color=fb7299"/></a>
+<center>
+
+***
+
 <p>致将Town of Host: Edited和Town of Host: Re-Edited深深铭记于心的所有优秀玩家</p>
 <p>我们已经继承了TOHRE的所有内容并且继续保持模组的维护。 Moe担任项目负责人，并将继续维护本网站以及Ko-fi。</p>
 <p>我们玩《Among Us》的时间很长，所以我们会尽力保持更新并提升可玩性。</p>
@@ -32,15 +50,6 @@ footer: "© 2023 By Town of Host: Enhanced"
 请您耐心等待，目前我们在陆续编写 TOH:<i>Enhanced</i></p>
 <p>最后，我们真诚感谢您的耐心，我们将持续更新这个模组。 TOHE，TOHRE和新模组: Town of Host: Enhanced 将会被人们记住！</p>
 <p>感谢 Pyro 对网站的帮助！ - Moe</p>
-
-***
-
-<center>
-<p>简体中文翻译贡献者（英文名）：<b>Sheep</b>、<b>xqw</b>、<b>ninyouyigehao</b>、<b>hujia898</b>、<b>LezaiYa</b>、<b>JJJJGGGG12345</b>、<b>CrewCyan</b>、<b>hhg</b>、<b>xiaoxiangren</b>、<b>yuebing</b>、<b>xianpisa</b></p>
-<p>简体中文翻译贡献者（中文名）：<b>Sheep</b>、<b>xqw</b>、<b>您有一个好</b>、<b>hujia898</b>、<b>乐崽吖</b>、<b>JJJJGGGG12345</b>、<b>船员小青</b>、<b>哈哈哥</b>、<b>小箱人</b>、<b>月饼</b>、<b>咸披萨</b></p>
-<p>简体中文翻译有问题？联系<b>我们</b></p>
- <a href="mailto:1792157206@qq.com" target="_blank"><img src="https://img.shields.io/badge/QQ邮箱%20-%231DA1F2.svg?&style=for-the-badge&logo=qq邮箱&logoColor=white&color=ffff00"/></a> <a href="https://qm.qq.com/cgi-bin/qm/qr?k=j3iy9y-Agf69s14pF2Card5atV30OA3E" target="_blank"><img src="https://img.shields.io/badge/QQ%20-%231DA1F2.svg?&style=for-the-badge&logo=Tencent+QQ&logoColor=white&color=1e6fff"/></a> <a href="https://space.bilibili.com/1696643493" target="_blank"><img src="https://img.shields.io/badge/Bilibili%20-%231DA1F2.svg?&style=for-the-badge&logo=bilibili&logoColor=white&color=fb7299"/></a>
-<center>
 
 
 

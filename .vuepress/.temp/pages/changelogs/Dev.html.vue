@@ -2,7 +2,198 @@
 <hr>
 <p>To access Dev Builds, become a Sponsor on <a href="https://ko-fi.com/tohen" target="_blank" rel="noopener noreferrer">Ko-Fi<ExternalLinkIcon/></a> (at least Insider), <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank" rel="noopener noreferrer">Contribute<ExternalLinkIcon/></a>, or be a [Tester] (Content Creator with your TOHE videos having 600+ views on average)</p>
 <hr>
-<h2 id="latest-v1-3-1-dev-2-hotfix-2" tabindex="-1"><a class="header-anchor" href="#latest-v1-3-1-dev-2-hotfix-2" aria-hidden="true">#</a> <font size=5em><b>Latest: v1.3.1 Dev 2 (HOTFIX #2)</b></font><br></h2>
+<h2 id="v1-5-1-dev-3" tabindex="-1"><a class="header-anchor" href="#v1-5-1-dev-3" aria-hidden="true">#</a> <font size=5em><b>v1.5.1 Dev 3</b></font><br></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when RPCVersionCheck not work correctly <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when bombed player cant pass the bomb if host is haunting (Agitator) <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed kamikaze key not found error (in logs) <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Quizmaster has tasks <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Plague Scientist not work <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed string for Sleuth | Settings &quot;Neutrals/Crewmates can become Sleuth&quot; was sets in reverse <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Inspector seeing Rascal as Crew and Impostor <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Made some fixes for Romantics <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Time Master worked incorrectly <br></p>
+</li>
+</ul>
+<h2 id="v1-5-1-dev-2-1" tabindex="-1"><a class="header-anchor" href="#v1-5-1-dev-2-1" aria-hidden="true">#</a> <font size=5em><b>v1.5.1 Dev 2.1</b></font><br></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>0xDrMoe</strong><ExternalLinkIcon/></a><br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Updated Monarch Description to include Monarch immunity condition <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Rainbow </span> typo in /r <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed <font color=#8708c7><b>TRANSLATION</b></font> issue taking Irish instead of English due to incorrect ID <br></p>
+</li>
+</ul>
+<h2 id="v1-5-1-dev-2" tabindex="-1"><a class="header-anchor" href="#v1-5-1-dev-2" aria-hidden="true">#</a> <font size=5em><b>v1.5.1 Dev 2</b></font><br></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a> <br>
++ <font color=green><b>NEW</b></font>: Added New role: Penguin <br>
++ <font color=green><b>NEW</b></font>: Added New role: Stealth <br>
++ <font color=green><b>NEW</b></font>: Added New role: Plague Scientist <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Warn when /dump is used <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Hide tag for Vanilla players <br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added delay teleport after meeting <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Quizmaster not work or Modded Clients <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed display some roles when &quot;Show Only Enabled Roles In Guesser UI&quot; is enabled  <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong><ExternalLinkIcon/></a> AND <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: New Add-On -<span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Rainbow </span><br></p>
+</li>
+</ul>
+<h2 id="v1-5-1-dev-1" tabindex="-1"><a class="header-anchor" href="#v1-5-1-dev-1" aria-hidden="true">#</a> <font size=5em><b>v1.5.1 Dev 1</b></font><br></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong><ExternalLinkIcon/></a> <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Some Strings <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Added New role: Schrodinger's Cat (500th PR!) <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed color name/symbols for several roles <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Killing Machine using vanilla kill CD <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Coroner not showing arrows for modded players <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Workaholic not working <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Cleanser issues <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Auto-Play Again Game End errors <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Prevent bans from InnerSloth servers if not modded host <br></p>
+</li>
+</ul>
+<h2 id="v1-4-1-dev-3" tabindex="-1"><a class="header-anchor" href="#v1-4-1-dev-3" aria-hidden="true">#</a> <font size=5em><b>v1.4.1 Dev 3</b></font><br></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Added New setting for copycat to copy team changing addon instead of just copying madmate <br>
++ <font color=green><b>NEW</b></font>: Added New setting for Fortune Teller: Show random active roles in Fortune Teller hints <br>
++ <font color=green><b>NEW</b></font>: Added New setting: Only allow whitelisted players to join lobbies <br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Copycat can now copy crew roles with Arrows (Mortician, Coroner, Tracefinder, Spiritualist, Tracker) | Copying Evil Tracker gives Tracker, Anti Adminer gives Telecommunication, and Pursuer gives Deciever <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Made Сode improvements in HasKillButton <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Made Сode improvements in DivinatorCheck.Result (Fortune Teller) | Changed it so that strings dont have to be updated every single time a new role has been added to the check list <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Inspector doesnt give Madmate as imposter team <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Telecommunication doesnt work when Copycat copies <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Added random skins &amp; colors in Camouflage <br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Ported code <code v-pre>Vent.CanUse</code> from TOH <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when some roles can be stuck in vent during comms sabotage <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some strings <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed errors in logs when Modded Client left the game <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed when solsticer can be murdered <br></p>
+</li>
+</ul>
+<h2 id="v1-4-1-dev-2" tabindex="-1"><a class="header-anchor" href="#v1-4-1-dev-2" aria-hidden="true">#</a> <font size=5em><b>v1.4.1 Dev 2</b></font><br></h2>
+<ul>
+<li>
+<p>By <a href="#"><strong>CrewCyan</strong></a> <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug where Mini could not be exiled <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a> <br>
++ <font color=green><b>NEW</b></font>: Added New Alchemist Setting: Potion Of Speed (Ported from TOHE+) <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Add /rn for vanilla clients <br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Make /rand inclusive <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix bug where /gno and /rand gave same result <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
+- <font color=red><b>REMOVED</b></font>: Removed Luckey (Crewmate Role) <br>
++ <font color=green><b>NEW</b></font>: New Impostor Role Rift Maker <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Display sorted role names for all langs in guesser UI  <br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Copycat copying taskinator will give benefactor if Copycat can copy crew varaint <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed copycat copying enigma doesnt give clue <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Undertaker for modded clients <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Fix Bug Where Evil Tracker &quot;Can See Kill Flash&quot; Option Sometimes Not Work <br>
++ <font color=green><b>NEW</b></font>: Added New Setting: Show Only Enabled Roles In Guesser UI <br>
++ <font color=green><b>NEW</b></font>: New Quizmaster Setting: Can Give Questions About Past Games <br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Set Preset 5 For Modded Non-Host Players | Preset 5 will be used to sync with host's setting for modded client <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Code In Check Murder <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Many Bugs In Quizmaster <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Spam LateTask About Mole On Exit Vent <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Disconnect At Game End (Coded by dev TOH) <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Save Presets (Coded by dev TOH) <br></p>
+</li>
+</ul>
+<h2 id="v1-4-1-dev-1-2" tabindex="-1"><a class="header-anchor" href="#v1-4-1-dev-1-2" aria-hidden="true">#</a> <font size=5em><b>v1.4.1 Dev 1.2</b></font><br></h2>
+<ul>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed bug where sometimes non-modded players don't get teleported <br></li>
+</ul>
+<h2 id="v1-4-1-dev-1-1" tabindex="-1"><a class="header-anchor" href="#v1-4-1-dev-1-1" aria-hidden="true">#</a> <font size=5em><b>v1.4.1 Dev 1.1</b></font><br></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Quizmaster not working <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Sort Options &amp; Remove Unused Options <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix MeetingHud OnDestroy Null Error <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Sort Options &amp; Remove Unused Options <br></p>
+</li>
+</ul>
+<h2 id="v1-4-1-dev-1" tabindex="-1"><a class="header-anchor" href="#v1-4-1-dev-1" aria-hidden="true">#</a> <font size=5em><b>v1.4.1 Dev 1 </b></font><br></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Added Support for Vanilla Hide &amp; Seek <br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Provocateur can no longer get Bait <br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Kamikaze can no longer get Swift <br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Evil Tracker can no longer get Seer <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed vents on Dleks map <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Bard not work properly <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Tracker error In logs <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed other errors In logs (I hope) <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed check game end <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/FuroYT" target="_blank" rel="noopener noreferrer"><strong>FuroYT</strong><ExternalLinkIcon/></a> <br>
++ <font color=green><b>NEW</b></font>: Added New Role: Quizmaster <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a> <br>
++ <font color=green><b>NEW</b></font>: New Add-On: Susceptible <br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Added option to hide 'Host♥' text <br>
+= <font color=#8708c7><b>TRANSLATIONS</b></font>: Translated API tags, where translation was available <br></p>
+</li>
+</ul>
+<h2 id="v1-3-1-dev-2-hotfix-2" tabindex="-1"><a class="header-anchor" href="#v1-3-1-dev-2-hotfix-2" aria-hidden="true">#</a> <font size=5em><b>v1.3.1 Dev 2 (HOTFIX #2)</b></font><br></h2>
 <ul>
 <li>
 <p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>

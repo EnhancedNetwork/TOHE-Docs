@@ -182,15 +182,50 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "Latest: v1.4.0",
-        "slug": "latest-v1-4-0",
-        "link": "#latest-v1-4-0",
+        "title": "Latest: v1.5.0",
+        "slug": "latest-v1-5-0",
+        "link": "#latest-v1-5-0",
         "children": [
           {
             "level": 3,
             "title": "【New Roles】",
             "slug": "【new-roles】",
             "link": "#【new-roles】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【New Addons】",
+            "slug": "【new-addons】",
+            "link": "#【new-addons】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Reworked/Rebased/Improved Roles】",
+            "slug": "【reworked-rebased-improved-roles】",
+            "link": "#【reworked-rebased-improved-roles】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Removed Roles/Addons】",
+            "slug": "【removed-roles-addons】",
+            "link": "#【removed-roles-addons】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Performance/Code Improvements】",
+            "slug": "【performance-code-improvements】",
+            "link": "#【performance-code-improvements】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【New Features】",
+            "slug": "【new-features】",
+            "link": "#【new-features】",
             "children": []
           },
           {
@@ -209,16 +244,16 @@ export const searchIndex = [
           },
           {
             "level": 3,
-            "title": "【Bug Fixes & More】",
-            "slug": "【bug-fixes-more】",
-            "link": "#【bug-fixes-more】",
+            "title": "【Bug Fixes】",
+            "slug": "【bug-fixes】",
+            "link": "#【bug-fixes】",
             "children": []
           },
           {
             "level": 3,
-            "title": "【Translator Credits】",
-            "slug": "【translator-credits】",
-            "link": "#【translator-credits】",
+            "title": "",
+            "slug": "",
+            "link": "#",
             "children": []
           }
         ]
@@ -502,9 +537,38 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "Latest: v1.3.1 Canary 3",
-        "slug": "latest-v1-3-1-canary-3",
-        "link": "#latest-v1-3-1-canary-3",
+        "title": "v1.5.1 Canary 1(Pre-Release)",
+        "slug": "v1-5-1-canary-1-pre-release",
+        "link": "#v1-5-1-canary-1-pre-release",
+        "children": [
+          {
+            "level": 3,
+            "title": "For Sponsors:",
+            "slug": "for-sponsors",
+            "link": "#for-sponsors",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "v1.5.0 Canary 1.1(Hotfix)",
+        "slug": "v1-5-0-canary-1-1-hotfix",
+        "link": "#v1-5-0-canary-1-1-hotfix",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.5.0 Canary 1",
+        "slug": "v1-5-0-canary-1",
+        "link": "#v1-5-0-canary-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.3.1 Canary 3",
+        "slug": "v1-3-1-canary-3",
+        "link": "#v1-3-1-canary-3",
         "children": []
       },
       {
@@ -672,15 +736,50 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "Latest: v1.4.0",
-        "slug": "latest-v1-4-0",
-        "link": "#latest-v1-4-0",
+        "title": "Latest: v1.5.0",
+        "slug": "latest-v1-5-0",
+        "link": "#latest-v1-5-0",
         "children": [
           {
             "level": 3,
             "title": "【New Roles】",
             "slug": "【new-roles】",
             "link": "#【new-roles】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【New Addons】",
+            "slug": "【new-addons】",
+            "link": "#【new-addons】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Reworked/Rebased/Improved Roles】",
+            "slug": "【reworked-rebased-improved-roles】",
+            "link": "#【reworked-rebased-improved-roles】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Removed Roles/Addons】",
+            "slug": "【removed-roles-addons】",
+            "link": "#【removed-roles-addons】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Performance/Code Improvements】",
+            "slug": "【performance-code-improvements】",
+            "link": "#【performance-code-improvements】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【New Features】",
+            "slug": "【new-features】",
+            "link": "#【new-features】",
             "children": []
           },
           {
@@ -699,16 +798,45 @@ export const searchIndex = [
           },
           {
             "level": 3,
-            "title": "【Bug Fixes & More】",
-            "slug": "【bug-fixes-more】",
-            "link": "#【bug-fixes-more】",
+            "title": "【Bug Fixes】",
+            "slug": "【bug-fixes】",
+            "link": "#【bug-fixes】",
             "children": []
           },
           {
             "level": 3,
-            "title": "【Translator Credits】",
-            "slug": "【translator-credits】",
-            "link": "#【translator-credits】",
+            "title": "",
+            "slug": "",
+            "link": "#",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "v1.4.0",
+        "slug": "v1-4-0",
+        "link": "#v1-4-0",
+        "children": [
+          {
+            "level": 3,
+            "title": "CHANGES/IMPROVEMENTS",
+            "slug": "changes-improvements",
+            "link": "#changes-improvements",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "BUG FIXES",
+            "slug": "bug-fixes",
+            "link": "#bug-fixes",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "TRANSLATIONS",
+            "slug": "translations",
+            "link": "#translations",
             "children": []
           }
         ]
@@ -3801,62 +3929,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Disregarded",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Harmful/Disregarded.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Fragile",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Harmful/Fragile.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Hurried",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Harmful/Hurried.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Influenced",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Harmful/Influenced.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Oblivious",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Harmful/Oblivious.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Rascal",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Harmful/Rascal.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Unlucky",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Harmful/Unlucky.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Void Ballot",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Harmful/VoidBallot.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
     "title": "Autopsy",
     "headers": [],
     "path": "/zh-CN/options/Addons/Helpful/Autopsy.html",
@@ -3990,6 +4062,118 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Circumvent",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Impostor/Circumvent.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Clumsy",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Impostor/Clumsy.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Last Impostor",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Impostor/LastImpostor.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Madmate",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Impostor/Madmate.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Mare",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Impostor/Mare.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Mimic",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Impostor/Mimic.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Stealer",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Impostor/Stealer.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Swift",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Impostor/Swift.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Disregarded",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Harmful/Disregarded.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Fragile",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Harmful/Fragile.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Hurried",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Harmful/Hurried.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Influenced",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Harmful/Influenced.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Oblivious",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Harmful/Oblivious.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Rascal",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Harmful/Rascal.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Unlucky",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Harmful/Unlucky.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Void Ballot",
+    "headers": [],
+    "path": "/zh-CN/options/Addons/Harmful/VoidBallot.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
     "title": "Egoist",
     "headers": [],
     "path": "/zh-CN/options/Addons/Miscellaneous/Egoist.html",
@@ -4091,62 +4275,6 @@ export const searchIndex = [
     "title": "Stubborn",
     "headers": [],
     "path": "/zh-CN/options/Addons/Mixed/Stubborn.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Circumvent",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Impostor/Circumvent.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Clumsy",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Impostor/Clumsy.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Last Impostor",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Impostor/LastImpostor.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Madmate",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Impostor/Madmate.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Mare",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Impostor/Mare.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Mimic",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Impostor/Mimic.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Stealer",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Impostor/Stealer.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Swift",
-    "headers": [],
-    "path": "/zh-CN/options/Addons/Impostor/Swift.html",
     "pathLocale": "/zh-CN/",
     "extraFields": []
   },
@@ -4655,6 +4783,27 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Doppelganger",
+    "headers": [],
+    "path": "/zh-CN/options/Experimental/Neutral/Doppelganger.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "God",
+    "headers": [],
+    "path": "/zh-CN/options/Experimental/Neutral/God.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
+    "title": "Spiritcaller",
+    "headers": [],
+    "path": "/zh-CN/options/Experimental/Neutral/Spiritcaller.html",
+    "pathLocale": "/zh-CN/",
+    "extraFields": []
+  },
+  {
     "title": "Blackmailer",
     "headers": [],
     "path": "/zh-CN/options/Experimental/Impostor/Blackmailer.html",
@@ -4707,27 +4856,6 @@ export const searchIndex = [
     "title": "Zombie",
     "headers": [],
     "path": "/zh-CN/options/Experimental/Impostor/Zombie.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Doppelganger",
-    "headers": [],
-    "path": "/zh-CN/options/Experimental/Neutral/Doppelganger.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "God",
-    "headers": [],
-    "path": "/zh-CN/options/Experimental/Neutral/God.html",
-    "pathLocale": "/zh-CN/",
-    "extraFields": []
-  },
-  {
-    "title": "Spiritcaller",
-    "headers": [],
-    "path": "/zh-CN/options/Experimental/Neutral/Spiritcaller.html",
     "pathLocale": "/zh-CN/",
     "extraFields": []
   },
@@ -5593,3 +5721,16 @@ export const searchIndex = [
     "extraFields": []
   }
 ]
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ searchIndex }) => {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  })
+}

@@ -151,10 +151,11 @@ sidebar:
 \+ <font color=#de2910><b>Simplified Chinese</b></font>: (By: CrewCyan, LezaiYa, NikoCat223) <br>
 \+ <font color=#ffc400><b>Spanish</b></font> (By: Dawson, Sunnyboi, thewhiskas27, xxSShadow) <br>
 \+ <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)
-- Check out all of our translators on our website * [**Full v1.5.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/tag/v1.5.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohen/) to get access to early features!
----
 
 ---
+- Check out all of our translators [here](/AboutUs.html#translators)!
+- [**Full v1.5.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/tag/v1.5.0) 
+- Support us on [**Ko-Fi**](https://ko-fi.com/tohen/) to get early access to features, roles, and more!
 
 ## <font size=5em><b>Latest Site Changelogs:</b></font><br>
 
@@ -162,5 +163,5 @@ sidebar:
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated Role Counts and lists, Sidebars, and Tables Again! <br>
 = Updated to v1.5.0<br>
 \+ Have a good day!<br>
-= <font color=#fdf08e><b>NOTE</b></font>: I will still be updating the site, but a tad less than I usually do. This is because I'm in Jersey, until Febuary/March. -Pyro<br>
-= <font color=#fdf08e><b>NOTE #2</b></font>: It's okay Pyro! I got your back! -Marrow<br>
+= <font color=#fdf08e><b>NOTE</b></font>: I will still be updating the site, but a tad less than I usually do. This is because I'm in Jersey, until Febuary/March. - Pyro<br>
+= <font color=#fdf08e><b>NOTE #2</b></font>: It's okay Pyro! I got your back! - Marrow<br>

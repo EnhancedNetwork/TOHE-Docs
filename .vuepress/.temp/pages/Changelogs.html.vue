@@ -121,19 +121,20 @@
 + <font color=#de2910><b>Simplified Chinese</b></font>: (By: CrewCyan, LezaiYa, NikoCat223) <br>
 + <font color=#ffc400><b>Spanish</b></font> (By: Dawson, Sunnyboi, thewhiskas27, xxSShadow) <br>
 + <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)</p>
+<hr>
 <ul>
-<li>Check out all of our translators on our website * <a href="https://github.com/0xDrMoe/TownofHost-Enhanced/releases/tag/v1.5.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.5.0 Changelog</strong><ExternalLinkIcon/></a> or support us on <a href="https://ko-fi.com/tohen/" target="_blank" rel="noopener noreferrer"><strong>Ko-Fi</strong><ExternalLinkIcon/></a> to get access to early features!</li>
+<li>Check out all of our translators <RouterLink to="/AboutUs.html#translators">here</RouterLink>!</li>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/releases/tag/v1.5.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.5.0 Changelog</strong><ExternalLinkIcon/></a></li>
+<li>Support us on <a href="https://ko-fi.com/tohen/" target="_blank" rel="noopener noreferrer"><strong>Ko-Fi</strong><ExternalLinkIcon/></a> to get early access to features, roles, and more!</li>
 </ul>
-<hr>
-<hr>
 <h2 id="latest-site-changelogs" tabindex="-1"><a class="header-anchor" href="#latest-site-changelogs" aria-hidden="true">#</a> <font size=5em><b>Latest Site Changelogs:</b></font><br></h2>
 <ul>
 <li>By <a href="https://github.com/Pyro0TV" target="_blank" rel="noopener noreferrer"><strong>Pyro</strong><ExternalLinkIcon/></a> and <a href="https://github.com/Marrowless" target="_blank" rel="noopener noreferrer"><strong>Marrow</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated Role Counts and lists, Sidebars, and Tables Again! <br>
 = Updated to v1.5.0<br>
 + Have a good day!<br>
-= <font color=#fdf08e><b>NOTE</b></font>: I will still be updating the site, but a tad less than I usually do. This is because I'm in Jersey, until Febuary/March. -Pyro<br>
-= <font color=#fdf08e><b>NOTE #2</b></font>: It's okay Pyro! I got your back! -Marrow<br></li>
+= <font color=#fdf08e><b>NOTE</b></font>: I will still be updating the site, but a tad less than I usually do. This is because I'm in Jersey, until Febuary/March. - Pyro<br>
+= <font color=#fdf08e><b>NOTE #2</b></font>: It's okay Pyro! I got your back! - Marrow<br></li>
 </ul>
 </div></template>
 

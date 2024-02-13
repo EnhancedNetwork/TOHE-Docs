@@ -16,12 +16,12 @@ next: Impostors
 
 <tr>
 <td><font color=#ff9ace><b>Add-ons</b></font></td>
-<td align="center">2</td>
+<td align="center">3</td>
 </tr>
 
 <tr>
 <td><font color=#8cffff><b>Crewmate</b></font> </td>
-<td align="center">3</td>
+<td align="center">2</td>
 </tr>
 
 <tr>
@@ -59,5 +59,5 @@ next: Impostors
 
 ### <font color=#7f8c8d><b>Neutral</b></font>
 ---
-[Doppelganger](/options/Experimental/Neutral/Doppelganger.html) | [God](/options/Experimental/Neutral/God.html) | [Solsticer](/options/Experimental/Neutral/Solsticer.html) | [Spiritcaller](/options/Experimental/Neutral/Spiritcaller.html)
+[Doppelganger](/options/Experimental/Neutral/Doppelganger.html) | [God](/options/Experimental/Neutral/God.html) | [Quizmaster](/options/Experimental/Neutral/Quizmaster.html) | [Solsticer](/options/Experimental/Neutral/Solsticer.html) | [Spiritcaller](/options/Experimental/Neutral/Spiritcaller.html)
 <br>

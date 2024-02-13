@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Scavenger
-prev: Puppeteer
+prev: RiftMaker
 next: Shapemaster
 ---
 

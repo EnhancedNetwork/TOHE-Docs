@@ -9,7 +9,10 @@
 </li>
 <li>Hater kills target when misfire
 <ul>
-<li>Set the Maximum amount of Haters that can be in a match</li>
+<li>
+<font color=green>ON</font>: The Hater will kill their target on misfire</li>
+<li>
+<font color=red>OFF</font>: The Hater will not kill their target on misfire</li>
 </ul>
 </li>
 <li>Select addons that Hater can kill

@@ -7,7 +7,7 @@
 </tr>
 <tr>
 <td><font color=#e69c9c><b>Basic</b></font></td>
-<td align="center">14</td>
+<td align="center">13</td>
 </tr>
 <tr>
 <td><font color=#b22222><b>Killing</b></font></td>
@@ -27,13 +27,13 @@
 </tr>
 <tr>
 <td><font color=#8cffff><b>Total:</b></font></td>
-<td align="center"><b>70</b></td>
+<td align="center"><b>69</b></td>
 </tr>
 </table>
 <br>
 <h3 id="basic" tabindex="-1"><a class="header-anchor" href="#basic" aria-hidden="true">#</a> <font color=#e69c9c><b>Basic</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Crewmates/Basic/Addict.html">Addict</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Alchemist.html">Alchemist</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Celebrity.html">Celebrity</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Cleanser.html">Cleanser</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Doctor.html">Doctor</RouterLink> | <RouterLink to="/options/Crewmates/Basic/GuessMaster.html">Guess Master</RouterLink> | <RouterLink to="/options/Crewmates/Basic/LazyGuy.html">Lazy Guy</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Luckey.html">Luckey</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Mini.html">Mini</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Mole.html">Mole</RouterLink> | <RouterLink to="/options/Crewmates/Basic/SuperStar.html">Super Star</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Randomizer.html">Randomizer</RouterLink> | <RouterLink to="/options/Crewmates/Basic/TaskManager.html">Task Manager</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Tracefinder.html">Tracefinder</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Transporter.html">Transporter</RouterLink>
+<p><RouterLink to="/options/Crewmates/Basic/Addict.html">Addict</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Alchemist.html">Alchemist</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Celebrity.html">Celebrity</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Cleanser.html">Cleanser</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Doctor.html">Doctor</RouterLink> | <RouterLink to="/options/Crewmates/Basic/GuessMaster.html">Guess Master</RouterLink> | <RouterLink to="/options/Crewmates/Basic/LazyGuy.html">Lazy Guy</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Mini.html">Mini</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Mole.html">Mole</RouterLink> | <RouterLink to="/options/Crewmates/Basic/SuperStar.html">Super Star</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Randomizer.html">Randomizer</RouterLink> | <RouterLink to="/options/Crewmates/Basic/TaskManager.html">Task Manager</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Tracefinder.html">Tracefinder</RouterLink> | <RouterLink to="/options/Crewmates/Basic/Transporter.html">Transporter</RouterLink>
 <br></p>
 <h3 id="killing" tabindex="-1"><a class="header-anchor" href="#killing" aria-hidden="true">#</a> <font color=#b22222><b>Killing</b></font></h3>
 <hr>

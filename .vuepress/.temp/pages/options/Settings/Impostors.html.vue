@@ -7,7 +7,7 @@
 </tr>
 <tr>
 <td><font color=indigo><b>Concealing</b></font></td>
-<td align="center">13</td>
+<td align="center">14</td>
 </tr>
 <tr>
 <td><font color=#636363><b>Hindering</b></font></td>
@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td><font color=red><b>Madmate</b></font></td>
-<td align="center">2</td>
+<td align="center">4</td>
 </tr>
 <tr>
 <td><font color=#00ffff><b>Support</b></font> </td>
@@ -31,13 +31,13 @@
 </tr>
 <tr>
 <td><font color=red><b>Total:</b></font></td>
-<td align="center"><b>58</b></td>
+<td align="center"><b>61</b></td>
 </tr>
 </table>
 <br>
 <h3 id="concealing" tabindex="-1"><a class="header-anchor" href="#concealing" aria-hidden="true">#</a> <font color=indigo><b>Concealing</b></font></h3>
 <hr>
-<p><RouterLink to="/options/Impostors/Concealing/Escapist.html">Escapist</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Mastermind.html">Mastermind</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Miner.html">Miner</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Puppeteer.html">Puppeteer</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Scavenger.html">Scavenger</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Shapemaster.html">Shapemaster</RouterLink> | <RouterLink to="/options/Impostors/Concealing/SoulCatcher.html">Soul Catcher</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Swooper.html">Swooper</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Trickster.html">Trickster</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Undertaker.html">Undertaker</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Vampire.html">Vampire</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Warlock.html">Warlock</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Wildling.html">Wildling</RouterLink>
+<p><RouterLink to="/options/Impostors/Concealing/Escapist.html">Escapist</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Mastermind.html">Mastermind</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Miner.html">Miner</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Puppeteer.html">Puppeteer</RouterLink> | <RouterLink to="/options/Impostors/Concealing/RiftMaker.html">Rift Maker</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Scavenger.html">Scavenger</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Shapemaster.html">Shapemaster</RouterLink> | <RouterLink to="/options/Impostors/Concealing/SoulCatcher.html">Soul Catcher</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Swooper.html">Swooper</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Trickster.html">Trickster</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Undertaker.html">Undertaker</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Vampire.html">Vampire</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Warlock.html">Warlock</RouterLink> | <RouterLink to="/options/Impostors/Concealing/Wildling.html">Wildling</RouterLink>
 <br></p>
 <h3 id="hindering" tabindex="-1"><a class="header-anchor" href="#hindering" aria-hidden="true">#</a> <font color=#636363><b>Hindering</b></font></h3>
 <hr>

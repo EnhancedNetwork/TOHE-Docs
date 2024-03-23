@@ -4,13 +4,13 @@ title: 关于我们
 contributors: false
 ---
 
-:::warning 关于此模组
+::: warning 关于此模组
 
 此模组不隶属于 Among Us 或 Innersloth LLC，其包含的内容也未得到 Innersloth LLC 的认可或以其他方式赞助。 此处包含的部分材料是Innersloth LLC的财产 © Innersloth LLC.
 
 :::
 
-<font size=4em>尚未完成，许多 "关于" 下拉菜单可能有占位符简介</font>
+<font size=4em>尚未完成，许多"关于"下拉菜单可能有占位符简介</font>
 
 ## 项目负责人
 
@@ -38,12 +38,12 @@ contributors: false
 
 ***
 
-[**Tommy-XL**](https://github.com/Tommy-XL)：职业和功能编码，<font color=#0036a7><b>俄语</b></font> 翻译人员
+[**Tommy-XL**](https://github.com/Tommy-XL)：职业和功能编码，<font color=#0036a7><b>俄语</b></font>翻译人员
 
 <details>
 <summary><b><font color=gray>关于</font></b></summary>
 
-我喜欢玩游戏(我主要玩 PlayStation 上的所有游戏)。 我尤其关注游戏/动漫中的配乐，例如游戏《暗黑破坏神》和动漫《死亡笔记》中的配乐就非常好。 我对编程很感兴趣，但真正开始编程是在咔皮呆不再担任 TOHE 开发人员之后。
+我喜欢玩游戏（我主要玩 PlayStation 上的所有游戏）。 我尤其关注游戏/动漫中的配乐，例如游戏《暗黑破坏神》和动漫《死亡笔记》中的配乐就非常好。 我对编程很感兴趣，但真正开始编程是在咔皮呆不再担任 TOHE 开发人员之后。
 
 </details>
 
@@ -60,7 +60,7 @@ contributors: false
 
 ## 贡献者
 
-[**Gurge44**](https://www.youtube.com/@200iqguy)：角色编码，<font color=#cf192b><b>英语</b></font> 翻译人员 (TOHE+ Dev)
+[**Gurge44**](https://www.youtube.com/@200iqguy)：职业编码，<font color=#cf192b><b>英语</b></font>翻译人员 (TOHE+ 开发人员)
 
 <details>
 <summary><b><font color=gray>关于</font></b></summary>
@@ -152,7 +152,7 @@ contributors: false
 
 ***
 
-[**乐崽吖**](https://github.com/LezaiYa)：职业编码, <font color=#de2910><b>简体中文</b></font> 翻译人员
+[**乐崽吖**](https://github.com/LezaiYa)：职业编码, <font color=#de2910><b>简体中文</b></font>翻译人员
 
 <details>
 <summary><b><font color=gray>关于</font></b></summary>
@@ -203,7 +203,7 @@ TOHE 的老兵，擅长 Photoshop(PS)，可惜仍在找工作
 <details>
 <summary><b><font color=gray>关于</font></b></summary>
 
-我是一名TOHE的翻译人员。我喜欢玩不同种类的游戏，比如Minecraft(做redstone/Hypixel Skyblock/ManaMetal)和Among Us模组(TOHE/TONX)在学校里我擅长学习不同的科目。 从 2.5.0 版本开始玩 TOHE。 我喜欢找bug/漏洞。
+我是一名TOHE的翻译人员。我喜欢玩不同种类的游戏，比如Minecraft(做redstone/Hypixel Skyblock/ManaMetal)和Among Us模组(TOHE/TONX)在学校里我擅长学习不同的科目。 从 2.5.0 版本开始玩 TOHE。 我喜欢找bug。
 
 </details>
 
@@ -440,12 +440,12 @@ TOHE 的老兵，擅长 Photoshop(PS)，可惜仍在找工作
 
 ## 原创作者
 
-[**咔皮呆**](https://github.com/KARPED1EM)：TOHE原创作者(TONX Dev)
+[**咔皮呆**](https://github.com/KARPED1EM)：TOHE原创作者(TONX 开发人员)
 
 <details>
 <summary><b><font color=gray>关于</font></b></summary>
 
-TOH: Edited的原创作者，现正为TONX/Town of Next再次创作。
+TOH: Edited的原创作者，现在正为TONX/Town of Next再次创作。
 
 </details>
 
@@ -467,7 +467,7 @@ TOH: Enhanced是TOHE: Restored的延续 (后更名为TOH: Re-Edited)
 <details>
 <summary><b><font color=gray>模组信息</font></b></summary>
 
-先前被称为Town Of Host Edited，现在再次被命名为Town Of Next！ (TONX) 这是TOHE: Restored和TOH: Enhanced的原始底本。
+先前被称为 Town Of Host Edited，现在再次被命名为Town Of Next！ (TONX) 这是 TOHE: Restored 和 TOH: Enhanced 的原始版本。
 
 </details>
 
@@ -478,7 +478,7 @@ TOH: Enhanced是TOHE: Restored的延续 (后更名为TOH: Re-Edited)
 <details>
 模组信息
 
-Town of Host模组的分支 这里的大部分基础上的代码都来自 Town of Host模组的
+Town of Host 模组的分支 这里的大部分基础上的代码都来自 Town of Host 模组的
 
 </details>
 
@@ -577,7 +577,7 @@ Town of Host模组的分支 这里的大部分基础上的代码都来自 Town o
 <details>
 <summary><b><font color=gray>模组信息</font></b></summary>
 
-参考： 凭证菜单、切换马模式、搜索模组游戏和自定义按钮。
+参考：菜单、切换马模式、搜索模组游戏和自定义按钮。
 
 </details>
 
@@ -588,7 +588,7 @@ Town of Host模组的分支 这里的大部分基础上的代码都来自 Town o
 <details>
 <summary><b><font color=gray>模组信息</font></b></summary>
 
-参考： 修改设置菜单。
+参考：修改设置菜单。
 
 </details>
 

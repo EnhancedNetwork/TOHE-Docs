@@ -34,7 +34,7 @@ footer: "© 2023 By Town of Host: Enhanced"
 
 ***
 
-<p>致将Town of Host: Edited和Town of Host: Re-Edited深深铭记于心的所有优秀玩家</p>
+<p>致敬Town of Host: Edited和Town of Host: Re-Edited深深铭记于心的所有优秀玩家</p>
 <p>我们已经继承了TOHRE的所有内容并且继续保持模组的维护。 Moe担任项目负责人，并将继续维护本网站以及Ko-fi。</p>
 <p>我们玩《Among Us》的时间很长，所以我们会尽力保持更新并提升可玩性。</p>
 <p>请记住，我们仍处于早期阶段，并非所有内容都经过优化并且稳定。

@@ -163,5 +163,4 @@ sidebar:
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated Role Counts and lists, Sidebars, and Tables Again! <br>
 = Updated to v1.5.0<br>
 \+ Have a good day!<br>
-= <font color=#fdf08e><b>NOTE</b></font>: I will still be updating the site, but a tad less than I usually do. This is because I'm in Jersey, until Febuary/March. - Pyro<br>
-= <font color=#fdf08e><b>NOTE #2</b></font>: It's okay Pyro! I got your back! - Marrow<br>
+= <font color=#fdf08e><b>NOTE</b></font>: I'm back updating the site! The only things you may notice are, 1: Changelogs aren't updated (I'm not doin it so yeye), 2: Some roles settings may not be entirely up to date, its a lot already to catch up on what i catched up on, so my bad. - Pyro<br>

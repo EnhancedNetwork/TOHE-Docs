@@ -280,6 +280,9 @@ next: Impostors
       * <font color=green>ON</font>: Guessers' commands will be hidden
       * <font color=red>OFF</font>: Guessers' commands will be shown 
   * <font color=red>OFF</font>: Guesser Mode will be disabled
+* Show only enabled roles in Guesser UI
+  * <font color=green>ON</font>: Guesser UI will only display the roles that you have toggled on (5%-100%)
+  * <font color=red>OFF</font>: Guesser UI will display all roles like before (0%-100%)
 
 <font side=4em color=#ffeb04>Roles and Add-ons for Guesser Mode</font>
   * <font size=3.5em color=#baaae9><b>Onbound</b></font>

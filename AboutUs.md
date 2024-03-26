@@ -44,7 +44,7 @@ I love playing games (I mostly play all games on PlayStation). I especially pay 
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 
-I am a Helper in the TOHE Discord server, aswell as a Website Developer for tohre.dev. Some hobbies I have are playing games, listening to music, watching shows/movies, & coding (for what I know). Some games I play are Minecraft, Among Us, Fortnite, & Halo. Some of my favorite shows & movies are Adventure Time, Naruto, & Marvel. Hope we can be good friends!
+I am a Helper in the TOHE Discord server, aswell as a Website Developer for tohre.dev. Some hobbies I have are playing games, listening to music, watching shows/movies, & coding (for what I know). Some games I play are Minecraft, Among Us, Fortnite, & Halo. Some of my favorite shows & movies are Adventure Time & Marvel. Hope we can be good friends!
 </details>
 
 ## Contributors

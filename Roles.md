@@ -31,36 +31,36 @@ sidebar:
 <tr>
 <td><font color=#ff9ace><b>Add-ons</b></font></td>
 <td>Add-ons that can be added to any role for any player</td>
-<td align="center">54 (+1)</td>
+<td align="center">58 (+1)</td>
 </tr>
 
 <tr>
 <td><font color=#8cffff><b>Crewmate</b></font> </td>
 <td>Play together and win by completing all tasks/voting out all Evil</td>
-<td align="center">70</td>
+<td align="center">72</td>
 </tr>
 
 <tr>
 <td><font color=#76b8e0><b>Experimental</b></font></td>
 <td>Roles that are not fully stable and may contain bugs</td>
-<td align="center">17</td>
+<td align="center">6</td>
 </tr>
 
 <tr>
 <td><font color=red><b>Impostor</b></font></td>
 <td>Play together and win via killing/voting out all Crewmates/Neutrals</td>
-<td align="center">57</td>
+<td align="center">69</td>
 </tr>
 
 <tr>
 <td><font color=#7c8c8d><b>Neutral</b></font></td>
 <td>Play alone and win via their own win conditions</td>
-<td align="center">58</td>
+<td align="center">62</td>
 </tr>
 
 <tr>
 <td colspan=2><b>Total:</b></td>
-<td align="center"><b>255</b></td>
+<td align="center"><b>268</b></td>
 </tr>
 </table>
 <br>

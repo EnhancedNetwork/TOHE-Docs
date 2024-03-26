@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Mastermind
-prev: Escapist
+prev: Lightning
 next: Miner
 ---
 

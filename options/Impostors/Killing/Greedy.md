@@ -2,7 +2,7 @@
 lang: en-US
 title: Greedy
 prev: EvilTracker
-next: Inhibitor
+next: Hangman
 ---
 
 # <font color=red>🤑 <b>Greedy</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

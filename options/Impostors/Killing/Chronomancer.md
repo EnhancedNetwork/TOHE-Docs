@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Chronomancer
-prev: BountyHunter
+prev: Butcher
 next: Councillor
 ---
 

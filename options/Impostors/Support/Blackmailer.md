@@ -1,14 +1,12 @@
 ---
 lang: en-US
 title: Blackmailer
-prev: /options/Settings/Experimental.html
-next: Butcher
+prev: AntiAdminer
+next: Camouflager
 ---
 
-# <font color=red>🔇 <b>Blackmailer</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🔇 <b>Blackmailer</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
-<font size=4em>Experimental Reason: Should be fixed, Needs Testing</font><br>
-Note: Most likely an Impostor Hindering
 
 As the Blackmailer, when you shift into a target you will blackmail that player, and the blackmailed player cannot speak.<br><br>
 Speaking by the blackmailed player will trigger the confusion command, please do not speak when the blackmailed player sees his icon

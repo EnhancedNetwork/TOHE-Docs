@@ -2,7 +2,7 @@
 lang: en-US
 title: Instigator
 prev: Inhibitor
-next: Ludopath
+next: KillingMachine
 ---
 
 # <font color=red>🤬 <b>Instigator</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

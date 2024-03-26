@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Ludopath
-prev: Instigator
+prev: KillingMachine
 next: Lurker
 ---
 

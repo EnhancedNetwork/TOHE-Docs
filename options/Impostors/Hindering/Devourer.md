@@ -2,7 +2,7 @@
 lang: en-US
 title: Devourer
 prev: Dazzler
-next: Pitfall
+next: Eraser
 ---
 
 # <font color="red">👹 <b>Devourer</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>

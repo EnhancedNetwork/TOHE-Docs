@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Zombie
-prev: Lightning
-next: /options/Settings/Experimental.html
+prev: Witch
+next: /options/Settings/Impostors.html
 ---
 
-# <font color=red>🧟 <b>Zombie</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🧟 <b>Zombie</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 <font size=4em>Experimental Reason: changes its speed, which is buggy, Needs Rework</font><br>
 Note: Most likely an Impostor Killing

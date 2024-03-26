@@ -17,22 +17,27 @@ next: Crewmates
 
 <tr>
 <td><font color=indigo><b>Concealing</b></font></td>
-<td align="center">14</td>
+<td align="center">15</td>
+</tr>
+
+<tr>
+<td><font color=#bd8b88><b>Ghost</b></font></td>
+<td align="center">2</td>
 </tr>
 
 <tr>
 <td><font color=#636363><b>Hindering</b></font></td>
-<td align="center">5</td>
+<td align="center">8</td>
 </tr>
 
 <tr>
 <td><font color=#6e003a><b>Killing</b></font></td>
-<td align="center">23</td>
+<td align="center">27</td>
 </tr>
 
 <tr>
 <td><font color=red><b>Madmate</b></font></td>
-<td align="center">4</td>
+<td align="center">2 (+2)</td>
 </tr>
 
 <tr>
@@ -47,7 +52,7 @@ next: Crewmates
 
 <tr>
 <td><font color=red><b>Total:</b></font></td>
-<td align="center"><b>61</b></td>
+<td align="center"><b>69</b></td>
 </tr>
 
 </table>
@@ -55,17 +60,21 @@ next: Crewmates
 
 ### <font color=indigo><b>Concealing</b></font>
 ---
-[Escapist](/options/Impostors/Concealing/Escapist.html) | [Mastermind](/options/Impostors/Concealing/Mastermind.html) | [Miner](/options/Impostors/Concealing/Miner.html) | [Puppeteer](/options/Impostors/Concealing/Puppeteer.html) | [Rift Maker](/options/Impostors/Concealing/RiftMaker.html) | [Scavenger](/options/Impostors/Concealing/Scavenger.html) | [Shapemaster](/options/Impostors/Concealing/Shapemaster.html) | [Soul Catcher](/options/Impostors/Concealing/SoulCatcher.html) | [Swooper](/options/Impostors/Concealing/Swooper.html) | [Trickster](/options/Impostors/Concealing/Trickster.html) | [Undertaker](/options/Impostors/Concealing/Undertaker.html) | [Vampire](/options/Impostors/Concealing/Vampire.html) | [Warlock](/options/Impostors/Concealing/Warlock.html) | [Wildling](/options/Impostors/Concealing/Wildling.html)
+[Escapist](/options/Impostors/Concealing/Escapist.html) | [Lightning](/options/Impostors/Concealing/Lightning.html) | [Mastermind](/options/Impostors/Concealing/Mastermind.html) | [Miner](/options/Impostors/Concealing/Miner.html) | [Puppeteer](/options/Impostors/Concealing/Puppeteer.html) | [Rift Maker](/options/Impostors/Concealing/RiftMaker.html) | [Scavenger](/options/Impostors/Concealing/Scavenger.html) | [Shapemaster](/options/Impostors/Concealing/Shapemaster.html) | [Soul Catcher](/options/Impostors/Concealing/SoulCatcher.html) | [Swooper](/options/Impostors/Concealing/Swooper.html) | [Trickster](/options/Impostors/Concealing/Trickster.html) | [Undertaker](/options/Impostors/Concealing/Undertaker.html) | [Vampire](/options/Impostors/Concealing/Vampire.html) | [Warlock](/options/Impostors/Concealing/Warlock.html) | [Wildling](/options/Impostors/Concealing/Wildling.html)
 <br>
+
+### <font color=#bd8b88><b>Ghost</b></font>
+---
+[Minion](/options/Impostors/Ghost/Minion.html) | [Nemesis](/options/Impostors/Ghost/Nemesis.html)
 
 ### <font color=#636363><b>Hindering</b></font>
 ---
-[Anonymous](/options/Impostors/Hindering/Anonymous.html) | [Dazzler](/options/Impostors/Hindering/Dazzler.html) | [Devourer](/options/Impostors/Hindering/Devourer.html) | [Pitfall](/options/Impostors/Hindering/Pitfall.html) | [Twister](/options/Impostors/Hindering/Twister.html)
+[Anonymous](/options/Impostors/Hindering/Anonymous.html) | [Dazzler](/options/Impostors/Hindering/Dazzler.html) | [Devourer](/options/Impostors/Hindering/Devourer.html) | [Eraser](/options/Impostors/Hindering/Eraser.html) | [Penguin](/options/Impostors/Hindering/Penguin.html) | [Pitfall](/options/Impostors/Hindering/Pitfall.html) | [Stealth](/options/Impostors/Hindering/Stealth.html) | [Twister](/options/Impostors/Hindering/Twister.html)
 <br>
 
 ### <font color=#b22222><b>Killing</b></font>
 ---
-[Arrogance](/options/Impostors/Killing/Arrogance.html) | [Berserker](/options/Impostors/Killing/Berserker.html) | [Bomber](/options/Impostors/Killing/Bomber.html) | [Bounty Hunter](/options/Impostors/Killing/BountyHunter.html) | [Chronomancer](/options/Impostors/Killing/Chronomancer.html) | [Councillor](/options/Impostors/Killing/Councillor.html) | [Cursed Wolf](/options/Impostors/Killing/CursedWolf.html) | [Deathpact](/options/Impostors/Killing/Deathpact.html) | [Evil Guesser](/options/Impostors/Killing/EvilGuesser.html) | [Evil Tracker](/options/Impostors/Killing/EvilTracker.html) | [Greedy](/options/Impostors/Killing/Greedy.html) | [Inhibitor](/options/Impostors/Killing/Inhibitor.html) | [Instigator](/options/Impostors/Killing/Instigator.html) | [Ludopath](/options/Impostors/Killing/Ludopath.html) | [Lurker](/options/Impostors/Killing/Lurker.html) | [Mercenary](/options/Impostors/Killing/Mercenary.html) | [Ninja](/options/Impostors/Killing/Ninja.html) | [Quick Shooter](/options/Impostors/Killing/Quickshooter.html) | [Saboteur](/options/Impostors/Killing/Saboteur.html) | [Sniper](/options/Impostors/Killing/Sniper.html) | [Spellcaster](/options/Impostors/Killing/Spellcaster.html) | [Trapster](/options/Impostors/Killing/Trapster.html) | [Underdog](/options/Impostors/Killing/Underdog.html)
+[Arrogance](/options/Impostors/Killing/Arrogance.html) | [Berserker](/options/Impostors/Killing/Berserker.html) | [Bomber](/options/Impostors/Killing/Bomber.html) | [Bounty Hunter](/options/Impostors/Killing/BountyHunter.html) | [Butcher](/options/Impostors/Killing/Butcher.html) | [Chronomancer](/options/Impostors/Killing/Chronomancer.html) | [Councillor](/options/Impostors/Killing/Councillor.html) | [Cursed Wolf](/options/Impostors/Killing/CursedWolf.html) | [Deathpact](/options/Impostors/Killing/Deathpact.html) | [Evil Guesser](/options/Impostors/Killing/EvilGuesser.html) | [Evil Tracker](/options/Impostors/Killing/EvilTracker.html) | [Greedy](/options/Impostors/Killing/Greedy.html) | [Hangman](/options/Impostors/Killing/Hangman.html) | [Inhibitor](/options/Impostors/Killing/Inhibitor.html) | [Instigator](/options/Impostors/Killing/Instigator.html) | [Killing Machine](/options/Impostors/Killing/KillingMachine.html) | [Ludopath](/options/Impostors/Killing/Ludopath.html) | [Lurker](/options/Impostors/Killing/Lurker.html) | [Mercenary](/options/Impostors/Killing/Mercenary.html) | [Ninja](/options/Impostors/Killing/Ninja.html) | [Quick Shooter](/options/Impostors/Killing/Quickshooter.html) | [Saboteur](/options/Impostors/Killing/Saboteur.html) | [Sniper](/options/Impostors/Killing/Sniper.html) | [Spellcaster](/options/Impostors/Killing/Spellcaster.html) | [Trapster](/options/Impostors/Killing/Trapster.html) | [Underdog](/options/Impostors/Killing/Underdog.html)
 <br>
 
 ### <font color=red><b>Madmate</b></font>
@@ -75,7 +84,7 @@ next: Crewmates
 
 ### <font color=#00ffff><b>Support</b></font>
 ---
-[Anti Adminer](/options/Impostors/Support/AntiAdminer.html) | [Camouflager](/options/Impostors/Support/Camouflager.html) | [Cleaner](/options/Impostors/Support/Cleaner.html) | [Consigliere](/options/Impostors/Support/Consigliere.html) | [Fireworker](/options/Impostors/Support/Fireworker.html) | [Gangster](/options/Impostors/Support/Gangster.html) | [Godfather](/options/Impostors/Support/Godfather.html) | [Kamikaze](/options/Impostors/Support/Kamikaze.html) | [Morphling](/options/Impostors/Support/Morphling.html) | [Nemesis](/options/Impostors/Support/Nemesis.html) | [Time Thief](/options/Impostors/Support/TimeThief.html) | [Vindicator](/options/Impostors/Support/Vindicator.html) | [Visionary](/options/Impostors/Support/Visionary.html)
+[Anti Adminer](/options/Impostors/Support/AntiAdminer.html) | [Blackmailer](/options/Impostors/Support/Blackmailer.html) | [Camouflager](/options/Impostors/Support/Camouflager.html) | [Cleaner](/options/Impostors/Support/Cleaner.html) | [Consigliere](/options/Impostors/Support/Consigliere.html) | [Fireworker](/options/Impostors/Support/Fireworker.html) | [Gangster](/options/Impostors/Support/Gangster.html) | [Godfather](/options/Impostors/Support/Godfather.html) | [Kamikaze](/options/Impostors/Support/Kamikaze.html) | [Morphling](/options/Impostors/Support/Morphling.html) | [Nemesis](/options/Impostors/Support/Nemesis.html) | [Time Thief](/options/Impostors/Support/TimeThief.html) | [Vindicator](/options/Impostors/Support/Vindicator.html) | [Visionary](/options/Impostors/Support/Visionary.html)
 <br>
 
 ### <font color=#8cffff><b>Vanilla</b></font>

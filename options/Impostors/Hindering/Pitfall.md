@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Pitfall
-prev: Devourer
-next: Twister
+prev: Penguin
+next: Stealth
 ---
 
 # <font color=red>🤸 <b>Pitfall</b></font> <Badge text="Hindering" type="tip" vertical="middle"/>

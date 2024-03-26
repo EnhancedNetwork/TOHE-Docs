@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Inhibitor
-prev: Greedy
+prev: Hangman
 next: Instigator
 ---
 

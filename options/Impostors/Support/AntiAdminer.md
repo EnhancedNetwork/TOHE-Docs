@@ -2,7 +2,7 @@
 lang: en-US
 title: Anti Adminer
 prev: /options/settings/Impostors.html
-next: Camouflager
+next: Blackmailer
 ---
 
 # <font color="red">🛠️ <b>Anti Adminer</b></font> <Badge text="Support" type="tip" vertical="middle"/>

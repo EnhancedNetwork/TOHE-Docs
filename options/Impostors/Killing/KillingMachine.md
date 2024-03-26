@@ -1,14 +1,12 @@
 ---
 lang: en-US
 title: Killing Machine
-prev: Hangman
-next: Lightning
+prev: Instigator
+next: Ludopath
 ---
 
-# <font color=red>🔪 <b>Killing Machine</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>
+# <font color=red>🔪 <b>Killing Machine</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
-<font size=4em>Experimental Reason: Needs Rework (There was plans for a rework, but then TOHRE died so it was never implemented)</font><br>
-Note: Most likely an Impostor Killing
 
 The Killing Machine has a very short kill cooldown, but cannot vent, has lower vision, cannot sabotage, cannot report, and cannot call emergency meetings. The Killing Machine also has the same vision as Crewmates.
 * Max

@@ -2,7 +2,7 @@
 lang: en-US
 title: Bounty Hunter
 prev: Bomber
-next: Chronomancer
+next: Butcher
 ---
 
 # <font color=red>🎯 <b>Bounty Hunter</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

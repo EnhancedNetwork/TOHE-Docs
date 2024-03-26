@@ -23,4 +23,4 @@ Holder of this addon will have 0 vote count.
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
 
-> From: Idea: [thewhiskas27] & Coding: [LoonieToons](https://github.com/Loonie-Toons/)
+> From: Idea: [thewhiskas27] & Coding: [ryuk]

@@ -1,14 +1,12 @@
 ---
 lang: en-US
 title: Solsticer
-prev: Quizmaster
-next: Spiritcaller
+prev: Revolutionist
+next: SoulCollector
 ---
 
-# <font color=#f2f17e>🌟 <b>Solsticer</b></font> <Badge text="Neutral" type="tip" vertical="middle"/>
+# <font color=#f2f17e>🌟 <b>Solsticer</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
 ---
-<font size=4em>Experimental Reason: requires testing</font><br>
-Note: Most likely a Neutral Chaos
 
 As the Solsticer, you won't die, and you win by finishing all your tasks in a single round. After every meeting is finished, your tasks get reset, and you need to start all over again.<br>
 Votes on the Solsticer will be directly cancelled.<br>

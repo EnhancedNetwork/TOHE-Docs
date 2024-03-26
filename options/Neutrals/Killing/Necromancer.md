@@ -2,7 +2,7 @@
 lang: en-US
 title: Necromancer
 prev: Medusa
-next: Occultist
+next: Pelican
 ---
 
 # <font color="#9c87ab">⚰️ <b>Necromancer</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

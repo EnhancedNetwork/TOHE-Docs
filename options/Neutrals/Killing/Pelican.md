@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Pelican
-prev: Occultist
+prev: Necromancer
 next: Pickpocket
 ---
 

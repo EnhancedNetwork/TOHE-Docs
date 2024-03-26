@@ -1,14 +1,12 @@
 ---
 lang: en-US
-title: Oiiai Cat
-prev: Fool
-next: YouTuber
+title: OIIAI
+prev: Guesser
+next: Rebound
 ---
 
-# <font color=#2bdb2b>🐱 <b>Oiiai Cat</b></font> <Badge text="Addon" type="tip" vertical="middle"/>
+# <font color=#2bdb2b>🐱 <b>OIIAI</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
 ---
-<font size=4em>Experimental Reason: Recently Added, Needs Testing</font><br>
-Note: Most likely a Mixed Add-on
 
 As the Oiiai, you will erase your killer's main role.<br>
 Additionally, Oiiai may pass on to the killer.<br>

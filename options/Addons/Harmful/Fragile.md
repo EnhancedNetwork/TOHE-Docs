@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Fragile
-prev: Disregarded
+prev: Fool
 next: Hurried
 ---
 

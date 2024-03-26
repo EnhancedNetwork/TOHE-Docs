@@ -2,7 +2,7 @@
 lang: en-US
 title: Swift
 prev: Stealer
-next: /options/Settings/Addons.html
+next: Tricky
 ---
 
 # <font color=red>🏃 <b>Swift</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>

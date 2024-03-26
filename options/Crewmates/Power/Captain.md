@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Captain
-prev: /options/Settings/Crewmates.html
+prev: Admirer
 next: Copycat
 ---
 

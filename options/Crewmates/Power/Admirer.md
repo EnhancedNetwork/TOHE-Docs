@@ -1,14 +1,12 @@
 ---
 lang: en-US
 title: Admirer
-prev: /options/Settings/Experimental.html
-next: Investigator
+prev: /options/Settings/Crewmates.html
+next: Captain
 ---
 
-# <font color="#ee43c3">💞 <b>Admirer</b></font> <Badge text="Crewmate" type="tip" vertical="middle"/>
+# <font color="#ee43c3">💞 <b>Admirer</b></font> <Badge text="Power" type="tip" vertical="middle"/>
 ---
-<font size=4em>Experimental Reason: Should be fixed, Needs Testing</font><br>
-Note: Most likely a Crewmate Support
 
 As the Admirer, admire a player to make them crewmate aligned.<br>
 They'll win with crewmates and not their original team.<br><br>

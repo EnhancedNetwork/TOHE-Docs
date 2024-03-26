@@ -2,7 +2,7 @@
 lang: en-US
 title: Inspector
 prev: Grenadier
-next: Keeper
+next: Investigator
 ---
 
 # <font color="#0d57af">🔍 <b>Inspector</b></font> <Badge text="Support" type="tip" vertical="middle"/>

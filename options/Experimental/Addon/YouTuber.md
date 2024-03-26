@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: YouTuber
-prev: OiiaiCat
+prev: /options/settings/Experimental.html
 next: /options/settings/Experimental.html
 ---
 

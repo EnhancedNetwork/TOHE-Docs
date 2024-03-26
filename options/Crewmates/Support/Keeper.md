@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Keeper
-prev: Inspector
+prev: Investigator
 next: Lighter
 ---
 

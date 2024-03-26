@@ -82,7 +82,7 @@ The game will end suddenly if there are an equal amount of Impostors alive to No
 
 2. You have made the punishment of the "Voting Mode" option to be Suicide, which could have killing all players, leaving Impostors or Neutrals alive to take the win.
 
-3. The host or a certain player made a fatal error, and the mod forcibly ended the game to prevent the game from being freezing.
+3. The host or a certain player made a fatal error, and the mod forcibly ended the game to prevent the game from being frozen.
 
 4. None of these, make a #bug-report (Include Logs from /dump!)
 

@@ -250,24 +250,24 @@ next: Modifiers
         * No vote - The player's vote will not be counted
         * Suicide - The player will suicide after meeting
           * Ignore the First Meeting
-            * <font color=green>ON</font>: The first meeting will not suicide the player
-            * <font color=red>OFF</font>: The first meeting will suicide the player
+            * <font color=green>ON</font>: The first meeting will not make the player suicide
+            * <font color=red>OFF</font>: The first meeting will make the player suicide
           * Ignore when No Dead Body
-            * <font color=green>ON</font>: If there's no dead body, skipping will not suicide the player
-            * <font color=red>OFF</font>: If there's no dead body, skipping will suicide the player
+            * <font color=green>ON</font>: If there's no dead body, skipping will not make the player suicide
+            * <font color=red>OFF</font>: If there's no dead body, skipping will make the player suicide
           * Ignore at Emergency Meetings
-            * <font color=green>ON</font>: If an Emergency Button is called, skipping will not suicide the player
-            * <font color=red>OFF</font>: If an Emergency Button is called, skipping will suicide the player
+            * <font color=green>ON</font>: If an Emergency Button is called, skipping will not make the player suicide
+            * <font color=red>OFF</font>: If an Emergency Button is called, skipping will make the player suicide
         * Self Vote - The player will vote themself
           * Ignore the First Meeting
-            * <font color=green>ON</font>: The first meeting will not suicide the player
-            * <font color=red>OFF</font>: The first meeting will suicide the player
+            * <font color=green>ON</font>: The first meeting will not make the player self-vote
+            * <font color=red>OFF</font>: The first meeting will make the player self-vote
           * Ignore when No Dead Body
-            * <font color=green>ON</font>: If there's no dead body, skipping will not suicide the player
-            * <font color=red>OFF</font>: If there's no dead body, skipping will suicide the player
+            * <font color=green>ON</font>: If there's no dead body, skipping will not make the player self-vote
+            * <font color=red>OFF</font>: If there's no dead body, skipping will make the player self-vote
           * Ignore at Emergency Meetings
-            * <font color=green>ON</font>: If an Emergency Button is called, skipping will not suicide the player
-            * <font color=red>OFF</font>: If an Emergency Button is called, skipping will suicide the player
+            * <font color=green>ON</font>: If an Emergency Button is called, skipping will not make the player self-vote
+            * <font color=red>OFF</font>: If an Emergency Button is called, skipping will make the player self-vote
       * If the player didn't vote
         * No vote - No vote will be tallied (Abstain)
         * Suicide - The player will suicide after the meeting

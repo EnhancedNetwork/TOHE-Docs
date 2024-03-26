@@ -30,4 +30,4 @@ Note: Cleansed, Last Impostor and Lovers can not be stolen.
   * <font color=green>ON</font>: the Bandit can Sabotage
   * <font color=red>OFF</font>: the Bandit cannot Sabotage
   
-> From: [ryuk](#)
+> Idea: [thewhiskas27] & Coding [ryuk](#)

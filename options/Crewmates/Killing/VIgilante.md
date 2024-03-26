@@ -12,7 +12,7 @@ The Vigilante is tasked with eliminating potential threats to the crew, but if t
 Note: Gangster can not convert Vigilante into madmate.
 * Max
   * Set the Maximum amount of Vigilantes that can be in a match
-* Crusade Cooldown
+* Kill Cooldown
   * Set how long the Vigilante has to wait to Kill
 
 > From: SLE (Mercenary)

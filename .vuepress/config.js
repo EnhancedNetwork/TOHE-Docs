@@ -9,8 +9,8 @@ export default ({
       title: 'TOHE',
       description: 'An Among Us Mod that adds a ton of new roles and settings to the game!',
     },
-    '/fr-FR/': {
-      lang: 'fr-FR',
+    '/fr/': {
+      lang: 'fr',
       title: 'TOHE',
       description: 'Un mod Among Us qui ajoute une tonne de nouveaux rôles et paramètres au jeu!',
     },
@@ -35,7 +35,7 @@ export default ({
         '/': {
           placeholder: 'Search',
         },
-        '/fr-FR/': {
+        '/fr/': {
           placeholder: 'Rechercher',
         },
         '/zh-CN/': {
@@ -521,8 +521,8 @@ export default ({
         toggleColorMode: 'Toggle Color Scheme',
         selectLanguageName: 'English',
       },
-      '/fr-FR/': {
-        base: '/fr-FR/',
+      '/fr/': {
+        base: '/fr/',
         navbar: [
           {
             text: 'Les Rôles',

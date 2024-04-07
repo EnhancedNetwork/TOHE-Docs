@@ -38,20 +38,16 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, or I
 
 2. Once the download is complete, unzip it into a new empty folder somewhere like on desktop.
 
-3. Locate your AmongUs install. Find Among Us and click on the 3 dots `...` > click the folder icon button on the installation bar ![image](https://github.com/whichtwix/TOHRE-Code/assets/91138333/15241301-1de9-4288-a9aa-e45a21cb9f80)
-.
+3. Locate your AmongUs install. Find Among Us and click on the 3 dots `...` > click the folder icon button on the installation bar ![image](https://github.com/whichtwix/TOHRE-Code/assets/91138333/15241301-1de9-4288-a9aa-e45a21cb9f80).
 
 4. Select all of the files in your AmongUs installation and copy them to the folder that now has the files from the TOHE release. The folder should now look something like this:
-![image](https://github.com/whichtwix/TOHRE-Code/assets/91138333/2f0416c1-101f-44a2-9fd1-49f0714254c3).
 
-5. Make sure legendary.exe does not have a (1) or any other number in it and is named exactly this.
+![image](https://github.com/whichtwix/TOHRE-Code/assets/91138333/141240d1-f0f3-41b5-b2e7-016be62f5fae).
 
+5. Within the TOHE folder, run the ```EpicGamesStarter.exe```. The first time running it may take some time while the mod sets up its files. If you see a black screen, just wait a couple minutes. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.
 
-6. Within the TOHE folder, run EpicGamesStartGame.cmd. The first time running it may take some time while installing a prerequisite and the mod sets up its files. If you see a black screen or a console window, just wait a couple minutes. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.
+6. Add the folder you put the mod and among us files in as a exclusion for any antivirus you have and windows defender.
 
-7. Add the folder you put the mod and among us files in as a exclusion for any antivirus you have and windows defender.
-
-8. (Optional) Right click your EpicGamesStartGame.cmd and click 'Create shortcut'. Move your new shortcut to wherever you can easily access it, such as your Desktop! You can delete steam_appid.txt since its not needed as a epic player.
 #### You have now installed Town of Host: Enhanced! All that remains is to start up a private lobby and customize your settings.
 
 ## New Releases

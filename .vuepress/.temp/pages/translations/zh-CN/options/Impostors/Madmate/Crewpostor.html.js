@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/zh-CN/options/Impostors/Madmate/Crewpostor.html.vue"
+const data = JSON.parse("{\"path\":\"/translations/zh-CN/options/Impostors/Madmate/Crewpostor.html\",\"title\":\"Crewpostor\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Crewpostor\",\"prev\":\"/options/Settings/Impostors.html\",\"next\":\"Parasite\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"translations/zh-CN/options/Impostors/Madmate/Crewpostor.md\"}")
+export { comp, data }

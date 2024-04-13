@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/zh-CN/options/Experimental/Neutral/Spiritcaller.html.vue"
+const data = JSON.parse("{\"path\":\"/translations/zh-CN/options/Experimental/Neutral/Spiritcaller.html\",\"title\":\"Spiritcaller\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Spiritcaller\",\"prev\":\"God\",\"next\":\"/options/Settings/Experimental.html\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"translations/zh-CN/options/Experimental/Neutral/Spiritcaller.md\"}")
+export { comp, data }

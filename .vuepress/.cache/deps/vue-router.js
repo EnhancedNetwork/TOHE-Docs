@@ -11,172 +11,18 @@ import {
   provide,
   reactive,
   ref,
+  shallowReactive,
   shallowRef,
   unref,
   watch,
   watchEffect
-} from "./chunk-P5VCYDS3.js";
-import "./chunk-L2NJNJ4I.js";
-
-// node_modules/@vue/devtools-api/lib/esm/env.js
-function getDevtoolsGlobalHook() {
-  return getTarget().__VUE_DEVTOOLS_GLOBAL_HOOK__;
-}
-function getTarget() {
-  return typeof navigator !== "undefined" && typeof window !== "undefined" ? window : typeof global !== "undefined" ? global : {};
-}
-var isProxyAvailable = typeof Proxy === "function";
-
-// node_modules/@vue/devtools-api/lib/esm/const.js
-var HOOK_SETUP = "devtools-plugin:setup";
-var HOOK_PLUGIN_SETTINGS_SET = "plugin:settings:set";
-
-// node_modules/@vue/devtools-api/lib/esm/time.js
-var supported;
-var perf;
-function isPerformanceSupported() {
-  var _a;
-  if (supported !== void 0) {
-    return supported;
-  }
-  if (typeof window !== "undefined" && window.performance) {
-    supported = true;
-    perf = window.performance;
-  } else if (typeof global !== "undefined" && ((_a = global.perf_hooks) === null || _a === void 0 ? void 0 : _a.performance)) {
-    supported = true;
-    perf = global.perf_hooks.performance;
-  } else {
-    supported = false;
-  }
-  return supported;
-}
-function now() {
-  return isPerformanceSupported() ? perf.now() : Date.now();
-}
-
-// node_modules/@vue/devtools-api/lib/esm/proxy.js
-var ApiProxy = class {
-  constructor(plugin, hook) {
-    this.target = null;
-    this.targetQueue = [];
-    this.onQueue = [];
-    this.plugin = plugin;
-    this.hook = hook;
-    const defaultSettings = {};
-    if (plugin.settings) {
-      for (const id in plugin.settings) {
-        const item = plugin.settings[id];
-        defaultSettings[id] = item.defaultValue;
-      }
-    }
-    const localSettingsSaveId = `__vue-devtools-plugin-settings__${plugin.id}`;
-    let currentSettings = Object.assign({}, defaultSettings);
-    try {
-      const raw = localStorage.getItem(localSettingsSaveId);
-      const data = JSON.parse(raw);
-      Object.assign(currentSettings, data);
-    } catch (e) {
-    }
-    this.fallbacks = {
-      getSettings() {
-        return currentSettings;
-      },
-      setSettings(value) {
-        try {
-          localStorage.setItem(localSettingsSaveId, JSON.stringify(value));
-        } catch (e) {
-        }
-        currentSettings = value;
-      },
-      now() {
-        return now();
-      }
-    };
-    if (hook) {
-      hook.on(HOOK_PLUGIN_SETTINGS_SET, (pluginId, value) => {
-        if (pluginId === this.plugin.id) {
-          this.fallbacks.setSettings(value);
-        }
-      });
-    }
-    this.proxiedOn = new Proxy({}, {
-      get: (_target, prop) => {
-        if (this.target) {
-          return this.target.on[prop];
-        } else {
-          return (...args) => {
-            this.onQueue.push({
-              method: prop,
-              args
-            });
-          };
-        }
-      }
-    });
-    this.proxiedTarget = new Proxy({}, {
-      get: (_target, prop) => {
-        if (this.target) {
-          return this.target[prop];
-        } else if (prop === "on") {
-          return this.proxiedOn;
-        } else if (Object.keys(this.fallbacks).includes(prop)) {
-          return (...args) => {
-            this.targetQueue.push({
-              method: prop,
-              args,
-              resolve: () => {
-              }
-            });
-            return this.fallbacks[prop](...args);
-          };
-        } else {
-          return (...args) => {
-            return new Promise((resolve) => {
-              this.targetQueue.push({
-                method: prop,
-                args,
-                resolve
-              });
-            });
-          };
-        }
-      }
-    });
-  }
-  async setRealTarget(target) {
-    this.target = target;
-    for (const item of this.onQueue) {
-      this.target.on[item.method](...item.args);
-    }
-    for (const item of this.targetQueue) {
-      item.resolve(await this.target[item.method](...item.args));
-    }
-  }
-};
-
-// node_modules/@vue/devtools-api/lib/esm/index.js
-function setupDevtoolsPlugin(pluginDescriptor, setupFn) {
-  const descriptor = pluginDescriptor;
-  const target = getTarget();
-  const hook = getDevtoolsGlobalHook();
-  const enableProxy = isProxyAvailable && descriptor.enableEarlyProxy;
-  if (hook && (target.__VUE_DEVTOOLS_PLUGIN_API_AVAILABLE__ || !enableProxy)) {
-    hook.emit(HOOK_SETUP, pluginDescriptor, setupFn);
-  } else {
-    const proxy = enableProxy ? new ApiProxy(descriptor, hook) : null;
-    const list = target.__VUE_DEVTOOLS_PLUGINS__ = target.__VUE_DEVTOOLS_PLUGINS__ || [];
-    list.push({
-      pluginDescriptor: descriptor,
-      setupFn,
-      proxy
-    });
-    if (proxy)
-      setupFn(proxy.proxiedTarget);
-  }
-}
+} from "./chunk-CKQ4TNQ3.js";
+import {
+  setupDevtoolsPlugin
+} from "./chunk-UKCZNIRO.js";
 
 // node_modules/vue-router/dist/vue-router.mjs
-var isBrowser = typeof window !== "undefined";
+var isBrowser = typeof document !== "undefined";
 function isESModule(obj) {
   return obj.__esModule || obj[Symbol.toStringTag] === "Module";
 }
@@ -195,6 +41,46 @@ var isArray = Array.isArray;
 function warn(msg) {
   const args = Array.from(arguments).slice(1);
   console.warn.apply(console, ["[Vue Router warn]: " + msg].concat(args));
+}
+var HASH_RE = /#/g;
+var AMPERSAND_RE = /&/g;
+var SLASH_RE = /\//g;
+var EQUAL_RE = /=/g;
+var IM_RE = /\?/g;
+var PLUS_RE = /\+/g;
+var ENC_BRACKET_OPEN_RE = /%5B/g;
+var ENC_BRACKET_CLOSE_RE = /%5D/g;
+var ENC_CARET_RE = /%5E/g;
+var ENC_BACKTICK_RE = /%60/g;
+var ENC_CURLY_OPEN_RE = /%7B/g;
+var ENC_PIPE_RE = /%7C/g;
+var ENC_CURLY_CLOSE_RE = /%7D/g;
+var ENC_SPACE_RE = /%20/g;
+function commonEncode(text) {
+  return encodeURI("" + text).replace(ENC_PIPE_RE, "|").replace(ENC_BRACKET_OPEN_RE, "[").replace(ENC_BRACKET_CLOSE_RE, "]");
+}
+function encodeHash(text) {
+  return commonEncode(text).replace(ENC_CURLY_OPEN_RE, "{").replace(ENC_CURLY_CLOSE_RE, "}").replace(ENC_CARET_RE, "^");
+}
+function encodeQueryValue(text) {
+  return commonEncode(text).replace(PLUS_RE, "%2B").replace(ENC_SPACE_RE, "+").replace(HASH_RE, "%23").replace(AMPERSAND_RE, "%26").replace(ENC_BACKTICK_RE, "`").replace(ENC_CURLY_OPEN_RE, "{").replace(ENC_CURLY_CLOSE_RE, "}").replace(ENC_CARET_RE, "^");
+}
+function encodeQueryKey(text) {
+  return encodeQueryValue(text).replace(EQUAL_RE, "%3D");
+}
+function encodePath(text) {
+  return commonEncode(text).replace(HASH_RE, "%23").replace(IM_RE, "%3F");
+}
+function encodeParam(text) {
+  return text == null ? "" : encodePath(text).replace(SLASH_RE, "%2F");
+}
+function decode(text) {
+  try {
+    return decodeURIComponent("" + text);
+  } catch (err) {
+    warn(`Error decoding "${text}". Using original value`);
+  }
+  return "" + text;
 }
 var TRAILING_SLASH_RE = /\/$/;
 var removeTrailingSlash = (path) => path.replace(TRAILING_SLASH_RE, "");
@@ -219,7 +105,7 @@ function parseURL(parseQuery2, location2, currentLocation = "/") {
     fullPath: path + (searchString && "?") + searchString + hash,
     path,
     query,
-    hash
+    hash: decode(hash)
   };
 }
 function stringifyURL(stringifyQuery2, location2) {
@@ -265,6 +151,10 @@ function resolveRelativePath(to, from) {
     return from;
   const fromSegments = from.split("/");
   const toSegments = to.split("/");
+  const lastToSegment = toSegments[toSegments.length - 1];
+  if (lastToSegment === ".." || lastToSegment === ".") {
+    toSegments.push("");
+  }
   let position = fromSegments.length - 1;
   let toPosition;
   let segment;
@@ -278,7 +168,7 @@ function resolveRelativePath(to, from) {
     } else
       break;
   }
-  return fromSegments.slice(0, position).join("/") + "/" + toSegments.slice(toPosition - (toPosition === toSegments.length ? 1 : 0)).join("/");
+  return fromSegments.slice(0, position).join("/") + "/" + toSegments.slice(toPosition).join("/");
 }
 var NavigationType;
 (function(NavigationType2) {
@@ -320,8 +210,8 @@ function getElementPosition(el, offset) {
   };
 }
 var computeScrollPosition = () => ({
-  left: window.pageXOffset,
-  top: window.pageYOffset
+  left: window.scrollX,
+  top: window.scrollY
 });
 function scrollToPosition(position) {
   let scrollToOptions;
@@ -354,7 +244,7 @@ function scrollToPosition(position) {
   if ("scrollBehavior" in document.documentElement.style)
     window.scrollTo(scrollToOptions);
   else {
-    window.scrollTo(scrollToOptions.left != null ? scrollToOptions.left : window.pageXOffset, scrollToOptions.top != null ? scrollToOptions.top : window.pageYOffset);
+    window.scrollTo(scrollToOptions.left != null ? scrollToOptions.left : window.scrollX, scrollToOptions.top != null ? scrollToOptions.top : window.scrollY);
   }
 }
 function getScrollKey(path, delta) {
@@ -439,7 +329,9 @@ function useHistoryListeners(base, historyState, currentLocation, replace) {
     window.removeEventListener("beforeunload", beforeUnloadListener);
   }
   window.addEventListener("popstate", popStateHandler);
-  window.addEventListener("beforeunload", beforeUnloadListener);
+  window.addEventListener("beforeunload", beforeUnloadListener, {
+    passive: true
+  });
   return {
     pauseListeners,
     listen,
@@ -566,12 +458,10 @@ function createMemoryHistory(base = "") {
   base = normalizeBase(base);
   function setLocation(location2) {
     position++;
-    if (position === queue.length) {
-      queue.push(location2);
-    } else {
+    if (position !== queue.length) {
       queue.splice(position);
-      queue.push(location2);
     }
+    queue.push(location2);
   }
   function triggerListeners(to, from, { direction, delta }) {
     const info = {
@@ -720,7 +610,7 @@ var propertiesToLog = ["params", "query", "hash"];
 function stringifyRoute(to) {
   if (typeof to === "string")
     return to;
-  if ("path" in to)
+  if (to.path != null)
     return to.path;
   const location2 = {};
   for (const key of propertiesToLog) {
@@ -1169,18 +1059,18 @@ function createRouterMatcher(routes, globalOptions) {
         paramsFromLocation(
           currentLocation.params,
           // only keep params that exist in the resolved location
-          // TODO: only keep optional params coming from a parent record
-          matcher.keys.filter((k) => !k.optional).map((k) => k.name)
+          // only keep optional params coming from a parent record
+          matcher.keys.filter((k) => !k.optional).concat(matcher.parent ? matcher.parent.keys.filter((k) => k.optional) : []).map((k) => k.name)
         ),
         // discard any existing params in the current location that do not exist here
         // #1497 this ensures better active/exact matching
         location2.params && paramsFromLocation(location2.params, matcher.keys.map((k) => k.name))
       );
       path = matcher.stringify(params);
-    } else if ("path" in location2) {
+    } else if (location2.path != null) {
       path = location2.path;
       if (!path.startsWith("/")) {
-        warn(`The Matcher cannot resolve relative paths but received "${path}". Unless you directly called \`matcher.resolve("${path}")\`, this is probably a bug in vue-router. Please open an issue at https://new-issue.vuejs.org/?repo=vuejs/router.`);
+        warn(`The Matcher cannot resolve relative paths but received "${path}". Unless you directly called \`matcher.resolve("${path}")\`, this is probably a bug in vue-router. Please open an issue at https://github.com/vuejs/router/issues/new/choose.`);
       }
       matcher = matchers.find((m) => m.re.test(path));
       if (matcher) {
@@ -1247,7 +1137,7 @@ function normalizeRecordProps(record) {
     propsObject.default = props;
   } else {
     for (const name in record.components)
-      propsObject[name] = typeof props === "boolean" ? props : props[name];
+      propsObject[name] = typeof props === "object" ? props[name] : props;
   }
   return propsObject;
 }
@@ -1295,46 +1185,6 @@ function checkMissingParamsInAbsolutePath(record, parent) {
 }
 function isRecordChildOf(record, parent) {
   return parent.children.some((child) => child === record || isRecordChildOf(record, child));
-}
-var HASH_RE = /#/g;
-var AMPERSAND_RE = /&/g;
-var SLASH_RE = /\//g;
-var EQUAL_RE = /=/g;
-var IM_RE = /\?/g;
-var PLUS_RE = /\+/g;
-var ENC_BRACKET_OPEN_RE = /%5B/g;
-var ENC_BRACKET_CLOSE_RE = /%5D/g;
-var ENC_CARET_RE = /%5E/g;
-var ENC_BACKTICK_RE = /%60/g;
-var ENC_CURLY_OPEN_RE = /%7B/g;
-var ENC_PIPE_RE = /%7C/g;
-var ENC_CURLY_CLOSE_RE = /%7D/g;
-var ENC_SPACE_RE = /%20/g;
-function commonEncode(text) {
-  return encodeURI("" + text).replace(ENC_PIPE_RE, "|").replace(ENC_BRACKET_OPEN_RE, "[").replace(ENC_BRACKET_CLOSE_RE, "]");
-}
-function encodeHash(text) {
-  return commonEncode(text).replace(ENC_CURLY_OPEN_RE, "{").replace(ENC_CURLY_CLOSE_RE, "}").replace(ENC_CARET_RE, "^");
-}
-function encodeQueryValue(text) {
-  return commonEncode(text).replace(PLUS_RE, "%2B").replace(ENC_SPACE_RE, "+").replace(HASH_RE, "%23").replace(AMPERSAND_RE, "%26").replace(ENC_BACKTICK_RE, "`").replace(ENC_CURLY_OPEN_RE, "{").replace(ENC_CURLY_CLOSE_RE, "}").replace(ENC_CARET_RE, "^");
-}
-function encodeQueryKey(text) {
-  return encodeQueryValue(text).replace(EQUAL_RE, "%3D");
-}
-function encodePath(text) {
-  return commonEncode(text).replace(HASH_RE, "%23").replace(IM_RE, "%3F");
-}
-function encodeParam(text) {
-  return text == null ? "" : encodePath(text).replace(SLASH_RE, "%2F");
-}
-function decode(text) {
-  try {
-    return decodeURIComponent("" + text);
-  } catch (err) {
-    warn(`Error decoding "${text}". Using original value`);
-  }
-  return "" + text;
 }
 function parseQuery(search) {
   const query = {};
@@ -1411,7 +1261,7 @@ function useCallbacks() {
   }
   return {
     add,
-    list: () => handlers,
+    list: () => handlers.slice(),
     reset
   };
 }
@@ -1458,7 +1308,7 @@ function onBeforeRouteUpdate(updateGuard) {
   }
   registerGuard(activeRecord, "updateGuards", updateGuard);
 }
-function guardToPromiseFn(guard, to, from, record, name) {
+function guardToPromiseFn(guard, to, from, record, name, runWithContext = (fn) => fn()) {
   const enterCallbackArray = record && // name is defined if record is because of the function overload
   (record.enterCallbacks[name] = record.enterCallbacks[name] || []);
   return () => new Promise((resolve, reject) => {
@@ -1483,7 +1333,7 @@ function guardToPromiseFn(guard, to, from, record, name) {
         resolve();
       }
     };
-    const guardReturn = guard.call(record && record.instances[name], to, from, true ? canOnlyBeCalledOnce(next, to, from) : next);
+    const guardReturn = runWithContext(() => guard.call(record && record.instances[name], to, from, true ? canOnlyBeCalledOnce(next, to, from) : next));
     let guardCall = Promise.resolve(guardReturn);
     if (guard.length < 3)
       guardCall = guardCall.then(next);
@@ -1520,7 +1370,7 @@ function canOnlyBeCalledOnce(next, to, from) {
       next.apply(null, arguments);
   };
 }
-function extractComponentsGuards(matched, guardType, to, from) {
+function extractComponentsGuards(matched, guardType, to, from, runWithContext = (fn) => fn()) {
   const guards = [];
   for (const record of matched) {
     if (!record.components && !record.children.length) {
@@ -1547,7 +1397,7 @@ function extractComponentsGuards(matched, guardType, to, from) {
       if (isRouteComponent(rawComponent)) {
         const options = rawComponent.__vccOpts || rawComponent;
         const guard = options[guardType];
-        guard && guards.push(guardToPromiseFn(guard, to, from, record, name));
+        guard && guards.push(guardToPromiseFn(guard, to, from, record, name, runWithContext));
       } else {
         let componentPromise = rawComponent();
         if (!("catch" in componentPromise)) {
@@ -1561,7 +1411,7 @@ function extractComponentsGuards(matched, guardType, to, from) {
           record.components[name] = resolvedComponent;
           const options = resolvedComponent.__vccOpts || resolvedComponent;
           const guard = options[guardType];
-          return guard && guardToPromiseFn(guard, to, from, record, name)();
+          return guard && guardToPromiseFn(guard, to, from, record, name, runWithContext)();
         }));
       }
     }
@@ -1825,7 +1675,8 @@ var RouterView = RouterViewImpl;
 function warnDeprecatedUsage() {
   const instance = getCurrentInstance();
   const parentName = instance.parent && instance.parent.type.name;
-  if (parentName && (parentName === "KeepAlive" || parentName.includes("Transition"))) {
+  const parentSubTreeType = instance.parent && instance.parent.subTree && instance.parent.subTree.type;
+  if (parentName && (parentName === "KeepAlive" || parentName.includes("Transition")) && typeof parentSubTreeType === "object" && parentSubTreeType.name === "RouterView") {
     const comp = parentName === "KeepAlive" ? "keep-alive" : "transition";
     warn(`<router-view> can no longer be used directly inside <transition> or <keep-alive>.
 Use slot props instead:
@@ -2007,7 +1858,9 @@ function addDevtools(app, router, matcher) {
       if (!activeRoutesPayload)
         return;
       const payload = activeRoutesPayload;
-      let routes = matcher.getRoutes().filter((route) => !route.parent);
+      let routes = matcher.getRoutes().filter((route) => !route.parent || // these routes have a parent with no component which will not appear in the view
+      // therefore we still need to include them
+      !route.parent.record.components);
       routes.forEach(resetMatchStateOnRouteRecord);
       if (payload.filter) {
         routes = routes.filter((route) => (
@@ -2289,11 +2142,10 @@ function createRouter(options) {
       });
     }
     let matcherLocation;
-    if ("path" in rawLocation) {
+    if (rawLocation.path != null) {
       if ("params" in rawLocation && !("name" in rawLocation) && // @ts-expect-error: the type is never
       Object.keys(rawLocation.params).length) {
-        warn(`Path "${// @ts-expect-error: the type is never
-        rawLocation.path}" was passed with params but they will be ignored. Use a named route alongside params instead.`);
+        warn(`Path "${rawLocation.path}" was passed with params but they will be ignored. Use a named route alongside params instead.`);
       }
       matcherLocation = assign({}, rawLocation, {
         path: parseURL(parseQuery$1, rawLocation.path, currentLocation.path).path
@@ -2306,7 +2158,7 @@ function createRouter(options) {
         }
       }
       matcherLocation = assign({}, rawLocation, {
-        params: encodeParams(rawLocation.params)
+        params: encodeParams(targetParams)
       });
       currentLocation.params = encodeParams(currentLocation.params);
     }
@@ -2325,7 +2177,7 @@ function createRouter(options) {
       if (href.startsWith("//")) {
         warn(`Location "${rawLocation}" resolved to "${href}". A resolved location cannot start with multiple slashes.`);
       } else if (!matchedRoute.matched.length) {
-        warn(`No match found for location with path "${"path" in rawLocation ? rawLocation.path : rawLocation}"`);
+        warn(`No match found for location with path "${rawLocation.path != null ? rawLocation.path : rawLocation}"`);
       }
     }
     return assign({
@@ -2375,7 +2227,7 @@ function createRouter(options) {
         );
         newTargetLocation.params = {};
       }
-      if (!("path" in newTargetLocation) && !("name" in newTargetLocation)) {
+      if (newTargetLocation.path == null && !("name" in newTargetLocation)) {
         warn(`Invalid redirect found:
 ${JSON.stringify(newTargetLocation, null, 2)}
  when navigating to "${to.fullPath}". A redirect must contain a name or path. This will break in production.`);
@@ -2385,7 +2237,7 @@ ${JSON.stringify(newTargetLocation, null, 2)}
         query: to.query,
         hash: to.hash,
         // avoid transferring params if the redirect has a path
-        params: "path" in newTargetLocation ? {} : to.params
+        params: newTargetLocation.path != null ? {} : to.params
       }, newTargetLocation);
     }
   }
@@ -2445,8 +2297,9 @@ ${JSON.stringify(newTargetLocation, null, 2)}
           (redirectedFrom._count = redirectedFrom._count ? (
             // @ts-expect-error
             redirectedFrom._count + 1
-          ) : 1) > 10) {
-            warn(`Detected an infinite redirection in a navigation guard when going from "${from.fullPath}" to "${toLocation.fullPath}". Aborting to avoid a Stack Overflow. This will break in production if not fixed.`);
+          ) : 1) > 30) {
+            warn(`Detected a possibly infinite redirection in a navigation guard when going from "${from.fullPath}" to "${toLocation.fullPath}". Aborting to avoid a Stack Overflow.
+ Are you always returning a new location within a navigation guard? That would lead to this error. Only return when redirecting or aborting, that should fix this. This might break in production if not fixed.`);
             return Promise.reject(new Error("Infinite redirect in navigation guard"));
           }
           return pushWithRedirect(
@@ -2472,6 +2325,10 @@ ${JSON.stringify(newTargetLocation, null, 2)}
   function checkCanceledNavigationAndReject(to, from) {
     const error = checkCanceledNavigation(to, from);
     return error ? Promise.reject(error) : Promise.resolve();
+  }
+  function runWithContext(fn) {
+    const app = installedApps.values().next().value;
+    return app && typeof app.runWithContext === "function" ? app.runWithContext(fn) : fn();
   }
   function navigate(to, from) {
     let guards;
@@ -2502,8 +2359,8 @@ ${JSON.stringify(newTargetLocation, null, 2)}
       return runGuardQueue(guards);
     }).then(() => {
       guards = [];
-      for (const record of to.matched) {
-        if (record.beforeEnter && !from.matched.includes(record)) {
+      for (const record of enteringRecords) {
+        if (record.beforeEnter) {
           if (isArray(record.beforeEnter)) {
             for (const beforeEnter of record.beforeEnter)
               guards.push(guardToPromiseFn(beforeEnter, to, from));
@@ -2516,7 +2373,7 @@ ${JSON.stringify(newTargetLocation, null, 2)}
       return runGuardQueue(guards);
     }).then(() => {
       to.matched.forEach((record) => record.enterCallbacks = {});
-      guards = extractComponentsGuards(enteringRecords, "beforeRouteEnter", to, from);
+      guards = extractComponentsGuards(enteringRecords, "beforeRouteEnter", to, from, runWithContext);
       guards.push(canceledNavigationCheck);
       return runGuardQueue(guards);
     }).then(() => {
@@ -2533,8 +2390,7 @@ ${JSON.stringify(newTargetLocation, null, 2)}
     ) ? err : Promise.reject(err));
   }
   function triggerAfterEach(to, from, failure) {
-    for (const guard of afterGuards.list())
-      guard(to, from, failure);
+    afterGuards.list().forEach((guard) => runWithContext(() => guard(to, from, failure)));
   }
   function finalizeNavigation(toLocation, from, isPush, replace2, data) {
     const error = checkCanceledNavigation(toLocation, from);
@@ -2633,11 +2489,11 @@ ${JSON.stringify(newTargetLocation, null, 2)}
     });
   }
   let readyHandlers = useCallbacks();
-  let errorHandlers = useCallbacks();
+  let errorListeners = useCallbacks();
   let ready;
   function triggerError(error, to, from) {
     markAsReady(error);
-    const list = errorHandlers.list();
+    const list = errorListeners.list();
     if (list.length) {
       list.forEach((handler) => handler(error, to, from));
     } else {
@@ -2691,7 +2547,7 @@ ${JSON.stringify(newTargetLocation, null, 2)}
     beforeEach: beforeGuards.add,
     beforeResolve: beforeResolveGuards.add,
     afterEach: afterGuards.add,
-    onError: errorHandlers.add,
+    onError: errorListeners.add,
     isReady,
     install(app) {
       const router2 = this;
@@ -2713,10 +2569,13 @@ ${JSON.stringify(newTargetLocation, null, 2)}
       }
       const reactiveRoute = {};
       for (const key in START_LOCATION_NORMALIZED) {
-        reactiveRoute[key] = computed(() => currentRoute.value[key]);
+        Object.defineProperty(reactiveRoute, key, {
+          get: () => currentRoute.value[key],
+          enumerable: true
+        });
       }
       app.provide(routerKey, router2);
-      app.provide(routeLocationKey, reactive(reactiveRoute));
+      app.provide(routeLocationKey, shallowReactive(reactiveRoute));
       app.provide(routerViewLocationKey, currentRoute);
       const unmountApp = app.unmount;
       installedApps.add(app);
@@ -2737,10 +2596,10 @@ ${JSON.stringify(newTargetLocation, null, 2)}
       }
     }
   };
+  function runGuardQueue(guards) {
+    return guards.reduce((promise, guard) => promise.then(() => runWithContext(guard)), Promise.resolve());
+  }
   return router;
-}
-function runGuardQueue(guards) {
-  return guards.reduce((promise, guard) => promise.then(() => guard()), Promise.resolve());
 }
 function extractChangingRecords(to, from) {
   const leavingRecords = [];
@@ -2799,8 +2658,8 @@ export {
 
 vue-router/dist/vue-router.mjs:
   (*!
-    * vue-router v4.1.6
-    * (c) 2022 Eduardo San Martin Morote
+    * vue-router v4.3.0
+    * (c) 2024 Eduardo San Martin Morote
     * @license MIT
     *)
 */

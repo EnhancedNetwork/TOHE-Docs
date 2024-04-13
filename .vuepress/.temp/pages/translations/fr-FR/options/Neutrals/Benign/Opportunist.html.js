@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/fr-FR/options/Neutrals/Benign/Opportunist.html.vue"
+const data = JSON.parse("{\"path\":\"/translations/fr-FR/options/Neutrals/Benign/Opportunist.html\",\"title\":\"Opportunist\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Opportunist\",\"prev\":\"Maverick\",\"next\":\"Pixie\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"translations/fr-FR/options/Neutrals/Benign/Opportunist.md\"}")
+export { comp, data }

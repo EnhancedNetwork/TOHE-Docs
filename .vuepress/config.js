@@ -483,6 +483,10 @@ export default defineUserConfig({
         toggleColorMode: 'Toggle Dark Mode',
         selectLanguageText: 'English',
       },
+      '/fr-FR/': {
+        selectLanguageName: 'Français',
+        home: '/translations/fr-FR/',
+      },
       '/zh-CN/': {
         selectLanguageName: '简体中文',
         home: '/translations/zh-CN/',

@@ -1,16 +1,3 @@
 import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Crewmates/Killing/Sheriff.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Crewmates/Killing/Sheriff.html\",\"title\":\"Sheriff\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Sheriff\",\"prev\":\"Reverie\",\"next\":\"Veteran\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"options/Crewmates/Killing/Sheriff.md\"}")
+const data = JSON.parse("{\"path\":\"/options/Crewmates/Killing/Sheriff.html\",\"title\":\"Sheriff\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Sheriff\",\"prev\":\"Reverie\",\"next\":\"Veteran\"},\"headers\":[],\"git\":{\"updatedTime\":1696561578000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":2},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3}]},\"filePathRelative\":\"options/Crewmates/Killing/Sheriff.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

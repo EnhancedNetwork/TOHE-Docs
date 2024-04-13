@@ -1,16 +1,3 @@
 import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Shaman.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Neutrals/Benign/Shaman.html\",\"title\":\"Shaman\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Shaman\",\"prev\":\"SchrodingersCat\",\"next\":\"Taskinator\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"options/Neutrals/Benign/Shaman.md\"}")
+const data = JSON.parse("{\"path\":\"/options/Neutrals/Benign/Shaman.html\",\"title\":\"Shaman\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Shaman\",\"prev\":\"SchrodingersCat\",\"next\":\"Taskinator\"},\"headers\":[],\"git\":{\"updatedTime\":1711467356000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":5},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":3},{\"name\":\"ryuk2098\",\"email\":\"nehal.birla98@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Neutrals/Benign/Shaman.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

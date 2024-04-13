@@ -1,16 +1,3 @@
 import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/fr-FR/options/Crewmates/Power/President.html.vue"
-const data = JSON.parse("{\"path\":\"/translations/fr-FR/options/Crewmates/Power/President.html\",\"title\":\"President\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"President\",\"prev\":\"Overseer\",\"next\":\"Swapper\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"translations/fr-FR/options/Crewmates/Power/President.md\"}")
+const data = JSON.parse("{\"path\":\"/translations/fr-FR/options/Crewmates/Power/President.html\",\"title\":\"President\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"President\",\"prev\":\"Overseer\",\"next\":\"Swapper\"},\"headers\":[],\"git\":{\"updatedTime\":1712986216000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"translations/fr-FR/options/Crewmates/Power/President.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

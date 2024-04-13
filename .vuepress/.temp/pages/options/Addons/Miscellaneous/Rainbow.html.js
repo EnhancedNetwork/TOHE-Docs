@@ -1,16 +1,3 @@
 import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Addons/Miscellaneous/Rainbow.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Addons/Miscellaneous/Rainbow.html\",\"title\":\"Rainbow\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Rainbow\",\"prev\":\"Lovers\",\"next\":\"Reach\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"options/Addons/Miscellaneous/Rainbow.md\"}")
+const data = JSON.parse("{\"path\":\"/options/Addons/Miscellaneous/Rainbow.html\",\"title\":\"Rainbow\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Rainbow\",\"prev\":\"Lovers\",\"next\":\"Reach\"},\"headers\":[],\"git\":{\"updatedTime\":1711461290000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Addons/Miscellaneous/Rainbow.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

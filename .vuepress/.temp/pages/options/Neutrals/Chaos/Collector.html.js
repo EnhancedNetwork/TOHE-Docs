@@ -1,16 +1,3 @@
 import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Collector.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Neutrals/Chaos/Collector.html\",\"title\":\"Collector\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Collector\",\"prev\":\"/options/settings/Neutrals.html\",\"next\":\"Cultist\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"options/Neutrals/Chaos/Collector.md\"}")
+const data = JSON.parse("{\"path\":\"/options/Neutrals/Chaos/Collector.html\",\"title\":\"Collector\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Collector\",\"prev\":\"/options/settings/Neutrals.html\",\"next\":\"Cultist\"},\"headers\":[],\"git\":{\"updatedTime\":1699029371000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":6},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":4}]},\"filePathRelative\":\"options/Neutrals/Chaos/Collector.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

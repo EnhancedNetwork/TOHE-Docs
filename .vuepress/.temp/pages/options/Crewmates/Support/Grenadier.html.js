@@ -1,16 +1,3 @@
 import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Crewmates/Support/Grenadier.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Crewmates/Support/Grenadier.html\",\"title\":\"Grenadier\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Grenadier\",\"prev\":\"FortuneTeller\",\"next\":\"Inspector\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"options/Crewmates/Support/Grenadier.md\"}")
+const data = JSON.parse("{\"path\":\"/options/Crewmates/Support/Grenadier.html\",\"title\":\"Grenadier\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Grenadier\",\"prev\":\"FortuneTeller\",\"next\":\"Inspector\"},\"headers\":[],\"git\":{\"updatedTime\":1692418194000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":2}]},\"filePathRelative\":\"options/Crewmates/Support/Grenadier.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

@@ -1,16 +1,3 @@
 import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/zh-CN/options/Crewmates/Killing/Jailer.html.vue"
-const data = JSON.parse("{\"path\":\"/translations/zh-CN/options/Crewmates/Killing/Jailer.html\",\"title\":\"Jailer\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Jailer\",\"prev\":\"Deceiver\",\"next\":\"Judge\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"translations/zh-CN/options/Crewmates/Killing/Jailer.md\"}")
+const data = JSON.parse("{\"path\":\"/translations/zh-CN/options/Crewmates/Killing/Jailer.html\",\"title\":\"Jailer\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Jailer\",\"prev\":\"Deceiver\",\"next\":\"Judge\"},\"headers\":[],\"git\":{\"updatedTime\":1711492385000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"translations/zh-CN/options/Crewmates/Killing/Jailer.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

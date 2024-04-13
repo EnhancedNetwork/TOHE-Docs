@@ -1,4 +1,4 @@
-<template><div><h1 id="👑-arrogance" tabindex="-1"><a class="header-anchor" href="#👑-arrogance" aria-hidden="true">#</a> <font color=red>👑 <b>Arrogance</b></font> <Badge text="Killing" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="👑-arrogance" tabindex="-1"><a class="header-anchor" href="#👑-arrogance"><span><font color=red>👑 <b>Arrogance</b></font> <Badge text="Killing" type="tip" vertical="middle"/></span></a></h1>
 <hr>
 <p>The Arrogance reduces their kill cooldown with each successful kill of theirs.</p>
 <ul>
@@ -26,7 +26,7 @@
 <font color=#f46f4e>(Hidden Role) Bard - Has a % Chance of replacing Arrogance.</font></li>
 </ul>
 <center>
-<p><RouterLink to="/options/Impostors/Killing/Bard.html"><font color="red">Bard</font></RouterLink></p>
+<p><RouteLink to="/options/Impostors/Killing/Bard.html"><font color="red">Bard</font></RouteLink></p>
 </center>
 <blockquote>
 <p>From: TOU &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a>、<a href="https://github.com/Huier-Huang" target="_blank" rel="noopener noreferrer">天寸梦初<ExternalLinkIcon/></a></p>

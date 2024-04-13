@@ -1,4 +1,4 @@
-<template><div><h1 id="🧛-vampire" tabindex="-1"><a class="header-anchor" href="#🧛-vampire" aria-hidden="true">#</a> <font color=red>🧛 <b>Vampire</b></font> <Badge text="Concealing" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="🧛-vampire" tabindex="-1"><a class="header-anchor" href="#🧛-vampire"><span><font color=red>🧛 <b>Vampire</b></font> <Badge text="Concealing" type="tip" vertical="middle"/></span></a></h1>
 <hr>
 <p>You kill with a delay. If you bite someone, they will die a set amount of time later. If a Meeting is called, the player you bite Dies immediately. (If you bite a Bait, you Self-Report)</p>
 <ul>
@@ -24,7 +24,7 @@
 <font color=#f46f4e>(Hidden Role) Vampiress - Has a % Chance of replacing Vampire.</font></li>
 </ul>
 <center>
-<p><RouterLink to="/options/Impostors/Concealing/Vampiress.html"><font color="red">Vampiress</font></RouterLink></p>
+<p><RouteLink to="/options/Impostors/Concealing/Vampiress.html"><font color="red">Vampiress</font></RouteLink></p>
 </center>
 <blockquote>
 <p>From: TOH</p>

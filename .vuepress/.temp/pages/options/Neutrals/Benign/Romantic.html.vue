@@ -1,4 +1,4 @@
-<template><div><h1 id="💕-romantic" tabindex="-1"><a class="header-anchor" href="#💕-romantic" aria-hidden="true">#</a> <font color="#ff1493">💕 <b>Romantic</b></font> <Badge text="Benign" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="💕-romantic" tabindex="-1"><a class="header-anchor" href="#💕-romantic"><span><font color="#ff1493">💕 <b>Romantic</b></font> <Badge text="Benign" type="tip" vertical="middle"/></span></a></h1>
 <hr>
 <p>The Romantic can pick their lover partner using their kill button (this can be done at any point of the game). Once they've picked their partner, they can use their kill button to give their partner a temporary shield which protects them from attacks. If their lover partner dies, the Romantic's role will change according to the following conditions:<br></p>
 <ol>
@@ -42,8 +42,8 @@ Note : If your role changes your win condition will be changed accordingly</p>
 </li>
 </ul>
 <center>
-<p><RouterLink to="/options/Neutrals/Benign/RomanticVengeful.html"><font color="#8b0000">Vengeful Romantic Settings</font></RouterLink><br>
-<RouterLink to="/options/Neutrals/Benign/RomanticRuthless.html"><font color="#d2691e">Ruthless Romantic Settings</font></RouterLink></p>
+<p><RouteLink to="/options/Neutrals/Benign/RomanticVengeful.html"><font color="#8b0000">Vengeful Romantic Settings</font></RouteLink><br>
+<RouteLink to="/options/Neutrals/Benign/RomanticRuthless.html"><font color="#d2691e">Ruthless Romantic Settings</font></RouteLink></p>
 </center>
 <blockquote>
 <p>From: Stellar Roles &amp; Coding: [Gurge44] &amp; [ryuk]</p>

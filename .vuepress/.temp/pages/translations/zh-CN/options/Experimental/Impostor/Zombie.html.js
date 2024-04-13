@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/zh-CN/options/Experimental/Impostor/Zombie.html.vue"
+const data = JSON.parse("{\"path\":\"/translations/zh-CN/options/Experimental/Impostor/Zombie.html\",\"title\":\"Zombie\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Zombie\",\"prev\":\"Lightning\",\"next\":\"/options/Settings/Experimental.html\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"translations/zh-CN/options/Experimental/Impostor/Zombie.md\"}")
+export { comp, data }

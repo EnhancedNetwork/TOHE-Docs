@@ -1,4 +1,4 @@
-<template><div><h1 id="🐁-mini" tabindex="-1"><a class="header-anchor" href="#🐁-mini" aria-hidden="true">#</a> <font color="#dddddd">🐁 <b>Mini</b></font> <Badge text="Basic" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="🐁-mini" tabindex="-1"><a class="header-anchor" href="#🐁-mini"><span><font color="#dddddd">🐁 <b>Mini</b></font> <Badge text="Basic" type="tip" vertical="middle"/></span></a></h1>
 <hr>
 <p>The mechanics for the Mini can differ whether or not it's an Evil Mini or a Nice Mini.</p>
 <ul>
@@ -47,8 +47,8 @@
 </li>
 </ul>
 <center>
-<p><RouterLink to="/options/Crewmates/Basic/MiniEvil.html"><font color=red>Evil Mini Settings</font></RouterLink><br>
-<RouterLink to="/options/Crewmates/Basic/MiniNice.html"><font color="#dddddd">Nice Mini Settings</font></RouterLink></p>
+<p><RouteLink to="/options/Crewmates/Basic/MiniEvil.html"><font color=red>Evil Mini Settings</font></RouteLink><br>
+<RouteLink to="/options/Crewmates/Basic/MiniNice.html"><font color="#dddddd">Nice Mini Settings</font></RouteLink></p>
 </center>
 <blockquote>
 <p>Idea &amp; Coding: <a href="#">LezaiYa</a></p>

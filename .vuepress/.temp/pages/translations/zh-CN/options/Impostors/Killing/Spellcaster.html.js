@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/zh-CN/options/Impostors/Killing/Spellcaster.html.vue"
+const data = JSON.parse("{\"path\":\"/translations/zh-CN/options/Impostors/Killing/Spellcaster.html\",\"title\":\"Spellcaster\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Spellcaster\",\"prev\":\"Sniper\",\"next\":\"Trapster\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"translations/zh-CN/options/Impostors/Killing/Spellcaster.md\"}")
+export { comp, data }

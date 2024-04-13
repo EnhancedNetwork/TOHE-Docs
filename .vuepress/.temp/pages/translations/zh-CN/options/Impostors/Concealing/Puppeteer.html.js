@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/zh-CN/options/Impostors/Concealing/Puppeteer.html.vue"
+const data = JSON.parse("{\"path\":\"/translations/zh-CN/options/Impostors/Concealing/Puppeteer.html\",\"title\":\"Puppeteer\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Puppeteer\",\"prev\":\"Miner\",\"next\":\"Scavenger\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"translations/zh-CN/options/Impostors/Concealing/Puppeteer.md\"}")
+export { comp, data }

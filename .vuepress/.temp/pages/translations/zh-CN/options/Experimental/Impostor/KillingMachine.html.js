@@ -1,3 +1,16 @@
 import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/zh-CN/options/Experimental/Impostor/KillingMachine.html.vue"
-const data = JSON.parse("{\"path\":\"/translations/zh-CN/options/Experimental/Impostor/KillingMachine.html\",\"title\":\"Killing Machine\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Killing Machine\",\"prev\":\"Hangman\",\"next\":\"Lightning\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"translations/zh-CN/options/Experimental/Impostor/KillingMachine.md\"}")
+const data = JSON.parse("{\"path\":\"/translations/zh-CN/options/Experimental/Impostor/KillingMachine.html\",\"title\":\"Killing Machine\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Killing Machine\",\"prev\":\"Hangman\",\"next\":\"Lightning\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"translations/zh-CN/options/Experimental/Impostor/KillingMachine.md\"}")
 export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

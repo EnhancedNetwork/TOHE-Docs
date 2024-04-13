@@ -1,6 +1,7 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
+import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
   bundler: viteBundler(),
@@ -489,5 +490,18 @@ export default defineUserConfig({
     }
   }),
   plugins: [
+    searchPlugin({
+      locales: {
+        '/': {
+          placeholder: 'Search',
+        },
+        'fr-FR': {
+          placeholder: 'Rechercher',
+        },
+        '/zh-CN/': {
+          placeholder: '搜索',
+        },
+      },
+    }),
   ],
 })

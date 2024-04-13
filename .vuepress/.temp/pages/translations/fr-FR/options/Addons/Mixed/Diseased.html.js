@@ -1,3 +1,16 @@
 import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/fr-FR/options/Addons/Mixed/Diseased.html.vue"
-const data = JSON.parse("{\"path\":\"/translations/fr-FR/options/Addons/Mixed/Diseased.html\",\"title\":\"Diseased\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Diseased\",\"prev\":\"Bloodlust\",\"next\":\"Ghoul\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"translations/fr-FR/options/Addons/Mixed/Diseased.md\"}")
+const data = JSON.parse("{\"path\":\"/translations/fr-FR/options/Addons/Mixed/Diseased.html\",\"title\":\"Diseased\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Diseased\",\"prev\":\"Bloodlust\",\"next\":\"Ghoul\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"translations/fr-FR/options/Addons/Mixed/Diseased.md\"}")
 export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

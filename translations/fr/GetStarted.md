@@ -8,9 +8,9 @@ title: Installation
 
 ## Distribution Policy
 
-<b>Dev and Canary Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
+<b>Dev Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
 If you are a content creator, you may use these builds in your videos, but you may not provide a download link to your viewers. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked.<br><br>
-This policy is in place to keep the integrity of our Sponsor, Contributor, Tester, Nitro Booster, and Translator roles. If you are interested in becoming one of these roles, please see the below sections for more information.</b>
+This policy is in place to keep the integrity of our Sponsor, Contributor, Tester, and Translator roles. If you are interested in becoming one of these roles, please see the below sections for more information.</b>
 
 ## MANUAL INSTALLATION
 Installation requires that you own a PC version of Among Us on Steam, Epic, or Itch. 
@@ -20,10 +20,10 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, or I
 2. Once the download is complete, unzip it into the location of your choice. Example: C:\TOHE
 
 3. Locate your AmongUs install. For example, if you own the game on Steam, you can find this by right clicking on the game in your library, selecting "Manage", and finally selecting "Browse local files."
-![image](../images/SteamGetFolder.png)
+![image](./images/SteamGetFolder.png)
 
 4. Select all of the files in your AmongUs installation and copy them to the folder that now has the files from the TOHE release. The folder should now look something like this:
-![image](../images/ResultFolder.png)
+![image](./images/ResultFolder.png)
 
 5. Within the TOHE folder, run Among Us.exe. The first time running it may take some time while the mod sets up its files. If you see a black screen, just wait a couple minutes. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.
 
@@ -53,10 +53,4 @@ Keep an eye on the [releases page](https://github.com/0xDrMoe/TownofHost-Enhance
 Once you have been accepted into one of the above roles, you will be able to access the #dev-builds channel in the [Town of Host: Enhanced Discord](https://discord.gg/tohe)
 
 ## How to gain Canary Builds Access<br>
-* Accessible by Translators, Nitro Boosters, and Sponsors that are at least Initiate tier.<br>
-`NOT FOR DISTRIBUTION`
-- To become a <b>Nitro Booster</b>, you must boost the [Town of Host: Enhanced Discord](https://discord.gg/tohe) server
-- To become a <b>Translator</b>, you need to help with translating the mod into other languages. You can find more information about this in the [Town of Host: Enhanced Discord](https://discord.gg/tohe)
-- To become a <b>Sponsor</b>, you need to purchase a tier on our [Ko-fi](https://ko-fi.com/TOHEN) (For Canary Builds access specifically, you need to purchase at least Initiate tier (lowest tier) for $3.00)
-
-Once you have been accepted into one of the above roles, you will be able to access the #canary-builds channel in the [Town of Host: Enhanced Discord](https://discord.gg/tohe).
+* Visit the [TOH: Enhanced Discord](https://discord.gg/tohe) and visit #canary-builds, and download the latest dll!

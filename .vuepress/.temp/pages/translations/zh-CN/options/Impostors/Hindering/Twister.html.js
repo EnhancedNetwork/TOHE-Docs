@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/zh-CN/options/Impostors/Hindering/Twister.html.vue"
-const data = JSON.parse("{\"path\":\"/translations/zh-CN/options/Impostors/Hindering/Twister.html\",\"title\":\"Twister\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Twister\",\"prev\":\"Pitfall\",\"next\":\"/options/Settings/Impostors.html\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"translations/zh-CN/options/Impostors/Hindering/Twister.md\"}")
-export { comp, data }

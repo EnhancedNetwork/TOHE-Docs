@@ -9,7 +9,7 @@ next: Copycat
 ---
 
 With each completed task, the Captain gains the power to slow down a random non crew role. Crewmates can see <font color="#4682B4">☆</font> besides captain's name.<br><br>
-If you betray the captain's trust by voting them out, you will loose an addon.
+If you betray the captain's trust by voting them out, you will lose an addon.
 * Max
   * Set the Maximum amount of Captains that can be in a match
 * Crewmates can find Captain

@@ -16,11 +16,7 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 
 ---
 
-## <font size=5em><b>Latest: v1.6.0</b></font>
-
-
-
-## <font size=5em><b>v1.5.0</b></font>
+## <font size=5em><b>Latest: v1.5.0</b></font>
 
 ### 【New Roles】<br>
 

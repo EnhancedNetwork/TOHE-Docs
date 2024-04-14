@@ -5,15 +5,14 @@ prev: Romantic
 next: Taskinator
 ---
 
-# <font color="#50c878">🧙 <b>Shaman</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
+# <font color="#404040">🐈 <b>Schrodingers Cat</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
 ---
 
-As Shaman you can use your kill button to select voodoo doll once every round. All the interactions with you using kill button will be deflected to the voodoo doll and the voodoo doll will destroy.<br><br>
-Since Witch uses magic too, the effect of the voodoo doll will be nullified (voodoo doll won't be destroyed though) and will take place on Shaman itself.<br><br>
-If you survive till the end, you win with the winning team.
+As Schrodingers Cat, if someone attempts to use the kill button on you, you will block the action and join their team. This blocking ability works only once. By default, you don't have a victory condition, meaning you win only after switching teams.<br>
+In Addition to this, you will be counted as nothing in the game.<br><br>
+
+Note: If the killing machine attempts to use their kill button on you, the interaction is not blocked, and you will die.
 * Max
-  * Set the Maximum amount of Shamans that can be in a match
-* Voodoo Cooldown
-  * Set the cooldown of the voodoo doll 
+  * Set the Maximum amount of Shrodingers Cats that can be in a match
 
 > Idea & Coding: [ryuk](#)

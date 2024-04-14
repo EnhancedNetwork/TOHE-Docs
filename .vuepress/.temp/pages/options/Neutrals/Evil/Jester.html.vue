@@ -1,4 +1,4 @@
-<template><div><h1 id="🤡-jester" tabindex="-1"><a class="header-anchor" href="#🤡-jester" aria-hidden="true">#</a> <font color="#ec62a5">🤡 <b>Jester</b></font> <Badge text="Evil" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="🤡-jester" tabindex="-1"><a class="header-anchor" href="#🤡-jester"><span><font color="#ec62a5">🤡 <b>Jester</b></font> <Badge text="Evil" type="tip" vertical="middle"/></span></a></h1>
 <hr>
 <p>If the Jester get voted out, the Jester wins the game alone. If the Jester is still alive at the end of the game, the Jester loses the game. Note: Jester, Executioner, and Innocent can win together.</p>
 <ul>
@@ -44,7 +44,7 @@
 <font color=#f46f4e>(Hidden Role) Sunnyboy - Has a % chance of replacing Jester</font></li>
 </ul>
 <center>
-<p><RouterLink to="/options/Neutrals/Evil/Sunnyboy.html"><font color="#ff9902">Sunnyboy</font></RouterLink></p>
+<p><RouteLink to="/options/Neutrals/Evil/Sunnyboy.html"><font color="#ff9902">Sunnyboy</font></RouteLink></p>
 </center>
 <blockquote>
 <p>From: TOH</p>

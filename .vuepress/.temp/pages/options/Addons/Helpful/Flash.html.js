@@ -1,1 +1,3 @@
-export const data = JSON.parse("{\"key\":\"v-50b15dae\",\"path\":\"/options/Addons/Helpful/Flash.html\",\"title\":\"Flash\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Flash\",\"prev\":\"DoubleShot\",\"next\":\"Lazy\"},\"headers\":[],\"git\":{\"updatedTime\":1702362916000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Addons/Helpful/Flash.md\"}")
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Addons/Helpful/Flash.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Addons/Helpful/Flash.html\",\"title\":\"Flash\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Flash\",\"prev\":\"DoubleShot\",\"next\":\"Lazy\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"options/Addons/Helpful/Flash.md\"}")
+export { comp, data }

@@ -1,4 +1,4 @@
-<template><div><h1 id="💣-bomber" tabindex="-1"><a class="header-anchor" href="#💣-bomber" aria-hidden="true">#</a> <font color=red>💣 <b>Bomber</b></font> <Badge text="Killing" type="tip" vertical="middle"/></h1>
+<template><div><h1 id="💣-bomber" tabindex="-1"><a class="header-anchor" href="#💣-bomber"><span><font color=red>💣 <b>Bomber</b></font> <Badge text="Killing" type="tip" vertical="middle"/></span></a></h1>
 <hr>
 <p>The Bomber can Shapeshift to Suicide Bomb the surrounding area. All player’s will receive a Kill Flash when the Bomber Suicides.</p>
 <ul>
@@ -60,7 +60,7 @@
 </li>
 </ul>
 <center>
-<p><RouterLink to="/options/Impostors/Killing/Nuker.html"><font color="red">Nuker</font></RouterLink></p>
+<p><RouteLink to="/options/Impostors/Killing/Nuker.html"><font color="red">Nuker</font></RouteLink></p>
 </center>
 <blockquote>
 <p>From: SNR &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>

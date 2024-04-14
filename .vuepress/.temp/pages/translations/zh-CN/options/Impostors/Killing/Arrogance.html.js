@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/zh-CN/options/Impostors/Killing/Arrogance.html.vue"
+const data = JSON.parse("{\"path\":\"/translations/zh-CN/options/Impostors/Killing/Arrogance.html\",\"title\":\"Arrogance\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Arrogance\",\"prev\":\"/options/Settings/Impostors.html\",\"next\":\"Berserker\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"translations/zh-CN/options/Impostors/Killing/Arrogance.md\"}")
+export { comp, data }

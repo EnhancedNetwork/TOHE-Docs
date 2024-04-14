@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Minion
-prev: /options/Settings/Impostors.html
-next: Nemesis
+prev: Bloodmoon
+next: /options/Settings/Impostors.html
 ---
 
 # <font color="red">👿 <b>Minion</b></font> <Badge text="Ghost" type="tip" vertical="middle"/>

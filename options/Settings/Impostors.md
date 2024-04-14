@@ -65,7 +65,7 @@ next: Crewmates
 
 ### <font color=#bd8b88><b>Ghost</b></font>
 ---
-[Minion](/options/Impostors/Ghost/Minion.html) | [Nemesis](/options/Impostors/Ghost/Nemesis.html)
+[Bloodmoon](/options/Impostors/Ghost/Bloodmoon.html) | [Minion](/options/Impostors/Ghost/Minion.html)
 
 ### <font color=#636363><b>Hindering</b></font>
 ---

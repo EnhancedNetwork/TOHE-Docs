@@ -84,7 +84,7 @@ By [**TommyXL**](https://github.com/Tommy-XL)<br>
 
 ## <font size=5em><b>Latest Site Changelogs:</b></font><br>
 
-* By [**Pyro**](https://github.com/Pyro0TV) and [**Marrow**](https://github.com/Marrowless)<br>
+* By [**Pyro**](https://sites.google.com/view/pyro0tv) and [**Marrow**](https://github.com/Marrowless)<br>
 = Updated to v1.6.0<br>
 \+ Have a good day!<br>
 = <font color=#fdf08e><b>NOTE</b></font>: Changelogs have finally been updated, everything else should already be updated. If there are any issues, open a forum in #website-feedback! Thank you! - Pyro<br>

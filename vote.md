@@ -13,14 +13,14 @@ sidebar:
         { text: Instagram, link: https://instagram.com/TOHEnhanced },
         { text: YouTube, link: https://youtube.com/@TOHEnhanced },
         { text: Reddit, link: https://reddit.com/r/TOHE },
-        { text: Ko-fi, link: https://ko-fi.com/TOHEN },
+        { text: Ko-fi, link: https://ko-fi.com/TOHE },
         { text: TikTok, link: https://tiktok.com/@TOHEnhanced },
     ] }
 ---
 
-# <font color=pink>🗳️ <b>Vote for Enhanced Network</b></font> <Badge text="Minecraft" type="tip" vertical="middle"/>
+# <font color=pink>🗳️ <b>Vote for The Enhanced Network</b></font> <Badge text="Minecraft" type="tip" vertical="middle"/>
 ---
-Vote for Enhanced Network to get rewards! You can read more about voting below. If you have any questions, feel free to ask in our [Discord](https://discord.gg/tohe)!
+Vote for The Enhanced Network to get rewards! You can read more about voting below. If you have any questions, feel free to ask in our [Discord](https://discord.gg/tohe)!
 
 ## Vote Links
 

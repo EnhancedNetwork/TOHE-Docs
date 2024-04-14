@@ -15,7 +15,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 ---
 
-## <font size=5em><b>v2.0.0 Dev 2.1 (Hotfix!)</b></font><br>
+## <font size=5em><b>Latest: v2.0.0 Dev 2.1 (Hotfix!)</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), & [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed many roles (More details you can found in the dev-bug-report) <br>
 

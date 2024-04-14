@@ -78,7 +78,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 * By [**Drakos**](https://github.com/Ultradragon005) with help from [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved code base for all add-ons
 
-+ Other changes:
+* Other changes:
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improve announcement patch (Ported from TOH-Y) (Now the announcement will be translated via Crowdin (Still WIP))

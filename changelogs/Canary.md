@@ -17,113 +17,113 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 ---
 ## <font size=5em><b>Latest: v1.6.0 Canary 6</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix dark theme when using quick chat
-= <font color=#F6BE00><b>CHANGE</b></font>: Not Increase character limit for modded clients
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix dark theme when using quick chat<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Not Increase character limit for modded clients<br>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Last Impostor, Workhorse and Lovers showing 0% 
-\+ <font color=green><b>NEW</b></font>: New setting Revert to old Kill logs (The kill log and end summary will also automatically remove html tags if the length is too long (even with setting off). This is done because if message is too big, it will not send to some players.)
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Last Impostor, Workhorse and Lovers showing 0% <br>
+\+ <font color=green><b>NEW</b></font>: New setting Revert to old Kill logs (The kill log and end summary will also automatically remove html tags if the length is too long (even with setting off). This is done because if message is too big, it will not send to some players.)<br>
 
 ## <font size=5em><b>v1.6.0 Canary 5</b></font><br>
 * By [**ryuk**](https://github.com/ryuk2098)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Mole not working on fungle
-\- <font color=red><b>REMOVED</b></font>: Remove ejected from Tricky random death reason
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Imitator having vanilla cooldown
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when addons rate always showing 100% when player does "/r" or "/m"
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Mole not working on fungle<br>
+\- <font color=red><b>REMOVED</b></font>: Remove ejected from Tricky random death reason<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Imitator having vanilla cooldown<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when addons rate always showing 100% when player does "/r" or "/m"<br>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when modded non-host player ignore random teleport in Airship
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed missing settings for Seer
-= <font color=#F6BE00><b>CHANGE</b></font>: Some changes in code
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when modded non-host player ignore random teleport in Airship<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed missing settings for Seer<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Some changes in code<br>
 
 ## <font size=5em><b>v1.6.0 Canary 4</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some issues after teleport
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed random spawn in Airship
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Now vanilla roles and Amnesiac always will be show in Guesser UI
-= <font color=#1376f0><b>BUG FIX</b></font>: Added temporary black screen fix for ghost roles (After meeting, the player who has the role of a ghost will kill himself so as not to stumble upon a black screen (dead body will not be visible to all players))
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some issues after teleport<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed random spawn in Airship<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Now vanilla roles and Amnesiac always will be show in Guesser UI<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Added temporary black screen fix for ghost roles (After meeting, the player who has the role of a ghost will kill himself so as not to stumble upon a black screen (dead body will not be visible to all players))<br>
 
 ## <font size=5em><b>v1.6.0 Canary 3</b></font><br>
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed the black screen for ghost roles
+= <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed the black screen for ghost roles<br>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when some players not move after teleport
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed errors in Double Trigger
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Invalid strings for Quiz Master
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when some players not move after teleport<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed errors in Double Trigger<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Invalid strings for Quiz Master<br>
 
 ## <font size=5em><b>v1.6.0 Canary 2</b></font><br>
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Small fix in ghost role assign
+= <font color=#1376f0><b>BUG FIX</b></font>: Small fix in ghost role assign<br>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Modded players now will show the player role in the Haunt Menu instead of the base role
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the GM get stuck outside the map on the Airship
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed pressets in Hide & Seek
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Butcher typo
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed disguise the Glitch
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Modded players now will show the player role in the Haunt Menu instead of the base role<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the GM get stuck outside the map on the Airship<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed pressets in Hide & Seek<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Butcher typo<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed disguise the Glitch<br>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
-\- <font color=red><b>REMOVED</b></font>: Unused strings was removed (Thanks to kevoutings for providing all the unused strings)
+\- <font color=red><b>REMOVED</b></font>: Unused strings was removed (Thanks to kevoutings for providing all the unused strings)<br>
 
 ## <font size=5em><b>v1.6.0 Canary 1</b></font><br>
 * <font color=green><b>NEW</b></font>: Collaborative Changes! (Worked on by 2+ people!)<br>
 
 * By [**Pietro**](https://github.com/Pietrodjaowjao) & [**NikoCat223**](https://github.com/NikoCat233)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Mod Updater
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Mod Updater<br>
 
 * By [**NikoCat223**](https://github.com/NikoCat233) with help from [**TommyXL**](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: New function for Shapeshift roles: Reject-ShapeShift (All roles that have the ability to use shapeshift will no longer play the shapeshift animation) (This function can be adjusted using the setting "Disable Shapeshift Animations" (The Sniper has a separate setting))
+\+ <font color=green><b>NEW</b></font>: New function for Shapeshift roles: Reject-ShapeShift (All roles that have the ability to use shapeshift will no longer play the shapeshift animation) (This function can be adjusted using the setting "Disable Shapeshift Animations" (The Sniper has a separate setting))<br>
 
 * By [**Drakos**](https://github.com/Ultradragon005) with help from [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved code base for all add-ons
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved code base for all add-ons<br>
 
 * Other changes:
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve announcement patch (Ported from TOH-Y) (Now the announcement will be translated via Crowdin (Still WIP))
-\+ <font color=green><b>NEW</b></font>: New setting: Players can use /tpin and /tpout command
-\+ <font color=green><b>NEW</b></font>: New setting: Players can play mini games
-= <font color=#F6BE00><b>CHANGE</b></font>: We will now use Mini.RegionInstall to add modded servers
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Progress text and target mark for Pirate
-\- <font color=red><b>REMOVED</b></font>: Removed Overtired from enabled addons list
-= <font color=#F6BE00><b>CHANGE</b></font>: Make shahpeshifted hangman ignore alerted veteran
-\+ <font color=green><b>NEW</b></font>: Backgrounds sets in randomly (from art competitions)
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve announcement patch (Ported from TOH-Y) (Now the announcement will be translated via Crowdin (Still WIP))<br>
+\+ <font color=green><b>NEW</b></font>: New setting: Players can use /tpin and /tpout command<br><br>
+\+ <font color=green><b>NEW</b></font>: New setting: Players can play mini games<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: We will now use Mini.RegionInstall to add modded servers<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Progress text and target mark for Pirate<br>
+\- <font color=red><b>REMOVED</b></font>: Removed Overtired from enabled addons list<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Make shahpeshifted hangman ignore alerted veteran<br>
+\+ <font color=green><b>NEW</b></font>: Backgrounds sets in randomly (from art competitions)<br>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: Added dlekS ehT in Map Picker Menu (Thanks Submerged sourse code)
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved role spawns (Ported from TOHE+) (Now for each role you can set the chance of appearance from 0% to 100%)
-\+ <font color=green><b>NEW</b></font>: Added setting: "Dark Theme" (Ported From TOHE+) (Works only for modded players)
-= <font color=#F6BE00><b>CHANGE</b></font>: Add-ons display was recoded
-\+ <font color=green><b>NEW</b></font>: New setting: Impostors can see each other's Add-ons
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Role Summary (Ported From TOHE+)
-\- <font color=red><b>REMOVED</b></font>: Client Setting "Old Role Summary" removed
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when "FixedUpdate" for roles working in lobby
-= <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed bug when settings sometimes are not loading
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Time Master teleported a player when they were in a vent
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Anti-Blackout didn't work at times
+\+ <font color=green><b>NEW</b></font>: Added dlekS ehT in Map Picker Menu (Thanks Submerged sourse code)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved role spawns (Ported from TOHE+) (Now for each role you can set the chance of appearance from 0% to 100%)<br>
+\+ <font color=green><b>NEW</b></font>: Added setting: "Dark Theme" (Ported From TOHE+) (Works only for modded players)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Add-ons display was recoded<br>
+\+ <font color=green><b>NEW</b></font>: New setting: Impostors can see each other's Add-ons<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Role Summary (Ported From TOHE+)<br>
+\- <font color=red><b>REMOVED</b></font>: Client Setting "Old Role Summary" removed<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when "FixedUpdate" for roles working in lobby<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed bug when settings sometimes are not loading<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Time Master teleported a player when they were in a vent<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Anti-Blackout didn't work at times<br>
 
 + By [**0xDrMoe**](https://github.com/0xDrMoe)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixes for Copycat turning into Retributionist and reverting back into Copycat
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixes for Copycat turning into Retributionist and reverting back into Copycat<br>
 
 + By [**Drakos**](https://github.com/Ultradragon005)<br>
-\+ <font color=green><b>NEW</b></font>: Added new add-on: Statue (idea @spong)
-\+ <font color=green><b>NEW</b></font>: New function: Ghost Roles
-\+ <font color=green><b>NEW</b></font>: New Ghost Roles: "Warden" for Crewmates, "Minion" for Impostors
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Retributionist & Nemesis (These roles are now moved in Ghost Roles) (Note: These roles will no longer be ghosts in future versions (1.7.0)) (Note 2.0: This is a heavy WIP, if you notice bugs, please report them!)
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Susceptible making role visisble to others
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Plague Scientist typo
+\+ <font color=green><b>NEW</b></font>: Added new add-on: Statue (idea @spong)<br>
+\+ <font color=green><b>NEW</b></font>: New function: Ghost Roles<br>
+\+ <font color=green><b>NEW</b></font>: New Ghost Roles: "Warden" for Crewmates, "Minion" for Impostors<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Retributionist & Nemesis (These roles are now moved in Ghost Roles) (Note: These roles will no longer be ghosts in future versions (1.7.0)) (Note 2.0: This is a heavy WIP, if you notice bugs, please report them!)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Susceptible making role visisble to others<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Plague Scientist typo<br>
 
 + By [**Pietro**](https://github.com/Pietrodjaowjao)
-\+ <font color=green><b>NEW</b></font>: New setting: "Disable VoteKick System"
+\+ <font color=green><b>NEW</b></font>: New setting: "Disable VoteKick System"<br>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed some visual bugs with Modded clients<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Bomber and Nuker was banned by EAC after shapeshift<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Solsticer is no longer a member of any team
-= <font color=#F6BE00><b>CHANGE</b></font>: Make Penguin victim cannot kill
-= <font color=#F6BE00><b>CHANGE</b></font>: Pelican cannot eat grabbing penguin
-= <font color=#F6BE00><b>CHANGE</b></font>: If a user fails dbconnect on first login, it will be turned to offline mode and forced to re-login
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Bomber and Nuker was banned by EAC after shapeshift<br><br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Solsticer is no longer a member of any team<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Make Penguin victim cannot kill<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Pelican cannot eat grabbing penguin<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: If a user fails dbconnect on first login, it will be turned to offline mode and forced to re-login<br>
 
 ## <font size=5em><b>v1.5.2 Canary 1</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>

@@ -9018,6 +9018,62 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Cursed Soul",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Neutrals/Evil/CursedSoul.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Doomsayer",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Neutrals/Evil/Doomsayer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Executioner",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Neutrals/Evil/Executioner.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Innocent",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Neutrals/Evil/Innocent.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Jester",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Neutrals/Evil/Jester.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Masochist",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Neutrals/Evil/Masochist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Seeker",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Neutrals/Evil/Seeker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sunnyboy",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Neutrals/Evil/Sunnyboy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Agitator",
     "headers": [],
     "path": "/translations/zh-CN/options/Neutrals/Killing/Agitator.html",
@@ -9210,62 +9266,6 @@ export const searchIndex = [
     "title": "Wraith",
     "headers": [],
     "path": "/translations/zh-CN/options/Neutrals/Killing/Wraith.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Cursed Soul",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Neutrals/Evil/CursedSoul.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Doomsayer",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Neutrals/Evil/Doomsayer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Executioner",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Neutrals/Evil/Executioner.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Innocent",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Neutrals/Evil/Innocent.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Jester",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Neutrals/Evil/Jester.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Masochist",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Neutrals/Evil/Masochist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Seeker",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Neutrals/Evil/Seeker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sunnyboy",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Neutrals/Evil/Sunnyboy.html",
     "pathLocale": "/",
     "extraFields": []
   },

@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Settings/Custom.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Settings/Custom.html\",\"title\":\"Custom Settings\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Custom Settings\",\"prev\":\"/Roles\",\"next\":\"Impostors\"},\"headers\":[],\"git\":{\"updatedTime\":1700405966000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":4},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3}]},\"filePathRelative\":\"options/Settings/Custom.md\"}")
-export { comp, data }

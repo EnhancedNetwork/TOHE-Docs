@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/fr/options/Addons/Miscellaneous/Workhorse.html.vue"
-const data = JSON.parse("{\"path\":\"/translations/fr/options/Addons/Miscellaneous/Workhorse.html\",\"title\":\"Workhorse\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Workhorse\",\"prev\":\"Reach\",\"next\":\"/options/Settings/Addons.html\"},\"headers\":[],\"git\":{\"updatedTime\":1713123059000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"translations/fr/options/Addons/Miscellaneous/Workhorse.md\"}")
-export { comp, data }

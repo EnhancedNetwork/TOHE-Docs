@@ -63,7 +63,7 @@ next: Neutrals
 
 ### <font color=#b22222><b>Killing</b></font>
 ---
-[Bastion](/options/Crewmates/Killing/Bastion.html) | [Bodyguard](/options/Crewmates/Killing/Bodyguard.html) | [Crusader](/options/Crewmates/Killing/Crusader.html) | [Deceiver](/options/Crewmates/Killing/Deceiver.html) | [Jailer](/options/Crewmates/Killing/Jailer.html) | [Judge](/options/Crewmates/Killing/Judge.html) | [Knight](/options/Crewmates/Killing/Knight.html) | [Nice Guesser](/options/Crewmates/Killing/NiceGuesser.html) | [Retributionist](/options/Crewmates/Killing/Retributionist.html) | [Reverie](/options/Crewmates/Killing/Reverie.html) | [Sheriff](/options/Crewmates/Killing/Sheriff.html) | [Veteran](/options/Crewmates/Killing/Veteran.html) | [Vigilante](/options/Crewmates/Killing/Vigilante.html)
+[Bastion](/options/Crewmates/Killing/Bastion.html) | [Bodyguard](/options/Crewmates/Killing/Bodyguard.html) | [Crusader](/options/Crewmates/Killing/Crusader.html) | [Deceiver](/options/Crewmates/Killing/Deceiver.html) | [Jailer](/options/Crewmates/Killing/Jailer.html) | [Judge](/options/Crewmates/Killing/Judge.html) | [Knight](/options/Crewmates/Killing/Knight.html) | [Nice Guesser](/options/Crewmates/Killing/NiceGuesser.html) | [Reverie](/options/Crewmates/Killing/Reverie.html) | [Retributionist](/options/Crewmates/Killing/Retributionist.html) | [Sheriff](/options/Crewmates/Killing/Sheriff.html) | [Veteran](/options/Crewmates/Killing/Veteran.html) | [Vigilante](/options/Crewmates/Killing/Vigilante.html)
 <br>
 
 ### <font color=#d4af37><b>Power</b></font>

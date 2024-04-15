@@ -5,7 +5,7 @@ prev: /options/Settings/Impostors.html
 next: Minion
 ---
 
-# <font color="red">🦹 <b>Bloodmoon</b></font> <Badge text="Ghost" type="tip" vertical="middle"/>
+# <font color="red">🌙 <b>Bloodmoon</b></font> <Badge text="Ghost" type="tip" vertical="middle"/>
 ---
 
 As the Bloodmoon, attack enemies to make them drip blood, this means they will die in a time (set by host), and will be aware of it.

@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Impostors/Support/Nemesis.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Impostors/Support/Nemesis.html\",\"title\":\"Nemesis\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Nemesis\",\"prev\":\"Morphling\",\"next\":\"TimeThief\"},\"headers\":[],\"git\":{\"updatedTime\":1713151826000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":8},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":2}]},\"filePathRelative\":\"options/Impostors/Support/Nemesis.md\"}")
+export { comp, data }

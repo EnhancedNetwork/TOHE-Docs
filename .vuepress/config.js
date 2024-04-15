@@ -216,7 +216,7 @@ export default ({
           ],
           '/options/Crewmates/Ghost/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
-            { text: 'Retributionist', link: '/options/Crewmates/Ghost/Retributionist.html' },
+            { text: 'Hawk', link: '/options/Crewmates/Ghost/Hawk.html' },
             { text: 'Warden', link: '/options/Crewmates/Ghost/Warden.html' },
                     ],
           '/options/Crewmates/Killing/': [
@@ -229,6 +229,7 @@ export default ({
             { text: 'Judge', link: '/options/Crewmates/Killing/Judge.html' },
             { text: 'Knight', link: '/options/Crewmates/Killing/Knight.html' },
             { text: 'Nice Guesser', link: '/options/Crewmates/Killing/NiceGuesser.html' },
+            { text: 'Retributionist', link: '/options/Crewmates/Killing/Retributionist.html' },
             { text: 'Reverie', link: '/options/Crewmates/Killing/Reverie.html' },
             { text: 'Sheriff', link: '/options/Crewmates/Killing/Sheriff.html' },
             { text: 'Veteran', link: '/options/Crewmates/Killing/Veteran.html' },
@@ -285,6 +286,7 @@ export default ({
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
             { text: 'Crewmate', link: '/options/Crewmates/Vanilla/Crewmate.html' },
             { text: 'Engineer', link: '/options/Crewmates/Vanilla/Engineer.html' },
+            { text: 'Guardian Angel', link: '/options/Crewmates/Vanilla/GuardianAngel.html' },
             { text: 'Scientist', link: '/options/Crewmates/Vanilla/Scientist.html' },
           ],
           '/options/Experimental/Addon/': [
@@ -329,8 +331,8 @@ export default ({
           ],
           '/options/Impostors/Ghost/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
+            { text: 'Bloodmoon', link: '/options/Impostors/Ghost/Bloodmoon.html' },
             { text: 'Minion', link: '/options/Impostors/Ghost/Minion.html' },
-            { text: 'Nemesis', link: '/options/Impostors/Ghost/Nemesis.html' },
           ],
           '/options/Impostors/Hindering/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },

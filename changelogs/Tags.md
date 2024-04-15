@@ -42,4 +42,4 @@ sidebar:
 \+ <font color=#0036a7><b>Russian</b></font>: Russian Translation of the mod.<br>
 \+ <font color=#1e448b><b>Dutch</b></font>: Dutch Translation of the mod.<br>
 \+ <font color=#ffcf00><b>German</b></font>: German Translation of the mod.<br>
-\+ <font color=#056306><b>Portuguese (Portuguese Portugal)</font>: Portuguese Translation of the mod.
+\+ <font color=#056306><b>Portuguese (Portuguese Portugal)</b></font>: Portuguese Translation of the mod.

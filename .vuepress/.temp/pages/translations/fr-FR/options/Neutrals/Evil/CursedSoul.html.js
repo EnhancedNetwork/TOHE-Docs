@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/fr-FR/options/Neutrals/Evil/CursedSoul.html.vue"
-const data = JSON.parse("{\"path\":\"/translations/fr-FR/options/Neutrals/Evil/CursedSoul.html\",\"title\":\"Cursed Soul\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Cursed Soul\",\"prev\":\"/options/settings/Neutrals.html\",\"next\":\"Doomsayer\"},\"headers\":[],\"git\":{\"updatedTime\":1711492385000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"translations/fr-FR/options/Neutrals/Evil/CursedSoul.md\"}")
-export { comp, data }

@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/fr-FR/options/Addons/Harmful/VoidBallot.html.vue"
-const data = JSON.parse("{\"path\":\"/translations/fr-FR/options/Addons/Harmful/VoidBallot.html\",\"title\":\"Void Ballot\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Void Ballot\",\"prev\":\"Unlucky\",\"next\":\"/options/Settings/Addons.html\"},\"headers\":[],\"git\":{\"updatedTime\":1711492385000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"translations/fr-FR/options/Addons/Harmful/VoidBallot.md\"}")
-export { comp, data }

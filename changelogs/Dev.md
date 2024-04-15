@@ -15,6 +15,165 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 ---
 
+## <font size=5em><b>Latest: v2.0.0 Dev 2.1 (Hotfix!)</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), & [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed many roles (More details you can found in the dev-bug-report) <br>
+
+By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved random role assign <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Veteran now can't get Fragile <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Unlucky <br>
+
+By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Kamikaze causing half dead players<br>
+
+* By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved mod updater <br>
+
+## <font size=5em><b>v2.0.0 Dev 2</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), & [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed many roles (More details you can found in the dev-bug-report) <br>
+
+By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved random role assign <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Veteran now can't get Fragile <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Unlucky <br>
+
+* By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved mod updater <br>
+
+## <font size=5em><b>v2.0.0 Dev 1</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), [**ryuk**](https://github.com/ryuk2098), & [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved code base for all roles (Role Base) (Note about translations: In this build, some translations will be reset to English because the translation key or the text itself has been changed (For now, use custom translation)) <br>
+
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some roles using their ability with Shapeshift will now never be able to play the Shapeshift animation (but some roles still have the setting: "Show Shapeshift animations") <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Now the settings menu will first open, then will be loaded (there will be a lag of 1-2 seconds) <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Ninja was improved <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Snitch <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for Tricky <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Enigma: max name length 8 => 10 <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed typo in Deceiver setting <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bounty Hunter resets targets incorrect <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed null error after meeting for Vulture and Seeker <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed null error after exilling in Airship <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Doppelganger name between host and clients <br>
+
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Mayor can call meeting even when limit is over <br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+\+ <font color=green><b>NEW</b></font>: Ghost Roles was returned <br>
+\+ <font color=green><b>NEW</b></font>: New Crewmate Ghost role: Hawk <br>
+\+ <font color=green><b>NEW</b></font>: New Impostor Ghost role: Bloodmoon <br>
+\+ <font color=green><b>NEW</b></font>: Added Vanilla Ghost role: Guardian Angel <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved description of roles, role settings, etc. <br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Now Penguin's victim can't vent <br>
+
+* By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
+\+ <font color=green><b>NEW</b></font>: "Horse Mode" was returned <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: April Fool's mode now always displayed <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved dbconnect loading <br>
+
++ By [**Sunnyboi**](#)<br>
+= <font color=#32CD32><b>TYPO</b></font>: Fixed Shaman typo <br>
+
+= <font color=#fdf08e><b>NOTES</b></font>: Maybe something else has been fixed, but i didn't notice it <br>
+
+## <font size=5em><b>v1.6.0 Dev 6</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
++  Support AU v2024.3.5 <br>
+\+ <font color=green><b>NEW</b></font>: Added Dleks in Map Picker Menu (Thanks Submerged sourse code) <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed bug when settings sometimes are not loading <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Hangman & Morphling not work <br>
+
+* By [**0xDrMoe**](https://github.com/0xDrMoe)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixes for Copycat turning into Retributionist and reverting back into Copycat <br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Susceptible making role visisble to others <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Plague Scientist typo <br>
+
+## <font size=5em><b>v1.6.0 Dev 5</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed bug when alive players saw all the roles <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when FFA didn't end <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed "*Rate%" <br>
+
+* By [**Pietro**](https://github.com/Pietrodjaowjao) and [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Mod updater <br>
+
+
+## <font size=5em><b>v1.6.0 Dev 4</b></font><br>
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve announcement patch (Ported from TOH-Y) (Now the announcement will be translated via Crowdin) <br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Nice Mini and Evil Mini spawns <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed black screen after meeting <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed role assignment <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some errors in logs <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when roles with hidden shapeshift use ability on itself (If this happens again, BE SURE to send the logs (pls)) <br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Ghost roles no longer show in Guesser UI <br>
+
+## <font size=5em><b>v1.6.0 Dev 3</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved role spawns (Ported from TOHE+) (Now for each role you can set the chance of appearance from 0% to 100%) <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed "IsAlive" for modded clients <br>
+
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Make shahpeshifted hangman ignore alerted vetran <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Backgrounds sets in randomly (from art competitions) <br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Solsticer's is no longer a member of any team <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Make Penguin victim cannot kill <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Pelican cannot eat grabbing penguin <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: If a user failed dbconnect first login, it will be turned to offline mode and forced to re-login<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Retributionist & Nemesis (These roles are now moved in ghost roles) (Update this if you use either roles or you will not have them in game!) <br>
+
+## <font size=5em><b>v1.6.0 Dev 2</b></font><br>
+* By [**Drakos**](https://github.com/Ultradragon005) & [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some bugs with ghost roles (Now "/up" unable to assign ghost-roles bcuz it breaks the game) <br>
+
+* By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
+\+ <font color=green><b>NEW</b></font>: New setting: "Disable VoteKick System" <br>
+
+## <font size=5em><b>v1.6.0 Dev 1</b></font><br>
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Progress text and target mark for Pirate <br>
+\- <font color=red><b>REMOVED</b></font>: Removed Overtired from enabled addons list <br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some visual bugs with Modded clients <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Bomber and Nuker was banned by EAC after shapeshift <br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Added setting client "Dark Theme" (Ported From TOHE+) (Works only for modded players) <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Add-ons display was recoded <br>
+\+ <font color=green><b>NEW</b></font>: New setting: Impostors can see each other's Add-ons <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Role Summary (Ported From TOHE+) <br>
+\- <font color=red><b>REMOVED</b></font>: Client Setting "Old Role Summary" removed <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when "FixedUpdate" for roles working in lobby <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Time Master teleport player when they were in the vent <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Anti-Blackout didn't work at times <br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233) with help from [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: New function for shapeshift roles: Reject-ShapeShift (All roles that have the ability to use shapeshift will no longer play the shapeshift animation) (This function can be adjusted using the setting "Disable Shapeshift Animations" (The Sniper has a separate setting)) <br>
+
+* By [**Drakos**](https://github.com/Ultradragon005) <br>
+\+ <font color=green><b>NEW</b></font>: Added new add-on: Statue (idea @spong) <br>
+\+ <font color=green><b>NEW</b></font>: New function: Ghost Roles <br>
+\+ <font color=green><b>NEW</b></font>: New roles: "Warden" for Crew, "Minion" for Impostor <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved code base for all add-ons (Partially helped by: TommyXL) <br>
+
 ## <font size=5em><b>v1.5.1 Dev 3</b></font><br>
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when RPCVersionCheck not work correctly <br>

@@ -40,11 +40,11 @@ I love playing games (I mostly play all games on PlayStation). I especially pay 
 </details>
 
 ## Website Developer
-[**Pyro**](https://youtube.com/@Pyro0TV)：Website Developer/Assistant
+[**Pyro**](https://sites.google.com/view/pyro0tv)：Website Developer/Assistant
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 
-I am a Helper in the TOHE Discord server, aswell as a Website Developer for tohre.dev. Some hobbies I have are playing games, listening to music, watching shows/movies, & coding (for what I know). Some games I play are Minecraft, Among Us, Fortnite, & Halo. Some of my favorite shows & movies are Adventure Time & Marvel. Hope we can be good friends!
+I am a Helper in the TOHE Discord server, aswell as a Website Developer for tohre.dev. If you want to see some stuff about me, you can check out my Google Site by clicking [Here](https://sites.google.com/view/pyro0tv), or clicking my name. Hope we can be good friends!
 </details>
 
 ## Contributors
@@ -188,15 +188,6 @@ I enjoy playing games, I have played Project Sekai, Among Us, & Mahjong Soul. (A
 Hello everyone, I am from mainland China. I am one of the Simplified Chinese Translators of this mod. I am a middle school student. I usually like to sleep in, listen to music, or play video games. Nice to meet you. (Also known as CrewCyan)
 </details>
 
----
-
-[**法官**](https://github.com/hinhinarrrrrr)：<font color=#de2910><b>Chinese</b></font> Translator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-(placeholder)
-</details>
-
 ### <font color=#ffc400><b>Spanish</b></font>
 
 [**thewhiskas27**](https://github.com/Thewhiskas27)：<font color=#ffc400><b>Spanish</b></font> Translator
@@ -206,45 +197,9 @@ Hello everyone, I am from mainland China. I am one of the Simplified Chinese Tra
 I am a Translator in the TOHE Discord server, I enjoy gaming, drawing and going on walks. Also school competitivity is what drives me insane.
 </details>
 
----
-
-[**Dawson**](https://youtu.be/MTW4sIL9Dpw?si=LpHF7tX6Aj5WLwFD)：<font color=#ffc400><b>Spanish</b></font> Translator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-I help translate TOHE into Spanish & fix English descriptions. Some hobbies I have are gaming, swimming, and reading. (Also known as butwhatabout)
-</details>
-
----
-
-[**xxSShadow**](https://www.youtube.com/channel/UCji4tV4CjOd2Xzo1GxmhCig)：<font color=#ffc400><b>Spanish</b></font> Translator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-I am a college student majoring in computer science. Some hobbies I have are programming, gaming, playing/learning guitar, playing/learning drums, and swimming. I enjoy listening to any type of music, and plan on trying to start making youtube videos alongside streaming on both twitch and youtube. (Also known as Shadow)
-</details>
-
 ### <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font>
 
-[**Reginaldoo**](#)：<font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font> Translator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-(placeholder)
-</details>
-
----
-
-[**Dopzy**](#)：<font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font> Translator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-(placeholder)
-</details>
-
----
-
-[**Arc**](#)：<font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font> Translator
+[**_Dx__**](#)：<font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -271,7 +226,16 @@ Well I'm having a bad time at school. I like gaming as Undertale and being lazy 
 
 ---
 
-[**Klémi**](#)：<font color=#002654><b>French</b></font> Translator
+[**SpaceMonkey**](#)：<font color=#002654><b>French</b></font> Translator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+(placeholder)
+</details>
+
+---
+
+[**Sox**](#)：<font color=#002654><b>French</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -289,11 +253,12 @@ I helped with Japanese and Spanish translations for TOHE. I played Ultimate Fris
 
 ### <font color=#009b3a><b>Latam (Latin American)</b></font>
 
-[**CreepPower**](#)：<font color=#009b3a><b>Latam (Latin American)</b></font> Translator
+[**xxSShadow**](https://www.youtube.com/channel/UCji4tV4CjOd2Xzo1GxmhCig)：<font color=#009b3a><b>Latam (Latin American)</b></font> Translator, <font color=#ffc400><b>Spanish</b></font> Translator
+
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I am a college student majoring in computer science. Some hobbies I have are programming, gaming, playing/learning guitar, playing/learning drums, and swimming. I enjoy listening to any type of music, and plan on trying to start making youtube videos alongside streaming on both twitch and youtube. (Also known as Shadow)
 </details>
 
 ### <font color=#009344><b>Italian</b></font>
@@ -305,9 +270,18 @@ I helped with Japanese and Spanish translations for TOHE. I played Ultimate Fris
 (placeholder)
 </details>
 
----
+### <font color=#1e448b><b>Dutch</b></font>
 
-[**BaphoJack**](#): <font color=#009344><b>Italian</b></font> Translator
+[**otherb.x**](#): <font color=#1e448b><b>Dutch</b></font> Translator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+(placeholder)
+</details>
+
+### <font color=#ffcf00><b>German</b></font>
+
+[**Eispfote**](#): <font color=#ffcf00><b>German</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -316,29 +290,20 @@ I helped with Japanese and Spanish translations for TOHE. I played Ultimate Fris
 
 ---
 
-[**reallyalot**](#): <font color=#009344><b>Italian</b></font> Translator
+[**.BerTram**](#): <font color=#ffcf00><b>German</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-Hobbies I have are gaming, playing chess, gym, and music. (Also known as alot)
+(placeholder)
 </details>
 
-### <font color=#1e448b><b>Dutch</b></font>
+### <font color=#056306><b>Portuguese (Portuguese Portugal)</b></font>
 
-[**ApeMV**](https://www.youtube.com/@ape.4156): <font color=#1e448b><b>Dutch</b></font> Translator
+[**remisk**](#)：<font color=#056306><b>Portuguese (Portuguese Portugal)</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-Always leading that busy life. I enjoy playing and translating TOHE. I'm a competitive gamer. Additionally I like making art & editing music soundtracks.
-</details>
-
----
-
-[**Tango**](https://madmazel.newgrounds.com/): <font color=#1e448b><b>Dutch</b></font> Translator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-I'm a casual gamer with a special place in my heart for games that are a little bit weird or experimental. I love cycling and do it every day, but for the most part I'm a homebody. I have a cat named Boris, affectionately nicknamed Snoris because he snores sometimes.
+(placeholder)
 </details>
 
 ### <font color=#cf192b><b>English</b></font>

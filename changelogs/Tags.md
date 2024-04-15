@@ -12,8 +12,7 @@ sidebar:
 # Recently Added Tags
 ---
 
-= <font color=#32CD32><b>TYPO</b></font>: Typos that have been corrected. <br>
-= <font color=#ece218><b>NOTICE</b></font>: Small Info/Announcement. (Typically relating to website)
+* None
 
 ---
 
@@ -36,9 +35,11 @@ sidebar:
 \+ <font color=#bd0029><b>Japanese</b></font>: Japanese Translation of the mod.<br>
 \+ <font color=#009b3a><b>Latam (Latin American)</b></font>: Latam Translation of the mod.<br>
 \+ <font color=#009344><b>Italian</b></font>: Italian Translation of the mod.<br>
-\+ <font color=#ffc400><b>Spanish</b></font> Spanish Translation of the mod.<br>
+\+ <font color=#ffc400><b>Spanish</b></font>: Spanish Translation of the mod.<br>
 \+ <font color=#de2910><b>Chinese</b></font>: Chinese (Traditional/Simplified) Translation of the mod.<br>
 \+ <font color=#cf192b><b>English</b></font>: English Translation of the mod.<br>
 \+ <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font>: Brazilian Translation of the mod.<br>
 \+ <font color=#0036a7><b>Russian</b></font>: Russian Translation of the mod.<br>
 \+ <font color=#1e448b><b>Dutch</b></font>: Dutch Translation of the mod.<br>
+\+ <font color=#ffcf00><b>German</b></font>: German Translation of the mod.<br>
+\+ <font color=#056306><b>Portuguese (Portuguese Portugal)</font>: Portuguese Translation of the mod.

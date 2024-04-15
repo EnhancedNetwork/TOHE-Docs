@@ -293,8 +293,8 @@ export default defineUserConfig({
           ],
           '/options/Impostors/Ghost/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
+            { text: 'Bloodmoon', link: '/options/Impostors/Ghost/Bloodmoon.html' },
             { text: 'Minion', link: '/options/Impostors/Ghost/Minion.html' },
-            { text: 'Nemesis', link: '/options/Impostors/Ghost/Nemesis.html' },
           ],
           '/options/Impostors/Hindering/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },

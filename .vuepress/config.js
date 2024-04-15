@@ -178,7 +178,7 @@ export default defineUserConfig({
           ],
           '/options/Crewmates/Ghost/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
-            { text: 'Retributionist', link: '/options/Crewmates/Ghost/Retributionist.html' },
+            { text: 'Hawk', link: '/options/Crewmates/Ghost/Hawk.html' },
             { text: 'Warden', link: '/options/Crewmates/Ghost/Warden.html' },
                     ],
           '/options/Crewmates/Killing/': [

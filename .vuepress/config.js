@@ -192,6 +192,7 @@ export default defineUserConfig({
             { text: 'Knight', link: '/options/Crewmates/Killing/Knight.html' },
             { text: 'Nice Guesser', link: '/options/Crewmates/Killing/NiceGuesser.html' },
             { text: 'Reverie', link: '/options/Crewmates/Killing/Reverie.html' },
+            { text: 'Retributionist', link: '/options/Crewmates/Killing/Retributionist.html' },
             { text: 'Sheriff', link: '/options/Crewmates/Killing/Sheriff.html' },
             { text: 'Veteran', link: '/options/Crewmates/Killing/Veteran.html' },
             { text: 'Vigilante', link: '/options/Crewmates/Killing/Vigilante.html' },

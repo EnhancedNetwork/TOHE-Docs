@@ -248,6 +248,7 @@ export default defineUserConfig({
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
             { text: 'Crewmate', link: '/options/Crewmates/Vanilla/Crewmate.html' },
             { text: 'Engineer', link: '/options/Crewmates/Vanilla/Engineer.html' },
+            { text: 'Guardian Angel', link: '/options/Crewmates/Vanilla/GuardianAngel.html' },
             { text: 'Scientist', link: '/options/Crewmates/Vanilla/Scientist.html' },
           ],
           '/options/Experimental/Addon/': [

@@ -20,10 +20,10 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, or I
 2. Once the download is complete, unzip it into the location of your choice. Example: C:\TOHE
 
 3. Locate your AmongUs install. For example, if you own the game on Steam, you can find this by right clicking on the game in your library, selecting "Manage", and finally selecting "Browse local files."
-![image](./images/SteamGetFolder.png)
+![image](../../images/SteamGetFolder.png)
 
 4. Select all of the files in your AmongUs installation and copy them to the folder that now has the files from the TOHE release. The folder should now look something like this:
-![image](./images/ResultFolder.png)
+![image](../../images/ResultFolder.png)
 
 5. Within the TOHE folder, run Among Us.exe. The first time running it may take some time while the mod sets up its files. If you see a black screen, just wait a couple minutes. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.
 

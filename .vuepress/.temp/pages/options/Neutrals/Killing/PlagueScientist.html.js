@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Neutrals/Killing/PlagueScientist.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Neutrals/Killing/PlagueScientist.html\",\"title\":\"Plague Scientist\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Plague Scientist\",\"prev\":\"Plaguebearer\",\"next\":\"Poisoner\"},\"headers\":[],\"git\":{\"updatedTime\":1711467356000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Neutrals/Killing/PlagueScientist.md\"}")
+export { comp, data }

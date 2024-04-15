@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/zh-CN/options/Crewmates/Support/Inspector.html.vue"
+const data = JSON.parse("{\"path\":\"/translations/zh-CN/options/Crewmates/Support/Inspector.html\",\"title\":\"Inspector\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Inspector\",\"prev\":\"Grenadier\",\"next\":\"Lighter\"},\"headers\":[],\"git\":{\"updatedTime\":1711492385000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"translations/zh-CN/options/Crewmates/Support/Inspector.md\"}")
+export { comp, data }

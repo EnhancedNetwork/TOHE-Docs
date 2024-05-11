@@ -110,6 +110,17 @@ I am a part of the TOHE French Translation team. I enjoy programming and gaming.
 TChinese Translator for in TOHE since April 2023. I'm a casual gamer, playing games such as Minecraft, Among Us, Project Sekai. Nice to meet you! (Also known as NetherDragon_Tw & 地獄龍)
 </details>
 
+---
+
+[**Drakos**](https://www.youtube.com/channel/UCVT0-d5Sxc3ab1AZvkBe-cQ)：Role/Feature Coding & <font color=#dc143c><b>Polish</b></font> Translator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I'm a TOHE Contributor & Polish Translator.
+The voices? Nah I'd win.
+I play chess when I'm bored, and catch crypto pumps 😼. I also workout and try to run very fast, so that's cool I guess.
+</details>
+
 ## Translators
 
 ### <font color=#0036a7><b>Russian</b></font>

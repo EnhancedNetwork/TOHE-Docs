@@ -1,14 +1,12 @@
 ---
 lang: en-US
 title: Spiritcaller
-prev: Solsticer
-next: /options/Settings/Experimental.html
+prev: Shroud
+next: Stalker
 ---
 
-# <font color=#003366>👻 <b>Spiritcaller</b></font> <Badge text="Neutral" type="tip" vertical="middle"/>
+# <font color=#003366>👻 <b>Spiritcaller</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
-<font size=4em>Experimental Reason: utilizes the Guardian Angel basis for Evil Spirits</font><br>
-Note: Most likely a Neutral Killing/Chaos
 
 As the Spiritcaller, your victims become Evil Spirits after they die. These spirits can help you win by freezing other players for a short time and/or blocking their vision. Alternatively, the spirits can give you a shield that protects you briefly from an attempted kill.
 * Max

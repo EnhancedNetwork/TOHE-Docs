@@ -8,7 +8,7 @@ next: Neutrals
 # <font color="#8cffff">🦸‍♂️ <b>Crewmate Roles</b></font>
 ---
 
-<b>Focus on finding the <font color=red>Impostors</font> and completing tasks. These roles are very simple, making it easier for new players and the <font color=#8cffff>Crewmates</font> to win.</b>
+<b>Focus on finding the <font color=red>Impostors</font> and completing tasks. For <i>newer</i> players, it is recommended to try out Basic, Support, and few Killing <font color=#8cffff>Crewmate</font> roles, as some can get pretty complicated. If some roles are not on this page, check [Experimental Roles](/options/Settings/Experimental.html), as they may be there for testing/bug fixes.</b><br>
 
 <table>
 <tr>

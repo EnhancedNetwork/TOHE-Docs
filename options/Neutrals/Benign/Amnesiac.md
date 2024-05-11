@@ -18,10 +18,11 @@ If the target was a neutral killer of a select few, you'll become the role they 
 * If neutral is incompatible, turn into
   * Set what role the Amnesiac will become if they try to remember a role that is incompatible with the Amnesiac, choose from:
     * Amnesiac
-    * Witch
     * Pursuer
     * Follower
     * Maverick
     * Imitator
-
+* Has arrows pointing towards bodies
+  * Set if Amnesiac will receive arrows pointing towards a dead body
+  
 > From: ToUR

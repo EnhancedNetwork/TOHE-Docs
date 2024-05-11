@@ -7,7 +7,7 @@ next: Impostors
 
 # <font color=#76b8e0>👨‍🔬 <b>Experimental Roles</b></font>
 ---
-<b>These are roles that are not fully stable and may contain bugs. They can be Impostor, Crewmate, <font color=#7f8c8d>Neutral</font> roles or Add-ons. <u>USE AT YOUR OWN RISK</u></b>
+<b>These are roles that are not fully stable and may contain bugs. This section consists of some Impostor, Crewmate, & Neutral roles, as well as some Add-ons. If some roles are not on this page, check their normal faction pages as they may no longer need testing, or have been fixed. <u>USE AT YOUR OWN RISK</u></b><br>
 
 <table>
 <tr>
@@ -16,7 +16,7 @@ next: Impostors
 
 <tr>
 <td><font color=#ff9ace><b>Add-ons</b></font></td>
-<td align="center">1</td>
+<td align="center">2</td>
 </tr>
 
 <tr>
@@ -31,7 +31,7 @@ next: Impostors
 
 <tr>
 <td><font color=#7c8c8d><b>Neutral</b></font></td>
-<td align="center">4</td>
+<td align="center">3</td>
 </tr>
 
 <tr>
@@ -44,7 +44,7 @@ next: Impostors
 
 ### <font color=#ff9ace><b>Add-ons</b></font>
 ---
-[YouTuber](/options/Experimental/Addon/YouTuber.html)
+[Glow](/options/Experimental/Addon/Glow.html) | [YouTuber](/options/Experimental/Addon/YouTuber.html)
 <br>
 
 ### <font color=#8cffff><b>Crewmate</b></font>
@@ -59,5 +59,5 @@ next: Impostors
 
 ### <font color=#7f8c8d><b>Neutral</b></font>
 ---
-[Doppelganger](/options/Experimental/Neutral/Doppelganger.html) | [God](/options/Experimental/Neutral/God.html) | [Quizmaster](/options/Experimental/Neutral/Quizmaster.html) | [Spiritcaller](/options/Experimental/Neutral/Spiritcaller.html)
+[Doppelganger](/options/Experimental/Neutral/Doppelganger.html) | [God](/options/Experimental/Neutral/God.html) | [Quizmaster](/options/Experimental/Neutral/Quizmaster.html)
 <br>

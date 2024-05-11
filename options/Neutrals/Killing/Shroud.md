@@ -2,7 +2,7 @@
 lang: en-US
 title: Shroud
 prev: SerialKiller
-next: Stalker
+next: Spiritcaller
 ---
 
 # <font color="#6697ff">👻 <b>Shroud</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

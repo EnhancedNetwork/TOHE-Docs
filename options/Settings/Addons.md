@@ -8,7 +8,7 @@ next: /options/settings/Experimental.html
 # <font color="#ff9ace">➕ <b>Add-ons</b></font>
 ---
 
-<b>These are modifiers that any players can acquire. There are helpful, harmful, and <font color=red>Impostor</font> add-ons. Each one is unique in the way it affects the player.</b>
+<b>These are modifiers that any players can acquire. There are some that help you, some that harm you, and some can do both! There are also some <font color=red>Impostor Only</font> add-ons. Each one is unique in the way it affects the player. If some add-ons are not on this page, check [Experimental Roles](/options/Settings/Experimental.html), as they may be there for testing/bug fixes.</b><br>
 
 <table>
 <tr>

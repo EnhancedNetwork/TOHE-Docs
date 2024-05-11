@@ -111,6 +111,7 @@ export default defineUserConfig({
             { text: 'Necroview', link: '/options/Addons/Helpful/Necroview.html' },
             { text: 'Nimble', link: '/options/Addons/Helpful/Nimble.html' },
             { text: 'Overclocked', link: '/options/Addons/Helpful/Overclocked.html' },
+            { text: 'Radar', link: '/options/Addons/Helpful/Radar.html' },
             { text: 'Repairman', link: '/options/Addons/Helpful/Repairman.html' },
             { text: 'Seer', link: '/options/Addons/Helpful/Seer.html' },
             { text: 'Silent', link: '/options/Addons/Helpful/Silent.html' },
@@ -254,6 +255,7 @@ export default defineUserConfig({
           ],
           '/options/Experimental/Addon/': [
             { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },
+            { text: 'Glow', link: '/options/Experimental/Addon/Glow.html' },
             { text: 'YouTuber', link: '/options/Experimental/Addon/YouTuber.html' },
           ],
           '/options/Experimental/Crewmate/': [
@@ -268,7 +270,6 @@ export default defineUserConfig({
             { text: 'Doppelganger', link: '/options/Experimental/Neutral/Doppelganger.html' },
             { text: 'God', link: '/options/Experimental/Neutral/God.html' },
             { text: 'Quizmaster', link: '/options/Experimental/Neutral/Quizmaster.html' },
-            { text: 'Spiritcaller', link: '/options/Experimental/Neutral/Spiritcaller.html' },
           ],
           '/options/Impostors/Concealing/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
@@ -449,6 +450,7 @@ export default defineUserConfig({
             { text: 'Pyromaniac', link: '/options/Neutrals/Killing/Pyromaniac.html' },
             { text: 'Serial Killer', link: '/options/Neutrals/Killing/SerialKiller.html' },
             { text: 'Shroud', link: '/options/Neutrals/Killing/Shroud.html' },
+            { text: 'Spiritcaller', link: '/options/Neutrals/Killing/Spiritcaller.html' },
             { text: 'Stalker', link: '/options/Neutrals/Killing/Stalker.html' },
             { text: 'Traitor', link: '/options/Neutrals/Killing/Traitor.html' },
             { text: 'Virus', link: '/options/Neutrals/Killing/Virus.html' },

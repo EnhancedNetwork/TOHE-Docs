@@ -8,7 +8,7 @@ next: Tired
 # <font color=#7e9c8a>🗽 <b>Statue</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>
 ---
 
-DESCRIPTION
+Whenever many people are near Statue, the Statue is completely frozen or slowed down dependand on settings.
 * Max
   * Set the Maximum amount of Statue that can be in a match
 * Spawn Chance

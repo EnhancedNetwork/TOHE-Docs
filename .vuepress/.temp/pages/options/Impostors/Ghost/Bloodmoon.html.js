@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Impostors/Ghost/Bloodmoon.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Impostors/Ghost/Bloodmoon.html\",\"title\":\"Nemesis\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Nemesis\",\"prev\":\"/options/Settings/Impostors.html\",\"next\":\"Minion\"},\"headers\":[],\"git\":{\"updatedTime\":1713130336000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Impostors/Ghost/Bloodmoon.md\"}")
-export { comp, data }

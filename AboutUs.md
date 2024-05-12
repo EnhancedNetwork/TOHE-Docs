@@ -94,11 +94,11 @@ I am a part of the TOHE French Translation team. I enjoy programming and gaming.
 
 ---
 
-[**乐崽吖**](https://github.com/LezaiYa)：Role Coding, <font color=#de2910><b>Chinese</b></font> Translator
+[**乐崽吖**](https://github.com/LezaiYa)：Role Coding, <font color=#de2910><b>Simplified Chinese</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+Hello everyone. I'm a Simplified Chinese Translator and Contributor to this mod. I also post videos on bilibili, I recently checked into YouTube and started posting videos to YouTube. I'm glad to meet you guys!
 </details>
 
 ---
@@ -183,7 +183,7 @@ I am a Translator in the TOHE Discord server, I enjoy gaming, drawing and going 
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I'm a Portuguese Brazil Translator. I'm also a Friday Night Funkin coder, & I make Android ports. I post videos on YouTube about games. Playing minecraft almost every day lmao.
 </details>
 
 ### <font color=#002654><b>French</b></font>

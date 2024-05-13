@@ -180,6 +180,7 @@ export default defineUserConfig({
           ],
           '/options/Crewmates/Ghost/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
+            { text: 'Ghastly', link: '/options/Crewmates/Ghost/Ghastly.html' },
             { text: 'Hawk', link: '/options/Crewmates/Ghost/Hawk.html' },
             { text: 'Warden', link: '/options/Crewmates/Ghost/Warden.html' },
                     ],

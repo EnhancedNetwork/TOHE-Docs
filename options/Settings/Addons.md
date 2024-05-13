@@ -5,7 +5,7 @@ prev: /options/settings/Neutrals.html
 next: /options/settings/Experimental.html
 ---
 
-# <font color="#ff9ace">➕ <b>Add-ons</b></font>
+# <font color="#ff9ace">📋 <b>Add-ons</b></font>
 ---
 
 <b>These are modifiers that any players can acquire. There are some that help you, some that harm you, and some can do both! There are also some <font color=red>Impostor Only</font> add-ons. Each one is unique in the way it affects the player. If some add-ons are not on this page, check [Experimental Roles](/options/Settings/Experimental.html), as they may be there for testing/bug fixes.</b><br>
@@ -16,27 +16,27 @@ next: /options/settings/Experimental.html
 </tr>
 
 <tr>
-<td><font color=red><b>Harmful</b></font></td>
+<td><font color=red><b>🤕 Harmful</b></font></td>
 <td align="center">12</td>
 </tr>
 
 <tr>
-<td><font color=#00ff00><b>Helpful</b></font></td>
+<td><font color=#00ff00><b>🤑 Helpful</b></font></td>
 <td align="center">19</td>
 </tr>
 
 <tr>
-<td><font color=red><b>Impostor</b></font></td>
+<td><font color=red><b>🦹 Impostor Only</b></font></td>
 <td align="center">9</td>
 </tr>
 
 <tr>
-<td><font color=#a83295><b>Miscellaneous</b></font></td>
+<td><font color=#a83295><b>⚙️ Miscellaneous</b></font></td>
 <td align="center">5</td>
 </tr>
 
 <tr>
-<td><font color=#32a87f><b>Mixed</b></font></td>
+<td><font color=#32a87f><b>😵‍💫 Mixed</b></font></td>
 <td align="center">13</td>
 </tr>
 

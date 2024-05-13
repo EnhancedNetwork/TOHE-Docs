@@ -15,22 +15,22 @@ next: Impostors
 </tr>
 
 <tr>
-<td><font color=#ff9ace><b>Add-ons</b></font></td>
+<td><font color=#ff9ace><b>📋 Add-ons</b></font></td>
 <td align="center">2</td>
 </tr>
 
 <tr>
-<td><font color=#8cffff><b>Crewmate</b></font> </td>
+<td><font color=#8cffff><b>🦸‍♂️ Crewmates</b></font> </td>
 <td align="center">0</td>
 </tr>
 
 <tr>
-<td><font color=red><b>Impostor</b></font></td>
+<td><font color=red><b>🦹‍♂️ Impostors</b></font></td>
 <td align="center">1</td>
 </tr>
 
 <tr>
-<td><font color=#7c8c8d><b>Neutral</b></font></td>
+<td><font color=#7c8c8d><b>🥷 Neutrals</b></font></td>
 <td align="center">3</td>
 </tr>
 
@@ -47,17 +47,17 @@ next: Impostors
 [Glow](/options/Experimental/Addon/Glow.html) | [YouTuber](/options/Experimental/Addon/YouTuber.html)
 <br>
 
-### <font color=#8cffff><b>Crewmate</b></font>
+### <font color=#8cffff><b>Crewmates</b></font>
 ---
 [N/A](#)
 <br>
 
-### <font color=red><b>Impostor</b></font>
+### <font color=red><b>Impostors</b></font>
 ---
 [Disperser](/options/Experimental/Impostor/Disperser.html)
 <br>
 
-### <font color=#7f8c8d><b>Neutral</b></font>
+### <font color=#7f8c8d><b>Neutrals</b></font>
 ---
 [Doppelganger](/options/Experimental/Neutral/Doppelganger.html) | [God](/options/Experimental/Neutral/God.html) | [Quizmaster](/options/Experimental/Neutral/Quizmaster.html)
 <br>

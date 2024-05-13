@@ -16,22 +16,22 @@ next: Addons
 </tr>
 
 <tr>
-<td><font color=#046300><b>Benign</b></font></td>
+<td><font color=#046300><b>🕊️ Benign</b></font></td>
 <td align="center">15</td>
 </tr>
 
 <tr>
-<td><font color=#d4af37><b>Chaos</b></font></td>
+<td><font color=#d4af37><b>😈 Chaos</b></font></td>
 <td align="center">12</td>
 </tr>
 
 <tr>
-<td><font color=#912900><b>Evil</b></font></td>
+<td><font color=#912900><b>👹 Evil</b></font></td>
 <td align="center">7</td>
 </tr>
 
 <tr>
-<td><font color=#b22222><b>Killing</b></font></td>
+<td><font color=#b22222><b>🪓 Killing</b></font></td>
 <td align="center">28</td>
 </tr>
 

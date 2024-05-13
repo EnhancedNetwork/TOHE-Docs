@@ -16,37 +16,37 @@ next: Crewmates
 </tr>
 
 <tr>
-<td><font color=indigo><b>Concealing</b></font></td>
+<td><font color=indigo><b>👣 Concealing</b></font></td>
 <td align="center">15</td>
 </tr>
 
 <tr>
-<td><font color=#bd8b88><b>Ghost</b></font></td>
+<td><font color=#bd8b88><b>👻 Ghost</b></font></td>
 <td align="center">2</td>
 </tr>
 
 <tr>
-<td><font color=#636363><b>Hindering</b></font></td>
+<td><font color=#636363><b>⛓️ Hindering</b></font></td>
 <td align="center">8</td>
 </tr>
 
 <tr>
-<td><font color=#6e003a><b>Killing</b></font></td>
+<td><font color=#6e003a><b>🔪 Killing</b></font></td>
 <td align="center">27</td>
 </tr>
 
 <tr>
-<td><font color=red><b>Madmate</b></font></td>
+<td><font color=red><b>😡 Madmate</b></font></td>
 <td align="center">2 (+2)</td>
 </tr>
 
 <tr>
-<td><font color=#00ffff><b>Support</b></font> </td>
+<td><font color=#00ffff><b>🫂 Support</b></font> </td>
 <td align="center">13</td>
 </tr>
 
 <tr>
-<td><font color=#8cffff><b>Vanilla</b></font> </td>
+<td><font color=#8cffff><b>👶 Vanilla</b></font> </td>
 <td align="center">2</td>
 </tr>
 

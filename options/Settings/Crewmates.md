@@ -15,32 +15,32 @@ next: Neutrals
 <td colspan="2" align="center"><b><u>Role Count</u></b></td>
 </tr>
 <tr>
-<td><font color=#e69c9c><b>Basic</b></font></td>
+<td><font color=#e69c9c><b>🧒 Basic</b></font></td>
 <td align="center">14</td>
 </tr>
 
 <tr>
-<td><font color=#8cffff><b>Ghost</b></font></td>
-<td align="center">2</td>
+<td><font color=#9bacb2><b>👻 Ghost</b></font></td>
+<td align="center">3</td>
 </tr>
 
 <tr>
-<td><font color=#b22222><b>Killing</b></font></td>
+<td><font color=#b22222><b>🗡️ Killing</b></font></td>
 <td align="center">12</td>
 </tr>
 
 <tr>
-<td><font color=#d4af37><b>Power</b></font></td>
+<td><font color=#d4af37><b>🧑‍⚖️ Power</b></font></td>
 <td align="center">13</td>
 </tr>
 
 <tr>
-<td><font color=#7fffd4><b>Support</b></font></td>
+<td><font color=#7fffd4><b>🫂 Support</b></font></td>
 <td align="center">28</td>
 </tr>
 
 <tr>
-<td><font color=#8cffff><b>Vanilla</b></font></td>
+<td><font color=#8cffff><b>👶 Vanilla</b></font></td>
 <td align="center">3</td>
 </tr>
 
@@ -59,7 +59,7 @@ next: Neutrals
 
 ### <font color=#9bacb2><b>Ghost</b></font>
 ---
-[Hawk](/options/Crewmates/Ghost/Hawk.html) | [Warden](/options/Crewmates/Ghost/Warden.html)
+[Ghastly](/options/Crewmates/Ghost/Ghastly.html) | [Hawk](/options/Crewmates/Ghost/Hawk.html) | [Warden](/options/Crewmates/Ghost/Warden.html)
 
 ### <font color=#b22222><b>Killing</b></font>
 ---

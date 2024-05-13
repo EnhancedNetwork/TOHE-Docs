@@ -106,9 +106,11 @@ There are a few posibilities
 
 2. You may need to enable more roles or allow more players to be the same role.
 
-3. You may come accross this message: "There are incompatible roles in your role list, you may experience vanilla roles", which means you have a certain role & it's addon form enabled, (You can find info on what roles/addons are incompatible on these pages: [Crewmate](/options/Crewmates/Vanilla/Crewmate.html) | [Engineer](/options/Crewmates/Vanilla/Engineer.html) | [Scientist](/options/Crewmates/Vanilla/Scientist.html)) (This should not occur anymore as of 1.2.1 dev 3)
+3. You may come accross this message: "There are incompatible roles in your role list, you may experience vanilla roles", which means you have a certain role & it's addon form enabled, (You can find info on what roles/addons are incompatible on these pages: [Crewmate](/options/Crewmates/Vanilla/Crewmate.html) | [Engineer](/options/Crewmates/Vanilla/Engineer.html) | [Scientist](/options/Crewmates/Vanilla/Scientist.html)) (This should not occur anymore as of 1.2.1 Dev 3)
 
 4. Eraser might've erased your role, resetting you to your base role (Impostor/Shapeshifter/Crewmate/Engineer/Scientist are all Base Roles (Base Role =/= Team/Role))
+
+5. You may have killed a player with the [OIIAI](/options/Addons/Mixed/OIIAI.html) Add-on. This is normal in this case, as OIIAI resets their killers role to their base role. (Refer Above) 
 
 ## The game never ends
 
@@ -132,9 +134,9 @@ Their presence has no effect on the game, and all players know who the Game Mast
 
 ## How can I access Canary & Dev Builds
 
-1. Become a Translator, Sponsor (Initiate+), or Nitro Booster for Canary Access.
+1. Anybody can get Canary Access by visiting #canary-builds in the TOHE Discord.
 
-2. Become a Contributor, Tester, or Sponsor (Insider+) for Canary <i>and</i> Dev Access.<br>
+2. Become a Contributor, Tester, or Sponsor (Insider+) for Dev Access.<br>
 Read near the bottom of the [Install/Get Started](/GetStarted.html) page.
 
 ## Can you use the Submerged mod with TOHE?

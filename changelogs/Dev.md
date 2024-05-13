@@ -11,20 +11,136 @@ sidebar:
 
 # Dev Changelogs
 ---
-To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced), or be a [Tester] (Content Creator with your TOHE videos having 600+ views on average)
+To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or be a [Tester] (Content Creator with your TOHE videos having 600+ views on average)
 
 ---
+## <font size=5em><b>Latest: v2.0.0 Dev 9</b></font><br>
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Workaholic winning before completing tasks<br>
 
-## <font size=5em><b>Latest: v2.0.0 Dev 2.1 (Hotfix!)</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Plaguebearer (Any interaction between infected and uninfected leads to infection of uninfected players (Same as in TOU-R))<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed color blind text position<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Doppelganger now can not become Rainbow and Flash<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: SchrodingersCat now can not become Fragile<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Jailer error<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Ghoul<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Randomizer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Bait sometimes not work<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Killing Machine reporting Bait<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Solstice fall from ladder<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed black screen after start game<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed custom sprite after dead and after game over<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the settings "Has Impostor Vision" did not work for neutral killers<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+\+ <font color=green><b>NEW</b></font>: Crewmate Ghost Role: [Ghastly](/options/Crewmates/Ghost/Ghastly.html)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Bring back prefix for addon<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Super Star<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Retributionist kills<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed RPC for non-host modded clients<br>
+
+## <font size=5em><b>Latest: v2.0.0 Dev 8</b></font><br>
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+\+ <font color=green><b>NEW</b></font>: Helpful Addon: [Radar](/options/Addons/Helpful/Radar.html) (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Pyro </span>)<br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix null exception error on notify roles<br>
+
+* By [**Sunnyboi**](#)<br>
+= <font color=#32CD32><b>TYPO</b></font>: Fix typos in English translations<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+\+ <font color=green><b>NEW</b></font>: New look for kill log<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Add notifyroles in checprotect<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix aum and sicko rpc<br>
+
+## <font size=5em><b>Latest: v2.0.0 Dev 7.1 (Hotfix)</b></font><br>
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken RPC<br>
+
+## <font size=5em><b>Latest: v2.0.0 Dev 7</b></font><br>
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix system message not sending and role not being assigned to players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix system message cutting off in between of a message<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix glitch rpc sync<br>
+\+ <font color=green><b>NEW</b></font>: Setting: immediate auto start<br>
+\+ <font color=green><b>NEW</b></font>: Command: /me (gives id, friendcode and HashedPUID of a player)<br>
+
+## <font size=5em><b>Latest: v2.0.0 Dev 6.1 (Hotfix)</b></font><br>
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Executioner not spawning at all<br>
+
+## <font size=5em><b>Latest: v2.0.0 Dev 6</b></font><br>
+* By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
+\- <font color=red><b>REMOVED</b></font>: Remove limit of rpc call numbers<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Make killog and lastroles colored again<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix blackscreen (hopefully)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix missing string<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix messages not sent vanilla player<br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: custom buttons were not sets correctly and they become too bright or, conversely, too dark <br>
+
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix copycat/monarch interaction<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix null error spamming like crazy for non host modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Add function for main role getting called when addon is assigned mid game for non host modded clients<br>
+
+## <font size=5em><b>Latest: v2.0.0 Dev 5</b></font><br>
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Tricky (Addon) giving Shattered (Death Reason) when Fragile (Addon) is off<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Hawk<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve code<br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Fragile crashing the game<br>
+
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Grenadier not working<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix EAC list not working when apply banlist is off<br>
+\+ <font color=green><b>NEW</b></font>: Experimental Add-on: [Glow](/options/Experimental/Addons/Glow.html) (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Omega </span>)<br>
+
+## <font size=5em><b>Latest: v2.0.0 Dev 4</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Veteran<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix OIIAI Settings<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix error Detective<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Check invalid color for Apply Suffix<br>
+
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: fix addon % display on /r [addon]<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: fix lawyer not winning after death<br>
+\+ <font color=green><b>NEW</b></font>: Setting: Amnesiac arrows<br>
+
+## <font size=5em><b>Latest: v2.0.0 Dev 3</b></font><br>
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: fix FFA mode getting crewmate instead of killer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: fix lawyer mark<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: fix witch and hexmaster suffix text<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: fix detective<br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed game crash (hopefully)<br>
+
+## <font size=5em><b>Latest: v2.0.0 Dev 2.1 (Hotfix)</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), & [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed many roles (More details you can found in the dev-bug-report) <br>
 
-By [**TommyXL**](https://github.com/Tommy-XL)<br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved random role assign <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Veteran now can't get Fragile <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Unlucky <br>
 
-By [**ryuk**](https://github.com/ryuk2098)<br>
+* By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Kamikaze causing half dead players<br>
 
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
@@ -34,7 +150,7 @@ By [**ryuk**](https://github.com/ryuk2098)<br>
 * By [**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), & [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed many roles (More details you can found in the dev-bug-report) <br>
 
-By [**TommyXL**](https://github.com/Tommy-XL)<br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved random role assign <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Veteran now can't get Fragile <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Unlucky <br>
@@ -46,7 +162,6 @@ By [**TommyXL**](https://github.com/Tommy-XL)<br>
 * By [**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), [**ryuk**](https://github.com/ryuk2098), & [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved code base for all roles (Role Base) (Note about translations: In this build, some translations will be reset to English because the translation key or the text itself has been changed (For now, use custom translation)) <br>
 
-
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Some roles using their ability with Shapeshift will now never be able to play the Shapeshift animation (but some roles still have the setting: "Show Shapeshift animations") <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Now the settings menu will first open, then will be loaded (there will be a lag of 1-2 seconds) <br>
@@ -54,7 +169,7 @@ By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Snitch <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Some fix for Tricky <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Enigma: max name length 8 => 10 <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed typo in Deceiver setting <br>
+= <font color=#32CD32><b>TYPO</b></font>: Fixed typo in Deceiver setting <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bounty Hunter resets targets incorrect <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed null error after meeting for Vulture and Seeker <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed null error after exilling in Airship <br>
@@ -78,7 +193,7 @@ By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: April Fool's mode now always displayed <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved dbconnect loading <br>
 
-+ By [**Sunnyboi**](#)<br>
+* By [**Sunnyboi**](#)<br>
 = <font color=#32CD32><b>TYPO</b></font>: Fixed Shaman typo <br>
 
 = <font color=#fdf08e><b>NOTES</b></font>: Maybe something else has been fixed, but i didn't notice it <br>
@@ -95,7 +210,7 @@ By [**TommyXL**](https://github.com/Tommy-XL)<br>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Susceptible making role visisble to others <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Plague Scientist typo <br>
+= <font color=#32CD32><b>TYPO</b></font>: Fixed Plague Scientist typo <br>
 
 ## <font size=5em><b>v1.6.0 Dev 5</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
@@ -169,7 +284,7 @@ By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: New function for shapeshift roles: Reject-ShapeShift (All roles that have the ability to use shapeshift will no longer play the shapeshift animation) (This function can be adjusted using the setting "Disable Shapeshift Animations" (The Sniper has a separate setting)) <br>
 
 * By [**Drakos**](https://github.com/Ultradragon005) <br>
-\+ <font color=green><b>NEW</b></font>: Added new add-on: Statue (idea @spong) <br>
+\+ <font color=green><b>NEW</b></font>: Harmful Add-on: [Statue](/options/Addons/Harmful/Statue.html) (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> spong </span>) <br>
 \+ <font color=green><b>NEW</b></font>: New function: Ghost Roles <br>
 \+ <font color=green><b>NEW</b></font>: New roles: "Warden" for Crew, "Minion" for Impostor <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved code base for all add-ons (Partially helped by: TommyXL) <br>
@@ -194,7 +309,7 @@ By [**TommyXL**](https://github.com/Tommy-XL)<br>
 ## <font size=5em><b>v1.5.1 Dev 2.1</b></font><br>
 * By [**0xDrMoe**](https://github.com/0xDrMoe)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated Monarch Description to include Monarch immunity condition <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Rainbow </span> typo in /r <br>
+= <font color=#32CD32><b>TYPO</b></font>: Fixed <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Rainbow </span> typo in /r <br>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed <font color=#8708c7><b>TRANSLATION</b></font> issue taking Irish instead of English due to incorrect ID <br>
@@ -427,8 +542,8 @@ By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Lookout, Inspector and Swapper seeing double id with guesser addon <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Improved Trickster (Reverie killing Trickster increases cooldown, Always shows as a check mark for witness) <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Cyber is now incompatible with Doppelganger
-\+ <font color=green><b>NEW</b></font>: Neutral Benign Role: [Taskinator](/options/Neutrals/Benign/Taskinator.html) (idea by Dx) <br>
-\+ <font color=green><b>NEW</b></font>: Neutral Benign Role: [Pixie](/options/Neutrals/Benign/Pixie.html) (idea by Azanthiel) <br>
+\+ <font color=green><b>NEW</b></font>: Neutral Benign Role: [Taskinator](/options/Neutrals/Benign/Taskinator.html) (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Dx </span>) <br>
+\+ <font color=green><b>NEW</b></font>: Neutral Benign Role: [Pixie](/options/Neutrals/Benign/Pixie.html) (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Azanthiel </span>) <br>
 \+ <font color=green><b>NEW</b></font>: Role colors are now changable trough a new .dat file (User can change role colors by renaming templateRoleColor.dat to RoleColor.dat and adding hex colors in the file; Custom roles can be exported by pressing"F5+X" (same as custom translations)) <br>
 
 * By [**lars-wu (papercut)**](https://github.com/lars-wu)<br>
@@ -558,7 +673,7 @@ By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed president (It should no longer show /reveal if hide command is on)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Changed president /end to /finish for president because of command conflict<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated Fragile (Fragile will no longer show themselves as killer if they die.)<br>
-\+ <font color=#12edaf><b>REWORK</b></font>: Reworked Reverie (New Idea: Pyro & Code: Ryuk, Original Idea & Code: TronAndRey) (Added increase and Max kill cooldown setting. Reverie misfires and dies with target after reaching Max cooldown)<br>
+\+ <font color=#12edaf><b>REWORK</b></font>: Reworked Reverie (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Pyro </span>, Original Idea & Code: TronAndRey) (Added increase and Max kill cooldown setting. Reverie misfires and dies with target after reaching Max cooldown)<br>
 
 * By [**lars-wu (papercut)**](https://github.com/lars-wu)<br>
 \+ <font color=green><b>NEW</b></font>: Added a new setting for Coroner (Inform killer about being tracked)<br>

@@ -5,7 +5,7 @@ prev: Plaguebearer
 next: Poisoner
 ---
 
-# <font color="#e5f6b4">🦠 <b>Plaguebearer</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color="#ff6633">🦠 <b>Plague Scientist</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 (Plague Doctor from TOH)

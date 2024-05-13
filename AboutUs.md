@@ -44,12 +44,12 @@ I love playing games (I mostly play all games on PlayStation). I especially pay 
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 
-I am a Helper in the TOHE Discord server, aswell as a Website Developer for tohre.dev. If you want to see some stuff about me, you can check out my Google Site by clicking [Here](https://sites.google.com/view/pyro0tv), or clicking my name. Hope we can be good friends!
+I am a Moderator in the TOHE Discord, aswell as a Website Developer for tohre.dev. If you want to see some stuff about me, you can check out my Google Site by clicking [Here](https://sites.google.com/view/pyro0tv), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 </details>
 
 ## Contributors
 
-[**Gurge44**](https://www.youtube.com/@200iqguy)：Role Coding, <font color=#cf192b><b>English</b></font> Translator (TOHE+ Dev)
+[**Gurge44**](https://www.youtube.com/@200iqguy)：Role Coding, <font color=#cf192b><b>English</b></font> Translator (EHR Dev)
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -71,19 +71,6 @@ I help with performance improvements & bug fixes, sometimes I add new roles. I a
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
----
-
-(placeholder)
-</details>
-
----
-
-[**xV & MCP**](https://github.com/xVCantCode)：Feature Coding
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
----
-
 (placeholder)
 </details>
 
@@ -98,24 +85,6 @@ I am a part of the TOHE French Translation team. I enjoy programming and gaming.
 
 ---
 
-[**天寸梦初**](https://github.com/Huier-Huang)：Role Coding
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-(placeholder)
-</details>
-
----
-
-[**NCSIMON**](https://github.com/NCSIMON)：Role Coding
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-Helped code Many Roles for TOH: Edited.
-</details>
-
----
-
 [**Commandf1**](https://github.com/commandf1)：Role & Feature Coding
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -125,11 +94,11 @@ Helped code Many Roles for TOH: Edited.
 
 ---
 
-[**乐崽吖**](https://github.com/LezaiYa)：Role Coding, <font color=#de2910><b>Chinese</b></font> Translator
+[**乐崽吖**](https://github.com/LezaiYa)：Role Coding, <font color=#de2910><b>Simplified Chinese</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+Hello everyone. I'm a Simplified Chinese Translator and Contributor to this mod. I also post videos on bilibili, I recently checked into YouTube and started posting videos to YouTube. I'm glad to meet you guys!
 </details>
 
 ---
@@ -139,6 +108,17 @@ Helped code Many Roles for TOH: Edited.
 <summary><b><font color=gray>About</font></b></summary>
 
 TChinese Translator for in TOHE since April 2023. I'm a casual gamer, playing games such as Minecraft, Among Us, Project Sekai. Nice to meet you! (Also known as NetherDragon_Tw & 地獄龍)
+</details>
+
+---
+
+[**Drakos**](https://www.youtube.com/channel/UCVT0-d5Sxc3ab1AZvkBe-cQ)：Role/Feature Coding & <font color=#dc143c><b>Polish</b></font> Translator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I'm a TOHE Contributor & Polish Translator.
+The voices? Nah I'd win.
+I play chess when I'm bored, and catch crypto pumps 😼. I also workout and try to run very fast, so that's cool I guess.
 </details>
 
 ## Translators
@@ -203,7 +183,7 @@ I am a Translator in the TOHE Discord server, I enjoy gaming, drawing and going 
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I'm a Portuguese Brazil Translator. I'm also a Friday Night Funkin coder, & I make Android ports. I post videos on YouTube about games. Playing minecraft almost every day lmao.
 </details>
 
 ### <font color=#002654><b>French</b></font>
@@ -272,11 +252,11 @@ I am a college student majoring in computer science. Some hobbies I have are pro
 
 ### <font color=#1e448b><b>Dutch</b></font>
 
-[**otherb.x**](#): <font color=#1e448b><b>Dutch</b></font> Translator
+[**otherb.x**](https://youtube.com/@BoxOfDaAmazon?si=TcHHU91EBcodllzk): <font color=#1e448b><b>Dutch</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I'm a Translator. To be specific, I'm a Dutch Translator. I draw, sometimes code if it's in a language I can, and I'm still in school (yes).
 </details>
 
 ### <font color=#ffcf00><b>German</b></font>
@@ -285,30 +265,21 @@ I am a college student majoring in computer science. Some hobbies I have are pro
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+Im a German Junior Translator. I love cats, anime, and sometimes being alone. I like to learn a bit of everything, piano, (very little) Japanese, and programming in C#
 </details>
 
 ---
 
-[**.BerTram**](#): <font color=#ffcf00><b>German</b></font> Translator
+[**.BerTram**](https://linktr.ee/BerTram.at): <font color=#ffcf00><b>German</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I’m a German Translator from Austria, 20, and verified Master of watchmaking. My passion is professional translating, management, moderation and developing on Discord.
 </details>
 
 ### <font color=#056306><b>Portuguese (Portuguese Portugal)</b></font>
 
 [**remisk**](#)：<font color=#056306><b>Portuguese (Portuguese Portugal)</b></font> Translator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-(placeholder)
-</details>
-
-### <font color=#cf192b><b>English</b></font>
-
-[**SolarFlare**](#)：<font color=#cf192b><b>English</b></font> Translator & Document
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 

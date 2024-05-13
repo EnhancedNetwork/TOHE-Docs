@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Hawk
-prev: /options/Settings/Crewmates.html
+prev: Ghastly
 next: Warden
 ---
 

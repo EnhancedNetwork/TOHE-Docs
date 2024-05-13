@@ -8,39 +8,39 @@ next: Neutrals
 # <font color="#8cffff">🦸‍♂️ <b>Crewmate Roles</b></font>
 ---
 
-<b>Focus on finding the <font color=red>Impostors</font> and completing tasks. These roles are very simple, making it easier for new players and the <font color=#8cffff>Crewmates</font> to win.</b>
+<b>Focus on finding the <font color=red>Impostors</font> and completing tasks. For <i>newer</i> players, it is recommended to try out Basic, Support, and few Killing <font color=#8cffff>Crewmate</font> roles, as some can get pretty complicated. If some roles are not on this page, check [Experimental Roles](/options/Settings/Experimental.html), as they may be there for testing/bug fixes.</b><br>
 
 <table>
 <tr>
 <td colspan="2" align="center"><b><u>Role Count</u></b></td>
 </tr>
 <tr>
-<td><font color=#e69c9c><b>Basic</b></font></td>
+<td><font color=#e69c9c><b>🧒 Basic</b></font></td>
 <td align="center">14</td>
 </tr>
 
 <tr>
-<td><font color=#8cffff><b>Ghost</b></font></td>
-<td align="center">2</td>
+<td><font color=#9bacb2><b>👻 Ghost</b></font></td>
+<td align="center">3</td>
 </tr>
 
 <tr>
-<td><font color=#b22222><b>Killing</b></font></td>
+<td><font color=#b22222><b>🗡️ Killing</b></font></td>
 <td align="center">12</td>
 </tr>
 
 <tr>
-<td><font color=#d4af37><b>Power</b></font></td>
+<td><font color=#d4af37><b>🧑‍⚖️ Power</b></font></td>
 <td align="center">13</td>
 </tr>
 
 <tr>
-<td><font color=#7fffd4><b>Support</b></font></td>
+<td><font color=#7fffd4><b>🫂 Support</b></font></td>
 <td align="center">28</td>
 </tr>
 
 <tr>
-<td><font color=#8cffff><b>Vanilla</b></font></td>
+<td><font color=#8cffff><b>👶 Vanilla</b></font></td>
 <td align="center">3</td>
 </tr>
 
@@ -59,11 +59,11 @@ next: Neutrals
 
 ### <font color=#9bacb2><b>Ghost</b></font>
 ---
-[Hawk](/options/Crewmates/Ghost/Hawk.html) | [Warden](/options/Crewmates/Ghost/Warden.html)
+[Ghastly](/options/Crewmates/Ghost/Ghastly.html) | [Hawk](/options/Crewmates/Ghost/Hawk.html) | [Warden](/options/Crewmates/Ghost/Warden.html)
 
 ### <font color=#b22222><b>Killing</b></font>
 ---
-[Bastion](/options/Crewmates/Killing/Bastion.html) | [Bodyguard](/options/Crewmates/Killing/Bodyguard.html) | [Crusader](/options/Crewmates/Killing/Crusader.html) | [Deceiver](/options/Crewmates/Killing/Deceiver.html) | [Jailer](/options/Crewmates/Killing/Jailer.html) | [Judge](/options/Crewmates/Killing/Judge.html) | [Knight](/options/Crewmates/Killing/Knight.html) | [Nice Guesser](/options/Crewmates/Killing/NiceGuesser.html) | [Retributionist](/options/Crewmates/Killing/Retributionist.html) | [Reverie](/options/Crewmates/Killing/Reverie.html) | [Sheriff](/options/Crewmates/Killing/Sheriff.html) | [Veteran](/options/Crewmates/Killing/Veteran.html) | [Vigilante](/options/Crewmates/Killing/Vigilante.html)
+[Bastion](/options/Crewmates/Killing/Bastion.html) | [Bodyguard](/options/Crewmates/Killing/Bodyguard.html) | [Crusader](/options/Crewmates/Killing/Crusader.html) | [Deceiver](/options/Crewmates/Killing/Deceiver.html) | [Jailer](/options/Crewmates/Killing/Jailer.html) | [Judge](/options/Crewmates/Killing/Judge.html) | [Knight](/options/Crewmates/Killing/Knight.html) | [Nice Guesser](/options/Crewmates/Killing/NiceGuesser.html) | [Reverie](/options/Crewmates/Killing/Reverie.html) | [Retributionist](/options/Crewmates/Killing/Retributionist.html) | [Sheriff](/options/Crewmates/Killing/Sheriff.html) | [Veteran](/options/Crewmates/Killing/Veteran.html) | [Vigilante](/options/Crewmates/Killing/Vigilante.html)
 <br>
 
 ### <font color=#d4af37><b>Power</b></font>

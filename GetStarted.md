@@ -48,7 +48,7 @@ Keep an eye on the [releases page](https://github.com/0xDrMoe/TownofHost-Enhance
 `NOT FOR DISTRIBUTION`
 - To become a <b>Contributor</b>, you need to help with coding in roles/addons/gamemodes/etc related to the mod
 - To become a <b>Tester</b>, you must be an active content creator with your <b>TOHE videos</b> having 600+ views on average
-- To become a <b>Sponsor</b>, you need to purchase a tier on our [Ko-fi](https://ko-fi.com/TOHEN) (For Dev Builds access specifically, you need to purchase at least Insider tier for $5.00)
+- To become a <b>Sponsor</b>, you need to purchase a tier on our [Ko-fi](https://ko-fi.com/TOHE) (For Dev Builds access specifically, you need to purchase at least Insider tier for $5.00)
 
 Once you have been accepted into one of the above roles, you will be able to access the #dev-builds channel in the [Town of Host: Enhanced Discord](https://discord.gg/tohe)
 

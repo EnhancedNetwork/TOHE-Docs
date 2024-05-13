@@ -26,10 +26,10 @@ footer: "© 2023 By Town of Host: Enhanced"
 
 ---
 <p>To all the amazing players that keep Town of Host: Edited & Town of Host: Re-Edited in their hearts:</p>
-<p>We have taken over TOHRE to keep the mod maintained. Moe has taken Project Lead, and will still be maintaining the website, aswell as the Ko-fi.</p>
+<p>We have taken over TOHRE to keep the mod maintained. Moe has taken Project Lead, and will still be maintaining the website with Pyro's assistance; aswell as the Ko-fi.</p>
 <p>We play Among Us a fair amount, so we will do our best to keep it all updated and viable to play with
 each update that comes</p>
 <p>Please keep in mind that we are still in the Early phase, so not everything is optimized/stable.
-We ask for your patience while we continue to make TOH: <i>Enhanced</i></p>
+We ask for your patience while we continue to work on Town of Host: <i><b>Enhanced</b></i></p>
 <p>Ultimately, we thank you for your patience while we continue to update the mod. TOHE & TOHRE will be remembered with the new name Town of Host: Enhanced!</p>
 <p>Thanks Pyro for your help with the website! - Moe</p><br>

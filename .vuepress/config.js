@@ -111,6 +111,7 @@ export default defineUserConfig({
             { text: 'Necroview', link: '/options/Addons/Helpful/Necroview.html' },
             { text: 'Nimble', link: '/options/Addons/Helpful/Nimble.html' },
             { text: 'Overclocked', link: '/options/Addons/Helpful/Overclocked.html' },
+            { text: 'Radar', link: '/options/Addons/Helpful/Radar.html' },
             { text: 'Repairman', link: '/options/Addons/Helpful/Repairman.html' },
             { text: 'Seer', link: '/options/Addons/Helpful/Seer.html' },
             { text: 'Silent', link: '/options/Addons/Helpful/Silent.html' },
@@ -179,7 +180,8 @@ export default defineUserConfig({
           ],
           '/options/Crewmates/Ghost/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
-            { text: 'Retributionist', link: '/options/Crewmates/Ghost/Retributionist.html' },
+            { text: 'Ghastly', link: '/options/Crewmates/Ghost/Ghastly.html' },
+            { text: 'Hawk', link: '/options/Crewmates/Ghost/Hawk.html' },
             { text: 'Warden', link: '/options/Crewmates/Ghost/Warden.html' },
                     ],
           '/options/Crewmates/Killing/': [
@@ -193,6 +195,7 @@ export default defineUserConfig({
             { text: 'Knight', link: '/options/Crewmates/Killing/Knight.html' },
             { text: 'Nice Guesser', link: '/options/Crewmates/Killing/NiceGuesser.html' },
             { text: 'Reverie', link: '/options/Crewmates/Killing/Reverie.html' },
+            { text: 'Retributionist', link: '/options/Crewmates/Killing/Retributionist.html' },
             { text: 'Sheriff', link: '/options/Crewmates/Killing/Sheriff.html' },
             { text: 'Veteran', link: '/options/Crewmates/Killing/Veteran.html' },
             { text: 'Vigilante', link: '/options/Crewmates/Killing/Vigilante.html' },
@@ -248,10 +251,12 @@ export default defineUserConfig({
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
             { text: 'Crewmate', link: '/options/Crewmates/Vanilla/Crewmate.html' },
             { text: 'Engineer', link: '/options/Crewmates/Vanilla/Engineer.html' },
+            { text: 'Guardian Angel', link: '/options/Crewmates/Vanilla/GuardianAngel.html' },
             { text: 'Scientist', link: '/options/Crewmates/Vanilla/Scientist.html' },
           ],
           '/options/Experimental/Addon/': [
             { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },
+            { text: 'Glow', link: '/options/Experimental/Addon/Glow.html' },
             { text: 'YouTuber', link: '/options/Experimental/Addon/YouTuber.html' },
           ],
           '/options/Experimental/Crewmate/': [
@@ -266,7 +271,6 @@ export default defineUserConfig({
             { text: 'Doppelganger', link: '/options/Experimental/Neutral/Doppelganger.html' },
             { text: 'God', link: '/options/Experimental/Neutral/God.html' },
             { text: 'Quizmaster', link: '/options/Experimental/Neutral/Quizmaster.html' },
-            { text: 'Spiritcaller', link: '/options/Experimental/Neutral/Spiritcaller.html' },
           ],
           '/options/Impostors/Concealing/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
@@ -292,8 +296,8 @@ export default defineUserConfig({
           ],
           '/options/Impostors/Ghost/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
+            { text: 'Bloodmoon', link: '/options/Impostors/Ghost/Bloodmoon.html' },
             { text: 'Minion', link: '/options/Impostors/Ghost/Minion.html' },
-            { text: 'Nemesis', link: '/options/Impostors/Ghost/Nemesis.html' },
           ],
           '/options/Impostors/Hindering/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
@@ -447,6 +451,7 @@ export default defineUserConfig({
             { text: 'Pyromaniac', link: '/options/Neutrals/Killing/Pyromaniac.html' },
             { text: 'Serial Killer', link: '/options/Neutrals/Killing/SerialKiller.html' },
             { text: 'Shroud', link: '/options/Neutrals/Killing/Shroud.html' },
+            { text: 'Spiritcaller', link: '/options/Neutrals/Killing/Spiritcaller.html' },
             { text: 'Stalker', link: '/options/Neutrals/Killing/Stalker.html' },
             { text: 'Traitor', link: '/options/Neutrals/Killing/Traitor.html' },
             { text: 'Virus', link: '/options/Neutrals/Killing/Virus.html' },

@@ -8,7 +8,7 @@ next: Crewmates
 # <font color=red>🦹‍♂️ <b>Impostor Roles</b></font>
 ---
 
-<b>Eliminate all <font color=#8cffff>Crewmates</font> and <font color=#7f8c8d>Neutrals</font> from the game by any means necessary. Each role has a unique way of accomplishing their goal. From mass-killing to framing others, they have to find any means necessary to win.</b><br>
+<b>Eliminate all <font color=#8cffff>Crewmates</font> and <font color=#7f8c8d>Neutrals</font> from the game by any means necessary. Each role has a unique way of accomplishing their goal. From mass-killing to framing others, they have to find any means necessary to win. If some roles are not on this page, check [Experimental Roles](/options/Settings/Experimental.html), as they may be there for testing/bug fixes.</b><br>
 
 <table>
 <tr>
@@ -16,37 +16,37 @@ next: Crewmates
 </tr>
 
 <tr>
-<td><font color=indigo><b>Concealing</b></font></td>
+<td><font color=indigo><b>👣 Concealing</b></font></td>
 <td align="center">15</td>
 </tr>
 
 <tr>
-<td><font color=#bd8b88><b>Ghost</b></font></td>
+<td><font color=#bd8b88><b>👻 Ghost</b></font></td>
 <td align="center">2</td>
 </tr>
 
 <tr>
-<td><font color=#636363><b>Hindering</b></font></td>
+<td><font color=#636363><b>⛓️ Hindering</b></font></td>
 <td align="center">8</td>
 </tr>
 
 <tr>
-<td><font color=#6e003a><b>Killing</b></font></td>
+<td><font color=#6e003a><b>🔪 Killing</b></font></td>
 <td align="center">27</td>
 </tr>
 
 <tr>
-<td><font color=red><b>Madmate</b></font></td>
+<td><font color=red><b>😡 Madmate</b></font></td>
 <td align="center">2 (+2)</td>
 </tr>
 
 <tr>
-<td><font color=#00ffff><b>Support</b></font> </td>
+<td><font color=#00ffff><b>🫂 Support</b></font> </td>
 <td align="center">13</td>
 </tr>
 
 <tr>
-<td><font color=#8cffff><b>Vanilla</b></font> </td>
+<td><font color=#8cffff><b>👶 Vanilla</b></font> </td>
 <td align="center">2</td>
 </tr>
 

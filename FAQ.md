@@ -136,7 +136,7 @@ Their presence has no effect on the game, and all players know who the Game Mast
 
 1. Anybody can get Canary Access by visiting #canary-builds in the TOHE Discord.
 
-2. Become a Contributor, Tester, or Sponsor (Insider+) for Canary <i>and</i> Dev Access.<br>
+2. Become a Contributor, Tester, or Sponsor (Insider+) for Dev Access.<br>
 Read near the bottom of the [Install/Get Started](/GetStarted.html) page.
 
 ## Can you use the Submerged mod with TOHE?

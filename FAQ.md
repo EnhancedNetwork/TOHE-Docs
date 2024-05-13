@@ -110,7 +110,7 @@ There are a few posibilities
 
 4. Eraser might've erased your role, resetting you to your base role (Impostor/Shapeshifter/Crewmate/Engineer/Scientist are all Base Roles (Base Role =/= Team/Role))
 
-5. You may have killed a player with the [OIIAI](/options/Addons/Mixed/OIIAI.html) Add-on. This is normal in this case.
+5. You may have killed a player with the [OIIAI](/options/Addons/Mixed/OIIAI.html) Add-on. This is normal in this case, as OIIAI resets their killers role to their base role. (Refer Above) 
 
 ## The game never ends
 
@@ -134,7 +134,7 @@ Their presence has no effect on the game, and all players know who the Game Mast
 
 ## How can I access Canary & Dev Builds
 
-1. Become a Translator, Sponsor (Initiate+), or Nitro Booster for Canary Access.
+1. Anybody can get Canary Access by visiting #canary-builds in the TOHE Discord.
 
 2. Become a Contributor, Tester, or Sponsor (Insider+) for Canary <i>and</i> Dev Access.<br>
 Read near the bottom of the [Install/Get Started](/GetStarted.html) page.

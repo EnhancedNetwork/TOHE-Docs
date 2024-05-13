@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/fr/options/Impostors/Support/Fireworker.html.vue"
+const data = JSON.parse("{\"path\":\"/translations/fr/options/Impostors/Support/Fireworker.html\",\"title\":\"Fireworker\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Fireworker\",\"prev\":\"Consigliere\",\"next\":\"Gangster\"},\"headers\":[],\"git\":{\"updatedTime\":1713123059000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"translations/fr/options/Impostors/Support/Fireworker.md\"}")
+export { comp, data }

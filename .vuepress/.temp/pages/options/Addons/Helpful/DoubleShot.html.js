@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Addons/Helpful/DoubleShot.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Addons/Helpful/DoubleShot.html\",\"title\":\"Double Shot\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Double Shot\",\"prev\":\"Cyber\",\"next\":\"Flash\"},\"headers\":[],\"git\":{\"updatedTime\":1702362916000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":2},{\"name\":\"Pyro\",\"email\":\"141536178+Pyro0TV@users.noreply.github.com\",\"commits\":1},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Addons/Helpful/DoubleShot.md\"}")
+export { comp, data }

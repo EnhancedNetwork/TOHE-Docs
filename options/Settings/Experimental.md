@@ -26,7 +26,7 @@ next: Impostors
 
 <tr>
 <td><font color=red><b>🦹‍♂️ Impostors</b></font></td>
-<td align="center">1</td>
+<td align="center">2</td>
 </tr>
 
 <tr>
@@ -36,7 +36,7 @@ next: Impostors
 
 <tr>
 <td><font color=#76b8e0><b>Total:</b></font></td>
-<td align="center"><b>6</b></td>
+<td align="center"><b>7</b></td>
 </tr>
 
 </table>
@@ -54,7 +54,7 @@ next: Impostors
 
 ### <font color=red><b>Impostors</b></font>
 ---
-[Disperser](/options/Experimental/Impostor/Disperser.html)
+[Disperser](/options/Experimental/Impostor/Disperser.html) | [Doll Master](/options/Experimental/Impostor/DollMaster.html)
 <br>
 
 ### <font color=#7f8c8d><b>Neutrals</b></font>

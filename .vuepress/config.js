@@ -265,6 +265,7 @@ export default defineUserConfig({
           '/options/Experimental/Impostor/': [
             { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },
             { text: 'Disperser', link: '/options/Experimental/Impostor/Disperser.html' },
+            { text: 'Doll Master', link: '/options/Experimental/Impostor/DollMaster.html' },
           ],
           '/options/Experimental/Neutral/': [
             { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },

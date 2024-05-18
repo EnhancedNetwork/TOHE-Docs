@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Disperser
-prev: Butcher
-next: Eraser
+prev: /options/settings/Experimental.html
+next: DollMaster
 ---
 
 # <font color=red>🌀 <b>Disperser</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>

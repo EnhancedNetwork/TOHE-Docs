@@ -121,6 +121,16 @@ The voices? Nah I'd win.
 I play chess when I'm bored, and catch crypto pumps 😼. I also workout and try to run very fast, so that's cool I guess.
 </details>
 
+---
+
+[**D1GQ**](https://github.com/D1GQ)：Role Coding
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+Sup... I recently got into coding in the last two years, mostly C# and Python.
+and I also do 3D art design as a hobby! Glad to meet everyone here and can't wait to work with y'all. ❤️
+</details>
+
 ## Translators
 
 ### <font color=#0036a7><b>Russian</b></font>
@@ -247,7 +257,7 @@ I am a college student majoring in computer science. Some hobbies I have are pro
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I play some videogames (Minecraft, Among Us, Brawl Stars and etc...), but I also love board games and card games. I also enjoy listening music (videogame music rocks) and also watching Netflix, Prime and especially YouTube.
 </details>
 
 ### <font color=#1e448b><b>Dutch</b></font>

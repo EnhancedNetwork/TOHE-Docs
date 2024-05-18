@@ -14,7 +14,40 @@ sidebar:
 To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or be a [Tester] (Content Creator with your TOHE videos having 600+ views on average)
 
 ---
-## <font size=5em><b>Latest: v2.0.0 Dev 9</b></font><br>
+## <font size=5em><b>Latest: v2.0.0 Dev 11</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some optimizations in sync settings and fixed update<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some null errors in logs<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Chameleon's text about invis in vanilla<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when role that didn't have the ability to vent would get stuck in place for some vanilla players after trying to vent<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Plaguebearer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Mayor after reveal<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Demon killing instantly<br>
+
+* By [**D1GQ**](https://github.com/D1GQ)<br>
+\+ <font color=green><b>NEW</b></font>: Experimental Impostor Role: [Doll Master](/options/Experimental/Impostor/DollMaster.html)<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for EAC<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Fortune Teller (This role is now automated in code)<br>
+
+## <font size=5em><b>v2.0.0 Dev 10</b></font><br>
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Non-Host Modded Client RPCs<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added Null checks into EAC<br>
+
+* By [**LezaiYa**](https://github.com/LezaiYa)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: TChinese players can use TChinese to guess other players<br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed PlayerId == 0 to OwnedByHost() to fix several bugs<br>
+
+* By [**0xDrMoe**](https://github.com/0xDrMoe)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Fixed several typos, inconsistencies and mistakes in the mod itself!<br>
+
+## <font size=5em><b>v2.0.0 Dev 9</b></font><br>
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Workaholic winning before completing tasks<br>
 
@@ -42,7 +75,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed RPC for non-host modded clients<br>
 
-## <font size=5em><b>Latest: v2.0.0 Dev 8</b></font><br>
+## <font size=5em><b>v2.0.0 Dev 8</b></font><br>
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 \+ <font color=green><b>NEW</b></font>: Helpful Addon: [Radar](/options/Addons/Helpful/Radar.html) (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Pyro </span>)<br>
 
@@ -59,11 +92,11 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix aum and sicko rpc<br>
 
-## <font size=5em><b>Latest: v2.0.0 Dev 7.1 (Hotfix)</b></font><br>
+## <font size=5em><b>v2.0.0 Dev 7.1 (Hotfix)</b></font><br>
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken RPC<br>
 
-## <font size=5em><b>Latest: v2.0.0 Dev 7</b></font><br>
+## <font size=5em><b>v2.0.0 Dev 7</b></font><br>
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix system message not sending and role not being assigned to players<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix system message cutting off in between of a message<br>
@@ -73,11 +106,11 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 \+ <font color=green><b>NEW</b></font>: Setting: immediate auto start<br>
 \+ <font color=green><b>NEW</b></font>: Command: /me (gives id, friendcode and HashedPUID of a player)<br>
 
-## <font size=5em><b>Latest: v2.0.0 Dev 6.1 (Hotfix)</b></font><br>
+## <font size=5em><b>v2.0.0 Dev 6.1 (Hotfix)</b></font><br>
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Executioner not spawning at all<br>
 
-## <font size=5em><b>Latest: v2.0.0 Dev 6</b></font><br>
+## <font size=5em><b>v2.0.0 Dev 6</b></font><br>
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
 \- <font color=red><b>REMOVED</b></font>: Remove limit of rpc call numbers<br>
 
@@ -95,7 +128,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix null error spamming like crazy for non host modded clients<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Add function for main role getting called when addon is assigned mid game for non host modded clients<br>
 
-## <font size=5em><b>Latest: v2.0.0 Dev 5</b></font><br>
+## <font size=5em><b>v2.0.0 Dev 5</b></font><br>
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Tricky (Addon) giving Shattered (Death Reason) when Fragile (Addon) is off<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Hawk<br>
@@ -109,7 +142,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix EAC list not working when apply banlist is off<br>
 \+ <font color=green><b>NEW</b></font>: Experimental Add-on: [Glow](/options/Experimental/Addons/Glow.html) (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Omega </span>)<br>
 
-## <font size=5em><b>Latest: v2.0.0 Dev 4</b></font><br>
+## <font size=5em><b>v2.0.0 Dev 4</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Veteran<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix OIIAI Settings<br>
@@ -121,7 +154,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#1376f0><b>BUG FIX</b></font>: fix lawyer not winning after death<br>
 \+ <font color=green><b>NEW</b></font>: Setting: Amnesiac arrows<br>
 
-## <font size=5em><b>Latest: v2.0.0 Dev 3</b></font><br>
+## <font size=5em><b>v2.0.0 Dev 3</b></font><br>
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: fix FFA mode getting crewmate instead of killer<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: fix lawyer mark<br>
@@ -131,7 +164,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed game crash (hopefully)<br>
 
-## <font size=5em><b>Latest: v2.0.0 Dev 2.1 (Hotfix)</b></font><br>
+## <font size=5em><b>v2.0.0 Dev 2.1 (Hotfix)</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), & [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed many roles (More details you can found in the dev-bug-report) <br>
 

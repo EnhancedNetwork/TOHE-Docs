@@ -43,7 +43,7 @@ sidebar:
 <tr>
 <td><font color=#76b8e0><b>Experimental</b></font></td>
 <td>Roles that are not fully stable and may contain bugs</td>
-<td align="center">6</td>
+<td align="center">7</td>
 </tr>
 
 <tr>

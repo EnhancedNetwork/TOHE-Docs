@@ -1,11 +1,11 @@
 ---
 lang: en-US
-title: YouTuber
-prev: /options/settings/Experimental.html
-next: YouTuber
+title: Glow
+prev: /options/settings/Addons.html
+next: /options/settings/Addons.html
 ---
 
-# <font color=#fb749b>💡 <b>Glow</b></font> <Badge text="Addon" type="tip" vertical="middle"/>
+# <font color=#fb749b>💡 <b>Glow</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
 ---
 <font size=4em>Experimental Reason: needs testing</font><br>
 Note: Most likely a Mixed Add-on

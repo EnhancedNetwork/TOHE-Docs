@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Eraser
-prev: Devourer
+prev: Disperser
 next: Penguin
 ---
 

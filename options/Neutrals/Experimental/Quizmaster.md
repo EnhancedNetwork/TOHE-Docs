@@ -5,7 +5,7 @@ prev: God
 next: Solsticer
 ---
 
-# <font color=#f2f17e>❔ <b>Quizmaster</b></font> <Badge text="Neutral" type="tip" vertical="middle"/>
+# <font color=#f2f17e>❔ <b>Quizmaster</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
 ---
 <font size=4em>Experimental Reason: requires testing</font><br>
 Note: Most likely a Neutral Chaos

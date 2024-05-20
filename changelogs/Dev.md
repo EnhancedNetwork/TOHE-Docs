@@ -15,6 +15,11 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 ---
 ## <font size=5em><b>Latest: v2.0.0 Dev 15</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changing the version display size by 70%
+\- <font color=#12edaf><b>REVERT</b></font>: Reverted Re-factor codebase roles because it's very buggy (the improvement for Chronomancer is also temporarily reverted (Sorry))
+
+## <font size=5em><b>v2.0.0 Dev 15</b></font><br>
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 \- <font color=#12edaf><b>REVERT</b></font>: Blackmailer has been reverted to the old version (since improved has a lot of bugs)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Deputy<br>

@@ -11,10 +11,82 @@ sidebar:
 
 # Dev Changelogs
 ---
-To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or be a [Tester] (Content Creator with your TOHE videos having 600+ views on average)
+To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester] (Content Creator with your TOHE videos having 600+ views on average).
 
 ---
-## <font size=5em><b>Latest: v2.0.0 Dev 11</b></font><br>
+## <font size=5em><b>Latest: v2.0.0 Dev 15</b></font><br>
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+\- <font color=#12edaf><b>REVERT</b></font>: Blackmailer has been reverted to the old version (since improved has a lot of bugs)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Deputy<br>
+
+## <font size=5em><b>v2.0.0 Dev 14</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Swooper<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Snitch arrows not shown for non-host modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed spam errors in logs<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Try to fix Blackmailing<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Trapster error<br>
+
+## <font size=5em><b>v2.0.0 Dev 13</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: The lobby timer now will be displayed for vanilla players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when non-host modded clients not sync lobby timer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when non-host modded clients was disconnected<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Chronomancer<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Blackmailer<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Experimental Roles Tab has been removed, and Experimental Roles are now placed into the Tabs of their respective Factions. (Still Marked as Experimental)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Re-factor codebase roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed many issues<br>
+
+## <font size=5em><b>v2.0.0 Dev 12.4</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed message "host does not have a mod"<br>
+
+* By [**D1GQ**](https://github.com/D1GQ)<br>
+= <font color=#F6BE00><b>CHANGES</b></font>: Lots of fixes/changes for Dollmaster:<br>
+
+\- <font color=red><b>REMOVED</b></font>: Dollmaster and Possessed player are no longer fragile.<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Dollmaster LongInfo has been updated to compensate the removal above.<br>
+\+ <font color=green><b>NEW</b></font>: Dollmaster and possessed player roles display will swap when possessed.<br>
+\+ <font color=green><b>NEW</b></font>: Dollmaster and possessed player KnowTargetRoleColor will swap when possessed.<br>
+\+ <font color=green><b>NEW</b></font>: Dollmaster and possessed player GetMark will swap when possessed.<br>
+\+ <font color=green><b>NEW</b></font>: Interacting roles will now swap player controller info on possessed player or Dollmaster, for example Sheriff will now misfire on a possessed crewmate, or Monarch will Knight the Dollmaster if they interact with the main body, vice versa.<br>
+\+ <font color=green><b>NEW</b></font>: If Dollmaster starts a meeting by any means, it is redirected to possessed player.<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Added a new list of specific roles in DollMaster.cs that cannot interact with a possessed player due to bugs or issues, this list will probably be added onto in the future.<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Dollmaster unpossessing will now start waiting if possessed player cannot be teleported, beforehand it would only check if Dollmaster could be teleported to start waiting.<br>
+
+## <font size=5em><b>v2.0.0 Dev 12.3</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when a lot players got kicked (now for sure)<br>
+
+## <font size=5em><b>v2.0.0 Dev 12.2</b></font><br>
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when a lot players got kicked<br>
+
+## <font size=5em><b>v2.0.0 Dev 12.1</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix in code<br>
+
+* By [**0xDrMoe**](https://github.com/0xDrMoe)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed Radar color (sorry Lauryn <3 it's not that bad looking)<br>
+
+## <font size=5em><b>v2.0.0 Dev 12</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Impostor Killing Role: [Evil Hacker](/options/Impostors/Killing/EvilHacker.html) (Ported from TOH)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Now the message that the host does not have a mod will be constantly checked until it disappears completely<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Some changes in code<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when dead player resets Agitator bombs<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Infectious<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Arsonist<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved player checking system for the invalid color<br>
+
+## <font size=5em><b>v2.0.0 Dev 11</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Some optimizations in sync settings and fixed update<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed some null errors in logs<br>

@@ -9,8 +9,8 @@ title: Installation
 ## Distribution Policy
 
 <b>Dev Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
-If you are a content creator, you may use these builds in your videos, but you may not provide a download link to your viewers. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked.<br><br>
-This policy is in place to keep the integrity of our Sponsor, Contributor, Tester, and Translator roles. If you are interested in becoming one of these roles, please see the below sections for more information.</b>
+If you are a content creator, you may use these builds in your videos, but you may not provide a download link for your viewers. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked.<br><br>
+This policy is in place to keep the integrity of our Sponsor, Contributor, & Tester roles. If you are interested in becoming one of these roles, please see the below sections for more information.</b>
 
 ## MANUAL INSTALLATION
 Installation requires that you own a PC version of Among Us on Steam, Epic, or Itch. 

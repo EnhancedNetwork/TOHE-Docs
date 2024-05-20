@@ -12,7 +12,7 @@ sidebar:
 
 # Canary Changelogs
 ---
-To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/tohe) and visit #canary-builds, and download the latest dll!
+To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/tohe) and visit #canary-builds, then download the latest dll!
 
 ---
 ## <font size=5em><b>Latest: v1.6.0 Canary 6</b></font><br>

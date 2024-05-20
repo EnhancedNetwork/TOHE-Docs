@@ -25,6 +25,7 @@ sidebar:
 = <font color=#32CD32><b>TYPO</b></font>: Typos that have been corrected. <br>
 \+ <font color=green><b>NEW</b></font>: Features recently ADDED to the Mod/Site. <br>
 \+ <font color=#12edaf><b>REWORK</b></font>: Mixture of NEW & CHANGE, (mostly used for Role Reworks). <br>
+\- <font color=#12edaf><b>REVERT</b></font>: Mixture of REMOVED & CHANGE, (mostly used for Role Reverts). <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Bugs/Buggy Features that have been fixed. <br>
 = <font color=#8708c7><b>TRANSLATIONS</b></font>: Recently added/finished Translations for the mod, (The Tag on the change itself will be custom) <br>
 = <font color=#fdf08e><b>NOTES</b></font>: Not necessarily a big change/addition/etc, but important to keep in mind. <br>

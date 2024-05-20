@@ -7,8 +7,6 @@ next: /options/settings/Addons.html
 
 # <font color=#fb749b>💡 <b>Glow</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
 ---
-<font size=4em>Experimental Reason: needs testing</font><br>
-Note: Most likely a Mixed Add-on
 
 During lights out, you & players nearby you will receive a vision boost.
 * Max

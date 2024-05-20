@@ -78,7 +78,7 @@ next: Crewmates
 
 ### <font color=#636363><b>Hindering</b></font>
 ---
-[Anonymous](/options/Impostors/Hindering/Anonymous.html) | [Dazzler](/options/Impostors/Hindering/Dazzler.html) | [Devourer](/options/Impostors/Hindering/Devourer.html) | [Eraser](/options/Impostors/Hindering/Eraser.html) | [Penguin](/options/Impostors/Hindering/Penguin.html) | [Pitfall](/options/Impostors/Hindering/Pitfall.html) | [Stealth](/options/Impostors/Hindering/Stealth.html) | [Twister](/options/Impostors/Hindering/Twister.html)
+[Anonymous](/options/Impostors/Hindering/Anonymous.html) | [Dazzler](/options/Impostors/Hindering/Dazzler.html) | [Devourer](/options/Impostors/Hindering/Devourer.html) | [Disperser](/options/Impostors/Hindering/Disperser.html) | [Eraser](/options/Impostors/Hindering/Eraser.html) | [Penguin](/options/Impostors/Hindering/Penguin.html) | [Pitfall](/options/Impostors/Hindering/Pitfall.html) | [Stealth](/options/Impostors/Hindering/Stealth.html) | [Twister](/options/Impostors/Hindering/Twister.html)
 <br>
 
 ### <font color=#6a0000><b>Killing</b></font>

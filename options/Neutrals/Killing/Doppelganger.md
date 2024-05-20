@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Doppelganger
-prev: /options/Settings/Experimental.html
-next: God
+prev: Demon
+next: Glitch
 ---
 
 # <font color=#f1f0a1>🎭 <b>Doppelganger</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

@@ -7,8 +7,6 @@ next: /options/settings/Impostors.html
 
 # <font color=red>🎎 <b>Doll Master</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
 ---
-<font size=4em>Experimental Reason: There are small chances of the role bugging out when venting, also needs testing</font><br>
-Note: Most likely an Impostor Killing/Support
 
 As the Doll Master, you can temporarily take control of any player by using the Shapeshift button and to make them do your Deeds, be careful though while possessing, the person you possess and your main body is fragile to killing roles!
 

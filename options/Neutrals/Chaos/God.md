@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: God
-prev: Doppelganger
-next: Quizmaster
+prev: Cultist
+next: Phantom
 ---
 
 # <font color=#f96464>🏺 <b>God</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>

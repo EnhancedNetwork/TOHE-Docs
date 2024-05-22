@@ -14,10 +14,12 @@ sidebar:
 (Only the Latest Changes to Mod/Site will be displayed.)
 
 ---
-## <font size=5em><b>Latest Mod Changelogs: v2.0.0 Dev 16</b></font><br>
+## <font size=5em><b>Latest Mod Changelogs: v2.0.0 Dev 18</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Changing the version display size by 70%
-\- <font color=#12edaf><b>REVERT</b></font>: Reverted Re-factor codebase roles because it's very buggy (the improvement for Chronomancer is also temporarily reverted (Sorry))
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Cultist
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when kill button not work
 
 ## <font size=5em><b>Latest Site Changelogs:</b></font><br>
 

@@ -14,7 +14,38 @@ sidebar:
 To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester] (Content Creator with your TOHE videos having 600+ views on average).
 
 ---
-## <font size=5em><b>Latest: v2.0.0 Dev 18</b></font><br>
+## <font size=5em><b>Latest: v2.0.0 Dev 20</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: bug when God was based on impostor
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when DollMaster bloked report dead body
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Mechanic's ability to go into negation every time the task was completed
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Camouflage for non-host modded
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when arrows appear after meeting for some roles
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Cleanser not work
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Trapster assigning the wrong killer to the target
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Provocateur won with the wrong team
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Crewmate Killers becomes Impostor when killing Oiiai
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Аgain fixed bug when sometimes the kill button did not work
+
+* By [**D1GQ**](https://github.com/D1GQ)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added new function to fix issues when a player leaves as Dollmaster or Possessed Player while possessing
+= <font color=#F6BE00><b>CHANGE</b></font>: Added more null checks to fix certain issues
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that caused players appearances to swap when possessing right before meeting gets called
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that caused the possessed players Vision not to be set to 0
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that caused Main Body text not to show
+
+## <font size=5em><b>v2.0.0 Dev 19.1</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Аgain small fix for Quizmaster (lol)
+
+## <font size=5em><b>v2.0.0 Dev 19</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when everyone got enigma clue during meeting (i hope)
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed a lot bugs for Quizmaster
+
+## <font size=5em><b>v2.0.0 Dev 18</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Cultist
 

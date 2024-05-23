@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Crewmates/Support/TimeMaster.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Crewmates/Support/TimeMaster.html\",\"title\":\"Time Master\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Time Master\",\"prev\":\"TimeManager\",\"next\":\"Tracker\"},\"headers\":[],\"git\":{\"updatedTime\":1697089321000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":2},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Crewmates/Support/TimeMaster.md\"}")
+export { comp, data }

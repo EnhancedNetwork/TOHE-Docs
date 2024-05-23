@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Experimental/Addon/Glow.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Experimental/Addon/Glow.html\",\"title\":\"YouTuber\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"YouTuber\",\"prev\":\"/options/settings/Experimental.html\",\"next\":\"YouTuber\"},\"headers\":[],\"git\":{\"updatedTime\":1715456676000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2}]},\"filePathRelative\":\"options/Experimental/Addon/Glow.md\"}")
+export { comp, data }

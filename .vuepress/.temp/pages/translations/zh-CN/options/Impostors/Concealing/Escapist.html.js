@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/zh-CN/options/Impostors/Concealing/Escapist.html.vue"
+const data = JSON.parse("{\"path\":\"/translations/zh-CN/options/Impostors/Concealing/Escapist.html\",\"title\":\"Escapist\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Escapist\",\"prev\":\"/options/Settings/Impostors.html\",\"next\":\"Mastermind\"},\"headers\":[],\"git\":{\"updatedTime\":1711492385000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"translations/zh-CN/options/Impostors/Concealing/Escapist.md\"}")
+export { comp, data }

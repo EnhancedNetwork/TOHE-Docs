@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Radar
-prev: Overcloked
-next: Repairman
+prev: Overclocked
+next: Seer
 ---
 
 # <font color=#d41e04>🧭 <b>Radar</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>

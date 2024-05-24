@@ -111,7 +111,6 @@ export default defineUserConfig({
             { text: 'Nimble', link: '/options/Addons/Helpful/Nimble.html' },
             { text: 'Overclocked', link: '/options/Addons/Helpful/Overclocked.html' },
             { text: 'Radar', link: '/options/Addons/Helpful/Radar.html' },
-            { text: 'Repairman', link: '/options/Addons/Helpful/Repairman.html' },
             { text: 'Seer', link: '/options/Addons/Helpful/Seer.html' },
             { text: 'Silent', link: '/options/Addons/Helpful/Silent.html' },
             { text: 'Sleuth', link: '/options/Addons/Helpful/Sleuth.html' },
@@ -332,9 +331,9 @@ export default defineUserConfig({
             { text: 'Quick Shooter', link: '/options/Impostors/Killing/QuickShooter.html' },
             { text: 'Saboteur', link: '/options/Impostors/Killing/Saboteur.html' },
             { text: 'Sniper', link: '/options/Impostors/Killing/Sniper.html' },
-            { text: 'Spellcaster', link: '/options/Impostors/Killing/Spellcaster.html' },
             { text: 'Trapster', link: '/options/Impostors/Killing/Trapster.html' },
             { text: 'Underdog', link: '/options/Impostors/Killing/Underdog.html' },
+            { text: 'Witch', link: '/options/Impostors/Killing/Witch.html' },
             { text: 'Zombie', link: '/options/Impostors/Killing/Zombie.html' }
           ],
           '/options/Impostors/Madmate/': [

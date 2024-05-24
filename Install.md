@@ -1,6 +1,7 @@
 ---
 lang: en-US
 title: Installation
+contributors: false
 ---
 
 # INSTALLATION

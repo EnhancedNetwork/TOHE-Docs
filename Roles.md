@@ -11,6 +11,7 @@ sidebar:
 - { text: Neutrals, link: /options/Settings/Neutrals.html}
 - { text: Add-ons, link: /options/Settings/Addons.html}
 - { text: Experimental, link: /options/Settings/Experimental.html}
+contributors: false
 ---
 
 # Roles

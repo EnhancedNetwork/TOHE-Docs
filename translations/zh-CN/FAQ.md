@@ -125,4 +125,4 @@ H系列mod中有一个错误，无法分配角色。当错误出现在原始TOH�
 
 2.成为测试<i>和</i>开发访问的参与者、测试者或赞助商（Insider+）<br>
 
-阅读[Install/Get-Started]（/GetStarted.html）页面底部附近的内容。
+阅读[Install]（/Install.html）页面底部附近的内容。

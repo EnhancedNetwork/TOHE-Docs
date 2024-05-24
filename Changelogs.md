@@ -7,6 +7,7 @@ sidebar:
 - { text: Previous Stable Changelogs, link: /changelogs/Stable.html}
 - { text: Previous Canary Changelogs, link: /changelogs/Canary.html}
 - { text: Previous Dev Changelogs, link: /changelogs/Dev.html}
+contributors: false
 ---
 
 # Changelogs

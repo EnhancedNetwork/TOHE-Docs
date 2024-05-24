@@ -6,7 +6,7 @@ next: null
 navbar: false
 sidebar:
     - { text: Visit our Store, link: https://store.tohre.dev/ }
-    - { text: Check our Among Us Mod!, link: https://tohre.dev/ }
+    - { text: Check out our Among Us Mod!, link: https://tohre.dev/ }
     - { text: Join our Discord, link: https://discord.gg/tohe }
     - { text: Follow our socials, children: [
         { text: Twitter, link: https://twitter.com/TOHEnhanced },
@@ -16,6 +16,7 @@ sidebar:
         { text: Ko-fi, link: https://ko-fi.com/TOHE },
         { text: TikTok, link: https://tiktok.com/@TOHEnhanced },
     ] }
+contributors: false
 ---
 
 # <font color=pink>🗳️ <b>Vote for The Enhanced Network</b></font> <Badge text="Minecraft" type="tip" vertical="middle"/>

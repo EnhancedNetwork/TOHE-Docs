@@ -11,7 +11,7 @@ actions:
     link: /Roles.html
     type: secondary
   - text: Install Now!
-    link: /GetStarted.html
+    link: /Install.html
     type: primary
   - text: FAQ
     link: /FAQ.html

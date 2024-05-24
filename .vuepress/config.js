@@ -67,8 +67,12 @@ export default defineUserConfig({
             link: '/Advanced.html',
           },
           {
+            text: 'Presets',
+            link: '/Presets.html',
+          },
+          {
             text: 'Install',
-            link: '/GetStarted.html',
+            link: '/Install.html',
           },
           {
             text: 'FAQ',

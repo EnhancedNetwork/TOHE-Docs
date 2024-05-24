@@ -14,60 +14,77 @@ sidebar:
 To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester] (Content Creator with your TOHE videos having 600+ views on average).
 
 ---
-## <font size=5em><b>Latest: v2.0.0 Dev 20</b></font><br>
+## <font size=5em><b>Latest: v2.0.0 Dev 21</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: bug when God was based on impostor
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when DollMaster bloked report dead body
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Mechanic's ability to go into negation every time the task was completed
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Camouflage for non-host modded
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when arrows appear after meeting for some roles
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Cleanser not work
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Trapster assigning the wrong killer to the target
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Provocateur won with the wrong team
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Crewmate Killers becomes Impostor when killing Oiiai
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed vanilla ghost roles are assigned multiple times (this bug would sometimes make tasks disappear for some players)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Quizmaster showed twice on the victory screen<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Celebrity<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Masochist<br>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Аgain fixed bug when sometimes the kill button did not work
+= <font color=#F6BE00><b>CHANGE</b></font>: Added missing Dollmaster strings<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for Ghastly<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Monarch<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Vector<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Potion Master<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+\+ <font color=green><b>NEW</b></font>: Settings for Engineer: "Vent Cooldown" and "Max Time In Vents"<br>
+
+## <font size=5em><b>v2.0.0 Dev 20</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: bug when God was based on Impostor<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Doll Master blocked report dead body<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Mechanic's ability to go into negation every time the task was completed<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Camouflage for non-host modded<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when arrows appear after meeting for some roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Cleanser not work<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Trapster assigning the wrong killer to the target<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Provocateur won with the wrong team<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Crewmate Killers becomes Impostor when killing Oiiai<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Аgain fixed bug when sometimes the kill button did not work<br>
 
 * By [**D1GQ**](https://github.com/D1GQ)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Added new function to fix issues when a player leaves as Dollmaster or Possessed Player while possessing
-= <font color=#F6BE00><b>CHANGE</b></font>: Added more null checks to fix certain issues
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that caused players appearances to swap when possessing right before meeting gets called
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that caused the possessed players Vision not to be set to 0
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that caused Main Body text not to show
+= <font color=#F6BE00><b>CHANGE</b></font>: Added new function to fix issues when a player leaves as Dollmaster or Possessed Player while possessing<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added more null checks to fix certain issues<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that caused players appearances to swap when possessing right before meeting gets called<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that caused the possessed players Vision not to be set to 0<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that caused Main Body text not to show<br>
 
 ## <font size=5em><b>v2.0.0 Dev 19.1</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Аgain small fix for Quizmaster (lol)
+= <font color=#1376f0><b>BUG FIX</b></font>: Аgain small fix for Quizmaster (lol)<br>
 
 ## <font size=5em><b>v2.0.0 Dev 19</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when everyone got enigma clue during meeting (i hope)
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed a lot bugs for Quizmaster
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when everyone got enigma clue during meeting (i hope)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed a lot bugs for Quizmaster<br>
 
 ## <font size=5em><b>v2.0.0 Dev 18</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Cultist
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Cultist<br>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when kill button not work
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when kill button not work<br>
 
 ## <font size=5em><b>v2.0.0 Dev 17</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed comms camouflage for modded
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed double icons for some roles
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Pelican
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed comms camouflage for modded<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed double icons for some roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Pelican<br>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken RPC (Improvement for the Chronomancer returned again)
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken RPC (Improvement for the Chronomancer returned again)<br>
 
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
-\+ <font color=green><b>NEW</b></font>: Automatically ban spoofed friend code (Can be disabled in settings)
+\+ <font color=green><b>NEW</b></font>: Automatically ban spoofed friend code (Can be disabled in settings)<br>
 
 ## <font size=5em><b>v2.0.0 Dev 16</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Changing the version display size by 70%
-\- <font color=#12edaf><b>REVERT</b></font>: Reverted Re-factor codebase roles because it's very buggy (the improvement for Chronomancer is also temporarily reverted (Sorry))
+= <font color=#F6BE00><b>CHANGE</b></font>: Changing the version display size by 70%<br>
+\- <font color=#12edaf><b>REVERT</b></font>: Reverted Re-factor codebase roles because it's very buggy (the improvement for Chronomancer is also temporarily reverted (Sorry))<br>
 
 ## <font size=5em><b>v2.0.0 Dev 15</b></font><br>
 * By [**Drakos**](https://github.com/Ultradragon005)<br>

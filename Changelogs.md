@@ -15,22 +15,30 @@ contributors: false
 (Only the Latest Changes to Mod/Site will be displayed.)
 
 ---
-## <font size=5em><b>Latest Mod Changelogs: v2.0.0 Dev 21</b></font><br>
+## <font size=5em><b>Latest Mod Changelogs: v2.0.0 Dev 22</b></font><br>
+* By [**D1GQ**](https://github.com/D1GQ)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Simplified some Dollmaster code for OnCheckMurder<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue with burst activating on a possessed player<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Additionally fixed all issues with trapped based add-ons activating on possessed player<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue when other roles called player.RpcMurderPlayer(player) on possessed player (Now if RpcMurderPlayer is called on a Possessed Player or Dollmaster possessing, it will run Dollmasters CheckMurderAsPossessed instead)<br>
+ 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed vanilla ghost roles are assigned multiple times (this bug would sometimes make tasks disappear for some players)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Quizmaster showed twice on the victory screen<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Celebrity<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Masochist<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Now modded players can see during in meeting who is the host (Only in online game)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvements for Schrodinger's Cat<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Executioner and Innocent would never win<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some changes for Guardian Angel (If the protected player was attacked, the killer will see a guard animation (depending on settings))<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for Cultist<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some errors in logs<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Anti Adminer and Telecommunication<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Overseer RPC<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for Romantic<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for Jackal<br>
+
+* By [**Marg**](https://github.com/MargaretTheFool)<br>
+\+ <font color=green><b>NEW</b></font>: Mini-Game Command: "/8ball" (Idea: Pyro)<br>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Added missing Dollmaster strings<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for Ghastly<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Monarch<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Vector<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Potion Master<br>
-
-* By [**NikoCat223**](https://github.com/NikoCat233)<br>
-\+ <font color=green><b>NEW</b></font>: Settings for Engineer: "Vent Cooldown" and "Max Time In Vents"<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed error in logs with Split Message (Code ported from: EHR)<br>
 
 
 ## <font size=5em><b>Latest Site Changelogs:</b></font><br>

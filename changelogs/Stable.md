@@ -82,7 +82,8 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 \+ <font color=#ffc400><b>Spanish</b></font>: (Dawson, Sunnyboi, thewhiskas27, xxSShadow)<br>
 \+ <font color=#de2910><b>Traditional Chinese</b></font>: (FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)<br>
 
-- Check out all of our translators on our [**website**](https://tohre.dev) * [**Full v1.6.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/tag/v1.6.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
+- Check out all of our translators on our [**website**](https://tohre.dev)
+* [**Full v1.6.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/tag/v1.6.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
 ---
 
 ## <font size=5em><b>v1.5.0</b></font>
@@ -214,7 +215,8 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 \+ <font color=#de2910><b>Simplified Chinese</b></font>: (By: CrewCyan, LezaiYa, NikoCat223) <br>
 \+ <font color=#ffc400><b>Spanish</b></font> (By: Dawson, Sunnyboi, thewhiskas27, xxSShadow) <br>
 \+ <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)
-- Check out all of our translators on our website * [**Full v1.5.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/tag/v1.5.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
+- Check out all of our translators on our website
+* [**Full v1.5.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/tag/v1.5.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
 ---
 
 ## <font size=5em><b>v1.4.0</b></font>

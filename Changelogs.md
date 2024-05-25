@@ -44,6 +44,8 @@ contributors: false
 ## <font size=5em><b>Latest Site Changelogs:</b></font><br>
 
 * By [**Pyro**](https://sites.google.com/view/pyro0tv)<br>
-= Updated to v2.0.0 Dev 20<br>
+= Updated to v2.0.0 Dev 22<br>
 \+ Have a good day!<br>
-= <font color=#fdf08e><b>NOTE</b></font>: If there are any issues, open a forum in #website-feedback! Thank you! - Pyro<br>
+= <font color=#fdf08e><b>NOTE</b></font>: You may realize that there are 3 results of roles if you use the built-in search bar. This is because you are getting a copy for every instance (Currently, French & Chinese) that is not yet translated. (An example being [Reverie](SearchReverie3BUG.png), even though <i>most</i> roles will display 3 results.) 
+= <font color=#fdf08e><b>NOTE</b></font>: You may also find older roles from French/Chinese results, such as [Luckey](SearchLuckeyBUG.png) from the Chinese instance, as they are not up-to-date, nor translated entirely.
+= <font color=#fdf08e><b>NOTE</b></font>: If there are any other issues, open a forum in #website-feedback! Thank you! - Pyro<br>

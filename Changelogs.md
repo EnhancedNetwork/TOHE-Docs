@@ -56,5 +56,5 @@ contributors: false
 ![image](./images/SearchReverie3BUG.png)
 = <font color=#fdf08e><b>NOTE</b></font>: You may also find older roles from French/Chinese results, such as Luckey from the Chinese instance, as they are not up-to-date, nor translated entirely.
 ![image](./images/SearchLuckeyBUG.png)
-= <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are not remotely close to correct, if someone would like to do the math because Pyro is lazy, PLEASE DO! :D thanks.
+= <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are not remotely close to correct, if someone would like to do the math because Pyro is lazy, PLEASE DO! :D thanks!
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, open a forum in #website-feedback! Thank you! - Pyro<br>

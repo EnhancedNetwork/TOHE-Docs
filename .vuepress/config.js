@@ -33,12 +33,8 @@ export default defineUserConfig({
                 link: '/options/Settings/Neutrals.html',
               },
               {
-                text: 'Add-on Roles',
+                text: 'Add-ons',
                 link: '/options/Settings/Addons.html',
-              },
-              {
-                text: 'Experimental Roles',
-                link: '/options/Settings/Experimental.html',
               },
               {
                 text: 'Custom Settings',
@@ -71,8 +67,12 @@ export default defineUserConfig({
             link: '/Advanced.html',
           },
           {
+            text: 'Presets',
+            link: '/Presets.html',
+          },
+          {
             text: 'Install',
-            link: '/GetStarted.html',
+            link: '/Install.html',
           },
           {
             text: 'FAQ',
@@ -80,6 +80,9 @@ export default defineUserConfig({
           },
         ],
         sidebar: {
+          '/options/Addons/Experimental/': [
+            { text: 'Glow', link: '/options/Addons/Experimental/Glow.html' }
+          ],
           '/options/Addons/Harmful/': [
             { text: 'Back to Addons', link: '/options/Settings/Addons.html' },
             { text: 'Disregarded', link: '/options/Addons/Harmful/Disregarded.html' },
@@ -112,7 +115,6 @@ export default defineUserConfig({
             { text: 'Nimble', link: '/options/Addons/Helpful/Nimble.html' },
             { text: 'Overclocked', link: '/options/Addons/Helpful/Overclocked.html' },
             { text: 'Radar', link: '/options/Addons/Helpful/Radar.html' },
-            { text: 'Repairman', link: '/options/Addons/Helpful/Repairman.html' },
             { text: 'Seer', link: '/options/Addons/Helpful/Seer.html' },
             { text: 'Silent', link: '/options/Addons/Helpful/Silent.html' },
             { text: 'Sleuth', link: '/options/Addons/Helpful/Sleuth.html' },
@@ -139,6 +141,7 @@ export default defineUserConfig({
             { text: 'Rainbow', link: '/options/Addons/Miscellaneous/Rainbow.html' },
             { text: 'Reach', link: '/options/Addons/Miscellaneous/Reach.html' },
             { text: 'Workhorse', link: '/options/Addons/Miscellaneous/Workhorse.html' },
+            { text: 'YouTuber', link: '/options/Addons/Miscellaneous/YouTuber.html' },
           ],
           '/options/Addons/Mixed/': [
             { text: 'Back to Add-ons', link: '/options/Settings/Addons.html' },
@@ -178,12 +181,15 @@ export default defineUserConfig({
             { text: 'Tracefinder', link: '/options/Crewmates/Basic/Tracefinder.html' },
             { text: 'Transporter', link: '/options/Crewmates/Basic/Transporter.html' },
           ],
+          '/options/Crewmates/Experimental/': [
+            { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
+          ],
           '/options/Crewmates/Ghost/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
             { text: 'Ghastly', link: '/options/Crewmates/Ghost/Ghastly.html' },
             { text: 'Hawk', link: '/options/Crewmates/Ghost/Hawk.html' },
             { text: 'Warden', link: '/options/Crewmates/Ghost/Warden.html' },
-                    ],
+          ],
           '/options/Crewmates/Killing/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
             { text: 'Bastion', link: '/options/Crewmates/Killing/Bastion.html' },
@@ -254,24 +260,6 @@ export default defineUserConfig({
             { text: 'Guardian Angel', link: '/options/Crewmates/Vanilla/GuardianAngel.html' },
             { text: 'Scientist', link: '/options/Crewmates/Vanilla/Scientist.html' },
           ],
-          '/options/Experimental/Addon/': [
-            { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },
-            { text: 'Glow', link: '/options/Experimental/Addon/Glow.html' },
-            { text: 'YouTuber', link: '/options/Experimental/Addon/YouTuber.html' },
-          ],
-          '/options/Experimental/Crewmate/': [
-            { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },
-          ],
-          '/options/Experimental/Impostor/': [
-            { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },
-            { text: 'Disperser', link: '/options/Experimental/Impostor/Disperser.html' },
-          ],
-          '/options/Experimental/Neutral/': [
-            { text: 'Back to Experimental', link: '/options/Settings/Experimental.html' },
-            { text: 'Doppelganger', link: '/options/Experimental/Neutral/Doppelganger.html' },
-            { text: 'God', link: '/options/Experimental/Neutral/God.html' },
-            { text: 'Quizmaster', link: '/options/Experimental/Neutral/Quizmaster.html' },
-          ],
           '/options/Impostors/Concealing/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
             { text: 'Escapist', link: '/options/Impostors/Concealing/Escapist.html' },
@@ -294,6 +282,10 @@ export default defineUserConfig({
             { text: 'Warlock', link: '/options/Impostors/Concealing/Warlock.html' },
             { text: 'Wildling', link: '/options/Impostors/Concealing/Wildling.html' },
           ],
+          '/options/Impostors/Experimental/': [
+            { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
+            { text: 'Doll Master', link: '/options/Impostors/Ghost/DollMaster.html' },
+          ],
           '/options/Impostors/Ghost/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
             { text: 'Bloodmoon', link: '/options/Impostors/Ghost/Bloodmoon.html' },
@@ -304,6 +296,7 @@ export default defineUserConfig({
             { text: 'Anonymous', link: '/options/Impostors/Hindering/Anonymous.html' },
             { text: 'Dazzler', link: '/options/Impostors/Hindering/Dazzler.html' },
             { text: 'Devourer', link: '/options/Impostors/Hindering/Devourer.html' },
+            { text: 'Disperser', link: '/options/Impostors/Hindering/Disperser.html' },
             { text: 'Penguin', link: '/options/Impostors/Hindering/Penguin.html' },
             { text: 'Pitfall', link: '/options/Impostors/Hindering/Pitfall.html' },
             { text: 'Stealth', link: '/options/Impostors/Hindering/Stealth.html' },
@@ -342,9 +335,9 @@ export default defineUserConfig({
             { text: 'Quick Shooter', link: '/options/Impostors/Killing/QuickShooter.html' },
             { text: 'Saboteur', link: '/options/Impostors/Killing/Saboteur.html' },
             { text: 'Sniper', link: '/options/Impostors/Killing/Sniper.html' },
-            { text: 'Spellcaster', link: '/options/Impostors/Killing/Spellcaster.html' },
             { text: 'Trapster', link: '/options/Impostors/Killing/Trapster.html' },
             { text: 'Underdog', link: '/options/Impostors/Killing/Underdog.html' },
+            { text: 'Witch', link: '/options/Impostors/Killing/Witch.html' },
             { text: 'Zombie', link: '/options/Impostors/Killing/Zombie.html' }
           ],
           '/options/Impostors/Madmate/': [
@@ -401,6 +394,7 @@ export default defineUserConfig({
             { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
             { text: 'Collector', link: '/options/Neutrals/Chaos/Collector.html' },
             { text: 'Cultist', link: '/options/Neutrals/Chaos/Cultist.html' },
+            { text: 'God', link: '/options/Neutrals/Chaos/God.html' },
             { text: 'Phantom', link: '/options/Neutrals/Chaos/Phantom.html' },
             { text: 'Pirate', link: '/options/Neutrals/Chaos/Pirate.html' },
             { text: 'Provocateur', link: '/options/Neutrals/Chaos/Provocateur.html' },
@@ -433,6 +427,7 @@ export default defineUserConfig({
             { text: 'Bandit', link: '/options/Neutrals/Killing/Bandit.html' },
             { text: 'Blood Knight', link: '/options/Neutrals/Killing/BloodKnight.html' },
             { text: 'Demon', link: '/options/Neutrals/Killing/Demon.html' },
+            { text: 'Doppelganger', link: '/options/Neutrals/Killing/Doppelganger.html' },
             { text: 'Glitch', link: '/options/Neutrals/Killing/Glitch.html' },
             { text: 'Hex Master', link: '/options/Neutrals/Killing/HexMaster.html' },
             { text: 'Huntsman', link: '/options/Neutrals/Killing/Huntsman.html' },
@@ -467,7 +462,6 @@ export default defineUserConfig({
             { text: 'Crewmates', link: '/options/Settings/Crewmates.html' },
             { text: 'Neutrals', link: '/options/Settings/Neutrals.html' },
             { text: 'Add-ons', link: '/options/Settings/Addons.html' },
-            { text: 'Experimental', link: '/options/Settings/Experimental.html' },
           ],
         },
         repo: '0xDrMoe/TOHRE-Code',

@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Radar
-prev: Overcloked
-next: Repairman
+prev: Overclocked
+next: Seer
 ---
 
 # <font color=#d41e04>🧭 <b>Radar</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
@@ -23,4 +23,4 @@ As the Radar, you have arrows pointing towards the closest person at all times.
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
 
-> From: TOHY & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: TOU:R & Coding: [ryuk](https://github.com/ryuk2098)

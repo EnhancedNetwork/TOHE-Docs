@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Phantom
-prev: Cultist
+prev: God
 next: Pirate
 ---
 

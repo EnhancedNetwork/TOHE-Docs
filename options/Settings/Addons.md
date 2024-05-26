@@ -16,6 +16,11 @@ next: /options/settings/Experimental.html
 </tr>
 
 <tr>
+<td><font color=#4d223a><b>🚧 Experimental</b></font></td>
+<td align="center">1</td>
+</tr>
+
+<tr>
 <td><font color=red><b>🤕 Harmful</b></font></td>
 <td align="center">12</td>
 </tr>
@@ -48,6 +53,10 @@ next: /options/settings/Experimental.html
 </table>
 <br>
 
+### <font color=#4d223a><b>Experimental</b></font>
+---
+[Glow](/options/Addons/Experimental/Glow.html)
+
 ### <font color=#ff0000><b>Harmful</b></font>
 ---
 [Disregarded](/options/Addons/Harmful/Disregarded.html) | [Fool](/options/Addons/Harmful/Fool.html) | [Fragile](/options/Addons/Harmful/Fragile.html) | [Hurried](/options/Addons/Harmful/Hurried.html) | [Influenced](/options/Addons/Harmful/Influenced.html) | [Mundane](/options/Addons/Harmful/Mundane.html) | [Oblivious](/options/Addons/Harmful/Oblivious.html) | [Rascal](/options/Addons/Harmful/Rascal.html) | [Statue](/options/Addons/Harmful/Statue.html) | [Tired](/options/Addons/Harmful/Tired.html) | [Unlucky](/options/Addons/Harmful/Unlucky.html) | [Void Ballot](/options/Addons/Harmful/VoidBallot.html)
@@ -65,7 +74,7 @@ next: /options/settings/Experimental.html
 
 ### <font color=#a83295><b>Miscellaneous</b></font>
 ---
-[Egoist](/options/Addons/Miscellaneous/Egoist.html) | [Lovers](/options/Addons/Miscellaneous/Lovers.html) | [Rainbow](/options/Addons/Miscellaneous/Rainbow.html) | [Reach](/options/Addons/Miscellaneous/Reach.html) | [Workhorse](/options/Addons/Miscellaneous/Workhorse.html)
+[Egoist](/options/Addons/Miscellaneous/Egoist.html) | [Lovers](/options/Addons/Miscellaneous/Lovers.html) | [Rainbow](/options/Addons/Miscellaneous/Rainbow.html) | [Reach](/options/Addons/Miscellaneous/Reach.html) | [Workhorse](/options/Addons/Miscellaneous/Workhorse.html) | [YouTuber](/options/Addons/Miscellaneous/YouTuber.html)
 
 ### <font color=#32a87f><b>Mixed</b></font>
 ---

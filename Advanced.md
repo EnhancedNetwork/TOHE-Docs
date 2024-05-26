@@ -1,9 +1,10 @@
 ---
 lang: en-US
 title: Advanced
+contributors: false
 ---
 
-## HotKeys
+# HotKeys
 
 <table>
 <tr>
@@ -147,7 +148,7 @@ title: Advanced
 </tr>
 </table>
 
-## Chat Commands
+# Chat Commands
 
 Below is a list of commands that you can use to make your experience better while playing TOHE. You can use these commands in the chat box to perform certain actions.
 
@@ -336,56 +337,7 @@ Note: Commands in bold are considered "essential" and are recommended for all pl
 </tr>
 </table>
 
-## Presets
-
-You can save your favorite settings as presets and load them later. You can also share your presets with others. Below is a list of presets that you can use in your lobby. Make sure the file is renamed to `Options.json` before using if it isn't already. (If you do not have `File name extensions` marked on the `View` Tab, you only need to rename it to `Options`.)
-
-<a href="/presets/Guesser1.cfg" download>Guesser Mode (No Judge/Sheriff Only)</a> - Drafted by: [Moe](https://github.com/0xDrMoe) <br>
-<a href="/presets/Chaos1.cfg" download>Chaos Mode (Killing Roles Enabled)</a> - Drafted by: [witch_craft_](#)
-
-Note: You have to put the file in the following directory: `.\Among Us\TOHE-DATA\SaveData` for it to work. (If you cannot locate `TOHE-DATA\SaveData`, try enabling `Hidden items` on the `View` Tab!)
-
-More presets coming soon!
-
-## Welcome, onFirstMeeting & onMeeting auto messages
-
-Open the root directory of the mod and find the `..\Among Us\TOHE-DATA\template.txt` file.
-
-You can see that there are some words in the file, such as `welcome`, `onMeeting`, and other gibberish.
-- `welcome:exampleMessage` is the message that will be sent when other players enter your lobby.
-- `onMeeting:exampleMessage` is the message that will be sent when each meeting starts. 
-You can edit these templates, or add your own in new-lines!
-On a new-line, you want to add your trigger word and your message. Such as: `example:this is an example template!` <i>(The trigger word being `example` and the message being `this is an example template!`. (YOU NEED THE `:`!))</i> You can add as many of these as you want. You can then save the file, boot up the mod, and run `/t example` in your chat box to see if it's set up to your liking!
-
-
-Valid variables:
-
-- `{{PlayerSpeedMod}}` `{{CrewLightMod}}` `{{ImpostorLightMod}}` `{{KillCooldown}}`
-- `{{NumCommonTasks}}`  `{{NumLongTasks}}` `{{NumShortTasks}}`
-- `{{AmongUsVersion}}` `{{InternalVersion}}`
-- `{{NumEmergencyMeetings}}` `{{EmergencyCooldown}}`
-- `{{DiscussionTime}}` `{{VotingTime}}`
-- `{{Date}}` `{{Time}}`
-- `{{RoomCode}}`
-- `{{PlayerName}}` `{{HostName}}`
-- `{{ModVersion}}`
-- `{{Map}}`
----
-
-Text Formatting:
-
-- `<color=#[hex]>exampleText</color>` Changes the <font color=#ff5c00>C</font><font color=#ffba00>o</font><font color=#89ff00>l</font><font color=#3a6c93>o</font><font color=#42398b>r</font> of the text/font.
-- `<b>exampleText</b>` Enables <b>Bold</b> for the text/font.
-- `<s>exampleText</s>` Enables <s>Strikethrough</s> for the text/font.
-- `<u>exampleText</u>` Enables <u>Underline</u> for the text/font.
-- `<i>exampleText</i>` Enables <i>Italics</i> for the text/font.
-- `<mark>exampleText</mark>` Enables <mark>Highlight</mark> for the text/font.
-- `<sup>exampleText</sup>` Enables <sup>Superscript</sup> for the text/font.
-- `<sub>exampleText</sub>` Enables <sub>Subscript</sub> for the text/font.
-- `<size=[size][%]>exampleText</size>` Sets the <font size=2em>Size</font> of the text/font. (Can type exact text/font sizes or use percentages.)
-- `\n` Creates a New Line. (Such as `<br>` (or the `[Enter]` key) would)
-
-## TOHE-DATA Info
+# TOHE-DATA Info
 
 Open the root directory of game: `...\Among Us\TOHE-DATA\`
 
@@ -398,3 +350,77 @@ There are a few files:
 - template.txt: You can modify the `welcome` and `onMeeting` messages here. You can also add custom templates here as well following the same format as `welcome` & `onMeeting` use.
 - VIP-List.txt: A list of friendcodes that will be given a sweet VIP tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to change their name color.
 - WhiteList.txt: A list of friendcodes that will be exempt from blacklisted platforms, along with level requirements.
+
+## Presets
+
+You can save your favorite settings as presets and load them later. You can also download presets shared by others. If you want to use a preset, make sure the file is renamed to `Options.json` before using if, it isn't already. (If you do not have `File name extensions` marked on the `View` Tab, you only need to rename it to `Options`.)
+
+Note: You have to put the file in the following directory: `.\Among Us\TOHE-DATA\SaveData` for it to work. (If you cannot locate `TOHE-DATA\SaveData`, try enabling `Hidden items` on the `View` Tab!)
+
+For some member submitted presets, browse [here](/Presets.html)
+
+## Templates
+
+Open the root directory of the mod and find the `..\Among Us\TOHE-DATA\template.txt` file.
+
+You can see that there are some words in the file, such as `welcome`, `onMeeting`, and other gibberish.
+- `welcome:exampleMessage` - this is the message that will be sent when other players enter your lobby.
+- `onMeeting:exampleMessage` - this is the message that will be sent when each meeting starts. 
+- `onFirstMeeting:exampleMessage` - this is just like `onMeeting`, but the message sent here will only be sent on the <i>first</i> meeting. Any meetings after will prioritize `onMeeting`. 
+
+You can edit these templates, or add your own on new-lines!
+
+On a new-line, you want to add your trigger word and your message. Such as: `[example]:this is an example template!` <i>(The trigger word being `[example]` and the message being `this is an example template!`. (YOU NEED THE `:`!))</i> You can add as many of these as you want. You can then save the file, boot up the mod, and run `/t [example]` in your chat box to see if it's set up to your liking!
+
+Alternatively, you may also use this [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) put together by one of TOHE's Contributors, [Drakos](https://github.com/Ultradragon005).
+<details>
+<summary><b><font color=gray>Guide</font></b></summary>
+There is a Tutorial at the bottom of the Template Editior's page if you need it. If you do not want to watch it, here's a small guide abounht how to use it.
+
+1. Enter a Title for the template. This title will be displayed at the top of the template when its activated in game. Here's what the title will look like by default: [Preview](TemplateTitle.png)
+2. Enter in what you want the template to display. You can edit the Font Size & Text Colors, but it is recommended to do it last. (From: Drakos)
+3. Enter in the name for this template. This name will also be the trigger word for this template. `[example]:this is an example template!` (`[example]` being the name/trigger word)
+4. Click the "Copy as HTML Formatted" to copy your template to your clipboard.
+5. Locate `..\Among Us\TOHE-DATA\template.txt` and paste your new template on a new-line.
+6. You can then save the file [`[Ctrl] + [S]`], boot up the mod, and run `/t [example]` in your chat box to see if it's set up to your liking!
+</details>
+The [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) shown above is only 1 of the many Utilities (Also by Drakos) which are part of this [Among Us Utilities](https://ultradragon005.github.io/AmongUs-Utilities/index.html) page. You can find a [Welcome Message Guide](https://ultradragon005.github.io/AmongUs-Utilities/guide.html), [Pixel Art Editor](https://ultradragon005.github.io/AmongUs-Utilities/pixelgrid.html), [Gallery](https://ultradragon005.github.io/AmongUs-Utilities/gallery.html), & also the [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) shown above.
+
+If you create copies of the template name on newlines, it will send them in seperate messages. Check out this for an example: [Example](TemplateNewLines.png) (From: Drakos)
+
+## Valid Variables:
+
+- `{{PlayerSpeedMod}}` - Displays the speed of players.
+- `{{CrewLightMod}}` - Displays the vision radius of a Crewmate.
+- `{{ImpostorLightMod}}` - Displays the vision radius of an Impostor.
+- `{{KillCooldown}}` - 
+- `{{NumCommonTasks}}` - Displays the amount of Common Tasks per player.
+- `{{NumLongTasks}}` - Displays the amount of Long Tasks per player.
+- `{{NumShortTasks}}` - Displays the amount of Short Tasks per player.
+- `{{AmongUsVersion}}` - Displays the current Among Us version.
+- `{{InternalVersion}}` - Displays the source code plugin version.
+- `{{NumEmergencyMeetings}}` - Displays the amount of emergency meetings allowed per player.
+- `{{EmergencyCooldown}}` - Displays the cooldown before you can call another meeting after the last one is finished.
+- `{{DiscussionTime}}` - Displays the time period where you can talk before voting.
+- `{{VotingTime}}` - Displays the time period where you vote.
+- `{{Date}}` - Displays the current date.
+- `{{Time}}` - Displays the current time.
+- `{{RoomCode}}` - Displays the Room Code.
+- `{{PlayerName}}` - Displays the players username. (The one reading the variable)
+- `{{HostName}}` - Displays the hosts username 
+- `{{ModVersion}}` - Displays the current version of TOHE.
+- `{{Map}}` - Displays the Map that is going to be played.
+---
+
+## Text Formatting:
+
+- `<color=#[hex]>exampleText</color>` Changes the <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Color </span> of the text/font.
+- `<b>exampleText</b>` Enables <b>Bold</b> for the text/font.
+- `<s>exampleText</s>` Enables <s>Strikethrough</s> for the text/font.
+- `<u>exampleText</u>` Enables <u>Underline</u> for the text/font.
+- `<i>exampleText</i>` Enables <i>Italics</i> for the text/font.
+- `<mark>exampleText</mark>` Enables <mark>Highlight</mark> for the text/font.
+- `<sup>exampleText</sup>` Enables <sup>Superscript</sup> for the text/font.
+- `<sub>exampleText</sub>` Enables <sub>Subscript</sub> for the text/font.
+- `<size=[size][%]>exampleText</size>` Sets the <font size=2em>Size</font> of the text/font. (Can type exact text/font sizes or use percentages.)
+- `\n` Creates a New Line. (Such as `<br>` (or the `[Enter]` key) would)

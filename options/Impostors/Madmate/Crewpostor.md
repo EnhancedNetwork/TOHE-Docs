@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Crewpostor
-prev: Convict
+prev: /options/Settings/Impostors.html
 next: Parasite
 ---
 

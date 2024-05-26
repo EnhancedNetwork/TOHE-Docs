@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: About Us
+title: About Our Team
 contributors: false
 ---
 
@@ -44,21 +44,12 @@ I love playing games (I mostly play all games on PlayStation). I especially pay 
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 
-I am a Moderator in the TOHE Discord, aswell as a Website Developer for tohre.dev. If you want to see some stuff about me, you can check out my Google Site by clicking [Here](https://sites.google.com/view/pyro0tv), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
+I am a Moderator in the TOHE Discord, aswell as a Website Developer for tohre.dev. I started helping outIf you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/pyro0tv), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 </details>
 
 ## Contributors
 
-[**Gurge44**](https://www.youtube.com/@200iqguy)：Role Coding, <font color=#cf192b><b>English</b></font> Translator (EHR Dev)
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-I help with performance improvements & bug fixes, sometimes I add new roles. I also coded a customized wordle game and my own Among Us mod which are both available on my [github](https://github.com/Gurge44). I really like Among Us mods and I have a lot of motivation to keep coding and playing. I enjoy coding challenges, like roles that are very complex and/or take a while to make. I like traffic lights more than anything else, especially those in the city I live in, since they also speak and have counters. I like everything timer related.
-</details>
-
----
-
-[**NikoCat233**](https://github.com/NikoCat233): Feature & Role Coding
+[**NikoCat233**](https://github.com/NikoCat233): Role/Feature Coding
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -81,15 +72,6 @@ I help with performance improvements & bug fixes, sometimes I add new roles. I a
 <summary><b><font color=gray>About</font></b></summary>
 
 I am a part of the TOHE French Translation team. I enjoy programming and gaming. I suck at drawing. I'm learning music creation.
-</details>
-
----
-
-[**Commandf1**](https://github.com/commandf1)：Role & Feature Coding
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-(placeholder)
 </details>
 
 ---
@@ -119,6 +101,41 @@ TChinese Translator for in TOHE since April 2023. I'm a casual gamer, playing ga
 I'm a TOHE Contributor & Polish Translator.
 The voices? Nah I'd win.
 I play chess when I'm bored, and catch crypto pumps 😼. I also workout and try to run very fast, so that's cool I guess.
+</details>
+
+---
+
+[**D1GQ**](https://github.com/D1GQ)：Role Coding
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+Sup... I recently got into coding in the last two years, mostly C# and Python.
+and I also do 3D art design as a hobby! Glad to meet everyone here and can't wait to work with y'all. ❤️
+</details>
+
+[**Marg**](https://margsbuttons.carrd.co/)：Role/Feature Coding
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I plan to port most of the roles from Town of Salem 2 in some form because I love that game. I have literally never coded in C# before I started working on the mod, but it's close enough to Java that I made it work `:)`. Some of my hobbies are playing video games (of course), bowling, and playing the guitar.
+</details>
+
+---
+
+[**Huier**](https://github.com/Huier-Huang)：Feature Coding
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+Used to use names like "Huier" and "天寸梦初". KPD, NiKoCat, Commandf1 are my friends. I love programming and animation as well as games like Honkai: StarRail, Among Us, Minecraft and others. I'm learning C# because of Modding, but I've also been into Java, TS, PYTHON, GO, RUST but I haven't learned it yet. Has worked on SChinese translations for TownOfHost. In the spring of 2023 I met TOHE and KPD and contributed some code. Currently, like KPD, I am not involved in development. I have accounts on X, YouTube, TikTok but I'm not online often, I'm mainly active on Chinese apps! 
+</details>
+
+---
+
+[**Gurge44**](https://www.youtube.com/@200iqguy)：Role Coding & <font color=#cf192b><b>English</b></font> Translator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I help with performance improvements & bug fixes, sometimes I add new roles. I also coded a customized wordle game and my own Among Us mod which are both available on my [github](https://github.com/Gurge44). I really like Among Us mods and I have a lot of motivation to keep coding and playing. I enjoy coding challenges, like roles that are very complex and/or take a while to make. I like traffic lights more than anything else, especially those in the city I live in, since they also speak and have counters. I like everything timer related.
 </details>
 
 ## Translators
@@ -247,7 +264,7 @@ I am a college student majoring in computer science. Some hobbies I have are pro
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I play some videogames (Minecraft, Among Us, Brawl Stars and etc...), but I also love board games and card games. I also enjoy listening music (videogame music rocks) and also watching Netflix, Prime and especially YouTube.
 </details>
 
 ### <font color=#1e448b><b>Dutch</b></font>
@@ -279,11 +296,11 @@ I’m a German Translator from Austria, 20, and verified Master of watchmaking. 
 
 ### <font color=#056306><b>Portuguese (Portuguese Portugal)</b></font>
 
-[**remisk**](#)：<font color=#056306><b>Portuguese (Portuguese Portugal)</b></font> Translator
+[**smokin**](#)：<font color=#056306><b>Portuguese (Portuguese Portugal)</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I'm a Portuguese Portugal Translator (maybe the only one 😓). I mostly like to listen to and make music in my freetime. I LOVE CATS! Nice to meet y'all. 🤝
 </details>
 
 ## MVPs

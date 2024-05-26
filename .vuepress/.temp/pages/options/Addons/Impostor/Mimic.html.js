@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Addons/Impostor/Mimic.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Addons/Impostor/Mimic.html\",\"title\":\"Mimic\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Mimic\",\"prev\":\"Mare\",\"next\":\"Stealer\"},\"headers\":[],\"git\":{\"updatedTime\":1697089321000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":2},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3}]},\"filePathRelative\":\"options/Addons/Impostor/Mimic.md\"}")
-export { comp, data }

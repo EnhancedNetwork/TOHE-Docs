@@ -82,7 +82,8 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 \+ <font color=#ffc400><b>Spanish</b></font>: (Dawson, Sunnyboi, thewhiskas27, xxSShadow)<br>
 \+ <font color=#de2910><b>Traditional Chinese</b></font>: (FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)<br>
 
-- Check out all of our translators on our [**website**](https://tohre.dev) * [**Full v1.6.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/tag/v1.6.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
+- Check out all of our translators on our [**website**](https://tohre.dev)
+* [**Full v1.6.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/tag/v1.6.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
 ---
 
 ## <font size=5em><b>v1.5.0</b></font>
@@ -214,7 +215,8 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 \+ <font color=#de2910><b>Simplified Chinese</b></font>: (By: CrewCyan, LezaiYa, NikoCat223) <br>
 \+ <font color=#ffc400><b>Spanish</b></font> (By: Dawson, Sunnyboi, thewhiskas27, xxSShadow) <br>
 \+ <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)
-- Check out all of our translators on our website * [**Full v1.5.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/tag/v1.5.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
+- Check out all of our translators on our website
+* [**Full v1.5.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/tag/v1.5.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
 ---
 
 ## <font size=5em><b>v1.4.0</b></font>
@@ -269,7 +271,7 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 \+ <font color=#ffc400><b>Spanish</b></font> (By: Dawson, Sunnyboi, thewhiskas27, xxSShadow) <br>
 \+ <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)
 - Check out all of our translators on our website
-* [**Full v1.4.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.3.0...v1.4.0)
+* [**Full v1.4.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.3.0...v1.4.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
 
 ---
 
@@ -328,7 +330,8 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 \+ <font color=#009344><b>Italian</b></font> by [**Mattix606**](#), [**Baphojack**](#), & [**reallyalot**](#).<br>
 \+ <font color=#ffc400><b>Spanish</b></font> by [**xxSShadow**](#)(New Translator), [**Sunnyboi**](#), [**Dawson**](#), & [**thewhiskas**](#).<br>
 \+ <font color=#de2910><b>Traditional Chinese</b></font> by [**Pomelo_**](#)(New Translator), [**FlyFlyTurtle**](#)(New Translator), [**NikoCat223**](#), & [**NetherDragonTw**](#).
-* [**Full v1.3.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.2.0...v1.3.0)
+- Check out all of our translators on our [**website**](https://tohre.dev)
+* [**Full v1.3.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.2.0...v1.3.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
 
 ---
 
@@ -337,7 +340,7 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 = <font color=#e08709><b>IMPROVEMENT</b></font>: The Fungle Fully Supported!<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Several Bug Fixes<br>
 = <font color=#dc4585><b>THE</b></font> <font color=#fe5ca8><b>FUNGLE</b></font>: Fun and all! Let's get ready to enter The Fungle 🌲<br>
-* [**Full v1.2.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.1.1...v1.2.0)
+* [**Full v1.2.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.1.1...v1.2.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
 
 ---
 
@@ -350,7 +353,7 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed a conflict with Tiebreaker and Void Ballot<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved overkiller in PlayerControls<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Reworked End Game Checks (again) to optimize it<br>
-* [**Full v1.1.1 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.1.0...v1.1.1)
+* [**Full v1.1.1 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.1.0...v1.1.1) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
 
 ---
 
@@ -422,7 +425,8 @@ Updated en_US.json for some neutral killers (by Moe) <br>
 = Language.dat (English.dat) updates automatically now. <br>
 = New variables for template file = {{HostName}} (host's name), ({{PlayerName}} is for any player.) <br>
 = Several Misc Bug Fixes and code enhancements by TommyXL, ryuk, Moe and Gurge44
-* [**Full v1.1.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.0.1...v1.1.0) 
+- Check out all of our translators on our [**website**](https://tohre.dev)
+* [**Full v1.1.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.0.1...v1.1.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
 
 ---
 
@@ -432,7 +436,7 @@ Updated en_US.json for some neutral killers (by Moe) <br>
 \+ <font color=green><b>NEW</b></font>: Added an updated clue in Fortune Teller [#5](https://github.com/0xDrMoe/TownofHost-Enhanced/pull/5)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed templates and VIP List not generating [#5](https://github.com/0xDrMoe/TownofHost-Enhanced/pull/5) [#6](https://github.com/0xDrMoe/TownofHost-Enhanced/pull/6)<br>
 \+ <font color=green><b>NEW</b></font>: A new tease...for a new role...? (try /r President)<br>
-* [**Full v1.0.1 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/Release...v1.0.1)
+* [**Full v1.0.1 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/Release...v1.0.1) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
 
 ---
 
@@ -442,4 +446,4 @@ Updated en_US.json for some neutral killers (by Moe) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Renamed Jailor to Jailer (you're welcome, ryuk)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Updated default templates to include all appropriate strings/variables<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bandit Text String<br>
-* [**Full v1.0.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/commits/Release)
+* [**Full v1.0.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/commits/Release) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!

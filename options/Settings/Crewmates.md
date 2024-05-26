@@ -20,6 +20,11 @@ next: Neutrals
 </tr>
 
 <tr>
+<td><font color=#224c4d><b>🚧 Experimental</b></font></td>
+<td align="center">0</td>
+</tr>
+
+<tr>
 <td><font color=#9bacb2><b>👻 Ghost</b></font></td>
 <td align="center">3</td>
 </tr>
@@ -40,7 +45,7 @@ next: Neutrals
 </tr>
 
 <tr>
-<td><font color=#8cffff><b>👶 Vanilla</b></font></td>
+<td><font color=#8cffff><b>🍦 Vanilla</b></font></td>
 <td align="center">3</td>
 </tr>
 
@@ -56,6 +61,10 @@ next: Neutrals
 ---
 [Addict](/options/Crewmates/Basic/Addict.html) | [Alchemist](/options/Crewmates/Basic/Alchemist.html) | [Celebrity](/options/Crewmates/Basic/Celebrity.html) | [Cleanser](/options/Crewmates/Basic/Cleanser.html) | [Doctor](/options/Crewmates/Basic/Doctor.html) | [Guess Master](/options/Crewmates/Basic/GuessMaster.html) | [Lazy Guy](/options/Crewmates/Basic/LazyGuy.html) | [Mini](/options/Crewmates/Basic/Mini.html) | [Mole](/options/Crewmates/Basic/Mole.html) | [Super Star](/options/Crewmates/Basic/SuperStar.html) | [Randomizer](/options/Crewmates/Basic/Randomizer.html) | [Task Manager](/options/Crewmates/Basic/TaskManager.html) | [Tracefinder](/options/Crewmates/Basic/Tracefinder.html) | [Transporter](/options/Crewmates/Basic/Transporter.html)
 <br>
+
+### <font color=#224c4d><b>Experimental</b></font>
+---
+[N/A](#)
 
 ### <font color=#9bacb2><b>Ghost</b></font>
 ---

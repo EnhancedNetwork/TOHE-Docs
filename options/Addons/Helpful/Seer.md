@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Seer
-prev: Repairman
+prev: Radar
 next: Silent
 ---
 

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Glitch
-prev: BloodKnight
+prev: Doppelganger
 next: HexMaster
 ---
 

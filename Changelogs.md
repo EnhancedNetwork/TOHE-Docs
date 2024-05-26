@@ -52,6 +52,9 @@ contributors: false
 = <font color=#F6BE00><b>CHANGE</b></font>: Added some more bios into AboutUs.md.
 = <font color=#1376f0><b>BUG FIXE</b></font>: Many small formatting, linking, and spelling fixes + a few small tweaks.
 = <font color=#fdf08e><b>NOTE</b></font>: Chinese & French Translations are still in the works. (Sorry Translators, but at least they have their own folder(s) now!)
-= <font color=#fdf08e><b>NOTE</b></font>: You may realize that there are 3 results of roles if you use the built-in search bar. This is because you are getting a copy for every instance (Currently, French & Chinese) that is not yet translated. (An example being [Reverie](SearchReverie3BUG.png), even though <i>most</i> roles will display 3 results.) 
-= <font color=#fdf08e><b>NOTE</b></font>: You may also find older roles from French/Chinese results, such as [Luckey](SearchLuckeyBUG.png) from the Chinese instance, as they are not up-to-date, nor translated entirely.
+= <font color=#fdf08e><b>NOTE</b></font>: You may realize that there are 3 results of roles if you use the built-in search bar. This is because you are getting a copy for every instance (Currently, French & Chinese) that is not yet translated. (An example being Reverie, even though <i>most</i> roles will display 3 results.)
+![image](./images/SearchReverie3BUG.png)
+= <font color=#fdf08e><b>NOTE</b></font>: You may also find older roles from French/Chinese results, such as Luckey from the Chinese instance, as they are not up-to-date, nor translated entirely.
+![image](./images/SearchLuckeyBUG.png)
+= <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are not remotely close to correct, if someone would like to do the math because Pyro is lazy, PLEASE DO! :D thanks.
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, open a forum in #website-feedback! Thank you! - Pyro<br>

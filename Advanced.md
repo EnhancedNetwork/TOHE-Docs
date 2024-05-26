@@ -377,16 +377,19 @@ Alternatively, you may also use this [Template Editor](https://ultradragon005.gi
 <summary><b><font color=gray>Guide</font></b></summary>
 There is a Tutorial at the bottom of the Template Editior's page if you need it. If you do not want to watch it, here's a small guide abounht how to use it.
 
-1. Enter a Title for the template. This title will be displayed at the top of the template when its activated in game. Here's what the title will look like by default: [Preview](TemplateTitle.png)
+1. Enter a Title for the template. This title will be displayed at the top of the template when its activated in game. Here's what the title will look like by default:
+![image](./images/TemplateTitle.png)
 2. Enter in what you want the template to display. You can edit the Font Size & Text Colors, but it is recommended to do it last. (From: Drakos)
 3. Enter in the name for this template. This name will also be the trigger word for this template. `[example]:this is an example template!` (`[example]` being the name/trigger word)
 4. Click the "Copy as HTML Formatted" to copy your template to your clipboard.
 5. Locate `..\Among Us\TOHE-DATA\template.txt` and paste your new template on a new-line.
 6. You can then save the file [`[Ctrl] + [S]`], boot up the mod, and run `/t [example]` in your chat box to see if it's set up to your liking!
 </details>
+
 The [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) shown above is only 1 of the many Utilities (Also by Drakos) which are part of this [Among Us Utilities](https://ultradragon005.github.io/AmongUs-Utilities/index.html) page. You can find a [Welcome Message Guide](https://ultradragon005.github.io/AmongUs-Utilities/guide.html), [Pixel Art Editor](https://ultradragon005.github.io/AmongUs-Utilities/pixelgrid.html), [Gallery](https://ultradragon005.github.io/AmongUs-Utilities/gallery.html), & also the [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) shown above.
 
-If you create copies of the template name on newlines, it will send them in seperate messages. Check out this for an example: [Example](TemplateNewLines.png) (From: Drakos)
+If you create copies of the template name on newlines, it will send them in seperate messages. Check out this example from Drakos for an example: 
+![image](./images/TemplateNewLines.png)
 
 ## Valid Variables:
 

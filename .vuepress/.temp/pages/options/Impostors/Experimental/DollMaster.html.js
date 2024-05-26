@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Impostors/Experimental/DollMaster.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Impostors/Experimental/DollMaster.html\",\"title\":\"Doll Master\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Doll Master\",\"prev\":\"/options/settings/Impostors.html\",\"next\":\"/options/settings/Impostors.html\"},\"headers\":[],\"git\":{\"updatedTime\":1716176591000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2}]},\"filePathRelative\":\"options/Impostors/Experimental/DollMaster.md\"}")
+export { comp, data }

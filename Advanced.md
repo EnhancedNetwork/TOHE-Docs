@@ -337,6 +337,195 @@ Note: Commands in bold are considered "essential" and are recommended for all pl
 </tr>
 </table>
 
+# Helpful Resources
+Here are some Resources that may help you understand some things relating to the mod. Such as Death Reasons, Template help, etc.
+
+<details>
+<summary><b><font color=gray>Death Reasons</font></b></summary>
+
+Here's a list of Death Reasons, and what makes them occur. `From: Marg (Thank you!)` [[Original Doc](https://docs.google.com/document/d/e/2PACX-1vTD5Qn3DchoADfPjxH1j11wfXzp3Is9GAMYnZYt5RePbM7OS_Iz4mNWgigQvN3rkFHh_QVfBguhV0rb/pub)]
+
+`- Death Reason`
+`Role/Scenario: (Rough Explanation)`
+
+- Kill<br>
+Any Role that can Kill (Is applied to any role that does not have a special death reason)<br>
+
+- Ejected<br>
+When a player is voted (Is applied when a player is voted out during a Meeting)<br>
+
+- Suicide<br>
+Unlucky (Happens to the player by chance)<br>
+Ghoul (If the player with Ghoul finishes all tasks when alive)<br>
+Addict (If the Addict does not vent by the suicide timer)<br>
+Deathpact (If the marked players do not meet in time)<br>
+Mastermind (If the manipulated target does not kill by the timer, or a meeting is called while they are manipulated)<br>
+Mercenary (If Mercenary does not kill by the suicide timer)<br>
+Pixie (Can only happen if Pixie suicides if target is not voted out setting is on)<br>
+Terrorist (Can only happen if Can Win by Suicide setting is on)<br>
+
+- Disconnected<br>
+Player leaves the Game (If no cause of death was established, does not always display if the player disconnected)<br>
+
+- Fall<br>
+Ladders on Airship/Fungle (Fall From Ladders setting)<br>
+
+- Guessed
+Evil Guesser (If a player was guessed or if a player misguessed)<br>
+Nice Guesser (If a player was guessed or if a player misguessed)<br>
+Doomsayer (If a player was guessed or if a player misguessed)<br>
+Guesser (If a player was guessed or if a player misguessed)<br>
+Guesser Mode (If a player was guessed or if a player misguessed)<br>
+
+- Other<br>
+Shouldn’t happen (404: DeathReasonNotFound)<br>
+
+- Spelled<br>
+Witch (Given to a player marked by the Witch if the Witch isn't voted out)<br>
+
+- Cursed<br>
+Cursed Wolf (Given to players killed by the Cursed Wolf's reflect)<br>
+
+- Hexed<br>
+Hex Master (Given to a player marked by the Hex Master if the HexMaster isn't voted out)<br>
+
+- Heartbroken<br>
+Lovers (Given to the other Lover when their Lover died)<br>
+
+- Bitten<br>
+Vampire (Given to players that Vampire has used their kill button on)<br>
+
+- Poisoned<br>
+Poisoner (Given to players that Poisoner has used their kill button on)<br>
+Alchemist (Poison Potion)<br>
+
+- Exploded<br>
+Bomber (Given to players within the radius of the Bomber when it explodes)<br>
+Nuker (Given to players within the radius of the Nuker when it explodes)<br>
+Fireworker (Given to players killed by the Fireworker's fireworks)<br>
+Berserker (If Bombed Kills setting on)<br>
+Bastion (Given to players if they use a vent that the Bastion did)<br>
+Agitator (Given to players if they hold the Agitator's bomb (hot potato) and don't pass it on)<br>
+Taskinator (Given to player if they do a task that the Taskinator did)
+Terrorist (Given to all players when Terrorist meets their win-condition)<br>
+Burst (Given to Killer if they killed a player with Burst & failed to stay in a vent when the detonation goes off)<br>
+
+- Misfire
+Deceiver (Whoever Deceiver’s ability is used on)<br>
+Reverie (If Cooldown increases too much)<br>
+Sheriff (If Sheriff tries to kill player with role they aren’t allowed to kill)<br>
+Fireworker (If Fireworker is in their own radius when they explode)<br>
+Hater (Hater kills target when misfire setting)<br>
+Pursuer (When whoever Pursuer blanks attempts to kill)<br>
+Vengeful Romantic (If killed someone other than partner’s killer)<br>
+
+- Burned
+Arsonist (Given to players that have been doused when the Arsonist vented & killed)<br>
+
+- Sniped<br>
+Sniper (Given to players that have been killed by the Sniper)<br>
+
+- Revenge
+Avenger (Happens to a random player when player with Avenger is killed)<br>
+Randomizer (Happens by chance)<br>
+Retributionist (Whoever Retributionist kills using their '/rv' command)<br>
+Butcher (If Butcher kills Avenger then EVERYONE gets this)<br>
+Nemesis (Whoever Nemesis kills using their '/rv' command)<br>
+
+- Execution<br>
+Jailer (Given to the players that the Jailer has jailed & killed)<br>
+
+- Eaten<br>
+Pelican (Given to the players that the Pelican has used their kill button on)<br>
+
+- Victim<br>
+Hater (Given to the player that the Hater successfully killed)<br>
+Revolutionist (Given to the player that the Revolutionist attempted to recruit)<br>
+Bodyguard (Given to the Bodyguard themselves)<br>
+
+- Quantization<br>
+Lightning (Given if a player touches another player after becoming Quantum Ghost)<br>
+
+- Overtired<br>
+Workholic (Given to the Workholic if they complete their tasks)<br>
+
+- Ashamed<br>
+Workaholic (Given to everyone else alive if Workaholic completes their tasks)<br>
+
+- Destroyed<br>
+Provocateur (Given to the Provocateur's target)<br>
+Crusader (Given to Crusader if it tries to kill Pestilence)<br>
+
+- Dismembered<br>
+Butcher (Given to players the Butcher has killed)<br>
+
+- Strangled<br>
+Hangman (Given to players the Hangman has killed while they were shapeshifted)<br>
+
+- Judged<br>
+Councillor (Given to players that the Councillor used their '/tl' command on)<br>
+Judge (Given to players that the Judge used their '/tl' command on)<br>
+
+- Infected<br>
+Infectious (Given to players killed by the Infectious)<br>
+Plague Scientist (Given to players killed by the Plague Scientist)<br>
+Virus (Given to players killed by the Virus)<br>
+
+- Jinxed<br>
+Jinx (Given to players killed by the Jinx's reflect)<br>
+
+- Hacked<br>
+Glitch (Given to players killed by the Glitch)<br>
+
+- Plundered<br>
+Pirate (Given to a player that loses the duel against the Pirate)<br>
+
+- Shrouded<br>
+Shroud (Given to a player marked by the Shroud if the Shroud isn't voted out, or the player hasn't performed a kill)<br>
+
+- Mauled<br>
+Werewolf (Given to players caught in the Werewolf's Maul Radius)<br>
+
+- Drained<br>
+Puppeteer ('Puppet dies alongside victim' Setting)<br>
+
+- Shattered<br>
+Fragile (Given to a player that any Impostor based role interacted with)<br>
+
+- Trapped<br>
+Trapster (Given to players that report a body killed by the Trapster)<br>
+
+- Targeted<br>
+Kamikaze (Given to players killed when the Kamikaze dies)<br>
+
+- Retribution<br>
+Instigator (Given to players that voted for the same player that the Instigator voted for)<br>
+
+- Sliced<br>
+Hawk (Given to a player that the Hawk has haunted)<br>
+
+- Bleed<br>
+Bloodmoon (Given to a player that the Bloodmoon has haunted)<br>
+
+- Wrong Quiz Answer<br>
+Quizmaster (Given to players that incorrectly answer a question from the Quizmaster)<br>
+
+- Starved<br>
+Famine (Given to anyone without bread after Famine transforms and is not voted out, or when famine uses their kill button on a player after that)<br>
+
+- Armageddon<br>
+Death (Given to everyone alive if Death is not voted out when they transform)<br>
+</details>
+
+<details>
+<summary><b><font color=gray>Template Editor</font></b></summary>
+
+Here's a Template Editor which you can use to edit or create templates. `From: Drakos (Thank you!)`<br>
+[Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html)<br>
+
+The Template Editor is only 1 of the many Utilities (Also by Drakos) which are on this [Among Us Utilities](https://ultradragon005.github.io/AmongUs-Utilities/index.html) page. You can find a [Welcome Message Guide](https://ultradragon005.github.io/AmongUs-Utilities/guide.html), [Pixel Art Editor](https://ultradragon005.github.io/AmongUs-Utilities/pixelgrid.html), [Gallery](https://ultradragon005.github.io/AmongUs-Utilities/gallery.html), & also the [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) shown above.<br>
+</details>
+
 # TOHE-DATA Info
 
 Open the root directory of game: `...\Among Us\TOHE-DATA\`
@@ -375,6 +564,7 @@ On a new-line, you want to add your trigger word and your message. Such as: `[ex
 Alternatively, you may also use this [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) put together by one of TOHE's Contributors, [Drakos](https://github.com/Ultradragon005).
 <details>
 <summary><b><font color=gray>Guide</font></b></summary>
+
 There is a Tutorial at the bottom of the Template Editior's page if you need it. If you do not want to watch it, here's a small guide abounht how to use it.
 
 1. Enter a Title for the template. This title will be displayed at the top of the template when its activated in game. Here's what the title will look like by default:
@@ -385,8 +575,6 @@ There is a Tutorial at the bottom of the Template Editior's page if you need it.
 5. Locate `..\Among Us\TOHE-DATA\template.txt` and paste your new template on a new-line.
 6. You can then save the file [`[Ctrl] + [S]`], boot up the mod, and run `/t [example]` in your chat box to see if it's set up to your liking!
 </details>
-
-The [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) shown above is only 1 of the many Utilities (Also by Drakos) which are part of this [Among Us Utilities](https://ultradragon005.github.io/AmongUs-Utilities/index.html) page. You can find a [Welcome Message Guide](https://ultradragon005.github.io/AmongUs-Utilities/guide.html), [Pixel Art Editor](https://ultradragon005.github.io/AmongUs-Utilities/pixelgrid.html), [Gallery](https://ultradragon005.github.io/AmongUs-Utilities/gallery.html), & also the [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) shown above.
 
 If you create copies of the template name on newlines, it will send them in seperate messages. Check out this example from Drakos for an example: 
 ![image](./images/TemplateNewLines.png)

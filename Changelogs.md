@@ -15,36 +15,26 @@ contributors: false
 (Only the Latest Changes to Mod/Site will be displayed.)
 
 ---
-## <font size=5em><b>Latest Mod Changelogs: v2.0.0 Dev 22</b></font><br>
-* By [**D1GQ**](https://github.com/D1GQ)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Simplified some Dollmaster code for OnCheckMurder<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue with burst activating on a possessed player<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Additionally fixed all issues with trapped based add-ons activating on possessed player<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue when other roles called player.RpcMurderPlayer(player) on possessed player (Now if RpcMurderPlayer is called on a Possessed Player or Dollmaster possessing, it will run Dollmasters CheckMurderAsPossessed instead)<br>
- 
+## <font size=5em><b>Latest Mod Changelogs: v2.0.0 Dev 23</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Now modded players can see during in meeting who is the host (Only in online game)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvements for Schrodinger's Cat<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Executioner and Innocent would never win<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some changes for Guardian Angel (If the protected player was attacked, the killer will see a guard animation (depending on settings))<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for Cultist<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some errors in logs<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Anti Adminer and Telecommunication<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Overseer RPC<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for Romantic<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for Jackal<br>
-
-* By [**Marg**](https://github.com/MargaretTheFool)<br>
-\+ <font color=green><b>NEW</b></font>: Mini-Game Command: "/8ball" (Idea: Pyro)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Now at the end of the game, players who left the game after death will display the real death reason and after the reason "(Disconnected)"<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed the vent icon for some roles that are based on engineer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mimic cooldown for Glitch<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Crusader<br>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed error in logs with Split Message (Code ported from: EHR)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed double icons for shrouded players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Zombie<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Glitch errors (kill button did not work)<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added lobby timer in "template.txt"<br>
 
 
 ## <font size=5em><b>Latest Site Changelogs:</b></font><br>
 
 * By [**Pyro**](https://sites.google.com/view/pyro0tv)<br>
-= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.0.0 Dev 22<br>
+= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.0.0 Dev 23<br>
 \+ Have a good day!<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of Advanced.md, as well as FAQ.md.<br>
 \+ <font color=green><b>NEW</b></font>: Added Presets.md - Redid the Presets part of Advanced.md, and decided that Presets should be compiled elsewhere as to not clutter Advanced. (Added Marg's Presets, and removed 2 Out of Date Presets (WitchCraft/Moe's Presets which will not work anymore)).<br>

@@ -14,7 +14,22 @@ sidebar:
 To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester] (Content Creator with your TOHE videos having 600+ views on average).
 
 ---
-## <font size=5em><b>Latest: v2.0.0 Dev 22</b></font><br>
+## <font size=5em><b>Latest: v2.0.0 Dev 23</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Now at the end of the game, players who left the game after death will display the real death reason and after the reason "(Disconnected)"<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed the vent icon for some roles that are based on engineer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mimic cooldown for Glitch<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Crusader<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed double icons for shrouded players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Zombie<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Glitch errors (kill button did not work)<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added lobby timer in "template.txt"<br>
+
+## <font size=5em><b>v2.0.0 Dev 22</b></font><br>
 * By [**D1GQ**](https://github.com/D1GQ)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Simplified some Dollmaster code for OnCheckMurder<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue with burst activating on a possessed player<br>

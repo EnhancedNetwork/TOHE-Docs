@@ -14,7 +14,26 @@ sidebar:
 To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester] (Content Creator with your TOHE videos having 600+ views on average).
 
 ---
-## <font size=5em><b>Latest: v2.0.0 Dev 23</b></font><br>
+## <font size=5em><b>Latest: v2.0.0 Dev 24</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed assign Lovers<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Phantom now cannot be Infected by Virus<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Ruthless Romantic is now Neutral Evil<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed black screens during role assign (I hope)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Scientist assign for desync roles (I hope)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed uses remaining sprite (for Vector and QuickShooter)<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed all Duplicate Icons<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bloodmoon<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvements for EAC<br>
+
+* By [**WaterPanda**](#)<br>
+= <font color=#32CD32><b>TYPOS</b></font>: Fixed some typos and descriptions<br>
+
+## <font size=5em><b>v2.0.0 Dev 23</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Now at the end of the game, players who left the game after death will display the real death reason and after the reason "(Disconnected)"<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed the vent icon for some roles that are based on engineer<br>
@@ -229,7 +248,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#F6BE00><b>CHANGE</b></font>: Changed PlayerId == 0 to OwnedByHost() to fix several bugs<br>
 
 * By [**0xDrMoe**](https://github.com/0xDrMoe)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Fixed several typos, inconsistencies and mistakes in the mod itself!<br>
+= <font color=#32CD32><b>TYPOS</b></font>: Fixed several typos, inconsistencies and mistakes in the mod itself!<br>
 
 ## <font size=5em><b>v2.0.0 Dev 9</b></font><br>
 * By [**ryuk**](https://github.com/ryuk2098)<br>
@@ -267,7 +286,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix null exception error on notify roles<br>
 
 * By [**Sunnyboi**](#)<br>
-= <font color=#32CD32><b>TYPO</b></font>: Fix typos in English translations<br>
+= <font color=#32CD32><b>TYPOS</b></font>: Fix typos in English translations<br>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 \+ <font color=green><b>NEW</b></font>: New look for kill log<br>

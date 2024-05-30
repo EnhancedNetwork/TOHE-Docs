@@ -515,6 +515,9 @@ Famine (Given to anyone without bread after Famine transforms and is not voted o
 
 - Armageddon<br>
 Death (Given to everyone alive if Death is not voted out when they transform)<br>
+
+- Alive<br>
+Bug (This Death Reason occured awhile ago due to bugs, but has since been patched out)
 </details>
 
 <details>
@@ -524,6 +527,26 @@ Here's a Template Editor which you can use to edit or create templates. `From: D
 [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html)<br>
 
 The Template Editor is only 1 of the many Utilities (Also by Drakos) which are on this [Among Us Utilities](https://ultradragon005.github.io/AmongUs-Utilities/index.html) page. You can find a [Welcome Message Guide](https://ultradragon005.github.io/AmongUs-Utilities/guide.html), [Pixel Art Editor](https://ultradragon005.github.io/AmongUs-Utilities/pixelgrid.html), [Gallery](https://ultradragon005.github.io/AmongUs-Utilities/gallery.html), & also the [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) shown above.<br>
+</details>
+
+<details>
+<summary><b><font color=gray>Supported Rich Text Tags</font></b></summary>
+
+Here's a full list of Rich Text Tags that you can use for formatting. Some may not work, so keep that in mind. There is a `<font>` tag, that will not work with all fonts, it will only work with the Fonts covered in the next dropdown menu.
+[Link to List](https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.2/manual/RichTextSupportedTags.html)
+</details>
+
+<details>
+<summary><b><font color=gray>Usable Fonts/Symbols</font></b></summary>
+
+Here's a Doc covering Fonts & Symbols that you can use while creating Templates! This Doc also shows some Sprites which are technically other Symbols, as well as some Icons and what exactly they mean when you see them!
+[Link to Doc](https://docs.google.com/document/d/e/2PACX-1vQh4sc9RL_Byt3kextqngdaAuGovFO_YaxHITZsIKqcd39mUAc6sQ89sfsSRGZsHUCecfIQiDY2WtQ-/pub)
+</details>
+
+<details>
+<summary><b><font color=gray>Original Role Colors (Hex Codes)</font></b></summary>
+
+You can find the <i>original</i> Hex Codes of TOHE Roles [Here](https://github.com/0xDrMoe/TownofHost-Enhanced/blob/main/Resources/roleColor.json).
 </details>
 
 # TOHE-DATA Info

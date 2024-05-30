@@ -22,8 +22,27 @@ I'm a young developer who loves coding and gaming. I started coding when I was i
 I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++. I graduated from College with a degree in Computer Science, and I'm currently working as a freelance web developer. My main goal is to become a full-stack developer, fousing on Cybersecurity. and I'm working towards that goal.
 </details>
 
-## Lead Developers
-[**ryuk**](https://github.com/ryuk201198)：Role & Feature Coding
+## Website Assistant
+[**Pyro**](https://sites.google.com/view/pyro0tv)：Website Assistant & Moderator
+<details>
+<summary><b><font color=gray>About Me</font></b></summary>
+
+I am a Moderator in the TOHE Discord, aswell as the Website Assistant for tohre.dev. If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/pyro0tv), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
+</details>
+
+## TOHE Discord Team
+
+### Department Heads
+[**Lauryn**](#): Head of HR (Human Resources)
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+(placeholder)
+</details>
+
+---
+
+[**ryuk**](https://github.com/ryuk201198)：Head of Development
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -31,7 +50,70 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 </details>
 
 ---
+[**Jackler**](#): Head of Tech Ops
+<details>
+<summary><b><font color=gray>About</font></b></summary>
 
+(placeholder)
+</details>
+
+### Staff Team
+
+[**Jackler**](#): Head of Tech Ops
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+(placeholder)
+</details>
+
+---
+
+[**FieryFlower**](#): Sr. Moderator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+(placeholder)
+</details>
+
+---
+
+[**LiLPEA**](#): Sr. Moderator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+(placeholder)
+</details>
+
+---
+
+[**Laikrai**](#): Moderator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+(placeholder)
+</details>
+
+---
+
+[**Essence**](#): Moderator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+(placeholder)
+</details>
+
+---
+
+[**mattbr**](#): Helper
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+(placeholder)
+</details>
+
+## TOHE Team
+
+### Contributors
 [**Tommy-XL**](https://github.com/Tommy-XL)：Role & Feature Coding, <font color=#0036a7><b>Russian</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -39,15 +121,7 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 I love playing games (I mostly play all games on PlayStation). I especially pay attention to the soundtracks in games/anime, for example in the game "Undertale" and in the anime "Death Note", they are very good. I'm interested in programming, but I really started programming after Karped stopped being a TOHE developer.
 </details>
 
-## Website Developer
-[**Pyro**](https://sites.google.com/view/pyro0tv)：Website Developer/Assistant
-<details>
-<summary><b><font color=gray>About Me</font></b></summary>
-
-I am a Moderator in the TOHE Discord, aswell as a Website Developer for tohre.dev. I started helping outIf you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/pyro0tv), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
-</details>
-
-## Contributors
+---
 
 [**NikoCat233**](https://github.com/NikoCat233): Role/Feature Coding
 <details>

@@ -33,15 +33,6 @@ I am a Moderator in the TOHE Discord, aswell as the Website Assistant for tohre.
 ## TOHE Discord Team
 
 ### Department Heads
-[**Lauryn**](#): Head of HR (Human Resources)
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-(placeholder)
-</details>
-
----
-
 [**ryuk**](https://github.com/ryuk201198)：Head of Development
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -50,16 +41,8 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 </details>
 
 ---
-[**Jackler**](#): Head of Tech Ops
-<details>
-<summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
-</details>
-
-### Staff Team
-
-[**Jackler**](#): Head of Tech Ops
+[**Lauryn**](#): Head of HR (Human Resources)
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -67,12 +50,19 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 </details>
 
 ---
+[**Jackler**](https://linktr.ee/Jackler): Head of Tech Ops
+<details>
+<summary><b><font color=gray>About</font></b></summary>
 
+Helping out with Tickets, bot related things... basically anything to do with the Discord.
+</details>
+
+### Staff Team
 [**FieryFlower**](#): Sr. Moderator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I help out with ensuring the server stays a welcoming and fun community for all who join it. I enjoy painting in my spare time while my dogs try to steal my paintbrushes! When I'm not on Among Us I enjoy playing cozy or scary games! I have 2 dogs and 1 cat who I love more than words could describe.
 </details>
 
 ---
@@ -81,7 +71,7 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I help keep the TOHE community a safe and welcoming place for everyone. So if there’s an issue, please feel free to reach out! I love to play video games (but I’m a sore loser lol) and spend time with my family. 
 </details>
 
 ---

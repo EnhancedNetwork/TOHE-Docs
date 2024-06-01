@@ -523,25 +523,25 @@ Bug (This Death Reason occured awhile ago due to bugs, but has since been patche
 <details>
 <summary><b><font color=gray>Icons: Explained</font></b></summary>
 
-<font color=#ff1919>†</font>- This player was spelled by a <font color=#ff1919>Witch</font>
-<font color=#fc04fc>乂</font> - This player was hexed by a <font color=#fc04fc>Hex Master</font>
-<font color=#6697FF>◈</font> - This player was shrouded by a <font color=6697FF>Shroud</font>
-<font color=EDC240>⦿</font> - This player is being dueled by a <font color=#EDC240>Pirate</font>
-<font color=#8464bc>?!</font> - This player is being quizzed by a <font color=#8464bc>Quizmaster</font>
-<font color=#b8fb4f>⚠</font> - This player is a <font color=#b8fb4f>Snitch</font> who is about to finish their tasks
-<font color=#f8fa87>⚠</font> - This player is a <font color=#f8fa87>Solsticer</font> who is about to finish their tasks
-<font color=#39FF14>✚</font> - This player has a <font color=#39FF14>Medic</font> Shield
-<font color=#999DA0>♦</font> - This player is the <font color=#999DA0>Executioner</font>'s target
-<font color=#2E856E>♦</font> - This player is your <font color=#2E856E>Lawyer</font>
-<font color=#FFA500>♦</font> - This player is your <font color=#FFA500>Follower</font>
-<font color=#fc1494>♥</font> - This player is a <font color=#fc1494>Romantic</font>
-<font color=#ff9ace>♥</font> - This player is a <font color=#ff9ace>Lover</font>
-<font color=#f0ef5b>★</font> - This player is a <font color=#f0ef5b>Super Star</font>
-<font color=#f46f4e>★</font> - This player is a <font color=#f46f4e>Cyber</font>
-<font color=#5573aa>★</font> - This player is a <font color=#5573aa>Marshall</font>
-<font color=#4682b4>☆</font> - This player is a <font color=#4682b4>Captain</font>
-<font color=#404040>☜</font> - This player is a teammate of the <font color=#404040>Schrodinger's Cat</font>
-<font color=#ff1919>╳</font> - This player is blackmailed by the <font color=#ff1919>Blackmailer</font>
+<font color=#ff1919>†</font>- This player was spelled by a <font color=#ff1919>Witch</font><br>
+<font color=#fc04fc>乂</font> - This player was hexed by a <font color=#fc04fc>Hex Master</font><br>
+<font color=#6697FF>◈</font> - This player was shrouded by a <font color=6697FF>Shroud</font><br>
+<font color=EDC240>⦿</font> - This player is being dueled by a <font color=#EDC240>Pirate</font><br>
+<font color=#8464bc>?!</font> - This player is being quizzed by a <font color=#8464bc>Quizmaster</font><br>
+<font color=#b8fb4f>⚠</font> - This player is a <font color=#b8fb4f>Snitch</font> who is about to finish their tasks<br>
+<font color=#f8fa87>⚠</font> - This player is a <font color=#f8fa87>Solsticer</font> who is about to finish their tasks<br>
+<font color=#39FF14>✚</font> - This player has a <font color=#39FF14>Medic</font> Shield<br>
+<font color=#999DA0>♦</font> - This player is the <font color=#999DA0>Executioner</font>'s target<br>
+<font color=#2E856E>♦</font> - This player is your <font color=#2E856E>Lawyer</font><br>
+<font color=#FFA500>♦</font> - This player is your <font color=#FFA500>Follower</font><br>
+<font color=#fc1494>♥</font> - This player is a <font color=#fc1494>Romantic</font><br>
+<font color=#ff9ace>♥</font> - This player is a <font color=#ff9ace>Lover</font><br>
+<font color=#f0ef5b>★</font> - This player is a <font color=#f0ef5b>Super Star</font><br>
+<font color=#f46f4e>★</font> - This player is a <font color=#f46f4e>Cyber</font><br>
+<font color=#5573aa>★</font> - This player is a <font color=#5573aa>Marshall</font><br>
+<font color=#4682b4>☆</font> - This player is a <font color=#4682b4>Captain</font><br>
+<font color=#404040>☜</font> - This player is a teammate of the <font color=#404040>Schrodinger's Cat</font><br>
+<font color=#ff1919>╳</font> - This player is blackmailed by the <font color=#ff1919>Blackmailer</font><br>
 </details>
 
 <details>

@@ -48,11 +48,11 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 
 ---
 
-[**Lauryn**](#): Head of HR (Human Resources)
+[**Lauryn**](#): <font color=#f0b6d5>Head of HR (Human Resources)</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm just a girl who loves to play video games and is obsessed with everything pink. My job is to keep all aspects of TOHE (the server and mod itself) a fun and welcoming place for all. This means I'm keeping everyone in check, including your very own project lead! 😉
+I'm just a girl who loves to play video games and is obsessed with everything <font color=#f0b6d5>pink</font>! My job is to keep all aspects of TOHE (the server and mod itself) a fun and welcoming place for all. This means I'm keeping everyone in check, including your very own project lead! 😉
 </details>
 
 ---

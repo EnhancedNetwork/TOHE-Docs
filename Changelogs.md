@@ -15,20 +15,28 @@ contributors: false
 (Only the Latest Changes to Mod/Site will be displayed.)
 
 ---
-## <font size=5em><b>Latest Mod Changelogs: v2.0.0 Dev 23</b></font><br>
+## <font size=5em><b>Latest Mod Changelogs: v2.0.0 Dev 24 HOTFIX 1</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Now at the end of the game, players who left the game after death will display the real death reason and after the reason "(Disconnected)"<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed the vent icon for some roles that are based on engineer<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mimic cooldown for Glitch<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Crusader<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken camouflage (temporarily revert some improvements for EAC)<br>
+
+## <font size=5em><b>v2.0.0 Dev 24</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed assign Lovers<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Phantom now cannot be Infected by Virus<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Ruthless Romantic is now Neutral Evil<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed black screens during role assign (I hope)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Scientist assign for desync roles (I hope)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed uses remaining sprite (for Vector and QuickShooter)<br>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed double icons for shrouded players<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Zombie<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Glitch errors (kill button did not work)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed all Duplicate Icons<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bloodmoon<br>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Added lobby timer in "template.txt"<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvements for EAC<br>
+
+* By [**WaterPanda**](#)<br>
+= <font color=#32CD32><b>TYPOS</b></font>: Fixed some typos and descriptions<br>
 
 
 ## <font size=5em><b>Latest Site Changelogs:</b></font><br>

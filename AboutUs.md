@@ -48,10 +48,11 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I'm just a girl who loves to play video games and is obsessed with everything pink. My job is to keep all aspects of TOHE (the server and mod itself) a fun and welcoming place for all. This means I'm keeping everyone in check, including your very own project lead! 😉
 </details>
 
 ---
+
 [**Jackler**](https://linktr.ee/Jackler): Head of Tech Ops
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -83,7 +84,7 @@ I help keep the TOHE community a safe and welcoming place for everyone. So if th
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I help out in the TOHE Discord. I'm working on the Modded Among Us Queue bot. Some hobbies I have are playing games & programming. My favorite game is probably Valorant.
 </details>
 
 ---
@@ -92,7 +93,7 @@ I help keep the TOHE community a safe and welcoming place for everyone. So if th
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I help with moderating the TOHE Discord. Some of my hobbies are Fortnite, Discord, and other games. I also like to joke around and poke fun of myself.
 </details>
 
 ---

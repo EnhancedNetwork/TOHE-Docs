@@ -10,9 +10,10 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 :::
 
-<font size=4em>Not at all close to finished, many "About" dropdowns may have Placeholder Bios</font>
+<font size=4em>Heavily WORK-IN-PROGRESS, many "About" dropdowns may have Placeholder Bios</font>
 
 ## Project Lead
+
 [**Moe**](https://github.com/0xDrMoe): Project Lead, Website Maintainer/Developer
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -23,6 +24,7 @@ I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++.
 </details>
 
 ## Website Assistant
+
 [**Pyro**](https://sites.google.com/view/pyro0tv)：Website Assistant & Moderator
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
@@ -31,8 +33,8 @@ I am a Moderator in the TOHE Discord, aswell as the Website Assistant for tohre.
 </details>
 
 ## TOHE Discord Team
-
 ### Department Heads
+
 [**ryuk**](https://github.com/ryuk201198)：Head of Development
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -58,6 +60,7 @@ Helping out with Tickets, bot related things... basically anything to do with th
 </details>
 
 ### Staff Team
+
 [**FieryFlower**](#): Sr. Moderator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -102,8 +105,8 @@ I help keep the TOHE community a safe and welcoming place for everyone. So if th
 </details>
 
 ## TOHE Team
-
 ### Contributors
+
 [**Tommy-XL**](https://github.com/Tommy-XL)：Role & Feature Coding, <font color=#0036a7><b>Russian</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>

@@ -34,7 +34,7 @@ I am a Moderator in the TOHE Discord, aswell as the Website Assistant for tohre.
 
 ## TOHE Discord Team
 ### Department Heads
----
+
 [**ryuk**](https://github.com/ryuk201198)：Head of Development
 <details>
 <summary><b><font color=gray>About</font></b></summary>

@@ -1,14 +1,14 @@
 ---
 lang: en-US
 title: Doll Master
-prev: /options/settings/Impostors.html
-next: /options/settings/Impostors.html
+prev: /options/Settings/Impostors.html
+next: /options/Settings/Impostors.html
 ---
 
 # <font color=red>🎎 <b>Doll Master</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
 ---
 
-As the Doll Master, you can temporarily take control of any player by using the Shapeshift button and to make them do your Deeds, be careful though while possessing, the person you possess and your main body is fragile to killing roles!
+As the Doll Master, you can temporarily take control of any player by using the Shapeshift button and to make them do your Deeds!
 
 * Kill Cooldown
   * Set how long the Doll Master needs to wait to perform a kill
@@ -24,4 +24,4 @@ Target dies after possession
   * <font color=red>OFF</font>: Doll Master's target will not die after the Duration of the Possession is finished
 
 
-> From: ToUR
+> From: D1GQ

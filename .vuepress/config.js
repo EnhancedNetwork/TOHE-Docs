@@ -258,7 +258,9 @@ export default defineUserConfig({
             { text: 'Crewmate', link: '/options/Crewmates/Vanilla/Crewmate.html' },
             { text: 'Engineer', link: '/options/Crewmates/Vanilla/Engineer.html' },
             { text: 'Guardian Angel', link: '/options/Crewmates/Vanilla/GuardianAngel.html' },
+            { text: 'Noisemaker', link: '/options/Crewmates/Vanilla/Noisemaker.html' },
             { text: 'Scientist', link: '/options/Crewmates/Vanilla/Scientist.html' },
+            { text: 'Tracker', link: '/options/Crewmates/Vanilla/Tracker.html' },
           ],
           '/options/Impostors/Concealing/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
@@ -367,6 +369,7 @@ export default defineUserConfig({
           '/options/Impostors/Vanilla/': [
             { text: 'Back to Impostors', link: '/options/Settings/Crewmates.html' },
             { text: 'Impostor', link: '/options/Impostors/Vanilla/Impostor.html' },
+            { text: 'Phantom', link: '/options/Impostors/Vanilla/Phantom.html' },
             { text: 'Shapeshifter', link: '/options/Impostors/Vanilla/Shapeshifter.html' },
           ],
           '/options/Neutrals/Benign': [

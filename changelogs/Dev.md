@@ -14,7 +14,35 @@ sidebar:
 To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester] (Content Creator with your TOHE videos having 600+ views on average).
 
 ---
-## <font size=5em><b>Latest: v2.0.0 Dev 24 HOTFIX 1</b></font><br>
+## <font size=5em><b>Latest: v2.0.0 Dev 25</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed assign tasks<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when icons not showing for non-host modded players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Knight Cooldown<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Swapper and Councillor for non-host modded<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Traitor<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Shaman<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Lovers assign<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bloodlust<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Provocateur<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Virus<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some null errors<br>
+
+* By [**D1GQ**](https://github.com/D1GQ)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved showing role info for vanilla players<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Evil Tracker and Kamikaze RPC for non-host modded players<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added delay for sending messages for fortegreen players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Eraser<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Gangser<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Reset Sheriff and Knight cooldown if it has no more kills<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed double trigger for Vampire<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Disable lobby timer on modded servers (no need this)<br>
+
+## <font size=5em><b>v2.0.0 Dev 24 HOTFIX 1</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken camouflage (temporarily revert some improvements for EAC)<br>
 

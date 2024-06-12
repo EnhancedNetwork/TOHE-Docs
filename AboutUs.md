@@ -104,11 +104,11 @@ I help with moderating the TOHE Discord. Some of my hobbies are Fortnite, Discor
 
 ---
 
-[**mattbr**](#): Helper
+[**mattbr**](#): Legal Advisor
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+HE STILL HASNT SENT ME ANYTHING AND THE SITES GETTING UPDATED
 </details>
 
 ---

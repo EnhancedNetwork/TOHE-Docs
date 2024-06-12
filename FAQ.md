@@ -131,7 +131,7 @@ Their presence has no effect on the game, and all players know who the Game Mast
 2. Become a Contributor, Tester, or Sponsor (Insider+) for Dev Access.<br>
 Read near the bottom of the [Install](/Install.html) page.
 
-## Why can't I post in #role-ideas in TOHE Discord?
+## Why can't I post in #role-ideas in the TOHE Discord?
 
 Role Ideas are currently locked to Sponsors + Contributors. This is so that the Developers/Contributors of TOHE can catch up on role ideas. The channel will open back up at a later date, but there's not a specifc time.
 

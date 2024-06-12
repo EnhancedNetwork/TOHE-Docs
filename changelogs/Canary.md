@@ -15,7 +15,36 @@ sidebar:
 To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/tohe) and visit #canary-builds, then download the latest dll!
 
 ---
-## <font size=5em><b>Latest: v2.0.0 Canary 1</b></font><br>
+## <font size=5em><b>Latest: v2.0.0 Canary 3</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Wilding, Mundane, Mini, Pixie, and Egoist<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Gangster can no longer spawn with Swift<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Sunnyboy now has no tasks<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Ruthless Romantic is now Neutral Killer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Copycat being able to copy Nice Guesser<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Madmate in Guesser UI<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Tracefinder in Meeting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Camouflaguer<br>
+
+* By [**D1GQ**](https://github.com/D1GQ)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some Fixes and Improvements for Doppelganger<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Modded client seeing the Medic shield icon when Medic is dead (hopefilly).<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Kamikaze missing description<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improvements for Ghastly<br>
+
+* By [**WaterPanda**](#)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix inappropriate words (according to innersloth) in role descriptions<br>
+= <font color=#fdf08e><b>NOTE</b></font>: Compiled the patch notes!<br>
+
+## <font size=5em><b>v2.0.0 Canary 2 Hotfix 1</b></font><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed errors in logs and fortegreen players in lobby<br>
+
+## <font size=5em><b>v2.0.0 Canary 2</b></font><br>
+= <font color=#1376f0><b>BUG FIXES</b></font>: Lots of fixes, more stability<br>
+
+## <font size=5em><b>v2.0.0 Canary 1</b></font><br>
 * By [**Marg**](https://github.com/MargaretTheFool)<br>
 \+ <font color=green><b>NEW</b></font>: Mini-Game Command: /8ball (Idea - Pyro)<br>
 

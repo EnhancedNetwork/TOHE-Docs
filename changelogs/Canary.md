@@ -15,7 +15,27 @@ sidebar:
 To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/tohe) and visit #canary-builds, then download the latest dll!
 
 ---
-## <font size=5em><b>Latest: v2.0.0 Canary 3</b></font><br>
+## <font size=5em><b>Latest: v2.0.0 Canary 4</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Command "/kcount" (Now you can use "/kc" and added setting "Show Madmates")<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Crewmate win now shows as it should<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Swift when they kill Oiiai<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Chameleon<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for Mini<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Pelican and Romantic when their role was changed<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when modded clients based on impostors can see sabotage button after vents<br>
+
+* By [**D1GQ**](https://github.com/D1GQ)<br>
+\+ <font color=green><b>NEW</b></font>: Setting for Doppelganger: "Last victim can see role and add-on info of alive players as ghost"<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that allowed imposter teammate to kill Dollmasters main body when controlling someone<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvments in code<br>
+
+* By [**WaterPanda**](#)<br>
+= <font color=#32CD32><b>TYPOS</b></font>: Fixed some typos and miscellaneous strings<br>
+
+## <font size=5em><b>v2.0.0 Canary 3</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Wilding, Mundane, Mini, Pixie, and Egoist<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Gangster can no longer spawn with Swift<br>

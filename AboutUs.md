@@ -104,11 +104,11 @@ I help with moderating the TOHE Discord. Some of my hobbies are Fortnite, Discor
 
 ---
 
-[**mattbr**](#): Legal Advisor
+[**Matt**](#): Legal Advisor
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-HE STILL HASNT SENT ME ANYTHING AND THE SITES GETTING UPDATED
+I'm 25 years old from the United States. I am a bar certified attorney in contract law as well as professional broadcast engineer working full time for ESPN. In my free time, I run a non-profit food ministry in Louisiana as well as enjoy watching sports.
 </details>
 
 ---

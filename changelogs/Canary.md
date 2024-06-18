@@ -15,6 +15,36 @@ sidebar:
 To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/tohe) and visit #canary-builds, then download the latest dll!
 
 ---
+## <font size=5em><b>Latest: v2.0.0 Canary 5</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Option: Everyone Can See Death Reason<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Now when host use `/r` command it's not displayed for everyone (if you want to display for everyone, use `/r {role} all`)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Doppelganger is now Experimental<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed role name size for modded and vanilla<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed AntiBlackOut check<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Nice Mini can no longer get ghost roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when 3 settings for Judge was not used<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed buttons is active when player was<br> guessed
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bastion for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Madmates and other bugs in Guesser Mode<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Lookout, Visionary, Cyber, Randomizer, Copycat, Shroud, Shaman, Lawyer, Detective, Demon, Bandit<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Swift & Berserker interaction(s) <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Spy & Necromancer interaction when the killer is a ghost <br>
+
+* By [**WaterPanda**](#)<br>
+= <font color=#32CD32><b>TYPOS</b></font>: More fixes typos and stuff<br>
+\+ <font color=green><b>NEW</b></font>: Command "/icon" and "/icons" now it's work and updated<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Swift with Lightning and Hangman<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when setting "Sidekick can kill jackal" not working<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when kill cooldown not going when press F1 or F2<br>
+
+* By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Allow players to be banned by only using first name (In BanList.txt)<br>
+
 ## <font size=5em><b>Latest: v2.0.0 Canary 4</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Command "/kcount" (Now you can use "/kc" and added setting "Show Madmates")<br>

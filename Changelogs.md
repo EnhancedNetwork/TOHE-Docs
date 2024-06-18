@@ -15,26 +15,35 @@ contributors: false
 (Only the Latest Changes to Mod/Site will be displayed.)
 
 ---
-## <font size=5em><b>Latest Mod Changelogs: v2.0.0 Canary 4</b></font><br>
+## <font size=5em><b>Latest Mod Changelogs: v2.0.0 Canary 5</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Command "/kcount" (Now you can use "/kc" and added setting "Show Madmates")<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Crewmate win now shows as it should<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Swift when they kill Oiiai<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Chameleon<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for Mini<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Pelican and Romantic when their role was changed<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when modded clients based on impostors can see sabotage button after vents<br>
-
-* By [**D1GQ**](https://github.com/D1GQ)<br>
-\+ <font color=green><b>NEW</b></font>: Setting for Doppelganger: "Last victim can see role and add-on info of alive players as ghost"<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that allowed imposter teammate to kill Dollmasters main body when controlling someone<br>
+\+ <font color=green><b>NEW</b></font>: Option: Everyone Can See Death Reason<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Now when host use `/r` command it's not displayed for everyone (if you want to display for everyone, use `/r {role} all`)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Doppelganger is now Experimental<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed role name size for modded and vanilla<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed AntiBlackOut check<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Nice Mini can no longer get ghost roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when 3 settings for Judge was not used<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed buttons is active when player was<br> guessed
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bastion for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Madmates and other bugs in Guesser Mode<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Lookout, Visionary, Cyber, Randomizer, Copycat, Shroud, Shaman, Lawyer, Detective, Demon, Bandit<br>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvments in code<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Swift & Berserker interaction(s) <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Spy & Necromancer interaction when the killer is a ghost <br>
 
 * By [**WaterPanda**](#)<br>
-= <font color=#32CD32><b>TYPOS</b></font>: Fixed some typos and miscellaneous strings<br>
+= <font color=#32CD32><b>TYPOS</b></font>: More fixes typos and stuff<br>
+\+ <font color=green><b>NEW</b></font>: Command "/icon" and "/icons" now it's work and updated<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Swift with Lightning and Hangman<br>
 
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when setting "Sidekick can kill jackal" not working<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when kill cooldown not going when press F1 or F2<br>
+
+* By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Allow players to be banned by only using first name (In BanList.txt)<br>
 
 ## <font size=5em><b>Latest Site Changelogs:</b></font><br>
 

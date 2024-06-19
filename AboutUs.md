@@ -12,15 +12,26 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 <font size=4em>Heavily WORK-IN-PROGRESS, many "About" dropdowns may have Placeholder Bios</font>
 
-## Project Lead
+## President
 
-[**Moe**](https://github.com/0xDrMoe): Project Lead, Website Maintainer/Developer
+[**Moe**](https://github.com/0xDrMoe): President, Website Maintainer/Developer
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
 I'm a young developer who loves coding and gaming. I started coding when I was in High School, and I've been coding for 6 years. I'm currently learning several coding languages, but I speak English, French and Arabic verbally! I started playing Among Us when it released, and I've been playing it ever since. I stopped when the game died down after Airship, but I stumbled upon TOHE and I loved it. I decided to help out with the mod, and somehow I'm currently the Project Lead.
 
 I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++. I graduated from College with a degree in Computer Science, and I'm currently working as a freelance web developer. My main goal is to become a full-stack developer, fousing on Cybersecurity. and I'm working towards that goal.
+</details>
+
+---
+
+## Co-President
+
+[**ryuk**](https://github.com/ryuk201198)：Co-President, Head of Development
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I help in role and feature coding, and also help in fixing bugs from time to time. I love listening to music and coding. I usually prefer to code in python whether it may be for competitive coding or a small program. I also love playing action-adventure games with a good story line. <s>I actually coded my first role with 0 knowledge of C# because someone who shall not be named couldn't code Vulture.</s> xV and Solarflare helped me a lot initially in helping me code features and roles.
 </details>
 
 ---
@@ -36,17 +47,7 @@ I am a Moderator in the TOHE Discord, aswell as the Website Assistant for tohre.
 
 ---
 
-## TOHE Discord Team
-### Department Heads
-
-[**ryuk**](https://github.com/ryuk201198)：Head of Development
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-I help in role and feature coding, and also help in fixing bugs from time to time. I love listening to music and coding. I usually prefer to code in python whether it may be for competitive coding or a small program. I also love playing action-adventure games with a good story line. <s>I actually coded my first role with 0 knowledge of C# because someone who shall not be named couldn't code Vulture.</s> xV and Solarflare helped me a lot initially in helping me code features and roles.
-</details>
-
----
+## Department Heads
 
 [**Lauryn**](#): <font color=#f0b6d5>Head of HR (Human Resources)</font>
 <details>
@@ -66,7 +67,7 @@ Helping out with Tickets, bot related things... basically anything to do with th
 
 ---
 
-### Staff Team
+## Staff Team
 
 [**FieryFlower**](#): Sr. Moderator
 <details>

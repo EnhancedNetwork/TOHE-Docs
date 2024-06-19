@@ -16,7 +16,7 @@ actions:
   - text: FAQ
     link: /FAQ.html
     type: secondary
-footer: "© 2023 By Town of Host: Enhanced"
+footer: "© 2023 By The Enhanced Network"
 ---
 
 <center>

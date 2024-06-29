@@ -30,6 +30,7 @@ sidebar:
 = <font color=#8708c7><b>TRANSLATIONS</b></font>: Recently added/finished Translations for the mod, (The Tag on the change itself will be custom) <br>
 = <font color=#fdf08e><b>NOTES</b></font>: Not necessarily a big change/addition/etc, but important to keep in mind. <br>
 = <font color=#ece218><b>NOTICE</b></font>: Small Info/Announcement. (Typically relating to website)
+= <font color=#de6707><b>KNOWN BUG</b></font>: Bugs that are currently being worked on, or are not currently resolvable.
 
 ## Translation Tags
 \+ <font color=#002654><b>French</b></font>: French Translation of the mod.<br>

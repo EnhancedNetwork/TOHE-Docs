@@ -15,7 +15,60 @@ sidebar:
 To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/tohe) and visit #canary-builds, then download the latest dll!
 
 ---
-## <font size=5em><b>Latest: v2.0.0 Canary 5</b></font><br>
+## <font size=5em><b>Known Bugs</b></font><br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Hide & Seek is temporarily not supported<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Noisemaker and Phantom do not work for some Impostor Bases (crewmates and neutral roles that are based on an Impostor)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: When changing presets, the settings are not updated instantly, you MUST close and reopen the settings<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side (Seems to be fixed in NA)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: When dlekS ehT is selected, the game lags in the lobby for vanilla players (during the game everything works fine)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: EAC may not work in some places<br>
+
+## <font size=5em><b>Latest: v2.0.0 Canary 7</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Optimize Settings and some fix and improvements (Thanks EHR Gurge44)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when modded clients can press start button<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for invis roles (Swooper, Chameleon and etc)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Solsticer for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when player got stuck in vent when have add-on Rainbow and resets animation state on ladder<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Shroud for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Imitator sets 300 cooldown<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed names in meeting when mushroom mixup is active<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed intro sounds<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Tracker setting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Detective<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Eraser can't guess erased players<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Block Punching Bag guessing if player tries to guess it again<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Ping position<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when sometimes modded clients sets death reason as "Alive"<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Desync Impostors can no longer get ghost roles (Because it causes black screens)<br>
+
+* By [**WaterPanda**](#)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Schizophrenic renamed to Paranoia<br>
+
+## <font size=5em><b>v2.0.0 Canary 6</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL) & [**Pietro**](https://github.com/Pietrodjaowjao), & [**Drakos**](https://github.com/Ultradragon005), & [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#ece218><b>NOTICE</b></font>: Support latest AU Version (v2024.6.18)<br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Settings UI (code base ported from TOH-Y)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for Lovers<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Kill cooldown continue in vent when Dialogue Box is open (When you press F1 or F2)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Vampire and Poisoner cannot get Tricky<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Double Meeting Ending<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Swooper timer (possibly)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Instigator wouldn't work<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Shaman and Shroud<br>
+
+* By [**D1GQ**](https://github.com/D1GQ)<br>
+\+ <font color=green><b>NEW</b></font>: TOHE Dropship Decorations (Can be disabled in client settings)<br>
+
+* By [**WaterPanda**](#)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Masochist renamed to Punching Bag<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Bloodlust renamed to Bloodthirst<br>
+
+## <font size=5em><b>v2.0.0 Canary 5</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Option: Everyone Can See Death Reason<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Now when host use `/r` command it's not displayed for everyone (if you want to display for everyone, use `/r {role} all`)<br>
@@ -45,7 +98,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Allow players to be banned by only using first name (In BanList.txt)<br>
 
-## <font size=5em><b>Latest: v2.0.0 Canary 4</b></font><br>
+## <font size=5em><b>v2.0.0 Canary 4</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Command "/kcount" (Now you can use "/kc" and added setting "Show Madmates")<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Crewmate win now shows as it should<br>

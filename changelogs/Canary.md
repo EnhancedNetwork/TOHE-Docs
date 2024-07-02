@@ -17,13 +17,33 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 ---
 ## <font size=5em><b>Known Bugs</b></font><br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Hide & Seek is temporarily not supported<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: Noisemaker and Phantom do not work for some Impostor Bases (crewmates and neutral roles that are based on an Impostor)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Phantom does not work for some Impostor Bases (Crewmates and Neutral roles that are based on an Impostor)<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: When changing presets, the settings are not updated instantly, you MUST close and reopen the settings<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side (Seems to be fixed in NA)<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: When dlekS ehT is selected, the game lags in the lobby for vanilla players (during the game everything works fine)<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: EAC may not work in some places<br>
 
-## <font size=5em><b>Latest: v2.0.0 Canary 7</b></font><br>
+## <font size=5em><b>Latest: v2.0.0 Canary 8</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Noisemaker not work for desync roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Incorrect amount of players in lobby for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed null error for Medium<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Veteran custom button not show<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Gangster<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when cooldown sets as 0<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed "/r {role}" and removed "/r {role} all"<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Puppeteer cannot get Tricky<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Romantic not change role after exiled<br>
+\- <font color=red><b>REMOVED</b></font>: Removed options background<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed Mod stamp position<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Jailer when they try kill Veteran<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some small fixes<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added custom sounds for Eraser and Oiiai after erased role<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed version check for modded clients<br>
+
+## <font size=5em><b>v2.0.0 Canary 7</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Optimize Settings and some fix and improvements (Thanks EHR Gurge44)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when modded clients can press start button<br>

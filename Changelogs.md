@@ -25,6 +25,14 @@ contributors: false
 = <font color=#de6707><b>KNOWN BUG</b></font>: EAC may not work in some places<br>
 
 ## <font size=5em><b>Changelogs</b></font><br>
+
+## <font size=5em><b>Canary 8 Hotfix 1</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when game end in start game by task win
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Gangster can't recruit anyone
+= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes
+
+## <font size=5em><b>Canary 8</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Noisemaker not work for desync roles<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Incorrect amount of players in lobby for modded clients<br>

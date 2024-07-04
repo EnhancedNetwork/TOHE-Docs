@@ -23,6 +23,12 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#de6707><b>KNOWN BUG</b></font>: When dlekS ehT is selected, the game lags in the lobby for vanilla players (during the game everything works fine)<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: EAC may not work in some places<br>
 
+## <font size=5em><b>Latest: v2.0.0 Canary 8 Hotfix 1</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when game end in start game by task win
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Gangster can't recruit anyone
+= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes
+
 ## <font size=5em><b>Latest: v2.0.0 Canary 8</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Noisemaker not work for desync roles<br>

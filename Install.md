@@ -49,7 +49,6 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, or I
 
 3. Locate your AmongUs install. Find Among Us and click on the 3 dots `...` > click the folder icon button on the installation bar.<br>
 ![image](./images/EpicInstallation.png)
-.
 
 4. Select all of the files in your Among Us installation and copy them to the folder that now has the files from the TOHE release. The folder should now look something like this:<br>
 ![image](./images/EpicFiles.png)

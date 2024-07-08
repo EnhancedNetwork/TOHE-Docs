@@ -15,5 +15,11 @@ Below are some member submitted presets:
 
 ---
 
-#### Marg's Regular Settings & Extreme Chaos Settings - Submitted by: margaretthefool
-<a href="/presets/MargsPreset.json" download>Download this Preset</a> Important Notes: Preset 1 is Marg's Regular Settings. Preset 2 is Marg's Extreme Chaos Settings.
+<details>
+<summary><b><font color=#d395b4>Marg's Regular Settings & Extreme Chaos Settings</font></b></summary>
+
+<a href="/presets/MargsPreset.json" download>Download this Preset</a><br>
+Important Notes: Preset 1 is Marg's Regular Settings. Preset 2 is Marg's Extreme Chaos Settings.
+
+> Submitted by: Marg
+</details>

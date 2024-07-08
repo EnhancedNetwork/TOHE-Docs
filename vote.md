@@ -8,14 +8,7 @@ sidebar:
     - { text: Visit our Store, link: https://store.tohre.dev/ }
     - { text: Check out our Among Us Mod!, link: https://tohre.dev/ }
     - { text: Join our Discord, link: https://discord.gg/tohe }
-    - { text: Follow our socials, children: [
-        { text: Twitter, link: https://twitter.com/TOHEnhanced },
-        { text: Instagram, link: https://instagram.com/TOHEnhanced },
-        { text: YouTube, link: https://youtube.com/@TOHEnhanced },
-        { text: Reddit, link: https://reddit.com/r/TOHE },
-        { text: Ko-fi, link: https://ko-fi.com/TOHE },
-        { text: TikTok, link: https://tiktok.com/@TOHEnhanced },
-    ] }
+    - { text: Support us on Ko-fi, link: https://ko-fi.com/TOHE }
 contributors: false
 ---
 
@@ -45,3 +38,8 @@ We will be introducing vote streaks soon, so stay tuned for that! Vote streaks w
 ## Vote Parties
 Vote parties are a way for you to get more rewards for voting! When the server reaches a certain amount of votes, a vote party will start! During a vote party, everyone who is online will get rewards! The more votes the server gets, the more rewards you will get! You can see the current vote party progress by looking at the vote party progress bar on the right side of your screen. You can also see the current vote party progress by running the `/voteparty` command.
 
+## Socials
+Follow us on the various platforms below!
+<center>
+<a href="https://discord.gg/tohe" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>&nbsp; <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank"><img src="https://img.shields.io/badge/Github%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a> <a href="https://ko-fi.com/tohen/" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>&nbsp;<a href="https://www.tiktok.com/@TOHEnhanced" target="_blank"><img src="https://img.shields.io/badge/TikTok%20-%231DA1F2.svg?&style=for-the-badge&logo=tiktok&logoColor=white&color=000000"/></a>&nbsp; <a href="https://twitter.com/TOHEnhanced" target="_blank"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2"/></a>&nbsp; <a href="https://www.reddit.com/r/TOHE/" target="_blank"><img src="https://img.shields.io/badge/Reddit%20-%231DA1F2.svg?&style=for-the-badge&logo=reddit&logoColor=white&color=ff4404"/></a>&nbsp; <a href="https://www.youtube.com/@TOHEnhanced" target="_blank"><img src="https://img.shields.io/badge/YouTube%20-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000"/></a>&nbsp; <a href="https://www.instagram.com/tohenhanced/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=F56040"/></a>&nbsp;
+</center>

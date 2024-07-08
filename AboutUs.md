@@ -385,6 +385,17 @@ I'm a Translator. To be specific, I'm a Dutch Translator. I draw, sometimes code
 
 ---
 
+### <font color=#1e448b><b>Dutch</b></font>
+
+[**Victor**](https://youtube.com/@BoxOfDaAmazon?si=TcHHU91EBcodllzk): <font color=#1e448b><b>Dutch</b></font> Translator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I did a little Dutch translation. Have been inactive recently. (Also known as Lankyjuice)
+</details>
+
+---
+
 ### <font color=#ffcf00><b>German</b></font>
 
 [**Eispfote**](#): <font color=#ffcf00><b>German</b></font> Translator

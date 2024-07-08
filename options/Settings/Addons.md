@@ -8,7 +8,7 @@ next: /options/settings/Experimental.html
 # <font color="#ff9ace">📋 <b>Add-ons</b></font>
 ---
 
-<b>These are modifiers that any players can acquire. There are some that help you, some that harm you, and some can do both! There are also some <font color=red>Impostor Only</font> add-ons. Each one is unique in the way it affects the player. If some add-ons are not on this page, check [Experimental Roles](/options/Settings/Experimental.html), as they may be there for testing/bug fixes.</b><br>
+<b>These are modifiers that any players can acquire. There are some that help you, some that harm you, and some can do both! There are also some <font color=red>Impostor Only</font> add-ons. Each one is unique in the way it affects the player.</b><br>
 
 <table>
 <tr>
@@ -78,7 +78,7 @@ next: /options/settings/Experimental.html
 
 ### <font color=#32a87f><b>Mixed</b></font>
 ---
-[Antidote](/options/Addons/Mixed/Antidote.html) | [Avenger](/options/Addons/Mixed/Avenger.html) | [Aware](/options/Addons/Mixed/Aware.html) | [Bloodlust](/options/Addons/Mixed/Bloodlust.html) | [Diseased](/options/Addons/Mixed/Diseased.html) | [Ghoul](/options/Addons/Mixed/Ghoul.html) | [Gravestone](/options/Addons/Mixed/Gravestone.html) | [Guesser](/options/Addons/Mixed/Guesser.html) | [OIIAI](/options/Addons/Mixed/OIIAI.html) | [Rebound](/options/Addons/Mixed/Rebound.html) | [Schizophrenic](/options/Addons/Mixed/Schizophrenic.html) | [Stubborn](/options/Addons/Mixed/Stubborn.html) | [Susceptible](/options/Addons/Mixed/Susceptible.html)
+[Antidote](/options/Addons/Mixed/Antidote.html) | [Avenger](/options/Addons/Mixed/Avenger.html) | [Aware](/options/Addons/Mixed/Aware.html) | [Bloodthirst](/options/Addons/Mixed/Bloodthirst.html) | [Diseased](/options/Addons/Mixed/Diseased.html) | [Ghoul](/options/Addons/Mixed/Ghoul.html) | [Gravestone](/options/Addons/Mixed/Gravestone.html) | [Guesser](/options/Addons/Mixed/Guesser.html) | [OIIAI](/options/Addons/Mixed/OIIAI.html) | [Paranoia](/options/Addons/Mixed/Paranoia.html) | [Rebound](/options/Addons/Mixed/Rebound.html) | [Stubborn](/options/Addons/Mixed/Stubborn.html) | [Susceptible](/options/Addons/Mixed/Susceptible.html)
 
 <br>
 

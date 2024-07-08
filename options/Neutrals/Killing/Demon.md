@@ -2,7 +2,7 @@
 lang: en-US
 title: Demon
 prev: Bloodknight
-next: Doppelganger
+next: Glitch
 ---
 
 # <font color="#68bc71">👿 <b>Demon</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

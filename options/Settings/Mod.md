@@ -5,7 +5,7 @@ prev: System
 next: Modifiers
 ---
 
-# <font color=#ffc0cb>🎮 Game Settings</font>
+# <font color=#ffc0cb>🎮 Mod Settings</font>
 ---
 
 ## <font color=#ffc0cb>📃 Standard</font>
@@ -307,6 +307,15 @@ next: Modifiers
   * Ghosts Can See Cause of Death
     * <font color=green>ON</font>: Ghosts will be able to see the cause of death of other players
     * <font color=red>OFF</font>: Ghosts will not be able to see the cause of death of other players
+  * Converted Players can be any Ghost Roles
+    * <font color=green>ON</font>: Converted Players can be any Ghost Roles
+    * <font color=red>OFF</font>: Converted Players cannot be any Ghost Roles
+  * Max Impostor Ghost Roles
+    * Set how many Impostor Ghost Roles can spawn
+   * Max Crewmate Ghost Roles
+    * Set how many Crewmate Ghost Roles can spawn
+   * Default Ability Cooldown
+    * Set how long the ability cooldown for ghosts will last by default
 
 ## <font color=#ffc0cb>⚔️ Free For All</font>
 ---

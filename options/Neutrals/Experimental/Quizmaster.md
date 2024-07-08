@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Quizmaster
-prev: /options/settings/Neutrals.html
+prev: Doppelganger
 next: /options/settings/Neutrals.html
 ---
 

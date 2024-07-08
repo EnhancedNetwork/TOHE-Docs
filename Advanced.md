@@ -4,16 +4,13 @@ title: Advanced
 contributors: false
 ---
 
-# HotKeys
+# Hot-Keys
 
+Below is a list of Hot-Keys that you can use to make your experience better while playing TOHE. You can use these Hot-Keys to perform certain actions.
+
+<details>
+<summary><b><font color=gray>Host-Only</font></b></summary>
 <table>
-<tr>
-<td colspan="3" align="center">
-<strong style="font-size: 25px">
-<b>Host-Only</b>
-</strong>
-</td>
-</tr>
 <tr>
 <td align="center"><b>Command</b></td>
 <td align="center"><b>Function</b></td>
@@ -91,15 +88,10 @@ contributors: false
 <td>get present coordinate</td>
 </tr>
 </table>
-
+</details>
+<details>
+<summary><b><font color=gray>Mod-Only</font></b></summary>
 <table>
-<tr>
-<td colspan="3" align="center">
-<strong style="font-size: 25px">
-<b>Mod-Only</b>
-</strong>
-</td>
-</tr>
 <tr>
 <td align="center"> <b>Command</b></td>
 <td align="center"> <b>Function</b></td>
@@ -128,16 +120,15 @@ contributors: false
 <td><kbd>F10</kbd></td>
 <td>Open root directory of game</td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="3" align="center">
-<strong style="font-size: 25px">
-<b>Everyone</b>
-</strong>
-</td>
+<td><kbd>Ctrl</kbd></td>
+<td>Go through Lobby Dropship walls</td>
 </tr>
+</table>
+</details>
+<details>
+<summary><b><font color=gray>Everyone</font></b></summary>
+<table>
 <tr>
 <td align="center"> <b>Command</b></td>
 <td align="center"> <b>Function</b></td>
@@ -147,6 +138,7 @@ contributors: false
 <td>Switch to full-screen (PC only)</td>
 </tr>
 </table>
+</details>
 
 # Chat Commands
 
@@ -154,13 +146,9 @@ Below is a list of commands that you can use to make your experience better whil
 
 Note: Commands in bold are considered "essential" and are recommended for all players.
 
+<details>
+<summary><b><font color=gray>Everyone</font></b></summary>
 <table>
-<tr>
-<td colspan="3" align="center">
-<strong style="font-size: 25px">
-<b>Everyone</b>
-</strong>
-</td></tr>
 <tr>
 <td align="center"> <b>Command</b></td>
 <td align="center"> <b>Function</b></td>
@@ -202,6 +190,14 @@ Note: Commands in bold are considered "essential" and are recommended for all pl
 <td>Set your color</td>
 </tr>
 <tr>
+<td><b>/tpin</b></td>
+<td><b>Teleports you inside of the Lobby Dropship</b></td>
+</tr>
+<tr>
+<td><b>/tpout</b></td>
+<td><b>Teleports you outside of the Lobby Dropship</b></td>
+</tr>
+<tr>
 <td>/qt</td>
 <td>Exit this lobby forever</td>
 </tr>
@@ -210,15 +206,10 @@ Note: Commands in bold are considered "essential" and are recommended for all pl
 <td>Fix when name cover msg content</td>
 </tr>
 </table>
-
+</details>
+<details>
+<summary><b><font color=gray>Mod-Only</font></b></summary>
 <table>
-<tr>
-<td colspan="3" align="center">
-<strong style="font-size: 25px">
-<b>Mod-Only</b>
-</strong>
-</td>
-</tr>
 <tr>
 <td align="center"> <b>Command</b></td>
 <td align="center"> <b>Function</b></td>
@@ -240,15 +231,10 @@ Note: Commands in bold are considered "essential" and are recommended for all pl
 <td>Show template text</td>
 </tr>
 </table>
-
+</details>
+<details>
+<summary><b><font color=gray>Host-Only</font></b></summary>
 <table>
-<tr>
-<td colspan="3" align="center">
-<strong style="font-size: 25px">
-<b>Host-Only</b>
-</strong>
-</td>
-</tr>
 <tr>
 <td align="center"> <b>Command</b></td>
 <td align="center"> <b>Function</b></td>
@@ -298,15 +284,10 @@ Note: Commands in bold are considered "essential" and are recommended for all pl
 <td>Force start/end meeting</td>
 </tr>
 </table>
-
+</details>
+<details>
+<summary><b><font color=gray>Moderator-Only</font></b></summary>
 <table>
-<tr>
-<td colspan="3" align="center">
-<strong style="font-size: 25px">
-<b>Moderator-Only</b>
-</strong>
-</td>
-</tr>
 <tr>
 <td align="center"> <b>Command</b></td>
 <td align="center"> <b>Function</b></td>
@@ -336,6 +317,7 @@ Note: Commands in bold are considered "essential" and are recommended for all pl
 <td>Change the color of the moderator tag</td>
 </tr>
 </table>
+</details>
 
 # Helpful Resources
 Here are some Resources that may help you understand some things relating to the mod. Such as Death Reasons, Template help, etc.
@@ -343,16 +325,17 @@ Here are some Resources that may help you understand some things relating to the
 <details>
 <summary><b><font color=gray>Death Reasons</font></b></summary>
 
-Here's a list of Death Reasons, and what makes them occur. `From: Marg (Thank you!)` [[Original Doc](https://docs.google.com/document/d/e/2PACX-1vTD5Qn3DchoADfPjxH1j11wfXzp3Is9GAMYnZYt5RePbM7OS_Iz4mNWgigQvN3rkFHh_QVfBguhV0rb/pub)]
+Here's a list of Death Reasons, and what makes them occur: [Death Reasons](https://docs.google.com/document/d/e/2PACX-1vTD5Qn3DchoADfPjxH1j11wfXzp3Is9GAMYnZYt5RePbM7OS_Iz4mNWgigQvN3rkFHh_QVfBguhV0rb/pub)<br>
+If you don't want to read the Doc, they will all be listed below!<br><br>
 
-`- Death Reason`
-`Role/Scenario: (Rough Explanation)`
+`- Death Reason`<br>
+`Role/Scenario: (Rough Explanation)`<br><br>
 
 - Kill<br>
-Any Role that can Kill (Is applied to any role that does not have a special death reason)<br>
+Any Role that can Kill (Is applied to any role that does not have a special death reason)<br><br>
 
 - Ejected<br>
-When a player is voted (Is applied when a player is voted out during a Meeting)<br>
+When a player is voted (Is applied when a player is voted out during a Meeting)<br><br>
 
 - Suicide<br>
 Unlucky (Happens to the player by chance)<br>
@@ -362,42 +345,42 @@ Deathpact (If the marked players do not meet in time)<br>
 Mastermind (If the manipulated target does not kill by the timer, or a meeting is called while they are manipulated)<br>
 Mercenary (If Mercenary does not kill by the suicide timer)<br>
 Pixie (Can only happen if Pixie suicides if target is not voted out setting is on)<br>
-Terrorist (Can only happen if Can Win by Suicide setting is on)<br>
+Terrorist (Can only happen if Can Win by Suicide setting is on)<br><br>
 
 - Disconnected<br>
-Player leaves the Game (If no cause of death was established, does not always display if the player disconnected)<br>
+Player leaves the Game (If no cause of death was established, does not always display if the player disconnected)<br><br>
 
 - Fall<br>
-Ladders on Airship/Fungle (Fall From Ladders setting)<br>
+Ladders on Airship/Fungle (Fall From Ladders setting)<br><br>
 
 - Guessed
 Evil Guesser (If a player was guessed or if a player misguessed)<br>
 Nice Guesser (If a player was guessed or if a player misguessed)<br>
 Doomsayer (If a player was guessed or if a player misguessed)<br>
 Guesser (If a player was guessed or if a player misguessed)<br>
-Guesser Mode (If a player was guessed or if a player misguessed)<br>
+Guesser Mode (If a player was guessed or if a player misguessed)<br><br>
 
 - Other<br>
-Shouldn’t happen (404: DeathReasonNotFound)<br>
+Shouldn’t happen (404: DeathReasonNotFound)<br><br>
 
 - Spelled<br>
-Witch (Given to a player marked by the Witch if the Witch isn't voted out)<br>
+Witch (Given to a player marked by the Witch if the Witch isn't voted out)<br><br>
 
 - Cursed<br>
-Cursed Wolf (Given to players killed by the Cursed Wolf's reflect)<br>
+Cursed Wolf (Given to players killed by the Cursed Wolf's reflect)<br><br>
 
 - Hexed<br>
-Hex Master (Given to a player marked by the Hex Master if the HexMaster isn't voted out)<br>
+Hex Master (Given to a player marked by the Hex Master if the HexMaster isn't voted out)<br><br>
 
 - Heartbroken<br>
-Lovers (Given to the other Lover when their Lover died)<br>
+Lovers (Given to the other Lover when their Lover died)<br><br>
 
 - Bitten<br>
-Vampire (Given to players that Vampire has used their kill button on)<br>
+Vampire (Given to players that Vampire has used their kill button on)<br><br>
 
 - Poisoned<br>
 Poisoner (Given to players that Poisoner has used their kill button on)<br>
-Alchemist (Poison Potion)<br>
+Alchemist (Poison Potion)<br><br>
 
 - Exploded<br>
 Bomber (Given to players within the radius of the Bomber when it explodes)<br>
@@ -408,7 +391,7 @@ Bastion (Given to players if they use a vent that the Bastion did)<br>
 Agitator (Given to players if they hold the Agitator's bomb (hot potato) and don't pass it on)<br>
 Taskinator (Given to player if they do a task that the Taskinator did)
 Terrorist (Given to all players when Terrorist meets their win-condition)<br>
-Burst (Given to Killer if they killed a player with Burst & failed to stay in a vent when the detonation goes off)<br>
+Burst (Given to Killer if they killed a player with Burst & failed to stay in a vent when the detonation goes off)<br><br>
 
 - Misfire
 Deceiver (Whoever Deceiver’s ability is used on)<br>
@@ -417,109 +400,110 @@ Sheriff (If Sheriff tries to kill player with role they aren’t allowed to kill
 Fireworker (If Fireworker is in their own radius when they explode)<br>
 Hater (Hater kills target when misfire setting)<br>
 Pursuer (When whoever Pursuer blanks attempts to kill)<br>
-Vengeful Romantic (If killed someone other than partner’s killer)<br>
+Vengeful Romantic (If killed someone other than partner’s killer)<br><br>
 
 - Burned
-Arsonist (Given to players that have been doused when the Arsonist vented & killed)<br>
+Arsonist (Given to players that have been doused when the Arsonist vented & killed)<br><br>
 
 - Sniped<br>
-Sniper (Given to players that have been killed by the Sniper)<br>
+Sniper (Given to players that have been killed by the Sniper)<br><br>
 
 - Revenge
 Avenger (Happens to a random player when player with Avenger is killed)<br>
 Randomizer (Happens by chance)<br>
 Retributionist (Whoever Retributionist kills using their '/rv' command)<br>
 Butcher (If Butcher kills Avenger then EVERYONE gets this)<br>
-Nemesis (Whoever Nemesis kills using their '/rv' command)<br>
+Nemesis (Whoever Nemesis kills using their '/rv' command)<br><br>
 
 - Execution<br>
-Jailer (Given to the players that the Jailer has jailed & killed)<br>
+Jailer (Given to the players that the Jailer has jailed & killed)<br><br>
 
 - Eaten<br>
-Pelican (Given to the players that the Pelican has used their kill button on)<br>
+Pelican (Given to the players that the Pelican has used their kill button on)<br><br>
 
 - Victim<br>
 Hater (Given to the player that the Hater successfully killed)<br>
 Revolutionist (Given to the player that the Revolutionist attempted to recruit)<br>
-Bodyguard (Given to the Bodyguard themselves)<br>
+Bodyguard (Given to the Bodyguard themselves)<br><br>
 
 - Quantization<br>
-Lightning (Given if a player touches another player after becoming Quantum Ghost)<br>
+Lightning (Given if a player touches another player after becoming Quantum Ghost)<br><br>
 
 - Overtired<br>
-Workholic (Given to the Workholic if they complete their tasks)<br>
+Workholic (Given to the Workholic if they complete their tasks)<br><br>
 
 - Ashamed<br>
-Workaholic (Given to everyone else alive if Workaholic completes their tasks)<br>
+Workaholic (Given to everyone else alive if Workaholic completes their tasks)<br><br>
 
 - Destroyed<br>
 Provocateur (Given to the Provocateur's target)<br>
-Crusader (Given to Crusader if it tries to kill Pestilence)<br>
+Crusader (Given to Crusader if it tries to kill Pestilence)<br><br>
 
 - Dismembered<br>
-Butcher (Given to players the Butcher has killed)<br>
+Butcher (Given to players the Butcher has killed)<br><br>
 
 - Strangled<br>
-Hangman (Given to players the Hangman has killed while they were shapeshifted)<br>
+Hangman (Given to players the Hangman has killed while they were shapeshifted)<br><br>
 
 - Judged<br>
 Councillor (Given to players that the Councillor used their '/tl' command on)<br>
-Judge (Given to players that the Judge used their '/tl' command on)<br>
+Judge (Given to players that the Judge used their '/tl' command on)<br><br>
 
 - Infected<br>
 Infectious (Given to players killed by the Infectious)<br>
 Plague Scientist (Given to players killed by the Plague Scientist)<br>
-Virus (Given to players killed by the Virus)<br>
+Virus (Given to players killed by the Virus)<br><br>
 
 - Jinxed<br>
-Jinx (Given to players killed by the Jinx's reflect)<br>
+Jinx (Given to players killed by the Jinx's reflect)<br><br>
 
 - Hacked<br>
-Glitch (Given to players killed by the Glitch)<br>
+Glitch (Given to players killed by the Glitch)<br><br>
 
 - Plundered<br>
-Pirate (Given to a player that loses the duel against the Pirate)<br>
+Pirate (Given to a player that loses the duel against the Pirate)<br><br>
 
 - Shrouded<br>
-Shroud (Given to a player marked by the Shroud if the Shroud isn't voted out, or the player hasn't performed a kill)<br>
+Shroud (Given to a player marked by the Shroud if the Shroud isn't voted out, or the player hasn't performed a kill)<br><br>
 
 - Mauled<br>
-Werewolf (Given to players caught in the Werewolf's Maul Radius)<br>
+Werewolf (Given to players caught in the Werewolf's Maul Radius)<br><br>
 
 - Drained<br>
-Puppeteer ('Puppet dies alongside victim' Setting)<br>
+Puppeteer ('Puppet dies alongside victim' Setting)<br><br>
 
 - Shattered<br>
-Fragile (Given to a player that any Impostor based role interacted with)<br>
+Fragile (Given to a player that any Impostor based role interacted with)<br><br>
 
 - Trapped<br>
-Trapster (Given to players that report a body killed by the Trapster)<br>
+Trapster (Given to players that report a body killed by the Trapster)<br><br>
 
 - Targeted<br>
-Kamikaze (Given to players killed when the Kamikaze dies)<br>
+Kamikaze (Given to players killed when the Kamikaze dies)<br><br>
 
 - Retribution<br>
-Instigator (Given to players that voted for the same player that the Instigator voted for)<br>
+Instigator (Given to players that voted for the same player that the Instigator voted for)<br><br>
 
 - Sliced<br>
-Hawk (Given to a player that the Hawk has haunted)<br>
+Hawk (Given to a player that the Hawk has haunted)<br><br>
 
 - Bleed<br>
-Bloodmoon (Given to a player that the Bloodmoon has haunted)<br>
+Bloodmoon (Given to a player that the Bloodmoon has haunted)<br><br>
 
 - Wrong Quiz Answer<br>
-Quizmaster (Given to players that incorrectly answer a question from the Quizmaster)<br>
+Quizmaster (Given to players that incorrectly answer a question from the Quizmaster)<br><br>
 
 - Starved<br>
-Famine (Given to anyone without bread after Famine transforms and is not voted out, or when famine uses their kill button on a player after that)<br>
+Famine (Given to anyone without bread after Famine transforms and is not voted out, or when famine uses their kill button on a player after that)<br><br>
 
 - Armageddon<br>
-Death (Given to everyone alive if Death is not voted out when they transform)<br>
+Death (Given to everyone alive if Death is not voted out when they transform)<br><br>
 
 - Alive<br>
-Bug (This Death Reason occured awhile ago due to bugs, but has since been patched out)
-</details>
+Bug (This Death Reason occured awhile ago due to bugs, but has since been patched out)<br><br>
 
+> From: Marg
+</details>
 <details>
 <summary><b><font color=gray>Icons: Explained</font></b></summary>
 
@@ -542,35 +526,43 @@ Bug (This Death Reason occured awhile ago due to bugs, but has since been patche
 <font color=#4682b4>☆</font> - This player is a <font color=#4682b4>Captain</font><br>
 <font color=#404040>☜</font> - This player is a teammate of the <font color=#404040>Schrodinger's Cat</font><br>
 <font color=#ff1919>╳</font> - This player is blackmailed by the <font color=#ff1919>Blackmailer</font><br>
-</details>
+<font color=#ff1919>⊗</font> - This player is marked by the <font color=#ff1919>Kamikaze</font><br>
+<font color=#ff1919>■</font> - This player is a quantum ghost marked by the <font color=#ff1919>Lightning</font><br><br>
 
+> From: Pyro0TV
+</details>
 <details>
 <summary><b><font color=gray>Template Editor</font></b></summary>
 
-Here's a Template Editor which you can use to edit or create templates. `From: Drakos (Thank you!)`<br>
+Here's a Template Editor which you can use to edit or create templates.<br>
 [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html)<br>
 
-The Template Editor is only 1 of the many Utilities (Also by Drakos) which are on this [Among Us Utilities](https://ultradragon005.github.io/AmongUs-Utilities/index.html) page. You can find a [Welcome Message Guide](https://ultradragon005.github.io/AmongUs-Utilities/guide.html), [Pixel Art Editor](https://ultradragon005.github.io/AmongUs-Utilities/pixelgrid.html), [Gallery](https://ultradragon005.github.io/AmongUs-Utilities/gallery.html), & also the [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) shown above.<br>
-</details>
+The Template Editor is only 1 of the many Utilities (Also by Drakos) which are on this [Among Us Utilities](https://ultradragon005.github.io/AmongUs-Utilities/index.html) page. You can find a [Welcome Message Guide](https://ultradragon005.github.io/AmongUs-Utilities/guide.html), [Pixel Art Editor](https://ultradragon005.github.io/AmongUs-Utilities/pixelgrid.html), [Gallery](https://ultradragon005.github.io/AmongUs-Utilities/gallery.html), & also the [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) shown above.<br><br>
 
+> From: Drakos
+</details>
 <details>
 <summary><b><font color=gray>Supported Rich Text Tags</font></b></summary>
 
 Here's a full list of Rich Text Tags that you can use for formatting. Some may not work, so keep that in mind. There is a `<font>` tag, that will not work with all fonts, it will only work with the Fonts covered in the next dropdown menu.
-[Link to List](https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.2/manual/RichTextSupportedTags.html)
-</details>
+[Link to List](https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.2/manual/RichTextSupportedTags.html)<br><br>
 
+> From: Unity Technologies
+</details>
 <details>
 <summary><b><font color=gray>Usable Fonts/Symbols</font></b></summary>
 
 Here's a Doc covering Fonts & Symbols that you can use while creating Templates! This Doc also shows some Sprites which are technically other Symbols, as well as some Icons and what exactly they mean when you see them!
-[Link to Doc](https://docs.google.com/document/d/e/2PACX-1vQh4sc9RL_Byt3kextqngdaAuGovFO_YaxHITZsIKqcd39mUAc6sQ89sfsSRGZsHUCecfIQiDY2WtQ-/pub)
-</details>
+[Link to Doc](https://docs.google.com/document/d/e/2PACX-1vQh4sc9RL_Byt3kextqngdaAuGovFO_YaxHITZsIKqcd39mUAc6sQ89sfsSRGZsHUCecfIQiDY2WtQ-/pub)<br><br>
 
+> From: Drakos
+</details>
 <details>
 <summary><b><font color=gray>Original Role Colors (Hex Codes)</font></b></summary>
 
-You can find the <i>original</i> Hex Codes of TOHE Roles [Here](https://github.com/0xDrMoe/TownofHost-Enhanced/blob/main/Resources/roleColor.json).
+You can find the <i>original</i> Hex Codes of TOHE Roles [Here](https://github.com/0xDrMoe/TownofHost-Enhanced/blob/main/Resources/roleColor.json).<br><br>
+
+> From: The Enhanced Network
 </details>
 
 # TOHE-DATA Info
@@ -623,15 +615,16 @@ There is a Tutorial at the bottom of the Template Editior's page if you need it.
 6. You can then save the file [`[Ctrl] + [S]`], boot up the mod, and run `/t [example]` in your chat box to see if it's set up to your liking!
 </details>
 
-If you create copies of the template name on newlines, it will send them in seperate messages. Check out this example from Drakos for an example: 
+If you create copies of the template name on newlines, it will send them in seperate messages. Here's an example from Drakos: 
 ![image](./images/TemplateNewLines.png)
 
-## Valid Variables:
+<details>
+<summary><b><font color=gray>Valid Variables</font></b></summary>
 
 - `{{PlayerSpeedMod}}` - Displays the speed of players.
 - `{{CrewLightMod}}` - Displays the vision radius of a Crewmate.
 - `{{ImpostorLightMod}}` - Displays the vision radius of an Impostor.
-- `{{KillCooldown}}` - 
+- `{{KillCooldown}}` - Displays the default Kill Cooldown set in your Among Us settings.
 - `{{NumCommonTasks}}` - Displays the amount of Common Tasks per player.
 - `{{NumLongTasks}}` - Displays the amount of Long Tasks per player.
 - `{{NumShortTasks}}` - Displays the amount of Short Tasks per player.
@@ -645,12 +638,12 @@ If you create copies of the template name on newlines, it will send them in sepe
 - `{{Time}}` - Displays the current time.
 - `{{RoomCode}}` - Displays the Room Code.
 - `{{PlayerName}}` - Displays the players username. (The one reading the variable)
-- `{{HostName}}` - Displays the hosts username 
+- `{{HostName}}` - Displays the hosts username.
 - `{{ModVersion}}` - Displays the current version of TOHE.
 - `{{Map}}` - Displays the Map that is going to be played.
----
-
-## Text Formatting:
+</details>
+<details>
+<summary><b><font color=gray>Text Formatting</font></b></summary>
 
 - `<color=#[hex]>exampleText</color>` Changes the <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Color </span> of the text/font.
 - `<b>exampleText</b>` Enables <b>Bold</b> for the text/font.
@@ -662,3 +655,4 @@ If you create copies of the template name on newlines, it will send them in sepe
 - `<sub>exampleText</sub>` Enables <sub>Subscript</sub> for the text/font.
 - `<size=[size][%]>exampleText</size>` Sets the <font size=2em>Size</font> of the text/font. (Can type exact text/font sizes or use percentages.)
 - `\n` Creates a New Line. (Such as `<br>` (or the `[Enter]` key) would)
+</details>

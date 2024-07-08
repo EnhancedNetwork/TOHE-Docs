@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Glitch
-prev: Doppelganger
+prev: Demon
 next: HexMaster
 ---
 

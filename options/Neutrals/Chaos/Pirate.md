@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Pirate
-prev: Phantom
+prev: God
 next: Provocateur
 ---
 

@@ -8,7 +8,7 @@ next: Addons
 # <font color="#7f8c8d">🥷 <b>Neutral Roles</b></font>
 ---
 
-<b>Play for yourself, and eliminate everyone around you. Neutrals can win alone, but they can also win with other players. Their victory conditions are different from other players. Each Neutral player has a unique victory condition. If some roles are not on this page, check [Experimental Roles](/options/Settings/Experimental.html), as they may be there for testing/bug fixes.</b><br>
+<b>Play for yourself, and eliminate everyone around you. Neutrals can win alone, but they can also win with other players. Their victory conditions are different from other players. Each Neutral player has a unique victory condition.</b><br>
 
 <table>
 <tr>
@@ -54,19 +54,19 @@ next: Addons
 
 ### <font color=#d4af37><b>Chaos</b></font>
 ---
-[Collector](/options/Neutrals/Chaos/Collector.html) | [Cultist](/options/Neutrals/Chaos/Cultist.html) | [God](/options/Neutrals/Chaos/God.html) | [Phantom](/options/Neutrals/Chaos/Phantom.html) | [Pirate](/options/Neutrals/Chaos/Pirate.html) | [Provocateur](/options/Neutrals/Chaos/Provocateur.html) | [Revolutionist](/options/Neutrals/Chaos/Revolutionist.html) | [Soul Collector](/options/Neutrals/Chaos/SoulCollector.html) | [Solsticer](/options/Neutrals/Chaos/Solsticer.html) | [Terrorist](/options/Neutrals/Chaos/Terrorist.html) | [Vector](/options/Neutrals/Chaos/Vector.html) | [Vulture](/options/Neutrals/Chaos/Vulture.html) | [Workaholic](/options/Neutrals/Chaos/Workaholic.html)
+[Collector](/options/Neutrals/Chaos/Collector.html) | [Cultist](/options/Neutrals/Chaos/Cultist.html) | [God](/options/Neutrals/Chaos/God.html) | [Pirate](/options/Neutrals/Chaos/Pirate.html) | [Provocateur](/options/Neutrals/Chaos/Provocateur.html) | [Revolutionist](/options/Neutrals/Chaos/Revolutionist.html) | [Soul Collector](/options/Neutrals/Chaos/SoulCollector.html) | [Solsticer](/options/Neutrals/Chaos/Solsticer.html) | [Specter](/options/Neutrals/Chaos/Specter.html) | [Terrorist](/options/Neutrals/Chaos/Terrorist.html) | [Vector](/options/Neutrals/Chaos/Vector.html) | [Vulture](/options/Neutrals/Chaos/Vulture.html) | [Workaholic](/options/Neutrals/Chaos/Workaholic.html)
 
 ### <font color=#912900><b>Evil</b></font>
 ---
-[Cursed Soul](/options/Neutrals/Evil/CursedSoul.html) | [Doomsayer](/options/Neutrals/Evil/Doomsayer.html) | [Executioner](/options/Neutrals/Evil/Executioner.html) | [Innocent](/options/Neutrals/Evil/Innocent.html) | [Jester](/options/Neutrals/Evil/Jester.html) | [Masochist](/options/Neutrals/Evil/Masochist.html) | [Seeker](/options/Neutrals/Evil/Seeker.html)
+[Cursed Soul](/options/Neutrals/Evil/CursedSoul.html) | [Doomsayer](/options/Neutrals/Evil/Doomsayer.html) | [Executioner](/options/Neutrals/Evil/Executioner.html) | [Innocent](/options/Neutrals/Evil/Innocent.html) | [Jester](/options/Neutrals/Evil/Jester.html) | [Punching Bag](/options/Neutrals/Evil/PunchingBag.html) | [Seeker](/options/Neutrals/Evil/Seeker.html)
 
 ### <font color=#4d3222><b>Experimental</b></font>
 ---
-[Quizmaster](/options/Neutrals/Experimental/Quizmaster.html)
+[Doppelganger](/options/Neutrals/Experimental/Doppelganger.html) | [Quizmaster](/options/Neutrals/Experimental/Quizmaster.html)
 
 ### <font color=red><b>Killing</b></font>
 ---
-[Agitator](/options/Neutrals/Killing/Agitator.html) | [Arsonist](/options/Neutrals/Killing/Arsonist.html) | [Bandit](/options/Neutrals/Killing/Bandit.html) | [Blood Knight](/options/Neutrals/Killing/BloodKnight.html) | [Demon](/options/Neutrals/Killing/Demon.html) | [Doppelganger](/options/Neutrals/Killing/Doppelganger.html) | [Glitch](/options/Neutrals/Killing/Glitch.html) | [Hex Master](/options/Neutrals/Killing/HexMaster.html) | [Huntsman](/options/Neutrals/Killing/Huntsman.html) | [Infectious](/options/Neutrals/Killing/Infectious.html) | [Jackal](/options/Neutrals/Killing/Jackal.html) | [Jinx](/options/Neutrals/Killing/Jinx.html) | [Juggernaut](/options/Neutrals/Killing/Juggernaut.html) | [Medusa](/options/Neutrals/Killing/Medusa.html) | [Necromancer](/options/Neutrals/Killing/Necromancer.html) | [Pelican](/options/Neutrals/Killing/Pelican.html) | [Pickpocket](/options/Neutrals/Killing/Pickpocket.html) | [Plaguebearer](/options/Neutrals/Killing/Plaguebearer.html) | [Plague Scientist](/options/Neutrals/Killing/PlagueScientist.html) | [Poisoner](/options/Neutrals/Killing/Poisoner) | [Potion Master](/options/Neutrals/Killing/PotionMaster.html) | [Pyromaniac](/options/Neutrals/Killing/Pyromaniac.html) | [Serial Killer](/options/Neutrals/Killing/SerialKiller.html) | [Shroud](/options/Neutrals/Killing/Shroud.html) | [Spiritcaller](/options/Neutrals/Killing/Spiritcaller.html) | [Stalker](/options/Neutrals/Killing/Stalker.html) | [Traitor](/options/Neutrals/Killing/Traitor.html) | [Virus](/options/Neutrals/Killing/Virus.html) | [Werewolf](/options/Neutrals/Killing/Werewolf.html) | [Wraith](/options/Neutrals/Killing/Wraith.html)
+[Agitator](/options/Neutrals/Killing/Agitator.html) | [Arsonist](/options/Neutrals/Killing/Arsonist.html) | [Bandit](/options/Neutrals/Killing/Bandit.html) | [Blood Knight](/options/Neutrals/Killing/BloodKnight.html) | [Demon](/options/Neutrals/Killing/Demon.html) | [Glitch](/options/Neutrals/Killing/Glitch.html) | [Hex Master](/options/Neutrals/Killing/HexMaster.html) | [Huntsman](/options/Neutrals/Killing/Huntsman.html) | [Infectious](/options/Neutrals/Killing/Infectious.html) | [Jackal](/options/Neutrals/Killing/Jackal.html) | [Jinx](/options/Neutrals/Killing/Jinx.html) | [Juggernaut](/options/Neutrals/Killing/Juggernaut.html) | [Medusa](/options/Neutrals/Killing/Medusa.html) | [Necromancer](/options/Neutrals/Killing/Necromancer.html) | [Pelican](/options/Neutrals/Killing/Pelican.html) | [Pickpocket](/options/Neutrals/Killing/Pickpocket.html) | [Plaguebearer](/options/Neutrals/Killing/Plaguebearer.html) | [Plague Scientist](/options/Neutrals/Killing/PlagueScientist.html) | [Poisoner](/options/Neutrals/Killing/Poisoner) | [Potion Master](/options/Neutrals/Killing/PotionMaster.html) | [Pyromaniac](/options/Neutrals/Killing/Pyromaniac.html) | [Serial Killer](/options/Neutrals/Killing/SerialKiller.html) | [Shroud](/options/Neutrals/Killing/Shroud.html) | [Spiritcaller](/options/Neutrals/Killing/Spiritcaller.html) | [Stalker](/options/Neutrals/Killing/Stalker.html) | [Traitor](/options/Neutrals/Killing/Traitor.html) | [Virus](/options/Neutrals/Killing/Virus.html) | [Werewolf](/options/Neutrals/Killing/Werewolf.html) | [Wraith](/options/Neutrals/Killing/Wraith.html)
 <br>
 
 <details>

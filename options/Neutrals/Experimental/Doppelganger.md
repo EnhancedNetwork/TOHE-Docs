@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Doppelganger
-prev: Demon
-next: Glitch
+prev: /options/settings/Neutrals.html
+next: Quizmaster
 ---
 
-# <font color=#f1f0a1>🎭 <b>Doppelganger</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=#f1f0a1>🎭 <b>Doppelganger</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
 ---
 
 As the Doppelganger, use your kill button to steal a player's identity (their name and skin) and then kill your target.<br><br>

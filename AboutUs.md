@@ -203,7 +203,7 @@ I plan to port most of the roles from Town of Salem 2 in some form because I lov
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-Used to use names like "Huier" and "天寸梦初". KPD, NiKoCat, Commandf1 are my friends. I love programming and animation as well as games like Honkai: StarRail, Among Us, Minecraft and others. I'm learning C# because of Modding, but I've also been into Java, TS, PYTHON, GO, RUST but I haven't learned it yet. Has worked on SChinese translations for TownOfHost. In the spring of 2023 I met TOHE and KPD and contributed some code. Currently, like KPD, I am not involved in development. I have accounts on X, YouTube, TikTok but I'm not online often, I'm mainly active on Chinese apps! 
+Used to use names like "Huier" and "天寸梦初". KPD, NiKoCat, Commandf1 are my friends. I love programming and animation as well as games like Honkai: StarRail, Among Us, Minecraft and others. I'm learning C# because of Modding, but I've also been into Java, TS, PYTHON, GO, RUST but I haven't learned it yet. Has worked on SChinese translations for TownOfHost. In the spring of 2023 I met TOHE and KPD and contributed some code. I have accounts on X, YouTube, TikTok but I'm not online often, I'm mainly active on Chinese apps! Currently not involved in development. 
 </details>
 
 ---
@@ -213,6 +213,18 @@ Used to use names like "Huier" and "天寸梦初". KPD, NiKoCat, Commandf1 are m
 <summary><b><font color=gray>About</font></b></summary>
 
 I help with performance improvements & bug fixes, sometimes I add new roles. I also coded a customized wordle game and my own Among Us mod which are both available on my [github](https://github.com/Gurge44). I really like Among Us mods and I have a lot of motivation to keep coding and playing. I enjoy coding challenges, like roles that are very complex and/or take a while to make. I like traffic lights more than anything else, especially those in the city I live in, since they also speak and have counters. I like everything timer related.
+</details>
+
+---
+
+[**xV**](#)：Contributor
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+Goes by xV and Peck<br>
+I am most definitely not a developer, i just kept trying things and it kept working!<br><br>
+
+Have been inactive!
 </details>
 
 ---

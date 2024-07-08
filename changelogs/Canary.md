@@ -25,9 +25,9 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 
 ## <font size=5em><b>Latest: v2.0.0 Canary 8 Hotfix 1</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when game end in start game by task win
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Gangster can't recruit anyone
-= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when game end in start game by task win<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Gangster can't recruit anyone<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
 
 ## <font size=5em><b>Latest: v2.0.0 Canary 8</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>

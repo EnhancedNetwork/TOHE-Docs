@@ -564,30 +564,80 @@ You can find the <i>original</i> Hex Codes of TOHE Roles [Here](https://github.c
 
 > From: The Enhanced Network
 </details>
+<details>
+<summary><b><font color=gray>Valid Variables</font></b></summary>
 
-# TOHE-DATA Info
+- `{{PlayerSpeedMod}}` - Displays the speed of players.
+- `{{CrewLightMod}}` - Displays the vision radius of a Crewmate.
+- `{{ImpostorLightMod}}` - Displays the vision radius of an Impostor.
+- `{{KillCooldown}}` - Displays the default Kill Cooldown set in your Among Us settings.
+- `{{NumCommonTasks}}` - Displays the amount of Common Tasks per player.
+- `{{NumLongTasks}}` - Displays the amount of Long Tasks per player.
+- `{{NumShortTasks}}` - Displays the amount of Short Tasks per player.
+- `{{AmongUsVersion}}` - Displays the current Among Us version.
+- `{{InternalVersion}}` - Displays the source code plugin version.
+- `{{NumEmergencyMeetings}}` - Displays the amount of emergency meetings allowed per player.
+- `{{EmergencyCooldown}}` - Displays the cooldown before you can call another meeting after the last one is finished.
+- `{{DiscussionTime}}` - Displays the time period where you can talk before voting.
+- `{{VotingTime}}` - Displays the time period where you vote.
+- `{{Date}}` - Displays the current date.
+- `{{Time}}` - Displays the current time.
+- `{{RoomCode}}` - Displays the Room Code.
+- `{{PlayerName}}` - Displays the players username. (The one reading the variable)
+- `{{HostName}}` - Displays the hosts username.
+- `{{ModVersion}}` - Displays the current version of TOHE.
+- `{{Map}}` - Displays the Map that is going to be played.
+
+> From: The Enhanced Network + Pyro0TV
+</details>
+<details>
+<summary><b><font color=gray>Text Formatting</font></b></summary>
+
+- `<color=#[hex]>exampleText</color>` Changes the <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Color </span> of the text/font.
+- `<b>exampleText</b>` Enables <b>Bold</b> for the text/font.
+- `<s>exampleText</s>` Enables <s>Strikethrough</s> for the text/font.
+- `<u>exampleText</u>` Enables <u>Underline</u> for the text/font.
+- `<i>exampleText</i>` Enables <i>Italics</i> for the text/font.
+- `<mark>exampleText</mark>` Enables <mark>Highlight</mark> for the text/font.
+- `<sup>exampleText</sup>` Enables <sup>Superscript</sup> for the text/font.
+- `<sub>exampleText</sub>` Enables <sub>Subscript</sub> for the text/font.
+- `<size=[size][%]>exampleText</size>` Sets the <font size=2em>Size</font> of the text/font. (Can type exact text/font sizes or use percentages.)
+- `\n` Creates a New Line. (Such as `<br>` (or the `[Enter]` key) would)
+
+> From: The Enhanced Network + Pyro0TV
+</details>
+<details>
+<summary><b><font color=gray>TOHE-DATA Info</font></b></summary>
 
 Open the root directory of game: `...\Among Us\TOHE-DATA\`
 
 There are a few files:
 
-- BanList.txt: A list of friendcodes that will be unable to join your lobby.
-- Default_Teamplate.txt: This will pull from `template.txt` and is used in game. Think of this as the final product used in-game, and `template.txt` as the rough draft.
-- DenyName.txt: A list of names that will be filtered out in the game.
-- Moderators.txt: A list of friendcodes that will be given more permissions to moderate your lobby (such as /kick). Only grant users you trust these permissions!
-- template.txt: You can modify the `welcome` and `onMeeting` messages here. You can also add custom templates here as well following the same format as `welcome` & `onMeeting` use.
-- VIP-List.txt: A list of friendcodes that will be given a sweet VIP tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to change their name color.
-- WhiteList.txt: A list of friendcodes that will be exempt from blacklisted platforms, along with level requirements.
+- `BanList.txt`: A list of friendcodes that will be unable to join your lobby.
 
-## Presets
+- `Default_Teamplate.txt`: This is the Default TOHE Template file. If you wish to reset your templates to default, You can use this. (No idea why it says Teamplate.)
+
+- `DenyName.txt`: A list of names that will be filtered out of the game.
+
+- `Moderators.txt`: A list of friendcodes that will receive a nice Moderator tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to moderate your lobby (such as using the commands near the top of the page). Only grant users you trust these permissions!
+
+- `template.txt`: You can modify the `welcome` and `onMeeting` messages here. You can also add custom templates here as well following the same format as `welcome` & `onMeeting` use.
+
+- `VIP-List.txt`: A list of friendcodes that will be given a sweet VIP tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to change their name color.
+
+- `WhiteList.txt`: A list of friendcodes that will be exempt from blacklisted platforms, along with level requirements.
+</details>
+<details>
+<summary><b><font color=gray>Presets Info</font></b></summary>
 
 You can save your favorite settings as presets and load them later. You can also download presets shared by others. If you want to use a preset, make sure the file is renamed to `Options.json` before using if, it isn't already. (If you do not have `File name extensions` marked on the `View` Tab, you only need to rename it to `Options`.)
 
 Note: You have to put the file in the following directory: `.\Among Us\TOHE-DATA\SaveData` for it to work. (If you cannot locate `TOHE-DATA\SaveData`, try enabling `Hidden items` on the `View` Tab!)
 
 For some member submitted presets, browse [here](/Presets.html)
-
-## Templates
+</details>
+<details>
+<summary><b><font color=gray>Templates Info</font></b></summary>
 
 Open the root directory of the mod and find the `..\Among Us\TOHE-DATA\template.txt` file.
 
@@ -617,42 +667,4 @@ There is a Tutorial at the bottom of the Template Editior's page if you need it.
 
 If you create copies of the template name on newlines, it will send them in seperate messages. Here's an example from Drakos: 
 ![image](./images/TemplateNewLines.png)
-
-<details>
-<summary><b><font color=gray>Valid Variables</font></b></summary>
-
-- `{{PlayerSpeedMod}}` - Displays the speed of players.
-- `{{CrewLightMod}}` - Displays the vision radius of a Crewmate.
-- `{{ImpostorLightMod}}` - Displays the vision radius of an Impostor.
-- `{{KillCooldown}}` - Displays the default Kill Cooldown set in your Among Us settings.
-- `{{NumCommonTasks}}` - Displays the amount of Common Tasks per player.
-- `{{NumLongTasks}}` - Displays the amount of Long Tasks per player.
-- `{{NumShortTasks}}` - Displays the amount of Short Tasks per player.
-- `{{AmongUsVersion}}` - Displays the current Among Us version.
-- `{{InternalVersion}}` - Displays the source code plugin version.
-- `{{NumEmergencyMeetings}}` - Displays the amount of emergency meetings allowed per player.
-- `{{EmergencyCooldown}}` - Displays the cooldown before you can call another meeting after the last one is finished.
-- `{{DiscussionTime}}` - Displays the time period where you can talk before voting.
-- `{{VotingTime}}` - Displays the time period where you vote.
-- `{{Date}}` - Displays the current date.
-- `{{Time}}` - Displays the current time.
-- `{{RoomCode}}` - Displays the Room Code.
-- `{{PlayerName}}` - Displays the players username. (The one reading the variable)
-- `{{HostName}}` - Displays the hosts username.
-- `{{ModVersion}}` - Displays the current version of TOHE.
-- `{{Map}}` - Displays the Map that is going to be played.
-</details>
-<details>
-<summary><b><font color=gray>Text Formatting</font></b></summary>
-
-- `<color=#[hex]>exampleText</color>` Changes the <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Color </span> of the text/font.
-- `<b>exampleText</b>` Enables <b>Bold</b> for the text/font.
-- `<s>exampleText</s>` Enables <s>Strikethrough</s> for the text/font.
-- `<u>exampleText</u>` Enables <u>Underline</u> for the text/font.
-- `<i>exampleText</i>` Enables <i>Italics</i> for the text/font.
-- `<mark>exampleText</mark>` Enables <mark>Highlight</mark> for the text/font.
-- `<sup>exampleText</sup>` Enables <sup>Superscript</sup> for the text/font.
-- `<sub>exampleText</sub>` Enables <sub>Subscript</sub> for the text/font.
-- `<size=[size][%]>exampleText</size>` Sets the <font size=2em>Size</font> of the text/font. (Can type exact text/font sizes or use percentages.)
-- `\n` Creates a New Line. (Such as `<br>` (or the `[Enter]` key) would)
 </details>

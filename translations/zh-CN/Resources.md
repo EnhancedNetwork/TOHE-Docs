@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Resources
 contributors: false
 ---

@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Presets
 contributors: false
 ---

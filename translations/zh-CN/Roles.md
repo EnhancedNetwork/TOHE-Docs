@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: zh-CN
 title: Roles
 sidebar:
 - { text: Custom Settings, link: /options/Settings/Custom.html}

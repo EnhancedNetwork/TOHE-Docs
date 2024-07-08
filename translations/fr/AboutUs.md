@@ -1,5 +1,5 @@
 ---
-lang: en-US
+lang: fr
 title: About Our Team
 contributors: false
 ---

@@ -4,10 +4,13 @@ title: Advanced
 contributors: false
 ---
 
-# Hot-Keys
+# Helpful Resources
+Here are some Resources that may help you understand some things relating to the mod. Such as Hot-Keys, Commands, Template/Preset Help, and other Useful Resources.
 
+<details>
+<summary><b><font color=gray>Hot-Keys</font></b></summary>
 Below is a list of Hot-Keys that you can use to make your experience better while playing TOHE. You can use these Hot-Keys to perform certain actions.
-
+Note: List is not 100% complete. Some hot-keys may have been removed and still live here, some may have been added and still not live here.
 <details>
 <summary><b><font color=gray>Host-Only</font></b></summary>
 <table>
@@ -140,12 +143,15 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 </table>
 </details>
 
-# Chat Commands
+> From: The Enhanced Network + Pyro0TV
+</details>
+<details>
+<summary><b><font color=gray>Chat Commands</font></b></summary>
 
 Below is a list of commands that you can use to make your experience better while playing TOHE. You can use these commands in the chat box to perform certain actions.
 
 Note: Commands in bold are considered "essential" and are recommended for all players.
-
+Note: List is not 100% complete. Some commands may have been removed and still live here, some may have been added and still not live here.
 <details>
 <summary><b><font color=gray>Everyone</font></b></summary>
 <table>
@@ -319,9 +325,8 @@ Note: Commands in bold are considered "essential" and are recommended for all pl
 </table>
 </details>
 
-# Helpful Resources
-Here are some Resources that may help you understand some things relating to the mod. Such as Death Reasons, Template help, etc.
-
+> From: The Enhanced Network + Pyro0TV
+</details>
 <details>
 <summary><b><font color=gray>TOHE-DATA Info</font></b></summary>
 

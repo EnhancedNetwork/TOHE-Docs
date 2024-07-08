@@ -63,8 +63,8 @@ export default defineUserConfig({
             link: '/Changelogs.html',
           },
           {
-            text: 'Advanced',
-            link: '/Advanced.html',
+            text: 'Resources',
+            link: '/Resources.html',
           },
           {
             text: 'Presets',

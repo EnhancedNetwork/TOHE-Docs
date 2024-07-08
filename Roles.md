@@ -4,13 +4,12 @@ title: Roles
 sidebar:
 - { text: Custom Settings, link: /options/Settings/Custom.html}
 - { text: System Settings, link: /options/Settings/System.html}
-- { text: Game Settings, link: /options/Settings/Game.html}
+- { text: Mod Settings, link: /options/Settings/Mod.html}
 - { text: Game Modifiers, link: /options/Settings/Modifiers.html}
 - { text: Impostors, link: /options/Settings/Impostors.html}
 - { text: Crewmates, link: /options/Settings/Crewmates.html} 
 - { text: Neutrals, link: /options/Settings/Neutrals.html}
 - { text: Add-ons, link: /options/Settings/Addons.html}
-- { text: Experimental, link: /options/Settings/Experimental.html}
 contributors: false
 ---
 
@@ -19,7 +18,7 @@ contributors: false
 <font size=4em><b>Latest Versions:</b></font><br>
 
 - <b><font size=3em>Dev:</font> [v2.0.0 Dev 25](/changelogs/Dev.html)</b><br>
-- <b><font size=3em>Canary:</font> [v2.0.0 Canary 3](/changelogs/Canary.html)</b><br>
+- <b><font size=3em>Canary:</font> [v2.0.0 Canary 8](/changelogs/Canary.html)</b><br>
 - <b><font size=3em>Stable:</font> [v1.6.0](/changelogs/Stable.html)</b><br>
 
 <table>

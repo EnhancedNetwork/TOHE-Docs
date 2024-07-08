@@ -57,9 +57,9 @@ contributors: false
 = <font color=#ece218><b>NOTICE</b></font>: Updated to v2.0.0 Canary 8<br>
 \+ Have a good day!<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Tracker, Noisemaker, and Phantom from Vanilla Among Us are now supported in TOHE, with this comes TOHE Trackers removal, and role renames. All Role Renames should be Live, this list includes Schizophrenic -> Paranoia, Masochist -> Punching Bag, Bloodlust -> Bloodthirst, & TOHE Phantom -> Specter. <br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Advanced.md`, as well as `FAQ.md`, `Install.md`, and `Changelogs.md`. Advanced & FAQ are much cleaner, Install is more straight forward, and Changelogs includes "KNOWN BUGS"<br>
-\+ <font color=green><b>NEW</b></font>: Added `Presets.md` - Redid the Presets part of `Advanced.md`, and decided that Presets should be compiled elsewhere as to not clutter Advanced. (Added Marg's Presets, and removed 2 Out of Date Presets (WitchCraft/Moe's Presets which would not work anymore)).<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Renamed `GetStarted.md` -> `Install.md`, as well as `Game.md` to `Mod.md` (as to line up with the TOHE Settings being reorganized from Game Settings to Mod Settings). Also fixed linking.<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Renamed `GetStarted.md` -> `Install.md`, `Advanced.md` -> `Resources.md` as well as `Game.md` to `Mod.md` (as to line up with the TOHE Settings being reorganized from Game Settings to Mod Settings). Also 98% sure I fixed linking.<br>
+\+ <font color=green><b>NEW</b></font>: Added `Presets.md` - Redid the Presets part of `Resources.md`, and decided that Presets should be compiled elsewhere as to not clutter Resources. (Added Marg's Preset, and removed 2 Out of Date Presets (WitchCraft/Moe's Presets which would not work anymore)).<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Resources.md`, as well as `FAQ.md`, `Install.md`, and `Changelogs.md`. Resources & FAQ are much cleaner, Install is more straight forward, and Changelogs includes "KNOWN BUGS"<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: More Bios added to `AboutUs.md`.<br>
 = <font color=#1376f0><b>BUG FIXES</b></font>: Many small formatting, linking, and spelling fixes + a few small tweaks.<br>
 = <font color=#fdf08e><b>NOTE</b></font>: Chinese & French Translations are still in the works. (Sorry Translators, but at least they have their own folder(s) now!)<br>
@@ -70,3 +70,4 @@ contributors: false
 = <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are not remotely close to correct, if someone would like to do the math because I am/Pyro is lazy, PLEASE DO! :D thanks!<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, open a forum in #website-feedback! Thank you! - Pyro<br>
 = <font color=#ece218><b>NOTICE</b></font>: Once Translations start being worked on, Translators may use this Site Changelog section to write out changelogs for their Translated parts of the Site. They may want to differenciate it, which they may if they write their own header things.<br>
+= <font color=#ece218><b>NOTICE</b></font>: zh-CN now has FAQ Translation (Thanks to FlyFlyCat's help)

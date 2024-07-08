@@ -7,6 +7,7 @@ sidebar:
 - { text: Previous Stable Changelogs, link: /changelogs/Stable.html}
 - { text: Previous Canary Changelogs, link: /changelogs/Canary.html}
 - { text: Previous Dev Changelogs, link: /changelogs/Dev.html}
+contributors: false
 ---
 
 # Changelogs
@@ -14,153 +15,58 @@ sidebar:
 (Only the Latest Changes to Mod/Site will be displayed.)
 
 ---
-## <font size=5em><b>Latest: v1.5.0</b></font>
+## <font size=5em><b>Latest Mod Changelogs: v2.0.0 Canary 8</b></font><br>
+## <font size=5em><b>Known Bugs</b></font><br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Hide & Seek is temporarily not supported<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Phantom does not work for some Impostor Bases (Crewmates and Neutral roles that are based on an Impostor)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: When changing presets, the settings are not updated instantly, you MUST close and reopen the settings<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side (Seems to be fixed in NA)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: When dlekS ehT is selected, the game lags in the lobby for vanilla players (during the game everything works fine)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: EAC may not work in some places<br>
 
-### 【New Roles】<br>
+## <font size=5em><b>Changelogs</b></font><br>
 
-\+ <font color=green><b>NEW</b></font>: Rift Maker (Support Impostor - By: ryuk) <br>
-\+ <font color=green><b>NEW</b></font>: Penguin (Hindering Impostor - Coded by dev TOH and Ported from TOHE+ - By: Drakos) <br>
-\+ <font color=green><b>NEW</b></font>: Stealth (Hindering Impostor - Coded by dev TOH and Ported from TOHE+ - By: Drakos) <br>
-\+ <font color=green><b>NEW</b></font>: Plague Scientist (Neutral Killer - Coded by dev TOH and Ported from TOHE+ - By: Drakos) <br>
-\+ <font color=green><b>NEW</b></font>: Schrodinger's Cat (Neutral Benign - Coded by dev TOH - By: ryuk) <br>
-\+ <font color=green><b>NEW</b></font>: Quizmaster (Experimental role - By: Furo) <br>
+## <font size=5em><b>Canary 8 Hotfix 1</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when game end in start game by task win<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Gangster can't recruit anyone<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
 
-### 【New Addons】
+## <font size=5em><b>Canary 8</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Noisemaker not work for desync roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Incorrect amount of players in lobby for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed null error for Medium<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Veteran custom button not show<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Gangster<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when cooldown sets as 0<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed "/r {role}" and removed "/r {role} all"<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Puppeteer cannot get Tricky<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Romantic not change role after exiled<br>
+\- <font color=red><b>REMOVED</b></font>: Removed options background<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed Mod stamp position<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Jailer when they try kill Veteran<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some small fixes<br>
 
-\+ <font color=green><b>NEW</b></font>: Susceptible (Helpful Addon - By: Drakos) <br>
-\+ <font color=green><b>NEW</b></font>: Tired (Helpful Addon - By: Drakos) <br>
-\+ <font color=green><b>NEW</b></font>: Tricky (Impostor Add-on - By: ryuk) <br>
-\+ <font color=green><b>NEW</b></font>: Rainbow (Miscellaneous Addon - Coded by dev TOH-Y - By: NikoCat223 and LezaiYa) <br>
-
-### 【Reworked/Rebased/Improved Roles】
-
-= <font color=#F6BE00><b>REWORK</b></font>: Killing Machine (Reworked - By: ryuk) <br>
-= <font color=#F6BE00><b>REWORK</b></font>: Investigator (Reworked - By: ryuk) <br>
-= <font color=#F6BE00><b>REBASED</b></font>: Swapper (Rebased - By: NikoCat223) <br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Copycat (Improved - By: ryuk) <br>
-
-### 【Removed Roles/Addons】
-
-\- <font color=red><b>REMOVED</b></font>: Luckey (Сrewmate role - By: ryuk) <br>
-\- <font color=red><b>REMOVED</b></font>: Witch (Neutral Killer - By: TommyXL) <br>
-\- <font color=red><b>REMOVED</b></font>: Repairman (Common Addon - By: TommyXL) <br>
-
-### 【Performance/Code Improvements】
-
-= <font color=#e08709><b>IMPROVEMENT</b></font>: «FixedUpdate» in code now work async (By: TommyXL) <br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Optimize Ping Tracker Update (By: TommyXL) <br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Code In «CheckMurder» (By: TommyXL) <br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Code When Players Complete Task (By: TommyXL) <br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Сode improvements in «HasKillButton» (By: ryuk) <br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Сode improvements in «DivinatorCheck.Result» for Fortune Teller (By: ryuk) <br>
-
-### 【New Features】
-
-\+ <font color=green><b>NEW</b></font>: Support Added For Vanilla Hide & Seek (By: TommyXL) <br>
-\+ <font color=green><b>NEW</b></font>: Added Random Skins & Colors in Camouflage (By: TommyXL) <br>
-\+ <font color=green><b>NEW</b></font>: Black screen (Anti Blackout) protection system has been improved (By: TommyXL) <br>
-\+ <font color=green><b>NEW</b></font>: Add-ons assign was recoded (By: TommyXL) <br>
-
-### 【New Settings】
-
-\+ <font color=green><b>NEW</b></font>: Show Only Enabled Roles In Guesser UI (By: TommyXL) <br>
-\+ <font color=green><b>NEW</b></font>: Only allow whitelisted players to join lobbies (By: ryuk) <br>
-\+ <font color=green><b>NEW</b></font>: Hide «Host♥» text (By: Pietro) <br>
-\+ <font color=green><b>NEW</b></font>: Players can use the «/rn» command (By: Marg) <br>
-\+ <font color=green><b>NEW</b></font>: Copycat: «Can copy team changing addon» (By: ryuk) <br>
-\+ <font color=green><b>NEW</b></font>: Fortune Teller: «Show random active roles in Fortune Teller hints» (By: ryuk) <br>
-\+ <font color=green><b>NEW</b></font>: Alchemist: «Potion Of Speed» (Ported from TOHE+ - By: Drakos) <br>
-\+ <font color=green><b>NEW</b></font>: Doppelganger: «Can vent» and «Has imp vision» (By: ryuk) <br>
-\+ <font color=green><b>NEW</b></font>: Bandit: «Steal cooldown» (different from kill cooldown - By: ryuk) <br>
-
-### 【Changes】
-
-= <font color=#F6BE00><b>CHANGE</b></font>: Display sorted role names for all langs in guesser UI (By: ryuk) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Preset 5 will be used to sync with host's setting for modded client (By: TommyXL) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Ported code «Vent.CanUse» from TOH (By: TommyXL) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Some roles have been removed from Experimental (By: ryuk) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Make «/rand» inclusive (By: Marg) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Prevent bans from InnerSloth servers if not modded host (By: Pietro) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Warn when «/dump» is used (By: Pietro) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Translate API tags, if translation available (By: Pietro) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Updated several roles' names internally to be consistent and not spaghetti code (By: Moe) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Add-ons with a spawn chance greater than or equal to 90% have higher priority (By: TommyXL) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Added delay teleport after meeting (By: TommyXL) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Roles using abilities using vents will now spawn on the Dleks (dlekS ehT) map (By: TommyXL) <br>
-
-### 【Bug Fixes】
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed vents on Dleks map for modded players (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Provocateur now cannot get Bait (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Kamikaze now cannot get Swift (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Evil Tracker now cannot get Seer (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Bard did not work (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Tracker error In logs (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Burst error when game end (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed other errors In logs (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed check game end (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Alchemist & Bloodlust could kill after end meeting (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed bug when sometimes non-modded player does not teleport (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Save Presets (Coded by dev TOH - By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Disconnect At Game End (Coded by dev TOH - By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed spam LateTask about Mole on exit vent (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Evil Tracker «Can See Kill Flash» option sometimes does not work (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when some roles can be stuck in vent during comms sabotage (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some strings (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed errors in logs when Modded Client left the game (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Merchant checks Add-ons limit (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when President skips meeting and someone will be ejected (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the player's name was not cleared during end of the meeting when a player left the game (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Swooper & Chameleon & Wraith & Alchemist teleport in vent after meeting (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Cleanser issues (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Inspector seeing Rascal as Crew and Impostor (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Time Master works incorrectly (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Disperser teleport players when they were in vent (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Huntsman not colored names targets at the beginning of the game (for vanilla - By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Pyromaniac not showing the douse on vanilla (for vanilla - By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Impostor ghosts didn't see the sabotage button (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the reason for the end win was sometimes displayed incorrectly (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the add-on had a 100% chance of spawning but would sometimes not spawn in the game (By: TommyXL) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for Romantics (By: TommyXL and ryuk) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Undertaker for modded clients (By: ryuk) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Copycat copying taskinator will give benefactor if Copycat can copy crew variant (By: ryuk) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix copycat copying enigma doesn't give clue (By: ryuk) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed inspector doesn't give madmate as imp team (By: ryuk) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed telecommunication not working when copycat copies (By: ryuk) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bug where Jackal recruits Copycat and Copycat's role resets after meeting (By: ryuk and Moe) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when shield animation banning modded clients (By: ryuk) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed instigator using vanilla kill cooldown (By: ryuk) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Councillor per meeting limit (By: ryuk) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Exclude Solsticer from Seeker's target (By: NikoCat223) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed when Solsticer can be murdered (By: NikoCat223) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug that sometimes caused the game to crash after version check (By: NikoCat223) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Mini can misguess to death (By: NikoCat223) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Vulture body amount not showing correctly for mod clients (By: NikoCat223) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the host did not choose a spawn location on Airship for a long time and EAC banned players who tried to cause sabotage (By: NikoCat223) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Nice Mini can be killed by Warlock, Puppeteer, Shroud and can be target for anonymous (By: NikoCat223 and LezaiYa) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug that prevented the game from ending when Mini was exiled (By: LezaiYa) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where «/gno» and «/rand» gave same result (By: Marg) <br>
- ### 
-
-\+ <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font>: (By: Dx7405) <br>
-\+ <font color=#1e448b><b>Dutch</b></font>: (By: apemv, madmazel_) <br>
-\+ <font color=#002654><b>French</b></font>: (By: FuroYT, KevOut, Klaomi, Sansationnelle) <br>
-\+ <font color=#009344><b>Italian</b></font>: (By: alot, Baphojack, Mattix606) <br>
-\+ <font color=#bd0029><b>Japanese</b></font>: (By: Sunnyboi) <br>
-\+ <font color=#009b3a><b>Latam (Latin American)</b></font>: (By: CreepPower) <br>
-\+ <font color=#0036a7><b>Russian</b></font>: (By: TommyXL, Shoulder Devil (MogekoNik), chill_ultimated, Nevermore59) <br>
-\+ <font color=#de2910><b>Simplified Chinese</b></font>: (By: CrewCyan, LezaiYa, NikoCat223) <br>
-\+ <font color=#ffc400><b>Spanish</b></font> (By: Dawson, Sunnyboi, thewhiskas27, xxSShadow) <br>
-\+ <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)
-
----
-- Check out all of our translators [here](/AboutUs.html#translators)!
-- [**Full v1.5.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/tag/v1.5.0) 
-- Support us on [**Ko-Fi**](https://ko-fi.com/tohen/) to get early access to features, roles, and more!
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added custom sounds for Eraser and Oiiai after erased role<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed version check for modded clients<br>
 
 ## <font size=5em><b>Latest Site Changelogs:</b></font><br>
-
-* By [**Pyro**](https://github.com/Pyro0TV) and [**Marrow**](https://github.com/Marrowless)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Updated Role Counts and lists, Sidebars, and Tables Again! <br>
-= Updated to v1.5.0<br>
+* By [**Pyro**](https://sites.google.com/view/pyro0tv)<br>
+= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.0.0 Canary 8<br>
 \+ Have a good day!<br>
-= <font color=#fdf08e><b>NOTE</b></font>: I'm back updating the site! The only things you may notice are, 1: Changelogs aren't updated (I'm not doin it so yeye), 2: Some roles settings may not be entirely up to date, its a lot already to catch up on what i catched up on, so my bad. - Pyro<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Tracker, Noisemaker, and Phantom from Vanilla Among Us are now supported in TOHE, with this comes TOHE Trackers removal, and role renames. All Role Renames should be Live, this list includes Schizophrenic -> Paranoia, Masochist -> Punching Bag, Bloodlust -> Bloodthirst, & TOHE Phantom -> Specter. <br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Renamed `GetStarted.md` -> `Install.md`, `Advanced.md` -> `Resources.md` as well as `Game.md` to `Mod.md` (as to line up with the TOHE Settings being reorganized from Game Settings to Mod Settings). Also 98% sure I fixed linking.<br>
+\+ <font color=green><b>NEW</b></font>: Added `Presets.md` - Redid the Presets part of `Resources.md`, and decided that Presets should be compiled elsewhere as to not clutter Resources. (Added Marg's Preset, and removed 2 Out of Date Presets (WitchCraft/Moe's Presets which would not work anymore)).<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Resources.md`, as well as `FAQ.md`, `Install.md`, and `Changelogs.md`. Resources & FAQ are much cleaner, Install is more straight forward, and Changelogs includes "KNOWN BUGS"<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: More Bios added to `AboutUs.md`.<br>
+= <font color=#1376f0><b>BUG FIXES</b></font>: Many small formatting, linking, and spelling fixes + a few small tweaks.<br>
+= <font color=#fdf08e><b>NOTE</b></font>: Chinese & French Translations are still in the works. (Sorry Translators, but at least they have their own folder(s) now!)<br>
+= <font color=#fdf08e><b>NOTE</b></font>: You may realize that there are 3 results of roles if you use the built-in search bar. This is because you are getting a copy for every instance (Currently, French & Chinese) that is not yet translated. (An example being Reverie, even though <i>most</i> roles will display 3 results.)<br>
+![image](./images/SearchReverie3BUG.png)<br>
+= <font color=#fdf08e><b>NOTE</b></font>: You may also find older roles from French/Chinese results, such as Luckey from the Chinese instance, as they are not up-to-date, nor translated entirely.<br>
+![image](./images/SearchLuckeyBUG.png)<br>
+= <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are not remotely close to correct, if someone would like to do the math because I am/Pyro is lazy, PLEASE DO! :D thanks!<br>
+= <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, open a forum in #website-feedback! Thank you! - Pyro<br>
+= <font color=#ece218><b>NOTICE</b></font>: Once Translations start being worked on, Translators may use this Site Changelog section to write out changelogs for their Translated parts of the Site. They may want to differenciate it, which they may if they write their own header things.<br>

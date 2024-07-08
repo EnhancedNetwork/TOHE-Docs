@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: About Us
+title: About Our Team
 contributors: false
 ---
 
@@ -10,10 +10,11 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 :::
 
-<font size=4em>Not at all close to finished, many "About" dropdowns may have Placeholder Bios</font>
+<font size=4em>Heavily WORK-IN-PROGRESS, many "About" dropdowns may have Placeholder Bios</font>
 
-## Project Lead
-[**Moe**](https://github.com/0xDrMoe): Project Lead, Website Maintainer/Developer
+## President
+
+[**Moe**](https://github.com/0xDrMoe): President, Website Maintainer/Developer
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -22,8 +23,11 @@ I'm a young developer who loves coding and gaming. I started coding when I was i
 I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++. I graduated from College with a degree in Computer Science, and I'm currently working as a freelance web developer. My main goal is to become a full-stack developer, fousing on Cybersecurity. and I'm working towards that goal.
 </details>
 
-## Lead Developers
-[**ryuk**](https://github.com/ryuk201198)：Role & Feature Coding
+---
+
+## Co-President
+
+[**ryuk**](https://github.com/ryuk201198)：Co-President, Head of Development
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -32,6 +36,87 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 
 ---
 
+## Website Assistant
+
+[**Pyro**](https://sites.google.com/view/pyro0tv)：Website Assistant & Moderator
+<details>
+<summary><b><font color=gray>About Me</font></b></summary>
+
+I am a Moderator in the TOHE Discord, aswell as the Website Assistant for tohre.dev. If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/pyro0tv), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
+</details>
+
+---
+
+## Department Heads
+
+[**Lauryn**](#): <font color=#f0b6d5>Head of HR (Human Resources)</font>
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I'm just a girl who loves to play video games and is obsessed with everything <font color=#f0b6d5>pink</font>! My job is to keep all aspects of TOHE (the server and mod itself) a fun and welcoming place for all. This means I'm keeping everyone in check, including your very own project lead! 😉
+</details>
+
+---
+
+[**Jackler**](https://linktr.ee/Jackler): Head of Tech Ops
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+Helping out with Tickets, bot related things... basically anything to do with the Discord.
+</details>
+
+---
+
+## Staff Team
+
+[**FieryFlower**](#): Sr. Moderator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I help out with ensuring the server stays a welcoming and fun community for all who join it. I enjoy painting in my spare time while my dogs try to steal my paintbrushes! When I'm not on Among Us I enjoy playing cozy or scary games! I have 2 dogs and 1 cat who I love more than words could describe.
+</details>
+
+---
+
+[**LiLPEA**](#): Sr. Moderator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I help keep the TOHE community a safe and welcoming place for everyone. So if there’s an issue, please feel free to reach out! I love to play video games (but I’m a sore loser lol) and spend time with my family. 
+</details>
+
+---
+
+[**Laikrai**](#): Moderator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I help out in the TOHE Discord. I'm working on the Modded Among Us Queue bot. Some hobbies I have are playing games & programming. My favorite game is probably Valorant.
+</details>
+
+---
+
+[**Essence**](#): Moderator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I help with moderating the TOHE Discord. Some of my hobbies are Fortnite, Discord, and other games. I also like to joke around and poke fun of myself.
+</details>
+
+---
+
+[**Matt**](#): Legal Advisor
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I'm 25 years old from the United States. I am a bar certified attorney in contract law as well as professional broadcast engineer working full time for ESPN. In my free time, I run a non-profit food ministry in Louisiana as well as enjoy watching sports.
+</details>
+
+---
+
+## TOHE Team
+### Contributors
+
 [**Tommy-XL**](https://github.com/Tommy-XL)：Role & Feature Coding, <font color=#0036a7><b>Russian</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -39,26 +124,9 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 I love playing games (I mostly play all games on PlayStation). I especially pay attention to the soundtracks in games/anime, for example in the game "Undertale" and in the anime "Death Note", they are very good. I'm interested in programming, but I really started programming after Karped stopped being a TOHE developer.
 </details>
 
-## Website Developer
-[**Pyro**](https://youtube.com/@Pyro0TV)：Website Developer/Assistant
-<details>
-<summary><b><font color=gray>About Me</font></b></summary>
-
-I am a Helper in the TOHE Discord server, aswell as a Website Developer for tohre.dev. Some hobbies I have are playing games, listening to music, watching shows/movies, & coding (for what I know). Some games I play are Minecraft, Among Us, Fortnite, & Halo. Some of my favorite shows & movies are Adventure Time & Marvel. Hope we can be good friends!
-</details>
-
-## Contributors
-
-[**Gurge44**](https://www.youtube.com/@200iqguy)：Role Coding, <font color=#cf192b><b>English</b></font> Translator (TOHE+ Dev)
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-I help with performance improvements & bug fixes, sometimes I add new roles. I also coded a customized wordle game and my own Among Us mod which are both available on my [github](https://github.com/Gurge44). I really like Among Us mods and I have a lot of motivation to keep coding and playing. I enjoy coding challenges, like roles that are very complex and/or take a while to make. I like traffic lights more than anything else, especially those in the city I live in, since they also speak and have counters. I like everything timer related.
-</details>
-
 ---
 
-[**NikoCat233**](https://github.com/NikoCat233): Feature & Role Coding
+[**NikoCat233**](https://github.com/NikoCat233): Role/Feature Coding
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -70,19 +138,6 @@ I help with performance improvements & bug fixes, sometimes I add new roles. I a
 [**Papercut**](https://github.com/lars-wu)：Role Coding
 <details>
 <summary><b><font color=gray>About</font></b></summary>
-
----
-
-(placeholder)
-</details>
-
----
-
-[**xV & MCP**](https://github.com/xVCantCode)：Feature Coding
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
----
 
 (placeholder)
 </details>
@@ -98,38 +153,11 @@ I am a part of the TOHE French Translation team. I enjoy programming and gaming.
 
 ---
 
-[**天寸梦初**](https://github.com/Huier-Huang)：Role Coding
+[**乐崽吖**](https://github.com/LezaiYa)：Role Coding, <font color=#de2910><b>Simplified Chinese</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
-</details>
-
----
-
-[**NCSIMON**](https://github.com/NCSIMON)：Role Coding
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-Helped code Many Roles for TOH: Edited.
-</details>
-
----
-
-[**Commandf1**](https://github.com/commandf1)：Role & Feature Coding
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-(placeholder)
-</details>
-
----
-
-[**乐崽吖**](https://github.com/LezaiYa)：Role Coding, <font color=#de2910><b>Chinese</b></font> Translator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-(placeholder)
+Hello everyone. I'm a Simplified Chinese Translator and Contributor to this mod. I also post videos on bilibili, I recently checked into YouTube and started posting videos to YouTube. I'm glad to meet you guys!
 </details>
 
 ---
@@ -140,6 +168,66 @@ Helped code Many Roles for TOH: Edited.
 
 TChinese Translator for in TOHE since April 2023. I'm a casual gamer, playing games such as Minecraft, Among Us, Project Sekai. Nice to meet you! (Also known as NetherDragon_Tw & 地獄龍)
 </details>
+
+---
+
+[**Drakos**](https://www.youtube.com/channel/UCVT0-d5Sxc3ab1AZvkBe-cQ)：Role/Feature Coding & <font color=#dc143c><b>Polish</b></font> Translator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I'm a TOHE Contributor & Polish Translator.
+The voices? Nah I'd win.
+I play chess when I'm bored, and catch crypto pumps 😼. I also workout and try to run very fast, so that's cool I guess.
+</details>
+
+---
+
+[**D1GQ**](https://github.com/D1GQ)：Role Coding
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+Sup... I recently got into coding in the last two years, mostly C# and Python.
+and I also do 3D art design as a hobby! Glad to meet everyone here and can't wait to work with y'all. ❤️
+</details>
+
+[**Marg**](https://margsbuttons.carrd.co/)：Role/Feature Coding
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I plan to port most of the roles from Town of Salem 2 in some form because I love that game. I have literally never coded in C# before I started working on the mod, but it's close enough to Java that I made it work `:)`. Some of my hobbies are playing video games (of course), bowling, and playing the guitar.
+</details>
+
+---
+
+[**Huier**](https://github.com/Huier-Huang)：Feature Coding
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+Used to use names like "Huier" and "天寸梦初". KPD, NiKoCat, Commandf1 are my friends. I love programming and animation as well as games like Honkai: StarRail, Among Us, Minecraft and others. I'm learning C# because of Modding, but I've also been into Java, TS, PYTHON, GO, RUST but I haven't learned it yet. Has worked on SChinese translations for TownOfHost. In the spring of 2023 I met TOHE and KPD and contributed some code. I have accounts on X, YouTube, TikTok but I'm not online often, I'm mainly active on Chinese apps! Currently not involved in development. 
+</details>
+
+---
+
+[**Gurge44**](https://www.youtube.com/@200iqguy)：Role Coding & <font color=#cf192b><b>English</b></font> Translator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I help with performance improvements & bug fixes, sometimes I add new roles. I also coded a customized wordle game and my own Among Us mod which are both available on my [github](https://github.com/Gurge44). I really like Among Us mods and I have a lot of motivation to keep coding and playing. I enjoy coding challenges, like roles that are very complex and/or take a while to make. I like traffic lights more than anything else, especially those in the city I live in, since they also speak and have counters. I like everything timer related.
+</details>
+
+---
+
+[**xV**](#)：Contributor
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+Goes by xV and Peck<br>
+I am most definitely not a developer, i just kept trying things and it kept working!<br><br>
+
+Have been inactive!
+</details>
+
+---
 
 ## Translators
 
@@ -160,6 +248,8 @@ A Veteran in TOHE, pretty good at photoshop, sadly still searching for work
 
 I'm a TOHE Translator. I like funny stuff that doesn't make any sense for anyone but me. I love drawing and sometimes making music. I'm also known as "Тøха" for some people.
 </details>
+
+---
 
 ### <font color=#de2910><b>Chinese</b></font>
 
@@ -190,13 +280,6 @@ Hello everyone, I am from mainland China. I am one of the Simplified Chinese Tra
 
 ---
 
-[**法官**](https://github.com/hinhinarrrrrr)：<font color=#de2910><b>Chinese</b></font> Translator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-(placeholder)
-</details>
-
 ### <font color=#ffc400><b>Spanish</b></font>
 
 [**thewhiskas27**](https://github.com/Thewhiskas27)：<font color=#ffc400><b>Spanish</b></font> Translator
@@ -208,48 +291,16 @@ I am a Translator in the TOHE Discord server, I enjoy gaming, drawing and going 
 
 ---
 
-[**Dawson**](https://youtu.be/MTW4sIL9Dpw?si=LpHF7tX6Aj5WLwFD)：<font color=#ffc400><b>Spanish</b></font> Translator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-I help translate TOHE into Spanish & fix English descriptions. Some hobbies I have are gaming, swimming, and reading. (Also known as butwhatabout)
-</details>
-
----
-
-[**xxSShadow**](https://www.youtube.com/channel/UCji4tV4CjOd2Xzo1GxmhCig)：<font color=#ffc400><b>Spanish</b></font> Translator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-I am a college student majoring in computer science. Some hobbies I have are programming, gaming, playing/learning guitar, playing/learning drums, and swimming. I enjoy listening to any type of music, and plan on trying to start making youtube videos alongside streaming on both twitch and youtube. (Also known as Shadow)
-</details>
-
 ### <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font>
 
-[**Reginaldoo**](#)：<font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font> Translator
+[**_Dx__**](#)：<font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I'm a Portuguese Brazil Translator. I'm also a Friday Night Funkin coder, & I make Android ports. I post videos on YouTube about games. Playing minecraft almost every day lmao.
 </details>
 
 ---
-
-[**Dopzy**](#)：<font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font> Translator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-(placeholder)
-</details>
-
----
-
-[**Arc**](#)：<font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font> Translator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-(placeholder)
-</details>
 
 ### <font color=#002654><b>French</b></font>
 
@@ -271,12 +322,23 @@ Well I'm having a bad time at school. I like gaming as Undertale and being lazy 
 
 ---
 
-[**Klémi**](#)：<font color=#002654><b>French</b></font> Translator
+[**SpaceMonkey**](#)：<font color=#002654><b>French</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
 (placeholder)
 </details>
+
+---
+
+[**Sox**](#)：<font color=#002654><b>French</b></font> Translator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+(placeholder)
+</details>
+
+---
 
 ### <font color=#bd0029><b>Japanese</b></font>
 
@@ -287,14 +349,19 @@ Well I'm having a bad time at school. I like gaming as Undertale and being lazy 
 I helped with Japanese and Spanish translations for TOHE. I played Ultimate Frisbee and Soccer at University, and I love traveling, coding, gaming, art and music! 
 </details>
 
+---
+
 ### <font color=#009b3a><b>Latam (Latin American)</b></font>
 
-[**CreepPower**](#)：<font color=#009b3a><b>Latam (Latin American)</b></font> Translator
+[**xxSShadow**](https://www.youtube.com/channel/UCji4tV4CjOd2Xzo1GxmhCig)：<font color=#009b3a><b>Latam (Latin American)</b></font> Translator, <font color=#ffc400><b>Spanish</b></font> Translator
+
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I am a college student majoring in computer science. Some hobbies I have are programming, gaming, playing/learning guitar, playing/learning drums, and swimming. I enjoy listening to any type of music, and plan on trying to start making youtube videos alongside streaming on both twitch and youtube. (Also known as Shadow)
 </details>
+
+---
 
 ### <font color=#009344><b>Italian</b></font>
 
@@ -302,53 +369,52 @@ I helped with Japanese and Spanish translations for TOHE. I played Ultimate Fris
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I play some videogames (Minecraft, Among Us, Brawl Stars and etc...), but I also love board games and card games. I also enjoy listening music (videogame music rocks) and also watching Netflix, Prime and especially YouTube.
 </details>
 
 ---
-
-[**BaphoJack**](#): <font color=#009344><b>Italian</b></font> Translator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-(placeholder)
-</details>
-
----
-
-[**reallyalot**](#): <font color=#009344><b>Italian</b></font> Translator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-Hobbies I have are gaming, playing chess, gym, and music. (Also known as alot)
-</details>
 
 ### <font color=#1e448b><b>Dutch</b></font>
 
-[**ApeMV**](https://www.youtube.com/@ape.4156): <font color=#1e448b><b>Dutch</b></font> Translator
+[**otherb.x**](https://youtube.com/@BoxOfDaAmazon?si=TcHHU91EBcodllzk): <font color=#1e448b><b>Dutch</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-Always leading that busy life. I enjoy playing and translating TOHE. I'm a competitive gamer. Additionally I like making art & editing music soundtracks.
+I'm a Translator. To be specific, I'm a Dutch Translator. I draw, sometimes code if it's in a language I can, and I'm still in school (yes).
 </details>
 
 ---
 
-[**Tango**](https://madmazel.newgrounds.com/): <font color=#1e448b><b>Dutch</b></font> Translator
+### <font color=#ffcf00><b>German</b></font>
+
+[**Eispfote**](#): <font color=#ffcf00><b>German</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a casual gamer with a special place in my heart for games that are a little bit weird or experimental. I love cycling and do it every day, but for the most part I'm a homebody. I have a cat named Boris, affectionately nicknamed Snoris because he snores sometimes.
+Im a German Junior Translator. I love cats, anime, and sometimes being alone. I like to learn a bit of everything, piano, (very little) Japanese, and programming in C#
 </details>
 
-### <font color=#cf192b><b>English</b></font>
+---
 
-[**SolarFlare**](#)：<font color=#cf192b><b>English</b></font> Translator & Document
+[**.BerTram**](https://linktr.ee/BerTram.at): <font color=#ffcf00><b>German</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I’m a German Translator from Austria, 20, and verified Master of watchmaking. My passion is professional translating, management, moderation and developing on Discord.
 </details>
+
+---
+
+### <font color=#056306><b>Portuguese (Portuguese Portugal)</b></font>
+
+[**smokin**](#)：<font color=#056306><b>Portuguese (Portuguese Portugal)</b></font> Translator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I'm a Portuguese Portugal Translator (maybe the only one 😓). I mostly like to listen to and make music in my freetime. I LOVE CATS! Nice to meet y'all. 🤝
+</details>
+
+---
 
 ## MVPs
 
@@ -359,6 +425,8 @@ I'm a casual gamer with a special place in my heart for games that are a little 
 Created most of the Images that TOHE uses (Such as Tab Images)
 </details>
 
+---
+
 ## Original Creator
 
 [**KARPED1EM**](https://github.com/KARPED1EM)：Original TOHE Creator (TONX Dev)
@@ -368,7 +436,9 @@ Created most of the Images that TOHE uses (Such as Tab Images)
 The original creator of TOH: Edited, now being worked on again as TONX/Town of Next.
 </details>
 
-## Credited Mods 
+---
+
+# Credited Mods 
 
 [**Town Of Host Edited: Restored**](https://github.com/Loonie-Toons/Re-Edited) (By: TheSkullCreeper)
 <details>

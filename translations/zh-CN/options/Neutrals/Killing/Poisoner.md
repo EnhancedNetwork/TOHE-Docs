@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Poisoner
-prev: Plaguebearer
+prev: PlagueScientist
 next: PotionMaster
 ---
 

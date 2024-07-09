@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Parasite
-prev: Crewpostor
+prev: Refugee
 next: /options/Settings/Impostors.html
 ---
 

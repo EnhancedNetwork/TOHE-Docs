@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Randomizer
-prev: Mini
+prev: Mole
 next: SuperStar
 ---
 

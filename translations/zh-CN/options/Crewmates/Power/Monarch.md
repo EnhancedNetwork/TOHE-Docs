@@ -8,7 +8,13 @@ next: Overseer
 # <font color="#ffa500">👑 <b>Monarch</b></font> <Badge text="Power" type="tip" vertical="middle"/>
 ---
 
-You can make players Knighted, which gives them an extra vote. You cannot Knight someone with different voting methods, like Mayor/Vindicator/Dictator/Stealer. You cannot Knight the Glitch.
+As the Monarch, you can knight players to give them an extra vote.
+
+You cannot knight someone who already has extra votes.
+
+Knighted players appear with a golden name.
+If a knighted player is alive, the Monarch cannot be guessed or exhiled.
+
 * Max
   * Set the Maximum amount of Monarchs that can be in a match
 * Knight Cooldown

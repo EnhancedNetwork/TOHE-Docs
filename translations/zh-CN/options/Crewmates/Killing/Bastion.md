@@ -10,7 +10,6 @@ next: Bodyguard
 
 As the Bastion, bomb vents to kill off impostors and neutrals.<br><br>
 Be careful though, crewmates can also be killed with the bombs.
-
 * Bombs clear after meetings
   * Any bombs the Bastion places will be cleared after a meeting ends
 * Bomb Cooldown

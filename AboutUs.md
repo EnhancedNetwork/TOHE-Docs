@@ -429,7 +429,16 @@ I'm a Portuguese Portugal Translator (maybe the only one 😓). I mostly like to
 
 ## MVPs
 
-[**IRIDESCENT**](https://space.bilibili.com/434079598)：Art
+[**賣蟑螂(NK)**](https://www.youtube.com/@notkomi_lol)：Art (Ability/Skill Buttons)
+<details>
+<summary><b><font color=gray>About Me</font></b></summary>
+
+Hello, I am a senior high school from Taiwan. I like to play Minecraft PvP, Among Us, Project Sekai. Nice to meet you! :D
+</details>
+
+---
+
+[**IRIDESCENT**](https://space.bilibili.com/434079598)：Art (Tab Images)
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 

@@ -2,7 +2,7 @@
 lang: en-US
 title: Romantic
 prev: Pursuer
-next: Shaman
+next: SchrodingersCat
 ---
 
 # <font color="#ff1493">💕 <b>Romantic</b></font> <Badge text="Benign" type="tip" vertical="middle"/>

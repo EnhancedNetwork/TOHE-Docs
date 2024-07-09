@@ -8,8 +8,7 @@ next: Stubborn
 # <font color=#3a648f>🫂 <b>Schizophrenic</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
 ---
 
-<p><font color=#7f8c8d>Neutrals</font> and Madmates can't become Schizophrenic. Schizophrenic will be considered as 2 players in the game (not applying to meeting votes). Having at least one player as Schizophrenic won't end the game if there are only them and the <font color=red>Impostor</font> left.</p>
-
+Madmates and <font color=#7f8c8d>Neutrals</font> can't become Schizophrenic. Schizophrenic will be considered as 2 players in the game (not applying to meeting votes). Having at least one player as Schizophrenic won't end the game if there are only them and the <font color=red>Impostor</font> left.
 * Max
   * Set the Maximum amount of Schizophrenics that can be in a match
 * Spawn Chance

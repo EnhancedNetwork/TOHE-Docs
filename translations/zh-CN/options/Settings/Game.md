@@ -8,6 +8,9 @@ next: Modifiers
 # <font color=#ffc0cb>🎮 Game Settings</font>
 ---
 
+## <font color=#ffc0cb>📃 Standard</font>
+---
+
 ### <font size=4em color=#ffeee8>Ejection</font>
   * Confirm Ejections Mode
     * Set how the game will describe ejections
@@ -34,9 +37,10 @@ next: Modifiers
   * Random Maps Mode
     * <font color=green>ON</font>: Map will be chosen randomly
       * Chance that the map is
-        * Skeld - Set the chance that the map will be Skeld
+        * The Skeld - Set the chance that the map will be The Skeld
         * MIRA HQ - Set the chance that the map will be MIRA HQ
         * Polus - Set the chance that the map will be Polus
+        * dlekS ehT  - Set the chance that the map will be dlekS ehT
         * Airship - Set the chance that the map will be Airship
         * The Fungle - Set the chance that the map will be The Fungle
         * Use a more random map selection
@@ -55,8 +59,8 @@ next: Modifiers
           * <font color=red>OFF</font>: Spawn locations will be chosen normally
       * <font color=red>OFF</font>: Spawn locations will be chosen normally
     * Map Modifications
-      * <font color=green>ON</font>: Map modifiers to change how you can play on maps
-      * <font color=red>OFF</font>: Map modifiers will not be implemented
+      * <font color=green>ON</font>: Mess with Map modifiers to change how you can play on maps
+      * <font color=red>OFF</font>: Map modifiers will not be implemented and will work as Vanilla intended
         * Variable Electrical (<font color=red>Airship</font>)
           * The Electrical room will be randomized.
         * Disable Moving Platform (<font color=red>Airship</font>)
@@ -246,24 +250,24 @@ next: Modifiers
         * No vote - The player's vote will not be counted
         * Suicide - The player will suicide after meeting
           * Ignore the First Meeting
-            * <font color=green>ON</font>: The first meeting will not suicide the player
-            * <font color=red>OFF</font>: The first meeting will suicide the player
+            * <font color=green>ON</font>: The first meeting will not make the player suicide
+            * <font color=red>OFF</font>: The first meeting will make the player suicide
           * Ignore when No Dead Body
-            * <font color=green>ON</font>: If there's no dead body, skipping will not suicide the player
-            * <font color=red>OFF</font>: If there's no dead body, skipping will suicide the player
+            * <font color=green>ON</font>: If there's no dead body, skipping will not make the player suicide
+            * <font color=red>OFF</font>: If there's no dead body, skipping will make the player suicide
           * Ignore at Emergency Meetings
-            * <font color=green>ON</font>: If an Emergency Button is called, skipping will not suicide the player
-            * <font color=red>OFF</font>: If an Emergency Button is called, skipping will suicide the player
+            * <font color=green>ON</font>: If an Emergency Button is called, skipping will not make the player suicide
+            * <font color=red>OFF</font>: If an Emergency Button is called, skipping will make the player suicide
         * Self Vote - The player will vote themself
           * Ignore the First Meeting
-            * <font color=green>ON</font>: The first meeting will not suicide the player
-            * <font color=red>OFF</font>: The first meeting will suicide the player
+            * <font color=green>ON</font>: The first meeting will not make the player self-vote
+            * <font color=red>OFF</font>: The first meeting will make the player self-vote
           * Ignore when No Dead Body
-            * <font color=green>ON</font>: If there's no dead body, skipping will not suicide the player
-            * <font color=red>OFF</font>: If there's no dead body, skipping will suicide the player
+            * <font color=green>ON</font>: If there's no dead body, skipping will not make the player self-vote
+            * <font color=red>OFF</font>: If there's no dead body, skipping will make the player self-vote
           * Ignore at Emergency Meetings
-            * <font color=green>ON</font>: If an Emergency Button is called, skipping will not suicide the player
-            * <font color=red>OFF</font>: If an Emergency Button is called, skipping will suicide the player
+            * <font color=green>ON</font>: If an Emergency Button is called, skipping will not make the player self-vote
+            * <font color=red>OFF</font>: If an Emergency Button is called, skipping will make the player self-vote
       * If the player didn't vote
         * No vote - No vote will be tallied (Abstain)
         * Suicide - The player will suicide after the meeting
@@ -304,4 +308,139 @@ next: Modifiers
     * <font color=green>ON</font>: Ghosts will be able to see the cause of death of other players
     * <font color=red>OFF</font>: Ghosts will not be able to see the cause of death of other players
 
-> From: TOHE
+## <font color=#ffc0cb>⚔️ Free For All</font>
+---
+
+* Maximum Game Length
+  * Set how long the game will be
+* Kill Cooldown
+  * Set the global Kill Cooldown of all players
+* Prevent venting when only 2 players are alive
+  * <font color=green>ON</font>: Venting will be disabled when only 2 players are alive
+  * <font color=red>OFF</font>: Venting will not be disabled when only 2 players are alive
+* Prevent players whose kill cooldown is up from venting
+  * <font color=green>ON</font>: Players who have 0 Cooldown will not be able to vent
+  * <font color=red>OFF</font>: Players who have 0 Cooldown will still be able to vent
+* Enable Random Events
+  * <font color=green>ON</font>: Random Events may occur
+  * <font color=red>OFF</font>: Random Events will not occur
+* Shield Duration
+  * Set how long Shields will last
+* Increased Speed
+  * Set how fast Increased Speed makes players
+* Decreased Speed
+  * Set how slow Decreased Speed makes players
+* Modified Speed Duration
+  * Set how long Speed modifications will last
+* Lowered Vision
+  * Set how low the Vision will be
+* Lowered Vision Duration
+  * Set how long Lowered Vision will last
+* Enable Random Swaps from time to time
+  * <font color=green>ON</font>: Random Swaps may occur
+  * <font color=red>OFF</font>: Random Swaps will not occur
+* Shields break after 1 kill attempt
+  * <font color=green>ON</font>: Shields will break after 1 kill attempt
+  * <font color=red>OFF</font>: Shields will not break after 1 kill attempt
+
+* Random Maps Mode
+  * <font color=green>ON</font>: Map will be chosen randomly
+    * Chance that the map is
+      * The Skeld - Set the chance that the map will be The Skeld
+      * MIRA HQ - Set the chance that the map will be MIRA HQ
+      * Polus - Set the chance that the map will be Polus
+      * dlekS ehT  - Set the chance that the map will be dlekS ehT
+      * Airship - Set the chance that the map will be Airship
+      * The Fungle - Set the chance that the map will be The Fungle
+      * Use a more random map selection
+        * <font color=green>ON</font>: Maps will be selected even more randomly
+        * <font color=red>OFF</font>: Maps will not be selected even more randomly
+* Map Modifications
+  * <font color=green>ON</font>: Mess with Map modifiers to change how you can play on maps
+  * <font color=red>OFF</font>: Map modifiers will not be implemented and will work as Vanilla intended
+    * Variable Electrical (<font color=red>Airship</font>)
+      * The Electrical room will be randomized.
+    * Disable Moving Platform (<font color=red>Airship</font>)
+      * <font color=green>ON</font>: Moving platform will be disabled
+      * <font color=red>OFF</font>: Moving platform will be enabled
+    * Disable Spore Trigger (<font color=#ffa646>Fungle</font>)
+      * <font color=green>ON</font>: Spore Trigger will be disabled
+      * <font color=red>OFF</font>: Spore Trigger will be enabled
+    * Disable Zipline (<font color=#ffa646>Fungle</font>)
+      * <font color=green>ON</font>: Zipline will be disabled
+        * Disable Use From Top
+          * <font color=green>ON</font>: Zipline will be disabled from the top
+          * <font color=red>OFF</font>: Zipline will not be disabled from the top
+        * Disable Use From Bottom
+          * <font color=green>ON</font>: Zipline will be disabled from the bottom
+          * <font color=red>OFF</font>: Zipline will not be disabled from the bottom
+      * <font color=red>OFF</font>: Zipline will be enabled
+* Disable Devices
+  * <font color=green>ON</font>: Devices will be disabled
+    * Disable Skeld Devices
+      * <font color=green>ON</font>: Skeld Devices will be disabled
+        * Disable Admin
+          * <font color=green>ON</font>: Admin will be disabled
+          * <font color=red>OFF</font>: Admin will be enabled
+        * Disable Cameras
+          * <font color=green>ON</font>: Cameras will be disabled
+          * <font color=red>OFF</font>: Cameras will be enabled
+      * <font color=red>OFF</font>: Skeld Devices will be enabled
+    * Disable MiraHQ Devices
+      * <font color=green>ON</font>: MiraHQ Devices will be disabled
+        * Disable Admin
+          * <font color=green>ON</font>: Admin will be disabled
+          * <font color=red>OFF</font>: Admin will be enabled
+        * Disable DoorLog
+          * <font color=green>ON</font>: DoorLog will be disabled
+          * <font color=red>OFF</font>: DoorLog will be enabled
+      * <font color=red>OFF</font>: MiraHQ Devices will be enabled
+    * Disable Polus Devices
+      * <font color=green>ON</font>: Polus Devices will be disabled
+        * Disable Admin
+          * <font color=green>ON</font>: Admin will be disabled
+          * <font color=red>OFF</font>: Admin will be enabled
+        * Disable Cameras
+          * <font color=green>ON</font>: Cameras will be disabled
+          * <font color=red>OFF</font>: Cameras will be enabled
+        * Disable Vitals
+          * <font color=green>ON</font>: Vitals will be disabled
+          * <font color=red>OFF</font>: Vitals will be enabled
+      * <font color=red>OFF</font>: Polus Devices will be enabled
+    * Disable Airship Devices
+      * <font color=green>ON</font>: Airship Devices will be disabled
+        * Disable Cockpit Admin
+          * <font color=green>ON</font>: Cockpit Admin will be disabled
+          * <font color=red>OFF</font>: Cockpit Admin will be enabled
+        * Disable Records Admin
+          * <font color=green>ON</font>: Records Admin will be disabled
+          * <font color=red>OFF</font>: Records Admin will be enabled
+        * Disable Cameras
+          * <font color=green>ON</font>: Cameras will be disabled
+          * <font color=red>OFF</font>: Cameras will be enabled
+        * Disable Vitals
+          * <font color=green>ON</font>: Vitals will be disabled
+          * <font color=red>OFF</font>: Vitals will be enabled
+      * <font color=red>OFF</font>: Airship Devices will be enabled
+    * Disable Fungle Devices
+      * <font color=green>ON</font>: Fungle Devices will be disabled
+        * Disable Binoculars (Will Not Work for Vanilla)
+          * <font color=green>ON</font>: Binoculars will be disabled
+          * <font color=red>OFF</font>: Binoculars will be enabled
+        * Disable Vitals
+          * <font color=green>ON</font>: Vitals will be disabled
+          * <font color=red>OFF</font>: Vitals will be enabled
+      * <font color=red>OFF</font>: Fungle Devices will be enabled
+  * Ignore Conditions
+    * Ignore <font color=red>Impostors</font>
+      * <font color=green>ON</font>: <font color=red>Impostors</font> conditions will be ignored
+      * <font color=red>OFF</font>: <font color=red>Impostors</font> conditions will not be ignored
+    * Ignore <font color=#7f8c8d>Neutrals</font>
+      * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> conditions will be ignored
+      * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> conditions will not be ignored
+    * Ignore <font color=#8cffff>Crewmates</font>
+      * <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> conditions will be ignored
+      * <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> conditions will not be ignored
+    * Ignore after First Death
+      * <font color=green>ON</font>: Conditions will be ignored after the first death
+      * <font color=red>OFF</font>: Conditions will not be ignored after the first death

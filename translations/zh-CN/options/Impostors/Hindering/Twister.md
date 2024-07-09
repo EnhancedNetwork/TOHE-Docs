@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Twister
-prev: Pitfall
+prev: Stealth
 next: /options/Settings/Impostors.html
 ---
 

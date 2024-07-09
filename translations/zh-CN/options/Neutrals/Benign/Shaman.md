@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Shaman
-prev: Romantic
+prev: SchrodingersCat
 next: Taskinator
 ---
 

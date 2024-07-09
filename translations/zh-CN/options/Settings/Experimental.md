@@ -16,27 +16,27 @@ next: Impostors
 
 <tr>
 <td><font color=#ff9ace><b>Add-ons</b></font></td>
-<td align="center">2</td>
+<td align="center">1</td>
 </tr>
 
 <tr>
 <td><font color=#8cffff><b>Crewmate</b></font> </td>
-<td align="center">3</td>
+<td align="center">0</td>
 </tr>
 
 <tr>
 <td><font color=red><b>Impostor</b></font></td>
-<td align="center">8</td>
+<td align="center">1</td>
 </tr>
 
 <tr>
 <td><font color=#7c8c8d><b>Neutral</b></font></td>
-<td align="center">3</td>
+<td align="center">4</td>
 </tr>
 
 <tr>
 <td><font color=#76b8e0><b>Total:</b></font></td>
-<td align="center"><b>16</b></td>
+<td align="center"><b>6</b></td>
 </tr>
 
 </table>
@@ -44,20 +44,20 @@ next: Impostors
 
 ### <font color=#ff9ace><b>Add-ons</b></font>
 ---
-[Fool](/options/Experimental/Addon/Fool.html) | [Oiiai Cat](/options/Experimental/Addon/OiiaiCat.html) | [YouTuber](/options/Experimental/Addon/YouTuber.html)
+[YouTuber](/options/Experimental/Addon/YouTuber.html)
 <br>
 
 ### <font color=#8cffff><b>Crewmate</b></font>
 ---
-[Admirer](/options/Experimental/Crewmate/Admirer.html) | [Investigator](/options/Experimental/Crewmate/Investigator.html)
+[N/A](#)
 <br>
 
 ### <font color=red><b>Impostor</b></font>
 ---
-[Blackmailer](/options/Experimental/Impostor/Blackmailer.html) | [Butcher](/options/Experimental/Impostor/Butcher.html) | [Disperser](/options/Experimental/Impostor/Disperser.html) | [Eraser](/options/Experimental/Impostor/Eraser.html) | [Hangman](/options/Experimental/Impostor/Hangman.html) | [Killing Machine](/options/Experimental/Impostor/KillingMachine.html) | [Lightning](/options/Experimental/Impostor/Lightning.html) | [Zombie](/options/Experimental/Impostor/Zombie.html)
+[Disperser](/options/Experimental/Impostor/Disperser.html)
 <br>
 
 ### <font color=#7f8c8d><b>Neutral</b></font>
 ---
-[Doppelganger](/options/Experimental/Neutral/Doppelganger.html) | [God](/options/Experimental/Neutral/God.html) | [Spiritcaller](/options/Experimental/Neutral/Spiritcaller.html)
+[Doppelganger](/options/Experimental/Neutral/Doppelganger.html) | [God](/options/Experimental/Neutral/God.html) | [Quizmaster](/options/Experimental/Neutral/Quizmaster.html) | [Spiritcaller](/options/Experimental/Neutral/Spiritcaller.html)
 <br>

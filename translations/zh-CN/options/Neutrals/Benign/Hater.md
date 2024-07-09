@@ -12,7 +12,8 @@ As the Hater, you have no kill cooldown. However, you can only kill Lovers, and 
 * Max
   * Set the Maximum amount of Haters that can be in a match 
 * Hater kills target when misfire
-  * Set the Maximum amount of Haters that can be in a match 
+  * <font color=green>ON</font>: The Hater will kill their target on misfire
+  * <font color=red>OFF</font>: The Hater will not kill their target on misfire
 * Select addons that Hater can kill
   * <font color=green>ON</font>: Choose addons that the Hater can kill without misfiring
     * Madmate

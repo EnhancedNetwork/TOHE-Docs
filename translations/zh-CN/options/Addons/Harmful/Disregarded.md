@@ -2,7 +2,7 @@
 lang: en-US
 title: Disregarded
 prev: /options/Settings/Addons.html
-next: Fragile
+next: Fool
 ---
 
 # <font color=#ff6347>🤚 <b>Disregarded</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>

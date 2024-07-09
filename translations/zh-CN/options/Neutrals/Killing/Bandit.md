@@ -10,8 +10,7 @@ next: BloodKnight
 
 As the Bandit, use your kill button to steal a player's add-on. Depending on the settings, you may instantly steal the addon or after the meeting starts. After the max number of steals are reached you will be able to kill normally. Additionally, if there are no stealable addons present on the target you will the target.<br><br>
 Kill everyone to win.<br><br>
-Note:- Cleansed, Last Impostor and Lovers can not be stolen.
-
+Note: Cleansed, Last Impostor and Lovers can not be stolen.
 * Max
   * Set the Maximum amount of Bandits that can be in a match
 * Maximum Steals
@@ -31,4 +30,4 @@ Note:- Cleansed, Last Impostor and Lovers can not be stolen.
   * <font color=green>ON</font>: the Bandit can Sabotage
   * <font color=red>OFF</font>: the Bandit cannot Sabotage
   
-> From: [ryuk](#)
+> Idea: [thewhiskas27] & Coding [ryuk](#)

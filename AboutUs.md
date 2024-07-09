@@ -331,15 +331,6 @@ Well I'm having a bad time at school. I like gaming as Undertale and being lazy 
 
 ---
 
-[**Sox**](#)：<font color=#002654><b>French</b></font> Translator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-(placeholder)
-</details>
-
----
-
 ### <font color=#bd0029><b>Japanese</b></font>
 
 [**Sunnyboi**](#)：<font color=#bd0029><b>Japanese</b></font> & <font color=#ffc400><b>Spanish</b></font> Translator

@@ -56,18 +56,28 @@ contributors: false
 * By [**Pyro**](https://sites.google.com/view/pyro0tv)<br>
 = <font color=#ece218><b>NOTICE</b></font>: Updated to v2.0.0 Canary 8<br>
 \+ Have a good day!<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Tracker, Noisemaker, and Phantom from Vanilla Among Us are now supported in TOHE, with this comes TOHE Trackers removal, and role renames. All Role Renames should be Live, this list includes Schizophrenic -> Paranoia, Masochist -> Punching Bag, Bloodlust -> Bloodthirst, & TOHE Phantom -> Specter. <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Renamed `GetStarted.md` -> `Install.md`, `Advanced.md` -> `Resources.md` as well as `Game.md` to `Mod.md` (as to line up with the TOHE Settings being reorganized from Game Settings to Mod Settings). Also 98% sure I fixed linking.<br>
-\+ <font color=green><b>NEW</b></font>: Added `Presets.md` - Redid the Presets part of `Resources.md`, and decided that Presets should be compiled elsewhere as to not clutter Resources. (Added Marg's Preset, and removed 2 Out of Date Presets (WitchCraft/Moe's Presets which would not work anymore)).<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Resources.md`, as well as `FAQ.md`, `Install.md`, and `Changelogs.md`. Resources & FAQ are much cleaner, Install is more straight forward, and Changelogs includes "KNOWN BUGS"<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: More Bios added to `AboutUs.md`.<br>
-= <font color=#1376f0><b>BUG FIXES</b></font>: Many small formatting, linking, and spelling fixes + a few small tweaks.<br>
-= <font color=#fdf08e><b>NOTE</b></font>: Chinese & French Translations are still in the works. (Sorry Translators, but at least they have their own folder(s) now!)<br>
-= <font color=#fdf08e><b>NOTE</b></font>: You may realize that there are 3 results of roles if you use the built-in search bar. This is because you are getting a copy for every instance (Currently, French & Chinese) that is not yet translated. (An example being Reverie, even though <i>most</i> roles will display 3 results.)<br>
-![image](./images/SearchReverie3BUG.png)<br>
-= <font color=#fdf08e><b>NOTE</b></font>: You may also find older roles from French/Chinese results, such as Luckey from the Chinese instance, as they are not up-to-date, nor translated entirely.<br>
-![image](./images/SearchLuckeyBUG.png)<br>
+= <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, open a forum in #website-feedback! Thank you!<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: `Tracker`, `Noisemaker`, and `Phantom` have been added to the Vanilla Tab of their respective factions.<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: `Tracker (TOHE)` has been REMOVED.<br>
+\+ <font color=#12edaf><b>RENAMED</b></font>: `Phantom (TOHE)` has been renamed to `Specter`.<br>
+\+ <font color=#12edaf><b>RENAMED</b></font>: `Schizophrenic` has been renamed to `Paranoia`.<br>
+\+ <font color=#12edaf><b>RENAMED</b></font>: `Masochist` has been renamed to `Punching Bag`.<br>
+\+ <font color=#12edaf><b>RENAMED</b></font>: `Bloodlust` has been renamed to `Bloodthirst`.<br>
+\+ <font color=#12edaf><b>RENAMED</b></font>: `GetStarted.md` has been renamed to `Install.md`<br>
+\+ <font color=#12edaf><b>RENAMED</b></font>: `Advanced.md` has been renamed to `Resources.md`<br>
+\+ <font color=#12edaf><b>RENAMED</b></font>: `Game.md` has been renamed to `Mod.md`<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Resources.md` (Includes more Resources to look through, such as Commands/HotKeys like before, as well as Death Reasons + why they occur, and more.)
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `FAQ.md` (Questions are now sorted in drop-down boxes.)
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Install.md` (Now includes both Steam + Epic guides, and has been straightened up.)
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Changelogs.md` (Now includes "KNOWN BUGS")
+\+ <font color=green><b>NEW</b></font>: Added `Presets.md` (Instead of cluttering `Resources.md` with future Preset Submissions, Presets will be listed here. Added Marg's Preset & removed 2 out of date Presets (WitchCraft & Moe's Presets which used the old system).<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: More Bios added to `AboutUs.md`. (Still not 100% Complete as we are still missing the Bios of mulitple Contributors. You can see which as they'll have `(Placeholder Bio)` in the place of their Bio.<br>
+= <font color=#1376f0><b>BUG FIXES</b></font>: Many formatting, linking, and spelling fixes/updates.<br>
 = <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are not remotely close to correct, if someone would like to do the math because I am/Pyro is lazy, PLEASE DO! :D thanks!<br>
-= <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, open a forum in #website-feedback! Thank you! - Pyro<br>
+= <font color=#fdf08e><b>NOTE</b></font>: Simplified Chinese & French Translations are still in the works. (Sorry Translators, but at least they have their own folder(s) now!)<br>
+= <font color=#ece218><b>NOTICE</b></font>: `zh-CN` and `fr` folders are out of date. (my bad)<br>
+= <font color=#fdf08e><b>NOTE</b></font>: You may realize that there are 3 results of roles if you use the built-in search bar. This is because you are getting a copy for every instance (Currently, `fr` & `zh-CN`) that is not yet translated. (An example being Reverie, even though <i>most</i> roles will display 3 results.)<br>
+![image](./images/SearchReverie3BUG.png)<br>
+= <font color=#fdf08e><b>NOTE</b></font>: You may also find older roles from French/Simplified Chinese results, such as Luckey from the `zh-CN` instance, as they are not up-to-date, nor translated entirely. (Luckey isn't in the `zh-CN` instance anymore, but the same issue can occur with other roles.)<br>
+![image](./images/SearchLuckeyBUG.png)<br>
 = <font color=#ece218><b>NOTICE</b></font>: Once Translations start being worked on, Translators may use this Site Changelog section to write out changelogs for their Translated parts of the Site. They may want to differenciate it, which they may if they write their own header things.<br>
-= <font color=#ece218><b>NOTICE</b></font>: zh-CN now has FAQ Translation (Thanks to FlyFlyCat's help)

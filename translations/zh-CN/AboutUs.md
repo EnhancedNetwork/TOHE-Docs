@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: en-US
 title: About Our Team
 contributors: false
 ---
@@ -331,15 +331,6 @@ Well I'm having a bad time at school. I like gaming as Undertale and being lazy 
 
 ---
 
-[**Sox**](#)：<font color=#002654><b>French</b></font> Translator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-(placeholder)
-</details>
-
----
-
 ### <font color=#bd0029><b>Japanese</b></font>
 
 [**Sunnyboi**](#)：<font color=#bd0029><b>Japanese</b></font> & <font color=#ffc400><b>Spanish</b></font> Translator
@@ -385,6 +376,17 @@ I'm a Translator. To be specific, I'm a Dutch Translator. I draw, sometimes code
 
 ---
 
+### <font color=#1e448b><b>Dutch</b></font>
+
+[**Victor**](https://youtube.com/@BoxOfDaAmazon?si=TcHHU91EBcodllzk): <font color=#1e448b><b>Dutch</b></font> Translator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I did a little Dutch translation. Have been inactive recently. (Also known as Lankyjuice)
+</details>
+
+---
+
 ### <font color=#ffcf00><b>German</b></font>
 
 [**Eispfote**](#): <font color=#ffcf00><b>German</b></font> Translator
@@ -418,7 +420,16 @@ I'm a Portuguese Portugal Translator (maybe the only one 😓). I mostly like to
 
 ## MVPs
 
-[**IRIDESCENT**](https://space.bilibili.com/434079598)：Art
+[**賣蟑螂(NK)**](https://www.youtube.com/@notkomi_lol)：Art (Ability/Skill Buttons)
+<details>
+<summary><b><font color=gray>About Me</font></b></summary>
+
+Hello, I am a senior high school from Taiwan. I like to play Minecraft PvP, Among Us, Project Sekai. Nice to meet you! :D
+</details>
+
+---
+
+[**IRIDESCENT**](https://space.bilibili.com/434079598)：Art (Tab Images)
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 

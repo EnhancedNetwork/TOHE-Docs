@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: en-US
 title: Frequently Asked Questions
 contributors: false
 ---

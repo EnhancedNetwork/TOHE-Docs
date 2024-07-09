@@ -2,7 +2,7 @@
 lang: en-US
 title: Cultist
 prev: Collector
-next: Phantom
+next: God
 ---
 
 # <font color="#cf6acd">🦹 <b>Cultist</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>

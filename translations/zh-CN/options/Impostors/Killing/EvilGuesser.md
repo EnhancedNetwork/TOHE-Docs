@@ -2,7 +2,7 @@
 lang: en-US
 title: Evil Guesser
 prev: Deathpact
-next: EvilTracker
+next: EvilHacker
 ---
 
 # <font color="red">🔪 <b>Evil Guesser</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

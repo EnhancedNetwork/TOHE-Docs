@@ -1,5 +1,5 @@
 ---
-lang: fr
+lang: en-US
 title: Stable Changelogs
 sidebarDepth: 1
 sidebar:

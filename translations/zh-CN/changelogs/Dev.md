@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: en-US
 title: Canary Changelogs
 sidebar:
 - { text: Latest Changelog, link: /Changelogs.html}

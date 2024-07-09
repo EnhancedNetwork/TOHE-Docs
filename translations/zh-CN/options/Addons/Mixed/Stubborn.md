@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Stubborn
-prev: Schizophrenic
+prev: Rebound
 next: Susceptible
 ---
 

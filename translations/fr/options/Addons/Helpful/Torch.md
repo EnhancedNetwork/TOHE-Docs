@@ -5,7 +5,7 @@ prev: Tiebreaker
 next: Watcher
 ---
 
-# <font color=#eee5be>🔥 <b>Torch</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
+# <font color=#eee5be>🕯️ <b>Torch</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 ---
 
 Only <font color=#8cffff>Crewmates</font> will be Torch, they will have max vision and will not be affected by Lights sabotage.

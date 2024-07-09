@@ -5,7 +5,7 @@ prev: Keeper
 next: Mechanic
 ---
 
-# <font color="#eee5be">🔥 <b>Lighter</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="#eee5be">🔦 <b>Lighter</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 As the Lighter, you can vent to increase your vision temporarily.<br>

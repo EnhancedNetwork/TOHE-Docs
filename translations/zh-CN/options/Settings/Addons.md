@@ -5,10 +5,10 @@ prev: /options/settings/Neutrals.html
 next: /options/settings/Experimental.html
 ---
 
-# <font color="#ff9ace">➕ <b>Add-ons</b></font>
+# <font color="#ff9ace">📋 <b>Add-ons</b></font>
 ---
 
-<b>These are modifiers that any players can acquire. There are helpful, harmful, and <font color=red>Impostor</font> add-ons. Each one is unique in the way it affects the player.</b>
+<b>These are modifiers that any players can acquire. There are some that help you, some that harm you, and some can do both! There are also some <font color=red>Impostor Only</font> add-ons. Each one is unique in the way it affects the player.</b><br>
 
 <table>
 <tr>
@@ -16,27 +16,32 @@ next: /options/settings/Experimental.html
 </tr>
 
 <tr>
-<td><font color=red><b>Harmful</b></font></td>
+<td><font color=#4d223a><b>🚧 Experimental</b></font></td>
+<td align="center">1</td>
+</tr>
+
+<tr>
+<td><font color=red><b>🤕 Harmful</b></font></td>
 <td align="center">12</td>
 </tr>
 
 <tr>
-<td><font color=#00ff00><b>Helpful</b></font></td>
+<td><font color=#00ff00><b>🤑 Helpful</b></font></td>
 <td align="center">19</td>
 </tr>
 
 <tr>
-<td><font color=red><b>Impostor</b></font></td>
+<td><font color=red><b>🦹 Impostor Only</b></font></td>
 <td align="center">9</td>
 </tr>
 
 <tr>
-<td><font color=#a83295><b>Miscellaneous</b></font></td>
+<td><font color=#a83295><b>⚙️ Miscellaneous</b></font></td>
 <td align="center">5</td>
 </tr>
 
 <tr>
-<td><font color=#32a87f><b>Mixed</b></font></td>
+<td><font color=#32a87f><b>😵‍💫 Mixed</b></font></td>
 <td align="center">13</td>
 </tr>
 
@@ -47,6 +52,10 @@ next: /options/settings/Experimental.html
 
 </table>
 <br>
+
+### <font color=#4d223a><b>Experimental</b></font>
+---
+[Glow](/options/Addons/Experimental/Glow.html)
 
 ### <font color=#ff0000><b>Harmful</b></font>
 ---
@@ -65,11 +74,11 @@ next: /options/settings/Experimental.html
 
 ### <font color=#a83295><b>Miscellaneous</b></font>
 ---
-[Egoist](/options/Addons/Miscellaneous/Egoist.html) | [Lovers](/options/Addons/Miscellaneous/Lovers.html) | [Rainbow](/options/Addons/Miscellaneous/Rainbow.html) | [Reach](/options/Addons/Miscellaneous/Reach.html) | [Workhorse](/options/Addons/Miscellaneous/Workhorse.html)
+[Egoist](/options/Addons/Miscellaneous/Egoist.html) | [Lovers](/options/Addons/Miscellaneous/Lovers.html) | [Rainbow](/options/Addons/Miscellaneous/Rainbow.html) | [Reach](/options/Addons/Miscellaneous/Reach.html) | [Workhorse](/options/Addons/Miscellaneous/Workhorse.html) | [YouTuber](/options/Addons/Miscellaneous/YouTuber.html)
 
 ### <font color=#32a87f><b>Mixed</b></font>
 ---
-[Antidote](/options/Addons/Mixed/Antidote.html) | [Avenger](/options/Addons/Mixed/Avenger.html) | [Aware](/options/Addons/Mixed/Aware.html) | [Bloodlust](/options/Addons/Mixed/Bloodlust.html) | [Diseased](/options/Addons/Mixed/Diseased.html) | [Ghoul](/options/Addons/Mixed/Ghoul.html) | [Gravestone](/options/Addons/Mixed/Gravestone.html) | [Guesser](/options/Addons/Mixed/Guesser.html) | [OIIAI](/options/Addons/Mixed/OIIAI.html) | [Rebound](/options/Addons/Mixed/Rebound.html) | [Schizophrenic](/options/Addons/Mixed/Schizophrenic.html) | [Stubborn](/options/Addons/Mixed/Stubborn.html) | [Susceptible](/options/Addons/Mixed/Susceptible.html)
+[Antidote](/options/Addons/Mixed/Antidote.html) | [Avenger](/options/Addons/Mixed/Avenger.html) | [Aware](/options/Addons/Mixed/Aware.html) | [Bloodthirst](/options/Addons/Mixed/Bloodthirst.html) | [Diseased](/options/Addons/Mixed/Diseased.html) | [Ghoul](/options/Addons/Mixed/Ghoul.html) | [Gravestone](/options/Addons/Mixed/Gravestone.html) | [Guesser](/options/Addons/Mixed/Guesser.html) | [OIIAI](/options/Addons/Mixed/OIIAI.html) | [Paranoia](/options/Addons/Mixed/Paranoia.html) | [Rebound](/options/Addons/Mixed/Rebound.html) | [Stubborn](/options/Addons/Mixed/Stubborn.html) | [Susceptible](/options/Addons/Mixed/Susceptible.html)
 
 <br>
 

@@ -5,7 +5,7 @@ prev: Overseer
 next: Swapper
 ---
 
-# <font color="#ba55d3">🏛️ <b>President</b></font> <Badge text="Power" type="tip" vertical="middle"/>
+# <font color="#01ffaa">🏛️ <b>President</b></font> <Badge text="Power" type="tip" vertical="middle"/>
 ---
 
 The President has 2 abilities: End the meeting and Reveal identity.<br><br>

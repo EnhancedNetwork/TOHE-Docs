@@ -1,5 +1,5 @@
 ---
-lang: zh-CN
+lang: en-US
 title: Canary Changelogs
 sidebarDepth: 1
 sidebar:

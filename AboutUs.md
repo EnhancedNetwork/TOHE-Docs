@@ -130,7 +130,7 @@ I love playing games (I mostly play all games on PlayStation). I especially pay 
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I initially started coding for mod to host public modded rooms, especially when mods was being banned from public matchmaking. I helped with role coding and feature development. Now, I'm actively fixing bugs and improving the mod's performance. "Coding for play" has always been my source of passion, driving me to keep working on this project.
 </details>
 
 ---

@@ -488,9 +488,9 @@ export default defineUserConfig({
         toggleColorMode: 'Toggle Dark Mode',
         selectLanguageText: 'English',
       },
-      '/fr-FR/': {
+      '/fr/': {
         selectLanguageName: 'Français',
-        home: '/translations/fr-FR/',
+        home: '/translations/fr/',
       },
       '/zh-CN/': {
         selectLanguageName: '简体中文',
@@ -504,7 +504,7 @@ export default defineUserConfig({
         '/': {
           placeholder: 'Search',
         },
-        'fr-FR': {
+        'fr': {
           placeholder: 'Rechercher',
         },
         '/zh-CN/': {

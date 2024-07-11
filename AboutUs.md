@@ -367,16 +367,14 @@ I play some videogames (Minecraft, Among Us, Brawl Stars and etc...), but I also
 
 ### <font color=#1e448b><b>Dutch</b></font>
 
-[**otherb.x**](https://youtube.com/@BoxOfDaAmazon?si=TcHHU91EBcodllzk): <font color=#1e448b><b>Dutch</b></font> Translator
+[**Spirit**](#): <font color=#1e448b><b>Dutch</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a Translator. To be specific, I'm a Dutch Translator. I draw, sometimes code if it's in a language I can, and I'm still in school (yes).
+Had done some Dutch translation, but have been inactive lately cause I've been busy with other stuff, & haven't found time to do so. Also I haven't been thinking about Among Us much. When I have free time I'd rather spent time with my family and not work even more and get less time to fix/keep up my relationships.
 </details>
 
 ---
-
-### <font color=#1e448b><b>Dutch</b></font>
 
 [**Victor**](https://youtube.com/@BoxOfDaAmazon?si=TcHHU91EBcodllzk): <font color=#1e448b><b>Dutch</b></font> Translator
 <details>
@@ -393,7 +391,7 @@ I did a little Dutch translation. Have been inactive recently. (Also known as La
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-Im a German Junior Translator. I love cats, anime, and sometimes being alone. I like to learn a bit of everything, piano, (very little) Japanese, and programming in C#
+I'm a German Junior Translator. I love cats, anime, and sometimes being alone. I like to learn a bit of everything, piano, (very little) Japanese, and programming in C#
 </details>
 
 ---

@@ -45,8 +45,8 @@ export default defineUserConfig({
                 link: '/options/Settings/System.html',
               },
               {
-                text: 'Game Settings',
-                link: '/options/Settings/Game.html',
+                text: 'Mod Settings',
+                link: '/options/Settings/Mod.html',
               },
               {
                 text: 'Game Modifiers',

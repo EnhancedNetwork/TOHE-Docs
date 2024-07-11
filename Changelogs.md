@@ -18,39 +18,42 @@ contributors: false
 ## <font size=5em><b>Latest Mod Changelogs: v2.0.0 Canary 8</b></font><br>
 ## <font size=5em><b>Known Bugs</b></font><br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Hide & Seek is temporarily not supported<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: Phantom does not work for some Impostor Bases (Crewmates and Neutral roles that are based on an Impostor)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Changing the game mode in the settings sometimes does not remove some settings that are not used in the mode<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: When changing presets, the settings are not updated instantly, you MUST close and reopen the settings<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side (Seems to be fixed in NA)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: When dlekS ehT is selected, the game lags in the lobby for vanilla players (during the game everything works fine)<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: EAC may not work in some places<br>
 
 ## <font size=5em><b>Changelogs</b></font><br>
 
-## <font size=5em><b>Canary 8 Hotfix 1</b></font><br>
+## <font size=5em><b>v2.0.0 Canary 9</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when game end in start game by task win<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Gangster can't recruit anyone<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Phantom For Desync Roles (Note: To fix the Phantom, the Phantom is entered to the vent for desync roles, so it may not work stably)<br>
+=  Improved load lobby decorations (Decorations are now loaded during lobby creation rather than when joining a lobby)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when add-ons not assigned randomly<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Maybe fixed Agitator color<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed lobby timer for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed fatal error when game loading<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed names during mushroom mixup<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for Arsonist, Seeker, Lovers, Amnesiac<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Guardian Angel Shield Animation sometimes didn't work correctly with Vanilla<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix in random spawn in Airship for host<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
 
-## <font size=5em><b>Canary 8</b></font><br>
-* By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Noisemaker not work for desync roles<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Incorrect amount of players in lobby for modded clients<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed null error for Medium<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Veteran custom button not show<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Gangster<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when cooldown sets as 0<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed "/r {role}" and removed "/r {role} all"<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Puppeteer cannot get Tricky<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Romantic not change role after exiled<br>
-\- <font color=red><b>REMOVED</b></font>: Removed options background<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed Mod stamp position<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Jailer when they try kill Veteran<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some small fixes<br>
-
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Added custom sounds for Eraser and Oiiai after erased role<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed version check for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for host disconnect (Removed useless code that deliberately dissconect the host on the AU side)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: An attempt was made to fix problems on the server side when there are more than 8 players in the lobby (This may not completely fix the problem, but at least it may happen less often)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Immediate autostart settings<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Youtuber alive death<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bait can self report<br>
+
+* By [**WaterPanda**](#)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Lightning can't get Tricky<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Shaman can't get Fragile<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Some changes in command "/me"<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed Kamikaze symbol<br>
 
 ## <font size=5em><b>Latest Site Changelogs:</b></font><br>
 * By [**Pyro**](https://sites.google.com/view/pyro0tv)<br>

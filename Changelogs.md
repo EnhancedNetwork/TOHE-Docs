@@ -15,7 +15,7 @@ contributors: false
 (Only the Latest Changes to Mod/Site will be displayed.)
 
 ---
-## <font size=5em><b>Latest Mod Changelogs: v2.0.0 Canary 8</b></font><br>
+## <font size=5em><b>Latest Mod Changelogs: v2.0.0 Canary 9</b></font><br>
 ## <font size=5em><b>Known Bugs</b></font><br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Hide & Seek is temporarily not supported<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Changing the game mode in the settings sometimes does not remove some settings that are not used in the mode<br>

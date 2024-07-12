@@ -190,11 +190,27 @@ Sup... I recently got into coding in the last two years, mostly C# and Python.
 and I also do 3D art design as a hobby! Glad to meet everyone here and can't wait to work with y'all. ❤️
 </details>
 
+---
+
 [**Marg**](https://margsbuttons.carrd.co/)：Role/Feature Coding
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
 I plan to port most of the roles from Town of Salem 2 in some form because I love that game. I have literally never coded in C# before I started working on the mod, but it's close enough to Java that I made it work `:)`. Some of my hobbies are playing video games (of course), bowling, and playing the guitar.
+</details>
+
+---
+
+[**Pietro**](https://github.com/Pietrodjaowjao): Feature Coding, <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font> Translator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I code general things like game updates, mod features, api, bugfixes, anticheat and many other things<br>
+Never coded a role yet, but i plan to code some!<br>
+I also know how to mainly code in C++, Java, Kotlin, & Python<br>
+(I studied all these to feature my games like Modding Us)<br><br>
+
+Very busy currently because i have school and i also go to the gym.
 </details>
 
 ---

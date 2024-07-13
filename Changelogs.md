@@ -69,10 +69,10 @@ contributors: false
 \+ <font color=#12edaf><b>RENAMED</b></font>: `GetStarted.md` has been renamed to `Install.md`<br>
 \+ <font color=#12edaf><b>RENAMED</b></font>: `Advanced.md` has been renamed to `Resources.md`<br>
 \+ <font color=#12edaf><b>RENAMED</b></font>: `Game.md` has been renamed to `Mod.md`<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Resources.md` (Includes more Resources to look through, such as Commands/HotKeys like before, as well as Death Reasons + why they occur, and more.)
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `FAQ.md` (Questions are now sorted in drop-down boxes.)
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Install.md` (Now includes both Steam + Epic guides, and has been straightened up.)
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Changelogs.md` (Now includes "KNOWN BUGS")
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Resources.md` (Includes more Resources to look through, such as Commands/HotKeys like before, as well as Death Reasons + why they occur, and more.)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `FAQ.md` (Questions are now sorted in drop-down boxes.)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Install.md` (Now includes both Steam + Epic guides, and has been straightened up.)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Changelogs.md` (Now includes "KNOWN BUGS")<br>
 \+ <font color=green><b>NEW</b></font>: Added `Presets.md` (Instead of cluttering `Resources.md` with future Preset Submissions, Presets will be listed here. Added Marg's Preset & removed 2 out of date Presets (WitchCraft & Moe's Presets which used the old system).<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: More Bios added to `AboutUs.md`. (Still not 100% Complete as we are still missing the Bios of mulitple Contributors. You can see which as they'll have `(Placeholder Bio)` in the place of their Bio.<br>
 = <font color=#1376f0><b>BUG FIXES</b></font>: Many formatting, linking, and spelling fixes/updates.<br>

@@ -12,7 +12,7 @@ Here are some Resources that may help you understand some things relating to the
 Below is a list of Hot-Keys that you can use to make your experience better while playing TOHE. You can use these Hot-Keys to perform certain actions.
 Note: List is not 100% complete. Some hot-keys may have been removed and still live here, some may have been added and still not live here.
 <details>
-<summary><b><font color=gray>Host-Only</font></b></summary>
+<summary><b><font color=red>Host-Only</font></b></summary>
 <table>
 <tr>
 <td align="center"><b>Command</b></td>
@@ -93,7 +93,7 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 </table>
 </details>
 <details>
-<summary><b><font color=gray>Mod-Only</font></b></summary>
+<summary><b><font color=red>Mod-Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -130,7 +130,7 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 </table>
 </details>
 <details>
-<summary><b><font color=gray>Everyone</font></b></summary>
+<summary><b><font color=red>Everyone</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -153,7 +153,7 @@ Below is a list of commands that you can use to make your experience better whil
 Note: Commands in bold are considered "essential" and are recommended for all players.
 Note: List is not 100% complete. Some commands may have been removed and still live here, some may have been added and still not live here.
 <details>
-<summary><b><font color=gray>Everyone</font></b></summary>
+<summary><b><font color=red>Everyone</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -214,7 +214,7 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 </table>
 </details>
 <details>
-<summary><b><font color=gray>Mod-Only</font></b></summary>
+<summary><b><font color=red>Mod-Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -239,7 +239,7 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 </table>
 </details>
 <details>
-<summary><b><font color=gray>Host-Only</font></b></summary>
+<summary><b><font color=red>Host-Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -292,7 +292,7 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 </table>
 </details>
 <details>
-<summary><b><font color=gray>Moderator-Only</font></b></summary>
+<summary><b><font color=red>Moderator-Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -509,7 +509,8 @@ Guesser (If a player was guessed or if a player misguessed)<br>
 Guesser Mode (If a player was guessed or if a player misguessed)<br><br>
 
 - Other<br>
-Shouldn’t happen (404: DeathReasonNotFound)<br><br>
+Shouldn’t happen (404: DeathReasonNotFound)<br>
+Game Master (Only exception, the death reason of Game Master will be Other)<br><br>
 
 - Spelled<br>
 Witch (Given to a player marked by the Witch if the Witch isn't voted out)<br><br>
@@ -654,28 +655,95 @@ Bug (This Death Reason occured awhile ago due to bugs, but has since been patche
 </details>
 <details>
 <summary><b><font color=gray>Icons: Explained</font></b></summary>
-
-<font color=#ff1919>†</font>- This player was spelled by a <font color=#ff1919>Witch</font><br>
-<font color=#fc04fc>乂</font> - This player was hexed by a <font color=#fc04fc>Hex Master</font><br>
-<font color=#6697FF>◈</font> - This player was shrouded by a <font color=6697FF>Shroud</font><br>
-<font color=EDC240>⦿</font> - This player is being dueled by a <font color=#EDC240>Pirate</font><br>
-<font color=#8464bc>?!</font> - This player is being quizzed by a <font color=#8464bc>Quizmaster</font><br>
-<font color=#b8fb4f>⚠</font> - This player is a <font color=#b8fb4f>Snitch</font> who is about to finish their tasks<br>
-<font color=#f8fa87>⚠</font> - This player is a <font color=#f8fa87>Solsticer</font> who is about to finish their tasks<br>
-<font color=#39FF14>✚</font> - This player has a <font color=#39FF14>Medic</font> Shield<br>
-<font color=#999DA0>♦</font> - This player is the <font color=#999DA0>Executioner</font>'s target<br>
-<font color=#2E856E>♦</font> - This player is your <font color=#2E856E>Lawyer</font><br>
-<font color=#FFA500>♦</font> - This player is your <font color=#FFA500>Follower</font><br>
-<font color=#fc1494>♥</font> - This player is a <font color=#fc1494>Romantic</font><br>
-<font color=#ff9ace>♥</font> - This player is a <font color=#ff9ace>Lover</font><br>
-<font color=#f0ef5b>★</font> - This player is a <font color=#f0ef5b>Super Star</font><br>
-<font color=#f46f4e>★</font> - This player is a <font color=#f46f4e>Cyber</font><br>
-<font color=#5573aa>★</font> - This player is a <font color=#5573aa>Marshall</font><br>
-<font color=#4682b4>☆</font> - This player is a <font color=#4682b4>Captain</font><br>
-<font color=#404040>☜</font> - This player is a teammate of the <font color=#404040>Schrodinger's Cat</font><br>
-<font color=#ff1919>╳</font> - This player is blackmailed by the <font color=#ff1919>Blackmailer</font><br>
-<font color=#ff1919>⊗</font> - This player is marked by the <font color=#ff1919>Kamikaze</font><br>
-<font color=#ff1919>■</font> - This player is a quantum ghost marked by the <font color=#ff1919>Lightning</font><br><br>
+<table>
+<tr>
+<td align="center"><b>Icon</b></td>
+<td align="center"><b>Scenario</b></td>
+</tr>
+<tr>
+<td><font color=#ff1919>†</font></td>
+<td>This player was spelled by a <font color=#ff1919>Witch</font></td>
+</tr>
+<tr>
+<td><font color=#fc04fc>乂</font></td>
+<td>This player was hexed by a <font color=#fc04fc>Hex Master</font></td>
+</tr>
+<tr>
+<td><font color=#6697FF>◈</font></td>
+<td>This player was shrouded by a <font color=6697FF>Shroud</font></td>
+</tr>
+<tr>
+<td><font color=EDC240>⦿</font></td>
+<td>This player is being dueled by a <font color=#EDC240>Pirate</font></td>
+</tr>
+<tr>
+<td><font color=#8464bc>?!</font></td>
+<td>This player is being quizzed by a <font color=#8464bc>Quizmaster</font></td>
+</tr>
+<tr>
+<td><font color=#b8fb4f>⚠</font></td>
+<td>This player is a <font color=#b8fb4f>Snitch</font> who is about to finish their tasks</td>
+</tr>
+<tr>
+<td><font color=#f8fa87>⚠</font></td>
+<td>This player is a <font color=#f8fa87>Solsticer</font> who is about to finish their tasks</td>
+</tr>
+<tr>
+<td><font color=#39FF14>✚</font></td>
+<td>This player has a <font color=#39FF14>Medic</font> Shield</td>
+</tr>
+<tr>
+<td><font color=#999DA0>♦</font></td>
+<td>This player is the <font color=#999DA0>Executioner</font>'s target</td>
+</tr>
+<tr>
+<td><font color=#2E856E>♦</font></td>
+<td>This player is your <font color=#2E856E>Lawyer</font></td>
+</tr>
+<tr>
+<td><font color=#FFA500>♦</font></td>
+<td>This player is your <font color=#FFA500>Follower</font></td>
+</tr>
+<tr>
+<td><font color=#fc1494>♥</font></td>
+<td>This player is a <font color=#fc1494>Romantic</font></td>
+</tr>
+<tr>
+<td><font color=#ff9ace>♥</font></td>
+<td>This player is a <font color=#ff9ace>Lover</font></td>
+</tr>
+<tr>
+<td><font color=#f0ef5b>★</font></td>
+<td>This player is a <font color=#f0ef5b>Super Star</font></td>
+</tr>
+<tr>
+<td><font color=#f46f4e>★</font></td>
+<td>This player is a <font color=#f46f4e>Cyber</font></td>
+</tr>
+<tr>
+<td><font color=#5573aa>★</font></td>
+<td>This player is a <font color=#5573aa>Marshall</font></td>
+</tr>
+<tr>
+<td><font color=#4682b4>☆</font></td>
+<td>This player is a <font color=#4682b4>Captain</font></td>
+</tr>
+<tr>
+<td><font color=#404040>☜</font></td>
+<td>This player is a teammate of the <font color=#404040>Schrodinger's Cat</font></td>
+</tr>
+<tr>
+<td><font color=#ff1919>╳</font></td>
+<td>This player is blackmailed by the <font color=#ff1919>Blackmailer</font></td>
+</tr>
+<tr>
+<td><font color=#ff1919>⊗</font></td>
+<td>This player is marked by the <font color=#ff1919>Kamikaze</font></td>
+</tr>
+<tr>
+<td><font color=#ff1919>■</font></td>
+<td>This player is a quantum ghost marked by the <font color=#ff1919>Lightning</font></td>
+</tr>
 
 > From: Pyro0TV
 </details>

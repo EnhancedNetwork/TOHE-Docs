@@ -10,11 +10,11 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 :::
 
-<font size=4em>Heavily WORK-IN-PROGRESS, many "About" dropdowns may have Placeholder Bios</font>
+<font size=4em>Almost finished! Some "About" dropdowns may have (Placeholder) Bios</font>
 
 ## President
 
-[**Moe**](https://github.com/0xDrMoe): President, Website Maintainer/Developer
+[**Moe**](https://github.com/0xDrMoe): <font color=#ff8000>President, Website Maintainer/Developer</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -38,7 +38,7 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 
 ## Website Assistant
 
-[**Pyro**](https://sites.google.com/view/pyro0tv)：Website Assistant & Moderator
+[**Pyro**](https://sites.google.com/view/pyro0tv)：<font color=#49e6ac>Website Assistant & Moderator</font>
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Terrorist
-prev: SoulCollector
+prev: Specter
 next: Vector
 ---
 

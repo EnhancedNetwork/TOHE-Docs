@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Witness
-prev: Tracker
+prev: TimeMaster
 next: /options/Settings/Crewmates.html
 ---
 

@@ -2,7 +2,7 @@
 lang: en-US
 title: Workhorse
 prev: Reach
-next: /options/Settings/Addons.html
+next: YouTuber
 ---
 
 # <font color=#00ffff>🐎 <b>Workhorse</b></font> <Badge text="Miscellaneous" type="tip" vertical="middle"/>

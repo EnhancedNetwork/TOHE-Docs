@@ -2,7 +2,7 @@
 lang: en-US
 title: Time Master
 prev: TimeManager
-next: Tracker
+next: Witness
 ---
 
 # <font color="#44baff">⏳ <b>Time Master</b></font> <Badge text="Support" type="tip" vertical="middle"/>

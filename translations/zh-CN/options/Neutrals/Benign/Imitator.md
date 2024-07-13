@@ -18,9 +18,8 @@ You'll either become a Sheriff, Refugee, or some other Neutral.<br>
   * Set what role the Imitator will become if they try to imitate a role that is incompatible with the Imitator, choose from:
     * Amnesiac
     * Imitator
-    * Witch
     * Pursuer
     * Follower
     * Maverick
 
-> From: TOHRE (Old Amnesiac)
+> From: TOHER (Old Amnesiac)

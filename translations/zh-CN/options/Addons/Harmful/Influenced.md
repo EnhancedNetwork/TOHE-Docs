@@ -2,15 +2,14 @@
 lang: en-US
 title: Influenced
 prev: Hurried
-next: Oblivious
+next: Mundane
 ---
 
 # <font color=#b0006a>🤩 <b>Influenced</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>
 ---
 
-<p>As the Influenced, your vote will be forced to the player with the most votes.<br>
-Note that your skill and vote icon still functions on the player you voted at first.</p>
-
+As the Influenced, your vote will be forced to the player with the most votes.<br>
+Note that your skill and vote icon still functions on the player you voted at first.
 * Max
   * Set the Maximum amount of Influenced that can be in a match
 * Spawn Chance

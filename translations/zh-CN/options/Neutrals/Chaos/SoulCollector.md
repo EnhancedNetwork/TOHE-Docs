@@ -2,7 +2,7 @@
 lang: en-US
 title: Soul Collector
 prev: Revolutionist
-next: Terrorist
+next: Specter
 ---
 
 # <font color=#a675a1>👻 <b>Soul Collector</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>

@@ -12,7 +12,8 @@ sidebar:
 # Recently Added Tags
 ---
 
-* None
+\+ <font color=#12edaf><b>RENAMED</b></font>: Mixture of NEW, CHANGE, & TYPO, (mostly used for Role Renames). <br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Bugs that are currently being worked on, or are not currently resolvable.<br>
 
 ---
 
@@ -25,11 +26,13 @@ sidebar:
 = <font color=#32CD32><b>TYPO</b></font>: Typos that have been corrected. <br>
 \+ <font color=green><b>NEW</b></font>: Features recently ADDED to the Mod/Site. <br>
 \+ <font color=#12edaf><b>REWORK</b></font>: Mixture of NEW & CHANGE, (mostly used for Role Reworks). <br>
+\+ <font color=#12edaf><b>RENAMED</b></font>: Mixture of NEW, CHANGE, & TYPO, (mostly used for Role Renames). <br>
 \- <font color=#12edaf><b>REVERT</b></font>: Mixture of REMOVED & CHANGE, (mostly used for Role Reverts). <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Bugs/Buggy Features that have been fixed. <br>
 = <font color=#8708c7><b>TRANSLATIONS</b></font>: Recently added/finished Translations for the mod, (The Tag on the change itself will be custom) <br>
 = <font color=#fdf08e><b>NOTES</b></font>: Not necessarily a big change/addition/etc, but important to keep in mind. <br>
 = <font color=#ece218><b>NOTICE</b></font>: Small Info/Announcement. (Typically relating to website)
+= <font color=#de6707><b>KNOWN BUG</b></font>: Bugs that are currently being worked on, or are not currently resolvable.
 
 ## Translation Tags
 \+ <font color=#002654><b>French</b></font>: French Translation of the mod.<br>
@@ -43,5 +46,5 @@ sidebar:
 \+ <font color=#0036a7><b>Russian</b></font>: Russian Translation of the mod.<br>
 \+ <font color=#1e448b><b>Dutch</b></font>: Dutch Translation of the mod.<br>
 \+ <font color=#ffcf00><b>German</b></font>: German Translation of the mod.<br>
-\+ <font color=#056306><b>Portuguese (Portuguese Portugal)</b></font>: Portuguese Translation of the mod.
+\+ <font color=#056306><b>Portuguese (Portuguese Portugal)</b></font>: Portuguese Translation of the mod.<br>
 \+ <font color=#dc143c><b>Polish</b></font> Polish Translation of the mod.

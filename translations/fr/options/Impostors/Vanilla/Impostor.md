@@ -2,7 +2,7 @@
 lang: en-US
 title: Impostor
 prev: /options/Settings/Impostors.html
-next: Shapeshifter
+next: Phantom
 ---
 
 # <font color="red">🔪 <b>Impostor</b></font> <Badge text="Vanilla" type="tip" vertical="middle"/>

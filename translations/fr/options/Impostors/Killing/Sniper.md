@@ -2,7 +2,7 @@
 lang: en-US
 title: Sniper
 prev: Saboteur
-next: Spellcaster
+next: Trapster
 ---
 
 # <font color="red">🎯 <b>Sniper</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

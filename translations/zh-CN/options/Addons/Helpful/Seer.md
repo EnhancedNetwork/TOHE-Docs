@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Seer
-prev: Repairman
-next: Sleuth
+prev: Radar
+next: Silent
 ---
 
 # <font color=#61b26c>🔮 <b>Seer</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Unlucky
-prev: Rascal
+prev: Tired
 next: VoidBallot
 ---
 
@@ -21,8 +21,8 @@ As the Unlucky, doing tasks, killing, or venting has a chance to kill you.
   * Set the percent chance that a player has of suiciding because they vented
 * Chance to suicide from reporting bodies
   * Set the percent chance that a player has of suiciding because they reported a body
-* Chance to suicide from using a sabotage
-  * Set the percent chance that a player has of suiciding because they used a sabotage
+* Chance to suicide from opening a door
+  * Set the percent chance that a player has of suiciding because they opened a door
 * <font color=red>Impostors</font> can become Unlucky
   * <font color=green>ON</font>: <font color=red>Impostors</font> can become this role
   * <font color=red>OFF</font>: <font color=red>Impostors</font> cannot become this role

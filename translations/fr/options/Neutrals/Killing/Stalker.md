@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Stalker
-prev: Shroud
+prev: Spiritcaller
 next: Traitor
 ---
 

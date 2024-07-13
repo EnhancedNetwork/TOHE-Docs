@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Oblivious
-prev: Influenced
+prev: Mundane
 next: Rascal
 ---
 

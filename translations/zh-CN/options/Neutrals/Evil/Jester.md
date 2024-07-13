@@ -2,14 +2,13 @@
 lang: en-US
 title: Jester
 prev: Innocent
-next: Masochist
+next: PunchingBag
 ---
 
 # <font color="#ec62a5">🤡 <b>Jester</b></font> <Badge text="Evil" type="tip" vertical="middle"/>
 ---
 
 If the Jester get voted out, the Jester wins the game alone. If the Jester is still alive at the end of the game, the Jester loses the game. Note: Jester, Executioner, and Innocent can win together.
-
 * Max
   * Set the Maximum amount of Jesters that can be in a match.
 * Can call emergency meetings

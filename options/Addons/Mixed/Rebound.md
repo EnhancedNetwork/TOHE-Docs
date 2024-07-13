@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Rebound
-prev: Guesser
-next: Schizophrenic
+prev: Paranoia
+next: Stubborn
 ---
 
 # <font color=#56b5ff>🏀 <b>Rebound</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>

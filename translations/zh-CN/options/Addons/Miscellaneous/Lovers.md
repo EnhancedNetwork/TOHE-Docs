@@ -2,7 +2,7 @@
 lang: en-US
 title: Lovers
 prev: Egoist
-next: Reach
+next: Rainbow
 ---
 
 # <font color=#ff9ace>💞 <b>Lovers</b></font> <Badge text="Miscellaneous" type="tip" vertical="middle"/>

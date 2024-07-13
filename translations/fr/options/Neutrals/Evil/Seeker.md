@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Seeker
-prev: Masochist
+prev: PunchingBag
 next: /options/settings/Neutrals.html
 ---
 

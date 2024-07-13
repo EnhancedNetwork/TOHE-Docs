@@ -102,10 +102,15 @@ next: /Roles.html
 * <font color=#01ff00>Low Load Mode</font>
   * <font color=green>ON</font>: Mod will use less power for loading things, making it run a bit faster
   * <font color=red>OFF</font>: Mod will use its default power for loading things, making it run a bit slower
-
 * <font color=#0000ff>End the game when a player has a critical error</font>
   * <font color=green>ON</font>: Game will force end once a player gets a game breaking bug
   * <font color=red>OFF</font>: Game will continue as before
+* <font color=#0000ff>Hide exile (lava) chat</font>
+  * <font color=green>ON</font>: Messages sent during the ejection screen will be hidden
+  * <font color=red>OFF</font>: Messages sent during the ejection screen will not be hidden
+* <font color=#ff00ff>Remove pets at dead players</font>
+  * <font color=green>ON</font>: Whenever a player is killed, their pet will be removed
+  * <font color=red>OFF</font>: Whenever a player is killed, their pet will not be removed
 
 * When a cheating player is found
   * You can choose an action to take when a player is found cheating
@@ -113,6 +118,9 @@ next: /Roles.html
     * Kick - Kicks them from the lobby
     * Notify Me - Notify only the host of the cheating player
     * Notify Everyone - Notify everyone of the cheating player
+* Disable VoteKick System
+  * <font color=green>ON</font>: Players will be unable to use the vote-kick menu in the chat
+  * <font color=red>OFF</font>: Players will still be able to use the vote-kick menu in the chat
 
 * Display Kill-log
   * <font color=green>ON</font>: Kill-log of the previous round will be displayed once people enter the lobby
@@ -136,11 +144,20 @@ next: /Roles.html
     * Don’t kill me - Displays the words “Don’t kill me” below your name
     * No phones - Displays “No phones” below your name
     * Auto-Host - Displays “Auto-Host” below your name
+* Hide 'Host' Text
+  * <font color=green>ON</font>: The 'Host' text before your name will be hidden
+  * <font color=red>OFF</font>: The 'Host' text before your name will be visible
 * Hide Game Settings
   * <font color=green>ON</font>: Others won't see what roles are enabled/disabled
   * <font color=red>OFF</font>: Others can see what roles are enabled/disabled like usual
 * Players can use the `/color` command
   * <font color=green>ON</font>: players can `/color` to change their Bean Color
+  * <font color=red>OFF</font>: players cannot change it with the command and have to do it normally
+* Players can use the `/quit` command to leave the lobby forever
+  * <font color=green>ON</font>: Players can use the `/quit` command to leave the lobby forever
+  * <font color=red>OFF</font>: Players cannot use the `/quit` command to leave the lobby forever
+* Players can use the `/rn` command
+  * <font color=green>ON</font>: players can `/rn` to change their Name.
   * <font color=red>OFF</font>: players cannot change it with the command and have to do it normally
 * Player Name Mode
   * This is how the player’s name is displayed in game. You can choose between: 
@@ -163,6 +180,9 @@ next: /Roles.html
 * <font color=red>BepInEx Console</font>
   * <font color=green>ON</font>: the console stays open during Hosting
   * <font color=red>OFF</font>: the console minimizes during Hosting
+* <font color=red>Disable AntiBlackout Protects (Recommeneded for testing)</font>
+  * <font color=green>ON</font>: AntiBlackout Protects will be disabled
+  * <font color=red>OFF</font>: AntiBlackout Protects will not be disabled
 
 * Role Assigning Algorithm
   * These just change how roles are randomly assigned. You can choose between:
@@ -175,13 +195,15 @@ next: /Roles.html
 * <font color=#ffc0cb>Camouflage Appearance</font>
   * Set the appearance of how Camouflage looks when communications are sabotaged
     * Default - Everyone appears grey
+    * Random - Everyone appears grey
+    * Only Random Color - Everyone appears grey
     * <font color=#ffff00>Host</font> - Everyone appears as the host's skin
     * <font color=#e3bacd>KARPED1EM</font> - Everyone appears as KARPED1EM's skin (the original creator of the mod)
     * <font color=#f5dbdf>Lauryn</font> - Everyone appears as Lauryn's skin (the project leads girlfriend)
     * <font color=#ff8000>Moe</font> - Everyone appears as Moe's skin (the project lead)
     * <font color=#ec7578>Pyro</font> - Everyone appears as Pyro's skin (the Website Assistant)
     * <font color=#9e2424>ryuk</font> - Everyone appears as ryuk's skin (a lead contributor)
-    * <font color=#fffff>Gurge44</font> - Everyone appears as Gurge44's skin (a lead contributor/TOHE+ Dev)
+    * <font color=#fffff>Gurge44</font> - Everyone appears as Gurge44's skin (a lead contributor/EHR Dev)
     * <font color=#ec7578>TommyXL</font> - Everyone appears as TommyXL's skin (a lead contributor)
 
 * <font color=cyan>Enable Youtuber Plan</font>

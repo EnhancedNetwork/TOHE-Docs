@@ -23,7 +23,7 @@ As the Serial Killer, your job is to simply murder everyone to win.
       * Set the chance that the Serial Killer will have to get a teammate
   * <font color=red>OFF</font>: the Serial Killer will be alone
 * Reflect harmful interactions
-  * <font color=green>ON</font>: the Serial Killer will be impacted by any harmful interactions
-  * <font color=red>OFF</font>: the Serial Killer will be immune to any harmful interactions
+  * <font color=green>ON</font>: the Serial Killer will be immune to any harmful interactions
+  * <font color=red>OFF</font>: the Serial Killer will be impacted by any harmful interactions
 
-> From: Town of Salem 1 & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: Town of Salem 1

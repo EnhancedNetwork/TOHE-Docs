@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Trapster
-prev: Spellcaster
+prev: Sniper
 next: Underdog
 ---
 

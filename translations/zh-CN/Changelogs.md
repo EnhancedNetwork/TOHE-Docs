@@ -1,12 +1,13 @@
 ---
 lang: en-US
-title: Changelogs
+title: Canary Changelogs
 sidebar:
 - { text: Latest Changelog, link: /Changelogs.html}
 - { text: Changelogs Tags, link: /changelogs/Tags.html}
 - { text: Previous Stable Changelogs, link: /changelogs/Stable.html}
 - { text: Previous Canary Changelogs, link: /changelogs/Canary.html}
 - { text: Previous Dev Changelogs, link: /changelogs/Dev.html}
+contributors: false
 ---
 
 # Changelogs
@@ -14,38 +15,69 @@ sidebar:
 (Only the Latest Changes to Mod/Site will be displayed.)
 
 ---
+## <font size=5em><b>Latest Mod Changelogs: v2.0.0 Canary 8</b></font><br>
+## <font size=5em><b>Known Bugs</b></font><br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Hide & Seek is temporarily not supported<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Phantom does not work for some Impostor Bases (Crewmates and Neutral roles that are based on an Impostor)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: When changing presets, the settings are not updated instantly, you MUST close and reopen the settings<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side (Seems to be fixed in NA)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: When dlekS ehT is selected, the game lags in the lobby for vanilla players (during the game everything works fine)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: EAC may not work in some places<br>
 
-## <font size=5em><b>Latest Mod Changelogs: v1.2.1 Canary 2</b></font><br>
+## <font size=5em><b>Changelogs</b></font><br>
+
+## <font size=5em><b>Canary 8 Hotfix 1</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when game end in start game by task win<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Gangster can't recruit anyone<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
+
+## <font size=5em><b>Canary 8</b></font><br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Noisemaker not work for desync roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Incorrect amount of players in lobby for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed null error for Medium<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Veteran custom button not show<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Gangster<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when cooldown sets as 0<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed "/r {role}" and removed "/r {role} all"<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Puppeteer cannot get Tricky<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Romantic not change role after exiled<br>
+\- <font color=red><b>REMOVED</b></font>: Removed options background<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed Mod stamp position<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Jailer when they try kill Veteran<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some small fixes<br>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed butcher, hater and horsemod
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed influenced vote never actually shift
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed influenced and swapper vote results in meetinghud
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mini ejection screen
-
-+ By [**Marg**](https://github.com/MargaretTheFool)
-\+ <font color=green><b>NEW</b></font>: New lobby game /rand
-
-* By [**NetherDragonTw**](https://github.com/NetherDragonTw)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix lava chat (chat will be spammed when someone talks during ejection screen_
-
-* By [**ryuk**](https://github.com/ryuk2098)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Updated in game access to be given by APIs (example: /up access, overhead tags etc. will be given using API)
-= <font color=#1376f0><b>BUG FIX</b></font>: Possible fix for Imitator
-
-#### (All Changes/Commits can be seen on [GitHub](https://github.com/0xDrMoe/TownofHost-Enhanced/commits/main))
-
----
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added custom sounds for Eraser and Oiiai after erased role<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed version check for modded clients<br>
 
 ## <font size=5em><b>Latest Site Changelogs:</b></font><br>
-
-* By [**Pyro**](https://github.com/Pyro0TV)<br>
-\+ <font color=green><b>NEW</b></font>: Tags for specific changes, such as 'NEW' on this one (see [Tags](/changelogs/Tags.html)). <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Changed OIIAI to Oiiai Cat (Sidebars/Tables/etc) <br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Formatting for Dev.md, Canary.md, & Stable.md (there shouldn't be headers in places they shouldn't be in) <br>
-\+ <font color=green><b>NEW</b></font>: Added "Latest Site Changelogs" to Changelogs.md (Show things that have recently been updated on site) <br>
-\+ <font color=green><b>NEW</b></font>: Added "Tags.md" to 'changelogs' folder (So that you can understand which Tags mean what) <br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Added "Experimental Reason:"s to Experimental Roles. (Also "Note:"s on what Sub-Category they would fit the most) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Changed Stubborn description to not include a second "erase". <br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed AboutUs.md layout <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Latest Changelog/Canary Changelog <br>
+* By [**Pyro**](https://sites.google.com/view/pyro0tv)<br>
+= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.0.0 Canary 8<br>
+\+ Have a good day!<br>
+= <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, open a forum in #website-feedback! Thank you!<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: `Tracker`, `Noisemaker`, and `Phantom` have been added to the Vanilla Tab of their respective factions.<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: `Tracker (TOHE)` has been REMOVED.<br>
+\+ <font color=#12edaf><b>RENAMED</b></font>: `Phantom (TOHE)` has been renamed to `Specter`.<br>
+\+ <font color=#12edaf><b>RENAMED</b></font>: `Schizophrenic` has been renamed to `Paranoia`.<br>
+\+ <font color=#12edaf><b>RENAMED</b></font>: `Masochist` has been renamed to `Punching Bag`.<br>
+\+ <font color=#12edaf><b>RENAMED</b></font>: `Bloodlust` has been renamed to `Bloodthirst`.<br>
+\+ <font color=#12edaf><b>RENAMED</b></font>: `GetStarted.md` has been renamed to `Install.md`<br>
+\+ <font color=#12edaf><b>RENAMED</b></font>: `Advanced.md` has been renamed to `Resources.md`<br>
+\+ <font color=#12edaf><b>RENAMED</b></font>: `Game.md` has been renamed to `Mod.md`<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Resources.md` (Includes more Resources to look through, such as Commands/HotKeys like before, as well as Death Reasons + why they occur, and more.)
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `FAQ.md` (Questions are now sorted in drop-down boxes.)
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Install.md` (Now includes both Steam + Epic guides, and has been straightened up.)
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Changelogs.md` (Now includes "KNOWN BUGS")
+\+ <font color=green><b>NEW</b></font>: Added `Presets.md` (Instead of cluttering `Resources.md` with future Preset Submissions, Presets will be listed here. Added Marg's Preset & removed 2 out of date Presets (WitchCraft & Moe's Presets which used the old system).<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: More Bios added to `AboutUs.md`. (Still not 100% Complete as we are still missing the Bios of mulitple Contributors. You can see which as they'll have `(Placeholder Bio)` in the place of their Bio.<br>
+= <font color=#1376f0><b>BUG FIXES</b></font>: Many formatting, linking, and spelling fixes/updates.<br>
+= <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are not remotely close to correct, if someone would like to do the math because I am/Pyro is lazy, PLEASE DO! :D thanks!<br>
+= <font color=#fdf08e><b>NOTE</b></font>: Simplified Chinese & French Translations are still in the works. (Sorry Translators, but at least they have their own folder(s) now!)<br>
+= <font color=#ece218><b>NOTICE</b></font>: `zh-CN` and `fr` folders are out of date. (my bad)<br>
+= <font color=#fdf08e><b>NOTE</b></font>: You may realize that there are 3 results of roles if you use the built-in search bar. This is because you are getting a copy for every instance (Currently, `fr` & `zh-CN`) that is not yet translated. (An example being Reverie, even though <i>most</i> roles will display 3 results.)<br>
+![image](./images/SearchReverie3BUG.png)<br>
+= <font color=#fdf08e><b>NOTE</b></font>: You may also find older roles from French/Simplified Chinese results, such as Luckey from the `zh-CN` instance, as they are not up-to-date, nor translated entirely. (Luckey isn't in the `zh-CN` instance anymore, but the same issue can occur with other roles.)<br>
+![image](./images/SearchLuckeyBUG.png)<br>
+= <font color=#ece218><b>NOTICE</b></font>: Once Translations start being worked on, Translators may use this Site Changelog section to write out changelogs for their Translated parts of the Site. They may want to differenciate it, which they may if they write their own header things.<br>

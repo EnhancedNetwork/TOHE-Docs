@@ -5,7 +5,7 @@ prev: Swapper
 next: /options/Settings/Crewmates.html
 ---
 
-# <font color="#7223da">📡 Telecommunication</font> <Badge text="Power" type="tip" vertical="middle"/>
+# <font color="#7223da">📡 <b>Telecommunication</b></font> <Badge text="Power" type="tip" vertical="middle"/>
 ---
 
 As the Telecommunication, you are notified when anyone uses cameras, vitals, doorlogs, or admin.

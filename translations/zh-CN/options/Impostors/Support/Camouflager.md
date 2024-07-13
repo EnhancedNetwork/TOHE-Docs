@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Camouflager
-prev: AntiAdminer
+prev: Blackmailer
 next: Cleaner
 ---
 

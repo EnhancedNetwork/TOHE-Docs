@@ -1,14 +1,14 @@
 ---
 lang: en-US
 title: Evil Tracker
-prev: EvilGuesser
+prev: EvilHacker
 next: Greedy
 ---
 
 # <font color=red>🕵️ <b>Evil Tracker</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
-The Evil Tracker can track other people, and the Evil Tracker can Shapeshift into someone to switch the tracking target to the Shapeshift target (You will immediate;y unshift after performing Shapeshift). The arrow below the Evil Tracker’s name indicates the direction of the target. When the Evil Tracker’s teammate kills, the Evil Tracker will see a kill-flash.
+The Evil Tracker can track other people, and the Evil Tracker can Shapeshift into someone to switch the tracking target to the Shapeshift target (You will immediately unshift after performing Shapeshift). The arrow below the Evil Tracker’s name indicates the direction of the target. When the Evil Tracker’s teammate kills, the Evil Tracker will see a kill-flash.
 * Max
   * Set the Maximum amount of Evil Trackers that can be in a match.
 * Can See Kill-Flash

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Evil Tracker
-prev: EvilGuesser
+prev: EvilHacker
 next: Greedy
 ---
 

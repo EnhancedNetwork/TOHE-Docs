@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Morphling
-prev: Godfather
+prev: Kamikaze
 next: Nemesis
 ---
 

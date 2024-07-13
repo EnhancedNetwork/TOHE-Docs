@@ -203,7 +203,7 @@ next: /Roles.html
     * <font color=#ff8000>Moe</font> - Everyone appears as Moe's skin (the project lead)
     * <font color=#ec7578>Pyro</font> - Everyone appears as Pyro's skin (the Website Assistant)
     * <font color=#9e2424>ryuk</font> - Everyone appears as ryuk's skin (a lead contributor)
-    * <font color=#fffff>Gurge44</font> - Everyone appears as Gurge44's skin (a lead contributor/TOHE+ Dev)
+    * <font color=#fffff>Gurge44</font> - Everyone appears as Gurge44's skin (a lead contributor/EHR Dev)
     * <font color=#ec7578>TommyXL</font> - Everyone appears as TommyXL's skin (a lead contributor)
 
 * <font color=cyan>Enable Youtuber Plan</font>

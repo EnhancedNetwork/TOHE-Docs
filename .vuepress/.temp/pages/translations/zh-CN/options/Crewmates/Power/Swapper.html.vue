@@ -15,6 +15,14 @@ Note: You cannot swap yourself.</p>
 <li>Set the Max amount of times the Swapper can swap votes of players</li>
 </ul>
 </li>
+<li>Can exchange your own votes
+<ul>
+<li>
+<font color=green>ON</font>: Swapper can exchange their own votes</li>
+<li>
+<font color=red>OFF</font>: Swapper cannot exchange their own votes</li>
+</ul>
+</li>
 <li>Can call emergency meetings
 <ul>
 <li>

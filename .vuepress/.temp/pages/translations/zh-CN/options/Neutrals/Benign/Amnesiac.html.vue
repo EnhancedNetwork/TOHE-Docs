@@ -16,13 +16,17 @@ If the target was a neutral killer of a select few, you'll become the role they 
 <li>Set what role the Amnesiac will become if they try to remember a role that is incompatible with the Amnesiac, choose from:
 <ul>
 <li>Amnesiac</li>
-<li>Witch</li>
 <li>Pursuer</li>
 <li>Follower</li>
 <li>Maverick</li>
 <li>Imitator</li>
 </ul>
 </li>
+</ul>
+</li>
+<li>Has arrows pointing towards bodies
+<ul>
+<li>Set if Amnesiac will receive arrows pointing towards a dead body</li>
 </ul>
 </li>
 </ul>

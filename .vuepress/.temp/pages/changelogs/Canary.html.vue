@@ -2,7 +2,322 @@
 <hr>
 <p>To access Canary Builds, visit the <a href="https://discord.gg/tohe" target="_blank" rel="noopener noreferrer">TOH: Enhanced Discord<ExternalLinkIcon/></a> and visit #canary-builds, then download the latest dll!</p>
 <hr>
-<h2 id="latest-v1-6-0-canary-6" tabindex="-1"><a class="header-anchor" href="#latest-v1-6-0-canary-6"><span><font size=5em><b>Latest: v1.6.0 Canary 6</b></font><br></span></a></h2>
+<h2 id="known-bugs" tabindex="-1"><a class="header-anchor" href="#known-bugs"><span><font size=5em><b>Known Bugs</b></font><br></span></a></h2>
+<p>= <font color=#de6707><b>KNOWN BUG</b></font>: Hide &amp; Seek is temporarily not supported<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Changing the game mode in the settings sometimes does not remove some settings that are not used in the mode<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: When changing presets, the settings are not updated instantly, you MUST close and reopen the settings<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: When dlekS ehT is selected, the game lags in the lobby for vanilla players (during the game everything works fine)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: EAC may not work in some places<br></p>
+<h2 id="latest-v2-0-0-canary-9" tabindex="-1"><a class="header-anchor" href="#latest-v2-0-0-canary-9"><span><font size=5em><b>Latest: v2.0.0 Canary 9</b></font><br></span></a></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Phantom For Desync Roles (Note: To fix the Phantom, the Phantom is entered to the vent for desync roles, so it may not work stably)<br>
+=  Improved load lobby decorations (Decorations are now loaded during lobby creation rather than when joining a lobby)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when add-ons not assigned randomly<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Maybe fixed Agitator color<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed lobby timer for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed fatal error when game loading<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed names during mushroom mixup<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for Arsonist, Seeker, Lovers, Amnesiac<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Guardian Angel Shield Animation sometimes didn't work correctly with Vanilla<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix in random spawn in Airship for host<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for host disconnect (Removed useless code that deliberately dissconect the host on the AU side)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: An attempt was made to fix problems on the server side when there are more than 8 players in the lobby (This may not completely fix the problem, but at least it may happen less often)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Immediate autostart settings<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Youtuber alive death<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bait can self report<br></p>
+</li>
+<li>
+<p>By <a href="#"><strong>WaterPanda</strong></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Lightning can't get Tricky<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Shaman can't get Fragile<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Some changes in command &quot;/me&quot;<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed Kamikaze symbol<br></p>
+</li>
+</ul>
+<h2 id="v2-0-0-canary-8-hotfix-1" tabindex="-1"><a class="header-anchor" href="#v2-0-0-canary-8-hotfix-1"><span><font size=5em><b>v2.0.0 Canary 8 Hotfix 1</b></font><br></span></a></h2>
+<ul>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when game end in start game by task win<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Gangster can't recruit anyone<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br></li>
+</ul>
+<h2 id="latest-v2-0-0-canary-8" tabindex="-1"><a class="header-anchor" href="#latest-v2-0-0-canary-8"><span><font size=5em><b>Latest: v2.0.0 Canary 8</b></font><br></span></a></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Noisemaker not work for desync roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Incorrect amount of players in lobby for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed null error for Medium<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Veteran custom button not show<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Gangster<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when cooldown sets as 0<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed &quot;/r {role}&quot; and removed &quot;/r {role} all&quot;<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Puppeteer cannot get Tricky<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Romantic not change role after exiled<br>
+- <font color=red><b>REMOVED</b></font>: Removed options background<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed Mod stamp position<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Jailer when they try kill Veteran<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some small fixes<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added custom sounds for Eraser and Oiiai after erased role<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed version check for modded clients<br></p>
+</li>
+</ul>
+<h2 id="v2-0-0-canary-7" tabindex="-1"><a class="header-anchor" href="#v2-0-0-canary-7"><span><font size=5em><b>v2.0.0 Canary 7</b></font><br></span></a></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Optimize Settings and some fix and improvements (Thanks EHR Gurge44)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when modded clients can press start button<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for invis roles (Swooper, Chameleon and etc)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Solsticer for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when player got stuck in vent when have add-on Rainbow and resets animation state on ladder<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Shroud for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Imitator sets 300 cooldown<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed names in meeting when mushroom mixup is active<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed intro sounds<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Tracker setting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Detective<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Eraser can't guess erased players<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Block Punching Bag guessing if player tries to guess it again<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Ping position<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when sometimes modded clients sets death reason as &quot;Alive&quot;<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Desync Impostors can no longer get ghost roles (Because it causes black screens)<br></p>
+</li>
+<li>
+<p>By <a href="#"><strong>WaterPanda</strong></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Schizophrenic renamed to Paranoia<br></p>
+</li>
+</ul>
+<h2 id="v2-0-0-canary-6" tabindex="-1"><a class="header-anchor" href="#v2-0-0-canary-6"><span><font size=5em><b>v2.0.0 Canary 6</b></font><br></span></a></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a> &amp; <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a>, &amp; <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>, &amp; <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
+= <font color=#ece218><b>NOTICE</b></font>: Support latest AU Version (v2024.6.18)<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Settings UI (code base ported from TOH-Y)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for Lovers<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Kill cooldown continue in vent when Dialogue Box is open (When you press F1 or F2)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Vampire and Poisoner cannot get Tricky<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Double Meeting Ending<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Swooper timer (possibly)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Instigator wouldn't work<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Shaman and Shroud<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: TOHE Dropship Decorations (Can be disabled in client settings)<br></p>
+</li>
+<li>
+<p>By <a href="#"><strong>WaterPanda</strong></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Masochist renamed to Punching Bag<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Bloodlust renamed to Bloodthirst<br></p>
+</li>
+</ul>
+<h2 id="v2-0-0-canary-5" tabindex="-1"><a class="header-anchor" href="#v2-0-0-canary-5"><span><font size=5em><b>v2.0.0 Canary 5</b></font><br></span></a></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Option: Everyone Can See Death Reason<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Now when host use <code v-pre>/r</code> command it's not displayed for everyone (if you want to display for everyone, use <code v-pre>/r {role} all</code>)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Doppelganger is now Experimental<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed role name size for modded and vanilla<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed AntiBlackOut check<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Nice Mini can no longer get ghost roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when 3 settings for Judge was not used<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed buttons is active when player was<br> guessed
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bastion for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Madmates and other bugs in Guesser Mode<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Lookout, Visionary, Cyber, Randomizer, Copycat, Shroud, Shaman, Lawyer, Detective, Demon, Bandit<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Swift &amp; Berserker interaction(s) <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Spy &amp; Necromancer interaction when the killer is a ghost <br></p>
+</li>
+<li>
+<p>By <a href="#"><strong>WaterPanda</strong></a><br>
+= <font color=#32CD32><b>TYPOS</b></font>: More fixes typos and stuff<br>
++ <font color=green><b>NEW</b></font>: Command &quot;/icon&quot; and &quot;/icons&quot; now it's work and updated<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Swift with Lightning and Hangman<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when setting &quot;Sidekick can kill jackal&quot; not working<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when kill cooldown not going when press F1 or F2<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Allow players to be banned by only using first name (In BanList.txt)<br></p>
+</li>
+</ul>
+<h2 id="v2-0-0-canary-4" tabindex="-1"><a class="header-anchor" href="#v2-0-0-canary-4"><span><font size=5em><b>v2.0.0 Canary 4</b></font><br></span></a></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Command &quot;/kcount&quot; (Now you can use &quot;/kc&quot; and added setting &quot;Show Madmates&quot;)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Crewmate win now shows as it should<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Swift when they kill Oiiai<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Chameleon<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for Mini<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Pelican and Romantic when their role was changed<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when modded clients based on impostors can see sabotage button after vents<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Setting for Doppelganger: &quot;Last victim can see role and add-on info of alive players as ghost&quot;<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that allowed imposter teammate to kill Dollmasters main body when controlling someone<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvments in code<br></p>
+</li>
+<li>
+<p>By <a href="#"><strong>WaterPanda</strong></a><br>
+= <font color=#32CD32><b>TYPOS</b></font>: Fixed some typos and miscellaneous strings<br></p>
+</li>
+</ul>
+<h2 id="v2-0-0-canary-3" tabindex="-1"><a class="header-anchor" href="#v2-0-0-canary-3"><span><font size=5em><b>v2.0.0 Canary 3</b></font><br></span></a></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Wilding, Mundane, Mini, Pixie, and Egoist<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Gangster can no longer spawn with Swift<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Sunnyboy now has no tasks<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Ruthless Romantic is now Neutral Killer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Copycat being able to copy Nice Guesser<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Madmate in Guesser UI<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Tracefinder in Meeting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Camouflaguer<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some Fixes and Improvements for Doppelganger<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Modded client seeing the Medic shield icon when Medic is dead (hopefilly).<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Kamikaze missing description<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improvements for Ghastly<br></p>
+</li>
+<li>
+<p>By <a href="#"><strong>WaterPanda</strong></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix inappropriate words (according to innersloth) in role descriptions<br>
+= <font color=#fdf08e><b>NOTE</b></font>: Compiled the patch notes!<br></p>
+</li>
+</ul>
+<h2 id="v2-0-0-canary-2-hotfix-1" tabindex="-1"><a class="header-anchor" href="#v2-0-0-canary-2-hotfix-1"><span><font size=5em><b>v2.0.0 Canary 2 Hotfix 1</b></font><br></span></a></h2>
+<p>= <font color=#1376f0><b>BUG FIX</b></font>: Fixed errors in logs and fortegreen players in lobby<br></p>
+<h2 id="v2-0-0-canary-2" tabindex="-1"><a class="header-anchor" href="#v2-0-0-canary-2"><span><font size=5em><b>v2.0.0 Canary 2</b></font><br></span></a></h2>
+<p>= <font color=#1376f0><b>BUG FIXES</b></font>: Lots of fixes, more stability<br></p>
+<h2 id="v2-0-0-canary-1" tabindex="-1"><a class="header-anchor" href="#v2-0-0-canary-1"><span><font size=5em><b>v2.0.0 Canary 1</b></font><br></span></a></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Mini-Game Command: /8ball (Idea - Pyro)<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Impostor Killing: Evil Hacker (Ported from TOH)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some roles using Shapeshift Abilities will never play the Shapeshift animation<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Settings menu now opens first, then loads (1-2 seconds lag)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Lobby timer displayed for vanilla players<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Modded players can see the host during meetings (Online games only)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Vanilla players can see the roles of the winning players at game end<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Random Role Assign<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved: Ninja, PlagueBearer, Schrodinger's Cat, Tricky<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Enigma max name length increased from 8 to 10<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Adjusted colour-blind text position<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Veteran cannot be assigned Fragile<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Doppelganger cannot be assigned Rainbow and Flash<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Schrodinger's Cat cannot be assigned Fragile<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Real death reason displayed for players who left the game after death<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Version display size reduced by 70%<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bounty Hunter resetting incorrect targets<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Null error post-meeting for Vulture and Seeker and error after votes in Airship<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Doppelganger name discrepancies between host and clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Custom buttons brightness issues<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Roles without vent ability getting stuck after trying to vent<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Vent icon issues for roles based on Engineer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Black screens during role assign<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Scientist assign desync issues<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Helpful Add-on: Radar<br>
++ <font color=green><b>NEW</b></font>: Experimental Add-on: Glow<br>
++ <font color=green><b>NEW</b></font>: Setting: Amnesiac arrows<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Mayor can call meetings even when out of uses<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: EAC list not working when ban list is off<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Kamikaze causing half-dead players<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Command: /me<br>
++ <font color=green><b>NEW</b></font>: Setting: Instant Auto-Start<br>
++ <font color=green><b>NEW</b></font>: Engineer Settings: &quot;Vent Cooldown&quot; and &quot;Max Time In Vents&quot;<br>
++ <font color=green><b>NEW</b></font>: Setting: Lobby timer in &quot;template.txt&quot;<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: EAC improvements <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Penguin's victim can't vent<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Auto-Updater<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: &quot;Horse Mode&quot; returned<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: April Fool's mode added as a setting<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved API Connection loading<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Automatically ban spoofed friend codes (Can be disabled in settings)<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Crewmate Ghost: Ghastly <br>
++ <font color=green><b>NEW</b></font>: Crewmate Ghost: Hawk<br>
++ <font color=green><b>NEW</b></font>: Impostor Ghost: Bloodmoon<br>
++ <font color=green><b>NEW</b></font>: Crewmate Vanilla/Ghost: Guardian Angel - Support Added<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Chronomancer<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Re-added colors to kill log and last roles commands<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Optimized Fortune Teller<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Messages not sent to vanilla players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Zombie Role issues<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Impostor Experimental: Doll Master<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved showing role info for vanilla players<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>0xDrMoe</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>, <a href="#"><strong>WaterPanda</strong></a>, <a href="#"><strong>Sunnyboi</strong></a>, &amp; <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong><ExternalLinkIcon/></a><br>
+= <font color=#32CD32><b>TYPOS</b></font>: Fixed Typos, inconsistencies, and mistakes in descriptions, names, etc.<br></p>
+</li>
+<li>
+<p>Miscellaneous<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Updated background images: Main menu now features art winners<br></p>
+</li>
+<li>
+<p>Special thanks to <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>, <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a>, <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a>, &amp; <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a><br></p>
+</li>
+</ul>
+<ul>
+<li>Additional Fixes by Multiple Contributors<br></li>
+</ul>
+<h2 id="v1-6-0-canary-6" tabindex="-1"><a class="header-anchor" href="#v1-6-0-canary-6"><span><font size=5em><b>v1.6.0 Canary 6</b></font><br></span></a></h2>
 <ul>
 <li>
 <p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>

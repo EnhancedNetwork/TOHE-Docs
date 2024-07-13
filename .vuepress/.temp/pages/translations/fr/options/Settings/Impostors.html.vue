@@ -6,31 +6,35 @@
 <td colspan="2" align="center"><b><u>Role Count</u></b></td>
 </tr>
 <tr>
-<td><font color=indigo><b>Concealing</b></font></td>
+<td><font color=#3b0722><b>👣 Concealing</b></font></td>
 <td align="center">15</td>
 </tr>
 <tr>
-<td><font color=#bd8b88><b>Ghost</b></font></td>
+<td><font color=#4d2b22><b>🚧 Experimental</b></font></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td><font color=#bd8b88><b>👻 Ghost</b></font></td>
 <td align="center">2</td>
 </tr>
 <tr>
-<td><font color=#636363><b>Hindering</b></font></td>
-<td align="center">8</td>
+<td><font color=#636363><b>⛓️ Hindering</b></font></td>
+<td align="center">9</td>
 </tr>
 <tr>
-<td><font color=#6e003a><b>Killing</b></font></td>
+<td><font color=#6a0000><b>🔪 Killing</b></font></td>
 <td align="center">27</td>
 </tr>
 <tr>
-<td><font color=red><b>Madmate</b></font></td>
-<td align="center">2 (+2)</td>
+<td><font color=red><b>😡 Madmate</b></font></td>
+<td align="center">2</td>
 </tr>
 <tr>
-<td><font color=#00ffff><b>Support</b></font> </td>
+<td><font color=#00ffff><b>🫂 Support</b></font> </td>
 <td align="center">13</td>
 </tr>
 <tr>
-<td><font color=#8cffff><b>Vanilla</b></font> </td>
+<td><font color=#8cffff><b>🍦 Vanilla</b></font> </td>
 <td align="center">2</td>
 </tr>
 <tr>
@@ -39,20 +43,23 @@
 </tr>
 </table>
 <br>
-<h3 id="concealing" tabindex="-1"><a class="header-anchor" href="#concealing"><span><font color=indigo><b>Concealing</b></font></span></a></h3>
+<h3 id="concealing" tabindex="-1"><a class="header-anchor" href="#concealing"><span><font color=#3b0722><b>Concealing</b></font></span></a></h3>
 <hr>
 <p><RouteLink to="/options/Impostors/Concealing/Escapist.html">Escapist</RouteLink> | <RouteLink to="/options/Impostors/Concealing/Lightning.html">Lightning</RouteLink> | <RouteLink to="/options/Impostors/Concealing/Mastermind.html">Mastermind</RouteLink> | <RouteLink to="/options/Impostors/Concealing/Miner.html">Miner</RouteLink> | <RouteLink to="/options/Impostors/Concealing/Puppeteer.html">Puppeteer</RouteLink> | <RouteLink to="/options/Impostors/Concealing/RiftMaker.html">Rift Maker</RouteLink> | <RouteLink to="/options/Impostors/Concealing/Scavenger.html">Scavenger</RouteLink> | <RouteLink to="/options/Impostors/Concealing/Shapemaster.html">Shapemaster</RouteLink> | <RouteLink to="/options/Impostors/Concealing/SoulCatcher.html">Soul Catcher</RouteLink> | <RouteLink to="/options/Impostors/Concealing/Swooper.html">Swooper</RouteLink> | <RouteLink to="/options/Impostors/Concealing/Trickster.html">Trickster</RouteLink> | <RouteLink to="/options/Impostors/Concealing/Undertaker.html">Undertaker</RouteLink> | <RouteLink to="/options/Impostors/Concealing/Vampire.html">Vampire</RouteLink> | <RouteLink to="/options/Impostors/Concealing/Warlock.html">Warlock</RouteLink> | <RouteLink to="/options/Impostors/Concealing/Wildling.html">Wildling</RouteLink>
 <br></p>
+<h3 id="experimental" tabindex="-1"><a class="header-anchor" href="#experimental"><span><font color=#4d2b22><b>Experimental</b></font></span></a></h3>
+<hr>
+<p><RouteLink to="/options/Impostors/Experimental/DollMaster.html">Doll Master</RouteLink></p>
 <h3 id="ghost" tabindex="-1"><a class="header-anchor" href="#ghost"><span><font color=#bd8b88><b>Ghost</b></font></span></a></h3>
 <hr>
-<p><RouteLink to="/options/Impostors/Ghost/Minion.html">Minion</RouteLink> | <RouteLink to="/options/Impostors/Ghost/Nemesis.html">Nemesis</RouteLink></p>
+<p><RouteLink to="/options/Impostors/Ghost/Bloodmoon.html">Bloodmoon</RouteLink> | <RouteLink to="/options/Impostors/Ghost/Minion.html">Minion</RouteLink></p>
 <h3 id="hindering" tabindex="-1"><a class="header-anchor" href="#hindering"><span><font color=#636363><b>Hindering</b></font></span></a></h3>
 <hr>
-<p><RouteLink to="/options/Impostors/Hindering/Anonymous.html">Anonymous</RouteLink> | <RouteLink to="/options/Impostors/Hindering/Dazzler.html">Dazzler</RouteLink> | <RouteLink to="/options/Impostors/Hindering/Devourer.html">Devourer</RouteLink> | <RouteLink to="/options/Impostors/Hindering/Eraser.html">Eraser</RouteLink> | <RouteLink to="/options/Impostors/Hindering/Penguin.html">Penguin</RouteLink> | <RouteLink to="/options/Impostors/Hindering/Pitfall.html">Pitfall</RouteLink> | <RouteLink to="/options/Impostors/Hindering/Stealth.html">Stealth</RouteLink> | <RouteLink to="/options/Impostors/Hindering/Twister.html">Twister</RouteLink>
+<p><RouteLink to="/options/Impostors/Hindering/Anonymous.html">Anonymous</RouteLink> | <RouteLink to="/options/Impostors/Hindering/Dazzler.html">Dazzler</RouteLink> | <RouteLink to="/options/Impostors/Hindering/Devourer.html">Devourer</RouteLink> | <RouteLink to="/options/Impostors/Hindering/Disperser.html">Disperser</RouteLink> | <RouteLink to="/options/Impostors/Hindering/Eraser.html">Eraser</RouteLink> | <RouteLink to="/options/Impostors/Hindering/Penguin.html">Penguin</RouteLink> | <RouteLink to="/options/Impostors/Hindering/Pitfall.html">Pitfall</RouteLink> | <RouteLink to="/options/Impostors/Hindering/Stealth.html">Stealth</RouteLink> | <RouteLink to="/options/Impostors/Hindering/Twister.html">Twister</RouteLink>
 <br></p>
-<h3 id="killing" tabindex="-1"><a class="header-anchor" href="#killing"><span><font color=#b22222><b>Killing</b></font></span></a></h3>
+<h3 id="killing" tabindex="-1"><a class="header-anchor" href="#killing"><span><font color=#6a0000><b>Killing</b></font></span></a></h3>
 <hr>
-<p><RouteLink to="/options/Impostors/Killing/Arrogance.html">Arrogance</RouteLink> | <RouteLink to="/options/Impostors/Killing/Berserker.html">Berserker</RouteLink> | <RouteLink to="/options/Impostors/Killing/Bomber.html">Bomber</RouteLink> | <RouteLink to="/options/Impostors/Killing/BountyHunter.html">Bounty Hunter</RouteLink> | <RouteLink to="/options/Impostors/Killing/Butcher.html">Butcher</RouteLink> | <RouteLink to="/options/Impostors/Killing/Chronomancer.html">Chronomancer</RouteLink> | <RouteLink to="/options/Impostors/Killing/Councillor.html">Councillor</RouteLink> | <RouteLink to="/options/Impostors/Killing/CursedWolf.html">Cursed Wolf</RouteLink> | <RouteLink to="/options/Impostors/Killing/Deathpact.html">Deathpact</RouteLink> | <RouteLink to="/options/Impostors/Killing/EvilGuesser.html">Evil Guesser</RouteLink> | <RouteLink to="/options/Impostors/Killing/EvilTracker.html">Evil Tracker</RouteLink> | <RouteLink to="/options/Impostors/Killing/Greedy.html">Greedy</RouteLink> | <RouteLink to="/options/Impostors/Killing/Hangman.html">Hangman</RouteLink> | <RouteLink to="/options/Impostors/Killing/Inhibitor.html">Inhibitor</RouteLink> | <RouteLink to="/options/Impostors/Killing/Instigator.html">Instigator</RouteLink> | <RouteLink to="/options/Impostors/Killing/KillingMachine.html">Killing Machine</RouteLink> | <RouteLink to="/options/Impostors/Killing/Ludopath.html">Ludopath</RouteLink> | <RouteLink to="/options/Impostors/Killing/Lurker.html">Lurker</RouteLink> | <RouteLink to="/options/Impostors/Killing/Mercenary.html">Mercenary</RouteLink> | <RouteLink to="/options/Impostors/Killing/Ninja.html">Ninja</RouteLink> | <RouteLink to="/options/Impostors/Killing/Quickshooter.html">Quick Shooter</RouteLink> | <RouteLink to="/options/Impostors/Killing/Saboteur.html">Saboteur</RouteLink> | <RouteLink to="/options/Impostors/Killing/Sniper.html">Sniper</RouteLink> | <RouteLink to="/options/Impostors/Killing/Spellcaster.html">Spellcaster</RouteLink> | <RouteLink to="/options/Impostors/Killing/Trapster.html">Trapster</RouteLink> | <RouteLink to="/options/Impostors/Killing/Underdog.html">Underdog</RouteLink>
+<p><RouteLink to="/options/Impostors/Killing/Arrogance.html">Arrogance</RouteLink> | <RouteLink to="/options/Impostors/Killing/Berserker.html">Berserker</RouteLink> | <RouteLink to="/options/Impostors/Killing/Bomber.html">Bomber</RouteLink> | <RouteLink to="/options/Impostors/Killing/BountyHunter.html">Bounty Hunter</RouteLink> | <RouteLink to="/options/Impostors/Killing/Butcher.html">Butcher</RouteLink> | <RouteLink to="/options/Impostors/Killing/Chronomancer.html">Chronomancer</RouteLink> | <RouteLink to="/options/Impostors/Killing/Councillor.html">Councillor</RouteLink> | <RouteLink to="/options/Impostors/Killing/CursedWolf.html">Cursed Wolf</RouteLink> | <RouteLink to="/options/Impostors/Killing/Deathpact.html">Deathpact</RouteLink> | <RouteLink to="/options/Impostors/Killing/EvilGuesser.html">Evil Guesser</RouteLink> | <RouteLink to="/options/Impostors/Killing/EvilTracker.html">Evil Tracker</RouteLink> | <RouteLink to="/options/Impostors/Killing/Greedy.html">Greedy</RouteLink> | <RouteLink to="/options/Impostors/Killing/Hangman.html">Hangman</RouteLink> | <RouteLink to="/options/Impostors/Killing/Inhibitor.html">Inhibitor</RouteLink> | <RouteLink to="/options/Impostors/Killing/Instigator.html">Instigator</RouteLink> | <RouteLink to="/options/Impostors/Killing/KillingMachine.html">Killing Machine</RouteLink> | <RouteLink to="/options/Impostors/Killing/Ludopath.html">Ludopath</RouteLink> | <RouteLink to="/options/Impostors/Killing/Lurker.html">Lurker</RouteLink> | <RouteLink to="/options/Impostors/Killing/Mercenary.html">Mercenary</RouteLink> | <RouteLink to="/options/Impostors/Killing/Ninja.html">Ninja</RouteLink> | <RouteLink to="/options/Impostors/Killing/Quickshooter.html">Quick Shooter</RouteLink> | <RouteLink to="/options/Impostors/Killing/Saboteur.html">Saboteur</RouteLink> | <RouteLink to="/options/Impostors/Killing/Sniper.html">Sniper</RouteLink> | <RouteLink to="/options/Impostors/Killing/Trapster.html">Trapster</RouteLink> | <RouteLink to="/options/Impostors/Killing/Underdog.html">Underdog</RouteLink> | <RouteLink to="/options/Impostors/Killing/Witch.html">Witch</RouteLink> | <RouteLink to="/options/Impostors/Killing/Witch.html">Zombie</RouteLink>
 <br></p>
 <h3 id="madmate" tabindex="-1"><a class="header-anchor" href="#madmate"><span><font color=red><b>Madmate</b></font></span></a></h3>
 <hr>
@@ -64,7 +71,7 @@
 <br></p>
 <h3 id="vanilla" tabindex="-1"><a class="header-anchor" href="#vanilla"><span><font color=#8cffff><b>Vanilla</b></font></span></a></h3>
 <hr>
-<p><RouteLink to="/options/Impostors/Vanilla/Impostor.html">Impostor</RouteLink> | <RouteLink to="/options/Impostors/Vanilla/Shapeshifter.html">Shapeshifter</RouteLink>
+<p><RouteLink to="/options/Impostors/Vanilla/Impostor.html">Impostor</RouteLink>| <RouteLink to="/options/Phantom/Vanilla/Shapeshifter.html">Phantom</RouteLink> | <RouteLink to="/options/Impostors/Vanilla/Shapeshifter.html">Shapeshifter</RouteLink>
 <br></p>
 <br>
 <details>

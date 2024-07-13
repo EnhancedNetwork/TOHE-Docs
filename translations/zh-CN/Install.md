@@ -29,10 +29,10 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, or I
 2. Once the download is complete, unzip it into a new empty folder like on desktop.
 
 3. Locate your AmongUs install. For example, if you own the game on Steam, you can find this by right clicking on the game in your library, selecting "Manage", and finally selecting "Browse local files."<br>
-![image](./images/SteamGetFolder.png)
+![image](../../images/SteamGetFolder.png)
 
 4. Select all of the files in your Among Us installation and copy them to the folder that now has the files from the TOHE release. The folder should now look something like this:<br>
-![image](./images/ResultFolder.png)
+![image](../../images/ResultFolder.png)
 
 5. Within the TOHE folder, run `Among Us.exe`. The first time running it may take some time while the mod sets up its files. If you see a black screen, just wait a couple minutes. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.
 
@@ -48,10 +48,10 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, or I
 2. Once the download is complete, unzip it into a new empty folder somewhere like on desktop.
 
 3. Locate your AmongUs install. Find Among Us and click on the 3 dots `...` > click the folder icon button on the installation bar.<br>
-![image](./images/EpicInstallation.png)
+![image](../../images/EpicInstallation.png)
 
 4. Select all of the files in your Among Us installation and copy them to the folder that now has the files from the TOHE release. The folder should now look something like this:<br>
-![image](./images/EpicFiles.png)
+![image](../../images/EpicFiles.png)
 
 5. Make sure `legendary.exe` does not have a (1) or any other number in it and is named exactly this.
 

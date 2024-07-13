@@ -2,7 +2,72 @@
 <hr>
 <p>To access Stable Builds, visit the <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank" rel="noopener noreferrer">TOH: Enhanced Git-Hub<ExternalLinkIcon/></a> and download the latest release!</p>
 <hr>
-<h2 id="latest-v1-5-0" tabindex="-1"><a class="header-anchor" href="#latest-v1-5-0"><span><font size=5em><b>Latest: v1.5.0</b></font></span></a></h2>
+<h2 id="latest-v1-6-0" tabindex="-1"><a class="header-anchor" href="#latest-v1-6-0"><span><font size=5em><b>Latest: v1.6.0</b></font></span></a></h2>
+<h3 id="【addons】-1-addons" tabindex="-1"><a class="header-anchor" href="#【addons】-1-addons"><span>【Addons】(1 Addons)<br></span></a></h3>
+<p>+ <font color=green><b>NEW</b></font>: Statue (Harmful Addon - By: Drakos, Idea: spong)<br></p>
+<h3 id="【collaborative-changes】-worked-on-by-2-people" tabindex="-1"><a class="header-anchor" href="#【collaborative-changes】-worked-on-by-2-people"><span>【Collaborative Changes】(Worked on by 2+ people!)<br></span></a></h3>
+<p>+ <font color=green><b>NEW</b></font>: New function for Shapeshift roles: Reject-ShapeShift (By: NikoCat223 - Created the base code, and TommyXL - Helped) (All roles that can use shapeshift will no longer play the shapeshift animation) (This function can be adjusted using the setting «Disable Shapeshift Animations» (The Sniper has a separate setting)) (Note: In the next version it may be changed, for example: some roles will have Shapeshift disabled by default and some roles will add a setting with «Disable Shapeshift Animation»)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved code base for all add-ons (By: Drakos - Created the base code, and TommyXL - Partially helped)<br></p>
+<h3 id="【new-settings】" tabindex="-1"><a class="header-anchor" href="#【new-settings】"><span>【New Settings】<br></span></a></h3>
+<p>+ <font color=green><b>NEW</b></font>: Disable VoteKick System (By: Pietro)<br>
++ <font color=green><b>NEW</b></font>: Impostors can see each other's Add-ons (By: TommyXL)<br>
++ <font color=green><b>NEW</b></font>: Players can use «/tpin» and «/tpout» commands (By: ryuk)<br>
++ <font color=green><b>NEW</b></font>: Players can play mini-games (By: ryuk)<br>
++ <font color=green><b>NEW</b></font>: Client setting: «Dark Theme» (By: TommyXL - Ported From EHR - Works only for modded players)<br></p>
+<h3 id="【new-features】" tabindex="-1"><a class="header-anchor" href="#【new-features】"><span>【New Features】<br></span></a></h3>
+<p>= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved announcement patch (By: ryuk - Ported from TOH-Y)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added «dlekS ehT» in Map Picker Menu (By: TommyXL - Thanks Submerged source code)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved role spawns (By: TommyXL - Ported from EHR) (Now for each role, you can set the chance of appearance from 0% to 100%)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Role Summary (By: TommyXL - Ported From EHR)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Revert to old Kill logs (By: ryuk) (The kill log and end summary will also automatically remove HTML tags if the length is too long (even with setting off). This is done because if the message is too big, it will not be sent to some players)<br></p>
+<h3 id="【some-changes】" tabindex="-1"><a class="header-anchor" href="#【some-changes】"><span>【Some Changes】<br></span></a></h3>
+<p>= <font color=#e08709><b>IMPROVEMENT</b></font>: We will now use «Mini.RegionInstall» to add modded servers<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Now backgrounds are set in randomly (By: ryuk - from art competitions)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: If a user fails dbconnect on first login, it will be turned to offline mode and forced to re-login (By: NikoCat223)<br>
+- <font color=red><b>REMOVED</b></font>: Client Setting «Old Role Summary» removed (By: TommyXL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Modded players now will show the player role in the Haunt Menu instead of the base role (By: TommyXL)<br>
+- <font color=red><b>REMOVED</b></font>: Unused strings were removed (By: ryuk - Thanks to kevoutings for providing all the unused strings)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Now vanilla roles and Amnesiac always will be shown in Guesser UI (By: TommyXL)<br></p>
+<h3 id="【bug-fixes】" tabindex="-1"><a class="header-anchor" href="#【bug-fixes】"><span>【Bug Fixes】<br></span></a></h3>
+<p>= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Mod Updater (By: Pietro and NikoCat223)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Progress text and target mark for Pirate (By: ryuk)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Removed Overtired from enabled addons list (By: ryuk)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Shapeshifted Hangman ignores the alerted veteran (By: ryuk)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when «FixedUpdate» for roles working in the lobby (By: TommyXL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed bug when settings sometimes are not loading (By: TommyXL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixes for Copycat turning into Retributionist and reverting into Copycat (By: Moe)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Susceptible making role visible to others (By: Drakos)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some visual bugs with Modded clients (By: NikoCat223)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Bomber and Nuker were banned by EAC after shapeshifting (By: NikoCat223)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Solsticer is no longer a member of any team (By: NikoCat223)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Penguin victim cannot kill (By: NikoCat223)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Pelican cannot eat grabbing penguin (By: NikoCat223)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the GM gets stuck outside the map on the Airship (By: TommyXL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed presets in Hide &amp; Seek (By: TommyXL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed errors in Double Trigger (By: TommyXL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some invalid strings for Quiz Master (By: TommyXL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Mole not working on fungle (By: ryuk)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Remove ejected from Tricky random death reason (By: ryuk)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Imitator having vanilla cooldown (By: ryuk)<br></p>
+<h3 id="【translator-credits】" tabindex="-1"><a class="header-anchor" href="#【translator-credits】"><span>【Translator Credits】<br></span></a></h3>
+<p>+ <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font>: (Dx7405)
+Dutch (apemv, madmazel_)<br>
++ <font color=#002654><b>French</b></font>: (FuroYT, KevOut, Klaomi, Sansationnelle, Space Monkey)<br>
++ <font color=#009344><b>Italian</b></font>: (alot, Baphojack, Mattix606)<br>
++ <font color=#bd0029><b>Japanese</b></font>: (Sunnyboi)<br>
++ <font color=#009b3a><b>Latam (Latin American)</b></font>: (CreepPower)<br>
++ <font color=#0036a7><b>Russian</b></font>: (TommyXL, Shoulder Devil, chill_ultimated, Nevermore59)<br>
++ <font color=#de2910><b>Simplified Chinese</b></font>: (CrewCyan, LezaiYa, NikoCat223)<br>
++ <font color=#ffc400><b>Spanish</b></font>: (Dawson, Sunnyboi, thewhiskas27, xxSShadow)<br>
++ <font color=#de2910><b>Traditional Chinese</b></font>: (FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)<br></p>
+<ul>
+<li>Check out all of our translators on our <a href="https://tohre.dev" target="_blank" rel="noopener noreferrer"><strong>website</strong><ExternalLinkIcon/></a></li>
+</ul>
+<ul>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/releases/tag/v1.6.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.6.0 Changelog</strong><ExternalLinkIcon/></a> or support us on <a href="https://ko-fi.com/tohe/" target="_blank" rel="noopener noreferrer"><strong>Ko-Fi</strong><ExternalLinkIcon/></a> to get access to early features!</li>
+</ul>
+<hr>
+<h2 id="v1-5-0" tabindex="-1"><a class="header-anchor" href="#v1-5-0"><span><font size=5em><b>v1.5.0</b></font></span></a></h2>
 <h3 id="【new-roles】" tabindex="-1"><a class="header-anchor" href="#【new-roles】"><span>【New Roles】<br></span></a></h3>
 <p>+ <font color=green><b>NEW</b></font>: Rift Maker (Support Impostor - By: ryuk) <br>
 + <font color=green><b>NEW</b></font>: Penguin (Hindering Impostor - Coded by dev TOH and Ported from TOHE+ - By: Drakos) <br>
@@ -10,33 +75,33 @@
 + <font color=green><b>NEW</b></font>: Plague Scientist (Neutral Killer - Coded by dev TOH and Ported from TOHE+ - By: Drakos) <br>
 + <font color=green><b>NEW</b></font>: Schrodinger's Cat (Neutral Benign - Coded by dev TOH - By: ryuk) <br>
 + <font color=green><b>NEW</b></font>: Quizmaster (Experimental role - By: Furo) <br></p>
-<h3 id="【new-addons】" tabindex="-1"><a class="header-anchor" href="#【new-addons】"><span>【New Addons】</span></a></h3>
+<h3 id="【new-addons】" tabindex="-1"><a class="header-anchor" href="#【new-addons】"><span>【New Addons】<br></span></a></h3>
 <p>+ <font color=green><b>NEW</b></font>: Susceptible (Helpful Addon - By: Drakos) <br>
 + <font color=green><b>NEW</b></font>: Tired (Helpful Addon - By: Drakos) <br>
 + <font color=green><b>NEW</b></font>: Tricky (Impostor Add-on - By: ryuk) <br>
 + <font color=green><b>NEW</b></font>: Rainbow (Miscellaneous Addon - Coded by dev TOH-Y - By: NikoCat223 and LezaiYa) <br></p>
-<h3 id="【reworked-rebased-improved-roles】" tabindex="-1"><a class="header-anchor" href="#【reworked-rebased-improved-roles】"><span>【Reworked/Rebased/Improved Roles】</span></a></h3>
+<h3 id="【reworked-rebased-improved-roles】" tabindex="-1"><a class="header-anchor" href="#【reworked-rebased-improved-roles】"><span>【Reworked/Rebased/Improved Roles】<br></span></a></h3>
 <p>= <font color=#F6BE00><b>REWORK</b></font>: Killing Machine (Reworked - By: ryuk) <br>
 = <font color=#F6BE00><b>REWORK</b></font>: Investigator (Reworked - By: ryuk) <br>
 = <font color=#F6BE00><b>REBASED</b></font>: Swapper (Rebased - By: NikoCat223) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Copycat (Improved - By: ryuk) <br></p>
-<h3 id="【removed-roles-addons】" tabindex="-1"><a class="header-anchor" href="#【removed-roles-addons】"><span>【Removed Roles/Addons】</span></a></h3>
+<h3 id="【removed-roles-addons】" tabindex="-1"><a class="header-anchor" href="#【removed-roles-addons】"><span>【Removed Roles/Addons】<br></span></a></h3>
 <p>- <font color=red><b>REMOVED</b></font>: Luckey (Сrewmate role - By: ryuk) <br>
 - <font color=red><b>REMOVED</b></font>: Witch (Neutral Killer - By: TommyXL) <br>
 - <font color=red><b>REMOVED</b></font>: Repairman (Common Addon - By: TommyXL) <br></p>
-<h3 id="【performance-code-improvements】" tabindex="-1"><a class="header-anchor" href="#【performance-code-improvements】"><span>【Performance/Code Improvements】</span></a></h3>
+<h3 id="【performance-code-improvements】" tabindex="-1"><a class="header-anchor" href="#【performance-code-improvements】"><span>【Performance/Code Improvements】<br></span></a></h3>
 <p>= <font color=#e08709><b>IMPROVEMENT</b></font>: «FixedUpdate» in code now work async (By: TommyXL) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Optimize Ping Tracker Update (By: TommyXL) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Code In «CheckMurder» (By: TommyXL) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Code When Players Complete Task (By: TommyXL) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Сode improvements in «HasKillButton» (By: ryuk) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Сode improvements in «DivinatorCheck.Result» for Fortune Teller (By: ryuk) <br></p>
-<h3 id="【new-features】" tabindex="-1"><a class="header-anchor" href="#【new-features】"><span>【New Features】</span></a></h3>
+<h3 id="【new-features】-1" tabindex="-1"><a class="header-anchor" href="#【new-features】-1"><span>【New Features】<br></span></a></h3>
 <p>+ <font color=green><b>NEW</b></font>: Support Added For Vanilla Hide &amp; Seek (By: TommyXL) <br>
 + <font color=green><b>NEW</b></font>: Added Random Skins &amp; Colors in Camouflage (By: TommyXL) <br>
 + <font color=green><b>NEW</b></font>: Black screen (Anti Blackout) protection system has been improved (By: TommyXL) <br>
 + <font color=green><b>NEW</b></font>: Add-ons assign was recoded (By: TommyXL) <br></p>
-<h3 id="【new-settings】" tabindex="-1"><a class="header-anchor" href="#【new-settings】"><span>【New Settings】</span></a></h3>
+<h3 id="【new-settings】-1" tabindex="-1"><a class="header-anchor" href="#【new-settings】-1"><span>【New Settings】<br></span></a></h3>
 <p>+ <font color=green><b>NEW</b></font>: Show Only Enabled Roles In Guesser UI (By: TommyXL) <br>
 + <font color=green><b>NEW</b></font>: Only allow whitelisted players to join lobbies (By: ryuk) <br>
 + <font color=green><b>NEW</b></font>: Hide «Host♥» text (By: Pietro) <br>
@@ -46,7 +111,7 @@
 + <font color=green><b>NEW</b></font>: Alchemist: «Potion Of Speed» (Ported from TOHE+ - By: Drakos) <br>
 + <font color=green><b>NEW</b></font>: Doppelganger: «Can vent» and «Has imp vision» (By: ryuk) <br>
 + <font color=green><b>NEW</b></font>: Bandit: «Steal cooldown» (different from kill cooldown - By: ryuk) <br></p>
-<h3 id="【changes】" tabindex="-1"><a class="header-anchor" href="#【changes】"><span>【Changes】</span></a></h3>
+<h3 id="【changes】" tabindex="-1"><a class="header-anchor" href="#【changes】"><span>【Changes】<br></span></a></h3>
 <p>= <font color=#F6BE00><b>CHANGE</b></font>: Display sorted role names for all langs in guesser UI (By: ryuk) <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Preset 5 will be used to sync with host's setting for modded client (By: TommyXL) <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Ported code «Vent.CanUse» from TOH (By: TommyXL) <br>
@@ -59,7 +124,7 @@
 = <font color=#F6BE00><b>CHANGE</b></font>: Add-ons with a spawn chance greater than or equal to 90% have higher priority (By: TommyXL) <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Added delay teleport after meeting (By: TommyXL) <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Roles using abilities using vents will now spawn on the Dleks (dlekS ehT) map (By: TommyXL) <br></p>
-<h3 id="【bug-fixes】" tabindex="-1"><a class="header-anchor" href="#【bug-fixes】"><span>【Bug Fixes】</span></a></h3>
+<h3 id="【bug-fixes】-1" tabindex="-1"><a class="header-anchor" href="#【bug-fixes】-1"><span>【Bug Fixes】<br></span></a></h3>
 <p>= <font color=#1376f0><b>BUG FIX</b></font>: Fixed vents on Dleks map for modded players (By: TommyXL) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Provocateur now cannot get Bait (By: TommyXL) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Kamikaze now cannot get Swift (By: TommyXL) <br>
@@ -110,7 +175,7 @@
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Nice Mini can be killed by Warlock, Puppeteer, Shroud and can be target for anonymous (By: NikoCat223 and LezaiYa) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug that prevented the game from ending when Mini was exiled (By: LezaiYa) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where «/gno» and «/rand» gave same result (By: Marg) <br></p>
-<h3 id="" tabindex="-1"><a class="header-anchor" href="#"><span></span></a></h3>
+<h3 id="【translator-credits】-1" tabindex="-1"><a class="header-anchor" href="#【translator-credits】-1"><span>【Translator Credits】<br></span></a></h3>
 <p>+ <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font>: (By: Dx7405) <br>
 + <font color=#1e448b><b>Dutch</b></font>: (By: apemv, madmazel_) <br>
 + <font color=#002654><b>French</b></font>: (By: FuroYT, KevOut, Klaomi, Sansationnelle) <br>
@@ -122,7 +187,10 @@
 + <font color=#ffc400><b>Spanish</b></font> (By: Dawson, Sunnyboi, thewhiskas27, xxSShadow) <br>
 + <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)</p>
 <ul>
-<li>Check out all of our translators on our website * <a href="https://github.com/0xDrMoe/TownofHost-Enhanced/releases/tag/v1.5.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.5.0 Changelog</strong><ExternalLinkIcon/></a> or support us on <a href="https://ko-fi.com/tohen/" target="_blank" rel="noopener noreferrer"><strong>Ko-Fi</strong><ExternalLinkIcon/></a> to get access to early features!</li>
+<li>Check out all of our translators on our website</li>
+</ul>
+<ul>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/releases/tag/v1.5.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.5.0 Changelog</strong><ExternalLinkIcon/></a> or support us on <a href="https://ko-fi.com/tohe/" target="_blank" rel="noopener noreferrer"><strong>Ko-Fi</strong><ExternalLinkIcon/></a> to get access to early features!</li>
 </ul>
 <hr>
 <h2 id="v1-4-0" tabindex="-1"><a class="header-anchor" href="#v1-4-0"><span><font size=5em><b>v1.4.0</b></font></span></a></h2>
@@ -179,7 +247,7 @@
 <li>Check out all of our translators on our website</li>
 </ul>
 <ul>
-<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.3.0...v1.4.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.4.0 Changelog</strong><ExternalLinkIcon/></a></li>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.3.0...v1.4.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.4.0 Changelog</strong><ExternalLinkIcon/></a> or support us on <a href="https://ko-fi.com/tohe/" target="_blank" rel="noopener noreferrer"><strong>Ko-Fi</strong><ExternalLinkIcon/></a> to get access to early features!</li>
 </ul>
 <hr>
 <h2 id="v1-3-0" tabindex="-1"><a class="header-anchor" href="#v1-3-0"><span><font size=5em><b>v1.3.0</b></font><br></span></a></h2>
@@ -251,7 +319,10 @@
 + <font color=#ffc400><b>Spanish</b></font> by <a href="#"><strong>xxSShadow</strong></a>(New Translator), <a href="#"><strong>Sunnyboi</strong></a>, <a href="#"><strong>Dawson</strong></a>, &amp; <a href="#"><strong>thewhiskas</strong></a>.<br>
 + <font color=#de2910><b>Traditional Chinese</b></font> by <a href="#"><strong>Pomelo_</strong></a>(New Translator), <a href="#"><strong>FlyFlyTurtle</strong></a>(New Translator), <a href="#"><strong>NikoCat223</strong></a>, &amp; <a href="#"><strong>NetherDragonTw</strong></a>.</p>
 <ul>
-<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.2.0...v1.3.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.3.0 Changelog</strong><ExternalLinkIcon/></a></li>
+<li>Check out all of our translators on our <a href="https://tohre.dev" target="_blank" rel="noopener noreferrer"><strong>website</strong><ExternalLinkIcon/></a></li>
+</ul>
+<ul>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.2.0...v1.3.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.3.0 Changelog</strong><ExternalLinkIcon/></a> or support us on <a href="https://ko-fi.com/tohe/" target="_blank" rel="noopener noreferrer"><strong>Ko-Fi</strong><ExternalLinkIcon/></a> to get access to early features!</li>
 </ul>
 <hr>
 <h2 id="v1-2-0" tabindex="-1"><a class="header-anchor" href="#v1-2-0"><span><font size=5em><b>v1.2.0</b></font><br></span></a></h2>
@@ -259,7 +330,7 @@
 = <font color=#1376f0><b>BUG FIX</b></font>: Several Bug Fixes<br>
 = <font color=#dc4585><b>THE</b></font> <font color=#fe5ca8><b>FUNGLE</b></font>: Fun and all! Let's get ready to enter The Fungle 🌲<br></p>
 <ul>
-<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.1.1...v1.2.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.2.0 Changelog</strong><ExternalLinkIcon/></a></li>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.1.1...v1.2.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.2.0 Changelog</strong><ExternalLinkIcon/></a> or support us on <a href="https://ko-fi.com/tohe/" target="_blank" rel="noopener noreferrer"><strong>Ko-Fi</strong><ExternalLinkIcon/></a> to get access to early features!</li>
 </ul>
 <hr>
 <h2 id="v1-1-1" tabindex="-1"><a class="header-anchor" href="#v1-1-1"><span><font size=5em><b>v1.1.1</b></font><br></span></a></h2>
@@ -271,7 +342,7 @@
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved overkiller in PlayerControls<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Reworked End Game Checks (again) to optimize it<br></p>
 <ul>
-<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.1.0...v1.1.1" target="_blank" rel="noopener noreferrer"><strong>Full v1.1.1 Changelog</strong><ExternalLinkIcon/></a></li>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.1.0...v1.1.1" target="_blank" rel="noopener noreferrer"><strong>Full v1.1.1 Changelog</strong><ExternalLinkIcon/></a> or support us on <a href="https://ko-fi.com/tohe/" target="_blank" rel="noopener noreferrer"><strong>Ko-Fi</strong><ExternalLinkIcon/></a> to get access to early features!</li>
 </ul>
 <hr>
 <h2 id="v1-1-0" tabindex="-1"><a class="header-anchor" href="#v1-1-0"><span><font size=5em><b>v1.1.0</b></font><br></span></a></h2>
@@ -359,7 +430,10 @@ Updated en_US.json for some neutral killers (by Moe) <br>
 = New variables for template file = {{HostName}} (host's name), ({{PlayerName}} is for any player.) <br>
 = Several Misc Bug Fixes and code enhancements by TommyXL, ryuk, Moe and Gurge44</p>
 <ul>
-<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.0.1...v1.1.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.1.0 Changelog</strong><ExternalLinkIcon/></a></li>
+<li>Check out all of our translators on our <a href="https://tohre.dev" target="_blank" rel="noopener noreferrer"><strong>website</strong><ExternalLinkIcon/></a></li>
+</ul>
+<ul>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.0.1...v1.1.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.1.0 Changelog</strong><ExternalLinkIcon/></a> or support us on <a href="https://ko-fi.com/tohe/" target="_blank" rel="noopener noreferrer"><strong>Ko-Fi</strong><ExternalLinkIcon/></a> to get access to early features!</li>
 </ul>
 <hr>
 <h2 id="v1-0-1" tabindex="-1"><a class="header-anchor" href="#v1-0-1"><span><font size=5em><b>v1.0.1</b></font><br></span></a></h2>
@@ -368,7 +442,7 @@ Updated en_US.json for some neutral killers (by Moe) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed templates and VIP List not generating <a href="https://github.com/0xDrMoe/TownofHost-Enhanced/pull/5" target="_blank" rel="noopener noreferrer">#5<ExternalLinkIcon/></a> <a href="https://github.com/0xDrMoe/TownofHost-Enhanced/pull/6" target="_blank" rel="noopener noreferrer">#6<ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: A new tease...for a new role...? (try /r President)<br></p>
 <ul>
-<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/Release...v1.0.1" target="_blank" rel="noopener noreferrer"><strong>Full v1.0.1 Changelog</strong><ExternalLinkIcon/></a></li>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/Release...v1.0.1" target="_blank" rel="noopener noreferrer"><strong>Full v1.0.1 Changelog</strong><ExternalLinkIcon/></a> or support us on <a href="https://ko-fi.com/tohe/" target="_blank" rel="noopener noreferrer"><strong>Ko-Fi</strong><ExternalLinkIcon/></a> to get access to early features!</li>
 </ul>
 <hr>
 <h2 id="v1-0-0" tabindex="-1"><a class="header-anchor" href="#v1-0-0"><span><font size=5em><b>v1.0.0</b></font><br></span></a></h2>
@@ -377,7 +451,7 @@ Updated en_US.json for some neutral killers (by Moe) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Updated default templates to include all appropriate strings/variables<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bandit Text String<br></p>
 <ul>
-<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/commits/Release" target="_blank" rel="noopener noreferrer"><strong>Full v1.0.0 Changelog</strong><ExternalLinkIcon/></a></li>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/commits/Release" target="_blank" rel="noopener noreferrer"><strong>Full v1.0.0 Changelog</strong><ExternalLinkIcon/></a> or support us on <a href="https://ko-fi.com/tohe/" target="_blank" rel="noopener noreferrer"><strong>Ko-Fi</strong><ExternalLinkIcon/></a> to get access to early features!</li>
 </ul>
 </div></template>
 

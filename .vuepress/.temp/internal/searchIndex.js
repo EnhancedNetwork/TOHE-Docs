@@ -4,31 +4,53 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "Project Lead",
-        "slug": "project-lead",
-        "link": "#project-lead",
+        "title": "President",
+        "slug": "president",
+        "link": "#president",
         "children": []
       },
       {
         "level": 2,
-        "title": "Lead Developers",
-        "slug": "lead-developers",
-        "link": "#lead-developers",
+        "title": "Co-President",
+        "slug": "co-president",
+        "link": "#co-president",
         "children": []
       },
       {
         "level": 2,
-        "title": "Website Developer",
-        "slug": "website-developer",
-        "link": "#website-developer",
+        "title": "Website Assistant",
+        "slug": "website-assistant",
+        "link": "#website-assistant",
         "children": []
       },
       {
         "level": 2,
-        "title": "Contributors",
-        "slug": "contributors",
-        "link": "#contributors",
+        "title": "Department Heads",
+        "slug": "department-heads",
+        "link": "#department-heads",
         "children": []
+      },
+      {
+        "level": 2,
+        "title": "Staff Team",
+        "slug": "staff-team",
+        "link": "#staff-team",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "TOHE Team",
+        "slug": "tohe-team",
+        "link": "#tohe-team",
+        "children": [
+          {
+            "level": 3,
+            "title": "Contributors",
+            "slug": "contributors",
+            "link": "#contributors",
+            "children": []
+          }
+        ]
       },
       {
         "level": 2,
@@ -128,52 +150,9 @@ export const searchIndex = [
         "slug": "original-creator",
         "link": "#original-creator",
         "children": []
-      },
-      {
-        "level": 2,
-        "title": "Credited Mods",
-        "slug": "credited-mods",
-        "link": "#credited-mods",
-        "children": []
       }
     ],
     "path": "/AboutUs.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Advanced",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Presets",
-        "slug": "presets",
-        "link": "#presets",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Templates",
-        "slug": "templates",
-        "link": "#templates",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Valid Variables:",
-        "slug": "valid-variables",
-        "link": "#valid-variables",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Text Formatting:",
-        "slug": "text-formatting",
-        "link": "#text-formatting",
-        "children": []
-      }
-    ],
-    "path": "/Advanced.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -182,9 +161,30 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "Latest Mod Changelogs: v2.0.0 Dev 22",
-        "slug": "latest-mod-changelogs-v2-0-0-dev-22",
-        "link": "#latest-mod-changelogs-v2-0-0-dev-22",
+        "title": "Latest Mod Changelogs: v2.0.0 Canary 9",
+        "slug": "latest-mod-changelogs-v2-0-0-canary-9",
+        "link": "#latest-mod-changelogs-v2-0-0-canary-9",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Known Bugs",
+        "slug": "known-bugs",
+        "link": "#known-bugs",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Changelogs",
+        "slug": "changelogs-1",
+        "link": "#changelogs-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 9",
+        "slug": "v2-0-0-canary-9",
+        "link": "#v2-0-0-canary-9",
         "children": []
       },
       {
@@ -201,155 +201,7 @@ export const searchIndex = [
   },
   {
     "title": "Frequently Asked Questions",
-    "headers": [
-      {
-        "level": 2,
-        "title": "How can I install TOHE on phones, tablets, and consoles?",
-        "slug": "how-can-i-install-tohe-on-phones-tablets-and-consoles",
-        "link": "#how-can-i-install-tohe-on-phones-tablets-and-consoles",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Why did I get a pop-up saying \"You have been kicked by room\"?",
-        "slug": "why-did-i-get-a-pop-up-saying-you-have-been-kicked-by-room",
-        "link": "#why-did-i-get-a-pop-up-saying-you-have-been-kicked-by-room",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Why did I get a pop-up saying \"You have been kicked by Among Us' official anti-cheat\"?",
-        "slug": "why-did-i-get-a-pop-up-saying-you-have-been-kicked-by-among-us-official-anti-cheat",
-        "link": "#why-did-i-get-a-pop-up-saying-you-have-been-kicked-by-among-us-official-anti-cheat",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Why has my connection to the server been interrupted?",
-        "slug": "why-has-my-connection-to-the-server-been-interrupted",
-        "link": "#why-has-my-connection-to-the-server-been-interrupted",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Why does it say I am Unable to connect to my Among Us account?",
-        "slug": "why-does-it-say-i-am-unable-to-connect-to-my-among-us-account",
-        "link": "#why-does-it-say-i-am-unable-to-connect-to-my-among-us-account",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Why does it say \"An unknown error has occurred and your connection to the server has been interrupted\"?",
-        "slug": "why-does-it-say-an-unknown-error-has-occurred-and-your-connection-to-the-server-has-been-interrupted",
-        "link": "#why-does-it-say-an-unknown-error-has-occurred-and-your-connection-to-the-server-has-been-interrupted",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "After installing the TOHE, it is still in vanilla, why?",
-        "slug": "after-installing-the-tohe-it-is-still-in-vanilla-why",
-        "link": "#after-installing-the-tohe-it-is-still-in-vanilla-why",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "How do I get the log file?",
-        "slug": "how-do-i-get-the-log-file",
-        "link": "#how-do-i-get-the-log-file",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "What is \"Test Error Lv.x\"?",
-        "slug": "what-is-test-error-lv-x",
-        "link": "#what-is-test-error-lv-x",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "The meeting cannot be end normally, and the lower left corner displays an error: Please terminate the meeting manually, what happened?",
-        "slug": "the-meeting-cannot-be-end-normally-and-the-lower-left-corner-displays-an-error-please-terminate-the-meeting-manually-what-happened",
-        "link": "#the-meeting-cannot-be-end-normally-and-the-lower-left-corner-displays-an-error-please-terminate-the-meeting-manually-what-happened",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Why does the role reveal at the start of the game show that I am one role/team, but in game I am a different role/team?",
-        "slug": "why-does-the-role-reveal-at-the-start-of-the-game-show-that-i-am-one-role-team-but-in-game-i-am-a-different-role-team",
-        "link": "#why-does-the-role-reveal-at-the-start-of-the-game-show-that-i-am-one-role-team-but-in-game-i-am-a-different-role-team",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "What are Host-Only mods?",
-        "slug": "what-are-host-only-mods",
-        "link": "#what-are-host-only-mods",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Why does the game end inexplicably?",
-        "slug": "why-does-the-game-end-inexplicably",
-        "link": "#why-does-the-game-end-inexplicably",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Just after the start, it shows that the host has forced the end of the game, why?",
-        "slug": "just-after-the-start-it-shows-that-the-host-has-forced-the-end-of-the-game-why",
-        "link": "#just-after-the-start-it-shows-that-the-host-has-forced-the-end-of-the-game-why",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Most of the screen is black, but I can interact with the GUI and the sound can still be heard, what happened?",
-        "slug": "most-of-the-screen-is-black-but-i-can-interact-with-the-gui-and-the-sound-can-still-be-heard-what-happened",
-        "link": "#most-of-the-screen-is-black-but-i-can-interact-with-the-gui-and-the-sound-can-still-be-heard-what-happened",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Why are there are a lot of duplicate roles in the game?",
-        "slug": "why-are-there-are-a-lot-of-duplicate-roles-in-the-game",
-        "link": "#why-are-there-are-a-lot-of-duplicate-roles-in-the-game",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Why did I get vanilla roles?",
-        "slug": "why-did-i-get-vanilla-roles",
-        "link": "#why-did-i-get-vanilla-roles",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Why does the game never end?",
-        "slug": "why-does-the-game-never-end",
-        "link": "#why-does-the-game-never-end",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "What is Game Master/GM?",
-        "slug": "what-is-game-master-gm",
-        "link": "#what-is-game-master-gm",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "How can I access Canary & Dev Builds?",
-        "slug": "how-can-i-access-canary-dev-builds",
-        "link": "#how-can-i-access-canary-dev-builds",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Can you use the Submerged mod with TOHE?",
-        "slug": "can-you-use-the-submerged-mod-with-tohe",
-        "link": "#can-you-use-the-submerged-mod-with-tohe",
-        "children": []
-      }
-    ],
+    "headers": [],
     "path": "/FAQ.html",
     "pathLocale": "/",
     "extraFields": []
@@ -362,41 +214,6 @@ export const searchIndex = [
         "title": "Distribution Policy",
         "slug": "distribution-policy",
         "link": "#distribution-policy",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "MANUAL INSTALLATION",
-        "slug": "manual-installation",
-        "link": "#manual-installation",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "New Releases",
-        "slug": "new-releases",
-        "link": "#new-releases",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Installing Dev Builds/Canary Builds",
-        "slug": "installing-dev-builds-canary-builds",
-        "link": "#installing-dev-builds-canary-builds",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "How to gain Dev Builds Access",
-        "slug": "how-to-gain-dev-builds-access",
-        "link": "#how-to-gain-dev-builds-access",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "How to gain Canary Builds Access",
-        "slug": "how-to-gain-canary-builds-access",
-        "link": "#how-to-gain-canary-builds-access",
         "children": []
       }
     ],
@@ -413,13 +230,6 @@ export const searchIndex = [
         "slug": "presets",
         "link": "#presets",
         "children": []
-      },
-      {
-        "level": 2,
-        "title": "Marg's Regular Settings & Extreme Chaos Settings - Submitted by: margaretthefool",
-        "slug": "marg-s-regular-settings-extreme-chaos-settings-submitted-by-margaretthefool",
-        "link": "#marg-s-regular-settings-extreme-chaos-settings-submitted-by-margaretthefool",
-        "children": []
       }
     ],
     "path": "/Presets.html",
@@ -430,6 +240,13 @@ export const searchIndex = [
     "title": "Home",
     "headers": [],
     "path": "/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Resources",
+    "headers": [],
+    "path": "/Resources.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -470,6 +287,13 @@ export const searchIndex = [
         "slug": "vote-parties",
         "link": "#vote-parties",
         "children": []
+      },
+      {
+        "level": 2,
+        "title": "Socials",
+        "slug": "socials",
+        "link": "#socials",
+        "children": []
       }
     ],
     "path": "/vote.html",
@@ -481,9 +305,93 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "Latest: v1.6.0 Canary 6",
-        "slug": "latest-v1-6-0-canary-6",
-        "link": "#latest-v1-6-0-canary-6",
+        "title": "Known Bugs",
+        "slug": "known-bugs",
+        "link": "#known-bugs",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Latest: v2.0.0 Canary 9",
+        "slug": "latest-v2-0-0-canary-9",
+        "link": "#latest-v2-0-0-canary-9",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 8 Hotfix 1",
+        "slug": "v2-0-0-canary-8-hotfix-1",
+        "link": "#v2-0-0-canary-8-hotfix-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Latest: v2.0.0 Canary 8",
+        "slug": "latest-v2-0-0-canary-8",
+        "link": "#latest-v2-0-0-canary-8",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 7",
+        "slug": "v2-0-0-canary-7",
+        "link": "#v2-0-0-canary-7",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 6",
+        "slug": "v2-0-0-canary-6",
+        "link": "#v2-0-0-canary-6",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 5",
+        "slug": "v2-0-0-canary-5",
+        "link": "#v2-0-0-canary-5",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 4",
+        "slug": "v2-0-0-canary-4",
+        "link": "#v2-0-0-canary-4",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 3",
+        "slug": "v2-0-0-canary-3",
+        "link": "#v2-0-0-canary-3",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 2 Hotfix 1",
+        "slug": "v2-0-0-canary-2-hotfix-1",
+        "link": "#v2-0-0-canary-2-hotfix-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 2",
+        "slug": "v2-0-0-canary-2",
+        "link": "#v2-0-0-canary-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 1",
+        "slug": "v2-0-0-canary-1",
+        "link": "#v2-0-0-canary-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Canary 6",
+        "slug": "v1-6-0-canary-6",
+        "link": "#v1-6-0-canary-6",
         "children": []
       },
       {
@@ -644,9 +552,37 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "Latest: v2.0.0 Dev 22",
-        "slug": "latest-v2-0-0-dev-22",
-        "link": "#latest-v2-0-0-dev-22",
+        "title": "Latest: v2.0.0 Dev 25",
+        "slug": "latest-v2-0-0-dev-25",
+        "link": "#latest-v2-0-0-dev-25",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 24 HOTFIX 1",
+        "slug": "v2-0-0-dev-24-hotfix-1",
+        "link": "#v2-0-0-dev-24-hotfix-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 24",
+        "slug": "v2-0-0-dev-24",
+        "link": "#v2-0-0-dev-24",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 23",
+        "slug": "v2-0-0-dev-23",
+        "link": "#v2-0-0-dev-23",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 22",
+        "slug": "v2-0-0-dev-22",
+        "link": "#v2-0-0-dev-22",
         "children": []
       },
       {
@@ -1418,6 +1354,70 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Impostors",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Concealing",
+        "slug": "concealing",
+        "link": "#concealing",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Experimental",
+        "slug": "experimental",
+        "link": "#experimental",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Ghost",
+        "slug": "ghost",
+        "link": "#ghost",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Hindering",
+        "slug": "hindering",
+        "link": "#hindering",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Killing",
+        "slug": "killing",
+        "link": "#killing",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Madmate",
+        "slug": "madmate",
+        "link": "#madmate",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Support",
+        "slug": "support",
+        "link": "#support",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Vanilla",
+        "slug": "vanilla",
+        "link": "#vanilla",
+        "children": []
+      }
+    ],
+    "path": "/options/Settings/Impostors.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Game Settings",
     "headers": [
       {
@@ -1485,71 +1485,7 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/options/Settings/Game.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Impostors",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Concealing",
-        "slug": "concealing",
-        "link": "#concealing",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Experimental",
-        "slug": "experimental",
-        "link": "#experimental",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Ghost",
-        "slug": "ghost",
-        "link": "#ghost",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Hindering",
-        "slug": "hindering",
-        "link": "#hindering",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Killing",
-        "slug": "killing",
-        "link": "#killing",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Madmate",
-        "slug": "madmate",
-        "link": "#madmate",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Support",
-        "slug": "support",
-        "link": "#support",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Vanilla",
-        "slug": "vanilla",
-        "link": "#vanilla",
-        "children": []
-      }
-    ],
-    "path": "/options/Settings/Impostors.html",
+    "path": "/options/Settings/Mod.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1611,35 +1547,57 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "About Us",
+    "title": "About Our Team",
     "headers": [
       {
         "level": 2,
-        "title": "Project Lead",
-        "slug": "project-lead",
-        "link": "#project-lead",
+        "title": "President",
+        "slug": "president",
+        "link": "#president",
         "children": []
       },
       {
         "level": 2,
-        "title": "Lead Developers",
-        "slug": "lead-developers",
-        "link": "#lead-developers",
+        "title": "Co-President",
+        "slug": "co-president",
+        "link": "#co-president",
         "children": []
       },
       {
         "level": 2,
-        "title": "Website Developer",
-        "slug": "website-developer",
-        "link": "#website-developer",
+        "title": "Website Assistant",
+        "slug": "website-assistant",
+        "link": "#website-assistant",
         "children": []
       },
       {
         "level": 2,
-        "title": "Contributors",
-        "slug": "contributors",
-        "link": "#contributors",
+        "title": "Department Heads",
+        "slug": "department-heads",
+        "link": "#department-heads",
         "children": []
+      },
+      {
+        "level": 2,
+        "title": "Staff Team",
+        "slug": "staff-team",
+        "link": "#staff-team",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "TOHE Team",
+        "slug": "tohe-team",
+        "link": "#tohe-team",
+        "children": [
+          {
+            "level": 3,
+            "title": "Contributors",
+            "slug": "contributors",
+            "link": "#contributors",
+            "children": []
+          }
+        ]
       },
       {
         "level": 2,
@@ -1712,9 +1670,23 @@ export const searchIndex = [
           },
           {
             "level": 3,
-            "title": "English",
-            "slug": "english",
-            "link": "#english",
+            "title": "Dutch",
+            "slug": "dutch-1",
+            "link": "#dutch-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "German",
+            "slug": "german",
+            "link": "#german",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Portuguese (Portuguese Portugal)",
+            "slug": "portuguese-portuguese-portugal",
+            "link": "#portuguese-portuguese-portugal",
             "children": []
           }
         ]
@@ -1732,59 +1704,9 @@ export const searchIndex = [
         "slug": "original-creator",
         "link": "#original-creator",
         "children": []
-      },
-      {
-        "level": 2,
-        "title": "Credited Mods",
-        "slug": "credited-mods",
-        "link": "#credited-mods",
-        "children": []
       }
     ],
     "path": "/translations/fr/AboutUs.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Advanced",
-    "headers": [
-      {
-        "level": 2,
-        "title": "HotKeys",
-        "slug": "hotkeys",
-        "link": "#hotkeys",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Chat Commands",
-        "slug": "chat-commands",
-        "link": "#chat-commands",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Presets",
-        "slug": "presets",
-        "link": "#presets",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Welcome, onFirstMeeting & onMeeting auto messages",
-        "slug": "welcome-onfirstmeeting-onmeeting-auto-messages",
-        "link": "#welcome-onfirstmeeting-onmeeting-auto-messages",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "TOHE-DATA Info",
-        "slug": "tohe-data-info",
-        "link": "#tohe-data-info",
-        "children": []
-      }
-    ],
-    "path": "/translations/fr/Advanced.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1793,81 +1715,38 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "Latest: v1.5.0",
-        "slug": "latest-v1-5-0",
-        "link": "#latest-v1-5-0",
-        "children": [
-          {
-            "level": 3,
-            "title": "【New Roles】",
-            "slug": "【new-roles】",
-            "link": "#【new-roles】",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "【New Addons】",
-            "slug": "【new-addons】",
-            "link": "#【new-addons】",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "【Reworked/Rebased/Improved Roles】",
-            "slug": "【reworked-rebased-improved-roles】",
-            "link": "#【reworked-rebased-improved-roles】",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "【Removed Roles/Addons】",
-            "slug": "【removed-roles-addons】",
-            "link": "#【removed-roles-addons】",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "【Performance/Code Improvements】",
-            "slug": "【performance-code-improvements】",
-            "link": "#【performance-code-improvements】",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "【New Features】",
-            "slug": "【new-features】",
-            "link": "#【new-features】",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "【New Settings】",
-            "slug": "【new-settings】",
-            "link": "#【new-settings】",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "【Changes】",
-            "slug": "【changes】",
-            "link": "#【changes】",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "【Bug Fixes】",
-            "slug": "【bug-fixes】",
-            "link": "#【bug-fixes】",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "",
-            "slug": "",
-            "link": "#",
-            "children": []
-          }
-        ]
+        "title": "Latest Mod Changelogs: v2.0.0 Canary 8",
+        "slug": "latest-mod-changelogs-v2-0-0-canary-8",
+        "link": "#latest-mod-changelogs-v2-0-0-canary-8",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Known Bugs",
+        "slug": "known-bugs",
+        "link": "#known-bugs",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Changelogs",
+        "slug": "changelogs-1",
+        "link": "#changelogs-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Canary 8 Hotfix 1",
+        "slug": "canary-8-hotfix-1",
+        "link": "#canary-8-hotfix-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Canary 8",
+        "slug": "canary-8",
+        "link": "#canary-8",
+        "children": []
       },
       {
         "level": 2,
@@ -1883,162 +1762,7 @@ export const searchIndex = [
   },
   {
     "title": "Frequently Asked Questions",
-    "headers": [
-      {
-        "level": 2,
-        "title": "How to install mod on mobile phones, tablets, and Apple",
-        "slug": "how-to-install-mod-on-mobile-phones-tablets-and-apple",
-        "link": "#how-to-install-mod-on-mobile-phones-tablets-and-apple",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "You have been kicked by room",
-        "slug": "you-have-been-kicked-by-room",
-        "link": "#you-have-been-kicked-by-room",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "You have been kicked by Among Us' official anti-cheat",
-        "slug": "you-have-been-kicked-by-among-us-official-anti-cheat",
-        "link": "#you-have-been-kicked-by-among-us-official-anti-cheat",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Your connection to the server has been interrupted",
-        "slug": "your-connection-to-the-server-has-been-interrupted",
-        "link": "#your-connection-to-the-server-has-been-interrupted",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Unable to connect to your Among Us account",
-        "slug": "unable-to-connect-to-your-among-us-account",
-        "link": "#unable-to-connect-to-your-among-us-account",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "An unknown error has occurred and your connection to the server has been interrupted",
-        "slug": "an-unknown-error-has-occurred-and-your-connection-to-the-server-has-been-interrupted",
-        "link": "#an-unknown-error-has-occurred-and-your-connection-to-the-server-has-been-interrupted",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "The mod file is damaged, please restart the game or reinstall the mod",
-        "slug": "the-mod-file-is-damaged-please-restart-the-game-or-reinstall-the-mod",
-        "link": "#the-mod-file-is-damaged-please-restart-the-game-or-reinstall-the-mod",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "After installing the mod, it is still in vanilla",
-        "slug": "after-installing-the-mod-it-is-still-in-vanilla",
-        "link": "#after-installing-the-mod-it-is-still-in-vanilla",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "How to get the log file",
-        "slug": "how-to-get-the-log-file",
-        "link": "#how-to-get-the-log-file",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Test Error Lv.x",
-        "slug": "test-error-lv-x",
-        "link": "#test-error-lv-x",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "The meeting cannot be end normally, and the lower left corner displays an error: Please terminate the meeting manually",
-        "slug": "the-meeting-cannot-be-end-normally-and-the-lower-left-corner-displays-an-error-please-terminate-the-meeting-manually",
-        "link": "#the-meeting-cannot-be-end-normally-and-the-lower-left-corner-displays-an-error-please-terminate-the-meeting-manually",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "The opening shows that I am one role/team, but in game I am a different role/team",
-        "slug": "the-opening-shows-that-i-am-one-role-team-but-in-game-i-am-a-different-role-team",
-        "link": "#the-opening-shows-that-i-am-one-role-team-but-in-game-i-am-a-different-role-team",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "What are the Host-Only mods",
-        "slug": "what-are-the-host-only-mods",
-        "link": "#what-are-the-host-only-mods",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "The game ends inexplicably",
-        "slug": "the-game-ends-inexplicably",
-        "link": "#the-game-ends-inexplicably",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Just after the start, it shows that the host has forced the end of the game",
-        "slug": "just-after-the-start-it-shows-that-the-host-has-forced-the-end-of-the-game",
-        "link": "#just-after-the-start-it-shows-that-the-host-has-forced-the-end-of-the-game",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Most of the screen is black, but I can interact with the GUI and the sound can still be heard",
-        "slug": "most-of-the-screen-is-black-but-i-can-interact-with-the-gui-and-the-sound-can-still-be-heard",
-        "link": "#most-of-the-screen-is-black-but-i-can-interact-with-the-gui-and-the-sound-can-still-be-heard",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "There are a lot of duplicate roles in the game",
-        "slug": "there-are-a-lot-of-duplicate-roles-in-the-game",
-        "link": "#there-are-a-lot-of-duplicate-roles-in-the-game",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "I got vanilla roles",
-        "slug": "i-got-vanilla-roles",
-        "link": "#i-got-vanilla-roles",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "The game never ends",
-        "slug": "the-game-never-ends",
-        "link": "#the-game-never-ends",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "What is Game Master/GM?",
-        "slug": "what-is-game-master-gm",
-        "link": "#what-is-game-master-gm",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "How can I access Canary & Dev Builds",
-        "slug": "how-can-i-access-canary-dev-builds",
-        "link": "#how-can-i-access-canary-dev-builds",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Can you use the Submerged mod with TOHE?",
-        "slug": "can-you-use-the-submerged-mod-with-tohe",
-        "link": "#can-you-use-the-submerged-mod-with-tohe",
-        "children": []
-      }
-    ],
+    "headers": [],
     "path": "/translations/fr/FAQ.html",
     "pathLocale": "/",
     "extraFields": []
@@ -2052,44 +1776,31 @@ export const searchIndex = [
         "slug": "distribution-policy",
         "link": "#distribution-policy",
         "children": []
-      },
+      }
+    ],
+    "path": "/translations/fr/Install.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Presets",
+    "headers": [
       {
         "level": 2,
-        "title": "MANUAL INSTALLATION",
-        "slug": "manual-installation",
-        "link": "#manual-installation",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "New Releases",
-        "slug": "new-releases",
-        "link": "#new-releases",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Installing Dev Builds/Canary Builds",
-        "slug": "installing-dev-builds-canary-builds",
-        "link": "#installing-dev-builds-canary-builds",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "How to gain Dev Builds Access",
-        "slug": "how-to-gain-dev-builds-access",
-        "link": "#how-to-gain-dev-builds-access",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "How to gain Canary Builds Access",
-        "slug": "how-to-gain-canary-builds-access",
-        "link": "#how-to-gain-canary-builds-access",
+        "title": "Presets",
+        "slug": "presets",
+        "link": "#presets",
         "children": []
       }
     ],
-    "path": "/translations/fr/GetStarted.html",
+    "path": "/translations/fr/Presets.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Resources",
+    "headers": [],
+    "path": "/translations/fr/Resources.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2101,110 +1812,146 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "关于我们",
+    "title": "About Our Team",
     "headers": [
       {
         "level": 2,
-        "title": "项目负责人",
-        "slug": "项目负责人",
-        "link": "#项目负责人",
+        "title": "President",
+        "slug": "president",
+        "link": "#president",
         "children": []
       },
       {
         "level": 2,
-        "title": "主要开发人员",
-        "slug": "主要开发人员",
-        "link": "#主要开发人员",
+        "title": "Co-President",
+        "slug": "co-president",
+        "link": "#co-president",
         "children": []
       },
       {
         "level": 2,
-        "title": "网站开发人员",
-        "slug": "网站开发人员",
-        "link": "#网站开发人员",
+        "title": "Website Assistant",
+        "slug": "website-assistant",
+        "link": "#website-assistant",
         "children": []
       },
       {
         "level": 2,
-        "title": "贡献者",
-        "slug": "贡献者",
-        "link": "#贡献者",
+        "title": "Department Heads",
+        "slug": "department-heads",
+        "link": "#department-heads",
         "children": []
       },
       {
         "level": 2,
-        "title": "翻译",
-        "slug": "翻译",
-        "link": "#翻译",
+        "title": "Staff Team",
+        "slug": "staff-team",
+        "link": "#staff-team",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "TOHE Team",
+        "slug": "tohe-team",
+        "link": "#tohe-team",
         "children": [
           {
             "level": 3,
-            "title": "俄文",
-            "slug": "俄文",
-            "link": "#俄文",
+            "title": "Contributors",
+            "slug": "contributors",
+            "link": "#contributors",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "Translators",
+        "slug": "translators",
+        "link": "#translators",
+        "children": [
+          {
+            "level": 3,
+            "title": "Russian",
+            "slug": "russian",
+            "link": "#russian",
             "children": []
           },
           {
             "level": 3,
-            "title": "简体中文/繁体中文",
-            "slug": "简体中文-繁体中文",
-            "link": "#简体中文-繁体中文",
+            "title": "Chinese",
+            "slug": "chinese",
+            "link": "#chinese",
             "children": []
           },
           {
             "level": 3,
-            "title": "西班牙语",
-            "slug": "西班牙语",
-            "link": "#西班牙语",
+            "title": "Spanish",
+            "slug": "spanish",
+            "link": "#spanish",
             "children": []
           },
           {
             "level": 3,
-            "title": "巴西(葡萄牙语)",
-            "slug": "巴西-葡萄牙语",
-            "link": "#巴西-葡萄牙语",
+            "title": "Brazilian (Portuguese Brazil)",
+            "slug": "brazilian-portuguese-brazil",
+            "link": "#brazilian-portuguese-brazil",
             "children": []
           },
           {
             "level": 3,
-            "title": "法语",
-            "slug": "法语",
-            "link": "#法语",
+            "title": "French",
+            "slug": "french",
+            "link": "#french",
             "children": []
           },
           {
             "level": 3,
-            "title": "日语",
-            "slug": "日语",
-            "link": "#日语",
+            "title": "Japanese",
+            "slug": "japanese",
+            "link": "#japanese",
             "children": []
           },
           {
             "level": 3,
-            "title": "拉美(拉丁美洲)",
-            "slug": "拉美-拉丁美洲",
-            "link": "#拉美-拉丁美洲",
+            "title": "Latam (Latin American)",
+            "slug": "latam-latin-american",
+            "link": "#latam-latin-american",
             "children": []
           },
           {
             "level": 3,
-            "title": "意大利语",
-            "slug": "意大利语",
-            "link": "#意大利语",
+            "title": "Italian",
+            "slug": "italian",
+            "link": "#italian",
             "children": []
           },
           {
             "level": 3,
-            "title": "荷兰语",
-            "slug": "荷兰语",
-            "link": "#荷兰语",
+            "title": "Dutch",
+            "slug": "dutch",
+            "link": "#dutch",
             "children": []
           },
           {
             "level": 3,
-            "title": "英语",
-            "slug": "英语",
-            "link": "#英语",
+            "title": "Dutch",
+            "slug": "dutch-1",
+            "link": "#dutch-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "German",
+            "slug": "german",
+            "link": "#german",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Portuguese (Portuguese Portugal)",
+            "slug": "portuguese-portuguese-portugal",
+            "link": "#portuguese-portuguese-portugal",
             "children": []
           }
         ]
@@ -2222,13 +1969,6 @@ export const searchIndex = [
         "slug": "original-creator",
         "link": "#original-creator",
         "children": []
-      },
-      {
-        "level": 2,
-        "title": "Mod修改",
-        "slug": "mod修改",
-        "link": "#mod修改",
-        "children": []
       }
     ],
     "path": "/translations/zh-CN/AboutUs.html",
@@ -2236,56 +1976,41 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Advanced",
+    "title": "Canary Changelogs",
     "headers": [
       {
         "level": 2,
-        "title": "HotKeys",
-        "slug": "hotkeys",
-        "link": "#hotkeys",
+        "title": "Latest Mod Changelogs: v2.0.0 Canary 8",
+        "slug": "latest-mod-changelogs-v2-0-0-canary-8",
+        "link": "#latest-mod-changelogs-v2-0-0-canary-8",
         "children": []
       },
       {
         "level": 2,
-        "title": "Chat Commands",
-        "slug": "chat-commands",
-        "link": "#chat-commands",
+        "title": "Known Bugs",
+        "slug": "known-bugs",
+        "link": "#known-bugs",
         "children": []
       },
       {
         "level": 2,
-        "title": "Presets",
-        "slug": "presets",
-        "link": "#presets",
+        "title": "Changelogs",
+        "slug": "changelogs-1",
+        "link": "#changelogs-1",
         "children": []
       },
       {
         "level": 2,
-        "title": "Welcome, onFirstMeeting & onMeeting auto messages",
-        "slug": "welcome-onfirstmeeting-onmeeting-auto-messages",
-        "link": "#welcome-onfirstmeeting-onmeeting-auto-messages",
+        "title": "Canary 8 Hotfix 1",
+        "slug": "canary-8-hotfix-1",
+        "link": "#canary-8-hotfix-1",
         "children": []
       },
       {
         "level": 2,
-        "title": "Ban list, Banned Words & Banned Names",
-        "slug": "ban-list-banned-words-banned-names",
-        "link": "#ban-list-banned-words-banned-names",
-        "children": []
-      }
-    ],
-    "path": "/translations/zh-CN/Advanced.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Changelogs",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Latest Mod Changelogs: v1.2.1 Canary 2",
-        "slug": "latest-mod-changelogs-v1-2-1-canary-2",
-        "link": "#latest-mod-changelogs-v1-2-1-canary-2",
+        "title": "Canary 8",
+        "slug": "canary-8",
+        "link": "#canary-8",
         "children": []
       },
       {
@@ -2302,155 +2027,7 @@ export const searchIndex = [
   },
   {
     "title": "Frequently Asked Questions",
-    "headers": [
-      {
-        "level": 2,
-        "title": "如何在手机、平板电脑和IOS上安装mod",
-        "slug": "如何在手机、平板电脑和ios上安装mod",
-        "link": "#如何在手机、平板电脑和ios上安装mod",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "你被踢出了房间",
-        "slug": "你被踢出了房间",
-        "link": "#你被踢出了房间",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "你被Among Us的官方反作弊系统踢了",
-        "slug": "你被among-us的官方反作弊系统踢了",
-        "link": "#你被among-us的官方反作弊系统踢了",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "您与服务器的连接已中断",
-        "slug": "您与服务器的连接已中断",
-        "link": "#您与服务器的连接已中断",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "无法连接到您的“Among Us”帐户",
-        "slug": "无法连接到您的-among-us-帐户",
-        "link": "#无法连接到您的-among-us-帐户",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "发生未知错误，您与服务器的连接已中断",
-        "slug": "发生未知错误-您与服务器的连接已中断",
-        "link": "#发生未知错误-您与服务器的连接已中断",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "mod文件已损坏，请重新启动游戏或重新安装mod",
-        "slug": "mod文件已损坏-请重新启动游戏或重新安装mod",
-        "link": "#mod文件已损坏-请重新启动游戏或重新安装mod",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "我们有一个重要的更新，请更新这个mod",
-        "slug": "我们有一个重要的更新-请更新这个mod",
-        "link": "#我们有一个重要的更新-请更新这个mod",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "安装mod后，它仍然是原版",
-        "slug": "安装mod后-它仍然是原版",
-        "link": "#安装mod后-它仍然是原版",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "如何获取日志文件",
-        "slug": "如何获取日志文件",
-        "link": "#如何获取日志文件",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "测试错误 Lv.x",
-        "slug": "测试错误-lv-x",
-        "link": "#测试错误-lv-x",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "会议无法结束，左下角显示错误：请手动终止会议",
-        "slug": "会议无法结束-左下角显示错误-请手动终止会议",
-        "link": "#会议无法结束-左下角显示错误-请手动终止会议",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "我是一名船员，但公布阵营时显示我是一个内鬼",
-        "slug": "我是一名船员-但公布阵营时显示我是一个内鬼",
-        "link": "#我是一名船员-但公布阵营时显示我是一个内鬼",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "什么是仅限主机的mod",
-        "slug": "什么是仅限主机的mod",
-        "link": "#什么是仅限主机的mod",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "游戏莫名奇妙地结束了",
-        "slug": "游戏莫名奇妙地结束了",
-        "link": "#游戏莫名奇妙地结束了",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "游戏刚开始，就显示房主强行结束了游戏",
-        "slug": "游戏刚开始-就显示房主强行结束了游戏",
-        "link": "#游戏刚开始-就显示房主强行结束了游戏",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "游戏中有很多没有设置的重复角色",
-        "slug": "游戏中有很多没有设置的重复角色",
-        "link": "#游戏中有很多没有设置的重复角色",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "我得到了原版角色",
-        "slug": "我得到了原版角色",
-        "link": "#我得到了原版角色",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "游戏永远不会结束",
-        "slug": "游戏永远不会结束",
-        "link": "#游戏永远不会结束",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "管理员是什么？",
-        "slug": "管理员是什么",
-        "link": "#管理员是什么",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "如何访问测试/开发版本",
-        "slug": "如何访问测试-开发版本",
-        "link": "#如何访问测试-开发版本",
-        "children": []
-      }
-    ],
+    "headers": [],
     "path": "/translations/zh-CN/FAQ.html",
     "pathLocale": "/",
     "extraFields": []
@@ -2464,44 +2041,31 @@ export const searchIndex = [
         "slug": "distribution-policy",
         "link": "#distribution-policy",
         "children": []
-      },
+      }
+    ],
+    "path": "/translations/zh-CN/Install.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Presets",
+    "headers": [
       {
         "level": 2,
-        "title": "MANUAL INSTALLATION",
-        "slug": "manual-installation",
-        "link": "#manual-installation",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "New Releases",
-        "slug": "new-releases",
-        "link": "#new-releases",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Installing Dev Builds/Canary Builds",
-        "slug": "installing-dev-builds-canary-builds",
-        "link": "#installing-dev-builds-canary-builds",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "How to gain Dev Builds Access",
-        "slug": "how-to-gain-dev-builds-access",
-        "link": "#how-to-gain-dev-builds-access",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "How to gain Canary Builds Access",
-        "slug": "how-to-gain-canary-builds-access",
-        "link": "#how-to-gain-canary-builds-access",
+        "title": "Presets",
+        "slug": "presets",
+        "link": "#presets",
         "children": []
       }
     ],
-    "path": "/translations/zh-CN/GetStarted.html",
+    "path": "/translations/zh-CN/Presets.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Resources",
+    "headers": [],
+    "path": "/translations/zh-CN/Resources.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2877,9 +2441,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Bloodlust",
+    "title": "Bloodthirst",
     "headers": [],
-    "path": "/options/Addons/Mixed/Bloodlust.html",
+    "path": "/options/Addons/Mixed/Bloodthirst.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2919,16 +2483,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Rebound",
+    "title": "Paranoia",
     "headers": [],
-    "path": "/options/Addons/Mixed/Rebound.html",
+    "path": "/options/Addons/Mixed/Paranoia.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Schizophrenic",
+    "title": "Rebound",
     "headers": [],
-    "path": "/options/Addons/Mixed/Schizophrenic.html",
+    "path": "/options/Addons/Mixed/Rebound.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -3444,13 +3008,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Tracker",
-    "headers": [],
-    "path": "/options/Crewmates/Support/Tracker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Witness",
     "headers": [],
     "path": "/options/Crewmates/Support/Witness.html",
@@ -3479,9 +3036,23 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Noisemaker",
+    "headers": [],
+    "path": "/options/Crewmates/Vanilla/Noisemaker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Scientist",
     "headers": [],
     "path": "/options/Crewmates/Vanilla/Scientist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Tracker",
+    "headers": [],
+    "path": "/options/Crewmates/Vanilla/Tracker.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -4018,6 +3589,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Phantom",
+    "headers": [],
+    "path": "/options/Impostors/Vanilla/Phantom.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Shapeshifter",
     "headers": [],
     "path": "/options/Impostors/Vanilla/Shapeshifter.html",
@@ -4151,13 +3729,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Phantom",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Phantom.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Pirate",
     "headers": [],
     "path": "/options/Neutrals/Chaos/Pirate.html",
@@ -4189,6 +3760,13 @@ export const searchIndex = [
     "title": "Soul Collector",
     "headers": [],
     "path": "/options/Neutrals/Chaos/SoulCollector.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Phantom",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Specter.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -4256,9 +3834,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Masochist",
+    "title": "Punching Bag",
     "headers": [],
-    "path": "/options/Neutrals/Evil/Masochist.html",
+    "path": "/options/Neutrals/Evil/PunchingBag.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -4273,6 +3851,13 @@ export const searchIndex = [
     "title": "Sunnyboy",
     "headers": [],
     "path": "/options/Neutrals/Evil/Sunnyboy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Doppelganger",
+    "headers": [],
+    "path": "/options/Neutrals/Experimental/Doppelganger.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -4315,13 +3900,6 @@ export const searchIndex = [
     "title": "Demon",
     "headers": [],
     "path": "/options/Neutrals/Killing/Demon.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Doppelganger",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Doppelganger.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -4498,6 +4076,132 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
+        "title": "Known Bugs",
+        "slug": "known-bugs",
+        "link": "#known-bugs",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Latest: v2.0.0 Canary 8 Hotfix 1",
+        "slug": "latest-v2-0-0-canary-8-hotfix-1",
+        "link": "#latest-v2-0-0-canary-8-hotfix-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Latest: v2.0.0 Canary 8",
+        "slug": "latest-v2-0-0-canary-8",
+        "link": "#latest-v2-0-0-canary-8",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 7",
+        "slug": "v2-0-0-canary-7",
+        "link": "#v2-0-0-canary-7",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 6",
+        "slug": "v2-0-0-canary-6",
+        "link": "#v2-0-0-canary-6",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 5",
+        "slug": "v2-0-0-canary-5",
+        "link": "#v2-0-0-canary-5",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 4",
+        "slug": "v2-0-0-canary-4",
+        "link": "#v2-0-0-canary-4",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 3",
+        "slug": "v2-0-0-canary-3",
+        "link": "#v2-0-0-canary-3",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 2 Hotfix 1",
+        "slug": "v2-0-0-canary-2-hotfix-1",
+        "link": "#v2-0-0-canary-2-hotfix-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 2",
+        "slug": "v2-0-0-canary-2",
+        "link": "#v2-0-0-canary-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 1",
+        "slug": "v2-0-0-canary-1",
+        "link": "#v2-0-0-canary-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Canary 6",
+        "slug": "v1-6-0-canary-6",
+        "link": "#v1-6-0-canary-6",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Canary 5",
+        "slug": "v1-6-0-canary-5",
+        "link": "#v1-6-0-canary-5",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Canary 4",
+        "slug": "v1-6-0-canary-4",
+        "link": "#v1-6-0-canary-4",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Canary 3",
+        "slug": "v1-6-0-canary-3",
+        "link": "#v1-6-0-canary-3",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Canary 2",
+        "slug": "v1-6-0-canary-2",
+        "link": "#v1-6-0-canary-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Canary 1",
+        "slug": "v1-6-0-canary-1",
+        "link": "#v1-6-0-canary-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.5.2 Canary 1",
+        "slug": "v1-5-2-canary-1",
+        "link": "#v1-5-2-canary-1",
+        "children": []
+      },
+      {
+        "level": 2,
         "title": "v1.5.1 Canary 5 (Hot-fix)",
         "slug": "v1-5-1-canary-5-hot-fix",
         "link": "#v1-5-1-canary-5-hot-fix",
@@ -4610,6 +4314,286 @@ export const searchIndex = [
   {
     "title": "Canary Changelogs",
     "headers": [
+      {
+        "level": 2,
+        "title": "Latest: v2.0.0 Dev 25",
+        "slug": "latest-v2-0-0-dev-25",
+        "link": "#latest-v2-0-0-dev-25",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 24 HOTFIX 1",
+        "slug": "v2-0-0-dev-24-hotfix-1",
+        "link": "#v2-0-0-dev-24-hotfix-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 24",
+        "slug": "v2-0-0-dev-24",
+        "link": "#v2-0-0-dev-24",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 23",
+        "slug": "v2-0-0-dev-23",
+        "link": "#v2-0-0-dev-23",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 22",
+        "slug": "v2-0-0-dev-22",
+        "link": "#v2-0-0-dev-22",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 21",
+        "slug": "v2-0-0-dev-21",
+        "link": "#v2-0-0-dev-21",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 20",
+        "slug": "v2-0-0-dev-20",
+        "link": "#v2-0-0-dev-20",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 19.1",
+        "slug": "v2-0-0-dev-19-1",
+        "link": "#v2-0-0-dev-19-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 19",
+        "slug": "v2-0-0-dev-19",
+        "link": "#v2-0-0-dev-19",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 18",
+        "slug": "v2-0-0-dev-18",
+        "link": "#v2-0-0-dev-18",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 17",
+        "slug": "v2-0-0-dev-17",
+        "link": "#v2-0-0-dev-17",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 16",
+        "slug": "v2-0-0-dev-16",
+        "link": "#v2-0-0-dev-16",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 15",
+        "slug": "v2-0-0-dev-15",
+        "link": "#v2-0-0-dev-15",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 14",
+        "slug": "v2-0-0-dev-14",
+        "link": "#v2-0-0-dev-14",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 13",
+        "slug": "v2-0-0-dev-13",
+        "link": "#v2-0-0-dev-13",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 12.4",
+        "slug": "v2-0-0-dev-12-4",
+        "link": "#v2-0-0-dev-12-4",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 12.3",
+        "slug": "v2-0-0-dev-12-3",
+        "link": "#v2-0-0-dev-12-3",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 12.2",
+        "slug": "v2-0-0-dev-12-2",
+        "link": "#v2-0-0-dev-12-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 12.1",
+        "slug": "v2-0-0-dev-12-1",
+        "link": "#v2-0-0-dev-12-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 12",
+        "slug": "v2-0-0-dev-12",
+        "link": "#v2-0-0-dev-12",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 11",
+        "slug": "v2-0-0-dev-11",
+        "link": "#v2-0-0-dev-11",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 10",
+        "slug": "v2-0-0-dev-10",
+        "link": "#v2-0-0-dev-10",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 9",
+        "slug": "v2-0-0-dev-9",
+        "link": "#v2-0-0-dev-9",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 8",
+        "slug": "v2-0-0-dev-8",
+        "link": "#v2-0-0-dev-8",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 7.1 (Hotfix)",
+        "slug": "v2-0-0-dev-7-1-hotfix",
+        "link": "#v2-0-0-dev-7-1-hotfix",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 7",
+        "slug": "v2-0-0-dev-7",
+        "link": "#v2-0-0-dev-7",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 6.1 (Hotfix)",
+        "slug": "v2-0-0-dev-6-1-hotfix",
+        "link": "#v2-0-0-dev-6-1-hotfix",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 6",
+        "slug": "v2-0-0-dev-6",
+        "link": "#v2-0-0-dev-6",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 5",
+        "slug": "v2-0-0-dev-5",
+        "link": "#v2-0-0-dev-5",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 4",
+        "slug": "v2-0-0-dev-4",
+        "link": "#v2-0-0-dev-4",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 3",
+        "slug": "v2-0-0-dev-3",
+        "link": "#v2-0-0-dev-3",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 2.1 (Hotfix)",
+        "slug": "v2-0-0-dev-2-1-hotfix",
+        "link": "#v2-0-0-dev-2-1-hotfix",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 2",
+        "slug": "v2-0-0-dev-2",
+        "link": "#v2-0-0-dev-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 1",
+        "slug": "v2-0-0-dev-1",
+        "link": "#v2-0-0-dev-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Dev 6",
+        "slug": "v1-6-0-dev-6",
+        "link": "#v1-6-0-dev-6",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Dev 5",
+        "slug": "v1-6-0-dev-5",
+        "link": "#v1-6-0-dev-5",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Dev 4",
+        "slug": "v1-6-0-dev-4",
+        "link": "#v1-6-0-dev-4",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Dev 3",
+        "slug": "v1-6-0-dev-3",
+        "link": "#v1-6-0-dev-3",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Dev 2",
+        "slug": "v1-6-0-dev-2",
+        "link": "#v1-6-0-dev-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Dev 1",
+        "slug": "v1-6-0-dev-1",
+        "link": "#v1-6-0-dev-1",
+        "children": []
+      },
       {
         "level": 2,
         "title": "v1.5.1 Dev 3",
@@ -4795,9 +4779,66 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "Latest: v1.5.0",
-        "slug": "latest-v1-5-0",
-        "link": "#latest-v1-5-0",
+        "title": "Latest: v1.6.0",
+        "slug": "latest-v1-6-0",
+        "link": "#latest-v1-6-0",
+        "children": [
+          {
+            "level": 3,
+            "title": "【Addons】(1 Addons)",
+            "slug": "【addons】-1-addons",
+            "link": "#【addons】-1-addons",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Collaborative Changes】(Worked on by 2+ people!)",
+            "slug": "【collaborative-changes】-worked-on-by-2-people",
+            "link": "#【collaborative-changes】-worked-on-by-2-people",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【New Settings】",
+            "slug": "【new-settings】",
+            "link": "#【new-settings】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【New Features】",
+            "slug": "【new-features】",
+            "link": "#【new-features】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Some Changes】",
+            "slug": "【some-changes】",
+            "link": "#【some-changes】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Bug Fixes】",
+            "slug": "【bug-fixes】",
+            "link": "#【bug-fixes】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Translator Credits】",
+            "slug": "【translator-credits】",
+            "link": "#【translator-credits】",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "v1.5.0",
+        "slug": "v1-5-0",
+        "link": "#v1-5-0",
         "children": [
           {
             "level": 3,
@@ -4837,15 +4878,15 @@ export const searchIndex = [
           {
             "level": 3,
             "title": "【New Features】",
-            "slug": "【new-features】",
-            "link": "#【new-features】",
+            "slug": "【new-features】-1",
+            "link": "#【new-features】-1",
             "children": []
           },
           {
             "level": 3,
             "title": "【New Settings】",
-            "slug": "【new-settings】",
-            "link": "#【new-settings】",
+            "slug": "【new-settings】-1",
+            "link": "#【new-settings】-1",
             "children": []
           },
           {
@@ -4858,15 +4899,15 @@ export const searchIndex = [
           {
             "level": 3,
             "title": "【Bug Fixes】",
-            "slug": "【bug-fixes】",
-            "link": "#【bug-fixes】",
+            "slug": "【bug-fixes】-1",
+            "link": "#【bug-fixes】-1",
             "children": []
           },
           {
             "level": 3,
-            "title": "",
-            "slug": "",
-            "link": "#",
+            "title": "【Translator Credits】",
+            "slug": "【translator-credits】-1",
+            "link": "#【translator-credits】-1",
             "children": []
           }
         ]
@@ -4967,9 +5008,220 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "Latest: v1.2.1 Canary 2",
-        "slug": "latest-v1-2-1-canary-2",
-        "link": "#latest-v1-2-1-canary-2",
+        "title": "Known Bugs",
+        "slug": "known-bugs",
+        "link": "#known-bugs",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Latest: v2.0.0 Canary 8 Hotfix 1",
+        "slug": "latest-v2-0-0-canary-8-hotfix-1",
+        "link": "#latest-v2-0-0-canary-8-hotfix-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Latest: v2.0.0 Canary 8",
+        "slug": "latest-v2-0-0-canary-8",
+        "link": "#latest-v2-0-0-canary-8",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 7",
+        "slug": "v2-0-0-canary-7",
+        "link": "#v2-0-0-canary-7",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 6",
+        "slug": "v2-0-0-canary-6",
+        "link": "#v2-0-0-canary-6",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 5",
+        "slug": "v2-0-0-canary-5",
+        "link": "#v2-0-0-canary-5",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 4",
+        "slug": "v2-0-0-canary-4",
+        "link": "#v2-0-0-canary-4",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 3",
+        "slug": "v2-0-0-canary-3",
+        "link": "#v2-0-0-canary-3",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 2 Hotfix 1",
+        "slug": "v2-0-0-canary-2-hotfix-1",
+        "link": "#v2-0-0-canary-2-hotfix-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 2",
+        "slug": "v2-0-0-canary-2",
+        "link": "#v2-0-0-canary-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Canary 1",
+        "slug": "v2-0-0-canary-1",
+        "link": "#v2-0-0-canary-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Canary 6",
+        "slug": "v1-6-0-canary-6",
+        "link": "#v1-6-0-canary-6",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Canary 5",
+        "slug": "v1-6-0-canary-5",
+        "link": "#v1-6-0-canary-5",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Canary 4",
+        "slug": "v1-6-0-canary-4",
+        "link": "#v1-6-0-canary-4",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Canary 3",
+        "slug": "v1-6-0-canary-3",
+        "link": "#v1-6-0-canary-3",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Canary 2",
+        "slug": "v1-6-0-canary-2",
+        "link": "#v1-6-0-canary-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Canary 1",
+        "slug": "v1-6-0-canary-1",
+        "link": "#v1-6-0-canary-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.5.2 Canary 1",
+        "slug": "v1-5-2-canary-1",
+        "link": "#v1-5-2-canary-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.5.1 Canary 5 (Hot-fix)",
+        "slug": "v1-5-1-canary-5-hot-fix",
+        "link": "#v1-5-1-canary-5-hot-fix",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.5.1 Canary 4 (Hot-fix)",
+        "slug": "v1-5-1-canary-4-hot-fix",
+        "link": "#v1-5-1-canary-4-hot-fix",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.5.1 Canary 3 (Hot-fix from Stable)",
+        "slug": "v1-5-1-canary-3-hot-fix-from-stable",
+        "link": "#v1-5-1-canary-3-hot-fix-from-stable",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.5.1 Canary 2 (Pre-Release)",
+        "slug": "v1-5-1-canary-2-pre-release",
+        "link": "#v1-5-1-canary-2-pre-release",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.5.1 Canary 1.1 (Pre-Release)",
+        "slug": "v1-5-1-canary-1-1-pre-release",
+        "link": "#v1-5-1-canary-1-1-pre-release",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.5.1 Canary 1(Pre-Release)",
+        "slug": "v1-5-1-canary-1-pre-release",
+        "link": "#v1-5-1-canary-1-pre-release",
+        "children": [
+          {
+            "level": 3,
+            "title": "For Sponsors - Changes From Dev 3 to this version:",
+            "slug": "for-sponsors-changes-from-dev-3-to-this-version",
+            "link": "#for-sponsors-changes-from-dev-3-to-this-version",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "v1.5.0 Canary 1.1(Hotfix)",
+        "slug": "v1-5-0-canary-1-1-hotfix",
+        "link": "#v1-5-0-canary-1-1-hotfix",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.5.0 Canary 1",
+        "slug": "v1-5-0-canary-1",
+        "link": "#v1-5-0-canary-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.3.1 Canary 3",
+        "slug": "v1-3-1-canary-3",
+        "link": "#v1-3-1-canary-3",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.3.1 Canary 2",
+        "slug": "v1-3-1-canary-2",
+        "link": "#v1-3-1-canary-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.3.1 Canary 1",
+        "slug": "v1-3-1-canary-1",
+        "link": "#v1-3-1-canary-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.2.1 Canary 2",
+        "slug": "v1-2-1-canary-2",
+        "link": "#v1-2-1-canary-2",
         "children": []
       },
       {
@@ -4992,13 +5244,384 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Dev Changelogs",
+    "title": "Canary Changelogs",
     "headers": [
       {
         "level": 2,
-        "title": "Latest: v1.2.1 Dev 4",
-        "slug": "latest-v1-2-1-dev-4",
-        "link": "#latest-v1-2-1-dev-4",
+        "title": "Latest: v2.0.0 Dev 25",
+        "slug": "latest-v2-0-0-dev-25",
+        "link": "#latest-v2-0-0-dev-25",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 24 HOTFIX 1",
+        "slug": "v2-0-0-dev-24-hotfix-1",
+        "link": "#v2-0-0-dev-24-hotfix-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 24",
+        "slug": "v2-0-0-dev-24",
+        "link": "#v2-0-0-dev-24",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 23",
+        "slug": "v2-0-0-dev-23",
+        "link": "#v2-0-0-dev-23",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 22",
+        "slug": "v2-0-0-dev-22",
+        "link": "#v2-0-0-dev-22",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 21",
+        "slug": "v2-0-0-dev-21",
+        "link": "#v2-0-0-dev-21",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 20",
+        "slug": "v2-0-0-dev-20",
+        "link": "#v2-0-0-dev-20",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 19.1",
+        "slug": "v2-0-0-dev-19-1",
+        "link": "#v2-0-0-dev-19-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 19",
+        "slug": "v2-0-0-dev-19",
+        "link": "#v2-0-0-dev-19",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 18",
+        "slug": "v2-0-0-dev-18",
+        "link": "#v2-0-0-dev-18",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 17",
+        "slug": "v2-0-0-dev-17",
+        "link": "#v2-0-0-dev-17",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 16",
+        "slug": "v2-0-0-dev-16",
+        "link": "#v2-0-0-dev-16",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 15",
+        "slug": "v2-0-0-dev-15",
+        "link": "#v2-0-0-dev-15",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 14",
+        "slug": "v2-0-0-dev-14",
+        "link": "#v2-0-0-dev-14",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 13",
+        "slug": "v2-0-0-dev-13",
+        "link": "#v2-0-0-dev-13",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 12.4",
+        "slug": "v2-0-0-dev-12-4",
+        "link": "#v2-0-0-dev-12-4",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 12.3",
+        "slug": "v2-0-0-dev-12-3",
+        "link": "#v2-0-0-dev-12-3",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 12.2",
+        "slug": "v2-0-0-dev-12-2",
+        "link": "#v2-0-0-dev-12-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 12.1",
+        "slug": "v2-0-0-dev-12-1",
+        "link": "#v2-0-0-dev-12-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 12",
+        "slug": "v2-0-0-dev-12",
+        "link": "#v2-0-0-dev-12",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 11",
+        "slug": "v2-0-0-dev-11",
+        "link": "#v2-0-0-dev-11",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 10",
+        "slug": "v2-0-0-dev-10",
+        "link": "#v2-0-0-dev-10",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 9",
+        "slug": "v2-0-0-dev-9",
+        "link": "#v2-0-0-dev-9",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 8",
+        "slug": "v2-0-0-dev-8",
+        "link": "#v2-0-0-dev-8",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 7.1 (Hotfix)",
+        "slug": "v2-0-0-dev-7-1-hotfix",
+        "link": "#v2-0-0-dev-7-1-hotfix",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 7",
+        "slug": "v2-0-0-dev-7",
+        "link": "#v2-0-0-dev-7",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 6.1 (Hotfix)",
+        "slug": "v2-0-0-dev-6-1-hotfix",
+        "link": "#v2-0-0-dev-6-1-hotfix",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 6",
+        "slug": "v2-0-0-dev-6",
+        "link": "#v2-0-0-dev-6",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 5",
+        "slug": "v2-0-0-dev-5",
+        "link": "#v2-0-0-dev-5",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 4",
+        "slug": "v2-0-0-dev-4",
+        "link": "#v2-0-0-dev-4",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 3",
+        "slug": "v2-0-0-dev-3",
+        "link": "#v2-0-0-dev-3",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 2.1 (Hotfix)",
+        "slug": "v2-0-0-dev-2-1-hotfix",
+        "link": "#v2-0-0-dev-2-1-hotfix",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 2",
+        "slug": "v2-0-0-dev-2",
+        "link": "#v2-0-0-dev-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v2.0.0 Dev 1",
+        "slug": "v2-0-0-dev-1",
+        "link": "#v2-0-0-dev-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Dev 6",
+        "slug": "v1-6-0-dev-6",
+        "link": "#v1-6-0-dev-6",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Dev 5",
+        "slug": "v1-6-0-dev-5",
+        "link": "#v1-6-0-dev-5",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Dev 4",
+        "slug": "v1-6-0-dev-4",
+        "link": "#v1-6-0-dev-4",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Dev 3",
+        "slug": "v1-6-0-dev-3",
+        "link": "#v1-6-0-dev-3",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Dev 2",
+        "slug": "v1-6-0-dev-2",
+        "link": "#v1-6-0-dev-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.6.0 Dev 1",
+        "slug": "v1-6-0-dev-1",
+        "link": "#v1-6-0-dev-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.5.1 Dev 3",
+        "slug": "v1-5-1-dev-3",
+        "link": "#v1-5-1-dev-3",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.5.1 Dev 2.1",
+        "slug": "v1-5-1-dev-2-1",
+        "link": "#v1-5-1-dev-2-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.5.1 Dev 2",
+        "slug": "v1-5-1-dev-2",
+        "link": "#v1-5-1-dev-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.5.1 Dev 1",
+        "slug": "v1-5-1-dev-1",
+        "link": "#v1-5-1-dev-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.4.1 Dev 3",
+        "slug": "v1-4-1-dev-3",
+        "link": "#v1-4-1-dev-3",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.4.1 Dev 2",
+        "slug": "v1-4-1-dev-2",
+        "link": "#v1-4-1-dev-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.4.1 Dev 1.2",
+        "slug": "v1-4-1-dev-1-2",
+        "link": "#v1-4-1-dev-1-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.4.1 Dev 1.1",
+        "slug": "v1-4-1-dev-1-1",
+        "link": "#v1-4-1-dev-1-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.4.1 Dev 1",
+        "slug": "v1-4-1-dev-1",
+        "link": "#v1-4-1-dev-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.3.1 Dev 2 (HOTFIX #2)",
+        "slug": "v1-3-1-dev-2-hotfix-2",
+        "link": "#v1-3-1-dev-2-hotfix-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.3.1 Dev 2 (HOTFIX #1)",
+        "slug": "v1-3-1-dev-2-hotfix-1",
+        "link": "#v1-3-1-dev-2-hotfix-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.3.1 Dev 2",
+        "slug": "v1-3-1-dev-2",
+        "link": "#v1-3-1-dev-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.3.1 Dev 1",
+        "slug": "v1-3-1-dev-1",
+        "link": "#v1-3-1-dev-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.2.1 Dev 4",
+        "slug": "v1-2-1-dev-4",
+        "link": "#v1-2-1-dev-4",
         "children": []
       },
       {
@@ -5088,9 +5711,180 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "Latest: v1.2.0",
-        "slug": "latest-v1-2-0",
-        "link": "#latest-v1-2-0",
+        "title": "Latest: v1.6.0",
+        "slug": "latest-v1-6-0",
+        "link": "#latest-v1-6-0",
+        "children": [
+          {
+            "level": 3,
+            "title": "【Addons】(1 Addons)",
+            "slug": "【addons】-1-addons",
+            "link": "#【addons】-1-addons",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Collaborative Changes】(Worked on by 2+ people!)",
+            "slug": "【collaborative-changes】-worked-on-by-2-people",
+            "link": "#【collaborative-changes】-worked-on-by-2-people",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【New Settings】",
+            "slug": "【new-settings】",
+            "link": "#【new-settings】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【New Features】",
+            "slug": "【new-features】",
+            "link": "#【new-features】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Some Changes】",
+            "slug": "【some-changes】",
+            "link": "#【some-changes】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Bug Fixes】",
+            "slug": "【bug-fixes】",
+            "link": "#【bug-fixes】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Translator Credits】",
+            "slug": "【translator-credits】",
+            "link": "#【translator-credits】",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "v1.5.0",
+        "slug": "v1-5-0",
+        "link": "#v1-5-0",
+        "children": [
+          {
+            "level": 3,
+            "title": "【New Roles】",
+            "slug": "【new-roles】",
+            "link": "#【new-roles】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【New Addons】",
+            "slug": "【new-addons】",
+            "link": "#【new-addons】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Reworked/Rebased/Improved Roles】",
+            "slug": "【reworked-rebased-improved-roles】",
+            "link": "#【reworked-rebased-improved-roles】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Removed Roles/Addons】",
+            "slug": "【removed-roles-addons】",
+            "link": "#【removed-roles-addons】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Performance/Code Improvements】",
+            "slug": "【performance-code-improvements】",
+            "link": "#【performance-code-improvements】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【New Features】",
+            "slug": "【new-features】-1",
+            "link": "#【new-features】-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【New Settings】",
+            "slug": "【new-settings】-1",
+            "link": "#【new-settings】-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Changes】",
+            "slug": "【changes】",
+            "link": "#【changes】",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Bug Fixes】",
+            "slug": "【bug-fixes】-1",
+            "link": "#【bug-fixes】-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "【Translator Credits】",
+            "slug": "【translator-credits】-1",
+            "link": "#【translator-credits】-1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "v1.4.0",
+        "slug": "v1-4-0",
+        "link": "#v1-4-0",
+        "children": [
+          {
+            "level": 3,
+            "title": "CHANGES/IMPROVEMENTS",
+            "slug": "changes-improvements",
+            "link": "#changes-improvements",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "BUG FIXES",
+            "slug": "bug-fixes",
+            "link": "#bug-fixes",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "TRANSLATIONS",
+            "slug": "translations",
+            "link": "#translations",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "v1.3.0",
+        "slug": "v1-3-0",
+        "link": "#v1-3-0",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "v1.2.0",
+        "slug": "v1-2-0",
+        "link": "#v1-2-0",
         "children": []
       },
       {
@@ -5127,8 +5921,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Changelogs Tags",
-    "headers": [],
+    "title": "Canary Changelogs",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Translation Tags",
+        "slug": "translation-tags",
+        "link": "#translation-tags",
+        "children": []
+      }
+    ],
     "path": "/translations/zh-CN/changelogs/Tags.html",
     "pathLocale": "/",
     "extraFields": []
@@ -5136,6 +5938,13 @@ export const searchIndex = [
   {
     "title": "Add-ons",
     "headers": [
+      {
+        "level": 3,
+        "title": "Experimental",
+        "slug": "experimental",
+        "link": "#experimental",
+        "children": []
+      },
       {
         "level": 3,
         "title": "Harmful",
@@ -5188,6 +5997,13 @@ export const searchIndex = [
       },
       {
         "level": 3,
+        "title": "Experimental",
+        "slug": "experimental",
+        "link": "#experimental",
+        "children": []
+      },
+      {
+        "level": 3,
         "title": "Ghost",
         "slug": "ghost",
         "link": "#ghost",
@@ -5234,38 +6050,66 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Experimental",
+    "title": "Impostors",
     "headers": [
       {
         "level": 3,
-        "title": "Add-ons",
-        "slug": "add-ons",
-        "link": "#add-ons",
+        "title": "Concealing",
+        "slug": "concealing",
+        "link": "#concealing",
         "children": []
       },
       {
         "level": 3,
-        "title": "Crewmate",
-        "slug": "crewmate",
-        "link": "#crewmate",
+        "title": "Experimental",
+        "slug": "experimental",
+        "link": "#experimental",
         "children": []
       },
       {
         "level": 3,
-        "title": "Impostor",
-        "slug": "impostor",
-        "link": "#impostor",
+        "title": "Ghost",
+        "slug": "ghost",
+        "link": "#ghost",
         "children": []
       },
       {
         "level": 3,
-        "title": "Neutral",
-        "slug": "neutral",
-        "link": "#neutral",
+        "title": "Hindering",
+        "slug": "hindering",
+        "link": "#hindering",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Killing",
+        "slug": "killing",
+        "link": "#killing",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Madmate",
+        "slug": "madmate",
+        "link": "#madmate",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Support",
+        "slug": "support",
+        "link": "#support",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Vanilla",
+        "slug": "vanilla",
+        "link": "#vanilla",
         "children": []
       }
     ],
-    "path": "/translations/fr/options/Settings/Experimental.html",
+    "path": "/translations/fr/options/Settings/Impostors.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -5337,64 +6181,7 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/translations/fr/options/Settings/Game.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Impostors",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Concealing",
-        "slug": "concealing",
-        "link": "#concealing",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Ghost",
-        "slug": "ghost",
-        "link": "#ghost",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Hindering",
-        "slug": "hindering",
-        "link": "#hindering",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Killing",
-        "slug": "killing",
-        "link": "#killing",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Madmate",
-        "slug": "madmate",
-        "link": "#madmate",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Support",
-        "slug": "support",
-        "link": "#support",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Vanilla",
-        "slug": "vanilla",
-        "link": "#vanilla",
-        "children": []
-      }
-    ],
-    "path": "/translations/fr/options/Settings/Impostors.html",
+    "path": "/translations/fr/options/Settings/Mod.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -5431,6 +6218,13 @@ export const searchIndex = [
       },
       {
         "level": 3,
+        "title": "Experimental",
+        "slug": "experimental",
+        "link": "#experimental",
+        "children": []
+      },
+      {
+        "level": 3,
         "title": "Killing",
         "slug": "killing",
         "link": "#killing",
@@ -5451,6 +6245,13 @@ export const searchIndex = [
   {
     "title": "Add-ons",
     "headers": [
+      {
+        "level": 3,
+        "title": "Experimental",
+        "slug": "experimental",
+        "link": "#experimental",
+        "children": []
+      },
       {
         "level": 3,
         "title": "Harmful",
@@ -5503,6 +6304,20 @@ export const searchIndex = [
       },
       {
         "level": 3,
+        "title": "Experimental",
+        "slug": "experimental",
+        "link": "#experimental",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Ghost",
+        "slug": "ghost",
+        "link": "#ghost",
+        "children": []
+      },
+      {
+        "level": 3,
         "title": "Killing",
         "slug": "killing",
         "link": "#killing",
@@ -5542,99 +6357,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Experimental",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Add-ons",
-        "slug": "add-ons",
-        "link": "#add-ons",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Crewmate",
-        "slug": "crewmate",
-        "link": "#crewmate",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Impostor",
-        "slug": "impostor",
-        "link": "#impostor",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Neutral",
-        "slug": "neutral",
-        "link": "#neutral",
-        "children": []
-      }
-    ],
-    "path": "/translations/zh-CN/options/Settings/Experimental.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Game Settings",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Ejection",
-        "slug": "ejection",
-        "link": "#ejection",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Maps",
-        "slug": "maps",
-        "link": "#maps",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Sabotage",
-        "slug": "sabotage",
-        "link": "#sabotage",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Disable",
-        "slug": "disable",
-        "link": "#disable",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Meeting",
-        "slug": "meeting",
-        "link": "#meeting",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Different",
-        "slug": "different",
-        "link": "#different",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Ghost",
-        "slug": "ghost",
-        "link": "#ghost",
-        "children": []
-      }
-    ],
-    "path": "/translations/zh-CN/options/Settings/Game.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Impostors",
     "headers": [
       {
@@ -5642,6 +6364,20 @@ export const searchIndex = [
         "title": "Concealing",
         "slug": "concealing",
         "link": "#concealing",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Experimental",
+        "slug": "experimental",
+        "link": "#experimental",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Ghost",
+        "slug": "ghost",
+        "link": "#ghost",
         "children": []
       },
       {
@@ -5685,6 +6421,78 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Game Settings",
+    "headers": [
+      {
+        "level": 2,
+        "title": "📃 Standard",
+        "slug": "📃-standard",
+        "link": "#📃-standard",
+        "children": [
+          {
+            "level": 3,
+            "title": "Ejection",
+            "slug": "ejection",
+            "link": "#ejection",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Maps",
+            "slug": "maps",
+            "link": "#maps",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Sabotage",
+            "slug": "sabotage",
+            "link": "#sabotage",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Disable",
+            "slug": "disable",
+            "link": "#disable",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Meeting",
+            "slug": "meeting",
+            "link": "#meeting",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Different",
+            "slug": "different",
+            "link": "#different",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Ghost",
+            "slug": "ghost",
+            "link": "#ghost",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "⚔️ Free For All",
+        "slug": "⚔️-free-for-all",
+        "link": "#⚔️-free-for-all",
+        "children": []
+      }
+    ],
+    "path": "/translations/zh-CN/options/Settings/Mod.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Game Modifiers",
     "headers": [],
     "path": "/translations/zh-CN/options/Settings/Modifiers.html",
@@ -5717,6 +6525,13 @@ export const searchIndex = [
       },
       {
         "level": 3,
+        "title": "Experimental",
+        "slug": "experimental",
+        "link": "#experimental",
+        "children": []
+      },
+      {
+        "level": 3,
         "title": "Killing",
         "slug": "killing",
         "link": "#killing",
@@ -5731,6 +6546,13 @@ export const searchIndex = [
     "title": "System Settings",
     "headers": [],
     "path": "/translations/zh-CN/options/Settings/System.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Glow",
+    "headers": [],
+    "path": "/translations/fr/options/Addons/Experimental/Glow.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -5917,9 +6739,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Repairman",
+    "title": "Radar",
     "headers": [],
-    "path": "/translations/fr/options/Addons/Helpful/Repairman.html",
+    "path": "/translations/fr/options/Addons/Helpful/Radar.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -6064,6 +6886,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "YouTuber",
+    "headers": [],
+    "path": "/translations/fr/options/Addons/Miscellaneous/YouTuber.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Antidote",
     "headers": [],
     "path": "/translations/fr/options/Addons/Mixed/Antidote.html",
@@ -6085,9 +6914,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Bloodlust",
+    "title": "Bloodthirst",
     "headers": [],
-    "path": "/translations/fr/options/Addons/Mixed/Bloodlust.html",
+    "path": "/translations/fr/options/Addons/Mixed/Bloodthirst.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -6127,16 +6956,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Rebound",
+    "title": "Paranoia",
     "headers": [],
-    "path": "/translations/fr/options/Addons/Mixed/Rebound.html",
+    "path": "/translations/fr/options/Addons/Mixed/Paranoia.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Schizophrenic",
+    "title": "Rebound",
     "headers": [],
-    "path": "/translations/fr/options/Addons/Mixed/Schizophrenic.html",
+    "path": "/translations/fr/options/Addons/Mixed/Rebound.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -6267,9 +7096,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Retributionist",
+    "title": "Ghastly",
     "headers": [],
-    "path": "/translations/fr/options/Crewmates/Ghost/Retributionist.html",
+    "path": "/translations/fr/options/Crewmates/Ghost/Ghastly.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hawk",
+    "headers": [],
+    "path": "/translations/fr/options/Crewmates/Ghost/Hawk.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -6277,90 +7113,6 @@ export const searchIndex = [
     "title": "Warden",
     "headers": [],
     "path": "/translations/fr/options/Crewmates/Ghost/Warden.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bastion",
-    "headers": [],
-    "path": "/translations/fr/options/Crewmates/Killing/Bastion.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bodyguard",
-    "headers": [],
-    "path": "/translations/fr/options/Crewmates/Killing/Bodyguard.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Crusader",
-    "headers": [],
-    "path": "/translations/fr/options/Crewmates/Killing/Crusader.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Deceiver",
-    "headers": [],
-    "path": "/translations/fr/options/Crewmates/Killing/Deceiver.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Jailer",
-    "headers": [],
-    "path": "/translations/fr/options/Crewmates/Killing/Jailer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Judge",
-    "headers": [],
-    "path": "/translations/fr/options/Crewmates/Killing/Judge.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Knight",
-    "headers": [],
-    "path": "/translations/fr/options/Crewmates/Killing/Knight.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Nice Guesser",
-    "headers": [],
-    "path": "/translations/fr/options/Crewmates/Killing/NiceGuesser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Reverie",
-    "headers": [],
-    "path": "/translations/fr/options/Crewmates/Killing/Reverie.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sheriff",
-    "headers": [],
-    "path": "/translations/fr/options/Crewmates/Killing/Sheriff.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Veteran",
-    "headers": [],
-    "path": "/translations/fr/options/Crewmates/Killing/Veteran.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vigilante",
-    "headers": [],
-    "path": "/translations/fr/options/Crewmates/Killing/VIgilante.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -6452,6 +7204,97 @@ export const searchIndex = [
     "title": "Telecommunication",
     "headers": [],
     "path": "/translations/fr/options/Crewmates/Power/Telecommunication.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bastion",
+    "headers": [],
+    "path": "/translations/fr/options/Crewmates/Killing/Bastion.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bodyguard",
+    "headers": [],
+    "path": "/translations/fr/options/Crewmates/Killing/Bodyguard.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Crusader",
+    "headers": [],
+    "path": "/translations/fr/options/Crewmates/Killing/Crusader.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Deceiver",
+    "headers": [],
+    "path": "/translations/fr/options/Crewmates/Killing/Deceiver.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Jailer",
+    "headers": [],
+    "path": "/translations/fr/options/Crewmates/Killing/Jailer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Judge",
+    "headers": [],
+    "path": "/translations/fr/options/Crewmates/Killing/Judge.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Knight",
+    "headers": [],
+    "path": "/translations/fr/options/Crewmates/Killing/Knight.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Nice Guesser",
+    "headers": [],
+    "path": "/translations/fr/options/Crewmates/Killing/NiceGuesser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Retributionist",
+    "headers": [],
+    "path": "/translations/fr/options/Crewmates/Killing/Retributionist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Reverie",
+    "headers": [],
+    "path": "/translations/fr/options/Crewmates/Killing/Reverie.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sheriff",
+    "headers": [],
+    "path": "/translations/fr/options/Crewmates/Killing/Sheriff.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Veteran",
+    "headers": [],
+    "path": "/translations/fr/options/Crewmates/Killing/Veteran.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vigilante",
+    "headers": [],
+    "path": "/translations/fr/options/Crewmates/Killing/VIgilante.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -6638,16 +7481,121 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Tracker",
+    "title": "Witness",
     "headers": [],
-    "path": "/translations/fr/options/Crewmates/Support/Tracker.html",
+    "path": "/translations/fr/options/Crewmates/Support/Witness.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Witness",
+    "title": "Escapist",
     "headers": [],
-    "path": "/translations/fr/options/Crewmates/Support/Witness.html",
+    "path": "/translations/fr/options/Impostors/Concealing/Escapist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lightning",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Concealing/Lightning.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mastermind",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Concealing/Mastermind.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Miner",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Concealing/Miner.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Puppeteer",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Concealing/Puppeteer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "RiftMaker",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Concealing/RiftMaker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Scavenger",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Concealing/Scavenger.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Shapemaster",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Concealing/Shapemaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Soul Catcher",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Concealing/SoulCatcher.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Swooper",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Concealing/Swooper.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Trickster",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Concealing/Trickster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Undertaker",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Concealing/Undertaker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vampire",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Concealing/Vampire.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vampiress",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Concealing/Vampiress.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Warlock",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Concealing/Warlock.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Wildling",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Concealing/Wildling.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -6666,6 +7614,20 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Guardian Angel",
+    "headers": [],
+    "path": "/translations/fr/options/Crewmates/Vanilla/GuardianAngel.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Noisemaker",
+    "headers": [],
+    "path": "/translations/fr/options/Crewmates/Vanilla/Noisemaker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Scientist",
     "headers": [],
     "path": "/translations/fr/options/Crewmates/Vanilla/Scientist.html",
@@ -6673,44 +7635,443 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "YouTuber",
+    "title": "Tracker",
     "headers": [],
-    "path": "/translations/fr/options/Experimental/Addon/YouTuber.html",
+    "path": "/translations/fr/options/Crewmates/Vanilla/Tracker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Doll Master",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Experimental/DollMaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bloodmoon",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Ghost/Bloodmoon.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Minion",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Ghost/Minion.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Anonymous",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Hindering/Anonymous.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Dazzler",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Hindering/Dazzler.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Devourer",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Hindering/Devourer.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "Disperser",
     "headers": [],
-    "path": "/translations/fr/options/Experimental/Impostor/Disperser.html",
+    "path": "/translations/fr/options/Impostors/Hindering/Disperser.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Doppelganger",
+    "title": "Eraser",
     "headers": [],
-    "path": "/translations/fr/options/Experimental/Neutral/Doppelganger.html",
+    "path": "/translations/fr/options/Impostors/Hindering/Eraser.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "God",
+    "title": "Penguin",
     "headers": [],
-    "path": "/translations/fr/options/Experimental/Neutral/God.html",
+    "path": "/translations/fr/options/Impostors/Hindering/Penguin.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Quizmaster",
+    "title": "Pitfall",
     "headers": [],
-    "path": "/translations/fr/options/Experimental/Neutral/Quizmaster.html",
+    "path": "/translations/fr/options/Impostors/Hindering/Pitfall.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Spiritcaller",
+    "title": "Stealth",
     "headers": [],
-    "path": "/translations/fr/options/Experimental/Neutral/Spiritcaller.html",
+    "path": "/translations/fr/options/Impostors/Hindering/Stealth.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Twister",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Hindering/Twister.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Arrogance",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Arrogance.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bard",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Bard.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Berserker",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Berserker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bomber",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Bomber.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bounty Hunter",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/BountyHunter.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Butcher",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Butcher.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Chronomancer",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Chronomancer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Councillor",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Councillor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Cursed Wolf",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/CursedWolf.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Deathpact",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Deathpact.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Evil Guesser",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/EvilGuesser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Evil Hacker",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/EvilHacker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Evil Tracker",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/EvilTracker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Greedy",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Greedy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hangman",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Hangman.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Inhibitor",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Inhibitor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Instigator",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Instigator.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Killing Machine",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/KillingMachine.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Ludopath",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Ludopath.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lurker",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Lurker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mercenary",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Mercenary.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Ninja",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Ninja.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Nuker",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Nuker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Quick Shooter",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/QuickShooter.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Saboteur",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Saboteur.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sniper",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Sniper.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Trapster",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Trapster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Underdog",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Underdog.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Witch",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Witch.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Zombie",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Killing/Zombie.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Crewpostor",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Madmate/Crewpostor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Parasite",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Madmate/Parasite.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Refugee",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Madmate/Refugee.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Anti Adminer",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Support/AntiAdminer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Blackmailer",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Support/Blackmailer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Camouflager",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Support/Camouflager.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Cleaner",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Support/Cleaner.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Consigliere",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Support/Consigliere.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Fireworker",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Support/Fireworker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Gangster",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Support/Gangster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Godfather",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Support/Godfather.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Kamikaze",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Support/Kamikaze.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Morphling",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Support/Morphling.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Nemesis",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Support/Nemesis.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Time Thief",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Support/TimeThief.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vindicator",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Support/Vindicator.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Visionary",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Support/Visionary.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Impostor",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Vanilla/Impostor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Phantom",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Vanilla/Phantom.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Shapeshifter",
+    "headers": [],
+    "path": "/translations/fr/options/Impostors/Vanilla/Shapeshifter.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -6834,9 +8195,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Phantom",
+    "title": "God",
     "headers": [],
-    "path": "/translations/fr/options/Neutrals/Chaos/Phantom.html",
+    "path": "/translations/fr/options/Neutrals/Chaos/God.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -6872,6 +8233,13 @@ export const searchIndex = [
     "title": "Soul Collector",
     "headers": [],
     "path": "/translations/fr/options/Neutrals/Chaos/SoulCollector.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Phantom",
+    "headers": [],
+    "path": "/translations/fr/options/Neutrals/Chaos/Specter.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -6939,9 +8307,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Masochist",
+    "title": "Punching Bag",
     "headers": [],
-    "path": "/translations/fr/options/Neutrals/Evil/Masochist.html",
+    "path": "/translations/fr/options/Neutrals/Evil/PunchingBag.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -6956,6 +8324,20 @@ export const searchIndex = [
     "title": "Sunnyboy",
     "headers": [],
     "path": "/translations/fr/options/Neutrals/Evil/Sunnyboy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Doppelganger",
+    "headers": [],
+    "path": "/translations/fr/options/Neutrals/Experimental/Doppelganger.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Quizmaster",
+    "headers": [],
+    "path": "/translations/fr/options/Neutrals/Experimental/Quizmaster.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -7121,6 +8503,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Spiritcaller",
+    "headers": [],
+    "path": "/translations/fr/options/Neutrals/Killing/Spiritcaller.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Stalker",
     "headers": [],
     "path": "/translations/fr/options/Neutrals/Killing/Stalker.html",
@@ -7156,520 +8545,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Escapist",
+    "title": "Glow",
     "headers": [],
-    "path": "/translations/fr/options/Impostors/Concealing/Escapist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lightning",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Concealing/Lightning.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mastermind",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Concealing/Mastermind.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Miner",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Concealing/Miner.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Puppeteer",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Concealing/Puppeteer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "RiftMaker",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Concealing/RiftMaker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Scavenger",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Concealing/Scavenger.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Shapemaster",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Concealing/Shapemaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Soul Catcher",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Concealing/SoulCatcher.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Swooper",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Concealing/Swooper.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Trickster",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Concealing/Trickster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Undertaker",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Concealing/Undertaker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vampire",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Concealing/Vampire.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vampiress",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Concealing/Vampiress.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Warlock",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Concealing/Warlock.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Wildling",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Concealing/Wildling.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Minion",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Ghost/Minion.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Nemesis",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Ghost/Nemesis.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Anonymous",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Hindering/Anonymous.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Dazzler",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Hindering/Dazzler.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Devourer",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Hindering/Devourer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Eraser",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Hindering/Eraser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Penguin",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Hindering/Penguin.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pitfall",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Hindering/Pitfall.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Stealth",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Hindering/Stealth.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Twister",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Hindering/Twister.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Arrogance",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Arrogance.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bard",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Bard.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Berserker",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Berserker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bomber",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Bomber.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bounty Hunter",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/BountyHunter.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Butcher",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Butcher.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Chronomancer",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Chronomancer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Councillor",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Councillor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Cursed Wolf",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/CursedWolf.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Deathpact",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Deathpact.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Evil Guesser",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/EvilGuesser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Evil Tracker",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/EvilTracker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Greedy",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Greedy.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hangman",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Hangman.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Inhibitor",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Inhibitor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Instigator",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Instigator.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Killing Machine",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/KillingMachine.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Ludopath",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Ludopath.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lurker",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Lurker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mercenary",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Mercenary.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Ninja",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Ninja.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Nuker",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Nuker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Quick Shooter",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/QuickShooter.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Saboteur",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Saboteur.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sniper",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Sniper.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Trapster",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Trapster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Underdog",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Underdog.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Spellcaster",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Witch.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Zombie",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Killing/Zombie.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Convict",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Madmate/Convict.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Crewpostor",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Madmate/Crewpostor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Parasite",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Madmate/Parasite.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Refugee",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Madmate/Refugee.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Anti Adminer",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Support/AntiAdminer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Blackmailer",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Support/Blackmailer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Camouflager",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Support/Camouflager.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Cleaner",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Support/Cleaner.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Consigliere",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Support/Consigliere.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Fireworker",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Support/Fireworker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Gangster",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Support/Gangster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Godfather",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Support/Godfather.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Kamikaze",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Support/Kamikaze.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Morphling",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Support/Morphling.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Time Thief",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Support/TimeThief.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vindicator",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Support/Vindicator.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Visionary",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Support/Visionary.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Impostor",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Vanilla/Impostor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Shapeshifter",
-    "headers": [],
-    "path": "/translations/fr/options/Impostors/Vanilla/Shapeshifter.html",
+    "path": "/translations/zh-CN/options/Addons/Experimental/Glow.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -7677,6 +8555,13 @@ export const searchIndex = [
     "title": "Disregarded",
     "headers": [],
     "path": "/translations/zh-CN/options/Addons/Harmful/Disregarded.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Fool",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Addons/Harmful/Fool.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -7702,6 +8587,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Mundane",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Addons/Harmful/Mundane.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Oblivious",
     "headers": [],
     "path": "/translations/zh-CN/options/Addons/Harmful/Oblivious.html",
@@ -7712,6 +8604,20 @@ export const searchIndex = [
     "title": "Rascal",
     "headers": [],
     "path": "/translations/zh-CN/options/Addons/Harmful/Rascal.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Statue",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Addons/Harmful/Statue.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Tired",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Addons/Harmful/Tired.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -7779,6 +8685,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Flash",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Addons/Helpful/Flash.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Lazy",
     "headers": [],
     "path": "/translations/zh-CN/options/Addons/Helpful/Lazy.html",
@@ -7821,9 +8734,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Repairman",
+    "title": "Radar",
     "headers": [],
-    "path": "/translations/zh-CN/options/Addons/Helpful/Repairman.html",
+    "path": "/translations/zh-CN/options/Addons/Helpful/Radar.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -7831,6 +8744,13 @@ export const searchIndex = [
     "title": "Seer",
     "headers": [],
     "path": "/translations/zh-CN/options/Addons/Helpful/Seer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Silent",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Addons/Helpful/Silent.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -7919,6 +8839,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Tricky",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Addons/Impostor/Tricky.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Egoist",
     "headers": [],
     "path": "/translations/zh-CN/options/Addons/Miscellaneous/Egoist.html",
@@ -7933,6 +8860,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Rainbow",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Addons/Miscellaneous/Rainbow.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Reach",
     "headers": [],
     "path": "/translations/zh-CN/options/Addons/Miscellaneous/Reach.html",
@@ -7943,6 +8877,13 @@ export const searchIndex = [
     "title": "Workhorse",
     "headers": [],
     "path": "/translations/zh-CN/options/Addons/Miscellaneous/Workhorse.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "YouTuber",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Addons/Miscellaneous/YouTuber.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -7968,9 +8909,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Bloodlust",
+    "title": "Bloodthirst",
     "headers": [],
-    "path": "/translations/zh-CN/options/Addons/Mixed/Bloodlust.html",
+    "path": "/translations/zh-CN/options/Addons/Mixed/Bloodthirst.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -8003,16 +8944,23 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Rebound",
+    "title": "OIIAI",
     "headers": [],
-    "path": "/translations/zh-CN/options/Addons/Mixed/Rebound.html",
+    "path": "/translations/zh-CN/options/Addons/Mixed/OIIAI.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Schizophrenic",
+    "title": "Paranoia",
     "headers": [],
-    "path": "/translations/zh-CN/options/Addons/Mixed/Schizophrenic.html",
+    "path": "/translations/zh-CN/options/Addons/Mixed/Paranoia.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Rebound",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Addons/Mixed/Rebound.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -8024,114 +8972,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Fool",
+    "title": "Susceptible",
     "headers": [],
-    "path": "/translations/zh-CN/options/Experimental/Addon/Fool.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Oiiai Cat",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Experimental/Addon/OiiaiCat.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "YouTuber",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Experimental/Addon/YouTuber.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Admirer",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Experimental/Crewmate/Admirer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Investigator",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Experimental/Crewmate/Investigator.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Blackmailer",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Experimental/Impostor/Blackmailer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Butcher",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Experimental/Impostor/Butcher.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Disperser",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Experimental/Impostor/Disperser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Eraser",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Experimental/Impostor/Eraser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hangman",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Experimental/Impostor/Hangman.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Killing Machine",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Experimental/Impostor/KillingMachine.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lightning",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Experimental/Impostor/Lightning.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Zombie",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Experimental/Impostor/Zombie.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Doppelganger",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Experimental/Neutral/Doppelganger.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "God",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Experimental/Neutral/God.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Spiritcaller",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Experimental/Neutral/Spiritcaller.html",
+    "path": "/translations/zh-CN/options/Addons/Mixed/Susceptible.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -8171,16 +9014,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Lazy Guy",
+    "title": "Guess Master",
     "headers": [],
-    "path": "/translations/zh-CN/options/Crewmates/Basic/LazyGuy.html",
+    "path": "/translations/zh-CN/options/Crewmates/Basic/GuessMaster.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Luckey",
+    "title": "Lazy Guy",
     "headers": [],
-    "path": "/translations/zh-CN/options/Crewmates/Basic/Luckey.html",
+    "path": "/translations/zh-CN/options/Crewmates/Basic/LazyGuy.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -8202,6 +9045,13 @@ export const searchIndex = [
     "title": "Nice Mini",
     "headers": [],
     "path": "/translations/zh-CN/options/Crewmates/Basic/MiniNice.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mole",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Crewmates/Basic/Mole.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -8237,6 +9087,27 @@ export const searchIndex = [
     "title": "Transporter",
     "headers": [],
     "path": "/translations/zh-CN/options/Crewmates/Basic/Transporter.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Ghastly",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Crewmates/Ghost/Ghastly.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hawk",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Crewmates/Ghost/Hawk.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Warden",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Crewmates/Ghost/Warden.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -8332,6 +9203,20 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Admirer",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Crewmates/Power/Admirer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Captain",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Crewmates/Power/Captain.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Copycat",
     "headers": [],
     "path": "/translations/zh-CN/options/Crewmates/Power/Copycat.html",
@@ -8409,6 +9294,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Benefactor",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Crewmates/Support/Benefactor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Chameleon",
     "headers": [],
     "path": "/translations/zh-CN/options/Crewmates/Support/Chameleon.html",
@@ -8461,6 +9353,20 @@ export const searchIndex = [
     "title": "Inspector",
     "headers": [],
     "path": "/translations/zh-CN/options/Crewmates/Support/Inspector.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Investigator",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Crewmates/Support/Investigator.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Keeper",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Crewmates/Support/Keeper.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -8570,13 +9476,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Tracker",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Crewmates/Support/Tracker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Witness",
     "headers": [],
     "path": "/translations/zh-CN/options/Crewmates/Support/Witness.html",
@@ -8598,6 +9497,20 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Guardian Angel",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Crewmates/Vanilla/GuardianAngel.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Noisemaker",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Crewmates/Vanilla/Noisemaker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Scientist",
     "headers": [],
     "path": "/translations/zh-CN/options/Crewmates/Vanilla/Scientist.html",
@@ -8605,9 +9518,23 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Tracker",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Crewmates/Vanilla/Tracker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Escapist",
     "headers": [],
     "path": "/translations/zh-CN/options/Impostors/Concealing/Escapist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lightning",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Concealing/Lightning.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -8629,6 +9556,13 @@ export const searchIndex = [
     "title": "Puppeteer",
     "headers": [],
     "path": "/translations/zh-CN/options/Impostors/Concealing/Puppeteer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "RiftMaker",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Concealing/RiftMaker.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -8703,6 +9637,27 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Doll Master",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Experimental/DollMaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bloodmoon",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Ghost/Bloodmoon.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Minion",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Ghost/Minion.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Anonymous",
     "headers": [],
     "path": "/translations/zh-CN/options/Impostors/Hindering/Anonymous.html",
@@ -8724,9 +9679,37 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Disperser",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Hindering/Disperser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Eraser",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Hindering/Eraser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Penguin",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Hindering/Penguin.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Pitfall",
     "headers": [],
     "path": "/translations/zh-CN/options/Impostors/Hindering/Pitfall.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Stealth",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Hindering/Stealth.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -8773,6 +9756,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Butcher",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Killing/Butcher.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Chronomancer",
     "headers": [],
     "path": "/translations/zh-CN/options/Impostors/Killing/Chronomancer.html",
@@ -8808,6 +9798,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Evil Hacker",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Killing/EvilHacker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Evil Tracker",
     "headers": [],
     "path": "/translations/zh-CN/options/Impostors/Killing/EvilTracker.html",
@@ -8822,6 +9819,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Hangman",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Killing/Hangman.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Inhibitor",
     "headers": [],
     "path": "/translations/zh-CN/options/Impostors/Killing/Inhibitor.html",
@@ -8832,6 +9836,13 @@ export const searchIndex = [
     "title": "Instigator",
     "headers": [],
     "path": "/translations/zh-CN/options/Impostors/Killing/Instigator.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Killing Machine",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Killing/KillingMachine.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -8892,13 +9903,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Spellcaster",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Impostors/Killing/Spellcaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Trapster",
     "headers": [],
     "path": "/translations/zh-CN/options/Impostors/Killing/Trapster.html",
@@ -8909,6 +9913,20 @@ export const searchIndex = [
     "title": "Underdog",
     "headers": [],
     "path": "/translations/zh-CN/options/Impostors/Killing/Underdog.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Witch",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Killing/Witch.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Zombie",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Killing/Zombie.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -8927,9 +9945,23 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Refugee",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Madmate/Refugee.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Anti Adminer",
     "headers": [],
     "path": "/translations/zh-CN/options/Impostors/Support/AntiAdminer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Blackmailer",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Support/Blackmailer.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -8976,6 +10008,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Kamikaze",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Support/Kamikaze.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Morphling",
     "headers": [],
     "path": "/translations/zh-CN/options/Impostors/Support/Morphling.html",
@@ -9014,6 +10053,13 @@ export const searchIndex = [
     "title": "Impostor",
     "headers": [],
     "path": "/translations/zh-CN/options/Impostors/Vanilla/Impostor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Phantom",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Impostors/Vanilla/Phantom.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -9109,6 +10155,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Schrodingers Cat",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Neutrals/Benign/SchrodingersCat.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Shaman",
     "headers": [],
     "path": "/translations/zh-CN/options/Neutrals/Benign/Shaman.html",
@@ -9119,13 +10172,6 @@ export const searchIndex = [
     "title": "Taskinator",
     "headers": [],
     "path": "/translations/zh-CN/options/Neutrals/Benign/Taskinator.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Witch",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Neutrals/Benign/Witch.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -9144,9 +10190,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Phantom",
+    "title": "God",
     "headers": [],
-    "path": "/translations/zh-CN/options/Neutrals/Chaos/Phantom.html",
+    "path": "/translations/zh-CN/options/Neutrals/Chaos/God.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -9172,9 +10218,23 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Solsticer",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Neutrals/Chaos/Solsticer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Soul Collector",
     "headers": [],
     "path": "/translations/zh-CN/options/Neutrals/Chaos/SoulCollector.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Phantom",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Neutrals/Chaos/Specter.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -9242,9 +10302,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Masochist",
+    "title": "Punching Bag",
     "headers": [],
-    "path": "/translations/zh-CN/options/Neutrals/Evil/Masochist.html",
+    "path": "/translations/zh-CN/options/Neutrals/Evil/PunchingBag.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -9259,6 +10319,20 @@ export const searchIndex = [
     "title": "Sunnyboy",
     "headers": [],
     "path": "/translations/zh-CN/options/Neutrals/Evil/Sunnyboy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Doppelganger",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Neutrals/Experimental/Doppelganger.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Quizmaster",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Neutrals/Experimental/Quizmaster.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -9361,13 +10435,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Occultist",
-    "headers": [],
-    "path": "/translations/zh-CN/options/Neutrals/Killing/Occultist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Pelican",
     "headers": [],
     "path": "/translations/zh-CN/options/Neutrals/Killing/Pelican.html",
@@ -9385,6 +10452,13 @@ export const searchIndex = [
     "title": "Plaguebearer",
     "headers": [],
     "path": "/translations/zh-CN/options/Neutrals/Killing/Plaguebearer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Plague Scientist",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Neutrals/Killing/PlagueScientist.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -9420,6 +10494,13 @@ export const searchIndex = [
     "title": "Shroud",
     "headers": [],
     "path": "/translations/zh-CN/options/Neutrals/Killing/Shroud.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Spiritcaller",
+    "headers": [],
+    "path": "/translations/zh-CN/options/Neutrals/Killing/Spiritcaller.html",
     "pathLocale": "/",
     "extraFields": []
   },

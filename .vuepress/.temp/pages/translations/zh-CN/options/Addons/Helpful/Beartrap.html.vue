@@ -1,6 +1,6 @@
 <template><div><h1 id="🐻-beartrap" tabindex="-1"><a class="header-anchor" href="#🐻-beartrap"><span><font color=#5a8fd0>🐻 <b>Beartrap</b></font> <Badge text="Helpful" type="tip" vertical="middle"/></span></a></h1>
 <hr>
-<p>When Beartrap is killed, Beartrap immobilize killer for a configurable amount of time.</p>
+<p>When Beartrap is killed, Beartrap will immobilize their killer for a configurable amount of time.</p>
 <ul>
 <li>Max
 <ul>

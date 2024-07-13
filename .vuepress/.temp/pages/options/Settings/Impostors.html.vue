@@ -1,6 +1,6 @@
 <template><div><h1 id="🦹‍♂️-impostor-roles" tabindex="-1"><a class="header-anchor" href="#🦹‍♂️-impostor-roles"><span><font color=red>🦹‍♂️ <b>Impostor Roles</b></font></span></a></h1>
 <hr>
-<p><b>Eliminate all <font color=#8cffff>Crewmates</font> and <font color=#7f8c8d>Neutrals</font> from the game by any means necessary. Each role has a unique way of accomplishing their goal. From mass-killing to framing others, they have to find any means necessary to win. If some roles are not on this page, check <RouteLink to="/options/Settings/Experimental.html">Experimental Roles</RouteLink>, as they may be there for testing/bug fixes.</b><br></p>
+<p><b>Eliminate all <font color=#8cffff>Crewmates</font> and <font color=#7f8c8d>Neutrals</font> from the game by any means necessary. Each role has a unique way of accomplishing their goal. From mass-killing to framing others, they have to find any means necessary to win.</b><br></p>
 <table>
 <tr>
 <td colspan="2" align="center"><b><u>Role Count</u></b></td>
@@ -71,7 +71,7 @@
 <br></p>
 <h3 id="vanilla" tabindex="-1"><a class="header-anchor" href="#vanilla"><span><font color=#8cffff><b>Vanilla</b></font></span></a></h3>
 <hr>
-<p><RouteLink to="/options/Impostors/Vanilla/Impostor.html">Impostor</RouteLink> | <RouteLink to="/options/Impostors/Vanilla/Shapeshifter.html">Shapeshifter</RouteLink>
+<p><RouteLink to="/options/Impostors/Vanilla/Impostor.html">Impostor</RouteLink>| <RouteLink to="/options/Phantom/Vanilla/Shapeshifter.html">Phantom</RouteLink> | <RouteLink to="/options/Impostors/Vanilla/Shapeshifter.html">Shapeshifter</RouteLink>
 <br></p>
 <br>
 <details>

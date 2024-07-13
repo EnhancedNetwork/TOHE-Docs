@@ -1,28 +1,32 @@
-<template><div><h1 id="➕-add-ons" tabindex="-1"><a class="header-anchor" href="#➕-add-ons"><span><font color="#ff9ace">➕ <b>Add-ons</b></font></span></a></h1>
+<template><div><h1 id="📋-add-ons" tabindex="-1"><a class="header-anchor" href="#📋-add-ons"><span><font color="#ff9ace">📋 <b>Add-ons</b></font></span></a></h1>
 <hr>
-<p><b>These are modifiers that any players can acquire. There are helpful, harmful, and <font color=red>Impostor</font> add-ons. Each one is unique in the way it affects the player.</b></p>
+<p><b>These are modifiers that any players can acquire. There are some that help you, some that harm you, and some can do both! There are also some <font color=red>Impostor Only</font> add-ons. Each one is unique in the way it affects the player.</b><br></p>
 <table>
 <tr>
 <td colspan="2" align="center"><b><u>Role Count</u></b></td>
 </tr>
 <tr>
-<td><font color=red><b>Harmful</b></font></td>
+<td><font color=#4d223a><b>🚧 Experimental</b></font></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td><font color=red><b>🤕 Harmful</b></font></td>
 <td align="center">12</td>
 </tr>
 <tr>
-<td><font color=#00ff00><b>Helpful</b></font></td>
+<td><font color=#00ff00><b>🤑 Helpful</b></font></td>
 <td align="center">19</td>
 </tr>
 <tr>
-<td><font color=red><b>Impostor</b></font></td>
+<td><font color=red><b>🦹 Impostor Only</b></font></td>
 <td align="center">9</td>
 </tr>
 <tr>
-<td><font color=#a83295><b>Miscellaneous</b></font></td>
+<td><font color=#a83295><b>⚙️ Miscellaneous</b></font></td>
 <td align="center">5</td>
 </tr>
 <tr>
-<td><font color=#32a87f><b>Mixed</b></font></td>
+<td><font color=#32a87f><b>😵‍💫 Mixed</b></font></td>
 <td align="center">13</td>
 </tr>
 <tr>
@@ -31,6 +35,9 @@
 </tr>
 </table>
 <br>
+<h3 id="experimental" tabindex="-1"><a class="header-anchor" href="#experimental"><span><font color=#4d223a><b>Experimental</b></font></span></a></h3>
+<hr>
+<p><RouteLink to="/options/Addons/Experimental/Glow.html">Glow</RouteLink></p>
 <h3 id="harmful" tabindex="-1"><a class="header-anchor" href="#harmful"><span><font color=#ff0000><b>Harmful</b></font></span></a></h3>
 <hr>
 <p><RouteLink to="/options/Addons/Harmful/Disregarded.html">Disregarded</RouteLink> | <RouteLink to="/options/Addons/Harmful/Fool.html">Fool</RouteLink> | <RouteLink to="/options/Addons/Harmful/Fragile.html">Fragile</RouteLink> | <RouteLink to="/options/Addons/Harmful/Hurried.html">Hurried</RouteLink> | <RouteLink to="/options/Addons/Harmful/Influenced.html">Influenced</RouteLink> | <RouteLink to="/options/Addons/Harmful/Mundane.html">Mundane</RouteLink> | <RouteLink to="/options/Addons/Harmful/Oblivious.html">Oblivious</RouteLink> | <RouteLink to="/options/Addons/Harmful/Rascal.html">Rascal</RouteLink> | <RouteLink to="/options/Addons/Harmful/Statue.html">Statue</RouteLink> | <RouteLink to="/options/Addons/Harmful/Tired.html">Tired</RouteLink> | <RouteLink to="/options/Addons/Harmful/Unlucky.html">Unlucky</RouteLink> | <RouteLink to="/options/Addons/Harmful/VoidBallot.html">Void Ballot</RouteLink>
@@ -45,10 +52,10 @@
 <br></p>
 <h3 id="miscellaneous" tabindex="-1"><a class="header-anchor" href="#miscellaneous"><span><font color=#a83295><b>Miscellaneous</b></font></span></a></h3>
 <hr>
-<p><RouteLink to="/options/Addons/Miscellaneous/Egoist.html">Egoist</RouteLink> | <RouteLink to="/options/Addons/Miscellaneous/Lovers.html">Lovers</RouteLink> | <RouteLink to="/options/Addons/Miscellaneous/Rainbow.html">Rainbow</RouteLink> | <RouteLink to="/options/Addons/Miscellaneous/Reach.html">Reach</RouteLink> | <RouteLink to="/options/Addons/Miscellaneous/Workhorse.html">Workhorse</RouteLink></p>
+<p><RouteLink to="/options/Addons/Miscellaneous/Egoist.html">Egoist</RouteLink> | <RouteLink to="/options/Addons/Miscellaneous/Lovers.html">Lovers</RouteLink> | <RouteLink to="/options/Addons/Miscellaneous/Rainbow.html">Rainbow</RouteLink> | <RouteLink to="/options/Addons/Miscellaneous/Reach.html">Reach</RouteLink> | <RouteLink to="/options/Addons/Miscellaneous/Workhorse.html">Workhorse</RouteLink> | <RouteLink to="/options/Addons/Miscellaneous/YouTuber.html">YouTuber</RouteLink></p>
 <h3 id="mixed" tabindex="-1"><a class="header-anchor" href="#mixed"><span><font color=#32a87f><b>Mixed</b></font></span></a></h3>
 <hr>
-<p><RouteLink to="/options/Addons/Mixed/Antidote.html">Antidote</RouteLink> | <RouteLink to="/options/Addons/Mixed/Avenger.html">Avenger</RouteLink> | <RouteLink to="/options/Addons/Mixed/Aware.html">Aware</RouteLink> | <RouteLink to="/options/Addons/Mixed/Bloodlust.html">Bloodlust</RouteLink> | <RouteLink to="/options/Addons/Mixed/Diseased.html">Diseased</RouteLink> | <RouteLink to="/options/Addons/Mixed/Ghoul.html">Ghoul</RouteLink> | <RouteLink to="/options/Addons/Mixed/Gravestone.html">Gravestone</RouteLink> | <RouteLink to="/options/Addons/Mixed/Guesser.html">Guesser</RouteLink> | <RouteLink to="/options/Addons/Mixed/OIIAI.html">OIIAI</RouteLink> | <RouteLink to="/options/Addons/Mixed/Rebound.html">Rebound</RouteLink> | <RouteLink to="/options/Addons/Mixed/Schizophrenic.html">Schizophrenic</RouteLink> | <RouteLink to="/options/Addons/Mixed/Stubborn.html">Stubborn</RouteLink> | <RouteLink to="/options/Addons/Mixed/Susceptible.html">Susceptible</RouteLink></p>
+<p><RouteLink to="/options/Addons/Mixed/Antidote.html">Antidote</RouteLink> | <RouteLink to="/options/Addons/Mixed/Avenger.html">Avenger</RouteLink> | <RouteLink to="/options/Addons/Mixed/Aware.html">Aware</RouteLink> | <RouteLink to="/options/Addons/Mixed/Bloodthirst.html">Bloodthirst</RouteLink> | <RouteLink to="/options/Addons/Mixed/Diseased.html">Diseased</RouteLink> | <RouteLink to="/options/Addons/Mixed/Ghoul.html">Ghoul</RouteLink> | <RouteLink to="/options/Addons/Mixed/Gravestone.html">Gravestone</RouteLink> | <RouteLink to="/options/Addons/Mixed/Guesser.html">Guesser</RouteLink> | <RouteLink to="/options/Addons/Mixed/OIIAI.html">OIIAI</RouteLink> | <RouteLink to="/options/Addons/Mixed/Paranoia.html">Paranoia</RouteLink> | <RouteLink to="/options/Addons/Mixed/Rebound.html">Rebound</RouteLink> | <RouteLink to="/options/Addons/Mixed/Stubborn.html">Stubborn</RouteLink> | <RouteLink to="/options/Addons/Mixed/Susceptible.html">Susceptible</RouteLink></p>
 <br>
 <details>
 <summary><font color=#ff9ace size='4em'><b>Settings</b></font></summary>

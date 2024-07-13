@@ -1,4 +1,4 @@
-<template><div><h1 id="🏛️-president" tabindex="-1"><a class="header-anchor" href="#🏛️-president"><span><font color="#ba55d3">🏛️ <b>President</b></font> <Badge text="Power" type="tip" vertical="middle"/></span></a></h1>
+<template><div><h1 id="🏛️-president" tabindex="-1"><a class="header-anchor" href="#🏛️-president"><span><font color="#01ffaa">🏛️ <b>President</b></font> <Badge text="Power" type="tip" vertical="middle"/></span></a></h1>
 <hr>
 <p>The President has 2 abilities: End the meeting and Reveal identity.<br><br>
 Ability 1: End the meeting - Type /end in meetings as President to instantly end the meeting.<br><br>

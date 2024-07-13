@@ -1,4 +1,4 @@
-<template><div><h1 id="📡-telecommunication" tabindex="-1"><a class="header-anchor" href="#📡-telecommunication"><span><font color="#7223da">📡 Telecommunication</font> <Badge text="Power" type="tip" vertical="middle"/></span></a></h1>
+<template><div><h1 id="📡-telecommunication" tabindex="-1"><a class="header-anchor" href="#📡-telecommunication"><span><font color="#7223da">📡 <b>Telecommunication</b></font> <Badge text="Power" type="tip" vertical="middle"/></span></a></h1>
 <hr>
 <p>As the Telecommunication, you are notified when anyone uses cameras, vitals, doorlogs, or admin.</p>
 <ul>

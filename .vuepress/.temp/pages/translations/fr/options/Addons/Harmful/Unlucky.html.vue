@@ -32,9 +32,9 @@
 <li>Set the percent chance that a player has of suiciding because they reported a body</li>
 </ul>
 </li>
-<li>Chance to suicide from using a sabotage
+<li>Chance to suicide from opening a door
 <ul>
-<li>Set the percent chance that a player has of suiciding because they used a sabotage</li>
+<li>Set the percent chance that a player has of suiciding because they opened a door</li>
 </ul>
 </li>
 <li>

@@ -19,7 +19,6 @@ You'll either become a Sheriff, Refugee, or some other Neutral.<br></p>
 <ul>
 <li>Amnesiac</li>
 <li>Imitator</li>
-<li>Witch</li>
 <li>Pursuer</li>
 <li>Follower</li>
 <li>Maverick</li>
@@ -29,7 +28,7 @@ You'll either become a Sheriff, Refugee, or some other Neutral.<br></p>
 </li>
 </ul>
 <blockquote>
-<p>From: TOHRE (Old Amnesiac)</p>
+<p>From: TOHER (Old Amnesiac)</p>
 </blockquote>
 </div></template>
 

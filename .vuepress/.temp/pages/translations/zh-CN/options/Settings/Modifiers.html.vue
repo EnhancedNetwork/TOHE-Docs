@@ -695,6 +695,14 @@
 <font color=red>OFF</font>: Guesser Mode will be disabled</li>
 </ul>
 </li>
+<li>Show only enabled roles in Guesser UI
+<ul>
+<li>
+<font color=green>ON</font>: Guesser UI will only display the roles that you have toggled on (5%-100%)</li>
+<li>
+<font color=red>OFF</font>: Guesser UI will display all roles like before (0%-100%)</li>
+</ul>
+</li>
 </ul>
 <font side=4em color=#ffeb04>Roles and Add-ons for Guesser Mode</font><ul>
 <li>

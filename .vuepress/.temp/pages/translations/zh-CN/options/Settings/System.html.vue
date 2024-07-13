@@ -278,6 +278,22 @@
 </ul>
 </li>
 <li>
+<font color=#0000ff>Hide exile (lava) chat</font><ul>
+<li>
+<font color=green>ON</font>: Messages sent during the ejection screen will be hidden</li>
+<li>
+<font color=red>OFF</font>: Messages sent during the ejection screen will not be hidden</li>
+</ul>
+</li>
+<li>
+<font color=#ff00ff>Remove pets at dead players</font><ul>
+<li>
+<font color=green>ON</font>: Whenever a player is killed, their pet will be removed</li>
+<li>
+<font color=red>OFF</font>: Whenever a player is killed, their pet will not be removed</li>
+</ul>
+</li>
+<li>
 <p>When a cheating player is found</p>
 <ul>
 <li>You can choose an action to take when a player is found cheating
@@ -288,6 +304,15 @@
 <li>Notify Everyone - Notify everyone of the cheating player</li>
 </ul>
 </li>
+</ul>
+</li>
+<li>
+<p>Disable VoteKick System</p>
+<ul>
+<li>
+<font color=green>ON</font>: Players will be unable to use the vote-kick menu in the chat</li>
+<li>
+<font color=red>OFF</font>: Players will still be able to use the vote-kick menu in the chat</li>
 </ul>
 </li>
 <li>
@@ -337,6 +362,15 @@
 </ul>
 </li>
 <li>
+<p>Hide 'Host' Text</p>
+<ul>
+<li>
+<font color=green>ON</font>: The 'Host' text before your name will be hidden</li>
+<li>
+<font color=red>OFF</font>: The 'Host' text before your name will be visible</li>
+</ul>
+</li>
+<li>
 <p>Hide Game Settings</p>
 <ul>
 <li>
@@ -350,6 +384,24 @@
 <ul>
 <li>
 <font color=green>ON</font>: players can <code v-pre>/color</code> to change their Bean Color</li>
+<li>
+<font color=red>OFF</font>: players cannot change it with the command and have to do it normally</li>
+</ul>
+</li>
+<li>
+<p>Players can use the <code v-pre>/quit</code> command to leave the lobby forever</p>
+<ul>
+<li>
+<font color=green>ON</font>: Players can use the <code v-pre>/quit</code> command to leave the lobby forever</li>
+<li>
+<font color=red>OFF</font>: Players cannot use the <code v-pre>/quit</code> command to leave the lobby forever</li>
+</ul>
+</li>
+<li>
+<p>Players can use the <code v-pre>/rn</code> command</p>
+<ul>
+<li>
+<font color=green>ON</font>: players can <code v-pre>/rn</code> to change their Name.</li>
 <li>
 <font color=red>OFF</font>: players cannot change it with the command and have to do it normally</li>
 </ul>
@@ -410,6 +462,14 @@
 </ul>
 </li>
 <li>
+<font color=red>Disable AntiBlackout Protects (Recommeneded for testing)</font><ul>
+<li>
+<font color=green>ON</font>: AntiBlackout Protects will be disabled</li>
+<li>
+<font color=red>OFF</font>: AntiBlackout Protects will not be disabled</li>
+</ul>
+</li>
+<li>
 <p>Role Assigning Algorithm</p>
 <ul>
 <li>These just change how roles are randomly assigned. You can choose between:
@@ -428,6 +488,8 @@
 <li>Set the appearance of how Camouflage looks when communications are sabotaged
 <ul>
 <li>Default - Everyone appears grey</li>
+<li>Random - Everyone appears grey</li>
+<li>Only Random Color - Everyone appears grey</li>
 <li>
 <font color=#ffff00>Host</font> - Everyone appears as the host's skin</li>
 <li>
@@ -441,7 +503,7 @@
 <li>
 <font color=#9e2424>ryuk</font> - Everyone appears as ryuk's skin (a lead contributor)</li>
 <li>
-<font color=#fffff>Gurge44</font> - Everyone appears as Gurge44's skin (a lead contributor/TOHE+ Dev)</li>
+<font color=#fffff>Gurge44</font> - Everyone appears as Gurge44's skin (a lead contributor/EHR Dev)</li>
 <li>
 <font color=#ec7578>TommyXL</font> - Everyone appears as TommyXL's skin (a lead contributor)</li>
 </ul>

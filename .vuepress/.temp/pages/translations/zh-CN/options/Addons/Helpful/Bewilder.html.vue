@@ -1,6 +1,6 @@
 <template><div><h1 id="🤪-bewilder" tabindex="-1"><a class="header-anchor" href="#🤪-bewilder"><span><font color=#c894f5>🤪 <b>Bewilder</b></font> <Badge text="Helpful" type="tip" vertical="middle"/></span></a></h1>
 <hr>
-<p>The <font color=red>Impostor</font> won't be Bewilder. Bewilder may have a smaller/bigger vision depends on the host settings. When the Bewilder is killed, the murderer's vision will become as small/big as the Bewilder.</p>
+<p>The <font color=red>Impostors</font> won't be Bewilder. Bewilder may have a smaller/bigger vision depends on the host settings. When the Bewilder is killed, the murderer's vision will become as small/big as the Bewilder.</p>
 <ul>
 <li>Max
 <ul>

@@ -2,7 +2,91 @@
 <hr>
 <p>To access Dev Builds, become a Sponsor on <a href="https://ko-fi.com/tohen" target="_blank" rel="noopener noreferrer">Ko-Fi<ExternalLinkIcon/></a> (at least Insider), <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank" rel="noopener noreferrer">Contribute<ExternalLinkIcon/></a> to the Mod, or become a [Tester] (Content Creator with your TOHE videos having 600+ views on average).</p>
 <hr>
-<h2 id="latest-v2-0-0-dev-22" tabindex="-1"><a class="header-anchor" href="#latest-v2-0-0-dev-22"><span><font size=5em><b>Latest: v2.0.0 Dev 22</b></font><br></span></a></h2>
+<h2 id="latest-v2-0-0-dev-25" tabindex="-1"><a class="header-anchor" href="#latest-v2-0-0-dev-25"><span><font size=5em><b>Latest: v2.0.0 Dev 25</b></font><br></span></a></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed assign tasks<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when icons not showing for non-host modded players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Knight Cooldown<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Swapper and Councillor for non-host modded<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Traitor<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Shaman<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Lovers assign<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bloodlust<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Provocateur<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Virus<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some null errors<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved showing role info for vanilla players<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Evil Tracker and Kamikaze RPC for non-host modded players<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added delay for sending messages for fortegreen players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Eraser<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Gangser<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Reset Sheriff and Knight cooldown if it has no more kills<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed double trigger for Vampire<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Disable lobby timer on modded servers (no need this)<br></p>
+</li>
+</ul>
+<h2 id="v2-0-0-dev-24-hotfix-1" tabindex="-1"><a class="header-anchor" href="#v2-0-0-dev-24-hotfix-1"><span><font size=5em><b>v2.0.0 Dev 24 HOTFIX 1</b></font><br></span></a></h2>
+<ul>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken camouflage (temporarily revert some improvements for EAC)<br></li>
+</ul>
+<h2 id="v2-0-0-dev-24" tabindex="-1"><a class="header-anchor" href="#v2-0-0-dev-24"><span><font size=5em><b>v2.0.0 Dev 24</b></font><br></span></a></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed assign Lovers<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Phantom now cannot be Infected by Virus<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Ruthless Romantic is now Neutral Evil<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed black screens during role assign (I hope)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Scientist assign for desync roles (I hope)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed uses remaining sprite (for Vector and QuickShooter)<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed all Duplicate Icons<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bloodmoon<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvements for EAC<br></p>
+</li>
+<li>
+<p>By <a href="#"><strong>WaterPanda</strong></a><br>
+= <font color=#32CD32><b>TYPOS</b></font>: Fixed some typos and descriptions<br></p>
+</li>
+</ul>
+<h2 id="v2-0-0-dev-23" tabindex="-1"><a class="header-anchor" href="#v2-0-0-dev-23"><span><font size=5em><b>v2.0.0 Dev 23</b></font><br></span></a></h2>
+<ul>
+<li>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Now at the end of the game, players who left the game after death will display the real death reason and after the reason &quot;(Disconnected)&quot;<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed the vent icon for some roles that are based on engineer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mimic cooldown for Glitch<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Crusader<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed double icons for shrouded players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Zombie<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Glitch errors (kill button did not work)<br></p>
+</li>
+<li>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added lobby timer in &quot;template.txt&quot;<br></p>
+</li>
+</ul>
+<h2 id="v2-0-0-dev-22" tabindex="-1"><a class="header-anchor" href="#v2-0-0-dev-22"><span><font size=5em><b>v2.0.0 Dev 22</b></font><br></span></a></h2>
 <ul>
 <li>
 <p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a><br>
@@ -263,7 +347,7 @@
 </li>
 <li>
 <p>By <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>0xDrMoe</strong><ExternalLinkIcon/></a><br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Fixed several typos, inconsistencies and mistakes in the mod itself!<br></p>
+= <font color=#32CD32><b>TYPOS</b></font>: Fixed several typos, inconsistencies and mistakes in the mod itself!<br></p>
 </li>
 </ul>
 <h2 id="v2-0-0-dev-9" tabindex="-1"><a class="header-anchor" href="#v2-0-0-dev-9"><span><font size=5em><b>v2.0.0 Dev 9</b></font><br></span></a></h2>
@@ -312,7 +396,7 @@
 </li>
 <li>
 <p>By <a href="#"><strong>Sunnyboi</strong></a><br>
-= <font color=#32CD32><b>TYPO</b></font>: Fix typos in English translations<br></p>
+= <font color=#32CD32><b>TYPOS</b></font>: Fix typos in English translations<br></p>
 </li>
 <li>
 <p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>

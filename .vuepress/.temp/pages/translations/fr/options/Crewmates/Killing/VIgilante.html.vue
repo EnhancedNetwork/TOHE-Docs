@@ -1,6 +1,6 @@
 <template><div><h1 id="🤺-vigilante" tabindex="-1"><a class="header-anchor" href="#🤺-vigilante"><span><font color="#9304c1">🤺 <b>Vigilante</b></font> <Badge text="Killing" type="tip" vertical="middle"/></span></a></h1>
 <hr>
-<p>The Vigilante is tasked with eliminating potential threats to the crew, but if they mistakenly kill an innocent crew member, they become a Madmate driven by guilt and remorse.<br>
+<p>The Vigilante is tasked with eliminating potential threats to the crew, but if they mistakenly kill an innocent Crewmate, they become a Madmate driven by guilt and remorse. <br>
 Note: Gangster can not convert Vigilante into madmate.</p>
 <ul>
 <li>Max

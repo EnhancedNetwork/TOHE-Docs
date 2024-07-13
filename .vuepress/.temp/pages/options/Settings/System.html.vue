@@ -503,7 +503,7 @@
 <li>
 <font color=#9e2424>ryuk</font> - Everyone appears as ryuk's skin (a lead contributor)</li>
 <li>
-<font color=#fffff>Gurge44</font> - Everyone appears as Gurge44's skin (a lead contributor/TOHE+ Dev)</li>
+<font color=#fffff>Gurge44</font> - Everyone appears as Gurge44's skin (a lead contributor/EHR Dev)</li>
 <li>
 <font color=#ec7578>TommyXL</font> - Everyone appears as TommyXL's skin (a lead contributor)</li>
 </ul>

@@ -1,4 +1,4 @@
-<template><div><h1 id="🔥-lighter" tabindex="-1"><a class="header-anchor" href="#🔥-lighter"><span><font color="#eee5be">🔥 <b>Lighter</b></font> <Badge text="Support" type="tip" vertical="middle"/></span></a></h1>
+<template><div><h1 id="🔦-lighter" tabindex="-1"><a class="header-anchor" href="#🔦-lighter"><span><font color="#eee5be">🔦 <b>Lighter</b></font> <Badge text="Support" type="tip" vertical="middle"/></span></a></h1>
 <hr>
 <p>As the Lighter, you can vent to increase your vision temporarily.<br>
 You have increased vision both when lights are not out and when lights are out.<br>

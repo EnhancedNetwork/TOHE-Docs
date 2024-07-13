@@ -1,6 +1,6 @@
 <template><div><h1 id="🦝-bandit" tabindex="-1"><a class="header-anchor" href="#🦝-bandit"><span><font color="#8B008B">🦝 <b>Bandit</b></font> <Badge text="Killing" type="tip" vertical="middle"/></span></a></h1>
 <hr>
-<p>As the Bandit, use your kill button to steal a player's add-on. Depending on the settings, you may instantly steal the addon or after the meeting starts. After the max number of steals are reached you will be able to kill normally. Additionally, if there are no stealable addons present on the target you will the target.<br><br>
+<p>As the Bandit, use your kill button to steal a player's add-on. Depending on the settings, you may instantly steal the addon or after the meeting starts. After the max number of steals are reached you will be able to kill normally. Additionally, if there are no stealable addons present on the target you will kill the target.<br><br>
 Kill everyone to win.<br><br>
 Note: Cleansed, Last Impostor and Lovers can not be stolen.</p>
 <ul>

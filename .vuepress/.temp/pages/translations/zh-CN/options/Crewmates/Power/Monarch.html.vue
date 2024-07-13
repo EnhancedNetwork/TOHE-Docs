@@ -1,6 +1,9 @@
 <template><div><h1 id="👑-monarch" tabindex="-1"><a class="header-anchor" href="#👑-monarch"><span><font color="#ffa500">👑 <b>Monarch</b></font> <Badge text="Power" type="tip" vertical="middle"/></span></a></h1>
 <hr>
-<p>You can make players Knighted, which gives them an extra vote. You cannot Knight someone with different voting methods, like Mayor/Vindicator/Dictator/Stealer. You cannot Knight the Glitch.</p>
+<p>As the Monarch, you can knight players to give them an extra vote.</p>
+<p>You cannot knight someone who already has extra votes.</p>
+<p>Knighted players appear with a golden name.
+If a knighted player is alive, the Monarch cannot be guessed or exhiled.</p>
 <ul>
 <li>Max
 <ul>

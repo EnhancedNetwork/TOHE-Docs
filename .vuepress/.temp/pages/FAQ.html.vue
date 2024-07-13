@@ -1,11 +1,22 @@
 <template><div><h1 id="faq" tabindex="-1"><a class="header-anchor" href="#faq"><span>FAQ</span></a></h1>
-<h2 id="how-can-i-install-tohe-on-phones-tablets-and-consoles" tabindex="-1"><a class="header-anchor" href="#how-can-i-install-tohe-on-phones-tablets-and-consoles"><span>How can I install TOHE on phones, tablets, and consoles?</span></a></h2>
+<details>
+<summary><b><font color=#d395b4>How can I Install TOHE?</font></b></summary>
+<p>Visit the <RouteLink to="/Install.html">Install</RouteLink> page! This guides you through installing TOHE on etiher Steam or Epic, and also shows you how to install Dev &amp; Canary Builds.</p>
+</details>
+<details>
+<summary><b><font color=#d395b4>How can I install TOHE on phones, tablets, and consoles?</font></b></summary>
 <p>You can only install mods on PC/Computer. You must have the Steam, Epic, or Itch versions of Among Us to download mods. If you have no PC/Computer, you don’t need to worry as, even if you don't have/can't get the mod, you can still join Host-Only mods (such as TOHE, TOH, PL, etc) as long as you have Among Us on any device! You can find the lobbies of these mods to join and play as long as you are on the right game version.</p>
-<h2 id="why-did-i-get-a-pop-up-saying-you-have-been-kicked-by-room" tabindex="-1"><a class="header-anchor" href="#why-did-i-get-a-pop-up-saying-you-have-been-kicked-by-room"><span>Why did I get a pop-up saying &quot;You have been kicked by room&quot;?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>Why did I get a pop-up saying "You have been kicked by room"?</font></b></summary>
 <p>This issue may occur because the room prohibits sending certain messages, such as saying &quot;start&quot; or other variants such as &quot;begin&quot;. Some other causes could be that you weren't logged in, used banned words, had a banned nickname, have been banned before, or you could just be on a blacklisted device, (Check <RouteLink to="/options/Settings/System.html">System Settings</RouteLink>). It may also be caused by EAC anti-cheat. If none of the above is true, then you were probably just kicked out manually by the host, or got vote-kicked by other players. Another reason you may get kicked is just connection issues.</p>
-<h2 id="why-did-i-get-a-pop-up-saying-you-have-been-kicked-by-among-us-official-anti-cheat" tabindex="-1"><a class="header-anchor" href="#why-did-i-get-a-pop-up-saying-you-have-been-kicked-by-among-us-official-anti-cheat"><span>Why did I get a pop-up saying &quot;You have been kicked by Among Us' official anti-cheat&quot;?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>Why did I get a pop-up saying "You have been kicked by Among Us' official anti-cheat"?</font></b></summary>
 <p>The official Among Us anti-cheat system often treats mods as cheats and may kick you out of the game. This situation is unavoidable, and all Host-Only mods have this problem. If you still want to enter a lobby to play, you can only contact the host to reopen the lobby.</p>
-<h2 id="why-has-my-connection-to-the-server-been-interrupted" tabindex="-1"><a class="header-anchor" href="#why-has-my-connection-to-the-server-been-interrupted"><span>Why has my connection to the server been interrupted?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>Why has my connection to the server been interrupted?</font></b></summary>
 <p>If you find that other people can play normally, there are two possibilities:</p>
 <ol>
 <li>
@@ -15,11 +26,17 @@
 <p>It's time for you to replace the accelerator. If a large number of players are reporting this problem, it is because of a bug in the mod, please wait patiently for the fix and update.</p>
 </li>
 </ol>
-<h2 id="why-does-it-say-i-am-unable-to-connect-to-my-among-us-account" tabindex="-1"><a class="header-anchor" href="#why-does-it-say-i-am-unable-to-connect-to-my-among-us-account"><span>Why does it say I am Unable to connect to my Among Us account?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>Why does it say I am Unable to connect to my Among Us account?</font></b></summary>
 <p>There are a few possiblities such as having bad network strength, changing your VPN/VPN instability may also cause this problem. Some solutions are to restart the game, restart the VPN, restarting your router, or restarting the computer entirely.</p>
-<h2 id="why-does-it-say-an-unknown-error-has-occurred-and-your-connection-to-the-server-has-been-interrupted" tabindex="-1"><a class="header-anchor" href="#why-does-it-say-an-unknown-error-has-occurred-and-your-connection-to-the-server-has-been-interrupted"><span>Why does it say &quot;An unknown error has occurred and your connection to the server has been interrupted&quot;?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>Why does it say "An unknown error has occurred and your connection to the server has been interrupted"?</font></b></summary>
 <p>Unfortunately, this is a disconnection caused by a mod error or server error. If possible, please send the log to dev to solve the problem as soon as possible. Of course, this does not rule out your network reasons.</p>
-<h2 id="after-installing-the-tohe-it-is-still-in-vanilla-why" tabindex="-1"><a class="header-anchor" href="#after-installing-the-tohe-it-is-still-in-vanilla-why"><span>After installing the TOHE, it is still in vanilla, why?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>After installing the TOHE, it is still in vanilla, why?</font></b></summary>
 <ol>
 <li>
 <p>This may be caused by your antivirus software identifying the mod as a virus and automatically deleting it. Please try to close the antivirus software and reinstall it.</p>
@@ -28,7 +45,9 @@
 <p>Please make sure that your game path does not contain any non-English, any characters other than English and numbers in the path may cause the mod to fail to load.</p>
 </li>
 </ol>
-<h2 id="how-do-i-get-the-log-file" tabindex="-1"><a class="header-anchor" href="#how-do-i-get-the-log-file"><span>How do I get the log file?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>How do I get the log file?</font></b></summary>
 <p>You have three methods to get log files:</p>
 <ol>
 <li>
@@ -41,15 +60,21 @@
 <p>Please find your Among Us game directory, enter the <code v-pre>Among Us/BepInEx</code> folder, and then you will see a file called <code v-pre>LogOutput.log</code>, this is the log file.</p>
 </li>
 </ol>
-<h2 id="what-is-test-error-lv-x" tabindex="-1"><a class="header-anchor" href="#what-is-test-error-lv-x"><span>What is &quot;Test Error Lv.x&quot;?</span></a></h2>
-<p>Please restart the game.</p>
-<h2 id="the-meeting-cannot-be-end-normally-and-the-lower-left-corner-displays-an-error-please-terminate-the-meeting-manually-what-happened" tabindex="-1"><a class="header-anchor" href="#the-meeting-cannot-be-end-normally-and-the-lower-left-corner-displays-an-error-please-terminate-the-meeting-manually-what-happened"><span>The meeting cannot be end normally, and the lower left corner displays an error: Please terminate the meeting manually, what happened?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>The meeting cannot be end normally, and the lower left corner displays an error: Please terminate the meeting manually, what happened?</font></b></summary>
 <p>This is due to some bugs in the meeting billing that prevent the meeting from ending normally. Please press <kbd>Shift</kbd> + <kbd>M</kbd> + <kbd>Enter</kbd> to end the meeting forcefully. If possible, please send the log file to the devs so that they can solve the problem as soon as possible.</p>
-<h2 id="why-does-the-role-reveal-at-the-start-of-the-game-show-that-i-am-one-role-team-but-in-game-i-am-a-different-role-team" tabindex="-1"><a class="header-anchor" href="#why-does-the-role-reveal-at-the-start-of-the-game-show-that-i-am-one-role-team-but-in-game-i-am-a-different-role-team"><span>Why does the role reveal at the start of the game show that I am one role/team, but in game I am a different role/team?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>Why does the role reveal at the start of the game show that I am one role/team, but in game I am a different role/team?</font></b></summary>
 <p>In order to be compatible with vanilla, Host-only mods have to give you a Impostor base so that you can have the kill button. (Or for some roles, such as Crewpostor, you are an Impostor but your base is Engineer so that you can do Tasks to kill.) So for players who don't have the mod installed, you will see that you are an Impostor with no teammates. The initial team you are on is your role base. Please look at the bottom of your screen on the Role Reveal screen, or above your name in game to see what your actual role/team is.</p>
-<h2 id="what-are-host-only-mods" tabindex="-1"><a class="header-anchor" href="#what-are-host-only-mods"><span>What are Host-Only mods?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>What are Host-Only mods?</font></b></summary>
 <p>Host-Only mods are mods that are compatible with vanilla clients, meaning it only needs to be installed by the host and other players can still play without installing the mod.</p>
-<h2 id="why-does-the-game-end-inexplicably" tabindex="-1"><a class="header-anchor" href="#why-does-the-game-end-inexplicably"><span>Why does the game end inexplicably?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>Why does the game end inexplicably?</font></b></summary>
 <p>The game will end suddenly if there are an equal amount of Impostors alive to Non-Killing players (and the victory condition of a Neutral isn't met), the victory conditions of a Neutral is met, or the Crew is done all of their tasks. Some other possibilities may include:</p>
 <ol>
 <li>
@@ -62,16 +87,24 @@
 <p>The host or a certain player made a fatal error, and the mod forcibly ended the game to prevent the game from being frozen.</p>
 </li>
 <li>
-<p>None of these, make a #bug-report (Include Logs from /dump!)</p>
+<p>None of these, make a <code v-pre>#bug-report</code> (Include Logs from /dump!)</p>
 </li>
 </ol>
-<h2 id="just-after-the-start-it-shows-that-the-host-has-forced-the-end-of-the-game-why" tabindex="-1"><a class="header-anchor" href="#just-after-the-start-it-shows-that-the-host-has-forced-the-end-of-the-game-why"><span>Just after the start, it shows that the host has forced the end of the game, why?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>Just after the start, it shows that the host has forced the end of the game, why?</font></b></summary>
 <p>It's a protection mechanism, just ignore it and keep playing. The reason this occurs is because, there is a bug with Host-Only mods that fails to assign roles. When the bug occurs in the original Town of Host, the host will not be able to see the start button, and other players will be loaded with an infinite black screen. In this case, everyone can only exit the game. In Town of Host: Enhanced, in order to avoid this situation, it will automatically detect whether other players are stuck in loading, and if detected, the game will be automatically terminated to prevent everyone from being stuck.</p>
-<h2 id="most-of-the-screen-is-black-but-i-can-interact-with-the-gui-and-the-sound-can-still-be-heard-what-happened" tabindex="-1"><a class="header-anchor" href="#most-of-the-screen-is-black-but-i-can-interact-with-the-gui-and-the-sound-can-still-be-heard-what-happened"><span>Most of the screen is black, but I can interact with the GUI and the sound can still be heard, what happened?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>Most of the screen is black, but I can interact with the GUI and the sound can still be heard, what happened?</font></b></summary>
 <p>This is caused by the failure of the client to assign roles, and it is also one of the unavoidable problems of Host-Only mods. Unfortunately, when this happens, you have to quit the game or just wait until the game ends.</p>
-<h2 id="why-are-there-are-a-lot-of-duplicate-roles-in-the-game" tabindex="-1"><a class="header-anchor" href="#why-are-there-are-a-lot-of-duplicate-roles-in-the-game"><span>Why are there are a lot of duplicate roles in the game?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>Why are there are a lot of duplicate roles in the game?</font></b></summary>
 <p>This most likely isn't a bug, please make sure the duplicated role has a Maximum of 1 rather than 2-15.</p>
-<h2 id="why-did-i-get-vanilla-roles" tabindex="-1"><a class="header-anchor" href="#why-did-i-get-vanilla-roles"><span>Why did I get vanilla roles?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>Why did I get vanilla roles?</font></b></summary>
 <p>There are a few posibilities</p>
 <ol>
 <li>
@@ -90,7 +123,9 @@
 <p>You may have killed a player with the <RouteLink to="/options/Addons/Mixed/OIIAI.html">OIIAI</RouteLink> Add-on. This is normal in this case, as OIIAI resets their killers role to their base role. (Refer Above)</p>
 </li>
 </ol>
-<h2 id="why-does-the-game-never-end" tabindex="-1"><a class="header-anchor" href="#why-does-the-game-never-end"><span>Why does the game never end?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>Why does the game never end?</font></b></summary>
 <p>There are a few possibilities,</p>
 <ol>
 <li>
@@ -106,25 +141,35 @@
 <p>Nobody has met their victory condition. (This may be obvious but, Impostors haven't killed everyone, Crewmates haven't finished all tasks/exiled all evil roles, etc)</p>
 </li>
 <li>
-<p>None of these, make a #bug-report (Include Logs from /dump!)</p>
+<p>None of these, make a <code v-pre>#bug-report</code> (Include Logs from /dump!)</p>
 </li>
 </ol>
-<h2 id="what-is-game-master-gm" tabindex="-1"><a class="header-anchor" href="#what-is-game-master-gm"><span>What is Game Master/GM?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>What is Game Master/GM?</font></b></summary>
 <p>The Game Master is an observer role.<br>
 Their presence has no effect on the game, and all players know who the Game Master is. The Game Master role will be assigned to the host, who will automatically become a ghost at the start of the game.<br>
 (Note: You can enable this in the Settings Gear. If you want to play normally, disable in again in the Settings Gear)</p>
-<h2 id="how-can-i-access-canary-dev-builds" tabindex="-1"><a class="header-anchor" href="#how-can-i-access-canary-dev-builds"><span>How can I access Canary &amp; Dev Builds?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>How can I access Canary & Dev Builds?</font></b></summary>
 <ol>
 <li>
-<p>Anybody can get Canary Access by visiting #canary-builds in the TOHE Discord.</p>
+<p>Anybody can get Canary Access by visiting <code v-pre>#canary-builds</code> in the TOHE Discord.</p>
 </li>
 <li>
 <p>Become a Contributor, Tester, or Sponsor (Insider+) for Dev Access.<br>
 Read near the bottom of the <RouteLink to="/Install.html">Install</RouteLink> page.</p>
 </li>
 </ol>
-<h2 id="can-you-use-the-submerged-mod-with-tohe" tabindex="-1"><a class="header-anchor" href="#can-you-use-the-submerged-mod-with-tohe"><span>Can you use the Submerged mod with TOHE?</span></a></h2>
+</details>
+<details>
+<summary><b><font color=#d395b4>Why can't I post in #role-ideas in the TOHE Discord?</font></b></summary>
+<p>Role Ideas are currently locked to Sponsors + Contributors. This is so that the Developers/Contributors of TOHE can catch up on role ideas. The channel will open back up at a later date, but there's not a specific time.</p>
+</details>
+<details>
+<summary><b><font color=#d395b4>Can you use the Submerged mod with TOHE?</font></b></summary>
 <p>While this is technically possible, we don't recommend it as Submerged still requires all players to have it installed to play. If you do want to attempt this, we can say that the host would need Town of Host: Enhanced (TOHE) installed (as it's intended for only the host to install), as well as having Submerged installed. All of the people in your lobby could join normally but they would need the Submerged mod installed. (This applies to any custom Among Us map, Submerged is used in the example however, as it's one of the most popular)</p>
-</div></template>
+</details></div></template>
 
 

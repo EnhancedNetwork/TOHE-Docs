@@ -41,14 +41,14 @@
 <li>Reflect harmful interactions
 <ul>
 <li>
-<font color=green>ON</font>: the Serial Killer will be impacted by any harmful interactions</li>
+<font color=green>ON</font>: the Serial Killer will be immune to any harmful interactions</li>
 <li>
-<font color=red>OFF</font>: the Serial Killer will be immune to any harmful interactions</li>
+<font color=red>OFF</font>: the Serial Killer will be impacted by any harmful interactions</li>
 </ul>
 </li>
 </ul>
 <blockquote>
-<p>From: Town of Salem 1 &amp; Coding: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">Loonie Toons<ExternalLinkIcon/></a></p>
+<p>From: Town of Salem 1</p>
 </blockquote>
 </div></template>
 

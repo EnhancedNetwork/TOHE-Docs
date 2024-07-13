@@ -4,7 +4,7 @@
 <ul>
 <li>Max
 <ul>
-<li>Set the Maximum amount of Inhibitor that can be in a match</li>
+<li>Set the Maximum amount of Inhibitors that can be in a match</li>
 </ul>
 </li>
 <li>Kill Cooldown

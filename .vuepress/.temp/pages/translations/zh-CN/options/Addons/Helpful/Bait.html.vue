@@ -1,6 +1,6 @@
 <template><div><h1 id="🪤-bait" tabindex="-1"><a class="header-anchor" href="#🪤-bait"><span><font color=#00f7ff>🪤 <b>Bait</b></font> <Badge text="Helpful" type="tip" vertical="middle"/></span></a></h1>
 <hr>
-<p>When a Bait is killed, the murderer who killed the Bait will be forced to report the Bait's body. However, the skill will be invalid when the Bait is killed by a Scavenger or Cleaner.</p>
+<p>When a Bait is killed, the player who killed the Bait will be forced to report the Bait's body. However, the skill will be invalid when the Bait is killed by a Scavenger or Cleaner.</p>
 <ul>
 <li>Max
 <ul>

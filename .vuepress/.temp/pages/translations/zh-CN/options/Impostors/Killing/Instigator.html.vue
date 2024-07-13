@@ -4,7 +4,7 @@
 <ul>
 <li>Max
 <ul>
-<li>Set the Maximum amount of Instigator’s that can be in a match</li>
+<li>Set the Maximum amount of Instigators that can be in a match</li>
 </ul>
 </li>
 <li>Kill Cooldown

@@ -71,8 +71,8 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Imitator having vanilla cooldown (By: ryuk)<br>
 
 ### 【Translator Credits】<br>
-\+ <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font>: (Dx7405)
-    Dutch (apemv, madmazel_)<br>
+\+ <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font>: (Dx7405)<br>
+\+ <font color=#1e448b><b>Dutch</b></font>: (apemv, madmazel_)<br>
 \+ <font color=#002654><b>French</b></font>: (FuroYT, KevOut, Klaomi, Sansationnelle, Space Monkey)<br>
 \+ <font color=#009344><b>Italian</b></font>: (alot, Baphojack, Mattix606)<br>
 \+ <font color=#bd0029><b>Japanese</b></font>: (Sunnyboi)<br>

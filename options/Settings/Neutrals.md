@@ -17,32 +17,32 @@ next: Addons
 
 <tr>
 <td><font color=#046300><b>🕊️ Benign</b></font></td>
-<td align="center">15</td>
+<td align="center">14</td>
 </tr>
 
 <tr>
 <td><font color=#d4af37><b>😈 Chaos</b></font></td>
-<td align="center">12</td>
+<td align="center">14</td>
 </tr>
 
 <tr>
 <td><font color=#912900><b>👹 Evil</b></font></td>
-<td align="center">7</td>
+<td align="center">8</td>
 </tr>
 
 <tr>
 <td><font color=#4d3222><b>🚧 Experimental</b></font></td>
-<td align="center">1</td>
+<td align="center">2</td>
 </tr>
 
 <tr>
 <td><font color=#b22222><b>🪓 Killing</b></font></td>
-<td align="center">28</td>
+<td align="center">33</td>
 </tr>
 
 <tr>
 <td><font color=#7c8c8d><b>Total:</b></font></td>
-<td align="center"><b>62</b></td>
+<td align="center"><b>73</b></td>
 </tr>
 
 </table>

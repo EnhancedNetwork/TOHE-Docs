@@ -74,9 +74,9 @@ contributors: false
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Install.md` (Now includes both Steam + Epic guides, and has been straightened up.)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Changelogs.md` (Now includes "KNOWN BUGS")<br>
 \+ <font color=green><b>NEW</b></font>: Added `Presets.md` (Instead of cluttering `Resources.md` with future Preset Submissions, Presets will be listed here. Added Marg's Preset & removed 2 out of date Presets (WitchCraft & Moe's Presets which used the old system).<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: More Bios added to `AboutUs.md`. (Still not 100% Complete as we are still missing the Bios of mulitple Contributors. You can see which as they'll have `(Placeholder Bio)` in the place of their Bio.<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: More Bios added to `AboutUs.md`. (Still not 100% Complete as we are still missing the Bios of a few Contributors. You can see which as they'll have `(Placeholder Bio)` in the place of their Bio.<br>
+= <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are finally corrected, thanks Drakos for doing the numbers! No idea what `[None] = Count: 13` still means though.<br>
 = <font color=#1376f0><b>BUG FIXES</b></font>: Many formatting, linking, and spelling fixes/updates.<br>
-= <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are not remotely close to correct, if someone would like to do the math because I am/Pyro is lazy, PLEASE DO! :D thanks!<br>
 = <font color=#fdf08e><b>NOTE</b></font>: Simplified Chinese & French Translations are still in the works. (Sorry Translators, but at least they have their own folder(s) now!)<br>
 = <font color=#ece218><b>NOTICE</b></font>: `zh-CN` and `fr` folders are out of date. (my bad)<br>
 = <font color=#fdf08e><b>NOTE</b></font>: You may realize that there are 3 results of roles if you use the built-in search bar. This is because you are getting a copy for every instance (Currently, `fr` & `zh-CN`) that is not yet translated. (An example being Reverie, even though <i>most</i> roles will display 3 results.)<br>

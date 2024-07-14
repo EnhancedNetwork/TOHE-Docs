@@ -37,27 +37,27 @@ next: Crewmates
 
 <tr>
 <td><font color=#6a0000><b>🔪 Killing</b></font></td>
-<td align="center">27</td>
+<td align="center">30</td>
 </tr>
 
 <tr>
 <td><font color=red><b>😡 Madmate</b></font></td>
-<td align="center">2</td>
+<td align="center">3</td>
 </tr>
 
 <tr>
 <td><font color=#00ffff><b>🫂 Support</b></font> </td>
-<td align="center">13</td>
+<td align="center">14</td>
 </tr>
 
 <tr>
 <td><font color=#8cffff><b>🍦 Vanilla</b></font> </td>
-<td align="center">2</td>
+<td align="center">3</td>
 </tr>
 
 <tr>
 <td><font color=red><b>Total:</b></font></td>
-<td align="center"><b>69</b></td>
+<td align="center"><b>75</b></td>
 </tr>
 
 </table>

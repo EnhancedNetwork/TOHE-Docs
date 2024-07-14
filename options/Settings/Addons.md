@@ -8,7 +8,7 @@ next: /options/settings/Experimental.html
 # <font color="#ff9ace">📋 <b>Add-ons</b></font>
 ---
 
-<b>These are modifiers that any players can acquire. There are some that help you, some that harm you, and some can do both! There are also some <font color=red>Impostor Only</font> add-ons. Each one is unique in the way it affects the player.</b><br>
+<b>These are modifiers that any players can acquire. There are some that help you, some that harm you, and some can do both! There are also some <font color=red>Impostor Only</font> add-ons. Each one is unique in the way it affects the player.<br>Some add-ons are only received from other players, such as Cleansed or Knighted. These are known as Betrayal Add-ons. These will not be covered on this page.</b><br>
 
 <table>
 <tr>
@@ -27,7 +27,7 @@ next: /options/settings/Experimental.html
 
 <tr>
 <td><font color=#00ff00><b>🤑 Helpful</b></font></td>
-<td align="center">19</td>
+<td align="center">21</td>
 </tr>
 
 <tr>
@@ -37,7 +37,7 @@ next: /options/settings/Experimental.html
 
 <tr>
 <td><font color=#a83295><b>⚙️ Miscellaneous</b></font></td>
-<td align="center">5</td>
+<td align="center">6</td>
 </tr>
 
 <tr>
@@ -47,7 +47,7 @@ next: /options/settings/Experimental.html
 
 <tr>
 <td><font color=#ff9ace><b>Total:</b></font></td>
-<td align="center"><b>58 (+1)</b></td>
+<td align="center"><b>72</b></td>
 </tr>
 
 </table>

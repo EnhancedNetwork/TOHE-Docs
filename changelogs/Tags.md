@@ -12,7 +12,7 @@ sidebar:
 # Recently Added Tags
 ---
 
-\+ <font color=#12edaf><b>RENAMED</b></font>: Mixture of NEW, CHANGE, & TYPO, (mostly used for Role Renames). <br>
+\+ <font color=#12edaf><b>RENAMED</b></font>: Mixture of NEW, CHANGE, & TYPO, (mostly used for Role Renames/Page Renames). <br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Bugs that are currently being worked on, or are not currently resolvable.<br>
 
 ---

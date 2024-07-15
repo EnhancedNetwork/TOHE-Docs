@@ -15,14 +15,6 @@ sidebar:
 To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/tohe) and visit #canary-builds, then download the latest dll!
 
 ---
-## <font size=5em><b>Known Bugs</b></font><br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: Hide & Seek is temporarily not supported<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: Changing the game mode in the settings sometimes does not remove some settings that are not used in the mode<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: When changing presets, the settings are not updated instantly, you MUST close and reopen the settings<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: When dlekS ehT is selected, the game lags in the lobby for vanilla players (during the game everything works fine)<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: EAC may not work in some places<br>
-
 ## <font size=5em><b>Latest: v2.0.0 Canary 9</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Phantom For Desync Roles (Note: To fix the Phantom, the Phantom is entered to the vent for desync roles, so it may not work stably)<br>

@@ -17,7 +17,7 @@ sidebar:
 
 ---
 
-# Main Changelog Tags
+# All Tags
 ---
 
 \- <font color=red><b>REMOVED</b></font>: Features recently deleted from the Mod/Site. <br>

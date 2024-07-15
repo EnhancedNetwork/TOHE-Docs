@@ -53,7 +53,7 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, or I
 4. Select all of the files in your Among Us installation and copy them to the folder that now has the files from the TOHE release. The folder should now look something like this:<br>
 ![image](./images/EpicFiles.png)
 
-5. Within the TOHE folder, run `EpicGamesStarter.exe`. The first time running it may take some time while installing a prerequisite and the mod sets up its files. If you see a black screen or a console window, just wait a couple minutes. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.
+5. Within the TOHE folder, run `EpicGamesStarter.exe` ([Download Here](https://github.com/whichtwix/EpicGamesStarter/releases/tag/1.0.2) & Follow instructions on page.) The first time running it may take some time while installing a prerequisite and the mod sets up its files. If you see a black screen or a console window, just wait a couple minutes. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.
 
 6. Add the folder you put the mod and among us files in as a exclusion for any antivirus you have and windows defender.
 

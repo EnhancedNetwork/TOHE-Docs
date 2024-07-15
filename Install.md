@@ -20,7 +20,7 @@ This policy is in place to keep the integrity of our Sponsor, Contributor, & Tes
 
 Installation requires that you own a PC version of Among Us on Steam, Epic, or Itch. 
 </details>
-
+<br>
 <details>
 <summary><b><font color=#d395b4>Install TOHE for</font> <font color=#14356a>Steam</font></b></summary>
 
@@ -39,7 +39,7 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, or I
 6. `(Optional)` Right click your `Among Us.exe` and click '`Create shortcut`'. Move your new shortcut to wherever you can easily access it, such as your Desktop!
 #### You have now installed Town of Host: Enhanced! All that remains is to start up a private lobby and customize your settings.
 </details>
-
+<br>
 <details>
 <summary><b><font color=#d395b4>Install TOHE for</font> <font color=#343434>Epic Games</font></b></summary>
 
@@ -61,9 +61,9 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, or I
 
 #### You have now installed Town of Host: Enhanced! All that remains is to start up a private lobby and customize your settings.
 
-> PS: Thanks Twix.
+> From: Twix
 </details>
-
+<br>
 <details>
 <summary><b><font color=#d395b4>New Releases</font></b></summary>
 
@@ -72,7 +72,7 @@ If it says it requires a newer version of Among Us, repeat steps 3-5 as well aft
 In some cases, the <b>Latest</b>> TOHE Builds are Canary or Dev Builds. Follow the first step in the below guide to get Dev/Canary Builds. Stable builds will always be the latest, unless a Canary build has a higher version number, unless a Dev build has a higher version number than the Canary version.<br>
 (Ex: 1.6.0 Stable -> 2.0.0 Dev 2 -> 2.0.0 Canary 1 -> 2.0.0 Stable)
 </details>
-
+<br>
 <details>
 <summary><b><font color=#d395b4>How to get</font> <font color=#8a2be2>Dev Builds</font></b></summary>
 
@@ -84,13 +84,13 @@ In some cases, the <b>Latest</b>> TOHE Builds are Canary or Dev Builds. Follow t
 
 Visit `#dev-builds` in the [TOH: Enhanced Discord](https://discord.gg/tohe) once you have been accepted into one of the above roles, and download the latest dll!
 </details>
-
+<br>
 <details>
 <summary><b><font color=#d395b4>How to get</font> <font color=#ffef00>Canary Builds</font></b></summary>
 
 * Visit `#canary-builds` in the [TOH: Enhanced Discord](https://discord.gg/tohe), and download the latest dll!
 </details>
-
+<br>
 <details>
 <summary><b><font color=#d395b4>Install</font> <font color=#8a2be2>Dev</font> <font color=#d395b4>&</font> <font color=#ffef00>Canary Builds</font></b></summary>
 

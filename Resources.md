@@ -92,6 +92,7 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 </tr>
 </table>
 </details>
+<br>
 <details>
 <summary><b><font color=red>Mod-Only</font></b></summary>
 <table>
@@ -129,6 +130,7 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 </tr>
 </table>
 </details>
+<br>
 <details>
 <summary><b><font color=red>Everyone</font></b></summary>
 <table>
@@ -145,6 +147,7 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 
 > From: The Enhanced Network + Pyro0TV
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Chat Commands</font></b></summary>
 
@@ -213,6 +216,7 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 </tr>
 </table>
 </details>
+<br>
 <details>
 <summary><b><font color=red>Mod-Only</font></b></summary>
 <table>
@@ -238,6 +242,7 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 </tr>
 </table>
 </details>
+<br>
 <details>
 <summary><b><font color=red>Host-Only</font></b></summary>
 <table>
@@ -291,6 +296,7 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 </tr>
 </table>
 </details>
+<br>
 <details>
 <summary><b><font color=red>Moderator-Only</font></b></summary>
 <table>
@@ -327,6 +333,7 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 
 > From: The Enhanced Network + Pyro0TV
 </details>
+<br>
 <details>
 <summary><b><font color=gray>TOHE-DATA Info</font></b></summary>
 
@@ -350,6 +357,7 @@ There are a few files:
 
 > From: The Enhanced Network + Pyro0TV
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Templates Info</font></b></summary>
 
@@ -384,6 +392,7 @@ If you create copies of the template name on newlines, it will send them in sepe
 
 > From: Pyro0TV + Drakos
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Template Editor</font></b></summary>
 
@@ -394,6 +403,7 @@ The Template Editor is only 1 of the many Utilities (Also by Drakos) which are o
 
 > From: Drakos
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Valid Variables</font></b></summary>
 
@@ -420,6 +430,7 @@ The Template Editor is only 1 of the many Utilities (Also by Drakos) which are o
 
 > From: The Enhanced Network + Pyro0TV
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Text Formatting</font></b></summary>
 
@@ -436,6 +447,7 @@ The Template Editor is only 1 of the many Utilities (Also by Drakos) which are o
 
 > From: The Enhanced Network + Pyro0TV
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Supported Rich Text Tags</font></b></summary>
 
@@ -444,6 +456,7 @@ Here's a full list of Rich Text Tags that you can use for formatting. Some may n
 
 > From: Unity Technologies
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Usable Fonts/Symbols</font></b></summary>
 
@@ -452,6 +465,7 @@ Here's a Doc covering Fonts & Symbols that you can use while creating Templates!
 
 > From: Drakos
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Original Role Colors (Hex Codes)</font></b></summary>
 
@@ -459,6 +473,7 @@ You can find the <i>original</i> Hex Codes of TOHE Roles [Here](https://github.c
 
 > From: The Enhanced Network
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Presets Info</font></b></summary>
 
@@ -470,6 +485,7 @@ For some member submitted presets, browse [here](/Presets.html)
 
 > From: Pyro0TV
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Death Reasons</font></b></summary>
 
@@ -653,6 +669,7 @@ Bug (This Death Reason occured awhile ago due to bugs, but has since been patche
 
 > From: Marg
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Icons: Explained</font></b></summary>
 <table>

@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: Game Settings
+title: Mod Settings
 prev: System
 next: Modifiers
 ---

@@ -462,7 +462,7 @@ export default defineUserConfig({
           '/options/Settings/': [
             { text: 'Custom Settings', link: '/options/Settings/Custom.html' },
             { text: 'System Settings', link: '/options/Settings/System.html' },
-            { text: 'Game Settings', link: '/options/Settings/Game.html' },
+            { text: 'Mod Settings', link: '/options/Settings/Mod.html' },
             { text: 'Game Modifiers', link: '/options/Settings/Modifiers.html' },
             { text: 'Impostors', link: '/options/Settings/Impostors.html' },
             { text: 'Crewmates', link: '/options/Settings/Crewmates.html' },

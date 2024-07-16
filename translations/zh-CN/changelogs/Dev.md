@@ -11,7 +11,7 @@ sidebar:
 
 # Dev Changelogs
 ---
-To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester] (Content Creator with your TOHE videos having 600+ views on average).
+To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohe) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester] (Content Creator with your TOHE videos having 600+ views on average).
 
 ---
 ## <font size=5em><b>Latest: v2.0.0 Dev 25</b></font><br>

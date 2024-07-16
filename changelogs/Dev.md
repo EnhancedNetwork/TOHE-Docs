@@ -15,7 +15,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 ---
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 25</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.0.0 Dev 25</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed assign tasks<br>

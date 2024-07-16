@@ -15,7 +15,7 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 
 ---
 <details>
-<summary><b><font color=#d395b4>v1.6.0</font></b></summary>
+<summary><b><font color=#cf4e8f>v1.6.0</font></b></summary>
 
 * <font size=3em><font color=green><b>NEW ADDONS</b></font></font><br>
 \+ <font color=green><b>NEW</b></font>: Statue (Harmful Addon - By: Drakos, Idea: spong)<br>

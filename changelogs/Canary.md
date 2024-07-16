@@ -15,7 +15,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 
 ---
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 9</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.0.0 Canary 9</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Phantom For Desync Roles (Note: To fix the Phantom, the Phantom is entered to the vent for desync roles, so it may not work stably)<br>

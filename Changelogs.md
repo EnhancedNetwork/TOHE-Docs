@@ -28,7 +28,7 @@ contributors: false
 </details>
 <br>
 <details>
-<summary><b><font color=#de6707>TOHE v2.0.0 Canary 9 Changelogs</font></b></summary>
+<summary><b><font color=#d395b4>TOHE v2.0.0 Canary 9 Changelogs</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Phantom For Desync Roles (Note: To fix the Phantom, the Phantom is entered to the vent for desync roles, so it may not work stably)<br>
@@ -60,7 +60,7 @@ contributors: false
 </details>
 <br>
 <details>
-<summary><b><font color=#de6707>Site Changelogs/Updates</font></b></summary>
+<summary><b><font color=#12edaf>Site Changelogs/Updates</font></b></summary>
 
 * By [**Pyro**](https://sites.google.com/view/pyro0tv)<br>
 = <font color=#ece218><b>NOTICE</b></font>: Updated to v2.0.0 Canary 8<br>

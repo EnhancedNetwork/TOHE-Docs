@@ -343,7 +343,6 @@ export default defineUserConfig({
           ],
           '/options/Impostors/Madmate/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
-            { text: 'Convict', link: '/options/Impostors/Madmate/Convict.html' },
             { text: 'Crewposter', link: '/options/Impostors/Madmate/Crewposter.html' },
             { text: 'Parasite', link: '/options/Impostors/Madmate/Parasite.html' },
             { text: 'Refugee', link: '/options/Impostors/Madmate/Refugee.html' },

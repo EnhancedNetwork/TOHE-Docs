@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/fr/options/Neutrals/Killing/Wraith.html.vue"
-const data = JSON.parse("{\"path\":\"/translations/fr/options/Neutrals/Killing/Wraith.html\",\"title\":\"Wraith\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Wraith\",\"prev\":\"Werewolf\",\"next\":\"/options/settings/Neutrals.html\"},\"headers\":[],\"git\":{\"updatedTime\":1713123059000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"translations/fr/options/Neutrals/Killing/Wraith.md\"}")
-export { comp, data }

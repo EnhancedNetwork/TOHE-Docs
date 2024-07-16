@@ -10,8 +10,6 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 :::
 
-<font size=4em>Almost finished! Some "About" dropdowns may have (Placeholder) Bios</font>
-
 ## President
 
 [**Moe**](https://github.com/0xDrMoe): <font color=#ff8000>President, Website Maintainer/Developer</font>
@@ -139,7 +137,7 @@ I initially started coding for mod to host public modded rooms, especially when 
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+Coded many Roles and Features. (placeholder)
 </details>
 
 ---
@@ -324,7 +322,7 @@ I'm a Portuguese Brazil Translator. I'm also a Friday Night Funkin coder, & I ma
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+Helped Translate TOHE into French. (placeholder)
 </details>
 
 ---
@@ -342,7 +340,7 @@ Well I'm having a bad time at school. I like gaming as Undertale and being lazy 
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+Helped Translate TOHE into French. (placeholder)
 </details>
 
 ---

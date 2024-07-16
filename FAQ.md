@@ -25,12 +25,11 @@ Make sure you are on the latest version. The latest on our GitHub (TOHE v1.6.0) 
 </details>
 <br>
 <details>
-<summary><b><font color=#d395b4>Why didn't TOHE load and give the pop-up "Fatal Error in GC" that says "Collecting from unknown thread"?</font></b></summary>
+<summary><b><font color=#d395b4>Why didn't TOHE load and give the pop-up "Fatal Error in GC: Collecting from unknown thread"?</font></b></summary>
 
 This can randomly happen due to errors in the code. Re-installing TOHE + Re-pasting your Vanilla Among Us files will allow you to play again. If this happens constantly, please be patient as Developers are aware of this error. PS: Make sure you copy important files before re-installing (such as files in your Language folder, TOHE-Data folder, etc).
 </details>
 <br>
-
 <details>
 <summary><b><font color=#d395b4>Why did I get a pop-up saying "You have been kicked by room"?</font></b></summary>
 

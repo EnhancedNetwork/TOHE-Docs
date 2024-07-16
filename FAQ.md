@@ -19,6 +19,12 @@ You can only install mods on PC/Computer. You must have the Steam, Epic, or Itch
 </details>
 <br>
 <details>
+<summary><b><font color=#d395b4>Why doesn't TOHE load?</font></b></summary>
+
+Make sure you are on the latest version. The latest on our GitHub (TOHE v1.6.0) doesn't work by itself anymore. Among Us has updated a lot of things which makes TOHE broken. If you wish to play TOHE again, download the latest canary build in the #canary-builds channel. For help with doing that, read the [Install](/Install.html) page. (This Question is only here until `v2.0.0 Stable` is released)
+</details>
+<br>
+<details>
 <summary><b><font color=#d395b4>Why did I get a pop-up saying "You have been kicked by room"?</font></b></summary>
 
 This issue may occur because the room prohibits sending certain messages, such as saying "start" or other variants such as "begin". Some other causes could be that you weren't logged in, used banned words, had a banned nickname, have been banned before, or you could just be on a blacklisted device, (Check [System Settings](/options/Settings/System.html)). It may also be caused by EAC anti-cheat. If none of the above is true, then you were probably just kicked out manually by the host, or got vote-kicked by other players. Another reason you may get kicked is just connection issues.

@@ -240,7 +240,7 @@ The Sheriff can kill any Non-Crew player. If the Sheriff tries tries to kill a C
 * Doomsayer
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
-* Masochist
+* Punching Bag
   * <font color=green>ON</font>: This role can be shot by the Sheriff
   * <font color=red>OFF</font>: This role will be treated like how a <font color=#8cffff>Crewmate</font> is when they are shot by the Sheriff
 * Shroud

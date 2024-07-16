@@ -5,7 +5,7 @@ prev: Admirer
 next: Copycat
 ---
 
-# <font color="#4682B4">👨‍✈️ Captain</font> <Badge text="Power" type="tip" vertical="middle"/>
+# <font color="#4682B4">👨‍✈️ <b>Captain</b></font> <Badge text="Power" type="tip" vertical="middle"/>
 ---
 
 With each completed task, the Captain gains the power to slow down a random non crew role. Crewmates can see <font color="#4682B4">☆</font> besides captain's name.<br><br>

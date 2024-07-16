@@ -344,7 +344,7 @@ export default defineUserConfig({
           ],
           '/options/Impostors/Madmate/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
-            { text: 'Crewposter', link: '/options/Impostors/Madmate/Crewposter.html' },
+            { text: 'Crewpostor', link: '/options/Impostors/Madmate/Crewpostor.html' },
             { text: 'Parasite', link: '/options/Impostors/Madmate/Parasite.html' },
             { text: 'Refugee', link: '/options/Impostors/Madmate/Refugee.html' },
           ],
@@ -419,7 +419,7 @@ export default defineUserConfig({
                 { text: 'Sunnyboy', link: '/options/Neutrals/Evil/Sunnyboy.html' },
               ]
             },
-            { text: 'Masochist', link: '/options/Neutrals/Evil/Masochist.html' },
+            { text: 'Punching Bag', link: '/options/Neutrals/Evil/PunchingBag.html' },
             { text: 'Seeker', link: '/options/Neutrals/Evil/Seeker.html' },
           ],
           '/options/Neutrals/Experimental/': [

@@ -5,7 +5,7 @@ prev: /options/settings/Addons.html
 next: /options/settings/Addons.html
 ---
 
-# <font color=#fb749b>💡 <b>Glow</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
+# <font color=#e3f147>💡 <b>Glow</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
 ---
 
 During lights out, you & players nearby you will receive a vision boost.

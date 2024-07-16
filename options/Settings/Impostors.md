@@ -98,7 +98,7 @@ next: /Roles.html
 
 ### <font color=#8cffff><b>Vanilla</b></font>
 ---
-[Impostor](/options/Impostors/Vanilla/Impostor.html)| [Phantom](/options/Phantom/Vanilla/Shapeshifter.html) | [Shapeshifter](/options/Impostors/Vanilla/Shapeshifter.html)
+[Impostor](/options/Impostors/Vanilla/Impostor.html) | [Phantom](/options/Phantom/Vanilla/Shapeshifter.html) | [Shapeshifter](/options/Impostors/Vanilla/Shapeshifter.html)
 <br>
 
 <br>

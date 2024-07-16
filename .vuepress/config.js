@@ -323,6 +323,7 @@ export default defineUserConfig({
             { text: 'Cursed Wolf', link: '/options/Impostors/Killing/CursedWolf.html' },
             { text: 'Deathpact', link: '/options/Impostors/Killing/Deathpact.html' },
             { text: 'Evil Guesser', link: '/options/Impostors/Killing/EvilGuesser.html' },
+            { text: 'Evil Hacker', link: '/options/Impostors/Killing/EvilHacker.html' },
             { text: 'Evil Tracker', link: '/options/Impostors/Killing/EvilTracker.html' },
             { text: 'Greedy', link: '/options/Impostors/Killing/Greedy.html' },
             { text: 'Hangman', link: '/options/Impostors/Killing/Hangman.html' },

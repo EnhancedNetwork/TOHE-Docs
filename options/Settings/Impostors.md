@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Impostors
-prev: Modifiers
-next: Crewmates
+prev: /Roles.html
+next: /Roles.html
 ---
 
 # <font color=red>🦹‍♂️ <b>Impostor Roles</b></font>

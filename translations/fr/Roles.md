@@ -2,7 +2,7 @@
 lang: en-US
 title: Roles
 sidebar:
-- { text: Custom Settings, link: /options/Settings/Custom.html}
+- { text: Game Settings, link: /options/Settings/Game.html}
 - { text: System Settings, link: /options/Settings/System.html}
 - { text: Mod Settings, link: /options/Settings/Mod.html}
 - { text: Game Modifiers, link: /options/Settings/Modifiers.html}

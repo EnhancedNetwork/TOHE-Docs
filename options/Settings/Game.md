@@ -1,11 +1,11 @@
 ---
 lang: en-US
-title: Custom Settings
-prev: /Roles
-next: Impostors
+title: Game Settings
+prev: /Roles.html
+next: /Roles.html
 ---
 
-# <font color=#ffc0cb>⭐ Custom Settings</font>
+# <font color=#ffc0cb>⭐ Game Settings</font>
 ---
 
 * Recommended Settings

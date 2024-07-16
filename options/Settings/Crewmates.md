@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Crewmates
-prev: Impostors
-next: Neutrals
+prev: /Roles.html
+next: /Roles.html
 ---
 
 # <font color="#8cffff">🦸‍♂️ <b>Crewmate Roles</b></font>

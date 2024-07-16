@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Add-ons
-prev: /options/settings/Neutrals.html
-next: /options/settings/Experimental.html
+prev: /Roles.html
+next: /Roles.html
 ---
 
 # <font color="#ff9ace">📋 <b>Add-ons</b></font>

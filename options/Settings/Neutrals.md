@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Neutrals
-prev: Crewmates
-next: Addons
+prev: /Roles.html
+next: /Roles.html
 ---
 
 # <font color="#7f8c8d">🥷 <b>Neutral Roles</b></font>

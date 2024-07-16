@@ -75,6 +75,7 @@ contributors: false
 \+ <font color=#12edaf><b>RENAMED</b></font>: `GetStarted.md` has been renamed to `Install.md`<br>
 \+ <font color=#12edaf><b>RENAMED</b></font>: `Advanced.md` has been renamed to `Resources.md`<br>
 \+ <font color=#12edaf><b>RENAMED</b></font>: `Game.md` has been renamed to `Mod.md`<br>
+\+ <font color=#12edaf><b>RENAMED</b></font>: `Custom.md` has been renamed to `Game.md`<br>
 \+ <font color=#12edaf><b>RENAMED</b></font>: `vote.md` has been capitalized to `Vote.md`.<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Resources.md` (Includes more Resources to look through, such as Commands/HotKeys like before, as well as Death Reasons + why they occur, and more.)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `FAQ.md` (Questions are now sorted in drop-down boxes.)<br>

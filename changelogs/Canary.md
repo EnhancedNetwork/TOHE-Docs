@@ -14,6 +14,7 @@ sidebar:
 To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/tohe) and visit #canary-builds, then download the latest dll!
 
 ---
+<font size=4em>
 <details>
 <summary><b><font color=#cf4e8f>v2.0.0 Canary 9</font></b></summary>
 
@@ -917,3 +918,4 @@ v1.5.1 Canary 1(Pre-Release)
 * <font color=#8708c7><b>TRANSLATIONS</b></font>: Added support for more Translations!<br>
 \+ <font color=#009b3a><b>Portuguese (Brazil)</b></font> is now Supported. (by [**Reginaldoo**](#), [**Dopzy**](#), & [**Arc**](#))
 </details>
+</font>

@@ -6,6 +6,7 @@ contributors: false
 
 # FAQ
 
+<font size=4em>
 <details>
 <summary><b><font color=#d395b4>How can I Install TOHE?</font></b></summary>
 
@@ -194,3 +195,4 @@ Role Ideas are currently locked to Sponsors + Contributors. This is so that the 
 
 While this is technically possible, we don't recommend it as Submerged still requires all players to have it installed to play. If you do want to attempt this, we can say that the host would need Town of Host: Enhanced (TOHE) installed (as it's intended for only the host to install), as well as having Submerged installed. All of the people in your lobby could join normally but they would need the Submerged mod installed. (This applies to any custom Among Us map, Submerged is used in the example however, as it's one of the most popular)
 </details>
+</font>

@@ -13,6 +13,7 @@ contributors: false
 If you are a content creator, you may use these builds in your videos, but you may not provide a download link for your viewers. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked.<br><br>
 This policy is in place to keep the integrity of our Sponsor, Contributor, & Tester roles. If you are interested in becoming one of these roles, please see the below sections for more information.</b><br><br><br>
 
+<font size=4em>
 <details>
 <summary><b><font color=#d395b4>How to get Stable Builds</font></b></summary>
 
@@ -103,3 +104,4 @@ Visit `#dev-builds` in the [TOH: Enhanced Discord](https://discord.gg/tohe) once
 4. `(Notice)` If there is a Hot-Fix of the Dev/Canary Build you don't have yet, download the Main Build rather than the Hot-Fix, and run it. You may download the Hot-Fix afterwards. (This is optional too, but if you run into issues this is suggested before making a ticket/using `#mod-help`)
 #### You have successfully installed a Dev Build/Canary Build!
 </details>
+</font>

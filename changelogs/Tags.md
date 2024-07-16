@@ -14,6 +14,7 @@ sidebar:
 These are Tags to help you differentiate between Bugs & Changes, Additions & Reworks, Removals & Reverts.
 
 ---
+<font size=4em>
 <details>
 <summary><b><font color=#8708c7>Recently Added Tags</font></b></summary>
 
@@ -54,3 +55,4 @@ These are Tags to help you differentiate between Bugs & Changes, Additions & Rew
 \+ <font color=#056306><b>Portuguese (Portuguese Portugal)</b></font>: Portuguese Translation of the mod.<br>
 \+ <font color=#dc143c><b>Polish</b></font> Polish Translation of the mod.
 </details>
+</font>

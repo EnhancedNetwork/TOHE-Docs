@@ -1,21 +1,20 @@
 ---
 lang: en-US
 title: Canary Changelogs
+sidebarDepth: 1
 sidebar:
 - { text: Latest Changelog, link: /Changelogs.html}
 - { text: Changelogs Tags, link: /changelogs/Tags.html}
-- { text: Previous Stable Changelogs, link: /changelogs/Stable.html}
-- { text: Previous Canary Changelogs, link: /changelogs/Canary.html}
-- { text: Previous Dev Changelogs, link: /changelogs/Dev.html}
+- { text: All Stable Changelogs, link: /changelogs/Stable.html}
+- { text: All Canary Changelogs, link: /changelogs/Canary.html}
+- { text: All Dev Changelogs, link: /changelogs/Dev.html}
 contributors: false
 ---
 
-# Changelogs
----
+## <font size=5em><b>Latest Changelogs:</b></font><br>
 (Only the Latest Changes to Mod/Site will be displayed.)
 
----
-## <font size=5em><b>Latest Changelogs:</b></font><br>
+<font size=4em>
 <details>
 <summary><b><font color=#de6707>Known Bugs</font></b></summary>
 
@@ -84,15 +83,17 @@ contributors: false
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Redid the layout of `Changelogs.md` again. (Now utilizes Dropdown boxes as to not clutter the page, allowing for people to look at the changelogs they care about.)
 = <font color=#ece218><b>NOTICE</b></font>: Relating to the above changes, `Stable.md`, `Canary.md`, & `Dev.md` will be overhauled to utilize dropdown boxes too, but thats a lot more work.
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Fixing Spacing (hopefully) for `FAQ.md`, as well as `Install.md` & `Resources.md`.
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Increased the text size (hopefully) for `FAQ.md`, as well as `Install.md`, `Resources.md`, `Changelogs.md` (`Dev.md`, `Canary.md`, & `Stable.md`), & `Presets.md`.
 \+ <font color=green><b>NEW</b></font>: Added `Presets.md` (Instead of cluttering `Resources.md` with future Preset Submissions, Presets will be listed here. Added Marg's Preset & removed 2 out of date Presets (WitchCraft & Moe's Presets which used the old system).<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: More Bios added to `AboutUs.md`. (Still not 100% Complete as we are still missing the Bios of a few Contributors. You can see which as they'll have `(Placeholder Bio)` in the place of their Bio.<br>
 = <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are finally corrected, thanks Drakos for doing the numbers! No idea what `[None] = Count: 13` still means though.<br>
 = <font color=#1376f0><b>BUG FIXES</b></font>: Many formatting, linking, and spelling fixes/updates.<br>
 = <font color=#fdf08e><b>NOTE</b></font>: Simplified Chinese & French Translations are still in the works. (Sorry Translators, but at least they have their own folder(s) now!)<br>
-= <font color=#ece218><b>NOTICE</b></font>: `zh-CN` and `fr` folders are out of date. (my bad)<br>
+= <font color=#ece218><b>NOTICE</b></font>: `zh-CN` and `fr` folders are SUPER out of date. (my bad)<br>
 = <font color=#fdf08e><b>NOTE</b></font>: You may realize that there are 3 results of roles if you use the built-in search bar. This is because you are getting a copy for every instance (Currently, `fr` & `zh-CN`) that is not yet translated. (An example being Reverie, even though <i>most</i> roles will display 3 results.)<br>
 ![image](./images/SearchReverie3BUG.png)<br>
 = <font color=#fdf08e><b>NOTE</b></font>: You may also find older roles from French/Simplified Chinese results, such as Luckey from the `zh-CN` instance, as they are not up-to-date, nor translated entirely. (Luckey isn't in the `zh-CN` instance anymore, but the same issue can occur with other roles.)<br>
 ![image](./images/SearchLuckeyBUG.png)<br>
 = <font color=#ece218><b>NOTICE</b></font>: Once Translations start being worked on, Translators may use this Site Changelog section to write out changelogs for their Translated parts of the Site. They may want to differenciate it, which they may if they write their own header things.<br>
 </details>
+</font>

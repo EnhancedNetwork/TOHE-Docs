@@ -14,6 +14,7 @@ sidebar:
 To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohe) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester] (Content Creator with your TOHE videos having 600+ views on average).
 
 ---
+<font size=4em>
 <details>
 <summary><b><font color=#cf4e8f>v2.0.0 Dev 25</font></b></summary>
 
@@ -1083,3 +1084,4 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohe) (at le
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 \+ <font color=green><b>NEW</b></font>: Crewmate Power Role: [President](/options/Crewmates/Power/President.html) from SLE (if this goes well for a few days, we'll release a Canary)
 </details>
+</font>

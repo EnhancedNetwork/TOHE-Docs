@@ -7,6 +7,7 @@ contributors: false
 # Helpful Resources
 Here are some Resources that may help you understand some things relating to the mod. Such as Hot-Keys, Commands, Template/Preset Help, and other Useful Resources.
 
+<font size=4em>
 <details>
 <summary><b><font color=gray>Hot-Keys</font></b></summary>
 Below is a list of Hot-Keys that you can use to make your experience better while playing TOHE. You can use these Hot-Keys to perform certain actions.
@@ -764,3 +765,4 @@ Bug (This Death Reason occured awhile ago due to bugs, but has since been patche
 
 > From: Pyro0TV
 </details>
+</font>

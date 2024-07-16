@@ -14,6 +14,7 @@ sidebar:
 To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0xDrMoe/TownofHost-Enhanced) and download the latest release!
 
 ---
+<font size=4em>
 <details>
 <summary><b><font color=#cf4e8f>v1.6.0</font></b></summary>
 
@@ -441,3 +442,4 @@ Updated en_US.json for some neutral killers (by Moe) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bandit Text String<br>
 * [**Full v1.0.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/commits/Release) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
 </details>
+</font>

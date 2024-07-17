@@ -127,12 +127,8 @@ contributors: false
 = <font color=#F6BE00><b>CHANGE</b></font>: More Bios added to `AboutUs.md`. (Still not 100% Complete as we are still missing the Bios of a few Contributors. You can see which as they'll have `(Placeholder Bio)` in the place of their Bio.<br>
 = <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are finally corrected, thanks Drakos for doing the numbers! No idea what `[None] = Count: 13` still means though.<br>
 = <font color=#1376f0><b>BUG FIXES</b></font>: Many formatting, linking, and spelling fixes/updates.<br>
-= <font color=#fdf08e><b>NOTE</b></font>: Simplified Chinese & French Translations are still in the works. (Sorry Translators, but at least they have their own folder(s) now!)<br>
-= <font color=#ece218><b>NOTICE</b></font>: `zh-CN` and `fr` folders are SUPER out of date. (my bad)<br>
+= <font color=#ece218><b>NOTICE</b></font>: `zh-CN` and `fr` are fully up-to-date with Main (en-US), but not translated, meaning Simplified Chinese & French Translations are still in the works, sorry!<br>
 = <font color=#fdf08e><b>NOTE</b></font>: You may realize that there are 3 results of roles if you use the built-in search bar. This is because you are getting a copy for every instance (Currently, `fr` & `zh-CN`) that is not yet translated. (An example being Reverie, even though <i>most</i> roles will display 3 results.)<br>
 ![image](./images/SearchReverie3BUG.png)<br>
-= <font color=#fdf08e><b>NOTE</b></font>: You may also find older roles from French/Simplified Chinese results, such as Luckey from the `zh-CN` instance, as they are not up-to-date, nor translated entirely. (Luckey isn't in the `zh-CN` instance anymore, but the same issue can occur with other roles.)<br>
-![image](./images/SearchLuckeyBUG.png)<br>
-= <font color=#ece218><b>NOTICE</b></font>: Once Translations start being worked on, Translators may use this Site Changelog section to write out changelogs for their Translated parts of the Site. They may want to differenciate it, which they may if they write their own header things.<br>
 </details>
 </font>

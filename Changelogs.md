@@ -27,44 +27,83 @@ contributors: false
 </details>
 <br>
 <details>
-<summary><b><font color=#d395b4>TOHE v2.0.0 Canary 9 Changelogs</font></b></summary>
+<summary><b><font color=#cf4e8f>TOHE v2.0.0 Canary 10.1 Changelogs</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Phantom For Desync Roles (Note: To fix the Phantom, the Phantom is entered to the vent for desync roles, so it may not work stably)<br>
-=  Improved load lobby decorations (Decorations are now loaded during lobby creation rather than when joining a lobby)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when add-ons not assigned randomly<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Maybe fixed Agitator color<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed lobby timer for modded clients<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed fatal error when game loading<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed names during mushroom mixup<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for Arsonist, Seeker, Lovers, Amnesiac<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Guardian Angel Shield Animation sometimes didn't work correctly with Vanilla<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some fix in random spawn in Airship for host<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed lobby timer shows in game<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some null errors<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>TOHE v2.0.0 Canary 10 Changelogs</font></b></summary>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for host disconnect (Removed useless code that deliberately dissconect the host on the AU side)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: An attempt was made to fix problems on the server side when there are more than 8 players in the lobby (This may not completely fix the problem, but at least it may happen less often)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Immediate autostart settings<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Youtuber alive death<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bait can self report<br>
+\+ <font color=green><b>NEW</b></font>: Setting to reveal Councillor Trial<br>
+\+ <font color=green><b>NEW</b></font>: Settings to prevent judging task-complete Snitch<br>
+\+ <font color=green><b>NEW</b></font>: Region Menu paging behavior (from TONX)<br>
+\+ <font color=green><b>NEW</b></font>: Added Server Name in ping tracker<br>
+\- <font color=red><b>REMOVED</b></font>: Guess obvious role limits for Councillor since its not a guesser<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Youtuber is alive (again)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Add medic shield and councillor no longer suicide for judging those with a shield<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Judge and Councillor now can not trial those protected by medic<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Converted Councillor can also judge freely<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Version Check<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some Object References<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Butcher related bugs<br>
 
-* By [**WaterPanda**](#)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Lightning can't get Tricky<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Shaman can't get Fragile<br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Setting: "Disable Task Win If All Crews Are Dead" (ported from EHR)<br>
+\+ <font color=green><b>NEW</b></font>: Setting: "Disable Task Win If All Crews Are Converted" (ported from EHR)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed add-on assign<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed role size in settings<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed duplicate players in game result<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Nemesis, Hater, Quick Shooter, Last Impostor, Avenger, Revolutionist<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some null errors<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Time Thief and Time Manager when they erase<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes in game end conditions<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes in Guesser UI<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Moved Imitator to Experimental role<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Hide report buttom for Killing Machine<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed cancel button<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed lobby timer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: More miscellenous fixes and improvements<br>
+
+* By [**D1GQ**](https://github.com/D1GQ)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed issue of players being swapped during meeting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue possessing player during comms camouflage sabotage<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed desync issues with swapping players cosmetic<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Dollmaster color showing on map for possessed player<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed possessed player being able to see self/dollmaster outfit inside a fungal mushroom cloud<br>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Some changes in command "/me"<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Changed Kamikaze symbol<br>
+\+ <font color=green><b>NEW</b></font>: Command: /poll<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added icon for Jailer<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: When Mayor use portable button it shows as buttom pressed<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Punching bag being judged<br>
+
+* By [**LezaiYa**](https://github.com/LezaiYa)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Killing Machine could get Oblivious<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Updated Mini (Mini can no longer be dueled, marked, blooded, and sliced)<br>
+
+* By [**Pyro**](https://github.com/Pyro0TV)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Updated ko-fi link and OnMeeting templates<br>
+
+* By [**Marg**](https://github.com/MargaretTheFool)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Updated Ability button text for Seeker, Coroner, Romantic, and Werewolf<br>
+
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed roles remembered by amnesiac unable to vent<br>
+
+* By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
+\+ <font color=green><b>NEW</b></font>: Add Il2CppHelper<br>
 </details>
 <br>
 <details>
 <summary><b><font color=#12edaf>Site Changelogs/Updates</font></b></summary>
 
 * By [**Pyro**](https://sites.google.com/view/pyro0tv)<br>
-= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.0.0 Canary 8<br>
+= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.0.0 Canary 10<br>
 \+ Have a good day!<br>
-= <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, open a forum in #website-feedback! Thank you!<br>
+= <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, open a forum in `#website-feedback`! Thank you!<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: `Tracker`, `Noisemaker`, and `Phantom` have been added to the Vanilla Tab of their respective factions.<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: `Tracker (TOHE)` has been REMOVED.<br>
 \+ <font color=#12edaf><b>RENAMED</b></font>: `Phantom (TOHE)` has been renamed to `Specter`.<br>

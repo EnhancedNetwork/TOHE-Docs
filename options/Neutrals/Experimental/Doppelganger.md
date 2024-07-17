@@ -2,7 +2,7 @@
 lang: en-US
 title: Doppelganger
 prev: /options/settings/Neutrals.html
-next: Quizmaster
+next: Imitator
 ---
 
 # <font color=#f1f0a1>🎭 <b>Doppelganger</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>

@@ -376,7 +376,6 @@ export default defineUserConfig({
             { text: 'Amnesiac', link: '/options/Neutrals/Benign/Amnesiac.html' },
             { text: 'Follower', link: '/options/Neutrals/Benign/Follower.html' },
             { text: 'Hater', link: '/options/Neutrals/Benign/Hater.html' },
-            { text: 'Imitator', link: '/options/Neutrals/Benign/Imitator.html' },
             { text: 'Lawyer', link: '/options/Neutrals/Benign/Lawyer.html' },
             { text: 'Maverick', link: '/options/Neutrals/Benign/Maverick.html' },
             { text: 'Opportunist', link: '/options/Neutrals/Benign/Opportunist.html' },
@@ -425,6 +424,7 @@ export default defineUserConfig({
           '/options/Neutrals/Experimental/': [
             { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
             { text: 'Doppelganger', link: '/options/Neutrals/Experimental/Doppelganger.html' },
+            { text: 'Imitator', link: '/options/Neutrals/Experimental/Imitator.html' },
             { text: 'Quizmaster', link: '/options/Neutrals/Experimental/Quizmaster.html' },
           ],
           '/options/Neutrals/Killing/': [

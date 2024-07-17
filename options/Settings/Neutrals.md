@@ -17,7 +17,7 @@ next: /Roles.html
 
 <tr>
 <td><font color=#046300><b>🕊️ Benign</b></font></td>
-<td align="center">14</td>
+<td align="center">13</td>
 </tr>
 
 <tr>
@@ -32,7 +32,7 @@ next: /Roles.html
 
 <tr>
 <td><font color=#4d3222><b>🚧 Experimental</b></font></td>
-<td align="center">2</td>
+<td align="center">3</td>
 </tr>
 
 <tr>
@@ -50,7 +50,7 @@ next: /Roles.html
 
 ### <font color=#046300><b>Benign</b></font>
 ---
-[Amnesiac](/options/Neutrals/Benign/Amnesiac.html) | [Follower](/options/Neutrals/Benign/Follower.html) | [Hater](/options/Neutrals/Benign/Hater.html) | [Imitator](/options/Neutrals/Benign/Imitator.html) | [Lawyer](/options/Neutrals/Benign/Lawyer.html) | [Maverick](/options/Neutrals/Benign/Maverick.html) | [Opportunist](/options/Neutrals/Benign/Opportunist.html) | [Pixie](/options/Neutrals/Benign/Pixie.html) | [Pursuer](/options/Neutrals/Benign/Pursuer.html) | [Romantic](/options/Neutrals/Benign/Romantic.html) | [Schrodingers Cat](/options/Neutrals/Benign/SchrodingersCat.html) | [Shaman](/options/Neutrals/Benign/Shaman.html) | [Taskinator](/options/Neutrals/Benign/Taskinator.html)
+[Amnesiac](/options/Neutrals/Benign/Amnesiac.html) | [Follower](/options/Neutrals/Benign/Follower.html) | [Hater](/options/Neutrals/Benign/Hater.html) | [Lawyer](/options/Neutrals/Benign/Lawyer.html) | [Maverick](/options/Neutrals/Benign/Maverick.html) | [Opportunist](/options/Neutrals/Benign/Opportunist.html) | [Pixie](/options/Neutrals/Benign/Pixie.html) | [Pursuer](/options/Neutrals/Benign/Pursuer.html) | [Romantic](/options/Neutrals/Benign/Romantic.html) | [Schrodingers Cat](/options/Neutrals/Benign/SchrodingersCat.html) | [Shaman](/options/Neutrals/Benign/Shaman.html) | [Taskinator](/options/Neutrals/Benign/Taskinator.html)
 
 ### <font color=#d4af37><b>Chaos</b></font>
 ---
@@ -62,7 +62,7 @@ next: /Roles.html
 
 ### <font color=#4d3222><b>Experimental</b></font>
 ---
-[Doppelganger](/options/Neutrals/Experimental/Doppelganger.html) | [Quizmaster](/options/Neutrals/Experimental/Quizmaster.html)
+[Doppelganger](/options/Neutrals/Experimental/Doppelganger.html) | [Imitator](/options/Neutrals/Experimental/Imitator.html) | [Quizmaster](/options/Neutrals/Experimental/Quizmaster.html)
 
 ### <font color=red><b>Killing</b></font>
 ---

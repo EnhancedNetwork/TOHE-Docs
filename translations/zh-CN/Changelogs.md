@@ -24,6 +24,8 @@ contributors: false
 = <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: When dlekS ehT is selected, the game lags in the lobby for vanilla players (during the game everything works fine)<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: EAC may not work in some places<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Swift, Fragile, Imitator, Doppelganger are works unstable<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Black screen after meeting for vanilla players (This is not fixable at this time as it's an issue with Vanilla, not TOHE)
 </details>
 <br>
 <details>

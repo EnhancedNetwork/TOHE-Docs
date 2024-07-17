@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Game Modifiers
-prev: Game
-next: Impostors
+prev: /Roles.html
+next: /Roles.html
 ---
 
 # <font color=#ffc0cb>🎮 Game Modifiers</font>

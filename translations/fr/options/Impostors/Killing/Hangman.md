@@ -5,7 +5,7 @@ prev: Greedy
 next: Inhibitor
 ---
 
-# <font color=red>🪢 Hangman</font> <Badge text="Killing" type="tip" vertical="middle"/>
+# <font color=red>🪢 <b>Hangman</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 The killing method of the Hangman during the Shapeshifting is Strangling. Strangling ignores any status of the target. Such as the shield of a Medic, the skills of a Bodyguard or Superstar. The Strangled player will not leave a dead body, nor will it trigger any of its skills. For example, Veteran kills back, Luckey stays alive, etc. The Seer will not be alerted.

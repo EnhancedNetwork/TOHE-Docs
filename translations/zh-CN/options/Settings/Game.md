@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Game Settings
-prev: /Roles
-next: Impostors
+prev: /Roles.html
+next: /Roles.html
 ---
 
 # <font color=#ffc0cb>⭐ Game Settings</font>

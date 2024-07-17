@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Imitator
-prev: Hater
-next: Lawyer
+prev: Doppelganger
+next: Quizmaster
 ---
 
-# <font color="#b3d94c">👥 <b>Imitator</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
+# <font color="#b3d94c">👥 <b>Imitator</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
 ---
 
 As the Imitator, use your kill button to imitate a player.<br><br>

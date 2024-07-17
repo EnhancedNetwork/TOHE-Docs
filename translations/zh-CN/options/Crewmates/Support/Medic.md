@@ -9,7 +9,7 @@ next: Medium
 ---
 
 The Medic can place a shield on the target by pressing the Kill button. The Medic can only give one shield for the whole game. When the Medic dies, the target's shield will be removed. The Medic can also see if someone is trying to break the target's shield.<br>
-Depending on the host's settings, the Medic or the target can see if the player has a shield (shown as a<font size="5em" color="#00ff97">「⬤」</font>next to the name).
+Depending on the host's settings, the Medic or the target can see if the player has a shield (shown as a<font size="5em" color="#00ff97">「●」</font>next to the name).
 * Max
   * Set the Maximum amount of Medics that can be in a match
 * Who can see the shield

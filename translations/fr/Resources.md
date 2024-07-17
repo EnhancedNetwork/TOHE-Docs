@@ -7,12 +7,13 @@ contributors: false
 # Helpful Resources
 Here are some Resources that may help you understand some things relating to the mod. Such as Hot-Keys, Commands, Template/Preset Help, and other Useful Resources.
 
+<font size=4em>
 <details>
 <summary><b><font color=gray>Hot-Keys</font></b></summary>
 Below is a list of Hot-Keys that you can use to make your experience better while playing TOHE. You can use these Hot-Keys to perform certain actions.
 Note: List is not 100% complete. Some hot-keys may have been removed and still live here, some may have been added and still not live here.
 <details>
-<summary><b><font color=gray>Host-Only</font></b></summary>
+<summary><b><font color=red>Host-Only</font></b></summary>
 <table>
 <tr>
 <td align="center"><b>Command</b></td>
@@ -92,8 +93,9 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 </tr>
 </table>
 </details>
+<br>
 <details>
-<summary><b><font color=gray>Mod-Only</font></b></summary>
+<summary><b><font color=red>Mod-Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -129,8 +131,9 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 </tr>
 </table>
 </details>
+<br>
 <details>
-<summary><b><font color=gray>Everyone</font></b></summary>
+<summary><b><font color=red>Everyone</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -145,6 +148,7 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 
 > From: The Enhanced Network + Pyro0TV
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Chat Commands</font></b></summary>
 
@@ -153,7 +157,7 @@ Below is a list of commands that you can use to make your experience better whil
 Note: Commands in bold are considered "essential" and are recommended for all players.
 Note: List is not 100% complete. Some commands may have been removed and still live here, some may have been added and still not live here.
 <details>
-<summary><b><font color=gray>Everyone</font></b></summary>
+<summary><b><font color=red>Everyone</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -213,8 +217,9 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 </tr>
 </table>
 </details>
+<br>
 <details>
-<summary><b><font color=gray>Mod-Only</font></b></summary>
+<summary><b><font color=red>Mod-Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -238,8 +243,9 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 </tr>
 </table>
 </details>
+<br>
 <details>
-<summary><b><font color=gray>Host-Only</font></b></summary>
+<summary><b><font color=red>Host-Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -291,8 +297,9 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 </tr>
 </table>
 </details>
+<br>
 <details>
-<summary><b><font color=gray>Moderator-Only</font></b></summary>
+<summary><b><font color=red>Moderator-Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -327,6 +334,7 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 
 > From: The Enhanced Network + Pyro0TV
 </details>
+<br>
 <details>
 <summary><b><font color=gray>TOHE-DATA Info</font></b></summary>
 
@@ -350,6 +358,7 @@ There are a few files:
 
 > From: The Enhanced Network + Pyro0TV
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Templates Info</font></b></summary>
 
@@ -371,7 +380,7 @@ Alternatively, you may also use this [Template Editor](https://ultradragon005.gi
 There is a Tutorial at the bottom of the Template Editior's page if you need it. If you do not want to watch it, here's a small guide abounht how to use it.
 
 1. Enter a Title for the template. This title will be displayed at the top of the template when its activated in game. Here's what the title will look like by default:
-![image](../../images/TemplateTitle.png)
+![image](./images/TemplateTitle.png)
 2. Enter in what you want the template to display. You can edit the Font Size & Text Colors, but it is recommended to do it last. (From: Drakos)
 3. Enter in the name for this template. This name will also be the trigger word for this template. `[example]:this is an example template!` (`[example]` being the name/trigger word)
 4. Click the "Copy as HTML Formatted" to copy your template to your clipboard.
@@ -380,10 +389,11 @@ There is a Tutorial at the bottom of the Template Editior's page if you need it.
 </details>
 
 If you create copies of the template name on newlines, it will send them in seperate messages. Here's an example from Drakos: 
-![image](../../images/TemplateNewLines.png)
+![image](./images/TemplateNewLines.png)
 
 > From: Pyro0TV + Drakos
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Template Editor</font></b></summary>
 
@@ -394,6 +404,7 @@ The Template Editor is only 1 of the many Utilities (Also by Drakos) which are o
 
 > From: Drakos
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Valid Variables</font></b></summary>
 
@@ -420,6 +431,7 @@ The Template Editor is only 1 of the many Utilities (Also by Drakos) which are o
 
 > From: The Enhanced Network + Pyro0TV
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Text Formatting</font></b></summary>
 
@@ -436,6 +448,7 @@ The Template Editor is only 1 of the many Utilities (Also by Drakos) which are o
 
 > From: The Enhanced Network + Pyro0TV
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Supported Rich Text Tags</font></b></summary>
 
@@ -444,6 +457,7 @@ Here's a full list of Rich Text Tags that you can use for formatting. Some may n
 
 > From: Unity Technologies
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Usable Fonts/Symbols</font></b></summary>
 
@@ -452,6 +466,7 @@ Here's a Doc covering Fonts & Symbols that you can use while creating Templates!
 
 > From: Drakos
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Original Role Colors (Hex Codes)</font></b></summary>
 
@@ -459,6 +474,7 @@ You can find the <i>original</i> Hex Codes of TOHE Roles [Here](https://github.c
 
 > From: The Enhanced Network
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Presets Info</font></b></summary>
 
@@ -470,6 +486,7 @@ For some member submitted presets, browse [here](/Presets.html)
 
 > From: Pyro0TV
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Death Reasons</font></b></summary>
 
@@ -509,7 +526,8 @@ Guesser (If a player was guessed or if a player misguessed)<br>
 Guesser Mode (If a player was guessed or if a player misguessed)<br><br>
 
 - Other<br>
-Shouldn’t happen (404: DeathReasonNotFound)<br><br>
+Shouldn’t happen (404: DeathReasonNotFound)<br>
+Game Master (Only exception, the death reason of Game Master will be Other)<br><br>
 
 - Spelled<br>
 Witch (Given to a player marked by the Witch if the Witch isn't voted out)<br><br>
@@ -652,30 +670,99 @@ Bug (This Death Reason occured awhile ago due to bugs, but has since been patche
 
 > From: Marg
 </details>
+<br>
 <details>
 <summary><b><font color=gray>Icons: Explained</font></b></summary>
-
-<font color=#ff1919>†</font>- This player was spelled by a <font color=#ff1919>Witch</font><br>
-<font color=#fc04fc>乂</font> - This player was hexed by a <font color=#fc04fc>Hex Master</font><br>
-<font color=#6697FF>◈</font> - This player was shrouded by a <font color=6697FF>Shroud</font><br>
-<font color=EDC240>⦿</font> - This player is being dueled by a <font color=#EDC240>Pirate</font><br>
-<font color=#8464bc>?!</font> - This player is being quizzed by a <font color=#8464bc>Quizmaster</font><br>
-<font color=#b8fb4f>⚠</font> - This player is a <font color=#b8fb4f>Snitch</font> who is about to finish their tasks<br>
-<font color=#f8fa87>⚠</font> - This player is a <font color=#f8fa87>Solsticer</font> who is about to finish their tasks<br>
-<font color=#39FF14>✚</font> - This player has a <font color=#39FF14>Medic</font> Shield<br>
-<font color=#999DA0>♦</font> - This player is the <font color=#999DA0>Executioner</font>'s target<br>
-<font color=#2E856E>♦</font> - This player is your <font color=#2E856E>Lawyer</font><br>
-<font color=#FFA500>♦</font> - This player is your <font color=#FFA500>Follower</font><br>
-<font color=#fc1494>♥</font> - This player is a <font color=#fc1494>Romantic</font><br>
-<font color=#ff9ace>♥</font> - This player is a <font color=#ff9ace>Lover</font><br>
-<font color=#f0ef5b>★</font> - This player is a <font color=#f0ef5b>Super Star</font><br>
-<font color=#f46f4e>★</font> - This player is a <font color=#f46f4e>Cyber</font><br>
-<font color=#5573aa>★</font> - This player is a <font color=#5573aa>Marshall</font><br>
-<font color=#4682b4>☆</font> - This player is a <font color=#4682b4>Captain</font><br>
-<font color=#404040>☜</font> - This player is a teammate of the <font color=#404040>Schrodinger's Cat</font><br>
-<font color=#ff1919>╳</font> - This player is blackmailed by the <font color=#ff1919>Blackmailer</font><br>
-<font color=#ff1919>⊗</font> - This player is marked by the <font color=#ff1919>Kamikaze</font><br>
-<font color=#ff1919>■</font> - This player is a quantum ghost marked by the <font color=#ff1919>Lightning</font><br><br>
+<table>
+<tr>
+<td align="center"><b>Icon</b></td>
+<td align="center"><b>Scenario</b></td>
+</tr>
+<tr>
+<td><font color=#ff1919>†</font></td>
+<td>This player was spelled by a <font color=#ff1919>Witch</font></td>
+</tr>
+<tr>
+<td><font color=#fc04fc>乂</font></td>
+<td>This player was hexed by a <font color=#fc04fc>Hex Master</font></td>
+</tr>
+<tr>
+<td><font color=#6697FF>◈</font></td>
+<td>This player was shrouded by a <font color=6697FF>Shroud</font></td>
+</tr>
+<tr>
+<td><font color=EDC240>⦿</font></td>
+<td>This player is being dueled by a <font color=#EDC240>Pirate</font></td>
+</tr>
+<tr>
+<td><font color=#8464bc>?!</font></td>
+<td>This player is being quizzed by a <font color=#8464bc>Quizmaster</font></td>
+</tr>
+<tr>
+<td><font color=#b8fb4f>⚠</font></td>
+<td>This player is a <font color=#b8fb4f>Snitch</font> who is about to finish their tasks</td>
+</tr>
+<tr>
+<td><font color=#f8fa87>⚠</font></td>
+<td>This player is a <font color=#f8fa87>Solsticer</font> who is about to finish their tasks</td>
+</tr>
+<tr>
+<td><font color=#39FF14>✚</font></td>
+<td>This player has a <font color=#39FF14>Medic</font> Shield</td>
+</tr>
+<tr>
+<td><font color=#999DA0>♦</font></td>
+<td>This player is the <font color=#999DA0>Executioner</font>'s target</td>
+</tr>
+<tr>
+<td><font color=#2E856E>♦</font></td>
+<td>This player is your <font color=#2E856E>Lawyer</font></td>
+</tr>
+<tr>
+<td><font color=#FFA500>♦</font></td>
+<td>This player is your <font color=#FFA500>Follower</font></td>
+</tr>
+<tr>
+<td><font color=#fc1494>♥</font></td>
+<td>This player is a <font color=#fc1494>Romantic</font></td>
+</tr>
+<tr>
+<td><font color=#ff9ace>♥</font></td>
+<td>This player is a <font color=#ff9ace>Lover</font></td>
+</tr>
+<tr>
+<td><font color=#f0ef5b>★</font></td>
+<td>This player is a <font color=#f0ef5b>Super Star</font></td>
+</tr>
+<tr>
+<td><font color=#f46f4e>★</font></td>
+<td>This player is a <font color=#f46f4e>Cyber</font></td>
+</tr>
+<tr>
+<td><font color=#5573aa>★</font></td>
+<td>This player is a <font color=#5573aa>Marshall</font></td>
+</tr>
+<tr>
+<td><font color=#4682b4>☆</font></td>
+<td>This player is a <font color=#4682b4>Captain</font></td>
+</tr>
+<tr>
+<td><font color=#404040>☜</font></td>
+<td>This player is a teammate of the <font color=#404040>Schrodinger's Cat</font></td>
+</tr>
+<tr>
+<td><font color=#ff1919>╳</font></td>
+<td>This player is blackmailed by the <font color=#ff1919>Blackmailer</font></td>
+</tr>
+<tr>
+<td><font color=#ff1919>⊗</font></td>
+<td>This player is marked by the <font color=#ff1919>Kamikaze</font></td>
+</tr>
+<tr>
+<td><font color=#ff1919>■</font></td>
+<td>This player is a quantum ghost marked by the <font color=#ff1919>Lightning</font></td>
+</tr>
 
 > From: Pyro0TV
 </details>
+</font>

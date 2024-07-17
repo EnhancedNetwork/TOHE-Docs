@@ -10,8 +10,6 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 :::
 
-<font size=4em>Almost finished! Some "About" dropdowns may have (Placeholder) Bios</font>
-
 ## President
 
 [**Moe**](https://github.com/0xDrMoe): <font color=#ff8000>President, Website Maintainer/Developer</font>
@@ -42,7 +40,7 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 
-I am a Moderator in the TOHE Discord, aswell as the Website Assistant for tohre.dev. If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/pyro0tv), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
+I'm also mostly known online as Pyro0TV. I am a Moderator in the TOHE Discord, aswell as the Website Assistant for tohre.dev. If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/pyro0tv), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 </details>
 
 ---
@@ -130,7 +128,7 @@ I love playing games (I mostly play all games on PlayStation). I especially pay 
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+I initially started coding for mod to host public modded rooms, especially when mods was being banned from public matchmaking. I helped with role coding and feature development. Now, I'm actively fixing bugs and improving the mod's performance. "Coding for play" has always been my source of passion, driving me to keep working on this project.
 </details>
 
 ---
@@ -139,7 +137,7 @@ I love playing games (I mostly play all games on PlayStation). I especially pay 
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+Coded many Roles and Features. (placeholder)
 </details>
 
 ---
@@ -190,11 +188,27 @@ Sup... I recently got into coding in the last two years, mostly C# and Python.
 and I also do 3D art design as a hobby! Glad to meet everyone here and can't wait to work with y'all. ❤️
 </details>
 
+---
+
 [**Marg**](https://margsbuttons.carrd.co/)：Role/Feature Coding
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
 I plan to port most of the roles from Town of Salem 2 in some form because I love that game. I have literally never coded in C# before I started working on the mod, but it's close enough to Java that I made it work `:)`. Some of my hobbies are playing video games (of course), bowling, and playing the guitar.
+</details>
+
+---
+
+[**Pietro**](https://github.com/Pietrodjaowjao): Feature Coding, <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font> Translator
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I code general things like game updates, mod features, api, bugfixes, anticheat and many other things<br>
+Never coded a role yet, but i plan to code some!<br>
+I also know how to mainly code in C++, Java, Kotlin, & Python<br>
+(I studied all these to feature my games like Modding Us)<br><br>
+
+Very busy currently because i have school and i also go to the gym.
 </details>
 
 ---
@@ -308,7 +322,7 @@ I'm a Portuguese Brazil Translator. I'm also a Friday Night Funkin coder, & I ma
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+Helped Translate TOHE into French. (placeholder)
 </details>
 
 ---
@@ -326,7 +340,7 @@ Well I'm having a bad time at school. I like gaming as Undertale and being lazy 
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-(placeholder)
+Helped Translate TOHE into French. (placeholder)
 </details>
 
 ---
@@ -367,16 +381,14 @@ I play some videogames (Minecraft, Among Us, Brawl Stars and etc...), but I also
 
 ### <font color=#1e448b><b>Dutch</b></font>
 
-[**otherb.x**](https://youtube.com/@BoxOfDaAmazon?si=TcHHU91EBcodllzk): <font color=#1e448b><b>Dutch</b></font> Translator
+[**Spirit**](#): <font color=#1e448b><b>Dutch</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a Translator. To be specific, I'm a Dutch Translator. I draw, sometimes code if it's in a language I can, and I'm still in school (yes).
+Had done some Dutch translation, but have been inactive lately cause I've been busy with other stuff, & haven't found time to do so. Also I haven't been thinking about Among Us much. When I have free time I'd rather spent time with my family and not work even more and get less time to fix/keep up my relationships.
 </details>
 
 ---
-
-### <font color=#1e448b><b>Dutch</b></font>
 
 [**Victor**](https://youtube.com/@BoxOfDaAmazon?si=TcHHU91EBcodllzk): <font color=#1e448b><b>Dutch</b></font> Translator
 <details>
@@ -393,7 +405,7 @@ I did a little Dutch translation. Have been inactive recently. (Also known as La
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-Im a German Junior Translator. I love cats, anime, and sometimes being alone. I like to learn a bit of everything, piano, (very little) Japanese, and programming in C#
+I'm a German Junior Translator. I love cats, anime, and sometimes being alone. I like to learn a bit of everything, piano, (very little) Japanese, and programming in C#
 </details>
 
 ---

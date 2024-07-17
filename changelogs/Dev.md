@@ -46,7 +46,7 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohe) (at le
 = <font color=#F6BE00><b>CHANGE</b></font>: Disable lobby timer on modded servers (no need this)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 24 (HOTFIX 1)</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Dev 24.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken camouflage (temporarily revert some improvements for EAC)<br>

@@ -117,7 +117,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#F6BE00><b>CHANGE</b></font>: Changed Kamikaze symbol<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 8 (Hotfix 1)</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Canary 8.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when game end in start game by task win<br>
@@ -275,7 +275,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#fdf08e><b>NOTE</b></font>: Compiled the patch notes!<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 2 (Hotfix 1)</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Canary 2.1</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed errors in logs and fortegreen players in lobby<br>
 </details>

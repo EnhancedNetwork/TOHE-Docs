@@ -15,6 +15,7 @@ Below are some member submitted presets:
 
 ---
 
+<font size=4em>
 <details>
 <summary><b><font color=#d395b4>Marg's Regular Settings & Extreme Chaos Settings</font></b></summary>
 
@@ -23,3 +24,4 @@ Important Notes: Preset 1 is Marg's Regular Settings. Preset 2 is Marg's Extreme
 
 > Submitted by: Marg
 </details>
+</font>

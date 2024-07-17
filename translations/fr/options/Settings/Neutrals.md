@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Neutrals
-prev: Crewmates
-next: Addons
+prev: /Roles.html
+next: /Roles.html
 ---
 
 # <font color="#7f8c8d">🥷 <b>Neutral Roles</b></font>
@@ -17,32 +17,32 @@ next: Addons
 
 <tr>
 <td><font color=#046300><b>🕊️ Benign</b></font></td>
-<td align="center">15</td>
+<td align="center">13</td>
 </tr>
 
 <tr>
 <td><font color=#d4af37><b>😈 Chaos</b></font></td>
-<td align="center">12</td>
+<td align="center">14</td>
 </tr>
 
 <tr>
 <td><font color=#912900><b>👹 Evil</b></font></td>
-<td align="center">7</td>
+<td align="center">8</td>
 </tr>
 
 <tr>
 <td><font color=#4d3222><b>🚧 Experimental</b></font></td>
-<td align="center">1</td>
+<td align="center">3</td>
 </tr>
 
 <tr>
 <td><font color=#b22222><b>🪓 Killing</b></font></td>
-<td align="center">28</td>
+<td align="center">33</td>
 </tr>
 
 <tr>
 <td><font color=#7c8c8d><b>Total:</b></font></td>
-<td align="center"><b>62</b></td>
+<td align="center"><b>73</b></td>
 </tr>
 
 </table>
@@ -50,7 +50,7 @@ next: Addons
 
 ### <font color=#046300><b>Benign</b></font>
 ---
-[Amnesiac](/options/Neutrals/Benign/Amnesiac.html) | [Follower](/options/Neutrals/Benign/Follower.html) | [Hater](/options/Neutrals/Benign/Hater.html) | [Imitator](/options/Neutrals/Benign/Imitator.html) | [Lawyer](/options/Neutrals/Benign/Lawyer.html) | [Maverick](/options/Neutrals/Benign/Maverick.html) | [Opportunist](/options/Neutrals/Benign/Opportunist.html) | [Pixie](/options/Neutrals/Benign/Pixie.html) | [Pursuer](/options/Neutrals/Benign/Pursuer.html) | [Romantic](/options/Neutrals/Benign/Romantic.html) | [Schrodingers Cat](/options/Neutrals/Benign/SchrodingersCat.html) | [Shaman](/options/Neutrals/Benign/Shaman.html) | [Taskinator](/options/Neutrals/Benign/Taskinator.html)
+[Amnesiac](/options/Neutrals/Benign/Amnesiac.html) | [Follower](/options/Neutrals/Benign/Follower.html) | [Hater](/options/Neutrals/Benign/Hater.html) | [Lawyer](/options/Neutrals/Benign/Lawyer.html) | [Maverick](/options/Neutrals/Benign/Maverick.html) | [Opportunist](/options/Neutrals/Benign/Opportunist.html) | [Pixie](/options/Neutrals/Benign/Pixie.html) | [Pursuer](/options/Neutrals/Benign/Pursuer.html) | [Romantic](/options/Neutrals/Benign/Romantic.html) | [Schrodingers Cat](/options/Neutrals/Benign/SchrodingersCat.html) | [Shaman](/options/Neutrals/Benign/Shaman.html) | [Taskinator](/options/Neutrals/Benign/Taskinator.html)
 
 ### <font color=#d4af37><b>Chaos</b></font>
 ---
@@ -62,7 +62,7 @@ next: Addons
 
 ### <font color=#4d3222><b>Experimental</b></font>
 ---
-[Doppelganger](/options/Neutrals/Experimental/Doppelganger.html) | [Quizmaster](/options/Neutrals/Experimental/Quizmaster.html)
+[Doppelganger](/options/Neutrals/Experimental/Doppelganger.html) | [Imitator](/options/Neutrals/Experimental/Imitator.html) | [Quizmaster](/options/Neutrals/Experimental/Quizmaster.html)
 
 ### <font color=red><b>Killing</b></font>
 ---

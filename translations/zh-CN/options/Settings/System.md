@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: System Settings
-prev: Game
+prev: /Roles.html
 next: /Roles.html
 ---
 

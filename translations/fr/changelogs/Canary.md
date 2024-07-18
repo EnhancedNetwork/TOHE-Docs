@@ -73,7 +73,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Killing Machine could get Oblivious<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Updated Mini (Mini can no longer be dueled, marked, blooded, and sliced)<br>
 
-* By [**Pyro**](https://github.com/Pyro0TV)<br>
+* By [**Pyro**](https://github.com/NotPyro404)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Updated ko-fi link and OnMeeting templates<br>
 
 * By [**Marg**](https://github.com/MargaretTheFool)<br>

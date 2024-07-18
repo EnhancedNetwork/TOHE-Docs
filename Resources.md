@@ -146,7 +146,7 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 </table>
 </details>
 
-> From: The Enhanced Network + Pyro0TV
+> From: The Enhanced Network + NotPyro404
 </details>
 <br>
 <details>
@@ -332,7 +332,7 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 </table>
 </details>
 
-> From: The Enhanced Network + Pyro0TV
+> From: The Enhanced Network + NotPyro404
 </details>
 <br>
 <details>
@@ -356,7 +356,7 @@ There are a few files:
 
 - `WhiteList.txt`: A list of friendcodes that will be exempt from blacklisted platforms, along with level requirements.
 
-> From: The Enhanced Network + Pyro0TV
+> From: The Enhanced Network + NotPyro404
 </details>
 <br>
 <details>
@@ -391,7 +391,7 @@ There is a Tutorial at the bottom of the Template Editior's page if you need it.
 If you create copies of the template name on newlines, it will send them in seperate messages. Here's an example from Drakos: 
 ![image](./images/TemplateNewLines.png)
 
-> From: Pyro0TV + Drakos
+> From: NotPyro404 + Drakos
 </details>
 <br>
 <details>
@@ -429,7 +429,7 @@ The Template Editor is only 1 of the many Utilities (Also by Drakos) which are o
 - `{{ModVersion}}` - Displays the current version of TOHE.
 - `{{Map}}` - Displays the Map that is going to be played.
 
-> From: The Enhanced Network + Pyro0TV
+> From: The Enhanced Network + NotPyro404
 </details>
 <br>
 <details>
@@ -446,7 +446,7 @@ The Template Editor is only 1 of the many Utilities (Also by Drakos) which are o
 - `<size=[size][%]>exampleText</size>` Sets the <font size=2em>Size</font> of the text/font. (Can type exact text/font sizes or use percentages.)
 - `\n` Creates a New Line. (Such as `<br>` (or the `[Enter]` key) would)
 
-> From: The Enhanced Network + Pyro0TV
+> From: The Enhanced Network + NotPyro404
 </details>
 <br>
 <details>
@@ -484,7 +484,7 @@ Note: You have to put the file in the following directory: `.\Among Us\TOHE-DATA
 
 For some member submitted presets, browse [here](/Presets.html)
 
-> From: Pyro0TV
+> From: NotPyro404
 </details>
 <br>
 <details>
@@ -763,6 +763,6 @@ Bug (This Death Reason occured awhile ago due to bugs, but has since been patche
 <td>This player is a quantum ghost marked by the <font color=#ff1919>Lightning</font></td>
 </tr>
 
-> From: Pyro0TV
+> From: NotPyro404
 </details>
 </font>

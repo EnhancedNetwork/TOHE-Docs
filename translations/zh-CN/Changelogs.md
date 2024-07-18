@@ -86,7 +86,7 @@ contributors: false
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Killing Machine could get Oblivious<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Updated Mini (Mini can no longer be dueled, marked, blooded, and sliced)<br>
 
-* By [**Pyro**](https://github.com/Pyro0TV)<br>
+* By [**Pyro**](https://github.com/NotPyro404)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Updated ko-fi link and OnMeeting templates<br>
 
 * By [**Marg**](https://github.com/MargaretTheFool)<br>
@@ -102,7 +102,7 @@ contributors: false
 <details>
 <summary><b><font color=#12edaf>Site Changelogs/Updates</font></b></summary>
 
-* By [**Pyro**](https://sites.google.com/view/pyro0tv)<br>
+* By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
 = <font color=#ece218><b>NOTICE</b></font>: Updated to v2.0.0 Canary 10<br>
 \+ Have a good day!<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, open a forum in `#website-feedback`! Thank you!<br>

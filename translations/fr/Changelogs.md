@@ -85,7 +85,7 @@ contributors: false
 <summary><b><font color=#12edaf>Site Changelogs/Updates</font></b></summary>
 
 * By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
-= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.0.0 Canary 11<br>
+= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.0.0 Canary 11.1<br>
 \+ Have a good day!<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, open a forum in `#website-feedback`! Thank you!<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: `Tracker`, `Noisemaker`, and `Phantom` have been added to the Vanilla Tab of their respective factions.<br>
@@ -115,6 +115,6 @@ contributors: false
 = <font color=#1376f0><b>BUG FIXES</b></font>: Many formatting, linking, and spelling fixes/updates.<br>
 = <font color=#ece218><b>NOTICE</b></font>: `zh-CN` and `fr` are fully up-to-date with Main (en-US), but not translated, meaning Simplified Chinese & French Translations are still in the works, sorry!<br>
 = <font color=#fdf08e><b>NOTE</b></font>: You may realize that there are 3 results of roles if you use the built-in search bar. This is because you are getting a copy for every instance (Currently, `fr` & `zh-CN`) that is not yet translated. (An example being Reverie, even though <i>most</i> roles will display 3 results.)<br>
-![image](./images/SearchReverie3BUG.png)<br>
+![image](../../images/SearchReverie3BUG.png)<br>
 </details>
 </font>

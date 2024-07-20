@@ -618,7 +618,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 <font color=#ece218><b>NOTICE</b></font>:<font color=Red><b> Use This Version, please</b></font> <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.5.1 Canary 1(Pre-Release)</font></b></summary>
+<summary><b><font color=#d395b4>v1.5.1 Canary 1 (Pre-Release)</font></b></summary>
 
 * By [**Drakos**](https://github.com/Ultradragon005) <br>
 \+ <font color=green><b>NEW</b></font>: Added Role: Penguin <br>

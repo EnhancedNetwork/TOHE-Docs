@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/fr/options/Neutrals/Benign/Amnesiac.html.vue"
+const data = JSON.parse("{\"path\":\"/translations/fr/options/Neutrals/Benign/Amnesiac.html\",\"title\":\"Amnesiac\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Amnesiac\",\"prev\":\"/options/settings/Neutrals.html\",\"next\":\"Follower\"},\"headers\":[],\"git\":{\"updatedTime\":1720561728000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2}]},\"filePathRelative\":\"translations/fr/options/Neutrals/Benign/Amnesiac.md\"}")
+export { comp, data }

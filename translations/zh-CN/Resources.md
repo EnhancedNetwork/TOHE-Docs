@@ -380,7 +380,7 @@ Alternatively, you may also use this [Template Editor](https://ultradragon005.gi
 There is a Tutorial at the bottom of the Template Editior's page if you need it. If you do not want to watch it, here's a small guide abounht how to use it.
 
 1. Enter a Title for the template. This title will be displayed at the top of the template when its activated in game. Here's what the title will look like by default:
-![image](./images/TemplateTitle.png)
+![image](../../images/TemplateTitle.png)
 2. Enter in what you want the template to display. You can edit the Font Size & Text Colors, but it is recommended to do it last. (From: Drakos)
 3. Enter in the name for this template. This name will also be the trigger word for this template. `[example]:this is an example template!` (`[example]` being the name/trigger word)
 4. Click the "Copy as HTML Formatted" to copy your template to your clipboard.
@@ -389,7 +389,7 @@ There is a Tutorial at the bottom of the Template Editior's page if you need it.
 </details>
 
 If you create copies of the template name on newlines, it will send them in seperate messages. Here's an example from Drakos: 
-![image](./images/TemplateNewLines.png)
+![image](../../images/TemplateNewLines.png)
 
 > From: NotPyro404 + Drakos
 </details>
@@ -762,7 +762,7 @@ Bug (This Death Reason occured awhile ago due to bugs, but has since been patche
 <td><font color=#ff1919>■</font></td>
 <td>This player is a quantum ghost marked by the <font color=#ff1919>Lightning</font></td>
 </tr>
-
+</table>
 > From: NotPyro404
 </details>
 </font>

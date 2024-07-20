@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/translations/zh-CN/options/Crewmates/Support/Medic.html.vue"
+const data = JSON.parse("{\"path\":\"/translations/zh-CN/options/Crewmates/Support/Medic.html\",\"title\":\"Medic\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Medic\",\"prev\":\"Mechanic\",\"next\":\"Medium\"},\"headers\":[],\"git\":{\"updatedTime\":1721197834000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2}]},\"filePathRelative\":\"translations/zh-CN/options/Crewmates/Support/Medic.md\"}")
+export { comp, data }

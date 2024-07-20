@@ -85,7 +85,7 @@ contributors: false
 <summary><b><font color=#12edaf>Site Changelogs/Updates</font></b></summary>
 
 * By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
-= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.0.0 Canary 11<br>
+= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.0.0 Canary 11.1<br>
 \+ Have a good day!<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, open a forum in `#website-feedback`! Thank you!<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: `Tracker`, `Noisemaker`, and `Phantom` have been added to the Vanilla Tab of their respective factions.<br>

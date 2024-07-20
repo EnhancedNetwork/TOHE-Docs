@@ -762,7 +762,7 @@ Bug (This Death Reason occured awhile ago due to bugs, but has since been patche
 <td><font color=#ff1919>■</font></td>
 <td>This player is a quantum ghost marked by the <font color=#ff1919>Lightning</font></td>
 </tr>
-
+</table>
 > From: NotPyro404
 </details>
 </font>

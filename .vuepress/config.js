@@ -37,8 +37,8 @@ export default defineUserConfig({
                 link: '/options/Settings/Addons.html',
               },
               {
-                text: 'Custom Settings',
-                link: '/options/Settings/Custom.html',
+                text: 'Game Settings',
+                link: '/options/Settings/Game.html',
               },
               {
                 text: 'System Settings',
@@ -81,7 +81,8 @@ export default defineUserConfig({
         ],
         sidebar: {
           '/options/Addons/Experimental/': [
-            { text: 'Glow', link: '/options/Addons/Experimental/Glow.html' }
+            { text: 'Glow', link: '/options/Addons/Experimental/Glow.html' },
+            { text: 'Swift', link: '/options/Addons/Impostor/Swift.html' }
           ],
           '/options/Addons/Harmful/': [
             { text: 'Back to Addons', link: '/options/Settings/Addons.html' },
@@ -106,7 +107,6 @@ export default defineUserConfig({
             { text: 'Bewilder', link: '/options/Addons/Helpful/Bewilder.html' },
             { text: 'Burst', link: '/options/Addons/Helpful/Burst.html' },
             { text: 'Cyber', link: '/options/Addons/Helpful/Cyber.html' },
-            { text: 'Double Shot', link: '/options/Addons/Helpful/DoubleShot.html' },
             { text: 'Flash', link: '/options/Addons/Helpful/Flash.html' },
             { text: 'Lazy', link: '/options/Addons/Helpful/Lazy.html' },
             { text: 'Loyal', link: '/options/Addons/Helpful/Loyal.html' },
@@ -131,7 +131,6 @@ export default defineUserConfig({
             { text: 'Mare', link: '/options/Addons/Impostor/Mare.html' },
             { text: 'Mimic', link: '/options/Addons/Impostor/Mimic.html' },
             { text: 'Stealer', link: '/options/Addons/Impostor/Stealer.html' },
-            { text: 'Swift', link: '/options/Addons/Impostor/Swift.html' },
             { text: 'Tricky', link: '/options/Addons/Impostor/Tricky.html' },
           ],
           '/options/Addons/Miscellaneous/': [
@@ -155,9 +154,13 @@ export default defineUserConfig({
             { text: 'Guesser', link: '/options/Addons/Mixed/Guesser.html' },
             { text: 'OIIAI', link: '/options/Addons/Mixed/OIIAI.html' },
             { text: 'Paranoia', link: '/options/Addons/Mixed/Paranoia.html' },
-            { text: 'Rebound', link: '/options/Addons/Mixed/Rebound.html' },
             { text: 'Stubborn', link: '/options/Addons/Mixed/Stubborn.html' },
             { text: 'Susceptible', link: '/options/Addons/Mixed/Susceptible.html' },
+          ],
+          '/options/Addons/Other/': [
+            { text: 'Double Shot', link: '/options/Addons/Other/DoubleShot.html' },
+            { text: 'Onbound', link: '/options/Addons/Other/Onbound.html' },
+            { text: 'Rebound', link: '/options/Addons/Other/Rebound.html' }
           ],
           '/options/Crewmates/Basic/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
@@ -323,6 +326,7 @@ export default defineUserConfig({
             { text: 'Cursed Wolf', link: '/options/Impostors/Killing/CursedWolf.html' },
             { text: 'Deathpact', link: '/options/Impostors/Killing/Deathpact.html' },
             { text: 'Evil Guesser', link: '/options/Impostors/Killing/EvilGuesser.html' },
+            { text: 'Evil Hacker', link: '/options/Impostors/Killing/EvilHacker.html' },
             { text: 'Evil Tracker', link: '/options/Impostors/Killing/EvilTracker.html' },
             { text: 'Greedy', link: '/options/Impostors/Killing/Greedy.html' },
             { text: 'Hangman', link: '/options/Impostors/Killing/Hangman.html' },
@@ -343,8 +347,7 @@ export default defineUserConfig({
           ],
           '/options/Impostors/Madmate/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
-            { text: 'Convict', link: '/options/Impostors/Madmate/Convict.html' },
-            { text: 'Crewposter', link: '/options/Impostors/Madmate/Crewposter.html' },
+            { text: 'Crewpostor', link: '/options/Impostors/Madmate/Crewpostor.html' },
             { text: 'Parasite', link: '/options/Impostors/Madmate/Parasite.html' },
             { text: 'Refugee', link: '/options/Impostors/Madmate/Refugee.html' },
           ],
@@ -376,7 +379,6 @@ export default defineUserConfig({
             { text: 'Amnesiac', link: '/options/Neutrals/Benign/Amnesiac.html' },
             { text: 'Follower', link: '/options/Neutrals/Benign/Follower.html' },
             { text: 'Hater', link: '/options/Neutrals/Benign/Hater.html' },
-            { text: 'Imitator', link: '/options/Neutrals/Benign/Imitator.html' },
             { text: 'Lawyer', link: '/options/Neutrals/Benign/Lawyer.html' },
             { text: 'Maverick', link: '/options/Neutrals/Benign/Maverick.html' },
             { text: 'Opportunist', link: '/options/Neutrals/Benign/Opportunist.html' },
@@ -419,12 +421,13 @@ export default defineUserConfig({
                 { text: 'Sunnyboy', link: '/options/Neutrals/Evil/Sunnyboy.html' },
               ]
             },
-            { text: 'Masochist', link: '/options/Neutrals/Evil/Masochist.html' },
+            { text: 'Punching Bag', link: '/options/Neutrals/Evil/PunchingBag.html' },
             { text: 'Seeker', link: '/options/Neutrals/Evil/Seeker.html' },
           ],
           '/options/Neutrals/Experimental/': [
             { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
             { text: 'Doppelganger', link: '/options/Neutrals/Experimental/Doppelganger.html' },
+            { text: 'Imitator', link: '/options/Neutrals/Experimental/Imitator.html' },
             { text: 'Quizmaster', link: '/options/Neutrals/Experimental/Quizmaster.html' },
           ],
           '/options/Neutrals/Killing/': [
@@ -460,9 +463,9 @@ export default defineUserConfig({
             { text: 'Wraith', link: '/options/Neutrals/Killing/Wraith.html' },
           ],
           '/options/Settings/': [
-            { text: 'Custom Settings', link: '/options/Settings/Custom.html' },
-            { text: 'System Settings', link: '/options/Settings/System.html' },
             { text: 'Game Settings', link: '/options/Settings/Game.html' },
+            { text: 'System Settings', link: '/options/Settings/System.html' },
+            { text: 'Mod Settings', link: '/options/Settings/Mod.html' },
             { text: 'Game Modifiers', link: '/options/Settings/Modifiers.html' },
             { text: 'Impostors', link: '/options/Settings/Impostors.html' },
             { text: 'Crewmates', link: '/options/Settings/Crewmates.html' },

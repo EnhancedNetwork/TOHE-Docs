@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Flash
-prev: DoubleShot
+prev: Cyber
 next: Lazy
 ---
 

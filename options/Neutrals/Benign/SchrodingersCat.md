@@ -13,6 +13,6 @@ In Addition to this, you will be counted as nothing in the game.<br><br>
 
 Note: If the killing machine attempts to use their kill button on you, the interaction is not blocked, and you will die.
 * Max
-  * Set the Maximum amount of Shrodingers Cats that can be in a match
+  * Set the Maximum amount of Schrodinger Cats that can be in a match
 
 > Idea & Coding: [ryuk](#)

@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Neutrals/Experimental/Doppelganger.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Neutrals/Experimental/Doppelganger.html\",\"title\":\"Doppelganger\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Doppelganger\",\"prev\":\"/options/settings/Neutrals.html\",\"next\":\"Quizmaster\"},\"headers\":[],\"git\":{\"updatedTime\":1720414906000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Neutrals/Experimental/Doppelganger.md\"}")
-export { comp, data }

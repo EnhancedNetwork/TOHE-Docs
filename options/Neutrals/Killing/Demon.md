@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Demon
-prev: Bloodknight
+prev: BloodKnight
 next: Glitch
 ---
 

@@ -2,7 +2,7 @@
 lang: en-US
 title: Hater
 prev: Follower
-next: Imitator
+next: Lawyer
 ---
 
 # <font color="#414b66">😠 <b>Hater</b></font> <Badge text="Benign" type="tip" vertical="middle"/>

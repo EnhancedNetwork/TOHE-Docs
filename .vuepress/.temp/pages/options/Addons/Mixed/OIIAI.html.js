@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Addons/Mixed/OIIAI.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Addons/Mixed/OIIAI.html\",\"title\":\"OIIAI\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"OIIAI\",\"prev\":\"Guesser\",\"next\":\"Paranoia\"},\"headers\":[],\"git\":{\"updatedTime\":1720414906000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Addons/Mixed/OIIAI.md\"}")
-export { comp, data }

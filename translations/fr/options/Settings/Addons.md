@@ -1,14 +1,14 @@
 ---
 lang: en-US
 title: Add-ons
-prev: /options/settings/Neutrals.html
-next: /options/settings/Experimental.html
+prev: /Roles.html
+next: /Roles.html
 ---
 
 # <font color="#ff9ace">📋 <b>Add-ons</b></font>
 ---
 
-<b>These are modifiers that any players can acquire. There are some that help you, some that harm you, and some can do both! There are also some <font color=red>Impostor Only</font> add-ons. Each one is unique in the way it affects the player.</b><br>
+<b>These are modifiers that any players can acquire. There are some that help you, some that harm you, and some can do both! There are also some <font color=red>Impostor Only</font> add-ons. Each one is unique in the way it affects the player.<br>Some add-ons are only received from other players, such as Cleansed or Knighted. These are known as Betrayal Add-ons. These will not be covered on this page. Add-ons in the "Other" Tab are ones that aren't found on the add-ons tab in TOHE itself. This includes ones in Game Modifiers.</b><br>
 
 <table>
 <tr>
@@ -17,7 +17,7 @@ next: /options/settings/Experimental.html
 
 <tr>
 <td><font color=#4d223a><b>🚧 Experimental</b></font></td>
-<td align="center">1</td>
+<td align="center">2</td>
 </tr>
 
 <tr>
@@ -27,17 +27,17 @@ next: /options/settings/Experimental.html
 
 <tr>
 <td><font color=#00ff00><b>🤑 Helpful</b></font></td>
-<td align="center">19</td>
+<td align="center">21</td>
 </tr>
 
 <tr>
 <td><font color=red><b>🦹 Impostor Only</b></font></td>
-<td align="center">9</td>
+<td align="center">8</td>
 </tr>
 
 <tr>
 <td><font color=#a83295><b>⚙️ Miscellaneous</b></font></td>
-<td align="center">5</td>
+<td align="center">6</td>
 </tr>
 
 <tr>
@@ -46,8 +46,13 @@ next: /options/settings/Experimental.html
 </tr>
 
 <tr>
+<td><font color=#32a87f><b>🗃️ Other (Site Only)</b></font></td>
+<td align="center">3</td>
+</tr>
+
+<tr>
 <td><font color=#ff9ace><b>Total:</b></font></td>
-<td align="center"><b>58 (+1)</b></td>
+<td align="center"><b>72</b></td>
 </tr>
 
 </table>
@@ -55,7 +60,7 @@ next: /options/settings/Experimental.html
 
 ### <font color=#4d223a><b>Experimental</b></font>
 ---
-[Glow](/options/Addons/Experimental/Glow.html)
+[Glow](/options/Addons/Experimental/Glow.html) | [Swift](/options/Addons/Experimental/Swift.html)
 
 ### <font color=#ff0000><b>Harmful</b></font>
 ---
@@ -64,12 +69,12 @@ next: /options/settings/Experimental.html
 
 ### <font color=#00ff00><b>Helpful</b></font>
 ---
-[Autopsy](/options/Addons/Helpful/Autopsy.html) | [Bait](/options/Addons/Helpful/Bait.html) | [Beartrap](/options/Addons/Helpful/Beartrap.html) | [Bewilder](/options/Addons/Helpful/Bewilder.html) | [Burst](/options/Addons/Helpful/Burst.html) | [Cyber](/options/Addons/Helpful/Cyber.html) | [Double Shot](/options/Addons/Helpful/DoubleShot.html) | [Flash](/options/Addons/Helpful/Flash.html) | [Lazy](/options/Addons/Helpful/Lazy.html) | [Loyal](/options/Addons/Helpful/Loyal.html) | [Lucky](/options/Addons/Helpful/Lucky.html) | [Necroview](/options/Addons/Helpful/Necroview.html) | [Nimble](/options/Addons/Helpful/Nimble.html) | [Overclocked](/options/Addons/Helpful/Overclocked.html) | [Seer](/options/Addons/Helpful/Seer.html) | [Silent](/options/Addons/Helpful/Silent.html) | [Sleuth](/options/Addons/Helpful/Sleuth.html) | [Tiebreaker](/options/Addons/Helpful/Tiebreaker.html) | [Torch](/options/Addons/Helpful/Torch.html) | [Watcher](/options/Addons/Helpful/Watcher.html)
+[Autopsy](/options/Addons/Helpful/Autopsy.html) | [Bait](/options/Addons/Helpful/Bait.html) | [Beartrap](/options/Addons/Helpful/Beartrap.html) | [Bewilder](/options/Addons/Helpful/Bewilder.html) | [Burst](/options/Addons/Helpful/Burst.html) | [Cyber](/options/Addons/Helpful/Cyber.html) | [Flash](/options/Addons/Helpful/Flash.html) | [Lazy](/options/Addons/Helpful/Lazy.html) | [Loyal](/options/Addons/Helpful/Loyal.html) | [Lucky](/options/Addons/Helpful/Lucky.html) | [Necroview](/options/Addons/Helpful/Necroview.html) | [Nimble](/options/Addons/Helpful/Nimble.html) | [Overclocked](/options/Addons/Helpful/Overclocked.html) | [Seer](/options/Addons/Helpful/Seer.html) | [Silent](/options/Addons/Helpful/Silent.html) | [Sleuth](/options/Addons/Helpful/Sleuth.html) | [Tiebreaker](/options/Addons/Helpful/Tiebreaker.html) | [Torch](/options/Addons/Helpful/Torch.html) | [Watcher](/options/Addons/Helpful/Watcher.html)
 <br>
 
 ### <font color=red><b>Impostor</b></font>
 ---
-[Circumvent](/options/Addons/Impostor/Circumvent.html) | [Clumsy](/options/Addons/Impostor/Clumsy.html) | [Last Impostor](/options/Addons/Impostor/LastImpostor.html) | [Madmate](/options/Addons/Impostor/Madmate.html) | [Mare](/options/Addons/Impostor/Mare.html) | [Mimic](/options/Addons/Impostor/Mimic.html) | [Stealer](/options/Addons/Impostor/Stealer.html) | [Swift](/options/Addons/Impostor/Swift.html) | [Tricky](/options/Addons/Impostor/Tricky.html)
+[Circumvent](/options/Addons/Impostor/Circumvent.html) | [Clumsy](/options/Addons/Impostor/Clumsy.html) | [Last Impostor](/options/Addons/Impostor/LastImpostor.html) | [Madmate](/options/Addons/Impostor/Madmate.html) | [Mare](/options/Addons/Impostor/Mare.html) | [Mimic](/options/Addons/Impostor/Mimic.html) | [Stealer](/options/Addons/Impostor/Stealer.html) | [Tricky](/options/Addons/Impostor/Tricky.html)
 <br>
 
 ### <font color=#a83295><b>Miscellaneous</b></font>
@@ -78,7 +83,11 @@ next: /options/settings/Experimental.html
 
 ### <font color=#32a87f><b>Mixed</b></font>
 ---
-[Antidote](/options/Addons/Mixed/Antidote.html) | [Avenger](/options/Addons/Mixed/Avenger.html) | [Aware](/options/Addons/Mixed/Aware.html) | [Bloodthirst](/options/Addons/Mixed/Bloodthirst.html) | [Diseased](/options/Addons/Mixed/Diseased.html) | [Ghoul](/options/Addons/Mixed/Ghoul.html) | [Gravestone](/options/Addons/Mixed/Gravestone.html) | [Guesser](/options/Addons/Mixed/Guesser.html) | [OIIAI](/options/Addons/Mixed/OIIAI.html) | [Paranoia](/options/Addons/Mixed/Paranoia.html) | [Rebound](/options/Addons/Mixed/Rebound.html) | [Stubborn](/options/Addons/Mixed/Stubborn.html) | [Susceptible](/options/Addons/Mixed/Susceptible.html)
+[Antidote](/options/Addons/Mixed/Antidote.html) | [Avenger](/options/Addons/Mixed/Avenger.html) | [Aware](/options/Addons/Mixed/Aware.html) | [Bloodthirst](/options/Addons/Mixed/Bloodthirst.html) | [Diseased](/options/Addons/Mixed/Diseased.html) | [Ghoul](/options/Addons/Mixed/Ghoul.html) | [Gravestone](/options/Addons/Mixed/Gravestone.html) | [Guesser](/options/Addons/Mixed/Guesser.html) | [OIIAI](/options/Addons/Mixed/OIIAI.html) | [Paranoia](/options/Addons/Mixed/Paranoia.html) | [Stubborn](/options/Addons/Mixed/Stubborn.html) | [Susceptible](/options/Addons/Mixed/Susceptible.html)
+
+### <font color=#ff9ace><b>Other</b></font>
+---
+[Double Shot](/options/Addons/Other/DoubleShot.html) | [Onbound](/options/Addons/Other/Onbound.html) | [Rebound](/options/Addons/Other/Rebound.html)
 
 <br>
 

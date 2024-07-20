@@ -1,20 +1,23 @@
 ---
 lang: en-US
 title: Canary Changelogs
+sidebarDepth: 1
 sidebar:
-- { text: Latest Changelog, link: /Changelogs.html}
+- { text: Latest Changelogs, link: /Changelogs.html}
 - { text: Changelogs Tags, link: /changelogs/Tags.html}
-- { text: Previous Stable Changelogs, link: /changelogs/Stable.html}
-- { text: Previous Canary Changelogs, link: /changelogs/Canary.html}
-- { text: Previous Dev Changelogs, link: /changelogs/Dev.html}
+- { text: All Stable Changelogs, link: /changelogs/Stable.html}
+- { text: All Canary Changelogs, link: /changelogs/Canary.html}
+- { text: All Dev Changelogs, link: /changelogs/Dev.html}
 ---
 
-# Dev Changelogs
----
-To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester] (Content Creator with your TOHE videos having 600+ views on average).
+## <font size=5em><b>All Dev Releases/Changelogs:</b></font><br>
+To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohe) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester] (Content Creator with your TOHE videos having 600+ views on average).
 
 ---
-## <font size=5em><b>Latest: v2.0.0 Dev 25</b></font><br>
+<font size=4em>
+<details>
+<summary><b><font color=#cf4e8f>v2.0.0 Dev 25</font></b></summary>
+
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed assign tasks<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when icons not showing for non-host modded players<br>
@@ -41,12 +44,16 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#F6BE00><b>CHANGE</b></font>: Reset Sheriff and Knight cooldown if it has no more kills<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed double trigger for Vampire<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Disable lobby timer on modded servers (no need this)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 24.1</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 24 HOTFIX 1</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken camouflage (temporarily revert some improvements for EAC)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 24</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 24</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed assign Lovers<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Phantom now cannot be Infected by Virus<br>
@@ -64,8 +71,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**WaterPanda**](#)<br>
 = <font color=#32CD32><b>TYPOS</b></font>: Fixed some typos and descriptions<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 23</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 23</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Now at the end of the game, players who left the game after death will display the real death reason and after the reason "(Disconnected)"<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed the vent icon for some roles that are based on engineer<br>
@@ -79,8 +88,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added lobby timer in "template.txt"<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 22</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 22</b></font><br>
 * By [**D1GQ**](https://github.com/D1GQ)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Simplified some Dollmaster code for OnCheckMurder<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue with burst activating on a possessed player<br>
@@ -104,8 +115,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed error in logs with Split Message (Code ported from: EHR)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 21</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 21</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed vanilla ghost roles are assigned multiple times (this bug would sometimes make tasks disappear for some players)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Quizmaster showed twice on the victory screen<br>
@@ -121,8 +134,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 \+ <font color=green><b>NEW</b></font>: Settings for Engineer: "Vent Cooldown" and "Max Time In Vents"<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 20</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 20</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: bug when God was based on Impostor<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Doll Master blocked report dead body<br>
@@ -143,24 +158,32 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that caused players appearances to swap when possessing right before meeting gets called<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that caused the possessed players Vision not to be set to 0<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that caused Main Body text not to show<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 19.1</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 19.1</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Аgain small fix for Quizmaster (lol)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 19</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 19</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when everyone got enigma clue during meeting (i hope)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed a lot bugs for Quizmaster<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 18</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 18</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Cultist<br>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when kill button not work<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 17</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 17</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed comms camouflage for modded<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed double icons for some roles<br>
@@ -171,18 +194,24 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
 \+ <font color=green><b>NEW</b></font>: Automatically ban spoofed friend code (Can be disabled in settings)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 16</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 16</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Changing the version display size by 70%<br>
 \- <font color=#12edaf><b>REVERT</b></font>: Reverted Re-factor codebase roles because it's very buggy (the improvement for Chronomancer is also temporarily reverted (Sorry))<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 15</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 15</b></font><br>
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 \- <font color=#12edaf><b>REVERT</b></font>: Blackmailer has been reverted to the old version (since improved has a lot of bugs)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Deputy<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 14</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 14</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Swooper<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Snitch arrows not shown for non-host modded clients<br>
@@ -191,8 +220,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Try to fix Blackmailing<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Trapster error<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 13</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 13</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: The lobby timer now will be displayed for vanilla players<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when non-host modded clients not sync lobby timer<br>
@@ -204,8 +235,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#F6BE00><b>CHANGE</b></font>: Experimental Roles Tab has been removed, and Experimental Roles are now placed into the Tabs of their respective Factions. (Still Marked as Experimental)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Re-factor codebase roles<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed many issues<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 12.4</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 12.4</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed message "host does not have a mod"<br>
 
@@ -221,23 +254,31 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 \+ <font color=green><b>NEW</b></font>: If Dollmaster starts a meeting by any means, it is redirected to possessed player.<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Added a new list of specific roles in DollMaster.cs that cannot interact with a possessed player due to bugs or issues, this list will probably be added onto in the future.<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Dollmaster unpossessing will now start waiting if possessed player cannot be teleported, beforehand it would only check if Dollmaster could be teleported to start waiting.<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 12.3</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 12.3</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when a lot players got kicked (now for sure)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 12.2</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 12.2</b></font><br>
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when a lot players got kicked<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 12.1</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 12.1</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Some fix in code<br>
 
 * By [**0xDrMoe**](https://github.com/0xDrMoe)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Changed Radar color (sorry Lauryn <3 it's not that bad looking)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 12</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 12</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Impostor Killing Role: [Evil Hacker](/options/Impostors/Killing/EvilHacker.html) (Ported from TOH)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Now the message that the host does not have a mod will be constantly checked until it disappears completely<br>
@@ -248,8 +289,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved player checking system for the invalid color<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 11</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 11</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Some optimizations in sync settings and fixed update<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed some null errors in logs<br>
@@ -267,8 +310,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Fortune Teller (This role is now automated in code)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 10</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 10</b></font><br>
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Non-Host Modded Client RPCs<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Added Null checks into EAC<br>
@@ -281,8 +326,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**0xDrMoe**](https://github.com/0xDrMoe)<br>
 = <font color=#32CD32><b>TYPOS</b></font>: Fixed several typos, inconsistencies and mistakes in the mod itself!<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 9</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 9</b></font><br>
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Workaholic winning before completing tasks<br>
 
@@ -309,8 +356,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed RPC for non-host modded clients<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 8</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 8</b></font><br>
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 \+ <font color=green><b>NEW</b></font>: Helpful Addon: [Radar](/options/Addons/Helpful/Radar.html) (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Pyro </span>)<br>
 
@@ -326,12 +375,16 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix aum and sicko rpc<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 7.1</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 7.1 (Hotfix)</b></font><br>
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken RPC<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 7</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 7</b></font><br>
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix system message not sending and role not being assigned to players<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix system message cutting off in between of a message<br>
@@ -340,12 +393,16 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix glitch rpc sync<br>
 \+ <font color=green><b>NEW</b></font>: Setting: immediate auto start<br>
 \+ <font color=green><b>NEW</b></font>: Command: /me (gives id, friendcode and HashedPUID of a player)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 6.1</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 6.1 (Hotfix)</b></font><br>
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Executioner not spawning at all<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 6</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 6</b></font><br>
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
 \- <font color=red><b>REMOVED</b></font>: Remove limit of rpc call numbers<br>
 
@@ -363,7 +420,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix null error spamming like crazy for non host modded clients<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Add function for main role getting called when addon is assigned mid game for non host modded clients<br>
 
-## <font size=5em><b>v2.0.0 Dev 5</b></font><br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 5</font></b></summary>
+
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Tricky (Addon) giving Shattered (Death Reason) when Fragile (Addon) is off<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Hawk<br>
@@ -376,8 +436,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Grenadier not working<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix EAC list not working when apply banlist is off<br>
 \+ <font color=green><b>NEW</b></font>: Experimental Add-on: [Glow](/options/Experimental/Addons/Glow.html) (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Omega </span>)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 4</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 4</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Veteran<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix OIIAI Settings<br>
@@ -388,8 +450,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#1376f0><b>BUG FIX</b></font>: fix addon % display on /r [addon]<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: fix lawyer not winning after death<br>
 \+ <font color=green><b>NEW</b></font>: Setting: Amnesiac arrows<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 3</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 3</b></font><br>
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: fix FFA mode getting crewmate instead of killer<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: fix lawyer mark<br>
@@ -398,8 +462,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed game crash (hopefully)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 2.1</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 2.1 (Hotfix)</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), & [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed many roles (More details you can found in the dev-bug-report) <br>
 
@@ -413,8 +479,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved mod updater <br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 2</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 2</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), & [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed many roles (More details you can found in the dev-bug-report) <br>
 
@@ -425,8 +493,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved mod updater <br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Dev 1</font></b></summary>
 
-## <font size=5em><b>v2.0.0 Dev 1</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), [**ryuk**](https://github.com/ryuk2098), & [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved code base for all roles (Role Base) (Note about translations: In this build, some translations will be reset to English because the translation key or the text itself has been changed (For now, use custom translation)) <br>
 
@@ -465,8 +535,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#32CD32><b>TYPO</b></font>: Fixed Shaman typo <br>
 
 = <font color=#fdf08e><b>NOTES</b></font>: Maybe something else has been fixed, but i didn't notice it <br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.6.0 Dev 6</font></b></summary>
 
-## <font size=5em><b>v1.6.0 Dev 6</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 +  Support AU v2024.3.5 <br>
 \+ <font color=green><b>NEW</b></font>: Added Dleks in Map Picker Menu (Thanks Submerged sourse code) <br>
@@ -479,8 +551,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Susceptible making role visisble to others <br>
 = <font color=#32CD32><b>TYPO</b></font>: Fixed Plague Scientist typo <br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.6.0 Dev 5</font></b></summary>
 
-## <font size=5em><b>v1.6.0 Dev 5</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed bug when alive players saw all the roles <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when FFA didn't end <br>
@@ -488,9 +562,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**Pietro**](https://github.com/Pietrodjaowjao) and [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Mod updater <br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.6.0 Dev 4</font></b></summary>
 
-
-## <font size=5em><b>v1.6.0 Dev 4</b></font><br>
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improve announcement patch (Ported from TOH-Y) (Now the announcement will be translated via Crowdin) <br>
 
@@ -503,8 +578,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Ghost roles no longer show in Guesser UI <br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.6.0 Dev 3</font></b></summary>
 
-## <font size=5em><b>v1.6.0 Dev 3</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved role spawns (Ported from TOHE+) (Now for each role you can set the chance of appearance from 0% to 100%) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed "IsAlive" for modded clients <br>
@@ -521,15 +598,19 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Retributionist & Nemesis (These roles are now moved in ghost roles) (Update this if you use either roles or you will not have them in game!) <br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.6.0 Dev 2</font></b></summary>
 
-## <font size=5em><b>v1.6.0 Dev 2</b></font><br>
 * By [**Drakos**](https://github.com/Ultradragon005) & [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed some bugs with ghost roles (Now "/up" unable to assign ghost-roles bcuz it breaks the game) <br>
 
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
 \+ <font color=green><b>NEW</b></font>: New setting: "Disable VoteKick System" <br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.6.0 Dev 1</font></b></summary>
 
-## <font size=5em><b>v1.6.0 Dev 1</b></font><br>
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Progress text and target mark for Pirate <br>
 \- <font color=red><b>REMOVED</b></font>: Removed Overtired from enabled addons list <br>
@@ -556,8 +637,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 \+ <font color=green><b>NEW</b></font>: New function: Ghost Roles <br>
 \+ <font color=green><b>NEW</b></font>: New roles: "Warden" for Crew, "Minion" for Impostor <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved code base for all add-ons (Partially helped by: TommyXL) <br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.5.1 Dev 3</font></b></summary>
 
-## <font size=5em><b>v1.5.1 Dev 3</b></font><br>
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when RPCVersionCheck not work correctly <br>
 
@@ -572,17 +655,20 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Inspector seeing Rascal as Crew and Impostor <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Made some fixes for Romantics <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Time Master worked incorrectly <br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.5.1 Dev 2.1</font></b></summary>
 
-
-## <font size=5em><b>v1.5.1 Dev 2.1</b></font><br>
 * By [**0xDrMoe**](https://github.com/0xDrMoe)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated Monarch Description to include Monarch immunity condition <br>
 = <font color=#32CD32><b>TYPO</b></font>: Fixed <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Rainbow </span> typo in /r <br>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed <font color=#8708c7><b>TRANSLATION</b></font> issue taking Irish instead of English due to incorrect ID <br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.5.1 Dev 2</font></b></summary>
 
-## <font size=5em><b>v1.5.1 Dev 2</b></font><br>
 * By [**Drakos**](https://github.com/Ultradragon005) <br>
 \+ <font color=green><b>NEW</b></font>: Added New role: Penguin <br>
 \+ <font color=green><b>NEW</b></font>: Added New role: Stealth <br>
@@ -599,8 +685,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**LezaiYa**](https://github.com/LezaiYa) AND [**NikoCat223**](https://github.com/NikoCat233)<br> 
 \+ <font color=green><b>NEW</b></font>: New Add-On -<span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Rainbow </span><br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.5.1 Dev 1</font></b></summary>
 
-## <font size=5em><b>v1.5.1 Dev 1</b></font><br>
 * By [**LezaiYa**](https://github.com/LezaiYa) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Some Strings <br>
 
@@ -617,8 +705,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Prevent bans from InnerSloth servers if not modded host <br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.4.1 Dev 3</font></b></summary>
 
-## <font size=5em><b>v1.4.1 Dev 3</b></font><br>
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 \+ <font color=green><b>NEW</b></font>: Added New setting for copycat to copy team changing addon instead of just copying madmate <br>
 \+ <font color=green><b>NEW</b></font>: Added New setting for Fortune Teller: Show random active roles in Fortune Teller hints <br>
@@ -638,8 +728,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed when solsticer can be murdered <br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.4.1 Dev 2</font></b></summary>
 
-## <font size=5em><b>v1.4.1 Dev 2</b></font><br>
 * By [**CrewCyan**](#) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug where Mini could not be exiled <br>
 
@@ -669,12 +761,16 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Spam LateTask About Mole On Exit Vent <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Disconnect At Game End (Coded by dev TOH) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Save Presets (Coded by dev TOH) <br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.4.1 Dev 1.2</font></b></summary>
 
-## <font size=5em><b>v1.4.1 Dev 1.2</b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed bug where sometimes non-modded players don't get teleported <br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.4.1 Dev 1.1</font></b></summary>
 
-## <font size=5em><b>v1.4.1 Dev 1.1</b></font><br>
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Quizmaster not working <br>
 
@@ -682,8 +778,10 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Sort Options & Remove Unused Options <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix MeetingHud OnDestroy Null Error <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Sort Options & Remove Unused Options <br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.4.1 Dev 1</font></b></summary>
 
-## <font size=5em><b>v1.4.1 Dev 1 </b></font><br>
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Added Support for Vanilla Hide & Seek <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Provocateur can no longer get Bait <br>
@@ -704,22 +802,23 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
 \+ <font color=green><b>NEW</b></font>: Added option to hide 'Host♥' text <br>
 = <font color=#8708c7><b>TRANSLATIONS</b></font>: Translated API tags, where translation was available <br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.3.1 Dev 2.2</font></b></summary>
 
-## <font size=5em><b>v1.3.1 Dev 2 (HOTFIX #2)</b></font><br>
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix meeting button broken<br>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Workaholic getting Double Shot<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.3.1 Dev 2.1</font></b></summary>
 
----
-
-## <font size=5em><b>v1.3.1 Dev 2 (HOTFIX #1)</b></font><br>
 = I just don't have words.... (proper file attached in this hotfix)<br>
-
----
-
-## <font size=5em><b>v1.3.1 Dev 2</b></font><br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.3.1 Dev 2</font></b></summary>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Anti first kill Host<br>
@@ -734,10 +833,9 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Taskinator killing alive players<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Romantic spamming error<br>
 \+ <font color=green><b>NEW</b></font>: Crewmate Power role: [Captain](/options/Crewmates/Power/Captain.html)<br>
-
----
-
-## <font size=5em><b>v1.3.1 Dev 1</b></font><br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.3.1 Dev 1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Visual Bug With Negative Task<br>
@@ -765,10 +863,9 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
 \+ <font color=green><b>NEW</b></font>: Add Region: Modded SA (MSA)<br>
-
----
-
-## <font size=5em><b>v1.2.1 Dev 4</b></font><br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.2.1 Dev 4</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed player names for desync impostor during Mushroom Mixup <br>
@@ -779,10 +876,9 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 \- <font color=red><b>REMOVED</b></font>: Removed egoist count as setting from ParityCop <br>
 \+ <font color=green><b>NEW</b></font>: Added setting for Egoist to be counted as converted neutral <br>
 \+ <font color=green><b>NEW</b></font>: Added setting for converted madmate to kill without repercussions <br>
-
----
-
-## <font size=5em><b>v1.2.1 Dev 3</b></font><br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.2.1 Dev 3</font></b></summary>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Improved Banning system <br>
@@ -817,10 +913,9 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 * By [**lars-wu (papercut)**](https://github.com/lars-wu)<br>
 \+ <font color=green><b>NEW</b></font>: Crewmate Support Role: [Enigma](/options/Crewmates/Support/Enigma.html) <br>
 \+ <font color=green><b>NEW</b></font>: Impostor Killing Role: [Instigator](/options/Impostors/Killing/Instigator.html) <br>
-
----
-
-## <font size=5em><b>v1.2.1 Dev 2</b></font><br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.2.1 Dev 2</font></b></summary>
 
 * By [**NikoCat233**](https://github.com/NikoCat233) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Recode admirer for better performance <br>
@@ -840,10 +935,9 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 * By [**TommyXL**](https://github.com/Tommy-XL) <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Improved code base for better performance <br>
 \+ <font color=green><b>NEW</b></font>: Camouflage skins (<font color=#ec7578>TommyXL</font> and <font color=#919497>Gurge44</font>) <br>
-
----
-
-## <font size=5em><b>v1.2.1 Dev 1</b></font><br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.2.1 Dev 1</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed /gno (Fixed wrong message being displayed when player guesses the number on their last guess.) <br>
@@ -866,10 +960,9 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 \+ <font color=#002654><b>French</b></font> by [**KevOut**](#), [**Sansationnelle**](#), & [**KlÃ©mi**](#).<br>
 \+ <font color=#bd0029><b>Japanese</b></font> by [**Sunnyboi**](#).<br>
 \+ <font color=#009b3a><b>Latam (Latin American)</b></font> by [**CreepPower**](#).<br>
-
----
-
-## <font size=5em><b>v1.1.0 Dev 1</b></font><br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.1.0 Dev 1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved «FixedUpdatePatch» <br>
@@ -897,10 +990,9 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 * By [**Everyone**](https://github.com/0xDrMoe/TownofHost-Enhanced)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated default template message for all translations by: [**ryuk**](#), [**TommyXL**](#), [**Dopzy**](#), [**Dawson**](#), [**LezaiYa**](#), [**NetherDragonTw**](#) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Several other bug fixes (Majorily by [**TommyXL**](#)) <br>
-
----
-
-## <font size=5em><b>v1.0.2 Dev 4</b></font><br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.0.2 Dev 4</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 \+ <font color=green><b>NEW</b></font>: Ported Rebound from SLE (originally coded by SolarFlare) <br>
@@ -927,10 +1019,9 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 = <font color=#1376f0><b>BUG FIX</b></font>: Some fix for setting "Remove Pets At Dead Players" <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Renamed Agent back to Evil Tracker <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Code Enhancement to improve performance <br>
-
----
-
-## <font size=5em><b>v1.0.2 Dev 3.1</b></font><br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.0.2 Dev 3.1</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 \+ <font color=green><b>NEW</b></font>: Added double click to kill setting for Infectious<br>
@@ -950,31 +1041,27 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated Whitelist (You can add nicknames for keeping track of friend codes (friendcode#1234, nickname))<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: some other fixes<br>
-
----
-
-## <font size=5em><b>v1.0.2 Dev 3</b></font><br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.0.2 Dev 3</font></b></summary>
 
 * By [**Moe**](https://github.com/0xDrMoe)<br>
 = I hate ryuk<br>
 \- <font color=red><b>REMOVED</b></font>: Herobrine 😱<br>
-
----
-
-## <font size=5em><b>v1.0.2 Dev 2.1 (1/2) (HOT-HOTFIX)</b></font><br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.0.2 Dev 2.1.1</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Internal version matched Dev 2, now fixed.<br>
-
----
-
-## <font size=5em><b>v1.0.2 Dev 2.1 (HOTFIX)</b></font><br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.0.2 Dev 2.1</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: fixed President (modded clients should not see President without reveal (thanks [Julius](#) for helping with testing!))<br>
-
----
-
-## <font size=5em><b>v1.0.2 Dev 2</b></font><br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.0.2 Dev 2</font></b></summary>
 
 * By [**LezaiYa**](https://github.com/LezaiYa)<br>
 \+ <font color=green><b>NEW</b></font>: Crewmate Support Role: [Spy](/options/Crewmates/Support/Spy.html)<br>
@@ -990,10 +1077,11 @@ To access Dev Builds, become a Sponsor on [Ko-Fi](https://ko-fi.com/tohen) (at l
 
 * <font color=#8708c7><b>TRANSLATIONS</b></font>: Added support for more Translations!<br>
 \+ <font color=#009b3a><b>Portuguese (Brazil)</b></font> by [**Reginaldoo**](#), [**Dopzy**](#), & [**Arc**](#)
-
----
-
-## <font size=5em><b>v1.0.2 Dev 1</b></font><br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.0.2 Dev 1</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 \+ <font color=green><b>NEW</b></font>: Crewmate Power Role: [President](/options/Crewmates/Power/President.html) from SLE (if this goes well for a few days, we'll release a Canary)
+</details>
+</font>

@@ -2,7 +2,7 @@
 lang: en-US
 title: Guesser
 prev: Gravestone
-next: Rebound
+next: OIIAI
 ---
 
 # <font color=#f8cd46>❔ <b>Guesser</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>

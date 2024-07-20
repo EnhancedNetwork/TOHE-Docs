@@ -5,7 +5,7 @@ prev: Scientist
 next: /options/Settings/Crewmates.html
 ---
 
-# <font color="#8cffff">📡 <b>Tracker</b></font> <Badge text="Vanilla" type="tip" vertical="middle"/>
+# <font color="#19a612">📡 <b>Tracker</b></font> <Badge text="Vanilla" type="tip" vertical="middle"/>
 ---
 
 As the Tracker, press your tracker button on a player to track their location via the map for a limited amount of time.

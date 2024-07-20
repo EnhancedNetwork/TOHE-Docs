@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Tricky
-prev: Swift
+prev: Stealer
 next: /options/Settings/Addons.html
 ---
 

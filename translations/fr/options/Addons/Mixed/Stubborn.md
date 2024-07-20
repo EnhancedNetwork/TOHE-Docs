@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Stubborn
-prev: Rebound
+prev: Paranoia
 next: Susceptible
 ---
 

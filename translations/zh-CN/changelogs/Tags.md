@@ -1,23 +1,28 @@
 ---
 lang: en-US
 title: Canary Changelogs
+sidebarDepth: 1
 sidebar:
-- { text: Latest Changelog, link: /Changelogs.html}
+- { text: Latest Changelogs, link: /Changelogs.html}
 - { text: Changelogs Tags, link: /changelogs/Tags.html}
-- { text: Previous Stable Changelogs, link: /changelogs/Stable.html}
-- { text: Previous Canary Changelogs, link: /changelogs/Canary.html}
-- { text: Previous Dev Changelogs, link: /changelogs/Dev.html}
+- { text: All Stable Changelogs, link: /changelogs/Stable.html}
+- { text: All Canary Changelogs, link: /changelogs/Canary.html}
+- { text: All Dev Changelogs, link: /changelogs/Dev.html}
 ---
 
-# Recently Added Tags
----
-
-* None
+## <font size=5em><b>All Changelog Tags:</b></font><br>
+These are Tags to help you differentiate between Bugs & Changes, Additions & Reworks, Removals & Reverts.
 
 ---
+<font size=4em>
+<details>
+<summary><b><font color=#8708c7>Recently Added Tags</font></b></summary>
 
-# Main Changelog Tags
----
+\+ <font color=#12edaf><b>RENAMED</b></font>: Mixture of NEW, CHANGE, & TYPO, (mostly used for Role Renames/Page Renames). <br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Bugs that are currently being worked on, or are not currently resolvable.<br>
+</details>
+<details>
+<summary><b><font color=#8708c7>All Site Tags</font></b></summary>
 
 \- <font color=red><b>REMOVED</b></font>: Features recently deleted from the Mod/Site. <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: CHANGES, but specifically to make a Feature run/look better. <br>
@@ -28,12 +33,14 @@ sidebar:
 \+ <font color=#12edaf><b>RENAMED</b></font>: Mixture of NEW, CHANGE, & TYPO, (mostly used for Role Renames). <br>
 \- <font color=#12edaf><b>REVERT</b></font>: Mixture of REMOVED & CHANGE, (mostly used for Role Reverts). <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Bugs/Buggy Features that have been fixed. <br>
-= <font color=#8708c7><b>TRANSLATIONS</b></font>: Recently added/finished Translations for the mod, (The Tag on the change itself will be custom) <br>
+= <font color=#8708c7><b>TRANSLATIONS</b></font>: Recently added/finished Translations for the mod, the Tag on the change itself will be custom. <br>
 = <font color=#fdf08e><b>NOTES</b></font>: Not necessarily a big change/addition/etc, but important to keep in mind. <br>
-= <font color=#ece218><b>NOTICE</b></font>: Small Info/Announcement. (Typically relating to website)
+= <font color=#ece218><b>NOTICE</b></font>: Small Info/Announcement. (Typically relating to website) <br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Bugs that are currently being worked on, or are not currently resolvable.
+</details>
+<details>
+<summary><b><font color=#8708c7>Translation Tags</font></b></summary>
 
-## Translation Tags
 \+ <font color=#002654><b>French</b></font>: French Translation of the mod.<br>
 \+ <font color=#bd0029><b>Japanese</b></font>: Japanese Translation of the mod.<br>
 \+ <font color=#009b3a><b>Latam (Latin American)</b></font>: Latam Translation of the mod.<br>
@@ -47,3 +54,5 @@ sidebar:
 \+ <font color=#ffcf00><b>German</b></font>: German Translation of the mod.<br>
 \+ <font color=#056306><b>Portuguese (Portuguese Portugal)</b></font>: Portuguese Translation of the mod.<br>
 \+ <font color=#dc143c><b>Polish</b></font> Polish Translation of the mod.
+</details>
+</font>

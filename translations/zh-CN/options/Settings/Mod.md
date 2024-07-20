@@ -1,8 +1,8 @@
 ---
 lang: en-US
-title: Game Settings
-prev: System
-next: Modifiers
+title: Mod Settings
+prev: /Roles.html
+next: /Roles.html
 ---
 
 # <font color=#ffc0cb>🎮 Mod Settings</font>

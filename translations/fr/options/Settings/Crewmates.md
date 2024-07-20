@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Crewmates
-prev: Impostors
-next: Neutrals
+prev: /Roles.html
+next: /Roles.html
 ---
 
 # <font color="#8cffff">🦸‍♂️ <b>Crewmate Roles</b></font>
@@ -16,7 +16,7 @@ next: Neutrals
 </tr>
 <tr>
 <td><font color=#e69c9c><b>🧒 Basic</b></font></td>
-<td align="center">14</td>
+<td align="center">16</td>
 </tr>
 
 <tr>
@@ -41,17 +41,17 @@ next: Neutrals
 
 <tr>
 <td><font color=#7fffd4><b>🫂 Support</b></font></td>
-<td align="center">28</td>
+<td align="center">27</td>
 </tr>
 
 <tr>
 <td><font color=#8cffff><b>🍦 Vanilla</b></font></td>
-<td align="center">3</td>
+<td align="center">6</td>
 </tr>
 
 <tr>
 <td><font color=#8cffff><b>Total:</b></font></td>
-<td align="center"><b>72</b></td>
+<td align="center"><b>89</b></td>
 </tr>
 
 </table>

@@ -13,6 +13,7 @@ contributors: false
 If you are a content creator, you may use these builds in your videos, but you may not provide a download link for your viewers. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked.<br><br>
 This policy is in place to keep the integrity of our Sponsor, Contributor, & Tester roles. If you are interested in becoming one of these roles, please see the below sections for more information.</b><br><br><br>
 
+<font size=4em>
 <details>
 <summary><b><font color=#d395b4>How to get Stable Builds</font></b></summary>
 
@@ -20,7 +21,7 @@ This policy is in place to keep the integrity of our Sponsor, Contributor, & Tes
 
 Installation requires that you own a PC version of Among Us on Steam, Epic, or Itch. 
 </details>
-
+<br>
 <details>
 <summary><b><font color=#d395b4>Install TOHE for</font> <font color=#14356a>Steam</font></b></summary>
 
@@ -29,17 +30,17 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, or I
 2. Once the download is complete, unzip it into a new empty folder like on desktop.
 
 3. Locate your AmongUs install. For example, if you own the game on Steam, you can find this by right clicking on the game in your library, selecting "Manage", and finally selecting "Browse local files."<br>
-![image](../../images/SteamGetFolder.png)
+![image](./images/SteamGetFolder.png)
 
 4. Select all of the files in your Among Us installation and copy them to the folder that now has the files from the TOHE release. The folder should now look something like this:<br>
-![image](../../images/ResultFolder.png)
+![image](./images/ResultFolder.png)
 
 5. Within the TOHE folder, run `Among Us.exe`. The first time running it may take some time while the mod sets up its files. If you see a black screen, just wait a couple minutes. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.
 
 6. `(Optional)` Right click your `Among Us.exe` and click '`Create shortcut`'. Move your new shortcut to wherever you can easily access it, such as your Desktop!
 #### You have now installed Town of Host: Enhanced! All that remains is to start up a private lobby and customize your settings.
 </details>
-
+<br>
 <details>
 <summary><b><font color=#d395b4>Install TOHE for</font> <font color=#343434>Epic Games</font></b></summary>
 
@@ -48,24 +49,22 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, or I
 2. Once the download is complete, unzip it into a new empty folder somewhere like on desktop.
 
 3. Locate your AmongUs install. Find Among Us and click on the 3 dots `...` > click the folder icon button on the installation bar.<br>
-![image](../../images/EpicInstallation.png)
+![image](./images/EpicInstallation.png)
 
 4. Select all of the files in your Among Us installation and copy them to the folder that now has the files from the TOHE release. The folder should now look something like this:<br>
-![image](../../images/EpicFiles.png)
+![image](./images/EpicFiles.png)
 
-5. Make sure `legendary.exe` does not have a (1) or any other number in it and is named exactly this.
+5. Within the TOHE folder, run `EpicGamesStarter.exe` ([Download Here](https://github.com/whichtwix/EpicGamesStarter/releases/tag/1.0.2) & Follow instructions on page.) The first time running it may take some time while installing a prerequisite and the mod sets up its files. If you see a black screen or a console window, just wait a couple minutes. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.
 
-6. Within the TOHE folder, run `EpicGamesStartGame.cmd`. The first time running it may take some time while installing a prerequisite and the mod sets up its files. If you see a black screen or a console window, just wait a couple minutes. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.
+6. Add the folder you put the mod and among us files in as a exclusion for any antivirus you have and windows defender.
 
-7. Add the folder you put the mod and among us files in as a exclusion for any antivirus you have and windows defender.
-
-8. `(Optional)` Right click your `EpicGamesStartGame.cmd` and click '`Create shortcut`'. Move your new shortcut to wherever you can easily access it, such as your Desktop!
+7. `(Optional)` Right click your `EpicGamesStarter.exe` and click '`Create shortcut`'. Move your new shortcut to wherever you can easily access it, such as your Desktop!
 
 #### You have now installed Town of Host: Enhanced! All that remains is to start up a private lobby and customize your settings.
 
-> PS: Thanks Twix.
+> From: Twix
 </details>
-
+<br>
 <details>
 <summary><b><font color=#d395b4>New Releases</font></b></summary>
 
@@ -74,7 +73,7 @@ If it says it requires a newer version of Among Us, repeat steps 3-5 as well aft
 In some cases, the <b>Latest</b>> TOHE Builds are Canary or Dev Builds. Follow the first step in the below guide to get Dev/Canary Builds. Stable builds will always be the latest, unless a Canary build has a higher version number, unless a Dev build has a higher version number than the Canary version.<br>
 (Ex: 1.6.0 Stable -> 2.0.0 Dev 2 -> 2.0.0 Canary 1 -> 2.0.0 Stable)
 </details>
-
+<br>
 <details>
 <summary><b><font color=#d395b4>How to get</font> <font color=#8a2be2>Dev Builds</font></b></summary>
 
@@ -86,13 +85,13 @@ In some cases, the <b>Latest</b>> TOHE Builds are Canary or Dev Builds. Follow t
 
 Visit `#dev-builds` in the [TOH: Enhanced Discord](https://discord.gg/tohe) once you have been accepted into one of the above roles, and download the latest dll!
 </details>
-
+<br>
 <details>
 <summary><b><font color=#d395b4>How to get</font> <font color=#ffef00>Canary Builds</font></b></summary>
 
 * Visit `#canary-builds` in the [TOH: Enhanced Discord](https://discord.gg/tohe), and download the latest dll!
 </details>
-
+<br>
 <details>
 <summary><b><font color=#d395b4>Install</font> <font color=#8a2be2>Dev</font> <font color=#d395b4>&</font> <font color=#ffef00>Canary Builds</font></b></summary>
 
@@ -105,3 +104,4 @@ Visit `#dev-builds` in the [TOH: Enhanced Discord](https://discord.gg/tohe) once
 4. `(Notice)` If there is a Hot-Fix of the Dev/Canary Build you don't have yet, download the Main Build rather than the Hot-Fix, and run it. You may download the Hot-Fix afterwards. (This is optional too, but if you run into issues this is suggested before making a ticket/using `#mod-help`)
 #### You have successfully installed a Dev Build/Canary Build!
 </details>
+</font>

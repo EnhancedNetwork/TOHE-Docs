@@ -2,7 +2,7 @@
 lang: en-US
 title: Paranoia
 prev: OIIAI
-next: Rebound
+next: Stubborn
 ---
 
 # <font color=#3a648f>🫂 <b>Paranoia</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>

@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Double Shot
-prev: Cyber
-next: Flash
+prev: /options/Settings/Addons.html
+next: Onbound
 ---
 
-# <font color=#19fa8d>⏩ <b>Double Shot</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
+# <font color=#19fa8d>⏩ <b>Double Shot</b></font> <Badge text="Other" type="tip" vertical="middle"/>
 ---
 
 When a player with Double Shot guesses a role incorrectly, they will get a second chance to guess, but the next wrong guess will result in suicide.

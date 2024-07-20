@@ -81,7 +81,8 @@ export default defineUserConfig({
         ],
         sidebar: {
           '/options/Addons/Experimental/': [
-            { text: 'Glow', link: '/options/Addons/Experimental/Glow.html' }
+            { text: 'Glow', link: '/options/Addons/Experimental/Glow.html' },
+            { text: 'Swift', link: '/options/Addons/Impostor/Swift.html' }
           ],
           '/options/Addons/Harmful/': [
             { text: 'Back to Addons', link: '/options/Settings/Addons.html' },
@@ -106,7 +107,6 @@ export default defineUserConfig({
             { text: 'Bewilder', link: '/options/Addons/Helpful/Bewilder.html' },
             { text: 'Burst', link: '/options/Addons/Helpful/Burst.html' },
             { text: 'Cyber', link: '/options/Addons/Helpful/Cyber.html' },
-            { text: 'Double Shot', link: '/options/Addons/Helpful/DoubleShot.html' },
             { text: 'Flash', link: '/options/Addons/Helpful/Flash.html' },
             { text: 'Lazy', link: '/options/Addons/Helpful/Lazy.html' },
             { text: 'Loyal', link: '/options/Addons/Helpful/Loyal.html' },
@@ -131,7 +131,6 @@ export default defineUserConfig({
             { text: 'Mare', link: '/options/Addons/Impostor/Mare.html' },
             { text: 'Mimic', link: '/options/Addons/Impostor/Mimic.html' },
             { text: 'Stealer', link: '/options/Addons/Impostor/Stealer.html' },
-            { text: 'Swift', link: '/options/Addons/Impostor/Swift.html' },
             { text: 'Tricky', link: '/options/Addons/Impostor/Tricky.html' },
           ],
           '/options/Addons/Miscellaneous/': [
@@ -155,9 +154,13 @@ export default defineUserConfig({
             { text: 'Guesser', link: '/options/Addons/Mixed/Guesser.html' },
             { text: 'OIIAI', link: '/options/Addons/Mixed/OIIAI.html' },
             { text: 'Paranoia', link: '/options/Addons/Mixed/Paranoia.html' },
-            { text: 'Rebound', link: '/options/Addons/Mixed/Rebound.html' },
             { text: 'Stubborn', link: '/options/Addons/Mixed/Stubborn.html' },
             { text: 'Susceptible', link: '/options/Addons/Mixed/Susceptible.html' },
+          ],
+          '/options/Addons/Other/': [
+            { text: 'Double Shot', link: '/options/Addons/Other/DoubleShot.html' },
+            { text: 'Onbound', link: '/options/Addons/Other/Onbound.html' },
+            { text: 'Rebound', link: '/options/Addons/Other/Rebound.html' }
           ],
           '/options/Crewmates/Basic/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },

@@ -284,20 +284,4 @@ next: /Roles.html
   * <font color=green>ON</font>: Guesser UI will only display the roles that you have toggled on (5%-100%)
   * <font color=red>OFF</font>: Guesser UI will display all roles like before (0%-100%)
 
-<font side=4em color=#ffeb04>Roles and Add-ons for Guesser Mode</font>
-  * <font size=3.5em color=#baaae9><b>Onbound</b></font>
-    * Max
-      * Set the maximum amount of Onbound that can spawn
-    * Spawn Chance
-      * Set the chance that Onbound role will spawn
-    * <font color=red>Impostors</font> can become Onbound
-      * <font color=green>ON</font>: <font color=red>Impostors</font> can become Onbound
-      * <font color=red>OFF</font>: <font color=red>Impostors</font> cannot become Onbound
-    * <font color=#8cffff>Crewmates</font> can become Onbound
-      * <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become Onbound
-      * <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become Onbound
-    * <font color=#7f8c8d>Neutrals</font> can become Onbound
-      * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become Onbound
-      * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become Onbound
-
 > From: TOHE

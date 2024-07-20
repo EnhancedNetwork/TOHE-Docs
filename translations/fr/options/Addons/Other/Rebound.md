@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Rebound
-prev: Paranoia
-next: Stubborn
+prev: Onbound
+next: /options/Settings/Addons.html
 ---
 
-# <font color=#56b5ff>🏀 <b>Rebound</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
+# <font color=#56b5ff>🏀 <b>Rebound</b></font> <Badge text="Other" type="tip" vertical="middle"/>
 ---
 
 With the Rebound add-on, if a Guesser successfully guessed you or a Judge successfully judged you, they will die instead.<br>

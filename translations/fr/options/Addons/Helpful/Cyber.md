@@ -2,7 +2,7 @@
 lang: en-US
 title: Cyber
 prev: Burst
-next: DoubleShot
+next: Flash
 ---
 
 # <font color=#f46f4e>📸 <b>Cyber</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>

@@ -16,14 +16,55 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.0.0 Canary 10.1</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.0.0 Canary 11</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Added F3 and F4 to show role and add-ons settings, respectively
+\+ <font color=green><b>NEW</b></font>: Client Setting: "Disable Lobby Music"
+\+ <font color=green><b>NEW</b></font>: Setting: "Hide All Tags (for «AutoMuteUs»)"
+\+ <font color=green><b>NEW</b></font>: Setting for Pickpocket, Stealer and Paranoia: "Hide Additional Vote(s)"
+\+ <font color=green><b>NEW</b></font>: Setting for Monarch: "Hide additional vote for Knighted players"
+\+ <font color=green><b>NEW</b></font>: Setting for Maverick: "Minimum number of kills to win"
+\+ <font color=green><b>NEW</b></font>: Setting for Youtuber: "The Killer Wins with YouTuber"
+\- <font color=red><b>REMOVED</b></font>: Client Settings: "Small Screen Mode" and "Enable it if you use AutoMuteUs"
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Necromancer leaving a dead body after meeting
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed duplicate Ruthless Romantics in game end screen
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Modded clients show vanilla intro screen
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed random glitch when Witch/Hex Master kills players after meeting
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Workaholic incorrect win state
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed priority add-on assignment
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Councillor UI not working
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Rainbow on Ziplines
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed lower text for Hex Master
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Avenger
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Glow can no longer spawn on The Fungle
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Swift has moved to Experimental
+= <font color=#e08709><b>IMPROVEMENT??</b></font>: Moved Double Shot and Rebound to Game Modifiers tab (Mod Only, not Site)
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Punching Bag can no longer get many incompatible add-ons
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Killing Machine can no longer get Glow
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Mundane can no longer get Ghoul
+= <font color=#1376f0><b>BUG FIX</b></font>: Other minor fixes and changes
+
+* By [**ryuk**](https://github.com/ryuk2098)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved EAC
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Fragile
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Bodyguard & Bloodthirst incompatible
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Butcher playing congratulations sound
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed poll title cutting of the text
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Canary 10.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed lobby timer shows in game<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed some null errors<br>
 </details>
 <details>
-<summary><b><font color=#cf4e8f>v2.0.0 Canary 10</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Canary 10</font></b></summary>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 \+ <font color=green><b>NEW</b></font>: Setting to reveal Councillor Trial<br>

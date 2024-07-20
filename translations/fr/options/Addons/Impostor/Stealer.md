@@ -2,7 +2,7 @@
 lang: en-US
 title: Stealer
 prev: Mimic
-next: Swift
+next: Tricky
 ---
 
 # <font color=red>🤑 <b>Stealer</b></font> <Badge text="Impostor" type="tip" vertical="middle"/>

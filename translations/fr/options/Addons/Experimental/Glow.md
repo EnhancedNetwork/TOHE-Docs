@@ -2,7 +2,7 @@
 lang: en-US
 title: Glow
 prev: /options/settings/Addons.html
-next: /options/settings/Addons.html
+next: Swift
 ---
 
 # <font color=#e3f147>💡 <b>Glow</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>

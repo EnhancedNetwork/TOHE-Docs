@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Parasite
-prev: Refugee
-next: /options/Settings/Impostors.html
+prev: Crewpostor
+next: Refugee
 ---
 
 # <font color="red">🦠 <b>Parasite</b></font> <Badge text="Madmate" type="tip" vertical="middle"/>

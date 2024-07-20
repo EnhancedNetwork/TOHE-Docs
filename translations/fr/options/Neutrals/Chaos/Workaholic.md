@@ -2,7 +2,7 @@
 lang: en-US
 title: Workaholic
 prev: Vulture
-next: /options/settings/Neutrals.html
+next: /options/Settings/Neutrals.html
 ---
 
 # <font color="#008b8b">👷 <b>Workaholic</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>

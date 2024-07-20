@@ -2,7 +2,7 @@
 lang: en-US
 title: Swift
 prev: Glow
-next: /options/settings/Addons.html
+next: /options/Settings/Addons.html
 ---
 
 # <font color=red>🏃 <b>Swift</b></font> <Badge text="Impostor Experimental" type="tip" vertical="middle"/>

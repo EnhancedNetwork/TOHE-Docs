@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Crewmates/Support/Mortician.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Crewmates/Support/Mortician.html\",\"title\":\"Mortician\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Mortician\",\"prev\":\"Merchant\",\"next\":\"Observer\"},\"headers\":[],\"git\":{\"updatedTime\":1692418194000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":2}]},\"filePathRelative\":\"options/Crewmates/Support/Mortician.md\"}")
-export { comp, data }

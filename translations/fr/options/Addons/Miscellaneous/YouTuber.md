@@ -2,7 +2,7 @@
 lang: en-US
 title: YouTuber
 prev: Workhorse
-next: /options/settings/Addons.html
+next: /options/Settings/Addons.html
 ---
 
 # <font color=#fb749b>📹 <b>YouTuber</b></font> <Badge text="Miscellaneous" type="tip" vertical="middle"/>

@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Settings/Modifiers.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Settings/Modifiers.html\",\"title\":\"Game Modifiers\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Game Modifiers\",\"prev\":\"/Roles.html\",\"next\":\"/Roles.html\"},\"headers\":[],\"git\":{\"updatedTime\":1721507594000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":7},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":6}]},\"filePathRelative\":\"options/Settings/Modifiers.md\"}")
-export { comp, data }

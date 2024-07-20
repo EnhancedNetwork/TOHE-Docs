@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Glow
-prev: /options/settings/Addons.html
+prev: /options/Settings/Addons.html
 next: Swift
 ---
 

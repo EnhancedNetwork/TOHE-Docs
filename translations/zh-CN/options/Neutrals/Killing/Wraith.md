@@ -2,7 +2,7 @@
 lang: en-US
 title: Wraith
 prev: Werewolf
-next: /options/settings/Neutrals.html
+next: /options/Settings/Neutrals.html
 ---
 
 # <font color="#4b0082">🩻 <b>Wraith</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

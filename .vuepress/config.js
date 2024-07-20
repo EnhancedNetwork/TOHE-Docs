@@ -81,6 +81,7 @@ export default defineUserConfig({
         ],
         sidebar: {
           '/options/Addons/Experimental/': [
+            { text: 'Back to Addons', link: '/options/Settings/Addons.html' },
             { text: 'Glow', link: '/options/Addons/Experimental/Glow.html' },
             { text: 'Swift', link: '/options/Addons/Impostor/Swift.html' }
           ],
@@ -158,6 +159,7 @@ export default defineUserConfig({
             { text: 'Susceptible', link: '/options/Addons/Mixed/Susceptible.html' },
           ],
           '/options/Addons/Other/': [
+            { text: 'Back to Addons', link: '/options/Settings/Addons.html' },
             { text: 'Double Shot', link: '/options/Addons/Other/DoubleShot.html' },
             { text: 'Onbound', link: '/options/Addons/Other/Onbound.html' },
             { text: 'Rebound', link: '/options/Addons/Other/Rebound.html' }

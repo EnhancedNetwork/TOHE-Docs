@@ -2,7 +2,7 @@
 lang: en-US
 title: Quizmaster
 prev: Imitator
-next: /options/settings/Neutrals.html
+next: /options/Settings/Neutrals.html
 ---
 
 # <font color=#8464bc>❔ <b>Quizmaster</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>

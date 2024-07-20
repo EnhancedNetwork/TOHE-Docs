@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Cursed Soul
-prev: /options/settings/Neutrals.html
+prev: /options/Settings/Neutrals.html
 next: Doomsayer
 ---
 

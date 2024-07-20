@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Amnesiac
-prev: /options/settings/Neutrals.html
+prev: /options/Settings/Neutrals.html
 next: Follower
 ---
 

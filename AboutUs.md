@@ -527,7 +527,7 @@ Multiple Ideas such as: Marshall, Poisoner, Necroview, & Sidekick.
 
 ---
 
-[**Endless Host Roles**](https://github.com/Gurge44/TOHE_PLUS) (By: Gurge44)
+[**Endless Host Roles**](https://github.com/Gurge44/EndlessHostRoles) (By: Gurge44)
 <details>
 <summary><b><font color=gray>Mod Info</font></b></summary>
 

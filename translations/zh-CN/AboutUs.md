@@ -222,7 +222,7 @@ Used to use names like "Huier" and "天寸梦初". KPD, NiKoCat, Commandf1 are m
 
 ---
 
-[**Gurge44**](https://www.youtube.com/@200iqguy)：Role Coding & <font color=#cf192b><b>English</b></font> Translator
+[**Gurge44**](https://www.youtube.com/@200iqguy)：Role Coding, <font color=#cf192b><b>English</b></font> Translator, & EHR Developer
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -467,6 +467,7 @@ The original creator of TOH: Edited, now being worked on again as TONX/Town of N
 <details>
 <summary><b><font color=gray>Mod Info</font></b></summary>
 
+Repository Deleted by Owner.<br>
 TOH: Enhanced is a continuation of TOHE: Restored. (Later renamed to TOH: Re-Edited)
 </details>
 
@@ -526,10 +527,11 @@ Multiple Ideas such as: Marshall, Poisoner, Necroview, & Sidekick.
 
 ---
 
-[**Town Of Host Edited +**](https://github.com/Gurge44/TOHE_PLUS) (By: Gurge44)
+[**Endless Host Roles**](https://github.com/Gurge44/EndlessHostRoles) (By: Gurge44)
 <details>
 <summary><b><font color=gray>Mod Info</font></b></summary>
 
+Previously known as Town of Host Edited +<br>
 Multiple Ideas such as: Pyromaniac, Necromancer, Huntsman (Head Hunter), & Alchemist.
 </details>
 

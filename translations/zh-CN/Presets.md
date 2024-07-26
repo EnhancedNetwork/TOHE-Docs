@@ -6,7 +6,7 @@ contributors: false
 
 ## Presets
 
-You can save your favorite settings as presets and load them later. You can also download presets shared by others. If you want to use a preset, make sure the file is renamed to `Options.json` before using if, it isn't already. (If you do not have `File name extensions` marked on the `View` Tab, you only need to rename it to `Options`.)
+You can save your favorite settings as presets and load them later. You can also download presets shared by others. If you want to use a preset, make sure the file is renamed to `Options.json` before using it, if it isn't already. (If you do not have `File name extensions` marked on the `View` Tab, you only need to rename it to `Options`.)
 
 Note: You have to put the file in the following directory: `.\Among Us\TOHE-DATA\SaveData` for it to work. (If you cannot locate `TOHE-DATA\SaveData`, try enabling `Hidden items` on the `View` Tab!)
 

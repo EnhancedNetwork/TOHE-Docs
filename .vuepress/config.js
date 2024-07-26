@@ -67,10 +67,6 @@ export default defineUserConfig({
             link: '/Resources.html',
           },
           {
-            text: 'Presets',
-            link: '/Presets.html',
-          },
-          {
             text: 'Install',
             link: '/Install.html',
           },

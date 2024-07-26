@@ -84,7 +84,8 @@ contributors: false
 = <font color=#ece218><b>NOTICE</b></font>: Relating to the above changes, `Stable.md`, `Canary.md`, & `Dev.md` will be overhauled to utilize dropdown boxes too, but thats a lot more work.<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Fixing Spacing (hopefully) for `FAQ.md`, as well as `Install.md` & `Resources.md`.<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Increased the text size (hopefully) for `FAQ.md`, as well as `Install.md`, `Resources.md`, `Changelogs.md` (`Dev.md`, `Canary.md`, & `Stable.md`), & `Presets.md`.<br>
-\+ <font color=green><b>NEW</b></font>: Added `Presets.md` (Instead of cluttering `Resources.md` with future Preset Submissions, Presets will be listed here. Added Marg's Preset & removed 2 out of date Presets (WitchCraft & Moe's Presets which used the old system).<br>
+\+ <font color=green><b>NEW</b></font>: Added `Presets.md` (Instead of cluttering `Resources.md` with future Preset Submissions, Presets will be listed here.) Added Marg's Preset & removed 2 out of date Presets (WitchCraft & Moe's Presets which used the old system).<br>
+\+ <font color=green><b>NEW</b></font>: Added `Translations.md` (Instead of cluttering `Resources.md` with future Translation Submissions, Translations will be listed here.) Currently has no entries, nor submissions.<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: More Bios added to `AboutUs.md`. (Still not 100% Complete as we are still missing the Bios of a few Contributors. You can see which as they'll have `(Placeholder Bio)` in the place of their Bio.<br>
 = <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are finally corrected, thanks Drakos for doing the numbers! No idea what `[None] = Count: 13` still means though.<br>
 = <font color=#ece218><b>NOTICE</b></font>: There were a lot of new Settings added to the mod + settings added to some roles, which are not live on site yet. That's a lot of work, and I'm not going to do it right now!<br>

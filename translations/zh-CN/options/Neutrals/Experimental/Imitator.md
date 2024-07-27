@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Imitator
-prev: /options/Settings/Neutrals.html
+prev: Doppelganger
 next: Quizmaster
 ---
 

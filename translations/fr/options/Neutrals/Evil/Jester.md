@@ -27,7 +27,7 @@ If the Jester get voted out, the Jester wins the game alone. If the Jester is st
 
 <center>
 
-[<font color="#ff9902">Sunnyboy</font>](../Sunnyboy.html)
+[<font color="#ff9902">Sunnyboy</font>](./Sunnyboy.html)
 </center>
 
 > From: TOH

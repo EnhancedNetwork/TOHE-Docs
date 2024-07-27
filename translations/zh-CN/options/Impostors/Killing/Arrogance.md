@@ -21,7 +21,7 @@ The Arrogance reduces their kill cooldown with each successful kill of theirs.
 
 <center>
 
-[<font color="red">Bard</font>](../Bard.html)
+[<font color="red">Bard</font>](./Bard.html)
 </center>
 
 > From: TOU & Coding: [KARPED1EM](https://github.com/KARPED1EM)、[天寸梦初](https://github.com/Huier-Huang)

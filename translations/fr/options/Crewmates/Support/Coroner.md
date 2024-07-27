@@ -12,7 +12,7 @@ As a Coroner you can’t report bodies, instead when you try to report, you will
 * Max
   * Set how many Coroners can be in a match
 * Arrows pointing to dead bodies
-  * <font color=green>ON</font>: the Coroner will receive an arrow (like [Mortician](../Mortician)) pointing towards any dead bodies
+  * <font color=green>ON</font>: the Coroner will receive an arrow (like [Mortician](./Mortician)) pointing towards any dead bodies
   * <font color=red>OFF</font>: the Coroner will not receive any arrows
 * Bodies the Coroner uses can’t be reported
   * <font color=green>ON</font>: any body that the Coroner interacts with cannot be reported

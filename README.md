@@ -25,10 +25,9 @@ footer: "© 2023 By The Enhanced Network"
 </center>
 
 ---
-<p>To all the amazing players that keep Town of Host: Edited & Town of Host: Re-Edited in their hearts:</p>
-<p>We have taken over TOH: Re-Edited to keep the mod maintained. Moe has taken Project Lead, and will still be maintaining the website with Pyro's assistance; as well as the Ko-fi.</p>
-<p>We play Among Us a fair amount, so we will do our best to keep it all updated and viable to play with each update that comes</p>
-<p>Please keep in mind that we are still in the Early phase, so not everything is optimized/stable.
-We ask for your patience while we continue to work on Town of Host: <i><b>Enhanced</b></i></p>
-<p>Ultimately, we thank you for your patience while we continue to update the mod. TOHE & TOHRE will be remembered with the new name Town of Host: Enhanced!</p>
-<p>Thanks Pyro for your help with the website! - Moe</p><br>
+<p>To all the amazing players that keep supporting us & Town of Host Enhanced after these few months: Thank you!</p>
+<p>Moe will still be maintaining the website with Pyro's assistance; as well as the Ko-fi.</p>
+<p>We appreciate your patience while we continue to work on Town of Host: <i><b>Enhanced</b></i>, as we try our absolute hardest to make sure that you get a great experience as bug free as possible.</p>
+<p>Please be sure to read [FAQ](/FAQ.html) and [Install](/Install.html), and if you need further assistance, don't be afraid to contact us.</p>
+<p>Visit [Changelogs](/Changelogs.html) for the latest Mod + Website Updates.</p>
+<p>[Main Website](https://weareten.ca/)</p>

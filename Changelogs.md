@@ -35,11 +35,11 @@ contributors: false
 
 ::: tip Extra Info
 = <font color=#ece218><b>NOTICE</b></font>: Support latest version Among Us v2024.6.18 (By [**TommyXL**](https://github.com/Tommy-XL), [**Pietro**](https://github.com/Pietrodjaowjao), [**Drakos**](https://github.com/Ultradragon005), [**NikoCat223**](https://github.com/NikoCat233))<br>
-= <font color=#ece218><b>NOTICE</b></font>: New Settings UI (Base ported from TOH-Y)<br>
+= <font color=#ece218><b>NOTICE</b></font>: New Settings UI (Base ported from [TOH-Y](https://github.com/Yumenopai/TownOfHost_Y))<br>
 :::
 
 * <font size=3em><font color=green><b>NEW ROLES/ADDONS</b></font></font><br>
-\+ <font color=green><b>NEW</b></font>: [Evil Hacker](./options/Impostors/Killing/EvilHacker.html) (Impostor Killing - Ported from TOH)<br>
+\+ <font color=green><b>NEW</b></font>: [Evil Hacker](./options/Impostors/Killing/EvilHacker.html) (Impostor Killing - Ported from [TOH](https://github.com/tukasa0001/TownOfHost))<br>
 \+ <font color=green><b>NEW</b></font>: [Doll Master](./options/Impostors/Experimental/DollMaster.html) (Experimental Impostor - By [**D1GQ**](https://github.com/D1GQ))<br>
 \+ <font color=green><b>NEW</b></font>: [Radar](./options/Addons/Helpful/Radar.html) (Helpful Add-On - By [**ryuk**](https://github.com/ryuk2098))<br>
 \+ <font color=green><b>NEW</b></font>: [Glow](./options/Addons/Experimental/Glow.html) (Experimental Add-On -By [**ryuk**](https://github.com/ryuk2098))<br>
@@ -80,8 +80,8 @@ contributors: false
 \+ <font color=green><b>NEW</b></font>: Monarch: `Hide additional vote for Knighted players` (By [**TommyXL**](https://github.com/Tommy-XL))<br>
 \+ <font color=green><b>NEW</b></font>: Maverick: `Minimum number of kills to win` (By [**TommyXL**](https://github.com/Tommy-XL))<br>
 \+ <font color=green><b>NEW</b></font>: YouTuber: `The Killer Wins with YouTuber` (By [**TommyXL**](https://github.com/Tommy-XL))<br>
-\+ <font color=green><b>NEW</b></font>: `Disable Task Win If All Crews Are Dead` (Ported from EHR)<br>
-\+ <font color=green><b>NEW</b></font>: `Disable Task Win If All Crews Are Converted` (Ported from EHR)<br>
+\+ <font color=green><b>NEW</b></font>: `Disable Task Win If All Crews Are Dead` (Ported from [EHR](https://github.com/Gurge44/EndlessHostRoles))<br>
+\+ <font color=green><b>NEW</b></font>: `Disable Task Win If All Crews Are Converted` (Ported from [EHR](https://github.com/Gurge44/EndlessHostRoles))<br>
 
 * <font size=3em><font color=#e08709><b>NEW/IMPROVED FEATURES</b></font></font><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Some roles based on Shapeshift will never play the Shapeshift animation (By [**TommyXL**](https://github.com/Tommy-XL))<br>
@@ -127,6 +127,9 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 \+ <font color=#12edaf><b>RENAMED</b></font>: Schizophrenic renamed to [Paranoia](/options/Addons/Mixed/Paranoia.html) (By [**WaterPanda**](#))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of `tohre.dev` updated to `weareten.ca` (By [**NotPyro404**](https://sites.google.com/view/notpyro404))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of `ko-fi.com/tohe` updated to `weareten.ca/tohe/` (By [**NotPyro404**](https://sites.google.com/view/notpyro404))<br>
+
+## Special thanks for help developing this version:
+[**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), [**NikoCat223**](https://github.com/NikoCat233), [**Pietro**](https://github.com/Pietrodjaowjao), [**D1GQ**](https://github.com/D1GQ), [**ryuk**](https://github.com/ryuk2098), [**Marg**](https://github.com/MargaretTheFool), [**Moe**](https://github.com/0xDrMoe), [**WaterPanda**](#), [**乐崽吖**](https://github.com/LezaiYa), [**Gurge44**](https://www.youtube.com/@200iqguy), [**NotPyro404**](https://sites.google.com/view/notpyro404), [**GameTechGuides**](https://github.com/GameTechGuides)
 </details>
 <br>
 <details>

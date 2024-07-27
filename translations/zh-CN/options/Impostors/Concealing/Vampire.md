@@ -20,7 +20,7 @@ You kill with a delay. If you bite someone, they will die a set amount of time l
 
 <center>
 
-[<font color="red">Vampiress</font>](./Vampiress.html)
+[<font color="red">Vampiress</font>](../Vampiress.html)
 </center>
 
 > From: TOH

@@ -424,7 +424,6 @@ export default defineUserConfig({
           ],
           '/options/Neutrals/Experimental/': [
             { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
-            { text: 'Doppelganger', link: '/options/Neutrals/Experimental/Doppelganger.html' },
             { text: 'Imitator', link: '/options/Neutrals/Experimental/Imitator.html' },
             { text: 'Quizmaster', link: '/options/Neutrals/Experimental/Quizmaster.html' },
           ],
@@ -435,6 +434,7 @@ export default defineUserConfig({
             { text: 'Bandit', link: '/options/Neutrals/Killing/Bandit.html' },
             { text: 'Blood Knight', link: '/options/Neutrals/Killing/BloodKnight.html' },
             { text: 'Demon', link: '/options/Neutrals/Killing/Demon.html' },
+            { text: 'Doppelganger', link: '/options/Neutrals/Killing/Doppelganger.html' },
             { text: 'Glitch', link: '/options/Neutrals/Killing/Glitch.html' },
             { text: 'Hex Master', link: '/options/Neutrals/Killing/HexMaster.html' },
             { text: 'Huntsman', link: '/options/Neutrals/Killing/Huntsman.html' },

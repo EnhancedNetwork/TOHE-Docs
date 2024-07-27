@@ -16,9 +16,9 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a young developer who loves coding and gaming. I started coding when I was in High School, and I've been coding for 6 years. I'm currently learning several coding languages, but I speak English, French and Arabic verbally! I started playing Among Us when it released, and I've been playing it ever since. I stopped when the game died down after Airship, but I stumbled upon TOHE and I loved it. I decided to help out with the mod, and somehow I'm currently the Project Lead.
+I'm a young developer who loves coding and gaming. I started coding when I was in High School, and I've been coding for 6 years. I'm currently learning several coding languages, but I speak English, French and Arabic verbally! I started playing Among Us when it released, and I've been playing it ever since. I stopped when the game died down after Airship, but I stumbled upon TOHE and I loved it. I decided to help out with the mod, and somehow I'm currently the President.
 
-I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++. I graduated from College with a degree in Computer Science, and I'm currently working as a freelance web developer. My main goal is to become a full-stack developer, fousing on Cybersecurity. and I'm working towards that goal.
+I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++. I graduated from College with a degree in Computer Science, and I'm currently working as a freelance web developer. My main goal is to become a full-stack developer, focusing on Cybersecurity. and I'm working towards that goal.
 </details>
 
 ---
@@ -40,7 +40,7 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 
-I'm also mostly known online as NotPyro404 (Prior: Pyro0TV). I am a Moderator in the TOHE Discord, aswell as the Website Assistant for tohre.dev. If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
+I'm also mostly known online as NotPyro404 (Prior: Pyro0TV). I am a Moderator in the TOHE Discord, aswell as the Website Assistant for [T.E.N.](https://weareten.ca/). If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 </details>
 
 ---

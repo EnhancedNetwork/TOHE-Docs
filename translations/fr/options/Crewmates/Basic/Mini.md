@@ -27,8 +27,8 @@ The mechanics for the Mini can differ whether or not it's an Evil Mini or a Nice
   * <font color=red>OFF</font>: the Mini's age will not be displayed in real-time
 <center>
 
-[<font color=red>Evil Mini Settings</font>](./MiniEvil.html)<br>
-[<font color="#dddddd">Nice Mini Settings</font>](./MiniNice.html)
+[<font color=red>Evil Mini Settings</font>](../MiniEvil.html)<br>
+[<font color="#dddddd">Nice Mini Settings</font>](../MiniNice.html)
 </center>
 
 > Idea & Coding: [LezaiYa](#)

@@ -30,8 +30,8 @@ Note : If your role changes your win condition will be changed accordingly
 
 <center>
 
-[<font color="#8b0000">Vengeful Romantic Settings</font>](./RomanticVengeful.html)<br>
-[<font color="#d2691e">Ruthless Romantic Settings</font>](./RomanticRuthless.html)
+[<font color="#8b0000">Vengeful Romantic Settings</font>](../RomanticVengeful.html)<br>
+[<font color="#d2691e">Ruthless Romantic Settings</font>](../RomanticRuthless.html)
 </center>
 
 > From: Stellar Roles & Coding: [Gurge44] & [ryuk]

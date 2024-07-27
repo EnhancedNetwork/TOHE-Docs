@@ -10,25 +10,19 @@ contributors: false
 <details>
 <summary><b><font color=#d395b4>How can I Install TOHE?</font></b></summary>
 
-Visit the [Install](/Install.html) page! This guides you through installing TOHE on etiher Steam or Epic, and also shows you how to install Dev & Canary Builds.
+Visit the [Install](/Install.html) page! This guides you through installing TOHE on etiher Steam, Epic, or Microsoft, and also shows you how to install Dev & Canary Builds.
 </details>
 <br>
 <details>
 <summary><b><font color=#d395b4>How can I install TOHE on phones, tablets, and consoles?</font></b></summary>
 
-You can only install mods on PC/Computer. You must have the Steam, Epic, or Itch versions of Among Us to download mods. If you have no PC/Computer, you don’t need to worry as, even if you don't have/can't get the mod, you can still join Host-Only mods (such as TOHE, TOH, PL, etc) as long as you have Among Us on any device! You can find the lobbies of these mods to join and play as long as you are on the right game version.
-</details>
-<br>
-<details>
-<summary><b><font color=#d395b4>Why doesn't TOHE load?</font></b></summary>
-
-Make sure you are on the latest version. The latest on our GitHub (TOHE v1.6.0) doesn't work by itself anymore. Among Us has updated a lot of things which makes TOHE broken. If you wish to play TOHE again, download the latest canary build in the #canary-builds channel. For help with doing that, read the [Install](/Install.html) page. (This Question is only here until `v2.0.0 Stable` is released)
+You can only install mods on PC/Computer. You must have the Steam, Epic, Microsoft, or Itch versions of Among Us to download mods. If you have no PC/Computer, you don’t need to worry as, even if you don't have/can't get the mod, you can still join Host-Only mods (such as TOHE, TOH, PL, etc) as long as you have Among Us on any device! You can find the lobbies of these mods to join and play as long as you are on the right game version.
 </details>
 <br>
 <details>
 <summary><b><font color=#d395b4>Why didn't TOHE load and give the pop-up "Fatal Error in GC: Collecting from unknown thread"?</font></b></summary>
 
-This can randomly happen due to errors in the code. Re-installing TOHE + Re-pasting your Vanilla Among Us files will allow you to play again. If this happens constantly, please be patient as Developers are aware of this error. PS: Make sure you copy important files before re-installing (such as files in your Language folder, TOHE-Data folder, etc).
+This can randomly happen due to errors in the code. re-installing TOHE + re-pasting your Vanilla Among Us files will allow you to play again. If this happens constantly, please be patient as Developers are aware of this error. PS: Make sure you copy important files before re-installing (such as files in your Language folder, TOHE-Data folder, etc).
 </details>
 <br>
 <details>

@@ -18,8 +18,8 @@ contributors: false
 <font size=4em><b>Latest Versions:</b></font><br>
 
 - <b><font size=3em>Dev:</font> [v2.0.0 Dev 25](/changelogs/Dev.html)</b><br>
-- <b><font size=4em>Canary:</font> [v2.0.0 Canary 12](/changelogs/Canary.html)</b><br>
-- <b><font size=3em>Stable:</font> [v1.6.0](/changelogs/Stable.html)</b><br>
+- <b><font size=3em>Canary:</font> [v2.0.0 Canary 12](/changelogs/Canary.html)</b><br>
+- <b><font size=4em>Stable:</font> [v2.0.0](/changelogs/Stable.html)</b><br>
 
 <table>
 <tr>

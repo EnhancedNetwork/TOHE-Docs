@@ -16,7 +16,15 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v1.6.0</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.0.0</font></b></summary>
+
+Changelogs Here lmaoo
+
+- Check out all of our translators on our [**Website**](https://weareten.ca/)
+* [**Full v2.0.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.6.0...v2.0.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
+</details>
+<details>
+<summary><b><font color=#d395b4>v1.6.0</font></b></summary>
 
 * <font size=3em><font color=green><b>NEW ADDONS</b></font></font><br>
 \+ <font color=green><b>NEW</b></font>: Statue (Harmful Addon - By: Drakos, Idea: spong)<br>
@@ -82,7 +90,7 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 \+ <font color=#ffc400><b>Spanish</b></font>: (Dawson, Sunnyboi, thewhiskas27, xxSShadow)<br>
 \+ <font color=#de2910><b>Traditional Chinese</b></font>: (FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)<br>
 
-- Check out all of our translators on our [**website**](https://tohre.dev)
+- Check out all of our translators on our [**Website**](https://weareten.ca/)
 * [**Full v1.6.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.5.0...v1.6.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
 </details>
 <details>
@@ -214,8 +222,9 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 \+ <font color=#0036a7><b>Russian</b></font>: (By: TommyXL, Shoulder Devil (MogekoNik), chill_ultimated, Nevermore59) <br>
 \+ <font color=#de2910><b>Simplified Chinese</b></font>: (By: CrewCyan, LezaiYa, NikoCat223) <br>
 \+ <font color=#ffc400><b>Spanish</b></font> (By: Dawson, Sunnyboi, thewhiskas27, xxSShadow) <br>
-\+ <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)
-- Check out all of our translators on our website
+\+ <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)<br>
+
+- Check out all of our translators on our [**Website**](https://weareten.ca/)
 * [**Full v1.5.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.4.0...v1.5.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
 </details>
 <details>
@@ -269,8 +278,9 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 \+ <font color=#0036a7><b>Russian</b></font>: (By: chill_ultimated, Nevermore59, Shoulder Devil, TommyXL) <br>
 \+ <font color=#de2910><b>Simplified Chinese</b></font>: (By: CrewCyan, Hinharrrrr, LezaiYa, NikoCat223) <br>
 \+ <font color=#ffc400><b>Spanish</b></font> (By: Dawson, Sunnyboi, thewhiskas27, xxSShadow) <br>
-\+ <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)
-- Check out all of our translators on our website
+\+ <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)<br>
+
+- Check out all of our translators on our [**Website**](https://weareten.ca/)
 * [**Full v1.4.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.3.0...v1.4.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
 </details>
 <details>
@@ -328,8 +338,9 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 \+ <font color=#009b3a><b>Latam (Latin American)</b></font> by [**CreepPower**](#).<br>
 \+ <font color=#009344><b>Italian</b></font> by [**Mattix606**](#), [**Baphojack**](#), & [**reallyalot**](#).<br>
 \+ <font color=#ffc400><b>Spanish</b></font> by [**xxSShadow**](#)(New Translator), [**Sunnyboi**](#), [**Dawson**](#), & [**thewhiskas**](#).<br>
-\+ <font color=#de2910><b>Traditional Chinese</b></font> by [**Pomelo_**](#)(New Translator), [**FlyFlyTurtle**](#)(New Translator), [**NikoCat223**](#), & [**NetherDragonTw**](#).
-- Check out all of our translators on our [**website**](https://tohre.dev)
+\+ <font color=#de2910><b>Traditional Chinese</b></font> by [**Pomelo_**](#)(New Translator), [**FlyFlyTurtle**](#)(New Translator), [**NikoCat223**](#), & [**NetherDragonTw**](#).<br>
+
+- Check out all of our translators on our [**Website**](https://weareten.ca/)
 * [**Full v1.3.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.2.0...v1.3.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
 </details>
 <details>
@@ -420,8 +431,9 @@ Updated en_US.json for some neutral killers (by Moe) <br>
 * <font size=2em><font color=#fdf08e><b>NOTES</b></font></font><br>
 = Language.dat (English.dat) updates automatically now. <br>
 = New variables for template file = {{HostName}} (host's name), ({{PlayerName}} is for any player.) <br>
-= Several Misc Bug Fixes and code enhancements by TommyXL, ryuk, Moe and Gurge44
-- Check out all of our translators on our [**website**](https://tohre.dev)
+= Several Misc Bug Fixes and code enhancements by TommyXL, ryuk, Moe and Gurge44<br>
+
+- Check out all of our translators on our [**Website**](https://weareten.ca/)
 * [**Full v1.1.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.0.1...v1.1.0) or support us on [**Ko-Fi**](https://ko-fi.com/tohe/) to get access to early features!
 </details>
 <details>

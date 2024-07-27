@@ -5,8 +5,8 @@ prev: null
 next: null
 navbar: false
 sidebar:
-    - { text: Visit our Store, link: https://store.tohre.dev/ }
-    - { text: Check out our Among Us Mod!, link: https://tohre.dev/ }
+    - { text: Visit our Store, link: https://weareten.ca/ }
+    - { text: Check out our Website, link: https://weareten.ca/ }
     - { text: Join our Discord, link: https://discord.gg/tohe }
     - { text: Support us on Ko-fi, link: https://ko-fi.com/TOHE }
 contributors: false

@@ -33,7 +33,7 @@ The Bomber can Shapeshift to Suicide Bomb the surrounding area. All player’s w
 
 <center>
 
-[<font color="red">Nuker</font>](./Nuker.html)
+[<font color="red">Nuker</font>](../Nuker.html)
 </center>
 
 > From: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM)

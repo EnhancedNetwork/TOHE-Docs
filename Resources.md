@@ -146,7 +146,7 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 </table>
 </details>
 
-> From: The Enhanced Network + NotPyro404
+> From: The Enhanced Network + Compiling: NotPyro404
 </details>
 <br>
 <details>
@@ -332,7 +332,7 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 </table>
 </details>
 
-> From: The Enhanced Network + NotPyro404
+> From: The Enhanced Network + Compiling: NotPyro404
 </details>
 <br>
 <details>
@@ -348,15 +348,15 @@ There are a few files:
 
 - `DenyName.txt`: A list of names that will be filtered out of the game.
 
-- `Moderators.txt`: A list of friendcodes that will receive a nice Moderator tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to moderate your lobby (such as using the commands near the top of the page). Only grant users you trust these permissions!
+- `Moderators.txt`: A list of friendcodes that will receive a nice Moderator tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to moderate your lobby (such as using the commands near the top of the page). Only grant users you trust these permissions! (NOTE: `english.dat` is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](./Resources.html) Page.)
 
 - `template.txt`: You can modify the `welcome` and `onMeeting` messages here. You can also add custom templates here as well following the same format as `welcome` & `onMeeting` use.
 
-- `VIP-List.txt`: A list of friendcodes that will be given a sweet VIP tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to change their name color.
+- `VIP-List.txt`: A list of friendcodes that will be given a sweet VIP tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to change their name color. (NOTE: `english.dat` is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](./Resources.html) Page.)
 
 - `WhiteList.txt`: A list of friendcodes that will be exempt from blacklisted platforms, along with level requirements.
 
-> From: The Enhanced Network + NotPyro404
+> From: The Enhanced Network + Compiling: NotPyro404
 </details>
 <br>
 <details>
@@ -391,7 +391,7 @@ There is a Tutorial at the bottom of the Template Editior's page if you need it.
 If you create copies of the template name on newlines, it will send them in seperate messages. Here's an example from Drakos: 
 ![image](./images/TemplateNewLines.png)
 
-> From: NotPyro404 + Drakos
+> From + Compiling: NotPyro404 + Images: Drakos
 </details>
 <br>
 <details>
@@ -403,6 +403,24 @@ Here's a Template Editor which you can use to edit or create templates.<br>
 The Template Editor is only 1 of the many Utilities (Also by Drakos) which are on this [Among Us Utilities](https://ultradragon005.github.io/AmongUs-Utilities/index.html) page. You can find a [Welcome Message Guide](https://ultradragon005.github.io/AmongUs-Utilities/guide.html), [Pixel Art Editor](https://ultradragon005.github.io/AmongUs-Utilities/pixelgrid.html), [Gallery](https://ultradragon005.github.io/AmongUs-Utilities/gallery.html), & also the [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) shown already.<br><br>
 
 > From: Drakos
+</details>
+<br>
+<details>
+<summary><b><font color=gray>template.dat Info</font></b></summary>
+
+You can edit your `template.dat` to say really anything you want! You can also download custom templates shared by others. If you want to use one, make sure the file is renamed to `english.dat` before using it, if it isn't already. (NOTE: english.dat is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](./Resources.html) Page.)<br><br>
+
+Note: You have to put the file in the following directory: `.\Among Us\Language` for it to work. (Make sure your file is a `.dat` file, otherwise it will not work. Paste it alongside the `template.dat` file already in your folder.)<br><br>
+
+You can do a lot with your `template.dat`, for this though, we'll refer to it as `english.dat` for simplicity sake. For starters, you can edit the Host Text, Icon, & Color. I won't go into depth on <i>everything</i> that the `english.dat` can edit, but it's almost every line of text that can be displayed on the screen. Once you get the hang of editing the Host Text, Icon, & Color, you can move down the list to edit anything you really want to (Such as Role Names, Role Descriptions, VIP Text, Moderator Text, and more).<br>
+Below is what the default `template.dat` looks like,<br>
+![image](./images/HostTextDefault.png)
+Versus what the edited `english.dat` I have looks like.<br>
+![image](./images/HostTextEdited.png)<br><br>
+
+Just mess around a little bit, and have fun! Make sure you copy your template as a backup before you try messing with it again, or messing with the mod itself.<br>
+
+> From + Compiling: NotPyro404
 </details>
 <br>
 <details>
@@ -429,7 +447,7 @@ The Template Editor is only 1 of the many Utilities (Also by Drakos) which are o
 - `{{ModVersion}}` - Displays the current version of TOHE.
 - `{{Map}}` - Displays the Map that is going to be played.
 
-> From: The Enhanced Network + NotPyro404
+> From: The Enhanced Network + Compiling: NotPyro404
 </details>
 <br>
 <details>
@@ -446,7 +464,7 @@ The Template Editor is only 1 of the many Utilities (Also by Drakos) which are o
 - `<size=[size][%]>exampleText</size>` Sets the <font size=2em>Size</font> of the text/font. (Can type exact text/font sizes or use percentages.)
 - `\n` Creates a New Line. (Such as `<br>` (or the `[Enter]` key) would)
 
-> From: The Enhanced Network + NotPyro404
+> From: The Enhanced Network + Compiling: NotPyro404
 </details>
 <br>
 <details>
@@ -484,7 +502,7 @@ Note: You have to put the file in the following directory: `.\Among Us\TOHE-DATA
 
 For some member submitted presets, browse [here](/Presets.html)
 
-> From: NotPyro404
+> From + Compiling: NotPyro404
 </details>
 <br>
 <details>
@@ -668,7 +686,7 @@ Death (Given to everyone alive if Death is not voted out when they transform)<br
 - Alive<br>
 Bug (This Death Reason occured awhile ago due to bugs, but has since been patched out)<br><br>
 
-> From: Marg
+> From: Marg + Compiling: NotPyro404
 </details>
 <br>
 <details>
@@ -751,11 +769,15 @@ Bug (This Death Reason occured awhile ago due to bugs, but has since been patche
 <td>This player is a teammate of the <font color=#404040>Schrodinger's Cat</font></td>
 </tr>
 <tr>
+<td><font color=#aa900d>⊠</font></td>
+<td>This player is marked by the <font color=#aa900d>Jailer</font></td>
+</tr>
+<tr>
 <td><font color=#ff1919>╳</font></td>
 <td>This player is blackmailed by the <font color=#ff1919>Blackmailer</font></td>
 </tr>
 <tr>
-<td><font color=#ff1919>⊗</font></td>
+<td><font color=#ff1919>∇</font></td>
 <td>This player is marked by the <font color=#ff1919>Kamikaze</font></td>
 </tr>
 <tr>
@@ -763,6 +785,33 @@ Bug (This Death Reason occured awhile ago due to bugs, but has since been patche
 <td>This player is a quantum ghost marked by the <font color=#ff1919>Lightning</font></td>
 </tr>
 </table>
-> From: NotPyro404
+
+> From + Compiling: NotPyro404
+</details>
+<br>
+<details>
+<summary><b><font color=gray>Among Us Supported Languages</font></b></summary>
+
+Below is a list of all languages supported by Vanilla Among Us.<br><br>
+
+- <font color=#002654><b>French</b></font> - French<br>
+- <font color=#bd0029><b>Japanese</b></font> - Japanese<br>
+- <font color=#009b3a><b>Latam </b></font> - Latin American<br>
+- <font color=#009344><b>Italian</b></font> - Italian<br>
+- <font color=#ffc400><b>Spanish</b></font> - Spanish<br>
+- <font color=#de2910><b>SChinese</b></font> - Simplified Chinese<br>
+- <font color=#de2910><b>TChinese</b></font> - Traditional Chinese<br>
+- <font color=#cf192b><b>English</b></font> - English<br>
+- <font color=#009b3a><b>Brazilian</b></font> - Portuguese Brazil<br>
+- <font color=#0036a7><b>Russian</b></font> - Russian<br>
+- <font color=#1e448b><b>Dutch</b></font> - Dutch<br>
+- <font color=#ffcf00><b>German</b></font> - German<br>
+- <font color=#056306><b>Portuguese </b></font> - Portuguese Portugal<br>
+- <font color=#dc143c><b>Polish</b></font> - Polish<br>
+- <font color=#CD2E3A><b>Korean</b></font> - Korean<br>
+- <font color=#FED141><b>Filipino</b></font> - Filipino<br>
+- <font color=#FF8200><b>Irish</b></font> - Irish<br>
+
+> From: Innersloth + Compiling: NotPyro404
 </details>
 </font>

@@ -20,8 +20,7 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 
 ::: danger Caution
 = <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: When «dlekS ehT» map is selected, the game lags in the lobby for vanilla players (Everything in game is fine).<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: Swift & Imitator are working, but are unstable<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, & Imitator are working, but are unstable<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Modded clients have some problems, so it is  temporarily recommended that only the host has the mod installed, and players to join on Vanilla.<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Black screen after meeting for vanilla players (This is not fixable at this time as it's an issue with Vanilla, not TOHE)<br>
 :::

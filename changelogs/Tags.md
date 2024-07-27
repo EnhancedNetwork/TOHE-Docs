@@ -54,7 +54,6 @@ These are Tags to help you differentiate between Bugs & Changes, Additions & Rew
 - <font color=#1e448b><b>Dutch</b></font>: Dutch Translation of the mod.<br>
 - <font color=#ffcf00><b>German</b></font>: German Translation of the mod.<br>
 - <font color=#056306><b>Portuguese (Portuguese Portugal)</b></font>: Portuguese Translation of the mod.<br>
-- <font color=#dc143c><b>Polish</b></font>: Polish Translation of the mod.<br>
 - <font color=#CD2E3A><b>Korean</b></font>: Korean Translation of the mod.<br>
 - <font color=#FED141><b>Filipino</b></font>: Filipino Translation of the mod.<br>
 - <font color=#FF8200><b>Irish</b></font>: Irish Translation of the mod.<br>

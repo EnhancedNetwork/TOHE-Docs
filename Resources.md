@@ -807,7 +807,6 @@ Below is a list of all languages supported by Vanilla Among Us.<br><br>
 - <font color=#1e448b><b>Dutch</b></font> - Dutch<br>
 - <font color=#ffcf00><b>German</b></font> - German<br>
 - <font color=#056306><b>Portuguese </b></font> - Portuguese Portugal<br>
-- <font color=#dc143c><b>Polish</b></font> - Polish<br>
 - <font color=#CD2E3A><b>Korean</b></font> - Korean<br>
 - <font color=#FED141><b>Filipino</b></font> - Filipino<br>
 - <font color=#FF8200><b>Irish</b></font> - Irish<br>

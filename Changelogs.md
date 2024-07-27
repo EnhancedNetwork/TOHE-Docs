@@ -12,7 +12,7 @@ contributors: false
 ---
 
 ## <font size=5em><b>Latest Changelogs:</b></font><br>
-(Only the Latest Changes to Mod/Site will be displayed.)
+(Only the Latest Change to Mod/Site will be displayed.)
 
 <font size=4em>
 <details>

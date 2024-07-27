@@ -7,16 +7,16 @@ sidebar:
 - { text: Changelogs Tags, link: /changelogs/Tags.html}
 - { text: All Stable Changelogs, link: /changelogs/Stable.html}
 - { text: All Canary Changelogs, link: /changelogs/Canary.html}
-- { text: All Dev Changelogs, link: /changelogs/Dev.html}
+- { text: All Alpha Changelogs, link: /changelogs/Alpha.html}
 ---
 
-## <font size=5em><b>All Dev Releases/Changelogs:</b></font><br>
-To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE/) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester] (Content Creator with your TOHE videos having 600+ views on average).
+## <font size=5em><b>All Alpha Releases/Changelogs:</b></font><br>
+To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE/) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester] (Content Creator with your TOHE videos having 600+ views on average).
 
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.0.0 Dev 25</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.0.0 Alpha 25</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed assign tasks<br>
@@ -46,13 +46,13 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#F6BE00><b>CHANGE</b></font>: Disable lobby timer on modded servers (no need this)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 24.1</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 24.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken camouflage (temporarily revert some improvements for EAC)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 24</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 24</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed assign Lovers<br>
@@ -73,7 +73,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#32CD32><b>TYPOS</b></font>: Fixed some typos and descriptions<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 23</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alphaha 23</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Now at the end of the game, players who left the game after death will display the real death reason and after the reason "(Disconnected)"<br>
@@ -90,7 +90,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added lobby timer in "template.txt"<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 22</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alphaha 22</font></b></summary>
 
 * By [**D1GQ**](https://github.com/D1GQ)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Simplified some Dollmaster code for OnCheckMurder<br>
@@ -117,7 +117,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed error in logs with Split Message (Code ported from: EHR)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 21</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 21</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed vanilla ghost roles are assigned multiple times (this bug would sometimes make tasks disappear for some players)<br>
@@ -136,7 +136,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 \+ <font color=green><b>NEW</b></font>: Settings for Engineer: "Vent Cooldown" and "Max Time In Vents"<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 20</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alphaha 20</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: bug when God was based on Impostor<br>
@@ -160,20 +160,20 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that caused Main Body text not to show<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 19.1</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alphahaha 19.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Аgain small fix for Quizmaster (lol)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 19</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 19</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when everyone got enigma clue during meeting (i hope)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed a lot bugs for Quizmaster<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 18</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 18</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Cultist<br>
@@ -182,7 +182,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when kill button not work<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 17</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 17</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed comms camouflage for modded<br>
@@ -196,21 +196,21 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 \+ <font color=green><b>NEW</b></font>: Automatically ban spoofed friend code (Can be disabled in settings)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 16</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 16</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Changing the version display size by 70%<br>
 \- <font color=#12edaf><b>REVERT</b></font>: Reverted Re-factor codebase roles because it's very buggy (the improvement for Chronomancer is also temporarily reverted (Sorry))<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 15</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 15</font></b></summary>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 \- <font color=#12edaf><b>REVERT</b></font>: Blackmailer has been reverted to the old version (since improved has a lot of bugs)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Deputy<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 14</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 14</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Swooper<br>
@@ -222,7 +222,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Trapster error<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 13</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 13</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: The lobby timer now will be displayed for vanilla players<br>
@@ -237,7 +237,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed many issues<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 12.4</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 12.4</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed message "host does not have a mod"<br>
@@ -256,19 +256,19 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Dollmaster unpossessing will now start waiting if possessed player cannot be teleported, beforehand it would only check if Dollmaster could be teleported to start waiting.<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 12.3</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 12.3</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when a lot players got kicked (now for sure)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 12.2</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 12.2</font></b></summary>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when a lot players got kicked<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 12.1</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 12.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Some fix in code<br>
@@ -277,7 +277,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#F6BE00><b>CHANGE</b></font>: Changed Radar color (sorry Lauryn <3 it's not that bad looking)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 12</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 12</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Impostor Killing Role: [Evil Hacker](/options/Impostors/Killing/EvilHacker.html) (Ported from TOH)<br>
@@ -291,7 +291,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved player checking system for the invalid color<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 11</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 11</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Some optimizations in sync settings and fixed update<br>
@@ -312,7 +312,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Fortune Teller (This role is now automated in code)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 10</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 10</font></b></summary>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Non-Host Modded Client RPCs<br>
@@ -328,7 +328,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#32CD32><b>TYPOS</b></font>: Fixed several typos, inconsistencies and mistakes in the mod itself!<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 9</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 9</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Workaholic winning before completing tasks<br>
@@ -358,7 +358,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed RPC for non-host modded clients<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 8</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 8</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 \+ <font color=green><b>NEW</b></font>: Helpful Addon: [Radar](/options/Addons/Helpful/Radar.html) (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Pyro </span>)<br>
@@ -377,13 +377,13 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix aum and sicko rpc<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 7.1</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 7.1</font></b></summary>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken RPC<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 7</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 7</font></b></summary>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix system message not sending and role not being assigned to players<br>
@@ -395,13 +395,13 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 \+ <font color=green><b>NEW</b></font>: Command: /me (gives id, friendcode and HashedPUID of a player)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 6.1</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 6.1</font></b></summary>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Executioner not spawning at all<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 6</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 6</font></b></summary>
 
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
 \- <font color=red><b>REMOVED</b></font>: Remove limit of rpc call numbers<br>
@@ -422,7 +422,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 5</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 5</font></b></summary>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Tricky (Addon) giving Shattered (Death Reason) when Fragile (Addon) is off<br>
@@ -438,7 +438,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 \+ <font color=green><b>NEW</b></font>: Experimental Add-on: [Glow](/options/Experimental/Addons/Glow.html) (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Omega </span>)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 4</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 4</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Veteran<br>
@@ -452,7 +452,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 \+ <font color=green><b>NEW</b></font>: Setting: Amnesiac arrows<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 3</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 3</font></b></summary>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: fix FFA mode getting crewmate instead of killer<br>
@@ -464,10 +464,10 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed game crash (hopefully)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 2.1</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 2.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), & [**ryuk**](https://github.com/ryuk2098)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed many roles (More details you can found in the dev-bug-report) <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed many roles (More details you can found in the Alpha-bug-report) <br>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved random role assign <br>
@@ -481,10 +481,10 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved mod updater <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 2</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 2</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), & [**ryuk**](https://github.com/ryuk2098)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed many roles (More details you can found in the dev-bug-report) <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed many roles (More details you can found in the Alpha-bug-report) <br>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved random role assign <br>
@@ -495,7 +495,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved mod updater <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Dev 1</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), [**ryuk**](https://github.com/ryuk2098), & [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved code base for all roles (Role Base) (Note about translations: In this build, some translations will be reset to English because the translation key or the text itself has been changed (For now, use custom translation)) <br>
@@ -537,7 +537,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#fdf08e><b>NOTES</b></font>: Maybe something else has been fixed, but i didn't notice it <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.6.0 Dev 6</font></b></summary>
+<summary><b><font color=#d395b4>v1.6.0 Alpha 6</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 +  Support AU v2024.3.5 <br>
@@ -553,7 +553,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#32CD32><b>TYPO</b></font>: Fixed Plague Scientist typo <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.6.0 Dev 5</font></b></summary>
+<summary><b><font color=#d395b4>v1.6.0 Alpha 5</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed bug when alive players saw all the roles <br>
@@ -564,7 +564,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Mod updater <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.6.0 Dev 4</font></b></summary>
+<summary><b><font color=#d395b4>v1.6.0 Alpha 4</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improve announcement patch (Ported from TOH-Y) (Now the announcement will be translated via Crowdin) <br>
@@ -580,7 +580,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Ghost roles no longer show in Guesser UI <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.6.0 Dev 3</font></b></summary>
+<summary><b><font color=#d395b4>v1.6.0 Alpha 3</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved role spawns (Ported from TOHE+) (Now for each role you can set the chance of appearance from 0% to 100%) <br>
@@ -600,7 +600,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Retributionist & Nemesis (These roles are now moved in ghost roles) (Update this if you use either roles or you will not have them in game!) <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.6.0 Dev 2</font></b></summary>
+<summary><b><font color=#d395b4>v1.6.0 Alpha 2</font></b></summary>
 
 * By [**Drakos**](https://github.com/Ultradragon005) & [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed some bugs with ghost roles (Now "/up" unable to assign ghost-roles bcuz it breaks the game) <br>
@@ -609,7 +609,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 \+ <font color=green><b>NEW</b></font>: New setting: "Disable VoteKick System" <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.6.0 Dev 1</font></b></summary>
+<summary><b><font color=#d395b4>v1.6.0 Alpha 1</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Progress text and target mark for Pirate <br>
@@ -639,7 +639,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved code base for all add-ons (Partially helped by: TommyXL) <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.5.1 Dev 3</font></b></summary>
+<summary><b><font color=#d395b4>v1.5.1 Alpha 3</font></b></summary>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when RPCVersionCheck not work correctly <br>
@@ -657,7 +657,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Time Master worked incorrectly <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.5.1 Dev 2.1</font></b></summary>
+<summary><b><font color=#d395b4>v1.5.1 Alpha 2.1</font></b></summary>
 
 * By [**0xDrMoe**](https://github.com/0xDrMoe)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated Monarch Description to include Monarch immunity condition <br>
@@ -667,7 +667,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed <font color=#8708c7><b>TRANSLATION</b></font> issue taking Irish instead of English due to incorrect ID <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.5.1 Dev 2</font></b></summary>
+<summary><b><font color=#d395b4>v1.5.1 Alpha 2</font></b></summary>
 
 * By [**Drakos**](https://github.com/Ultradragon005) <br>
 \+ <font color=green><b>NEW</b></font>: Added New role: Penguin <br>
@@ -687,7 +687,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 \+ <font color=green><b>NEW</b></font>: New Add-On -<span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Rainbow </span><br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.5.1 Dev 1</font></b></summary>
+<summary><b><font color=#d395b4>v1.5.1 Alpha 1</font></b></summary>
 
 * By [**LezaiYa**](https://github.com/LezaiYa) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Some Strings <br>
@@ -707,7 +707,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Prevent bans from InnerSloth servers if not modded host <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.4.1 Dev 3</font></b></summary>
+<summary><b><font color=#d395b4>v1.4.1 Alpha 3</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 \+ <font color=green><b>NEW</b></font>: Added New setting for copycat to copy team changing addon instead of just copying madmate <br>
@@ -730,7 +730,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed when solsticer can be murdered <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.4.1 Dev 2</font></b></summary>
+<summary><b><font color=#d395b4>v1.4.1 Alpha 2</font></b></summary>
 
 * By [**CrewCyan**](#) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug where Mini could not be exiled <br>
@@ -763,13 +763,13 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Save Presets (Coded by dev TOH) <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.4.1 Dev 1.2</font></b></summary>
+<summary><b><font color=#d395b4>v1.4.1 Alpha 1.2</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed bug where sometimes non-modded players don't get teleported <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.4.1 Dev 1.1</font></b></summary>
+<summary><b><font color=#d395b4>v1.4.1 Alpha 1.1</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Quizmaster not working <br>
@@ -780,7 +780,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Sort Options & Remove Unused Options <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.4.1 Dev 1</font></b></summary>
+<summary><b><font color=#d395b4>v1.4.1 Alpha 1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Added Support for Vanilla Hide & Seek <br>
@@ -804,7 +804,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#8708c7><b>TRANSLATIONS</b></font>: Translated API tags, where translation was available <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.3.1 Dev 2.2</font></b></summary>
+<summary><b><font color=#d395b4>v1.3.1 Alpha 2.2</font></b></summary>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix meeting button broken<br>
@@ -813,12 +813,12 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Workaholic getting Double Shot<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.3.1 Dev 2.1</font></b></summary>
+<summary><b><font color=#d395b4>v1.3.1 Alpha 2.1</font></b></summary>
 
 = I just don't have words.... (proper file attached in this hotfix)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.3.1 Dev 2</font></b></summary>
+<summary><b><font color=#d395b4>v1.3.1 Alpha 2</font></b></summary>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Anti first kill Host<br>
@@ -835,7 +835,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 \+ <font color=green><b>NEW</b></font>: Crewmate Power role: [Captain](/options/Crewmates/Power/Captain.html)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.3.1 Dev 1</font></b></summary>
+<summary><b><font color=#d395b4>v1.3.1 Alpha 1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Visual Bug With Negative Task<br>
@@ -865,7 +865,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 \+ <font color=green><b>NEW</b></font>: Add Region: Modded SA (MSA)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.2.1 Dev 4</font></b></summary>
+<summary><b><font color=#d395b4>v1.2.1 Alpha 4</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed player names for desync impostor during Mushroom Mixup <br>
@@ -878,7 +878,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 \+ <font color=green><b>NEW</b></font>: Added setting for converted madmate to kill without repercussions <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.2.1 Dev 3</font></b></summary>
+<summary><b><font color=#d395b4>v1.2.1 Alpha 3</font></b></summary>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Improved Banning system <br>
@@ -915,7 +915,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 \+ <font color=green><b>NEW</b></font>: Impostor Killing Role: [Instigator](/options/Impostors/Killing/Instigator.html) <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.2.1 Dev 2</font></b></summary>
+<summary><b><font color=#d395b4>v1.2.1 Alpha 2</font></b></summary>
 
 * By [**NikoCat233**](https://github.com/NikoCat233) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Recode admirer for better performance <br>
@@ -927,7 +927,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Vulture (Now Vulture cant eat cleaned/stoned body) <br>
 \+ <font color=green><b>NEW</b></font>: Harmful Add-on: [Influenced](/options/Addons/Harmful/Influenced.html) <br>
 \+ <font color=green><b>NEW</b></font>: Experimental Add-on: [OIIAI](/options/Experimental/Addon/OIIAI.html) <br>
-\+ <font color=green><b>NEW</b></font>: Harmful Add-on: [Hurried](/options/Addons/Harmful/Hurried.html) (Added Dev 2, usable Dev 3) <br>
+\+ <font color=green><b>NEW</b></font>: Harmful Add-on: [Hurried](/options/Addons/Harmful/Hurried.html) (Added Alpha 2, usable Alpha 3) <br>
 
 * By [**KevOut**](#) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix taskbar always invisible <br>
@@ -937,7 +937,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 \+ <font color=green><b>NEW</b></font>: Camouflage skins (<font color=#ec7578>TommyXL</font> and <font color=#919497>Gurge44</font>) <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.2.1 Dev 1</font></b></summary>
+<summary><b><font color=#d395b4>v1.2.1 Alpha 1</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed /gno (Fixed wrong message being displayed when player guesses the number on their last guess.) <br>
@@ -947,7 +947,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#F6BE00><b>CHANGE</b></font>: Game end code for NKs reworked [Needs a lot of testing] (Please test this as much as possible (for NKs) and make bug reports if something is wrong with LOGS) <br>
 
 * By [**FuroYT**](https://github.com/FuroYT) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Updated dev tags <br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Updated Dev tags <br>
 
 * By [**TommyXL**](https://github.com/Tommy-XL) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed teleporting bug for Pelican, Scavenger etc.. <br>
@@ -962,7 +962,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 \+ <font color=#009b3a><b>Latam (Latin American)</b></font> by [**CreepPower**](#).<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.1.0 Dev 1</font></b></summary>
+<summary><b><font color=#d395b4>v1.1.0 Alpha 1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved «FixedUpdatePatch» <br>
@@ -992,7 +992,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: Several other bug fixes (Majorily by [**TommyXL**](#)) <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.0.2 Dev 4</font></b></summary>
+<summary><b><font color=#d395b4>v1.0.2 Alpha 4</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 \+ <font color=green><b>NEW</b></font>: Ported Rebound from SLE (originally coded by SolarFlare) <br>
@@ -1021,7 +1021,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Code Enhancement to improve performance <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.0.2 Dev 3.1</font></b></summary>
+<summary><b><font color=#d395b4>v1.0.2 Alpha 3.1</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 \+ <font color=green><b>NEW</b></font>: Added double click to kill setting for Infectious<br>
@@ -1043,25 +1043,25 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 = <font color=#1376f0><b>BUG FIX</b></font>: some other fixes<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.0.2 Dev 3</font></b></summary>
+<summary><b><font color=#d395b4>v1.0.2 Alpha 3</font></b></summary>
 
 * By [**Moe**](https://github.com/0xDrMoe)<br>
 = I hate ryuk<br>
 \- <font color=red><b>REMOVED</b></font>: Herobrine 😱<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.0.2 Dev 2.1.1</font></b></summary>
+<summary><b><font color=#d395b4>v1.0.2 Alpha 2.1.1</font></b></summary>
 
-= <font color=#1376f0><b>BUG FIX</b></font>: Internal version matched Dev 2, now fixed.<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Internal version matched Alpha 2, now fixed.<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.0.2 Dev 2.1</font></b></summary>
+<summary><b><font color=#d395b4>v1.0.2 Alpha 2.1</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: fixed President (modded clients should not see President without reveal (thanks [Julius](#) for helping with testing!))<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.0.2 Dev 2</font></b></summary>
+<summary><b><font color=#d395b4>v1.0.2 Alpha 2</font></b></summary>
 
 * By [**LezaiYa**](https://github.com/LezaiYa)<br>
 \+ <font color=green><b>NEW</b></font>: Crewmate Support Role: [Spy](/options/Crewmates/Support/Spy.html)<br>
@@ -1079,7 +1079,7 @@ To access Dev Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE
 \+ <font color=#009b3a><b>Portuguese (Brazil)</b></font> by [**Reginaldoo**](#), [**Dopzy**](#), & [**Arc**](#)
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.0.2 Dev 1</font></b></summary>
+<summary><b><font color=#d395b4>v1.0.2 Alpha 1</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 \+ <font color=green><b>NEW</b></font>: Crewmate Power Role: [President](/options/Crewmates/Power/President.html) from SLE (if this goes well for a few days, we'll release a Canary)

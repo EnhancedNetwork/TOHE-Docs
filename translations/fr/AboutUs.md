@@ -452,7 +452,7 @@ Created most of the Images that TOHE uses (Such as Tab Images)
 
 ## Original Creator
 
-[**KARPED1EM**](https://github.com/KARPED1EM)：Original TOHE Creator (TONX Dev)
+[**KARPED1EM**](https://github.com/KARPED1EM)：Original TOHE Creator (TONX Developer)
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 

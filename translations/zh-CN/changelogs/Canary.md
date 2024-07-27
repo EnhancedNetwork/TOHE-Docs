@@ -7,7 +7,7 @@ sidebar:
 - { text: Changelogs Tags, link: /changelogs/Tags.html}
 - { text: All Stable Changelogs, link: /changelogs/Stable.html}
 - { text: All Canary Changelogs, link: /changelogs/Canary.html}
-- { text: All Dev Changelogs, link: /changelogs/Dev.html}
+- { text: All Alpha Changelogs, link: /changelogs/Alpha.html}
 ---
 
 ## <font size=5em><b>All Canary Releases/Changelogs:</b></font><br>
@@ -686,7 +686,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 * By [**LezaiYa**](https://github.com/LezaiYa) AND [**NikoCat223**](https://github.com/NikoCat233)<br> 
 \+ <font color=green><b>NEW</b></font>: New Add-On -<span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Rainbow </span><br>
 
-### <font color=#8708c7><b>For Sponsors - Changes From Dev 3 to this version</b></font>: <br>
+### <font color=#8708c7><b>For Sponsors - Changes From Alpha 3 to this version</b></font>: <br>
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>:Possibly fixed an error in the logs when checking player versions  <br>
 
@@ -939,7 +939,7 @@ v1.5.1 Canary 1(Pre-Release)
 \+ <font color=green><b>NEW</b></font>: Impostor Killing Role: [Instigator](/options/Impostors/Killing/Instigator.html) <br>
 
 * By [**FuroYT**](https://github.com/FuroYT) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Updated dev tags <br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Updated Dev tags <br>
 
 + By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix teleporting bug for Pelican, Scavenger, etc...  <br>

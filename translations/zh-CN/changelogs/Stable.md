@@ -7,7 +7,7 @@ sidebar:
 - { text: Changelogs Tags, link: /changelogs/Tags.html}
 - { text: All Stable Changelogs, link: /changelogs/Stable.html}
 - { text: All Canary Changelogs, link: /changelogs/Canary.html}
-- { text: All Dev Changelogs, link: /changelogs/Dev.html}
+- { text: All Alpha Changelogs, link: /changelogs/Alpha.html}
 ---
 
 ## <font size=5em><b>All Stable Releases/Changelogs:</b></font><br>
@@ -330,7 +330,7 @@ Changelogs Here lmaoo
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed several roles, addons, teleport bugs<br>
 
 * By [**FuroYT**](https://github.com/FuroYT) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Updated Dev Tags<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Updated Dev tags<br>
 
 * <font color=#8708c7><b>NEW TRANSLATIONS</b></font>: Added support for more Languages!<br>
 \+ <font color=#002654><b>French</b></font> by [**KevOut**](#), [**Sansationnelle**](#), [**KlÃ©mi**](#), & [**FuroYT**](#).<br>

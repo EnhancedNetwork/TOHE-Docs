@@ -7,7 +7,7 @@ sidebar:
 - { text: Changelogs Tags, link: /changelogs/Tags.html}
 - { text: All Stable Changelogs, link: /changelogs/Stable.html}
 - { text: All Canary Changelogs, link: /changelogs/Canary.html}
-- { text: All Dev Changelogs, link: /changelogs/Dev.html}
+- { text: All Alpha Changelogs, link: /changelogs/Alpha.html}
 ---
 
 ## <font size=5em><b>All Changelog Tags:</b></font><br>

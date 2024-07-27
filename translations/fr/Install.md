@@ -9,7 +9,7 @@ contributors: false
 
 ## Distribution Policy
 
-<b>Dev Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
+<b>Alpha Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
 If you are a content creator, you may use these builds in your videos, but you may not provide a download link for your viewers. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked.<br><br>
 This policy is in place to keep the integrity of our Sponsor, Contributor, & Tester roles. If you are interested in becoming one of these roles, please see the below sections for more information.</b><br><br><br>
 
@@ -92,20 +92,20 @@ Note: For Xbox, theres no problem in launching the game with `Among Us.exe` at a
 
 Keep an eye on the [releases page](https://github.com/0xDrMoe/TownofHost-Enhanced/releases) for new stable releases. If a new version is released, all you'll usually need to do is repeat steps 1-2 above in either guide, unzipping into the same folder where you already have it installed, and letting it overwrite/replace the old files.<br>
 If it says it requires a newer version of Among Us, repeat steps 3-5 as well after making sure your base game is up to date.<br>
-In some cases, the <b>Latest</b>> TOHE Builds are Canary or Dev Builds. Follow the first step in the below guide to get Dev/Canary Builds. Stable builds will always be the latest, unless a Canary build has a higher version number, unless a Dev build has a higher version number than the Canary version.<br>
-(Ex: 1.6.0 Stable -> 2.0.0 Dev 2 -> 2.0.0 Canary 1 -> 2.0.0 Stable)
+In some cases, the <b>Latest</b>> TOHE Builds are Canary or Alpha Builds. Follow the first step in the below guide to get Alpha/Canary Builds. Stable builds will always be the latest, unless a Canary build has a higher version number, unless a Alpha build has a higher version number than the Canary version.<br>
+(Ex: 1.6.0 Stable -> 2.0.0 Alpha 2 -> 2.0.0 Canary 1 -> 2.0.0 Stable)
 </details>
 <br>
 <details>
-<summary><b><font color=#d395b4>How to get</font> <font color=#8a2be2>Dev Builds</font></b></summary>
+<summary><b><font color=#d395b4>How to get</font> <font color=#8a2be2>Alpha Builds</font></b></summary>
 
 * Accessible by Contributors, Testers, and Sponsors that are at least Insider tier.<br>
 `NOT FOR DISTRIBUTION`
 - To become a <b>Contributor</b>, you need to help with coding in roles/addons/gamemodes/etc related to the mod.<br>
 - To become a <b>Tester</b>, you must be an active content creator with your <b>TOHE videos</b> having 600+ views on average.<br>
-- To become a <b>Sponsor</b>, you need to purchase a tier on our [Website](https://weareten.ca/TOHE/) (Insider tier for $5.00 grants Dev Build access).<br>
+- To become a <b>Sponsor</b>, you need to purchase a tier on our [Website](https://weareten.ca/TOHE/) (Insider tier for $5.00 grants Alpha Build access).<br>
 
-Visit `#dev-builds` in the [TOH: Enhanced Discord](https://discord.gg/tohe) once you have been accepted into one of the above roles, and download the latest dll!
+Visit `#alpha-builds` in the [TOH: Enhanced Discord](https://discord.gg/tohe) once you have been accepted into one of the above roles, and download the latest dll!
 </details>
 <br>
 <details>
@@ -115,15 +115,15 @@ Visit `#dev-builds` in the [TOH: Enhanced Discord](https://discord.gg/tohe) once
 </details>
 <br>
 <details>
-<summary><b><font color=#d395b4>Install</font> <font color=#8a2be2>Dev</font> <font color=#d395b4>&</font> <font color=#ffef00>Canary Builds</font></b></summary>
+<summary><b><font color=#d395b4>Install</font> <font color=#8a2be2>Alpha</font> <font color=#d395b4>&</font> <font color=#ffef00>Canary Builds</font></b></summary>
 
-1. Download the latest dll in `#dev-builds` or `#canary-builds`.
+1. Download the latest dll in `#Alpha-builds` or `#canary-builds`.
 
 2. Once the download is complete, move the dll into your `TOHE\BepInEx\plugins` folder. (TOHE will be whatever your Mod Folder is, if you renamed it, it will be that one)
 
 3. Within the TOHE folder, run `Among Us.exe` for Steam, or `EpicGamesStartGame.cmd` for Epic Games. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder, & that you launched from your modded folder.
 
-4. `(Notice)` If there is a Hot-Fix of the Dev/Canary Build you don't have yet, download the Main Build rather than the Hot-Fix, and run it. You may download the Hot-Fix afterwards. (This is optional too, but if you run into issues this is suggested before making a ticket/using `#mod-help`)
-#### You have successfully installed a Dev Build/Canary Build!
+4. `(Notice)` If there is a Hot-Fix of the Alpha/Canary Build you don't have yet, download the Main Build rather than the Hot-Fix, and run it. You may download the Hot-Fix afterwards. (This is optional too, but if you run into issues this is suggested before making a ticket/using `#mod-help`)
+#### You have successfully installed a Alpha Build/Canary Build!
 </details>
 </font>

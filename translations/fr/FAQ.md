@@ -10,7 +10,7 @@ contributors: false
 <details>
 <summary><b><font color=#d395b4>How can I Install TOHE?</font></b></summary>
 
-Visit the [Install](/Install.html) page! This guides you through installing TOHE on etiher Steam, Epic, or Microsoft, and also shows you how to install Dev & Canary Builds.
+Visit the [Install](/Install.html) page! This guides you through installing TOHE on etiher Steam, Epic, or Microsoft, and also shows you how to install Alpha & Canary Builds.
 </details>
 <br>
 <details>
@@ -56,7 +56,7 @@ There are a few possiblities such as having bad network strength, changing your 
 <details>
 <summary><b><font color=#d395b4>Why does it say "An unknown error has occurred and your connection to the server has been interrupted"?</font></b></summary>
 
-Unfortunately, this is a disconnection caused by a mod error or server error. If possible, please send the log to dev to solve the problem as soon as possible. Of course, this does not rule out your network reasons.
+Unfortunately, this is a disconnection caused by a mod error or server error. If possible, please send the logs in a #bug-report to solve the problem as soon as possible. Of course, this does not rule out your network reasons.
 </details>
 <br>
 <details>
@@ -138,7 +138,7 @@ There are a few posibilities
 
 2. You may need to enable more roles or allow more players to be the same role.
 
-3. You may come accross this message: "There are incompatible roles in your role list, you may experience vanilla roles", which means you have a certain role & it's addon form enabled, (You can find info on what roles/addons are incompatible on these pages: [Crewmate](/options/Crewmates/Vanilla/Crewmate.html) | [Engineer](/options/Crewmates/Vanilla/Engineer.html) | [Scientist](/options/Crewmates/Vanilla/Scientist.html)) (This should not occur anymore as of 1.2.1 Dev 3)
+3. You may come accross this message: "There are incompatible roles in your role list, you may experience vanilla roles", which means you have a certain role & it's addon form enabled, (You can find info on what roles/addons are incompatible on these pages: [Crewmate](/options/Crewmates/Vanilla/Crewmate.html) | [Engineer](/options/Crewmates/Vanilla/Engineer.html) | [Scientist](/options/Crewmates/Vanilla/Scientist.html)) (This should not occur anymore as of 1.2.1 Alpha 3)
 
 4. Eraser might've erased your role, resetting you to your base role (Impostor/Shapeshifter/Crewmate/Engineer/Scientist are all Base Roles (Base Role =/= Team/Role))
 
@@ -170,11 +170,11 @@ Their presence has no effect on the game, and all players know who the Game Mast
 </details>
 <br>
 <details>
-<summary><b><font color=#d395b4>How can I access Canary & Dev Builds?</font></b></summary>
+<summary><b><font color=#d395b4>How can I access Canary & Alpha Builds?</font></b></summary>
 
 1. Anybody can get Canary Access by visiting `#canary-builds` in the TOHE Discord.
 
-2. Become a Contributor, Tester, or Sponsor (Insider+) for Dev Access.<br>
+2. Become a Contributor, Tester, or Sponsor (Insider+) for Alpha Access.<br>
 Read near the bottom of the [Install](/Install.html) page.
 </details>
 <br>

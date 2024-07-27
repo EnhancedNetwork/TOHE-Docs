@@ -19,7 +19,6 @@ contributors: false
 <summary><b><font color=#de6707>Known Bugs</font></b></summary>
 
 = <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: When dlekS ehT is selected, the game lags in the lobby for vanilla players (during the game everything works fine)<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Swift, Imitator, are unstable<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Modded clients have some problems, so it is  temporarily recommended that only the host has the mod installed, and players to join on Vanilla.
 = <font color=#de6707><b>KNOWN BUG</b></font>: Black screen after meeting for vanilla players (This is not fixable at this time as it's an issue with Vanilla, not TOHE)

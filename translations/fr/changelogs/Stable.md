@@ -120,7 +120,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 = <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of `tohre.dev` updated to `weareten.ca` (By [**NotPyro404**](https://sites.google.com/view/notpyro404))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of `ko-fi.com/tohe` updated to `weareten.ca/tohe/` (By [**NotPyro404**](https://sites.google.com/view/notpyro404))<br>
 
-- Check out all of our translators on our [**Website**](https://weareten.ca/)
+- Check out all of our translators on our [**Website**](https://tohe.weareten.ca/AboutUs.html)
 * [**Full v2.0.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.6.0...v2.0.0) or support us on our [Website](https://weareten.ca/TOHE/) to get access to early features!
 </details>
 <details>
@@ -190,7 +190,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 \+ <font color=#ffc400><b>Spanish</b></font>: (Dawson, Sunnyboi, thewhiskas27, xxSShadow)<br>
 \+ <font color=#de2910><b>Traditional Chinese</b></font>: (FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)<br>
 
-- Check out all of our translators on our [**Website**](https://weareten.ca/)
+- Check out all of our translators on our [**Website**](https://tohe.weareten.ca/AboutUs.html)
 * [**Full v1.6.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.5.0...v1.6.0) or support us on our [Website](https://weareten.ca/TOHE/) to get access to early features!
 </details>
 <details>
@@ -324,7 +324,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 \+ <font color=#ffc400><b>Spanish</b></font> (By: Dawson, Sunnyboi, thewhiskas27, xxSShadow) <br>
 \+ <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)<br>
 
-- Check out all of our translators on our [**Website**](https://weareten.ca/)
+- Check out all of our translators on our [**Website**](https://tohe.weareten.ca/AboutUs.html)
 * [**Full v1.5.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.4.0...v1.5.0) or support us on our [Website](https://weareten.ca/TOHE/) to get access to early features!
 </details>
 <details>
@@ -380,7 +380,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 \+ <font color=#ffc400><b>Spanish</b></font> (By: Dawson, Sunnyboi, thewhiskas27, xxSShadow) <br>
 \+ <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)<br>
 
-- Check out all of our translators on our [**Website**](https://weareten.ca/)
+- Check out all of our translators on our [**Website**](https://tohe.weareten.ca/AboutUs.html)
 * [**Full v1.4.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.3.0...v1.4.0) or support us on our [Website](https://weareten.ca/TOHE/) to get access to early features!
 </details>
 <details>
@@ -440,7 +440,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 \+ <font color=#ffc400><b>Spanish</b></font> by [**xxSShadow**](#)(New Translator), [**Sunnyboi**](#), [**Dawson**](#), & [**thewhiskas**](#).<br>
 \+ <font color=#de2910><b>Traditional Chinese</b></font> by [**Pomelo_**](#)(New Translator), [**FlyFlyTurtle**](#)(New Translator), [**NikoCat223**](#), & [**NetherDragonTw**](#).<br>
 
-- Check out all of our translators on our [**Website**](https://weareten.ca/)
+- Check out all of our translators on our [**Website**](https://tohe.weareten.ca/AboutUs.html)
 * [**Full v1.3.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.2.0...v1.3.0) or support us on our [Website](https://weareten.ca/TOHE/) to get access to early features!
 </details>
 <details>
@@ -533,7 +533,7 @@ Updated en_US.json for some neutral killers (by Moe) <br>
 = New variables for template file = {{HostName}} (host's name), ({{PlayerName}} is for any player.) <br>
 = Several Misc Bug Fixes and code enhancements by TommyXL, ryuk, Moe and Gurge44<br>
 
-- Check out all of our translators on our [**Website**](https://weareten.ca/)
+- Check out all of our translators on our [**Website**](https://tohe.weareten.ca/AboutUs.html)
 * [**Full v1.1.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.0.1...v1.1.0) or support us on our [Website](https://weareten.ca/TOHE/) to get access to early features!
 </details>
 <details>

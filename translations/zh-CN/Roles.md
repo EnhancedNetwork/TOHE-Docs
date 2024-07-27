@@ -53,7 +53,7 @@ contributors: false
 </tr>
 
 <tr>
-<td colspan=2><b>Total:</b></td>
+<td colspan=2><b>🟰 Total:</b></td>
 <td align="center"><b>309</b></td>
 </tr>
 </table>

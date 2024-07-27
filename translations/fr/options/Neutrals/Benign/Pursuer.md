@@ -16,4 +16,4 @@ Stay alive to win, but you can make people suicide when they attempt to kill.
 * Max number of uses
   * Set the maximum times the Pursuer can use their Ability
 
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: "Idea & Coding": [Loonieie Toons](https://github.com/Loonie-Toons)

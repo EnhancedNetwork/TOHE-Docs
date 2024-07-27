@@ -21,4 +21,4 @@ You can only do this once.
 * Skill Limit
   * Set how many times the Admirer can admire players
 
-> From: Town of Salem II & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: Town of Salem II & "Coding": [Loonieie Toons](https://github.com/Loonie-Toons)

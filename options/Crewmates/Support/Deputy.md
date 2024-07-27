@@ -18,4 +18,4 @@ Reset a players kill cooldown by using your kill button on them. If target has n
 * Maximum Handcuffs
   * Set the Maximum amount of Ability Uses a Deputy has
 
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)

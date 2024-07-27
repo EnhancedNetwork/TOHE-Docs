@@ -24,4 +24,4 @@ When you vote for a Player, you can see if they are a Crewmate, Neutral, or Impo
   * <font color=green>ON</font>: Oracle will check if the player has any add-ons
   * <font color=red>OFF</font>: Oracle will not check if the player has any add-ons
 
-> Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)

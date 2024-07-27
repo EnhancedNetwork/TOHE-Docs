@@ -19,4 +19,4 @@ Hexing a player works the same as spelling as a Spellcaster.
   * <font color=green>ON</font>: Hexes will look like Spellcaster spells
   * <font color=red>OFF</font>: Hexes will not look like Spellcaster spells
 
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)

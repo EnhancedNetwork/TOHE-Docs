@@ -22,4 +22,4 @@ Kill everyone to win.
 * Votes gained for each kill
   * Set how much the Pickpockets votes increase after a kill (0.1 vote increments)
 
-> From: Project Lotus & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: Project Lotus & "Coding": [TheSkullCreeperttps://github.com/Loonie-Toons)

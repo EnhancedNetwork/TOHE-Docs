@@ -19,4 +19,4 @@ Saboteur can only kill during Sabotages.
 This role was formerly a Hidden Role under [Inhibitor](Inhibitor)
 :::
 
-> Idea: [Pyro](#) & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> Idea: [Pyro](#) & "Coding": [TheSkullCreeperttps://github.com/Loonie-Toons)

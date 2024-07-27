@@ -18,4 +18,4 @@ As the Morphling, you are a Shapeshifter but cannot kill while not shapeshift.
 * Shapeshift Duration
   * Set how long the Morphling will stay in their Shapeshift form until they unshift
 
-> From: Idea & Coding: [LoonieToons](https://github.com/Loonie-Toons)
+> From: "Idea & Coding": [LoonieToons](https://github.com/Loonie-Toons)

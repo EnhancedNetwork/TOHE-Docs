@@ -27,4 +27,4 @@ If you infect all the killers, you then can simply outnumber the crew and win th
   * <font color=green>ON</font>: the Infectious has the ability to Vent
   * <font color=red>OFF</font>: the Infectious cannot Vent
 
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)

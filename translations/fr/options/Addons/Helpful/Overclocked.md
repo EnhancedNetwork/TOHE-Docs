@@ -17,4 +17,4 @@ Only assigned to roles with a kill button.
 * Kill Cooldown Reduction
   * Set the percentage that the Kill Cooldown of an Overclocked player gets reduced by
 
-> From: Idea & Coding: [LoonieToons](https://github.com/Loonie-Toons/)
+> From: "Idea & Coding": [LoonieieToons](https://github.com/Loonie-Toons/)

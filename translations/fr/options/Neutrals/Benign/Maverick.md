@@ -18,4 +18,4 @@ You can kill like a Serial Killer, and you win with the winning team rather than
   * <font color=green>ON</font>: the Maverick has the same vision as an Impostor
   * <font color=red>OFF</font>: the Maverick has default vision
 
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: "Idea & Coding": [Loonieieie Toons](https://github.com/Loonie-Toons)

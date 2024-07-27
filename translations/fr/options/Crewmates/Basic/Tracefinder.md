@@ -20,4 +20,4 @@ Access to Vitals, and receive Arrows pointing to dead bodies.
 * Maximum Arrow show-up delay
   * Set how long the arrows could take to appear
   
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons) 
+> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons) 

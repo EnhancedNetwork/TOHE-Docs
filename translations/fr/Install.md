@@ -103,7 +103,7 @@ In some cases, the <b>Latest</b>> TOHE Builds are Canary or Dev Builds. Follow t
 `NOT FOR DISTRIBUTION`
 - To become a <b>Contributor</b>, you need to help with coding in roles/addons/gamemodes/etc related to the mod.<br>
 - To become a <b>Tester</b>, you must be an active content creator with your <b>TOHE videos</b> having 600+ views on average.<br>
-- To become a <b>Sponsor</b>, you need to purchase a tier on our [Ko-fi](https://ko-fi.com/TOHE) (Insider tier for $5.00 grants Dev Build access).<br>
+- To become a <b>Sponsor</b>, you need to purchase a tier on our [Website](https://weareten.ca/TOHE/) (Insider tier for $5.00 grants Dev Build access).<br>
 
 Visit `#dev-builds` in the [TOH: Enhanced Discord](https://discord.gg/tohe) once you have been accepted into one of the above roles, and download the latest dll!
 </details>

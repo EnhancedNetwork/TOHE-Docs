@@ -414,7 +414,8 @@ Note: You have to put the file in the following directory: `.\Among Us\Language`
 
 You can do a lot with your `template.dat`, for this though, we'll refer to it as `english.dat` for simplicity sake. For starters, you can edit the Host Text, Icon, & Color. I won't go into depth on <i>everything</i> that the `english.dat` can edit, but it's almost every line of text that can be displayed on the screen. Once you get the hang of editing the Host Text, Icon, & Color, you can move down the list to edit anything you really want to (Such as Role Names, Role Descriptions, VIP Text, Moderator Text, and more).<br>
 Below is what the default `template.dat` looks like, Versus what the edited `english.dat` I have looks like.<br>
-![image](./images/HostTextDefault.png)
+![image](./images/HostTextDefault.png)<br>
+Versus what the edited `english.dat` I have looks like.<br>
 ![image](./images/HostTextEdited.png)<br><br>
 
 Just mess around a little bit, and have fun! Make sure you copy your template as a backup before you try messing with it again, or messing with the mod itself.<br>

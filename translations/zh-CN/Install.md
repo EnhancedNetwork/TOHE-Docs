@@ -117,13 +117,15 @@ Visit `#alpha-builds` in the [TOH: Enhanced Discord](https://discord.gg/tohe) on
 <details>
 <summary><b><font color=#d395b4>Install</font> <font color=#8a2be2>Alpha</font> <font color=#d395b4>&</font> <font color=#ffef00>Canary Builds</font></b></summary>
 
-1. Download the latest dll in `#Alpha-builds` or `#canary-builds`.
+1. Download the latest dll in `#alpha-builds` or `#canary-builds`.
 
-2. Once the download is complete, move the dll into your `TOHE\BepInEx\plugins` folder. (TOHE will be whatever your Mod Folder is, if you renamed it, it will be that one)
+2. Make sure you don't have your Modded Client open when you attempt to do this, otherwise you will get a pop-up which looks something like this:<br>
+![image](../images/pluginsInUse.png)
 
-3. Within the TOHE folder, run `Among Us.exe` for Steam, or `EpicGamesStartGame.cmd` for Epic Games. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder, & that you launched from your modded folder.
+3. Once the download is complete, move the dll into your `TOHE\BepInEx\plugins` folder. (TOHE will be whatever your Mod Folder is, if you renamed it, it will be that one)
 
-4. `(Notice)` If there is a Hot-Fix of the Alpha/Canary Build you don't have yet, download the Main Build rather than the Hot-Fix, and run it. You may download the Hot-Fix afterwards. (This is optional too, but if you run into issues this is suggested before making a ticket/using `#mod-help`)
+4. Within the TOHE folder, run `Among Us.exe` for Steam, or `EpicGamesStartGame.cmd` for Epic Games. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder, & that you launched from your modded folder.
+
 #### You have successfully installed a Alpha Build/Canary Build!
 </details>
 </font>

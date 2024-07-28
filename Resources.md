@@ -7,141 +7,64 @@ contributors: false
 # Helpful Resources
 Here are some Resources that may help you understand some things relating to the mod. Such as Hot-Keys, Commands, Template/Preset Help, and other Useful Resources.
 
-<font size=4em>
+<font size=3em>
 <details>
 <summary><b><font color=gray>Hot-Keys</font></b></summary>
-Below is a list of Hot-Keys that you can use to make your experience better while playing TOHE. You can use these Hot-Keys to perform certain actions.
+Below is a list of Hot-Keys that you can use to make your experience better while playing TOHE. You can use these Hot-Keys to perform certain actions.<br>
 Note: List is not 100% complete. Some hot-keys may have been removed and still live here, some may have been added and still not live here.
-<details>
-<summary><b><font color=red>Host-Only</font></b></summary>
-<table>
-<tr>
-<td align="center"><b>Command</b></td>
-<td align="center"><b>Function</b></td>
-</tr>
-<tr>
-<td><kbd>F6</kbd></td>
-<td>Force skip meeting and count all active votes</td>
-</tr>
-<tr>
-<td><kbd>Ctrl</kbd>+<kbd>Right Click</kbd></td>
-<td>Kill the selected player</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd> + <kbd>C</kbd> + <kbd>Enter</kbd></td>
-<td>Show chat bubble</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd> + <kbd>L</kbd> + <kbd>Enter</kbd></td>
-<td>Force end game</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd> + <kbd>M</kbd> + <kbd>Enter</kbd></td>
-<td>Force start / end meeting</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd></td>
-<td>Start game immediately</td>
-</tr>
-<tr>
-<td><kbd>C</kbd></td>
-<td>Reset start countdown</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd> + <kbd>Ctrl</kbd>+ <kbd>N</kbd></td>
-<td>Show description of current game options</td>
-</tr>
-<tr>
-<td><kbd>Ctrl</kbd>+ <kbd>N</kbd></td>
-<td>Show current game options</td>
-</tr>
-<tr>
-<td><kbd>Ctrl</kbd>+ <kbd>Delete</kbd></td>
-<td>Reset to default TOHE options</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd> + <kbd>E</kbd> + <kbd>Enter</kbd></td>
-<td>suicide</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd> + <kbd>D</kbd> + <kbd>Enter</kbd></td>
-<td>open all doors (airship)</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd> + <kbd>K</kbd> + <kbd>Enter</kbd></td>
-<td>set your kill cooldown to 0</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd> + <kbd>T</kbd> + <kbd>Enter</kbd></td>
-<td>complete all your tasks</td>
-</tr>
-<tr>
-<td><kbd>Y</kbd></td>
-<td>pc sync options for all client</td>
-</tr>
-<tr>
-<td><kbd>G</kbd></td>
-<td>show intros</td>
-</tr>
-<tr>
-<td><kbd>=</kbd></td>
-<td>switch task show</td>
-</tr>
-<tr>
-<td><kbd>I</kbd></td>
-<td>get present coordinate</td>
-</tr>
-</table>
-</details>
 <br>
 <details>
-<summary><b><font color=red>Mod-Only</font></b></summary>
+<summary><b><font color=red>Everyone - General</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
-<td><kbd>Alt</kbd> + <kbd>F11</kbd></td>
-<td>Change resolution</td>
-</tr>
-<tr>
-<td><kbd>F5</kbd> + <kbd>T</kbd></td>
-<td>Reload custom translation</td>
-</tr>
-<tr>
-<td><kbd>F5</kbd> + <kbd>X</kbd></td>
-<td>Output custom translation</td>
-</tr>
-<tr>
-<td><kbd>Ctrl</kbd> + <kbd>F1</kbd></td>
-<td>Output log file to desktop</td>
-</tr>
-<tr>
-<td><kbd>Alt</kbd> + <kbd>C</kbd></td>
-<td>Copy current game options</td>
-</tr>
-<tr>
-<td><kbd>F10</kbd></td>
-<td>Open root directory of game</td>
-</tr>
-<tr>
-<td><kbd>Ctrl</kbd></td>
-<td>Go through Lobby Dropship walls</td>
+<td><kbd>Key</kbd></td>
+<td>What Hot-Key Does</td>
 </tr>
 </table>
 </details>
 <br>
 <details>
-<summary><b><font color=red>Everyone</font></b></summary>
+<summary><b><font color=red>Everyone - Mod Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
-<td><kbd>Alt</kbd> + <kbd>Enter</kbd></td>
-<td>Switch to full-screen (PC only)</td>
+<td><kbd>Key</kbd></td>
+<td>What Hot-Key Does</td>
+</tr>
+</table>
+</details>
+<br>
+<details>
+<summary><b><font color=red>Host Only</font></b></summary>
+<table>
+<tr>
+<td align="center"> <b>Command</b></td>
+<td align="center"> <b>Function</b></td>
+</tr>
+<tr>
+<td><kbd>Key</kbd></td>
+<td>What Hot-Key Does</td>
+</tr>
+</table>
+</details>
+<br>
+<details>
+<summary><b><font color=red>Host Only - Debug</font></b></summary>
+<table>
+<tr>
+<td align="center"> <b>Command</b></td>
+<td align="center"> <b>Function</b></td>
+</tr>
+<tr>
+<td><kbd>Key</kbd></td>
+<td>What Hot-Key Does</td>
 </tr>
 </table>
 </details>
@@ -158,176 +81,101 @@ Note: Commands in bold are considered "essential" and are recommended for all pl
 Note: List is not 100% complete. Some commands may have been removed and still live here, some may have been added and still not live here.
 <details>
 <summary><b><font color=red>Everyone</font></b></summary>
+<details>
+<summary><b><font color=orange>General</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
-<td><b>/m</b></td>
-<td><b>Show your role description</b></td>
-</tr>
-<tr>
-<td><b>/r</b></td>
-<td><b>Show a list of active roles</b></td>
-</tr>
-<tr>
-<td><b>/r [role]</b></td>
-<td><b>Show specific role description</b></td>
-</tr>
-<tr>
-<td>/win</td>
-<td>Last win players</td>
-</tr>
-<tr>
-<td>/n</td>
-<td>Show current game options</td>
-</tr>
-<tr>
-<td>/n r</td>
-<td>Show all enabled roles</td>
-</tr>
-<tr>
-<td>/n all</td>
-<td>Show all settings</td>
-</tr>
-<tr>
-<td>/h</td>
-<td>Show command list</td>
-</tr>
-<tr>
-<td>/color [color]</td>
-<td>Set your color</td>
-</tr>
-<tr>
-<td><b>/tpin</b></td>
-<td><b>Teleports you inside of the Lobby Dropship</b></td>
-</tr>
-<tr>
-<td><b>/tpout</b></td>
-<td><b>Teleports you outside of the Lobby Dropship</b></td>
-</tr>
-<tr>
-<td>/qt</td>
-<td>Exit this lobby forever</td>
-</tr>
-<tr>
-<td>/xf</td>
-<td>Fix when name cover msg content</td>
+<td><b>/#</b></td>
+<td><b>What Command does</b></td>
 </tr>
 </table>
 </details>
 <br>
 <details>
-<summary><b><font color=red>Mod-Only</font></b></summary>
+<summary><b><font color=orange>Minigames</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
-<td>/dump</td>
-<td>Output log file to desktop</td>
-</tr>
-<tr>
-<td>/v</td>
-<td>Check all player's mod version</td>
-</tr>
-<tr>
-<td>/l</td>
-<td>Last game result</td>
-</tr>
-<tr>
-<td>/t [temp]</td>
-<td>Show template text</td>
+<td><b>/#</b></td>
+<td><b>What Command does</b></td>
 </tr>
 </table>
 </details>
 <br>
 <details>
-<summary><b><font color=red>Host-Only</font></b></summary>
+<summary><b><font color=orange>Mod Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
-<td><b>/s [text]</b></td>
-<td><b>Send host message</b></td>
-</tr>
-<tr>
-<td><b>/id</b></td>
-<td><b>Show all players' id</b></td>
-</tr>
-<tr>
-<td>/rn [name]</td>
-<td>Set your name</td>
-</tr>
-<tr>
-<td>/hn [text]</td>
-<td>Hide lobby code</td>
-</tr>
-<tr>
-<td>/level [level]</td>
-<td>Set your game level</td>
-</tr>
-<tr>
-<td>/dis [crew/imp]</td>
-<td>Someone disconncted</td>
-</tr>
-<tr>
-<td>/mw [seconds]</td>
-<td>Set message wait time</td>
-</tr>
-<tr>
-<td>/exe [player id]</td>
-<td>Exile player</td>
-</tr>
-<tr>
-<td>/kill [player id]</td>
-<td>Kill player</td>
-</tr>
-<tr>
-<td>/end</td>
-<td>Force end game</td>
-</tr>
-<tr>
-<td>/hy</td>
-<td>Force start/end meeting</td>
+<td><b>/#</b></td>
+<td><b>What Command does</b></td>
 </tr>
 </table>
 </details>
 <br>
 <details>
-<summary><b><font color=red>Moderator-Only</font></b></summary>
+<summary><b><font color=orange>Role Specific</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
-<td><b>/s [text]</b></td>
-<td><b>Send moderator message</b> (if setting is on)</td>
+<td><b>/#</b></td>
+<td><b>What Command does</b></td>
+</tr>
+</table>
+</details>
+</details>
+<br>
+<details>
+<summary><b><font color=red>VIP Only</font></b></summary>
+<table>
+<tr>
+<td align="center"> <b>Command</b></td>
+<td align="center"> <b>Function</b></td>
 </tr>
 <tr>
-<td><b>/mid</b></td>
-<td><b>Show all players' id</b></td>
+<td><b>/#</b></td>
+<td><b>What Command does</b></td>
+</tr>
+</table>
+</details>
+<br>
+<details>
+<summary><b><font color=red>Moderator Only</font></b></summary>
+<table>
+<tr>
+<td align="center"> <b>Command</b></td>
+<td align="center"> <b>Function</b></td>
 </tr>
 <tr>
-<td>/warn [player id] [reason]</td>
-<td>Warn specific player</td>
+<td><b>/#</b></td>
+<td><b>What Command does</b></td>
+</tr>
+</table>
+</details>
+<br>
+<details>
+<summary><b><font color=red>Host Only</font></b></summary>
+<table>
+<tr>
+<td align="center"> <b>Command</b></td>
+<td align="center"> <b>Function</b></td>
 </tr>
 <tr>
-<td>/kick [player id] [reason]</td>
-<td>Kick specific player</td>
-</tr>
-<tr>
-<td>/ban [player id] [reason]</td>
-<td>Ban specific player</td>
-</tr>
-<tr>
-<td>/modcolor [hexcode] [hexcode]</td>
-<td>Change the color of the moderator tag</td>
+<td><b>/#</b></td>
+<td><b>What Command does</b></td>
 </tr>
 </table>
 </details>

@@ -14,12 +14,11 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 Note: List is not 100% complete. Some hot-keys may have been removed and still live here, some may have been added and still not live here.<br>
 <details>
 <summary><b><font color=red>Everyone</font></b></summary>
-<br>
 <details>
 <summary><b><font color=orange>Everyone - General</font></b></summary>
 <table>
 <tr>
-<td align="center"> <b>Command</b></td>
+<td align="center"> <b>Hot-Key</b></td>
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
@@ -33,7 +32,7 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 <summary><b><font color=orange>Everyone - Mod Only</font></b></summary>
 <table>
 <tr>
-<td align="center"> <b>Command</b></td>
+<td align="center"> <b>Hot-Key</b></td>
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
@@ -51,7 +50,7 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 <summary><b><font color=orange>Host Only - General</font></b></summary>
 <table>
 <tr>
-<td align="center"> <b>Command</b></td>
+<td align="center"> <b>Hot-Key</b></td>
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
@@ -62,10 +61,10 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 </details>
 <br>
 <details>
-<summary><b><font colororange>Host Only - Debug</font></b></summary>
+<summary><b><font color=orange>Host Only - Debug</font></b></summary>
 <table>
 <tr>
-<td align="center"> <b>Command</b></td>
+<td align="center"> <b>Hot-Key</b></td>
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
@@ -89,7 +88,7 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 <details>
 <summary><b><font color=red>Everyone</font></b></summary>
 <details>
-<summary><b><font color=orange>General</font></b></summary>
+<summary><b><font color=orange>Everyone - General</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -103,7 +102,7 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 </details>
 <br>
 <details>
-<summary><b><font color=orange>Minigames</font></b></summary>
+<summary><b><font color=orange>Everyone - Minigames</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -117,7 +116,7 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 </details>
 <br>
 <details>
-<summary><b><font color=orange>Mod Only</font></b></summary>
+<summary><b><font color=orange>Everyone - Mod Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -131,7 +130,7 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 </details>
 <br>
 <details>
-<summary><b><font color=orange>Role Specific</font></b></summary>
+<summary><b><font color=orange>Everyone - Role Specific</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>

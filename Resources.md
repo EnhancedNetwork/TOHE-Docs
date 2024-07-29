@@ -11,8 +11,7 @@ Here are some Resources that may help you understand some things relating to the
 <details>
 <summary><b><font color=gray>Hot-Keys</font></b></summary>
 Below is a list of Hot-Keys that you can use to make your experience better while playing TOHE. You can use these Hot-Keys to perform certain actions.<br>
-Note: List is not 100% complete. Some hot-keys may have been removed and still live here, some may have been added and still not live here.
-<br>
+Note: List is not 100% complete. Some hot-keys may have been removed and still live here, some may have been added and still not live here.<br>
 <details>
 <summary><b><font color=red>Everyone</font></b></summary>
 <br>

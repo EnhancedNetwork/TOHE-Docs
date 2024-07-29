@@ -14,7 +14,10 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 Note: List is not 100% complete. Some hot-keys may have been removed and still live here, some may have been added and still not live here.
 <br>
 <details>
-<summary><b><font color=red>Everyone - General</font></b></summary>
+<summary><b><font color=red>Everyone</font></b></summary>
+<br>
+<details>
+<summary><b><font color=orange>Everyone - General</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -28,7 +31,7 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 </details>
 <br>
 <details>
-<summary><b><font color=red>Everyone - Mod Only</font></b></summary>
+<summary><b><font color=orange>Everyone - Mod Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -39,10 +42,14 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 <td>What Hot-Key Does</td>
 </tr>
 </table>
+</details>
 </details>
 <br>
 <details>
 <summary><b><font color=red>Host Only</font></b></summary>
+<br>
+<details>
+<summary><b><font color=orange>Host Only - General</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -56,7 +63,7 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 </details>
 <br>
 <details>
-<summary><b><font color=red>Host Only - Debug</font></b></summary>
+<summary><b><font colororange>Host Only - Debug</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -67,6 +74,7 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 <td>What Hot-Key Does</td>
 </tr>
 </table>
+</details>
 </details>
 
 > From: The Enhanced Network + Compiling: NotPyro404

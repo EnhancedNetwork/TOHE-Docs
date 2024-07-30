@@ -7,143 +7,207 @@ contributors: false
 # Helpful Resources
 Here are some Resources that may help you understand some things relating to the mod. Such as Hot-Keys, Commands, Template/Preset Help, and other Useful Resources.
 
-<font size=4em>
+<font size=3em>
 <details>
 <summary><b><font color=gray>Hot-Keys</font></b></summary>
-Below is a list of Hot-Keys that you can use to make your experience better while playing TOHE. You can use these Hot-Keys to perform certain actions.
-Note: List is not 100% complete. Some hot-keys may have been removed and still live here, some may have been added and still not live here.
+Below is a list of Hot-Keys that you can use to make your experience better while playing TOHE. You can use these Hot-Keys to perform certain actions.<br>
 <details>
-<summary><b><font color=red>Host-Only</font></b></summary>
+<summary><b><font color=red>Everyone</font></b></summary>
+<details>
+<summary><b><font color=orange>Everyone - General</font></b></summary>
 <table>
 <tr>
-<td align="center"><b>Command</b></td>
-<td align="center"><b>Function</b></td>
+<td align="center"> <b>Hot-Key</b></td>
+<td align="center"> <b>Function</b></td>
 </tr>
 <tr>
-<td><kbd>F6</kbd></td>
-<td>Force skip meeting and count all active votes</td>
+<td><kbd>LeftAlt</kbd> + <kbd>Return</kbd></td>
+<td>Switch to Fullscreen.</td>
 </tr>
 <tr>
-<td><kbd>Ctrl</kbd>+<kbd>Right Click</kbd></td>
-<td>Kill the selected player</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd> + <kbd>C</kbd> + <kbd>Enter</kbd></td>
-<td>Show chat bubble</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd> + <kbd>L</kbd> + <kbd>Enter</kbd></td>
-<td>Force end game</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd> + <kbd>M</kbd> + <kbd>Enter</kbd></td>
-<td>Force start / end meeting</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd></td>
-<td>Start game immediately</td>
-</tr>
-<tr>
-<td><kbd>C</kbd></td>
-<td>Reset start countdown</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd> + <kbd>Ctrl</kbd>+ <kbd>N</kbd></td>
-<td>Show description of current game options</td>
-</tr>
-<tr>
-<td><kbd>Ctrl</kbd>+ <kbd>N</kbd></td>
-<td>Show current game options</td>
-</tr>
-<tr>
-<td><kbd>Ctrl</kbd>+ <kbd>Delete</kbd></td>
-<td>Reset to default TOHE options</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd> + <kbd>E</kbd> + <kbd>Enter</kbd></td>
-<td>suicide</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd> + <kbd>D</kbd> + <kbd>Enter</kbd></td>
-<td>open all doors (airship)</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd> + <kbd>K</kbd> + <kbd>Enter</kbd></td>
-<td>set your kill cooldown to 0</td>
-</tr>
-<tr>
-<td><kbd>Shift</kbd> + <kbd>T</kbd> + <kbd>Enter</kbd></td>
-<td>complete all your tasks</td>
-</tr>
-<tr>
-<td><kbd>Y</kbd></td>
-<td>pc sync options for all client</td>
-</tr>
-<tr>
-<td><kbd>G</kbd></td>
-<td>show intros</td>
-</tr>
-<tr>
-<td><kbd>=</kbd></td>
-<td>switch task show</td>
-</tr>
-<tr>
-<td><kbd>I</kbd></td>
-<td>get present coordinate</td>
+<td><kbd>LeftAlt</kbd> + <kbd>F4</kbd></td>
+<td>Use the Secret TOHE Exclusive Role.</td>
 </tr>
 </table>
 </details>
 <br>
 <details>
-<summary><b><font color=red>Mod-Only</font></b></summary>
+<summary><b><font color=orange>Everyone - Mod Only</font></b></summary>
 <table>
 <tr>
-<td align="center"> <b>Command</b></td>
+<td align="center"> <b>Hot-Key</b></td>
 <td align="center"> <b>Function</b></td>
-</tr>
-<tr>
-<td><kbd>Alt</kbd> + <kbd>F11</kbd></td>
-<td>Change resolution</td>
-</tr>
-<tr>
-<td><kbd>F5</kbd> + <kbd>T</kbd></td>
-<td>Reload custom translation</td>
-</tr>
-<tr>
-<td><kbd>F5</kbd> + <kbd>X</kbd></td>
-<td>Output custom translation</td>
-</tr>
-<tr>
-<td><kbd>Ctrl</kbd> + <kbd>F1</kbd></td>
-<td>Output log file to desktop</td>
-</tr>
-<tr>
-<td><kbd>Alt</kbd> + <kbd>C</kbd></td>
-<td>Copy current game options</td>
-</tr>
-<tr>
-<td><kbd>F10</kbd></td>
-<td>Open root directory of game</td>
 </tr>
 <tr>
 <td><kbd>Ctrl</kbd></td>
-<td>Go through Lobby Dropship walls</td>
+<td>Go through Dropship walls in lobby.</td>
+</tr>
+<tr>
+<td><kbd>Tab</kbd></td>
+<td>Do next page.</td>
+</tr>
+<tr>
+<td><kbd>F1</kbd></td>
+<td>Show role info.</td>
+</tr>
+<tr>
+<td><kbd>F2</kbd></td>
+<td>Show add-ons info.</td>
+</tr>
+<tr>
+<td><kbd>F3</kbd></td>
+<td>Show role settings.</td>
+</tr>
+<tr>
+<td><kbd>F4</kbd></td>
+<td>Show add-ons settings.</td>
+</tr>
+<tr>
+<td><kbd>F10</kbd></td>
+<td>Open the game directory.</td>
+</tr>
+<tr>
+<td><kbd>F5</kbd> + <kbd>T</kbd></td>
+<td>Reload Custom Translations.</td>
+</tr>
+<tr>
+<td><kbd>F5</kbd> + <kbd>X</kbd></td>
+<td>Export Custom Translations and Role Colors.</td>
+</tr>
+<tr>
+<td><kbd>F11</kbd> + <kbd>LeftAlt</kbd></td>
+<td>Change the resolution.</td>
+</tr>
+<tr>
+<td><kbd>F1</kbd> + <kbd>LeftCtrl</kbd></td>
+<td>Send logs.</td>
+</tr>
+<tr>
+<td><kbd>LeftAlt</kbd> + <kbd>C</kbd></td>
+<td>Copy current settings.</td>
+</tr>
+</table>
+</details>
+</details>
+<br>
+<details>
+<summary><b><font color=red>Host Only</font></b></summary>
+<br>
+<details>
+<summary><b><font color=orange>Host Only - General</font></b></summary>
+<table>
+<tr>
+<td align="center"> <b>Hot-Key</b></td>
+<td align="center"> <b>Function</b></td>
+</tr>
+<tr>
+<td><kbd>C</kbd></td>
+<td>Cancel start count down.</td>
+</tr>
+<tr>
+<td><kbd>G</kbd></td>
+<td>Show intro.</td>
+</tr>
+<tr>
+<td><kbd>I</kbd></td>
+<td>Get Present Coordinate.</td>
+</tr>
+<tr>
+<td><kbd>F6</kbd></td>
+<td>Force end meeting & count votes.</td>
+</tr>
+<tr>
+<td><kbd>LeftShift</kbd></td>
+<td>Force start game.</td>
+</tr>
+<tr>
+<td><kbd>LeftCtrl</kbd> + <kbd>LMB</kbd></td>
+<td>Kill hovered player.</td>
+</tr>
+<tr>
+<td><kbd>N</kbd> + <kbd>LeftCtrl</kbd></td>
+<td>Displays the currently valid settings.</td>
+</tr>
+<tr>
+<td><kbd>Return</kbd> + <kbd>C</kbd> + <kbd>LeftShift</kbd></td>
+<td>Show chat.</td>
+</tr>
+<tr>
+<td><kbd>Return</kbd> + <kbd>L</kbd> + <kbd>LeftShift</kbd></td>
+<td>Force end game.</td>
+</tr>
+<tr>
+<td><kbd>Return</kbd> + <kbd>M</kbd> + <kbd>LeftShift</kbd></td>
+<td>Force start/end meeting.</td>
+</tr>
+<tr>
+<td><kbd>LeftCtrl</kbd> + <kbd>LeftShift</kbd> + <kbd>E</kbd> + <kbd>Return</kbd></td>
+<td>Suicide.</td>
 </tr>
 </table>
 </details>
 <br>
 <details>
-<summary><b><font color=red>Everyone</font></b></summary>
+<summary><b><font color=orange>Host Only - Debug</font></b></summary>
 <table>
 <tr>
-<td align="center"> <b>Command</b></td>
+<td align="center"> <b>Hot-Key</b></td>
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
-<td><kbd>Alt</kbd> + <kbd>Enter</kbd></td>
-<td>Switch to full-screen (PC only)</td>
+<td><kbd>=</kbd></td>
+<td>Task number display toggle.</td>
+</tr>
+<tr>
+<td><kbd>B</kbd></td>
+<td>All players exit vent.</td>
+</tr>
+<tr>
+<td><kbd>C</kbd></td>
+<td>All players enter vent.</td>
+</tr>
+<tr>
+<td><kbd>N</kbd></td>
+<td>Clear vent.</td>
+</tr>
+<tr>
+<td><kbd>P</kbd></td>
+<td>Get Position.</td>
+</tr>
+<tr>
+<td><kbd>Y</kbd></td>
+<td>Force sync custom settings.</td>
+</tr>
+<tr>
+<td><kbd>F2</kbd> + <kbd>LeftCtrl</kbd></td>
+<td>Whether the toggle log is also output in the game.</td>
+</tr>
+<tr>
+<td><kbd>LeftShift</kbd> + <kbd>V</kbd> + <kbd>Return</kbd></td>
+<td>Teleport all players to the host.</td>
+</tr>
+<tr>
+<td><kbd>Return</kbd> + <kbd>F</kbd> + <kbd>LeftShift</kbd></td>
+<td>Kill flash.</td>
+</tr>
+<tr>
+<td><kbd>Return</kbd> + <kbd>V</kbd> + <kbd>LeftShift</kbd></td>
+<td>Clear self vote only in local game.</td>
+</tr>
+<tr>
+<td><kbd>Return</kbd> + <kbd>D</kbd> + <kbd>LeftShift</kbd></td>
+<td>Open all the doors in Airship map.</td>
+</tr>
+<tr>
+<td><kbd>Return</kbd> + <kbd>K</kbd> + <kbd>LeftShift</kbd></td>
+<td>Set kill cooldown to 0 seconds.</td>
+</tr>
+<tr>
+<td><kbd>Return</kbd> + <kbd>T</kbd> + <kbd>LeftShift</kbd></td>
+<td>Complete all your tasks.</td>
 </tr>
 </table>
+</details>
 </details>
 
 > From: The Enhanced Network + Compiling: NotPyro404
@@ -152,74 +216,217 @@ Note: List is not 100% complete. Some hot-keys may have been removed and still l
 <details>
 <summary><b><font color=gray>Chat Commands</font></b></summary>
 
-Below is a list of commands that you can use to make your experience better while playing TOHE. You can use these commands in the chat box to perform certain actions.
+Below is a list of commands that you can use to make your experience better while playing TOHE. You can use these commands in the chat box to perform certain actions.<br><br>
 
-Note: Commands in bold are considered "essential" and are recommended for all players.
-Note: List is not 100% complete. Some commands may have been removed and still live here, some may have been added and still not live here.
+Note: Commands that are italicized are considered "essential" and are recommended for all players.<br>
 <details>
 <summary><b><font color=red>Everyone</font></b></summary>
+<details>
+<summary><b><font color=orange>Everyone - General</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
-<td><b>/m</b></td>
-<td><b>Show your role description</b></td>
+<td>/color [color]</td>
+<td>Change your Color to any, even if someone's taken it</td>
 </tr>
 <tr>
-<td><b>/r</b></td>
-<td><b>Show a list of active roles</b></td>
+<td>/colour [color]</td>
+<td>Change your Color to any, even if someone's taken it.</td>
 </tr>
 <tr>
-<td><b>/r [role]</b></td>
-<td><b>Show specific role description</b></td>
+<td><b><i>/d</i></b></td>
+<td><b>See how you died.</b></td>
 </tr>
 <tr>
-<td>/win</td>
-<td>Last win players</td>
+<td><b><i>/death</i></b></td>
+<td><b>See how you died.</b></td>
 </tr>
 <tr>
-<td>/n</td>
-<td>Show current game options</td>
-</tr>
-<tr>
-<td>/n r</td>
-<td>Show all enabled roles</td>
-</tr>
-<tr>
-<td>/n all</td>
-<td>Show all settings</td>
+<td>/ghostinfo</td>
+<td>See how ghost roles work.</td>
 </tr>
 <tr>
 <td>/h</td>
-<td>Show command list</td>
+<td>Display out-of-date command info.</td>
 </tr>
 <tr>
-<td>/color [color]</td>
-<td>Set your color</td>
+<td>/help</td>
+<td>Display out-of-date command info.</td>
 </tr>
 <tr>
-<td><b>/tpin</b></td>
-<td><b>Teleports you inside of the Lobby Dropship</b></td>
+<td>/icon</td>
+<td><b>Display icons and what they mean.</td>
 </tr>
 <tr>
-<td><b>/tpout</b></td>
-<td><b>Teleports you outside of the Lobby Dropship</b></td>
+<td>/icons</td>
+<td>Display icons and what they mean.</td>
 </tr>
 <tr>
-<td>/qt</td>
-<td>Exit this lobby forever</td>
+<td>/iconhelp</td>
+<td>Display icons and what they mean.</td>
+</tr>
+<tr>
+<td>/kc</td>
+<td>See how many killers remain.</td>
+</tr>
+<tr>
+<td>/kcount</td>
+<td>See how many killers remain.</td>
+</tr>
+<tr>
+<td>/kh</td>
+<td>Display the kill events of the previous round.</td>
+</tr>
+<tr>
+<td>/killlog</td>
+<td>Display the kill events of the previous round.</td>
+</tr>
+<tr>
+<td><b><i>/l</i></b></td>
+<td><b>Display the results of the previous round.</b></td>
+</tr>
+<tr>
+<td><b><i>/lastresult</i></b></td>
+<td><b>Display the results of the previous round.</b></td>
+</tr>
+<tr>
+<td><b><i>/m</i></b></td>
+<td><b>See your Role Info.</b></td>
+</tr>
+<tr>
+<td><b><i>/myrole</i></b></td>
+<td><b>See your Role Info.</b></td>
+</tr>
+<tr>
+<td>/me</td>
+<td>Gives information about the player's Friend Code, PUID, and more.</td>
+</tr>
+<tr>
+<td>/n [r/roles]</td>
+<td>Show all enabled roles.</td>
+</tr>
+<tr>
+<td>/now [r/roles]</td>
+<td>Show all enabled roles.</td>
+</tr>
+<tr>
+<td>/n [a/all]</td>
+<td>Show all enabled settings.</td>
+</tr>
+<tr>
+<td>/now [a/all]</td>
+<td>Show all enabled settings.</td>
+</tr>
+<tr>
+<td>/qttd>
+<td>Leave lobby forever.</td>
+</tr>
+<tr>
+<td>/quit</td>
+<td>Leave lobby forever.</td>
+</tr>
+<tr>
+<td>/rn [name]</td>
+<td>Rename yourself in this session.</td>
+</tr>
+<tr>
+<td>/rename [name]</td>
+<td>Rename yourself in this session.</td>
+</tr>
+<tr>
+<td>/r</td>
+<td>Display list of active roles.</td>
+</tr>
+<tr>
+<td><b><i>/r [name]</i></b></td>
+<td><b>Display info on specified role.</b></td>
+</tr>
+<tr>
+<td><b><i>/role [name]</i></b></td>
+<td><b>Display info on specified role.</b></td>
+</tr>
+<tr>
+<td>/rs</td>
+<td>Display the roles played of the previous round.</td>
+</tr>
+<tr>
+<td>/rolesummary</td>
+<td>Display the roles played of the previous round.</td>
+</tr>
+<tr>
+<td>/sum</td>
+<td>Display the roles played of the previous round.</td>
+</tr>
+<tr>
+<td>/summary</td>
+<td>Display the roles played of the previous round.</td>
+</tr>
+<tr>
+<td>/t [title]</td>
+<td>Display a template.</td>
+</tr>
+<tr>
+<td>/template [title]</td>
+<td>Display a template.</td>
+</tr>
+<tr>
+<td>/tpin</td>
+<td>TP In the Dropship.</td>
+</tr>
+<tr>
+<td>/tpout</td>
+<td>TP Out the Dropship.</td>
+</tr>
+<tr>
+<td>/win</td>
+<td>Display the players that won the previous round.</td>
+</tr>
+<tr>
+<td>/winner</td>
+<td>Display the players that won the previous round.</td>
 </tr>
 <tr>
 <td>/xf</td>
-<td>Fix when name cover msg content</td>
+<td>Fix when names cover chat.</td>
 </tr>
 </table>
 </details>
 <br>
 <details>
-<summary><b><font color=red>Mod-Only</font></b></summary>
+<summary><b><font color=orange>Everyone - Minigames</font></b></summary>
+<table>
+<tr>
+<td align="center"> <b>Command</b></td>
+<td align="center"> <b>Function</b></td>
+</tr>
+<tr>
+<td>/8ball</td>
+<td>"Shake" an 8ball.</td>
+</tr>
+<tr>
+<td>/coinflip</td>
+<td>Flip a Coin.</td>
+</tr>
+<tr>
+<td>/gno [#]</td>
+<td>Guess the Number.</td>
+</tr>
+<tr>
+<td>/rand [#] [#]</td>
+<td>Generate Random Number between the 2 values you gave.</td>
+</tr>
+<tr>
+<td>/rps</td>
+<td>Play Rock Paper Scissors.</td>
+</tr>
+</table>
+</details>
+<br>
+<details>
+<summary><b><font color=orange>Everyone - Mod Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -227,107 +434,276 @@ Note: List is not 100% complete. Some commands may have been removed and still l
 </tr>
 <tr>
 <td>/dump</td>
-<td>Output log file to desktop</td>
+<td>Dump Logs to Desktop.</td>
 </tr>
 <tr>
 <td>/v</td>
-<td>Check all player's mod version</td>
+<td>Check all player's mod version.</td>
 </tr>
 <tr>
-<td>/l</td>
-<td>Last game result</td>
-</tr>
-<tr>
-<td>/t [temp]</td>
-<td>Show template text</td>
+<td>/version</td>
+<td>Check all player's mod version.</td>
 </tr>
 </table>
 </details>
 <br>
 <details>
-<summary><b><font color=red>Host-Only</font></b></summary>
+<summary><b><font color=orange>Everyone - Role Specific</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
-<td><b>/s [text]</b></td>
-<td><b>Send host message</b></td>
+<td><b><i>/id</i></b></td>
+<td><b>What Command does</b></td>
 </tr>
 <tr>
-<td><b>/id</b></td>
-<td><b>Show all players' id</b></td>
+<td>/answer [ⓐ/ⓑ/ⓒ]</td>
+<td>Answer the Quizmaster's question if they've targeted you.</td>
+</tr>
+<tr>
+<td>/qmquiz</td>
+<td>Re-send the Quizmaster's question if you need to see it again.</td>
+</tr>
+<tr>
+<td>/bt [ID] [role]</td>
+<td>Guess the Role of another Player.</td>
+</tr>
+<tr>
+<td>/cmp [ID] [ID]</td>
+<td>Compare the alignments of two players as Inspector.</td>
+</tr>
+<tr>
+<td>/duel [⓪/①/②]</td>
+<td>Participate in a Pirate duel.</td>
+</tr>
+<tr>
+<td>/finish</td>
+<td>End a meeting as President.</td>
+</tr>
+<tr>
+<td>/reveal</td>
+<td>Reveal yourself as President.</td>
+</tr>
+<tr>
+<td>/ret [ID]</td>
+<td>Retribute a player as Retributionist.</td>
+</tr>
+<tr>
+<td>/rv [ID]</td>
+<td>Revenge a player as Nemesis.</td>
+</tr>
+<tr>
+<td>/sw [ID] [ID]</td>
+<td>Choose 2 players to Swap as Swapper.</td>
+</tr>
+<tr>
+<td>/tl [ID]</td>
+<td>Trial a player as Judge or Councillor.</td>
+</tr>
+<tr>
+<td>/ms [yes/no]</td>
+<td>Answer the Medium's 'Yes or No' question as a Ghost.</td>
+</tr>
+</table>
+</details>
+</details>
+<br>
+<details>
+<summary><b><font color=red>VIP Only</font></b></summary>
+<table>
+<tr>
+<td align="center"> <b>Command</b></td>
+<td align="center"> <b>Function</b></td>
+</tr>
+<tr>
+<td>/color [color]</td>
+<td>Change your Color to any, even if someones taken it.</td>
+</tr>
+<tr>
+<td>/colour [color]</td>
+<td>Change your Color to any, even if someones taken it.</td>
 </tr>
 <tr>
 <td>/rn [name]</td>
-<td>Set your name</td>
+<td>Rename yourself in this session.</td>
 </tr>
 <tr>
-<td>/hn [text]</td>
-<td>Hide lobby code</td>
+<td>/rename [name]</td>
+<td>Rename yourself in this session.</td>
 </tr>
 <tr>
-<td>/level [level]</td>
-<td>Set your game level</td>
+<td>/tagcolor</td>
+<td>Changes the player's tag color.</td>
 </tr>
 <tr>
-<td>/dis [crew/imp]</td>
-<td>Someone disconncted</td>
+<td>/tagcolour</td>
+<td>Changes the player's tag color.</td>
 </tr>
 <tr>
-<td>/mw [seconds]</td>
-<td>Set message wait time</td>
-</tr>
-<tr>
-<td>/exe [player id]</td>
-<td>Exile player</td>
-</tr>
-<tr>
-<td>/kill [player id]</td>
-<td>Kill player</td>
-</tr>
-<tr>
-<td>/end</td>
-<td>Force end game</td>
-</tr>
-<tr>
-<td>/hy</td>
-<td>Force start/end meeting</td>
+<td>/vipcolor [HEXCODE]</td>
+<td>Change your tag color.</td>
 </tr>
 </table>
 </details>
 <br>
 <details>
-<summary><b><font color=red>Moderator-Only</font></b></summary>
+<summary><b><font color=red>Moderator Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
-<td><b>/s [text]</b></td>
-<td><b>Send moderator message</b> (if setting is on)</td>
+<td>/ban [ID] [reason]</td>
+<td>Ban specified player.</td>
 </tr>
 <tr>
-<td><b>/mid</b></td>
-<td><b>Show all players' id</b></td>
+<td>/kick [ID] [reason]</td>
+<td>Kick specified player.</td>
 </tr>
 <tr>
-<td>/warn [player id] [reason]</td>
-<td>Warn specific player</td>
+<td>/mid</td>
+<td>Show All Players IDs.</td>
 </tr>
 <tr>
-<td>/kick [player id] [reason]</td>
-<td>Kick specific player</td>
+<td>/modcolor [HEXCODE]</td>
+<td>Change your tag color.</td>
 </tr>
 <tr>
-<td>/ban [player id] [reason]</td>
-<td>Ban specific player</td>
+<td>/rn [name]</td>
+<td>Rename yourself in this session.</td>
 </tr>
 <tr>
-<td>/modcolor [hexcode] [hexcode]</td>
-<td>Change the color of the moderator tag</td>
+<td>/rename [name]</td>
+<td>Rename yourself in this session.</td>
+</tr>
+<tr>
+<td><b><i>/s [message]</i></b></td>
+<td><b>Send moderator message.</b></td>
+</tr>
+<tr>
+<td><b><i>/say [message]</i></b></td>
+<td><b>Send moderator message.</b></td>
+</tr>
+<tr>
+<td>/tagcolor</td>
+<td>Changes the player's tag color.</td>
+</tr>
+<tr>
+<td>/tagcolour</td>
+<td>Changes the player's tag color.</td>
+</tr>
+<tr>
+<td>/warn [ID] [reason]</td>
+<td>Warn specified player.</td>
+</tr>
+</table>
+</details>
+<br>
+<details>
+<summary><b><font color=red>Host Only</font></b></summary>
+<table>
+<tr>
+<td align="center"> <b>Command</b></td>
+<td align="center"> <b>Function</b></td>
+</tr>
+<tr>
+<td>/changerole</td>
+<td>Allows the Host to change their role midround to a vanilla one.</td>
+</tr>
+<tr>
+<td>/cosid</td>
+<td>Logs the current outfit accessory IDs.</td>
+</tr>
+<tr>
+<td>/cs [sound]</td>
+<td>Play a custom sound (sound = file name in TOHE).</td>
+</tr>
+<tr>
+<td>/dis [crew/imp]</td>
+<td>Someone Disconnected.</td>
+</tr>
+<tr>
+<td>/disconnect [crew/imp]</td>
+<td>Someone Disconnected.</td>
+</tr>
+<tr>
+<td>/end</td>
+<td>Ends the game.</td>
+</tr>
+<tr>
+<td>/exe [ID]</td>
+<td>Execute specified player (no body).</td>
+</tr>
+<tr>
+<td>/hn</td>
+<td>Hide your name.</td>
+</tr>
+<tr>
+<td>/hidename</td>
+<td>Hide your name.</td>
+</tr>
+<tr>
+<td><b><i>/id</i></b></td>
+<td><b>Show all IDs of players in the lobby.</b></td>
+</tr>
+<tr>
+<td>/level [#]</td>
+<td>Sets the player's level to the number they choose for that session.</td>
+</tr>
+<tr>
+<td>/kill [ID]</td>
+<td>Kill specified player (leave body).</td>
+</tr>
+<tr>
+<td>/mw</td>
+<td>Sets the amount of time modded clients must wait between messages.</td>
+</tr>
+<tr>
+<td>/messagewait</td>
+<td>Sets the amount of time modded clients must wait between messages.</td>
+</tr>
+<tr>
+<td>/poll</td>
+<td><b>Begin a poll in your lobby.</td>
+</tr>
+<tr>
+<td>/rn [name]</td>
+<td>Rename yourself in this session.</td>
+</tr>
+<tr>
+<td>/rename [name]</td>
+<td>Rename yourself in this session.</td>
+</tr>
+<tr>
+<td><b><i>/s [message]</i></b></td>
+<td><b>Send host message.</b></td>
+</tr>
+<tr>
+<td><b><i>/say [message]</i></b></td>
+<td><b>Send host message.</b></td>
+</tr>
+<tr>
+<td>/sd [sound]</td>
+<td>Plays a sound which exists in the game.</td>
+</tr>
+<tr>
+<td>/setplayers</td>
+<td>Set maximum lobby size.</td>
+</tr>
+<tr>
+<td>/tagcolor</td>
+<td>Changes the player's tag color.</td>
+</tr>
+<tr>
+<td>/tagcolour</td>
+<td>Changes the player's tag color.</td>
+</tr>
+<tr>
+<td>/up [role]</td>
+<td>Select a specified role that you'll be in the next match.</td>
 </tr>
 </table>
 </details>
@@ -348,11 +724,11 @@ There are a few files:
 
 - `DenyName.txt`: A list of names that will be filtered out of the game.
 
-- `Moderators.txt`: A list of friendcodes that will receive a nice Moderator tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to moderate your lobby (such as using the commands near the top of the page). Only grant users you trust these permissions! (NOTE: `english.dat` is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](../Resources.html) Page.)
+- `Moderators.txt`: A list of friendcodes that will receive a nice Moderator tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to moderate your lobby (such as using the commands near the top of the page). Only grant users you trust these permissions! (NOTE: `english.dat` is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](./Resources.html) Page.)
 
 - `template.txt`: You can modify the `welcome` and `onMeeting` messages here. You can also add custom templates here as well following the same format as `welcome` & `onMeeting` use.
 
-- `VIP-List.txt`: A list of friendcodes that will be given a sweet VIP tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to change their name color. (NOTE: `english.dat` is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](../Resources.html) Page.)
+- `VIP-List.txt`: A list of friendcodes that will be given a sweet VIP tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to change their name color. (NOTE: `english.dat` is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](./Resources.html) Page.)
 
 - `WhiteList.txt`: A list of friendcodes that will be exempt from blacklisted platforms, along with level requirements.
 
@@ -408,13 +784,13 @@ The Template Editor is only 1 of the many Utilities (Also by Drakos) which are o
 <details>
 <summary><b><font color=gray>template.dat Info</font></b></summary>
 
-You can edit your `template.dat` to say really anything you want! You can also download custom templates shared by others. If you want to use one, make sure the file is renamed to `english.dat` before using it, if it isn't already. (NOTE: english.dat is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](../Resources.html) Page.)<br><br>
+You can edit your `template.dat` to say really anything you want! You can also download custom templates shared by others. If you want to use one, make sure the file is renamed to `english.dat` before using it, if it isn't already. (NOTE: english.dat is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](./Resources.html) Page.)<br><br>
 
 Note: You have to put the file in the following directory: `.\Among Us\Language` for it to work. (Make sure your file is a `.dat` file, otherwise it will not work. Paste it alongside the `template.dat` file already in your folder.)<br><br>
 
 You can do a lot with your `template.dat`, for this though, we'll refer to it as `english.dat` for simplicity sake. For starters, you can edit the Host Text, Icon, & Color. I won't go into depth on <i>everything</i> that the `english.dat` can edit, but it's almost every line of text that can be displayed on the screen. Once you get the hang of editing the Host Text, Icon, & Color, you can move down the list to edit anything you really want to (Such as Role Names, Role Descriptions, VIP Text, Moderator Text, and more).<br>
-Below is what the default `template.dat` looks like,<br>
-![image](../images/HostTextDefault.png)
+Below is what the default `template.dat` looks like, Versus what the edited `english.dat` I have looks like.<br>
+![image](../images/HostTextDefault.png)<br>
 Versus what the edited `english.dat` I have looks like.<br>
 ![image](../images/HostTextEdited.png)<br><br>
 

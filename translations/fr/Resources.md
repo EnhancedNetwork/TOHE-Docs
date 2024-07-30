@@ -572,14 +572,6 @@ Note: Commands that are italicized are considered "essential" and are recommende
 <td>Change your tag color.</td>
 </tr>
 <tr>
-<td>/rn [name]</td>
-<td>Rename yourself in this session.</td>
-</tr>
-<tr>
-<td>/rename [name]</td>
-<td>Rename yourself in this session.</td>
-</tr>
-<tr>
 <td><b><i>/s [message]</i></b></td>
 <td><b>Send moderator message.</b></td>
 </tr>

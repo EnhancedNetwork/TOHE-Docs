@@ -40,7 +40,7 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 
-I'm also mostly known online as NotPyro404 (Prior: Pyro0TV). I am a Moderator in the TOHE Discord, aswell as the Website Assistant for [T.E.N.](https://weareten.ca/). If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
+I'm also mostly known online as NotPyro404. I am a Moderator in the TOHE Discord, aswell as the Website Assistant for [T.E.N.](https://weareten.ca/). If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 </details>
 
 ---

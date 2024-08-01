@@ -1183,4 +1183,91 @@ Below is a list of all languages supported by Vanilla Among Us.<br><br>
 
 > From: Innersloth + Compiling: NotPyro404
 </details>
+<br>
+<details>
+<summary><b><font color=gray>Among Us Color Options</font></b></summary>
+
+Below is a list of all colors + their IDs supported by Vanilla Among Us.<br><br>
+
+<table>
+<tr>
+<td align="center"><b>ID</b></td>
+<td align="center"><b>Color</b></td>
+</tr>
+<tr>
+<td><font color=#c61111>0</font></td>
+<td><font color=#c61111>Red</font></td>
+</tr>
+<tr>
+<td><font color=#132ed2>1</font></td>
+<td><font color=#132ed2>Blue</font></td>
+</tr>
+<tr>
+<td><font color=#11802d>2</font></td>
+<td><font color=#11802d>Green</font></td>
+</tr>
+<tr>
+<td><font color=#eb53b9>3</font></td>
+<td><font color=#eb53b9>Pink</font></td>
+</tr>
+<tr>
+<td><font color=#f07d0d>4</font></td>
+<td><font color=#f07d0d>Orange</font></td>
+</tr>
+<tr>
+<td><font color=#f6f657>5</font></td>
+<td><font color=#f6f657>Yellow</font></td>
+</tr>
+<tr>
+<td><font color=#3f474e>6</font></td>
+<td><font color=#3f474e>Black</font></td>
+</tr>
+<tr>
+<td><font color=#d7e1f1>7</font></td>
+<td><font color=#d7e1f1>White</font></td>
+</tr>
+<tr>
+<td><font color=#6b2fbc>8</font></td>
+<td><font color=#6b2fbc>Purple</font></td>
+</tr>
+<tr>
+<td><font color=#71491e>9</font></td>
+<td><font color=#71491e>Brown</font></td>
+</tr>
+<tr>
+<td><font color=#38e2dd>10</font></td>
+<td><font color=#38e2dd>Cyan</font></td>
+</tr>
+<tr>
+<td><font color=#50ef39>11</font></td>
+<td><font color=#50ef39>Lime</font></td>
+</tr>
+<tr>
+<td><font color=#6b2b3c>12</font></td>
+<td><font color=#6b2b3c>Maroon</font></td>
+</tr>
+<tr>
+<td><font color=#ecc0d3>13</font></td>
+<td><font color=#ecc0d3>Rose</font></td>
+</tr>
+<tr>
+<td><font color=#fffebe>14</font></td>
+<td><font color=#fffebe>Banana</font></td>
+</tr>
+<tr>
+<td><font color=#708496>15</font></td>
+<td><font color=#708496>Gray</font></td>
+</tr>
+<tr>
+<td><font color=#928776>16</font></td>
+<td><font color=#928776>Tan</font></td>
+</tr>
+<tr>
+<td><font color=#ec7578>17</font></td>
+<td><font color=#ec7578>Coral</font></td>
+</tr>
+</table>
+
+> From: Innersloth + Compiling: NotPyro404
+</details>
 </font>

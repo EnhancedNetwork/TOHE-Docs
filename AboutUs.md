@@ -113,7 +113,7 @@ I'm 25 years old from the United States. I am a bar certified attorney in contra
 ---
 
 ## TOHE Team
-### Contributors
+### Lead Developer
 
 [**Tommy-XL**](https://github.com/Tommy-XL)：Role & Feature Coding, <font color=#0036a7><b>Russian</b></font> Translator
 <details>
@@ -123,6 +123,8 @@ I love playing games (I mostly play all games on PlayStation). I especially pay 
 </details>
 
 ---
+
+### Contributors
 
 [**NikoCat233**](https://github.com/NikoCat233): Role/Feature Coding
 <details>

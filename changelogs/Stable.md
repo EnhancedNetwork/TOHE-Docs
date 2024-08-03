@@ -16,7 +16,43 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.0.0</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.1.0</font></b></summary>
+::: danger Caution
+= <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, & Imitator are working, but are unstable<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Modded clients have some problems, so it is  temporarily recommended that only the host has the mod installed, and players to join on Vanilla.<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Black screen after meeting for vanilla players (This is not fixable at this time as it's an issue with Vanilla, not TOHE)<br>
+:::
+
+::: tip Extra Info
+= <font color=#ece218><b>NOTICE</b></font>: Support latest version Among Us v2024.6.18 (By [**TommyXL**](https://github.com/Tommy-XL), [**Pietro**](https://github.com/Pietrodjaowjao), [**Drakos**](https://github.com/Ultradragon005), [**NikoCat223**](https://github.com/NikoCat233))<br>
+= <font color=#ece218><b>NOTICE</b></font>: New Settings UI (Base ported from [TOH-Y](https://github.com/Yumenopai/TownOfHost_Y))<br>
+:::
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when after guessing, Judge, etc. the meeting status was not checked<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Pelican ended the game when eaten players returned<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Avenger when they try to kill Necromancer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bodyguard/Crusader when they killed Bodyguard/Crusader, Taskinator and Veteran<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed "Quizmaster.None"<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed missed string "*MayorHideVote" for Vindicator<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Madmate assign Neutrals (Does not apply to Admirer)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Camouflage did not disappear after Camouflager was erased<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Probably fixed the bug when Kamikaze killed players during exile<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Probably fixed bug when in-game result displayed randomized nicknames<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Auto Start always stes ans saved 0 kill cooldown<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Other small fixes that occurred in certain cases<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Swift can no longer get Tricky and vice versa<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Remove unnecessary parenthesis for Lighter<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Fortune Teller shows "INVALID:NotAssigned"<br>
+
+## Special thanks for help developing this version:
+[**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), [**NikoCat223**](https://github.com/NikoCat233), [**Pietro**](https://github.com/Pietrodjaowjao), [**D1GQ**](https://github.com/D1GQ), [**ryuk**](https://github.com/ryuk2098), [**Marg**](https://github.com/MargaretTheFool), [**Moe**](https://github.com/0xDrMoe), [**WaterPanda**](#), [**乐崽吖**](https://github.com/LezaiYa), [**Gurge44**](https://www.youtube.com/@200iqguy), [**NotPyro404**](https://sites.google.com/view/notpyro404), [**GameTechGuides**](https://github.com/GameTechGuides)
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0</font></b></summary>
 
 ::: danger Caution
 = <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>

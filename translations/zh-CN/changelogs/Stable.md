@@ -16,7 +16,43 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.0.0</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.1.0</font></b></summary>
+::: danger Caution
+= <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, & Imitator are working, but are unstable<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Modded clients have some problems, so it is  temporarily recommended that only the host has the mod installed, and players to join on Vanilla.<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Black screen after meeting for vanilla players (This is not fixable at this time as it's an issue with Vanilla, not TOHE)<br>
+:::
+
+::: tip Extra Info
+= <font color=#ece218><b>NOTICE</b></font>: Support latest version Among Us v2024.6.18 (By [**TommyXL**](https://github.com/Tommy-XL), [**Pietro**](https://github.com/Pietrodjaowjao), [**Drakos**](https://github.com/Ultradragon005), [**NikoCat223**](https://github.com/NikoCat233))<br>
+= <font color=#ece218><b>NOTICE</b></font>: New Settings UI (Base ported from [TOH-Y](https://github.com/Yumenopai/TownOfHost_Y))<br>
+:::
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when after guessing, Judge, etc. the meeting status was not checked<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Pelican ended the game when eaten players returned<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Avenger when they try to kill Necromancer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bodyguard/Crusader when they killed Bodyguard/Crusader, Taskinator and Veteran<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed "Quizmaster.None"<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed missed string "*MayorHideVote" for Vindicator<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Madmate assign Neutrals (Does not apply to Admirer)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Camouflage did not disappear after Camouflager was erased<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Probably fixed the bug when Kamikaze killed players during exile<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Probably fixed bug when in-game result displayed randomized nicknames<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Auto Start always stes ans saved 0 kill cooldown<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Other small fixes that occurred in certain cases<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Swift can no longer get Tricky and vice versa<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Remove unnecessary parenthesis for Lighter<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Fortune Teller shows "INVALID:NotAssigned"<br>
+
+## Special thanks for help developing this version:
+[**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), [**NikoCat223**](https://github.com/NikoCat233), [**Pietro**](https://github.com/Pietrodjaowjao), [**D1GQ**](https://github.com/D1GQ), [**ryuk**](https://github.com/ryuk2098), [**Marg**](https://github.com/MargaretTheFool), [**Moe**](https://github.com/0xDrMoe), [**WaterPanda**](#), [**乐崽吖**](https://github.com/LezaiYa), [**Gurge44**](https://www.youtube.com/@200iqguy), [**NotPyro404**](https://sites.google.com/view/notpyro404), [**GameTechGuides**](https://github.com/GameTechGuides)
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0</font></b></summary>
 
 ::: danger Caution
 = <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
@@ -324,9 +360,9 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 \+ <font color=#0036a7><b>Russian</b></font>: (By: TommyXL, Shoulder Devil (MogekoNik), chill_ultimated, Nevermore59) <br>
 \+ <font color=#de2910><b>Simplified Chinese</b></font>: (By: CrewCyan, LezaiYa, NikoCat223) <br>
 \+ <font color=#ffc400><b>Spanish</b></font> (By: Dawson, Sunnyboi, thewhiskas27, xxSShadow) <br>
-\+ <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)
+\+ <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)<br>
 
-- Chtranslators on our websiteeck out all of our 
+- Check out all of our translators on our [**Website**](https://tohe.weareten.ca/AboutUs.html)
 * [**Full v1.5.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.4.0...v1.5.0) or support us on our [Website](https://weareten.ca/TOHE/) to get access to early features!
 </details>
 <details>
@@ -432,7 +468,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed several roles, addons, teleport bugs<br>
 
 * By [**FuroYT**](https://github.com/FuroYT) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Updated Dev tags<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Updated Dev Tags<br>
 
 * <font color=#8708c7><b>NEW TRANSLATIONS</b></font>: Added support for more Languages!<br>
 \+ <font color=#002654><b>French</b></font> by [**KevOut**](#), [**Sansationnelle**](#), [**KlÃ©mi**](#), & [**FuroYT**](#).<br>
@@ -463,7 +499,6 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed a conflict with Tiebreaker and Void Ballot<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved overkiller in PlayerControls<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Reworked End Game Checks (again) to optimize it<br>
-
 * [**Full v1.1.1 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.1.0...v1.1.1) or support us on our [Website](https://weareten.ca/TOHE/) to get access to early features!
 </details>
 <details>
@@ -546,7 +581,6 @@ Updated en_US.json for some neutral killers (by Moe) <br>
 \+ <font color=green><b>NEW</b></font>: Added an updated clue in Fortune Teller [#5](https://github.com/0xDrMoe/TownofHost-Enhanced/pull/5)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed templates and VIP List not generating [#5](https://github.com/0xDrMoe/TownofHost-Enhanced/pull/5) [#6](https://github.com/0xDrMoe/TownofHost-Enhanced/pull/6)<br>
 \+ <font color=green><b>NEW</b></font>: A new tease...for a new role...? (try /r President)<br>
-
 * [**Full v1.0.1 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/Release...v1.0.1) or support us on our [Website](https://weareten.ca/TOHE/) to get access to early features!
 </details>
 <details>
@@ -556,7 +590,6 @@ Updated en_US.json for some neutral killers (by Moe) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Renamed Jailor to Jailer (you're welcome, ryuk)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Updated default templates to include all appropriate strings/variables<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bandit Text String<br>
-
 * [**Full v1.0.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/commits/Release) or support us on our [Website](https://weareten.ca/TOHE/) to get access to early features!
 </details>
 </font>

@@ -20,4 +20,4 @@ The following info will be displayed on the player:<br>
 Visionary was originally called Parasight and was an Add-on for Impostors.
 :::
 
-> From: "Idea & Coding": [LoonieToons](https://github.com/Loonie-Toons)
+> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)

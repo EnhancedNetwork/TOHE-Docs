@@ -586,7 +586,7 @@ Updated en_US.json for some neutral killers (by Moe) <br>
 <details>
 <summary><b><font color=#d395b4>v1.0.1</font></b></summary>
 
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Removed spray of Loonie and replaced it [#6](https://github.com/0xDrMoe/TownofHost-Enhanced/pull/6)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Removed spray of TheSkullCreeper and replaced it [#6](https://github.com/0xDrMoe/TownofHost-Enhanced/pull/6)<br>
 \+ <font color=green><b>NEW</b></font>: Added an updated clue in Fortune Teller [#5](https://github.com/0xDrMoe/TownofHost-Enhanced/pull/5)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed templates and VIP List not generating [#5](https://github.com/0xDrMoe/TownofHost-Enhanced/pull/5) [#6](https://github.com/0xDrMoe/TownofHost-Enhanced/pull/6)<br>
 \+ <font color=green><b>NEW</b></font>: A new tease...for a new role...? (try /r President)<br>
@@ -595,7 +595,7 @@ Updated en_US.json for some neutral killers (by Moe) <br>
 <details>
 <summary><b><font color=#d395b4>v1.0.0</font></b></summary>
 
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Removed all association with LoonieToons, credit is still provided in README<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Removed all association with TheSkullCreeper, credit is still provided in README<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Renamed Jailor to Jailer (you're welcome, ryuk)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Updated default templates to include all appropriate strings/variables<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bandit Text String<br>

@@ -15,4 +15,4 @@ Only assigned to <font color=red>Impostors</font>.
 * Spawn Chance
   * Set the chance of a Circumvent spawning
 
-> Idea: [Rudyrant](#) & "Coding": [LoonieToons](https://github.com/Loonie-Toons)
+> Idea: [Rudyrant](#) & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)

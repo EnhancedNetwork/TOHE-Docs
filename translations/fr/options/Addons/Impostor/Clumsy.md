@@ -18,4 +18,4 @@ Only assigned to killers
 * Chance to miss a kill
   * Set the chance of a Clumsy missing a kill
 
-> From: [Ciredm](#) & "Coding": [TheSkullCreepurper](https://github.com/Loonie-Toons)
+> From: [Ciredm](#) & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)

@@ -48,7 +48,7 @@ contributors: false
 = <font color=#ece218><b>NOTICE</b></font>: Updated to v2.1.0 Alpha 2<br>
 \+ Have a good day!<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
-= <font color=#ece218><b>NOTICE</b></font>: Soul Collector & Berserker work differently<br>
+= <font color=#ece218><b>NOTICE</b></font>: Soul Collector & Berserker work differently in 2.1.0 Alpha 2 than they do in 2.0.2 Stable Release.<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added `Other` as a Tab for Add-ons as it's nicer to keep all addons in the same group (I'm not adding them to Game Modifiers, that's ugly).<br>
 \+ <font color=green><b>NEW</b></font>: Added `Translations.md` (Instead of cluttering `Resources.md` with future Translation Submissions, Translations will be listed here.) Currently has no entries, nor submissions.<br>
 \+ <font color=green><b>NEW</b></font>: Tab Favicon (Thanks Theta!)<br>

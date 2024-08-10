@@ -20,8 +20,6 @@ contributors: false
 
 = <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, & Imitator are working, but are unstable<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: Modded clients have some problems, so it is  temporarily recommended that only the host has the mod installed, and players to join on Vanilla.<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: Black screen after meeting for vanilla players (This is not fixable at this time as it's an issue with Vanilla, not TOHE)<br>
 </details>
 <br>
 <details>
@@ -47,9 +45,10 @@ contributors: false
 <summary><b><font color=#12edaf>Site Changelogs/Updates</font></b></summary>
 
 * By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
-= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.0.0<br>
+= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.1.0 Dev 2<br>
 \+ Have a good day!<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
+= <font color=#ece218><b>NOTICE</b></font>: Soul Collector & Berserker work differently<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added `Other` as a Tab for Add-ons as it's nicer to keep all addons in the same group (I'm not adding them to Game Modifiers, that's ugly).<br>
 \+ <font color=green><b>NEW</b></font>: Added `Translations.md` (Instead of cluttering `Resources.md` with future Translation Submissions, Translations will be listed here.) Currently has no entries, nor submissions.<br>
 \+ <font color=green><b>NEW</b></font>: Tab Favicon (Thanks Theta!)<br>

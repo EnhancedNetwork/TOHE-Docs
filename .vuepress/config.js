@@ -371,6 +371,29 @@ export default defineUserConfig({
             { text: 'Phantom', link: '/options/Impostors/Vanilla/Phantom.html' },
             { text: 'Shapeshifter', link: '/options/Impostors/Vanilla/Shapeshifter.html' },
           ],
+          '/options/Neutrals/Apocalypse': [
+            { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
+            {
+              text: 'Baker', link: '/options/Neutrals/Apocalypse/Baker.html', children: [
+                { text: 'Famine', link: '/options/Neutrals/Apocalypse/Famine.html' },
+              ]
+            },
+            {
+              text: 'Berserker', link: '/options/Neutrals/Apocalypse/Berserker.html', children: [
+                { text: 'War', link: '/options/Neutrals/Apocalypse/War.html' },
+              ]
+            },
+            {
+              text: 'Plaguebearer', link: '/options/Neutrals/Apocalypse/Plaguebearer.html', children: [
+                { text: 'Pestilence', link: '/options/Neutrals/Apocalypse/Pestilence.html' },
+              ]
+            },
+            {
+              text: 'Soul Collector', link: '/options/Neutrals/Apocalypse/SoulCollector.html', children: [
+                { text: 'Death', link: '/options/Neutrals/Apocalypse/Death.html' },
+              ]
+            },
+          ],
           '/options/Neutrals/Benign': [
             { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
             { text: 'Amnesiac', link: '/options/Neutrals/Benign/Amnesiac.html' },

@@ -23,7 +23,7 @@ contributors: false
 </details>
 <br>
 <details>
-<summary><b><font color=#cf4e8f>TOHE v2.1.0 Dev 2 Changelogs</font></b></summary>
+<summary><b><font color=#cf4e8f>TOHE v2.1.0 Alpha 2 Changelogs</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed lot of null errors for Neutral Apocalypse<br>
@@ -45,7 +45,7 @@ contributors: false
 <summary><b><font color=#12edaf>Site Changelogs/Updates</font></b></summary>
 
 * By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
-= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.1.0 Dev 2<br>
+= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.1.0 Alpha 2<br>
 \+ Have a good day!<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
 = <font color=#ece218><b>NOTICE</b></font>: Soul Collector & Berserker work differently<br>

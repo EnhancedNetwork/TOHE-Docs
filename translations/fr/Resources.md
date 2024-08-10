@@ -229,8 +229,12 @@ Note: Commands that are italicized are considered "essential" and are recommende
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
+<td>/apocalypseinfo</td>
+<td>See how Apocalypse roles work.</td>
+</tr>
+<tr>
 <td>/color [color]</td>
-<td>Change your Color to any, even if someone's taken it</td>
+<td>Change your Color to any, even if someone's taken it.</td>
 </tr>
 <tr>
 <td>/colour [color]</td>
@@ -246,7 +250,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 </tr>
 <tr>
 <td>/ghostinfo</td>
-<td>See how ghost roles work.</td>
+<td>See how Ghost roles work.</td>
 </tr>
 <tr>
 <td>/h</td>
@@ -379,6 +383,10 @@ Note: Commands that are italicized are considered "essential" and are recommende
 <tr>
 <td>/tpout</td>
 <td>TP Out the Dropship.</td>
+</tr>
+<tr>
+<td>/vote</td>
+<td>Vote any player you wish.</td>
 </tr>
 <tr>
 <td>/win</td>
@@ -1153,6 +1161,18 @@ Bug (This Death Reason occured awhile ago due to bugs, but has since been patche
 <tr>
 <td><font color=#ff1919>■</font></td>
 <td>This player is a quantum ghost marked by the <font color=#ff1919>Lightning</font></td>
+</tr>
+<tr>
+<td><font color=#8c7458>●</font></td>
+<td>Used by the <font color=#8c7458>Baker</font> to mark who has Bread</td>
+</tr>
+<tr>
+<td><font color=#a475a4>♠</font></td>
+<td>Used by the <font color=#a475a4>Soul Collector</font></td> to mark who's death they're predicting.
+</tr>
+<tr>
+<td><font color=#e5f6b4>⦿</font></td>
+<td>Used by the <font color=#e5f6b4>Plaguebearer</font></td> to mark who they have plagued.
 </tr>
 </table>
 

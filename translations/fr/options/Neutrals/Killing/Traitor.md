@@ -22,4 +22,4 @@ You know the <font color=red>Impostors</font> but they don't know you.<br>The tw
   * If toggled <font color-green>ON</font>, the Traitor can Sabotage
   * If toggled <font color-red>OFF</font>, the Traitor cannot Sabotage
 
-> From: "Idea & Coding": [Loonieie Toons](https://github.com/Loonie-Toons)
+> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)

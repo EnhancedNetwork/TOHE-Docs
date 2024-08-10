@@ -22,4 +22,4 @@ Snatch the Victory by living until the End of the Game. You can Snatch the Souls
   * <font color=green>ON</font>: you can use your ability on Neutrals
   * <font color=red>OFF</font>: you cannot use your ability on Neutrals, and will receive a pop-up saying “No Soul Found”
 
-> From: "Idea & Coding": [Loonieie Toons](https://github.com/Loonie-Toons)
+> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)

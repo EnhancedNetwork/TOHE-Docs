@@ -8,7 +8,7 @@ next: Vampire
 # <font color="red">🏋️‍♂️ <b>Undertaker</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>
 ---
 
-Everytime you Shapeshift into a player you mark the location. Your kills will then teleport to the marked location.<br>
+Everytime you Shapeshift you mark the location. Your kills will then teleport to the marked location.<br>
 After every kill and meeting your marked location will reset.<br><br>
 After every teleported kill you will freeze for a configurable amount of time.
 * Max

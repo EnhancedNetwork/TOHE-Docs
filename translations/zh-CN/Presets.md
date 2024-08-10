@@ -30,6 +30,6 @@ Important Notes: Preset 1 is Marg's Regular Settings. Preset 2 is Marg's Extreme
 <a href="/presets/PyrosPreset.json" download>Download this Preset</a><br>
 Important Notes: Preset 1 is Pyro's Circus. This has every role enabled (Besides a few, which were either better as their addon versions, or just weren't wanted such as: Executioner, Most Vanilla Roles, so on.)
 
-> Submitted by: Pyro
+> Submitted by: NotPyro404
 </details>
 </font>

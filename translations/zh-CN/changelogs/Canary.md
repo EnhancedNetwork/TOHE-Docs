@@ -939,7 +939,7 @@ v1.5.1 Canary 1(Pre-Release)
 \+ <font color=green><b>NEW</b></font>: Impostor Killing Role: [Instigator](/options/Impostors/Killing/Instigator.html) <br>
 
 * By [**FuroYT**](https://github.com/FuroYT) <br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Updated Dev tags <br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Updated dev tags <br>
 
 + By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix teleporting bug for Pelican, Scavenger, etc...  <br>

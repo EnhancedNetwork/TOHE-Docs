@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Bomber
-prev: Berserker
+prev: Arrogance
 next: BountyHunter
 ---
 

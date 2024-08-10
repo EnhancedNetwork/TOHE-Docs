@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Plague Scientist
-prev: Plaguebearer
+prev: Pickpocket
 next: Poisoner
 ---
 

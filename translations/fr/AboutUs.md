@@ -40,7 +40,7 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 
-I'm also mostly known online as NotPyro404 (Prior: Pyro0TV). I am a Moderator in the TOHE Discord, aswell as the Website Assistant for [T.E.N.](https://weareten.ca/). If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
+I'm also mostly known online as NotPyro404. I am a Moderator in the TOHE Discord, aswell as the Website Assistant for [T.E.N.](https://weareten.ca/). If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 </details>
 
 ---
@@ -113,7 +113,7 @@ I'm 25 years old from the United States. I am a bar certified attorney in contra
 ---
 
 ## TOHE Team
-### Contributors
+### Lead Developer
 
 [**Tommy-XL**](https://github.com/Tommy-XL)：Role & Feature Coding, <font color=#0036a7><b>Russian</b></font> Translator
 <details>
@@ -123,6 +123,8 @@ I love playing games (I mostly play all games on PlayStation). I especially pay 
 </details>
 
 ---
+
+### Contributors
 
 [**NikoCat233**](https://github.com/NikoCat233): Role/Feature Coding
 <details>

@@ -19,7 +19,7 @@ This policy is in place to keep the integrity of our Sponsor, Contributor, & Tes
 
 * Visit `#mod-release` in the [TOH: Enhanced Discord](https://discord.gg/tohe), or go [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases) to download it directly from GitHub. 
 
-Installation requires that you own a PC version of Among Us on Steam, Epic, or Itch. Unfortunately, The Microsoft Store version of Among Us will not work.
+Installation requires that you own a PC version of Among Us on Steam, Epic, Microsoft, or Itch.
 </details>
 <br>
 <details>
@@ -73,7 +73,7 @@ Note: the file should **always** contain "-MS" in its name. otherwise you're dow
 
 2. Once the download is complete, unzip it into a new empty folder like on desktop.
 
-3. Locate your AmongUs install. For example, if you own the game on Microsoft/Xbox, you need to go to Xbox app, then you can find this by right clicking on the game in your Library, selecting "Manage", then "Files", and finally selecting "Browse files".<br>
+3. Locate your AmongUs install. For example, if you own the game on Microsoft/Xbox App, you need to go to Xbox app, then you can find this by right clicking on the game in your Library, selecting "Manage", then "Files", and finally selecting "Browse files".<br>
 ![image](../images/MSGetFolder.png)
 
 4. Select all of the files in your TOHE folder and copy them to the Among Us installation folder. The folder should now look something like this:<br>
@@ -103,7 +103,7 @@ In some cases, the <b>Latest</b>> TOHE Builds are Canary or Alpha Builds. Follow
 `NOT FOR DISTRIBUTION`
 - To become a <b>Contributor</b>, you need to help with coding in roles/addons/gamemodes/etc related to the mod.<br>
 - To become a <b>Tester</b>, you must be an active content creator with your <b>TOHE videos</b> having 600+ views on average.<br>
-- To become a <b>Sponsor</b>, you need to purchase a tier on our [Website](https://weareten.ca/TOHE/) (Insider tier for $5.00 grants Alpha Build access).<br>
+- To become a <b>Sponsor</b>, you need to purchase a package on our [Website](https://weareten.ca/TOHE/) (Insider tier for $5.00 grants Alpha Build access).<br>
 
 Visit `#alpha-builds` in the [TOH: Enhanced Discord](https://discord.gg/tohe) once you have been accepted into one of the above roles, and download the latest dll!
 </details>

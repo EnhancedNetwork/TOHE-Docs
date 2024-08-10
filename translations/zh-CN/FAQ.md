@@ -10,13 +10,13 @@ contributors: false
 <details>
 <summary><b><font color=#d395b4>How can I Install TOHE?</font></b></summary>
 
-Visit the [Install](/Install.html) page! This guides you through installing TOHE on etiher Steam, Epic, or Microsoft, and also shows you how to install Alpha & Canary Builds.
+Visit the [Install](/Install.html) page! This guides you through installing TOHE on etiher Steam, Epic, or Xbox App, and also shows you how to install Alpha & Canary Builds.
 </details>
 <br>
 <details>
 <summary><b><font color=#d395b4>How can I install TOHE on phones, tablets, and consoles?</font></b></summary>
 
-You can only install mods on PC/Computer. You must have the Steam, Epic, Microsoft, or Itch versions of Among Us to download mods. If you have no PC/Computer, you don’t need to worry as, even if you don't have/can't get the mod, you can still join Host-Only mods (such as TOHE, TOH, PL, etc) as long as you have Among Us on any device! You can find the lobbies of these mods to join and play as long as you are on the right game version.
+You can only install mods on PC/Computer. You must have the Steam, Epic, Xbox App, or Itch versions of Among Us to download mods. If you have no PC/Computer, you don’t need to worry as, even if you don't have/can't get the mod, you can still join Host-Only mods (such as TOHE, TOH, PL, etc) as long as you have Among Us on any device! You can find the lobbies of these mods to join and play as long as you are on the right game version.
 </details>
 <br>
 <details>

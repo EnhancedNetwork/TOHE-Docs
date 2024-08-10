@@ -18,4 +18,4 @@ Only assigned to Crewmates, cannot be assigned by the Merchant.
   * <font color=green>ON</font>: the Rascal will appear the same way a Madmate appears when they get Ejected
   * <font color=red>OFF</font>: Rascal will appear as they normally would
 
-> From: "Idea & Coding": [Loonieie Toons](https://github.com/Loonie-Toons)
+> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)

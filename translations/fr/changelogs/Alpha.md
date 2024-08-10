@@ -16,7 +16,50 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.0.0 Alpha 25</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.1.0 Alpha 2</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed lot of null errors for Neutral Apocalypse<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some bugs for Neutral Apocalypse for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when F1 show role settings<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Probably fixed bug when everyone see the roles (this bug somehow returned)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added delay when clearing votes<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Set 300 cd for Nemesis if they cannot use kill button<br>
+
+* By [**Marg**](https://github.com/MargaretTheFool)<br>
+\+ <font color=green><b>NEW</b></font>: Added new command: /apocalypseinfo<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when setting "Transformed Neutral Apocalypse Can Be Guessed" works incorrectly<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed warning message about Api Error Connection (Only in Canary and Stable versions)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 1</font></b></summary>
+
+* By [**Marg**](https://github.com/MargaretTheFool)<br>
+\+ <font color=green><b>NEW</b></font>: Neutral Team: Neutral Apocalypse (Can set min/max Neutral Apocalypse)<br>
+\+ <font color=green><b>NEW</b></font>: Added Role: Baker<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Berserker is now Neutral Apocalypse<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: PlagueBearer is now Neutral Apocalypse<br>
+\+ <font color=#12edaf><b>REWORK</b></font>: Soul Collector was reworked and is now Neutral Apocalypse<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Disable Shapeshift menu for some Reject Shapeshift roles for Pitfall, Bomber, Undertaker (Maybe will used for some more roles)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Return Ability Votes for Cleanser, Eraser, Fortune teller, Keeper, Oracle, Godfather (First Vote will cancel (Vote Skip) or use the ability, second is normal vote)<br>
+\+ <font color=green><b>NEW</b></font>: Added "/vote" command (Can be disabled in setting)<br>
+
+* By [**D1GQ**](https://github.com/D1GQ)<br>
+\+ <font color=#12edaf><b>REWORK</b></font>: Rework Setting: Shield Person Died First (Changed it where the player cannot be killed by any means until the shield is removed)<br>
+\+ <font color=green><b>NEW</b></font>: Added new sub-setting "Reveal shielded player to all"<br>
+\+ <font color=green><b>NEW</b></font>: Added new sub-setting "Remove shield on first death"<br>
+\+ <font color=green><b>NEW</b></font>: Added new sub-setting "Shielded player can use ability / kill button"<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added new RPC to sync the shield info to Modded Clients<br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: TextBoxPatch (Ported from EHR) (Allows you to write any characters into the chat)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 25</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed assign tasks<br>
@@ -73,7 +116,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#32CD32><b>TYPOS</b></font>: Fixed some typos and descriptions<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Alpha 23</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alphaha 23</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Now at the end of the game, players who left the game after death will display the real death reason and after the reason "(Disconnected)"<br>
@@ -90,7 +133,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added lobby timer in "template.txt"<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Alpha 22</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alphaha 22</font></b></summary>
 
 * By [**D1GQ**](https://github.com/D1GQ)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Simplified some Dollmaster code for OnCheckMurder<br>
@@ -136,7 +179,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 \+ <font color=green><b>NEW</b></font>: Settings for Engineer: "Vent Cooldown" and "Max Time In Vents"<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Alpha 20</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alphaha 20</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: bug when God was based on Impostor<br>
@@ -160,7 +203,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that caused Main Body text not to show<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Alpha 19.1</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alphahaha 19.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Аgain small fix for Quizmaster (lol)<br>
@@ -844,7 +887,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix bug where roles that use vent to trigger power spawning in ehT dlekS<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Many other miscellaneous bug fixes and changes to improve code redability (This is done because vents do not work on ehT dlekS)<br>
 \+ <font color=green><b>NEW</b></font>: Re-added Helpful Add-on: [Flash](/options/Addons/Helpful/Flash.html)<br>
-\+ <font color=green><b>NEW</b></font>: Support map: dlekS ehT (Thanks [**sleepyut**](https://github.com/Galster-Alpha))<br>
+\+ <font color=green><b>NEW</b></font>: Support map: dlekS ehT (Thanks [**sleepyut**](https://github.com/Galster-dev))<br>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Necromancer kill animation shown twice<br>

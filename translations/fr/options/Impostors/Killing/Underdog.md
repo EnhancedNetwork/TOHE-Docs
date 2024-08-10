@@ -16,4 +16,4 @@ As the Underdog, you cannot kill until there's a certain amount of players alive
 * Kill Cooldown
   * Set the Underdog’s Kill Cooldown
 
-> "Idea & Coding": [LoonieieToons](https://github.com/Loonie-Toons)
+> From: "Idea & Coding": [LoonieToons](https://github.com/Loonie-Toons)

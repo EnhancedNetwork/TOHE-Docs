@@ -50,4 +50,4 @@ If they lose, you lose.
   * Mayor
   * Doctor
 
-> From: "Idea & Coding": [Loonieie Toons](https://github.com/Loonie-Toons)
+> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)

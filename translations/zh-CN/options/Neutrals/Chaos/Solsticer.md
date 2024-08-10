@@ -2,7 +2,7 @@
 lang: en-US
 title: Solsticer
 prev: Revolutionist
-next: SoulCollector
+next: Specter
 ---
 
 # <font color=#f2f17e>🌟 <b>Solsticer</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>

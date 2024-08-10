@@ -311,7 +311,6 @@ export default defineUserConfig({
                 { text: 'Bard', link: '/options/Impostors/Killing/Bard.html' },
               ]
             },
-            { text: 'Berserker', link: '/options/Impostors/Killing/Berserker.html' },
             {
               text: 'Bomber', link: '/options/Impostors/Killing/Bomber.html', children: [
                 { text: 'Nuker', link: '/options/Impostors/Killing/Nuker.html' },
@@ -401,7 +400,6 @@ export default defineUserConfig({
             { text: 'Provocateur', link: '/options/Neutrals/Chaos/Provocateur.html' },
             { text: 'Revolutionist', link: '/options/Neutrals/Chaos/Revolutionist.html' },
             { text: 'Solsticer', link: '/options/Neutrals/Chaos/Solsticer.html' },
-            { text: 'Soul Collector', link: '/options/Neutrals/Chaos/SoulCollector.html' },
             { text: 'Specter', link: '/options/Neutrals/Chaos/Specter.html' },
             { text: 'Terrorist', link: '/options/Neutrals/Chaos/Terrorist.html' },
             { text: 'Vector', link: '/options/Neutrals/Chaos/Vector.html' },
@@ -446,7 +444,6 @@ export default defineUserConfig({
             { text: 'Necromancer', link: '/options/Neutrals/Killing/Necromancer.html' },
             { text: 'Pelican', link: '/options/Neutrals/Killing/Pelican.html' },
             { text: 'Pickpocket', link: '/options/Neutrals/Killing/Pickpocket.html' },
-            { text: 'Plaguebearer', link: '/options/Neutrals/Killing/Plaguebearer.html' },
             { text: 'Plague Scientist', link: '/options/Neutrals/Killing/PlagueScientist.html' },
             { text: 'Poisoner', link: '/options/Neutrals/Killing/Poisoner.html' },
             { text: 'Potion Master', link: '/options/Neutrals/Killing/PotionMaster.html' },

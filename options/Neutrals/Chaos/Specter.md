@@ -1,8 +1,8 @@
 ---
 lang: en-US
-title: Phantom
-prev: God
-next: Pirate
+title: Specter
+prev: Solsticer
+next: Terrorist
 ---
 
 # <font color="#662962">👻 <b>Specter</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>

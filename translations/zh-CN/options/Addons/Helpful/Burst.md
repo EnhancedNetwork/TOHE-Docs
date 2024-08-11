@@ -26,4 +26,4 @@ If the killer is inside a vent, they will not die.
 * Burst Kill Delay
   * Set how long it takes for the Burst's killer to explode after killing the Burst
 
-> From: Idea & Coding: [LoonieToons](https://github.com/Loonie-Toons/)
+> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons/)

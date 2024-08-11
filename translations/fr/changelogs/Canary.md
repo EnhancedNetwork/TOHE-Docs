@@ -7,7 +7,7 @@ sidebar:
 - { text: Changelogs Tags, link: /changelogs/Tags.html}
 - { text: All Stable Changelogs, link: /changelogs/Stable.html}
 - { text: All Canary Changelogs, link: /changelogs/Canary.html}
-- { text: All Dev Changelogs, link: /changelogs/Dev.html}
+- { text: All Alpha Changelogs, link: /changelogs/Alpha.html}
 ---
 
 ## <font size=5em><b>All Canary Releases/Changelogs:</b></font><br>
@@ -16,14 +16,42 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.0.0 Canary 11.1</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.0.0 Canary 12</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\- <font color=#12edaf><b>REVERT</b></font>: Doppelganger was reverted to v1.6.0 (This role was is extremely unstable and has problems, so I don’t want the reworked version of Doppelganger to be in the release version 2.0.0)<br>
+\+ <font color=green><b>NEW</b></font>: Added Announcement for v2.0.0<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed vanilla intro text<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes in end screen<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some custom buttons<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Amnesiac vision not sync<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when players dies twise in FFA<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed warning text about mismatched version<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Retributionist and Nemesis triggered Necromancy time<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Lovers not die together after guessing, judged and ect.<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed custom buttons for Retributionist and Nemesis<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Alchemist can no longer get Fool<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+\+ <font color=green><b>NEW</b></font>: Added scanner animation for Overseer<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Returned support vanilla Hide & Seek<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Disable the 5s timeout on custom server<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Returned EAC support<br>
+
+* By [**WaterPanda**](#)<br>
+= <font color=#32CD32><b>TYPO</b></font>: Fixed Councillor Typos<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.0 Canary 11.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when everyone imp based role can kill normally (Like every target have Fragile)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Swooper and Wraith can report Bait<br>
 </details>
 <details>
-<summary><b><font color=#cf4e8f>v2.0.0 Canary 11</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Canary 11</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Added F3 and F4 to show role and add-ons settings, respectively<br>
@@ -658,7 +686,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 * By [**LezaiYa**](https://github.com/LezaiYa) AND [**NikoCat223**](https://github.com/NikoCat233)<br> 
 \+ <font color=green><b>NEW</b></font>: New Add-On -<span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Rainbow </span><br>
 
-### <font color=#8708c7><b>For Sponsors - Changes From Dev 3 to this version</b></font>: <br>
+### <font color=#8708c7><b>For Sponsors - Changes From Alpha 3 to this version</b></font>: <br>
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>:Possibly fixed an error in the logs when checking player versions  <br>
 

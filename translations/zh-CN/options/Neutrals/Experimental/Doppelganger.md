@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Doppelganger
-prev: /options/settings/Neutrals.html
+prev: /options/Settings/Neutrals.html
 next: Imitator
 ---
 

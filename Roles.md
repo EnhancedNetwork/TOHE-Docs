@@ -17,9 +17,9 @@ contributors: false
 
 <font size=4em><b>Latest Versions:</b></font><br>
 
-- <b><font size=3em>Dev:</font> [v2.0.0 Dev 25](/changelogs/Dev.html)</b><br>
-- <b><font size=4em>Canary:</font> [v2.0.0 Canary 11.1](/changelogs/Canary.html)</b><br>
-- <b><font size=3em>Stable:</font> [v1.6.0](/changelogs/Stable.html)</b><br>
+- <b><font size=4em>Alpha:</font> [v2.1.0 Alpha 3](/changelogs/Alpha.html)</b><br>
+- <b><font size=3em>Canary:</font> [v2.0.0 Canary 12](/changelogs/Canary.html)</b><br>
+- <b><font size=3em>Stable:</font> [v2.0.2](/changelogs/Stable.html)</b><br>
 
 <table>
 <tr>
@@ -31,7 +31,7 @@ contributors: false
 <tr>
 <td><font color=#ff9ace><b>📋 Add-ons</b></font></td>
 <td>Add-ons that can be added to any role for any player</td>
-<td align="center">72</td>
+<td align="center">73</td>
 </tr>
 
 <tr>
@@ -43,18 +43,18 @@ contributors: false
 <tr>
 <td><font color=red><b>🦹‍♂️ Impostors</b></font></td>
 <td>Play together and win via killing/voting out all Crewmates/Neutrals</td>
-<td align="center">75</td>
+<td align="center">74</td>
 </tr>
 
 <tr>
 <td><font color=#7c8c8d><b>🥷 Neutrals</b></font></td>
 <td>Play alone and win via their own win conditions</td>
-<td align="center">73</td>
+<td align="center">76</td>
 </tr>
 
 <tr>
-<td colspan=2><b>Total:</b></td>
-<td align="center"><b>309</b></td>
+<td colspan=2><b>🟰 Total:</b></td>
+<td align="center"><b>311</b></td>
 </tr>
 </table>
 <br>

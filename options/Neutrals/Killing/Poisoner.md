@@ -18,4 +18,4 @@ Kill everyone to win.
   * <font color=green>ON</font>: the Poisoner has the ability to Vent
   * <font color=red>OFF</font>: the Poisoner cannot vent
 
-> From: Town of Us Reactivated & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: Town of Us Reactivated & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)

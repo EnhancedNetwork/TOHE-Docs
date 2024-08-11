@@ -16,9 +16,9 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a young developer who loves coding and gaming. I started coding when I was in High School, and I've been coding for 6 years. I'm currently learning several coding languages, but I speak English, French and Arabic verbally! I started playing Among Us when it released, and I've been playing it ever since. I stopped when the game died down after Airship, but I stumbled upon TOHE and I loved it. I decided to help out with the mod, and somehow I'm currently the Project Lead.
+I'm a young developer who loves coding and gaming. I started coding when I was in High School, and I've been coding for 6 years. I'm currently learning several coding languages, but I speak English, French and Arabic verbally! I started playing Among Us when it released, and I've been playing it ever since. I stopped when the game died down after Airship, but I stumbled upon TOHE and I loved it. I decided to help out with the mod, and somehow I'm currently the President.
 
-I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++. I graduated from College with a degree in Computer Science, and I'm currently working as a freelance web developer. My main goal is to become a full-stack developer, fousing on Cybersecurity. and I'm working towards that goal.
+I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++. I graduated from College with a degree in Computer Science, and I'm currently working as a freelance web developer. My main goal is to become a full-stack developer, focusing on Cybersecurity. and I'm working towards that goal.
 </details>
 
 ---
@@ -40,7 +40,7 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 
-I'm also mostly known online as NotPyro404 (Prior: Pyro0TV). I am a Moderator in the TOHE Discord, aswell as the Website Assistant for tohre.dev. If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
+I'm also mostly known online as NotPyro404. I am a Moderator in the TOHE Discord, aswell as the Website Assistant for [T.E.N.](https://weareten.ca/). If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 </details>
 
 ---
@@ -113,7 +113,7 @@ I'm 25 years old from the United States. I am a bar certified attorney in contra
 ---
 
 ## TOHE Team
-### Contributors
+### Lead Developer
 
 [**Tommy-XL**](https://github.com/Tommy-XL)：Role & Feature Coding, <font color=#0036a7><b>Russian</b></font> Translator
 <details>
@@ -123,6 +123,8 @@ I love playing games (I mostly play all games on PlayStation). I especially pay 
 </details>
 
 ---
+
+### Contributors
 
 [**NikoCat233**](https://github.com/NikoCat233): Role/Feature Coding
 <details>
@@ -169,11 +171,11 @@ TChinese Translator for in TOHE since April 2023. I'm a casual gamer, playing ga
 
 ---
 
-[**Drakos**](https://www.youtube.com/channel/UCVT0-d5Sxc3ab1AZvkBe-cQ)：Role/Feature Coding & <font color=#dc143c><b>Polish</b></font> Translator
+[**Drakos**](https://www.youtube.com/channel/UCVT0-d5Sxc3ab1AZvkBe-cQ)：Role/Feature Coding
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a TOHE Contributor & Polish Translator.
+I'm a TOHE Contributor.
 The voices? Nah I'd win.
 I play chess when I'm bored, and catch crypto pumps 😼. I also workout and try to run very fast, so that's cool I guess.
 </details>
@@ -222,7 +224,7 @@ Used to use names like "Huier" and "天寸梦初". KPD, NiKoCat, Commandf1 are m
 
 ---
 
-[**Gurge44**](https://www.youtube.com/@200iqguy)：Role Coding & <font color=#cf192b><b>English</b></font> Translator
+[**Gurge44**](https://www.youtube.com/@200iqguy)：Role Coding, <font color=#cf192b><b>English</b></font> Translator, & EHR Developer
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -452,7 +454,7 @@ Created most of the Images that TOHE uses (Such as Tab Images)
 
 ## Original Creator
 
-[**KARPED1EM**](https://github.com/KARPED1EM)：Original TOHE Creator (TONX Dev)
+[**KARPED1EM**](https://github.com/KARPED1EM)：Original TOHE Creator (TONX Developer)
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -467,6 +469,7 @@ The original creator of TOH: Edited, now being worked on again as TONX/Town of N
 <details>
 <summary><b><font color=gray>Mod Info</font></b></summary>
 
+Repository Deleted by Owner.<br>
 TOH: Enhanced is a continuation of TOHE: Restored. (Later renamed to TOH: Re-Edited)
 </details>
 
@@ -526,10 +529,11 @@ Multiple Ideas such as: Marshall, Poisoner, Necroview, & Sidekick.
 
 ---
 
-[**Town Of Host Edited +**](https://github.com/Gurge44/TOHE_PLUS) (By: Gurge44)
+[**Endless Host Roles**](https://github.com/Gurge44/EndlessHostRoles) (By: Gurge44)
 <details>
 <summary><b><font color=gray>Mod Info</font></b></summary>
 
+Previously known as Town of Host Edited +<br>
 Multiple Ideas such as: Pyromaniac, Necromancer, Huntsman (Head Hunter), & Alchemist.
 </details>
 

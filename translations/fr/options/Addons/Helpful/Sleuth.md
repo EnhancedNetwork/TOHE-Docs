@@ -2,7 +2,7 @@
 lang: en-US
 title: Sleuth
 prev: Silent
-next: Tiebreaker
+next: Spurt
 ---
 
 # <font color="#843434">🕵️ <b>Sleuth</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
@@ -28,4 +28,4 @@ Not assigned to Detective or Mortician.
   * <font color=green>ON</font>: the Sleuth can find the role of the killer
   * <font color=red>OFF</font>: the Sleuth cannot find the role of the killer
   
-> From: ToUR & Coding: [LoonieToons](https://github.com/Loonie-Toons/)
+> From: ToUR & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons/)

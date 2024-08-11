@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Collector
-prev: /options/settings/Neutrals.html
+prev: /options/Settings/Neutrals.html
 next: Cultist
 ---
 

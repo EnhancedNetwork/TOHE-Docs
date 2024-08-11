@@ -1,8 +1,8 @@
 ---
 lang: en-US
-title: Phantom
-prev: God
-next: Pirate
+title: Specter
+prev: Solsticer
+next: Terrorist
 ---
 
 # <font color="#662962">👻 <b>Specter</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
@@ -31,4 +31,4 @@ However you cannot win if you are alive at the end of the game, or haven't compl
     * Amount of Short Tasks for Specter
       * Set the amount of Short Tasks the Specter will receive
 
-> Idea [Pyro](#) & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> Idea [Pyro](#) & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)

@@ -2,7 +2,7 @@
 lang: en-US
 title: Seeker
 prev: PunchingBag
-next: /options/settings/Neutrals.html
+next: /options/Settings/Neutrals.html
 ---
 
 # <font color="#ffaa00">🔎 <b>Seeker</b></font> <Badge text="Evil" type="tip" vertical="middle"/>

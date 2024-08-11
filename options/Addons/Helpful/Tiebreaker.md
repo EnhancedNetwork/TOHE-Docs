@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Tiebreaker
-prev: Sleuth
+prev: Spurt
 next: Torch
 ---
 

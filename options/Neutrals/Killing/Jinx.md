@@ -20,4 +20,4 @@ When someone attempts to kill a Jinx, they will instead suicide, due to them bei
 * Amount of Jinx Spells
   * Set the Amount of Jinxes that the Jinx can use
 
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)

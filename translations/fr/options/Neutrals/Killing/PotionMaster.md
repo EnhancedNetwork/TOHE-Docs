@@ -23,4 +23,4 @@ If you run out of reveal uses, your kill button functions normally.
   * <font color=green>ON</font>: the Potion Master can see as far as an <font color=red>Impostor</font> can
   * <font color=red>OFF</font>: the Potion Master will have <font color=#8cffff>Crewmate</font> Vision
 
-> From: Idea & Coding: [Loonie Toons](https://github.com/Loonie-Toons)
+> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)

@@ -15,4 +15,4 @@ Only assigned to <font color=#8cffff>Crewmates</font> that have an <font color=r
 * Spawn Chance
   * Set the percentage players have of getting Nimble
 
-> From: Idea & Coding: [LoonieToons](https://github.com/Loonie-Toons/)
+> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons/)

@@ -2,7 +2,7 @@
 lang: en-US
 title: Arrogance
 prev: /options/Settings/Impostors.html
-next: Berserker
+next: Bomber
 ---
 
 # <font color=red>👑 <b>Arrogance</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

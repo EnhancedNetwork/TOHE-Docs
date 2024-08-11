@@ -67,10 +67,6 @@ export default defineUserConfig({
             link: '/Resources.html',
           },
           {
-            text: 'Presets',
-            link: '/Presets.html',
-          },
-          {
             text: 'Install',
             link: '/Install.html',
           },
@@ -81,6 +77,7 @@ export default defineUserConfig({
         ],
         sidebar: {
           '/options/Addons/Experimental/': [
+            { text: 'Back to Addons', link: '/options/Settings/Addons.html' },
             { text: 'Glow', link: '/options/Addons/Experimental/Glow.html' },
             { text: 'Swift', link: '/options/Addons/Impostor/Swift.html' }
           ],
@@ -118,6 +115,7 @@ export default defineUserConfig({
             { text: 'Seer', link: '/options/Addons/Helpful/Seer.html' },
             { text: 'Silent', link: '/options/Addons/Helpful/Silent.html' },
             { text: 'Sleuth', link: '/options/Addons/Helpful/Sleuth.html' },
+            { text: 'Spurt', link: '/options/Addons/Helpful/Spurt.html' },
             { text: 'Tiebreaker', link: '/options/Addons/Helpful/Tiebreaker.html' },
             { text: 'Torch', link: '/options/Addons/Helpful/Torch.html' },
             { text: 'Watcher', link: '/options/Addons/Helpful/Watcher.html' }
@@ -158,6 +156,7 @@ export default defineUserConfig({
             { text: 'Susceptible', link: '/options/Addons/Mixed/Susceptible.html' },
           ],
           '/options/Addons/Other/': [
+            { text: 'Back to Addons', link: '/options/Settings/Addons.html' },
             { text: 'Double Shot', link: '/options/Addons/Other/DoubleShot.html' },
             { text: 'Onbound', link: '/options/Addons/Other/Onbound.html' },
             { text: 'Rebound', link: '/options/Addons/Other/Rebound.html' }
@@ -313,7 +312,6 @@ export default defineUserConfig({
                 { text: 'Bard', link: '/options/Impostors/Killing/Bard.html' },
               ]
             },
-            { text: 'Berserker', link: '/options/Impostors/Killing/Berserker.html' },
             {
               text: 'Bomber', link: '/options/Impostors/Killing/Bomber.html', children: [
                 { text: 'Nuker', link: '/options/Impostors/Killing/Nuker.html' },
@@ -374,6 +372,29 @@ export default defineUserConfig({
             { text: 'Phantom', link: '/options/Impostors/Vanilla/Phantom.html' },
             { text: 'Shapeshifter', link: '/options/Impostors/Vanilla/Shapeshifter.html' },
           ],
+          '/options/Neutrals/Apocalypse': [
+            { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
+            {
+              text: 'Baker', link: '/options/Neutrals/Apocalypse/Baker.html', children: [
+                { text: 'Famine', link: '/options/Neutrals/Apocalypse/Famine.html' },
+              ]
+            },
+            {
+              text: 'Berserker', link: '/options/Neutrals/Apocalypse/Berserker.html', children: [
+                { text: 'War', link: '/options/Neutrals/Apocalypse/War.html' },
+              ]
+            },
+            {
+              text: 'Plaguebearer', link: '/options/Neutrals/Apocalypse/Plaguebearer.html', children: [
+                { text: 'Pestilence', link: '/options/Neutrals/Apocalypse/Pestilence.html' },
+              ]
+            },
+            {
+              text: 'Soul Collector', link: '/options/Neutrals/Apocalypse/SoulCollector.html', children: [
+                { text: 'Death', link: '/options/Neutrals/Apocalypse/Death.html' },
+              ]
+            },
+          ],
           '/options/Neutrals/Benign': [
             { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
             { text: 'Amnesiac', link: '/options/Neutrals/Benign/Amnesiac.html' },
@@ -403,9 +424,9 @@ export default defineUserConfig({
             { text: 'Provocateur', link: '/options/Neutrals/Chaos/Provocateur.html' },
             { text: 'Revolutionist', link: '/options/Neutrals/Chaos/Revolutionist.html' },
             { text: 'Solsticer', link: '/options/Neutrals/Chaos/Solsticer.html' },
-            { text: 'Soul Collector', link: '/options/Neutrals/Chaos/SoulCollector.html' },
             { text: 'Specter', link: '/options/Neutrals/Chaos/Specter.html' },
             { text: 'Terrorist', link: '/options/Neutrals/Chaos/Terrorist.html' },
+            { text: 'Troller', link: '/options/Neutrals/Chaos/Troller.html' },
             { text: 'Vector', link: '/options/Neutrals/Chaos/Vector.html' },
             { text: 'Vulture', link: '/options/Neutrals/Chaos/Vulture.html' },
             { text: 'Workaholic', link: '/options/Neutrals/Chaos/Workaholic.html' },
@@ -426,7 +447,6 @@ export default defineUserConfig({
           ],
           '/options/Neutrals/Experimental/': [
             { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
-            { text: 'Doppelganger', link: '/options/Neutrals/Experimental/Doppelganger.html' },
             { text: 'Imitator', link: '/options/Neutrals/Experimental/Imitator.html' },
             { text: 'Quizmaster', link: '/options/Neutrals/Experimental/Quizmaster.html' },
           ],
@@ -437,6 +457,7 @@ export default defineUserConfig({
             { text: 'Bandit', link: '/options/Neutrals/Killing/Bandit.html' },
             { text: 'Blood Knight', link: '/options/Neutrals/Killing/BloodKnight.html' },
             { text: 'Demon', link: '/options/Neutrals/Killing/Demon.html' },
+            { text: 'Doppelganger', link: '/options/Neutrals/Killing/Doppelganger.html' },
             { text: 'Glitch', link: '/options/Neutrals/Killing/Glitch.html' },
             { text: 'Hex Master', link: '/options/Neutrals/Killing/HexMaster.html' },
             { text: 'Huntsman', link: '/options/Neutrals/Killing/Huntsman.html' },
@@ -448,7 +469,6 @@ export default defineUserConfig({
             { text: 'Necromancer', link: '/options/Neutrals/Killing/Necromancer.html' },
             { text: 'Pelican', link: '/options/Neutrals/Killing/Pelican.html' },
             { text: 'Pickpocket', link: '/options/Neutrals/Killing/Pickpocket.html' },
-            { text: 'Plaguebearer', link: '/options/Neutrals/Killing/Plaguebearer.html' },
             { text: 'Plague Scientist', link: '/options/Neutrals/Killing/PlagueScientist.html' },
             { text: 'Poisoner', link: '/options/Neutrals/Killing/Poisoner.html' },
             { text: 'Potion Master', link: '/options/Neutrals/Killing/PotionMaster.html' },

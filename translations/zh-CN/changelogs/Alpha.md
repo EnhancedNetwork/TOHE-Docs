@@ -16,7 +16,32 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Alpha 2</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.1.0 Alpha 3</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Neutral Chaos Role: [Troller](/options/Chaos/Neutral/Troller.html) (Idea by: `@dx7405`)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Vip/Moderator/Sponsor and ect. shown in game<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the host changed his nickname to his own when he was killed by Doppelganger (hopefully)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Veteran kill Taskinator<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed last color question for Quizmaster<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Killing Machine can call meeting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Jailed message not shown<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
+
+* By [**D1GQ**](https://github.com/D1GQ)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved region menu when there are a lot of regions<br>
+
+* By [**Marg**](https://github.com/MargaretTheFool)<br>
+\+ <font color=green><b>NEW</b></font>: Added `/apocinfo` command<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+\+ <font color=green><b>NEW</b></font>: Added role info in setting menu<br>
+\+ <font color=green><b>NEW</b></font>: Added search bar in settings<br>
+\+ <font color=green><b>NEW</b></font>: Helpful Add-on: [Spurt](/options/Helpful/Addons/Spurt.html) (Idea by: `@.thediamondstar`)<br>
+=  AddonBase (Port From EHR) (The settings are now sorted alphabetically)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 2</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed lot of null errors for Neutral Apocalypse<br>

@@ -181,7 +181,7 @@ Read near the bottom of the [Install](/Install.html) page.
 <details>
 <summary><b><font color=#d395b4>Why can't I post in #role-ideas in the TOHE Discord?</font></b></summary>
 
-Role Ideas are currently locked to Sponsors + Contributors. This is so that the Developers/Contributors of TOHE can catch up on role ideas. The channel will open back up at a later date, but there's not a specific time.
+Role Ideas are currently locked to Sponsors, Nitro Boosters, & Contributors. This is so that the Developers/Contributors of TOHE can catch up on role ideas. The channel will open back up at a later date, but there's not a specific time.
 </details>
 <br>
 <details>

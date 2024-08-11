@@ -115,6 +115,7 @@ export default defineUserConfig({
             { text: 'Seer', link: '/options/Addons/Helpful/Seer.html' },
             { text: 'Silent', link: '/options/Addons/Helpful/Silent.html' },
             { text: 'Sleuth', link: '/options/Addons/Helpful/Sleuth.html' },
+            { text: 'Spurt', link: '/options/Addons/Helpful/Spurt.html' },
             { text: 'Tiebreaker', link: '/options/Addons/Helpful/Tiebreaker.html' },
             { text: 'Torch', link: '/options/Addons/Helpful/Torch.html' },
             { text: 'Watcher', link: '/options/Addons/Helpful/Watcher.html' }
@@ -425,6 +426,7 @@ export default defineUserConfig({
             { text: 'Solsticer', link: '/options/Neutrals/Chaos/Solsticer.html' },
             { text: 'Specter', link: '/options/Neutrals/Chaos/Specter.html' },
             { text: 'Terrorist', link: '/options/Neutrals/Chaos/Terrorist.html' },
+            { text: 'Troller', link: '/options/Neutrals/Chaos/Troller.html' },
             { text: 'Vector', link: '/options/Neutrals/Chaos/Vector.html' },
             { text: 'Vulture', link: '/options/Neutrals/Chaos/Vulture.html' },
             { text: 'Workaholic', link: '/options/Neutrals/Chaos/Workaholic.html' },

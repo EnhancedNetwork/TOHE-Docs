@@ -229,6 +229,10 @@ Note: Commands that are italicized are considered "essential" and are recommende
 <td align="center"> <b>Function</b></td>
 </tr>
 <tr>
+<td>/apocinfo</td>
+<td>See how Apocalypse roles work.</td>
+</tr>
+<tr>
 <td>/apocalypseinfo</td>
 <td>See how Apocalypse roles work.</td>
 </tr>

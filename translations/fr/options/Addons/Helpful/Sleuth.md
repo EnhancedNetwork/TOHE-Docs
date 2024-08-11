@@ -2,7 +2,7 @@
 lang: en-US
 title: Sleuth
 prev: Silent
-next: Tiebreaker
+next: Spurt
 ---
 
 # <font color="#843434">🕵️ <b>Sleuth</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>

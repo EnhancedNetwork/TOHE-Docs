@@ -9,5 +9,6 @@ next: Tiebreaker
 ---
 
 When you start walking, you gain an enormous speed boost, which swiftly deteriorates, until you have to rest still for a while to rejuvenate your speed.
+Page not currently finished.
 
 > Idea: [TheDiamondStar](#) & Coding: [Drakos](#)

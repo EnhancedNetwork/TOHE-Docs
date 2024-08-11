@@ -27,7 +27,7 @@ next: /Roles.html
 
 <tr>
 <td><font color=#d4af37><b>😈 Chaos</b></font></td>
-<td align="center">13</td>
+<td align="center">14</td>
 </tr>
 
 <tr>
@@ -47,7 +47,7 @@ next: /Roles.html
 
 <tr>
 <td><font color=#7c8c8d><b>🟰 Total:</b></font></td>
-<td align="center"><b>75</b></td>
+<td align="center"><b>76</b></td>
 </tr>
 
 </table>
@@ -63,7 +63,7 @@ next: /Roles.html
 
 ### <font color=#d4af37><b>Chaos</b></font>
 ---
-[Collector](/options/Neutrals/Chaos/Collector.html) | [Cultist](/options/Neutrals/Chaos/Cultist.html) | [God](/options/Neutrals/Chaos/God.html) | [Pirate](/options/Neutrals/Chaos/Pirate.html) | [Provocateur](/options/Neutrals/Chaos/Provocateur.html) | [Revolutionist](/options/Neutrals/Chaos/Revolutionist.html) | [Solsticer](/options/Neutrals/Chaos/Solsticer.html) | [Specter](/options/Neutrals/Chaos/Specter.html) | [Terrorist](/options/Neutrals/Chaos/Terrorist.html) | [Vector](/options/Neutrals/Chaos/Vector.html) | [Vulture](/options/Neutrals/Chaos/Vulture.html) | [Workaholic](/options/Neutrals/Chaos/Workaholic.html)
+[Collector](/options/Neutrals/Chaos/Collector.html) | [Cultist](/options/Neutrals/Chaos/Cultist.html) | [God](/options/Neutrals/Chaos/God.html) | [Pirate](/options/Neutrals/Chaos/Pirate.html) | [Provocateur](/options/Neutrals/Chaos/Provocateur.html) | [Revolutionist](/options/Neutrals/Chaos/Revolutionist.html) | [Solsticer](/options/Neutrals/Chaos/Solsticer.html) | [Specter](/options/Neutrals/Chaos/Specter.html) | [Terrorist](/options/Neutrals/Chaos/Terrorist.html) | [Troller](/options/Neutrals/Chaos/Troller.html) | [Vector](/options/Neutrals/Chaos/Vector.html) | [Vulture](/options/Neutrals/Chaos/Vulture.html) | [Workaholic](/options/Neutrals/Chaos/Workaholic.html)
 
 ### <font color=#912900><b>Evil</b></font>
 ---

@@ -17,8 +17,8 @@ contributors: false
 
 <font size=4em><b>Latest Versions:</b></font><br>
 
-- <b><font size=4em>Alpha:</font> [v2.1.0 Alpha 2](/changelogs/Alpha.html)</b><br>
-- <b><font size=3em>Canary:</font> [v2.0.0 Canary 12](/changelogs/Canary.html)</b><br>
+- <b><font size=4em>Alpha:</font> [v2.1.0 Alpha 3](/changelogs/Alpha.html)</b><br>
+- <b><font size=3em>Beta:</font> [v2.0.0 Beta 12](/changelogs/Beta.html)</b><br>
 - <b><font size=3em>Stable:</font> [v2.0.2](/changelogs/Stable.html)</b><br>
 
 <table>
@@ -31,7 +31,7 @@ contributors: false
 <tr>
 <td><font color=#ff9ace><b>📋 Add-ons</b></font></td>
 <td>Add-ons that can be added to any role for any player</td>
-<td align="center">72</td>
+<td align="center">73</td>
 </tr>
 
 <tr>
@@ -49,7 +49,7 @@ contributors: false
 <tr>
 <td><font color=#7c8c8d><b>🥷 Neutrals</b></font></td>
 <td>Play alone and win via their own win conditions</td>
-<td align="center">75</td>
+<td align="center">76</td>
 </tr>
 
 <tr>

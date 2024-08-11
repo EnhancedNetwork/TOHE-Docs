@@ -1,12 +1,12 @@
 ---
 lang: en-US
-title: Canary Changelogs
+title: Alpha Changelogs
 sidebarDepth: 1
 sidebar:
 - { text: Latest Changelogs, link: /Changelogs.html}
 - { text: Changelogs Tags, link: /changelogs/Tags.html}
 - { text: All Stable Changelogs, link: /changelogs/Stable.html}
-- { text: All Canary Changelogs, link: /changelogs/Canary.html}
+- { text: All Beta Changelogs, link: /changelogs/Beta.html}
 - { text: All Alpha Changelogs, link: /changelogs/Alpha.html}
 ---
 
@@ -56,7 +56,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when setting "Transformed Neutral Apocalypse Can Be Guessed" works incorrectly<br>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Changed warning message about Api Error Connection (Only in Canary and Stable versions)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed warning message about Api Error Connection (Only in Beta and Stable versions)<br>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 1</font></b></summary>
@@ -1150,6 +1150,6 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <summary><b><font color=#d395b4>v1.0.2 Alpha 1</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
-\+ <font color=green><b>NEW</b></font>: Crewmate Power Role: [President](/options/Crewmates/Power/President.html) from SLE (if this goes well for a few days, we'll release a Canary)
+\+ <font color=green><b>NEW</b></font>: Crewmate Power Role: [President](/options/Crewmates/Power/President.html) from SLE (if this goes well for a few days, we'll release a Beta)
 </details>
 </font>

@@ -329,7 +329,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 <td>Show all enabled settings.</td>
 </tr>
 <tr>
-<td>/qttd>
+<td>/qt</td>
 <td>Leave lobby forever.</td>
 </tr>
 <tr>
@@ -861,7 +861,7 @@ Here's a full list of Rich Text Tags that you can use for formatting. Some may n
 <details>
 <summary><b><font color=gray>Usable Fonts/Symbols</font></b></summary>
 
-Here's a Doc covering Fonts & Symbols that you can use while creating Templates! This Doc also shows some Sprites which are technically other Symbols, as well as some Icons and what exactly they mean when you see them!
+Here's a Doc covering Fonts & Symbols that you can use while creating Templates! This Doc also shows some Sprites which are technically other Symbols, as well as some Icons and what exactly they mean when you see them!<br>
 [Link to Doc](https://docs.google.com/document/d/e/2PACX-1vQh4sc9RL_Byt3kextqngdaAuGovFO_YaxHITZsIKqcd39mUAc6sQ89sfsSRGZsHUCecfIQiDY2WtQ-/pub)<br><br>
 
 > From: Drakos
@@ -1172,11 +1172,11 @@ Bug (This Death Reason occured awhile ago due to bugs, but has since been patche
 </tr>
 <tr>
 <td><font color=#a475a4>♠</font></td>
-<td>Used by the <font color=#a475a4>Soul Collector</font></td> to mark who's death they're predicting.
+<td>Used by the <font color=#a475a4>Soul Collector</font> to mark who's death they're predicting.</td>
 </tr>
 <tr>
 <td><font color=#e5f6b4>⦿</font></td>
-<td>Used by the <font color=#e5f6b4>Plaguebearer</font></td> to mark who they have plagued.
+<td>Used by the <font color=#e5f6b4>Plaguebearer</font> to mark who they have plagued.</td>
 </tr>
 </table>
 

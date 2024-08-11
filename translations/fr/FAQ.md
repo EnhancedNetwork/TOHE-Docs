@@ -10,7 +10,7 @@ contributors: false
 <details>
 <summary><b><font color=#d395b4>How can I Install TOHE?</font></b></summary>
 
-Visit the [Install](/Install.html) page! This guides you through installing TOHE on etiher Steam, Epic, or Xbox App, and also shows you how to install Alpha & Canary Builds.
+Visit the [Install](/Install.html) page! This guides you through installing TOHE on etiher Steam, Epic, or Xbox App, and also shows you how to install Alpha & Beta Builds.
 </details>
 <br>
 <details>
@@ -170,9 +170,9 @@ Their presence has no effect on the game, and all players know who the Game Mast
 </details>
 <br>
 <details>
-<summary><b><font color=#d395b4>How can I access Canary & Alpha Builds?</font></b></summary>
+<summary><b><font color=#d395b4>How can I access Beta & Alpha Builds?</font></b></summary>
 
-1. Anybody can get Canary Access by visiting `#canary-builds` in the TOHE Discord.
+1. Anybody can get Beta Access by visiting `#beta-builds` in the TOHE Discord.
 
 2. Become a Contributor, Tester, or Sponsor (Insider+) for Alpha Access.<br>
 Read near the bottom of the [Install](/Install.html) page.

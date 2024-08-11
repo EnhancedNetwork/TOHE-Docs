@@ -1,12 +1,12 @@
 ---
 lang: en-US
-title: Canary Changelogs
+title: Changelogs Tags
 sidebarDepth: 1
 sidebar:
 - { text: Latest Changelogs, link: /Changelogs.html}
 - { text: Changelogs Tags, link: /changelogs/Tags.html}
 - { text: All Stable Changelogs, link: /changelogs/Stable.html}
-- { text: All Canary Changelogs, link: /changelogs/Canary.html}
+- { text: All Beta Changelogs, link: /changelogs/Beta.html}
 - { text: All Alpha Changelogs, link: /changelogs/Alpha.html}
 ---
 

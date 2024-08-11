@@ -1,22 +1,22 @@
 ---
 lang: en-US
-title: Canary Changelogs
+title: Beta Changelogs
 sidebarDepth: 1
 sidebar:
 - { text: Latest Changelogs, link: /Changelogs.html}
 - { text: Changelogs Tags, link: /changelogs/Tags.html}
 - { text: All Stable Changelogs, link: /changelogs/Stable.html}
-- { text: All Canary Changelogs, link: /changelogs/Canary.html}
+- { text: All Beta Changelogs, link: /changelogs/Beta.html}
 - { text: All Alpha Changelogs, link: /changelogs/Alpha.html}
 ---
 
-## <font size=5em><b>All Canary Releases/Changelogs:</b></font><br>
-To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/tohe) and visit #canary-builds, then download the latest dll!
+## <font size=5em><b>All Beta Releases/Changelogs:</b></font><br>
+To access Beta Builds, visit the [TOH: Enhanced Discord](https://discord.gg/tohe) and visit #beta-builds, then download the latest dll!
 
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.0.0 Canary 12</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.0.0 Beta 12</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \- <font color=#12edaf><b>REVERT</b></font>: Doppelganger was reverted to v1.6.0 (This role was is extremely unstable and has problems, so I don’t want the reworked version of Doppelganger to be in the release version 2.0.0)<br>
@@ -44,14 +44,14 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#32CD32><b>TYPO</b></font>: Fixed Councillor Typos<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 11.1</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Beta 11.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when everyone imp based role can kill normally (Like every target have Fragile)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Swooper and Wraith can report Bait<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 11</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Betasummary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Added F3 and F4 to show role and add-ons settings, respectively<br>
@@ -92,14 +92,14 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed poll title cutting of the text<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 10.1</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Beta 10.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed lobby timer shows in game<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed some null errors<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 10</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Beta 10</font></b></summary>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 \+ <font color=green><b>NEW</b></font>: Setting to reveal Councillor Trial<br>
@@ -162,7 +162,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 \+ <font color=green><b>NEW</b></font>: Add Il2CppHelper<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 9</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Beta 9</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Phantom For Desync Roles (Note: To fix the Phantom, the Phantom is entered to the vent for desync roles, so it may not work stably)<br>
@@ -193,7 +193,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#F6BE00><b>CHANGE</b></font>: Changed Kamikaze symbol<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 8.1</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Beta 8.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when game end in start game by task win<br>
@@ -201,7 +201,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 8</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Beta 8</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Noisemaker not work for desync roles<br>
@@ -223,7 +223,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed version check for modded clients<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 7</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Beta 7</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Optimize Settings and some fix and improvements (Thanks EHR Gurge44)<br>
@@ -249,7 +249,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Schizophrenic renamed to Paranoia<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 6</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Beta 6</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL) & [**Pietro**](https://github.com/Pietrodjaowjao), & [**Drakos**](https://github.com/Ultradragon005), & [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#ece218><b>NOTICE</b></font>: Support latest AU Version (v2024.6.18)<br>
@@ -272,7 +272,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Bloodlust renamed to Bloodthirst<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 5</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Beta 5</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Option: Everyone Can See Death Reason<br>
@@ -304,7 +304,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Allow players to be banned by only using first name (In BanList.txt)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 4</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Beta 4</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Command "/kcount" (Now you can use "/kc" and added setting "Show Madmates")<br>
@@ -326,7 +326,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#32CD32><b>TYPOS</b></font>: Fixed some typos and miscellaneous strings<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 3</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Beta 3</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Wilding, Mundane, Mini, Pixie, and Egoist<br>
@@ -351,17 +351,17 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#fdf08e><b>NOTE</b></font>: Compiled the patch notes!<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 2.1</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Beta 2.1</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed errors in logs and fortegreen players in lobby<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 2</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Beta 2</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIXES</b></font>: Lots of fixes, more stability<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Canary 1</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Beta 1</font></b></summary>
 
 * By [**Marg**](https://github.com/MargaretTheFool)<br>
 \+ <font color=green><b>NEW</b></font>: Mini-Game Command: /8ball (Idea - Pyro)<br>
@@ -439,7 +439,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 - Additional Fixes by Multiple Contributors<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.6.0 Canary 6</font></b></summary>
+<summary><b><font color=#d395b4>v1.6.0 Beta 6</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix dark theme when using quick chat<br>
@@ -450,7 +450,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 \+ <font color=green><b>NEW</b></font>: New setting Revert to old Kill logs (The kill log and end summary will also automatically remove html tags if the length is too long (even with setting off). This is done because if message is too big, it will not send to some players.)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.6.0 Canary 5</font></b></summary>
+<summary><b><font color=#d395b4>v1.6.0 Beta 5</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Mole not working on fungle<br>
@@ -464,7 +464,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#F6BE00><b>CHANGE</b></font>: Some changes in code<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.6.0 Canary 4</font></b></summary>
+<summary><b><font color=#d395b4>v1.6.0 Beta 4</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed some issues after teleport<br>
@@ -473,7 +473,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#1376f0><b>BUG FIX</b></font>: Added temporary black screen fix for ghost roles (After meeting, the player who has the role of a ghost will kill himself so as not to stumble upon a black screen (dead body will not be visible to all players))<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.6.0 Canary 3</font></b></summary>
+<summary><b><font color=#d395b4>v1.6.0 Beta 3</font></b></summary>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed the black screen for ghost roles<br>
@@ -484,7 +484,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Invalid strings for Quiz Master<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.6.0 Canary 2</font></b></summary>
+<summary><b><font color=#d395b4>v1.6.0 Beta 2</font></b></summary>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Small fix in ghost role assign<br>
@@ -500,7 +500,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 \- <font color=red><b>REMOVED</b></font>: Unused strings was removed (Thanks to kevoutings for providing all the unused strings)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.6.0 Canary 1</font></b></summary>
+<summary><b><font color=#d395b4>v1.6.0 Beta 1</font></b></summary>
 
 * By [**Pietro**](https://github.com/Pietrodjaowjao) & [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Mod Updater<br>
@@ -557,7 +557,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#F6BE00><b>CHANGE</b></font>: If a user fails dbconnect on first login, it will be turned to offline mode and forced to re-login<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.5.2 Canary 1</font></b></summary>
+<summary><b><font color=#d395b4>v1.5.2 Beta 1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Support AU v2024.3.5<br>
@@ -568,7 +568,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Bomber and Nuker was banned by EAC aftet shapeshifting<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.5.1 Canary 5</font></b></summary>
+<summary><b><font color=#d395b4>v1.5.1 Beta 5</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Another attempt to fix Disconnection due relible packet in lobby | It looks like the disconnect issues are happening on the AU side when fortegreen player tries to join the lobby <br>
@@ -580,13 +580,13 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Rift Radius unit changed from `s` in settings <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.5.1 Canary 4</font></b></summary>
+<summary><b><font color=#d395b4>v1.5.1 Beta 4</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed disconnection due to "reliable packet was not ack'd" message being spammed for fortegreen players <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.5.1 Canary 3</font></b></summary>
+<summary><b><font color=#d395b4>v1.5.1 Beta 3</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: The game should now end, if a player exits the game while assigning roles <br>
@@ -600,7 +600,7 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed updating of player names after kill committed by Doppelganger <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.5.1 Canary 2 (Pre-Release)</font></b></summary>
+<summary><b><font color=#d395b4>v1.5.1 Beta 2 (Pre-Release)</font></b></summary>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 \+ <font color=green><b>NEW</b></font>: New Add-On: Tricky (Imposter Only!) <br>
@@ -640,13 +640,13 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Nice Mini could be killed by Warlock, Puppeteer, and Shroud as well as prevent them from being target for anonymous <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.5.1 Canary 1.1 (Pre-Release)</font></b></summary>
+<summary><b><font color=#d395b4>v1.5.1 Beta 1.1 (Pre-Release)</font></b></summary>
 
-<font color=#ece218><b>NOTICE</b></font>: No Changes, just compiled to official Canary and not through Debug (Thanks, Julius!) <br>
+<font color=#ece218><b>NOTICE</b></font>: No Changes, just compiled to official Beta and not through Debug (Thanks, Julius!) <br>
 <font color=#ece218><b>NOTICE</b></font>:<font color=Red><b> Use This Version, please</b></font> <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.5.1 Canary 1 (Pre-Release)</font></b></summary>
+<summary><b><font color=#d395b4>v1.5.1 Beta 1 (Pre-Release)</font></b></summary>
 
 * By [**Drakos**](https://github.com/Ultradragon005) <br>
 \+ <font color=green><b>NEW</b></font>: Added Role: Penguin <br>
@@ -706,10 +706,10 @@ To access Canary Builds, visit the [TOH: Enhanced Discord](https://discord.gg/to
 * By [**0xDrMoe**](https://github.com/0xDrMoe) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Updated several roles' names internally to be consistent and not spaghetti code <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bug where Jackal recruits Copycat and Copycat's role resets after meeting (with ryuk) <br>
-v1.5.1 Canary 1(Pre-Release)
+v1.5.1 Beta 1(Pre-Release)
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.5.0 Canary 1.1</font></b></summary>
+<summary><b><font color=#d395b4>v1.5.0 Beta 1.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed meeting error for Swooper & Chameleon & Wraith & Alchemist <br>
@@ -719,7 +719,7 @@ v1.5.1 Canary 1(Pre-Release)
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed message Swapper <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.5.0 Canary 1</font></b></summary>
+<summary><b><font color=#d395b4>v1.5.0 Beta 1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Added Support For Vanilla Hide & Seek <br>
@@ -802,7 +802,7 @@ v1.5.1 Canary 1(Pre-Release)
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix bug where /gno and /rand gave same result <br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.3.1 Canary 3</font></b></summary>
+<summary><b><font color=#d395b4>v1.3.1 Beta 3</font></b></summary>
 
 + By [**Drakos**](https://github.com/Ultradragon005) <br>
 \+ <font color=green><b>NEW</b></font>: Impostor Support role: [Kamikaze](/options/Impostors/Support/Kamikaze.html) (TOHE ORIGINAL :D)<br>
@@ -830,7 +830,7 @@ v1.5.1 Canary 1(Pre-Release)
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix few roles that are unable to guess getting doubleshot<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.3.1 Canary 2</font></b></summary>
+<summary><b><font color=#d395b4>v1.3.1 Beta 2</font></b></summary>
 
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Updater<br>
@@ -860,7 +860,7 @@ v1.5.1 Canary 1(Pre-Release)
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug whan Nice Mini can be guessed to death by Guesser<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.3.1 Canary 1</font></b></summary>
+<summary><b><font color=#d395b4>v1.3.1 Beta 1</font></b></summary>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Anti first kill Host<br>
@@ -913,7 +913,7 @@ v1.5.1 Canary 1(Pre-Release)
 \+ <font color=green><b>NEW</b></font>: Add region: Modded SA (MSA)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.2.1 Canary 2</font></b></summary>
+<summary><b><font color=#d395b4>v1.2.1 Beta 2</font></b></summary>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed butcher, hater and horsemod<br>
@@ -932,7 +932,7 @@ v1.5.1 Canary 1(Pre-Release)
 = <font color=#1376f0><b>BUG FIX</b></font>: Possible fix for Imitator<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.2.1 Canary 1</font></b></summary>
+<summary><b><font color=#d395b4>v1.2.1 Beta 1</font></b></summary>
 
 * By [**lars-wu (papercut)**](https://github.com/lars-wu)<br>
 \+ <font color=green><b>NEW</b></font>: Crewmate Support Role: [Enigma](/options/Crewmates/Support/Enigma.html) <br>
@@ -1015,7 +1015,7 @@ v1.5.1 Canary 1(Pre-Release)
 \+ <font color=#de2910><b>Traditional Chinese</b></font> by [**Pomelo_**](#), [**FlyFlyTurtle**](#), [**NikoCat223**](#), & [**NetherDragonTw**](#).
 </details>
 <details>
-<summary><b><font color=#d395b4>v1.1.0 Canary 1</font></b></summary>
+<summary><b><font color=#d395b4>v1.1.0 Beta 1</font></b></summary>
 
 * By [**LezaiYa**](https://github.com/LezaiYa) <br>
 \+ <font color=green><b>NEW</b></font>: Crewmate Support Role: [Spy](/options/Crewmates/Support/Spy.html)<br>

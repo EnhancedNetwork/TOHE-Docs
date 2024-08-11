@@ -1,12 +1,12 @@
 ---
 lang: en-US
-title: Canary Changelogs
+title: Changelogs
 sidebarDepth: 1
 sidebar:
 - { text: Latest Changelog, link: /Changelogs.html}
 - { text: Changelogs Tags, link: /changelogs/Tags.html}
 - { text: All Stable Changelogs, link: /changelogs/Stable.html}
-- { text: All Canary Changelogs, link: /changelogs/Canary.html}
+- { text: All Beta Changelogs, link: /changelogs/Beta.html}
 - { text: All Alpha Changelogs, link: /changelogs/Alpha.html}
 contributors: false
 ---
@@ -55,15 +55,16 @@ contributors: false
 = <font color=#ece218><b>NOTICE</b></font>: Updated to v2.1.0 Alpha 2<br>
 \+ Have a good day!<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
-= <font color=#ece218><b>NOTICE</b></font>: Soul Collector & Berserker work differently<br>
+= <font color=#ece218><b>NOTICE</b></font>: Soul Collector & Berserker work differently in 2.1.0 Alpha 2 than they do in 2.0.2 Stable Release.<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added `Other` as a Tab for Add-ons as it's nicer to keep all addons in the same group (I'm not adding them to Game Modifiers, that's ugly).<br>
 \+ <font color=green><b>NEW</b></font>: Added `Translations.md` (Instead of cluttering `Resources.md` with future Translation Submissions, Translations will be listed here.) Currently has no entries, nor submissions.<br>
 \+ <font color=green><b>NEW</b></font>: Tab Favicon (Thanks Theta!)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: All Commands + Hot-Keys are updated and finally listed. (Minus a few variants. However, variants like `/r` & `/role` were included.)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Dev Builds are now listed as Alpha Builds, this is due to a name change coming soon in the future.<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Canary Builds are now listed as Beta Builds, this is due to a name change coming soon in the future.<br>
 = <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are finally corrected, thanks Drakos for doing the numbers! No idea what `[None] = Count: 13` still means though.<br>
 = <font color=#ece218><b>NOTICE</b></font>: `zh-CN` and `fr` are fully up-to-date with Main (en-US), but not translated, meaning Simplified Chinese & French Translations are still in the works, sorry!<br>
 = <font color=#fdf08e><b>NOTE</b></font>: You may realize that there are 3 results of roles if you use the built-in search bar. This is because you are getting a copy for every instance (Currently, `fr` & `zh-CN`) that is not yet translated. (An example being Reverie, even though <i>most</i> roles will display 3 results.)<br>
-![image](../images/SearchReverie3BUG.png)<br>
+![image](./images/SearchReverie3BUG.png)<br>
 </details>
 </font>

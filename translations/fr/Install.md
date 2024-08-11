@@ -30,10 +30,10 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, Micr
 2. Once the download is complete, unzip it into a new empty folder like on desktop.
 
 3. Locate your AmongUs install. For example, if you own the game on Steam, you can find this by right clicking on the game in your library, selecting "Manage", and finally selecting "Browse local files."<br>
-![image](../images/SteamGetFolder.png)
+![image](./images/SteamGetFolder.png)
 
 4. Select all of the files in your Among Us installation and copy them to the folder that now has the files from the TOHE release. The folder should now look something like this:<br>
-![image](../images/ResultFolder.png)
+![image](./images/ResultFolder.png)
 
 5. Within the TOHE folder, run `Among Us.exe`. The first time running it may take some time while the mod sets up its files. If you see a black screen, just wait a couple minutes. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.
 
@@ -49,10 +49,10 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, Micr
 2. Once the download is complete, unzip it into a new empty folder somewhere like on desktop.
 
 3. Locate your AmongUs install. Find Among Us and click on the 3 dots `...` > click the folder icon button on the installation bar.<br>
-![image](../images/EpicInstallation.png)
+![image](./images/EpicInstallation.png)
 
 4. Select all of the files in your TOHE folder and copy them to the Among Us installation folder. The folder should now look something like this:<br>
-![image](../images/EpicFiles.png)
+![image](./images/EpicFiles.png)
 
 5. Within the Among Us folder, run `EpicGamesStarter.exe` ([Download Here](https://github.com/whichtwix/EpicGamesStarter/releases/tag/1.0.2) & Follow instructions on page.) The first time running it may take some time while installing a prerequisite and the mod sets up its files. If you see a black screen or a console window, just wait a couple minutes. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.
 
@@ -74,10 +74,10 @@ Note: the file should **always** contain "-MS" in its name. otherwise you're dow
 2. Once the download is complete, unzip it into a new empty folder like on desktop.
 
 3. Locate your AmongUs install. For example, if you own the game on Microsoft/Xbox App, you need to go to Xbox app, then you can find this by right clicking on the game in your Library, selecting "Manage", then "Files", and finally selecting "Browse files".<br>
-![image](../images/MSGetFolder.png)
+![image](./images/MSGetFolder.png)
 
 4. Select all of the files in your TOHE folder and copy them to the Among Us installation folder. The folder should now look something like this:<br>
-![image](../images/MSResultFolder.png)
+![image](./images/MSResultFolder.png)
 
 5. Now go back to Xbox app, then launch the game like you would normally do.<br>
 Note: For Xbox, theres no problem in launching the game with `Among Us.exe` at all.
@@ -92,8 +92,8 @@ Note: For Xbox, theres no problem in launching the game with `Among Us.exe` at a
 
 Keep an eye on the [releases page](https://github.com/0xDrMoe/TownofHost-Enhanced/releases) for new stable releases. If a new version is released, all you'll usually need to do is repeat steps 1-2 above in either guide, unzipping into the same folder where you already have it installed, and letting it overwrite/replace the old files.<br>
 If it says it requires a newer version of Among Us, repeat steps 3-5 as well after making sure your base game is up to date.<br>
-In some cases, the <b>Latest</b>> TOHE Builds are Canary or Alpha Builds. Follow the first step in the below guide to get Alpha/Canary Builds. Stable builds will always be the latest, unless a Canary build has a higher version number, unless a Alpha build has a higher version number than the Canary version.<br>
-(Ex: 1.6.0 Stable -> 2.0.0 Alpha 2 -> 2.0.0 Canary 1 -> 2.0.0 Stable)
+In some cases, the <b>Latest</b>> TOHE Builds are Beta or Alpha Builds. Follow the first step in the below guide to get Alpha/Beta Builds. Stable builds will always be the latest, unless a Beta build has a higher version number, unless a Alpha build has a higher version number than the Beta version.<br>
+(Ex: 1.6.0 Stable -> 2.0.0 Alpha 2 -> 2.0.0 Beta 1 -> 2.0.0 Stable)
 </details>
 <br>
 <details>
@@ -109,23 +109,23 @@ Visit `#alpha-builds` in the [TOH: Enhanced Discord](https://discord.gg/tohe) on
 </details>
 <br>
 <details>
-<summary><b><font color=#d395b4>How to get</font> <font color=#ffef00>Canary Builds</font></b></summary>
+<summary><b><font color=#d395b4>How to get</font> <font color=#ffef00>Beta Builds</font></b></summary>
 
-* Visit `#canary-builds` in the [TOH: Enhanced Discord](https://discord.gg/tohe), and download the latest dll!
+* Visit `#beta-builds` in the [TOH: Enhanced Discord](https://discord.gg/tohe), and download the latest dll!
 </details>
 <br>
 <details>
-<summary><b><font color=#d395b4>Install</font> <font color=#8a2be2>Alpha</font> <font color=#d395b4>&</font> <font color=#ffef00>Canary Builds</font></b></summary>
+<summary><b><font color=#d395b4>Install</font> <font color=#8a2be2>Alpha</font> <font color=#d395b4>&</font> <font color=#ffef00>Beta Builds</font></b></summary>
 
-1. Download the latest dll in `#alpha-builds` or `#canary-builds`.
+1. Download the latest dll in `#alpha-builds` or `#beta-builds`.
 
 2. Make sure you don't have your Modded Client open when you attempt to do this, otherwise you will get a pop-up which looks something like this:<br>
-![image](../images/pluginsInUse.png)
+![image](./images/pluginsInUse.png)
 
 3. Once the download is complete, move the dll into your `TOHE\BepInEx\plugins` folder. (TOHE will be whatever your Mod Folder is, if you renamed it, it will be that one)
 
 4. Within the TOHE folder, run `Among Us.exe` for Steam, or `EpicGamesStartGame.cmd` for Epic Games. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder, & that you launched from your modded folder.
 
-#### You have successfully installed a Alpha Build/Canary Build!
+#### You have successfully installed a Alpha Build/Beta Build!
 </details>
 </font>

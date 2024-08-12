@@ -62,6 +62,6 @@ contributors: false
 = <font color=#e08709><b>IMPROVEMENT</b></font>: All Commands + Hot-Keys are updated and finally listed. (Minus a few variants. However, variants like `/r` & `/role` were included.)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Dev Builds are now listed as Alpha Builds, this is due to a name change coming soon in the future.<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Canary Builds are now listed as Beta Builds, this is due to a name change coming soon in the future.<br>
-= <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are finally corrected, thanks Drakos for doing the numbers! No idea what `[None] = Count: 13` still means though.<br>
+= <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are finally corrected, thanks Drakos for doing the numbers! No idea what `[None] = Count: 13` still means though. Some Role Counts may be out of date, but I'm merely too lazy to figure it out (Roles changed factions + sub-factions yes very confusing I know (not really just lazy))<br>
 </details>
 </font>

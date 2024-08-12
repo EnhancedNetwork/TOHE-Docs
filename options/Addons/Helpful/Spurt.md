@@ -5,7 +5,7 @@ prev: Sleuth
 next: Tiebreaker
 ---
 
-# <font color=#c9e8f5>🪫 <b>Spurt</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
+# <font color=#c9e8f5>🏃 <b>Spurt</b></font> <Badge text="Helpful" type="tip" vertical="middle"/>
 ---
 
 When you start walking, you gain an enormous speed boost, which swiftly deteriorates, until you have to rest still for a while to rejuvenate your speed.
@@ -28,7 +28,8 @@ When you start walking, you gain an enormous speed boost, which swiftly deterior
 * Max Speed
   * Set the Maxmimum speed that a Spurt can have
 * Speed Modulator
-  * Set the 
+  * Larger %: Regenerate Faster, Deteriorate Faster.
+  * Smaller %: Regenerate Slower, Deteriorate Slower.
 * Display the Charge
   * <font color=green>ON</font>: Spurts recharging will be displayed
   * <font color=red>OFF</font>: Spurts recharging will not be displayed

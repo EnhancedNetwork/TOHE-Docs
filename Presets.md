@@ -30,7 +30,7 @@ Version: 2.0.0 Alpha 20
 
 <a href="/presets/PyrosPreset.json" download>Download this Preset</a><br>
 Important Notes: Preset 1 is Pyro's Circus. This has every role enabled (Besides a few, which were either better as their addon versions, or just weren't wanted such as: Executioner, Most Vanilla Roles, so on.)
-Version: 2.0.0 Beta 12 (90% sure)
+Version: 2.1.0 Alpha 3
 
 > Submitted by: NotPyro404
 </details>

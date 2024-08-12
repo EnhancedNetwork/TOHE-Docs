@@ -12,6 +12,7 @@ Note: You have to put the file in the following directory: `.\Among Us\TOHE-DATA
 
 You can submit your own preset to be featured by joining the [TOHE Discord](https://discord.gg/TOHE), heading to #website-feedback, and creating a forum post with the Preset tag.
 Below are some member submitted presets:
+NOTE: If you download a preset that is from a version newer than that one which you are running on, it will still work, but any settings in the preset you downloaded that aren't already in the version you are on will be ignored.
 
 ---
 

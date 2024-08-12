@@ -16,14 +16,14 @@ These are Tags to help you differentiate between Bugs & Changes, Additions & Rew
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#8708c7>Recently Added Tags</font></b></summary>
+<summary><b><font color=#cf4e8f>Recently Added Tags</font></b></summary>
 
 \+ <font color=#12edaf><b>RENAMED</b></font>: Mixture of NEW, CHANGE, & TYPO, (mostly used for Role Renames/Page Renames). <br>
 \+ <font color=#12edaf><b>RETURNED</b></font>: Not NEW, but was REMOVED previously, and added back. (mostly used when Roles Re-added). <br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Bugs that are currently being worked on, or are not currently resolvable.<br>
 </details>
 <details>
-<summary><b><font color=#8708c7>All Site Tags</font></b></summary>
+<summary><b><font color=#d395b4>All Site Tags</font></b></summary>
 
 \- <font color=red><b>REMOVED</b></font>: Features recently deleted from the Mod/Site. <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: CHANGES, but specifically to make a Feature run/look better. <br>

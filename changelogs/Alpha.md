@@ -141,7 +141,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#32CD32><b>TYPOS</b></font>: Fixed some typos and descriptions<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Alphaha 23</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 23</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Now at the end of the game, players who left the game after death will display the real death reason and after the reason "(Disconnected)"<br>
@@ -158,7 +158,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added lobby timer in "template.txt"<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Alphaha 22</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 22</font></b></summary>
 
 * By [**D1GQ**](https://github.com/D1GQ)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Simplified some Dollmaster code for OnCheckMurder<br>
@@ -204,7 +204,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 \+ <font color=green><b>NEW</b></font>: Settings for Engineer: "Vent Cooldown" and "Max Time In Vents"<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Alphaha 20</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 20</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: bug when God was based on Impostor<br>
@@ -228,7 +228,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that caused Main Body text not to show<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Alphahaha 19.1</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 19.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Аgain small fix for Quizmaster (lol)<br>

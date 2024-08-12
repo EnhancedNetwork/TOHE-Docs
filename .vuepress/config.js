@@ -10,7 +10,7 @@ export default defineUserConfig({
       '/': {
         selectLanguageName: 'English',
         home: '/',
-        logo: '/images/logo.png',
+        logo: './images/logo.png',
         logoAlt: 'TOHE',
         navbar: [
           {

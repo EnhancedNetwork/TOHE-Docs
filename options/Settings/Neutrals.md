@@ -5,7 +5,7 @@ prev: /Roles.html
 next: /Roles.html
 ---
 
-# <font color="#7f8c8d">🥷 <b>Neutral Roles</b></font>
+# <font color="#7f8c8d">🕶️ <b>Neutral Roles</b></font>
 ---
 
 <b>Play for yourself, and eliminate everyone around you. Neutrals can win alone, but they can also win with other players. Their victory conditions are different from other players. Each Neutral player has a unique victory condition.</b><br>
@@ -46,14 +46,14 @@ next: /Roles.html
 </tr>
 
 <tr>
-<td><font color=#7c8c8d><b>🟰 Total:</b></font></td>
+<td><font color=#7c8c8d><b>📊 Total:</b></font></td>
 <td align="center"><b>76</b></td>
 </tr>
 
 </table>
 <br>
 
-### <font color=#046300><b>Apocalypse</b></font>
+### <font color=#cc0044><b>Apocalypse</b></font>
 ---
 [Baker](/options/Neutrals/Apocalypse/Baker.html) | [Berserker](/options/Neutrals/Apocalypse/Berserker.html) | [Plaguebearer](/options/Neutrals/Apocalypse/Plaguebearer.html) | [Soul Collector](/options/Neutrals/ApocalypseSoulCollector.html)
 

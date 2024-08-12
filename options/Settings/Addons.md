@@ -46,12 +46,12 @@ next: /Roles.html
 </tr>
 
 <tr>
-<td><font color=#32a87f><b>🗃️ Other (Site Only)</b></font></td>
+<td><font color=#ff9ace><b>🗃️ Other (Site Only)</b></font></td>
 <td align="center">3</td>
 </tr>
 
 <tr>
-<td><font color=#ff9ace><b>🟰 Total:</b></font></td>
+<td><font color=#ff9ace><b>📊 Total:</b></font></td>
 <td align="center"><b>73</b></td>
 </tr>
 

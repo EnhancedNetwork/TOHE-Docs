@@ -47,7 +47,7 @@ contributors: false
 </tr>
 
 <tr>
-<td><font color=#7c8c8d><b>🥷 Neutrals</b></font></td>
+<td><font color=#7c8c8d><b>🕶️ Neutrals</b></font></td>
 <td>Play alone and win via their own win conditions</td>
 <td align="center">76</td>
 </tr>

@@ -26,7 +26,7 @@ contributors: false
 <summary><b><font color=#cf4e8f>TOHE v2.1.0 Alpha 3 Changelogs</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: Neutral Chaos Role: [Troller](/options/Chaos/Neutral/Troller.html) (Idea by: `@dx7405`)<br>
+\+ <font color=green><b>NEW</b></font>: Neutral Chaos Role: [Troller](/options/Neutral/Chaos/Troller.html) (Idea by: `@dx7405`)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Vip/Moderator/Sponsor and ect. shown in game<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the host changed his nickname to his own when he was killed by Doppelganger (hopefully)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Veteran kill Taskinator<br>
@@ -44,7 +44,7 @@ contributors: false
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 \+ <font color=green><b>NEW</b></font>: Added role info in setting menu<br>
 \+ <font color=green><b>NEW</b></font>: Added search bar in settings<br>
-\+ <font color=green><b>NEW</b></font>: Helpful Add-on: [Spurt](/options/Helpful/Addons/Spurt.html) (Idea by: `@.thediamondstar`)<br>
+\+ <font color=green><b>NEW</b></font>: Helpful Add-on: [Spurt](/options/Addons/Helpful/Spurt.html) (Idea by: `@.thediamondstar`)<br>
 =  AddonBase (Port From EHR) (The settings are now sorted alphabetically)<br>
 </details>
 <br>
@@ -52,7 +52,7 @@ contributors: false
 <summary><b><font color=#12edaf>Site Changelogs/Updates</font></b></summary>
 
 * By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
-= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.1.0 Alpha 2<br>
+= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.1.0 Alpha 3<br>
 \+ Have a good day!<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
 = <font color=#ece218><b>NOTICE</b></font>: Soul Collector & Berserker work differently in 2.1.0 Alpha 2 than they do in 2.0.2 Stable Release.<br>
@@ -63,8 +63,5 @@ contributors: false
 = <font color=#F6BE00><b>CHANGE</b></font>: Dev Builds are now listed as Alpha Builds, this is due to a name change coming soon in the future.<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Canary Builds are now listed as Beta Builds, this is due to a name change coming soon in the future.<br>
 = <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are finally corrected, thanks Drakos for doing the numbers! No idea what `[None] = Count: 13` still means though.<br>
-= <font color=#ece218><b>NOTICE</b></font>: `zh-CN` and `fr` are fully up-to-date with Main (en-US), but not translated, meaning Simplified Chinese & French Translations are still in the works, sorry!<br>
-= <font color=#fdf08e><b>NOTE</b></font>: You may realize that there are 3 results of roles if you use the built-in search bar. This is because you are getting a copy for every instance (Currently, `fr` & `zh-CN`) that is not yet translated. (An example being Reverie, even though <i>most</i> roles will display 3 results.)<br>
-![image](./images/SearchReverie3BUG.png)<br>
 </details>
 </font>

@@ -468,7 +468,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 </tr>
 <tr>
 <td><b><i>/id</i></b></td>
-<td><b>What Command does</b></td>
+<td><b>Show all IDs of players in the lobby.</b></td>
 </tr>
 <tr>
 <td>/answer [ⓐ/ⓑ/ⓒ]</td>

@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Settings/System.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Settings/System.html\",\"title\":\"System Settings\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"System Settings\",\"prev\":\"/Roles.html\",\"next\":\"/Roles.html\"},\"headers\":[],\"git\":{\"updatedTime\":1722067172000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Settings/System.md\"}")
-export { comp, data }

@@ -21,7 +21,7 @@ Below are some member submitted presets:
 
 <a href="/presets/MargsPreset.json" download>Download this Preset</a><br>
 Important Notes: Preset 1 is Marg's Regular Settings. Preset 2 is Marg's Extreme Chaos Settings.
-Version: I.D.K
+Version: 2.0.0 Alpha 20
 
 > Submitted by: Marg
 </details>
@@ -30,7 +30,7 @@ Version: I.D.K
 
 <a href="/presets/PyrosPreset.json" download>Download this Preset</a><br>
 Important Notes: Preset 1 is Pyro's Circus. This has every role enabled (Besides a few, which were either better as their addon versions, or just weren't wanted such as: Executioner, Most Vanilla Roles, so on.)
-Version: I.D.K
+Version: 2.0.0 Beta 12 (90% sure)
 
 > Submitted by: NotPyro404
 </details>

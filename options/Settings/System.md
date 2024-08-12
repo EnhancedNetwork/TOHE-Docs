@@ -198,13 +198,13 @@ next: /Roles.html
     * Random - Everyone appears grey
     * Only Random Color - Everyone appears grey
     * <font color=#ffff00>Host</font> - Everyone appears as the host's skin
-    * <font color=#e3bacd>KARPED1EM</font> - Everyone appears as KARPED1EM's skin (the original creator of the mod)
-    * <font color=#f5dbdf>Lauryn</font> - Everyone appears as Lauryn's skin (the project leads girlfriend)
-    * <font color=#ff8000>Moe</font> - Everyone appears as Moe's skin (the project lead)
+    * <font color=#e3bacd>KARPED1EM</font> - Everyone appears as KARPED1EM's skin (the orignal TOHEdited Developer)
+    * <font color=#f5dbdf>Lauryn</font> - Everyone appears as Lauryn's skin (Head of HR)
+    * <font color=#ff8000>Moe</font> - Everyone appears as Moe's skin (President)
     * <font color=#ec7578>Pyro</font> - Everyone appears as Pyro's skin (the Website Assistant)
-    * <font color=#9e2424>ryuk</font> - Everyone appears as ryuk's skin (a lead contributor)
-    * <font color=#fffff>Gurge44</font> - Everyone appears as Gurge44's skin (a lead contributor/EHR Developer)
-    * <font color=#ec7578>TommyXL</font> - Everyone appears as TommyXL's skin (a lead contributor)
+    * <font color=#9e2424>ryuk</font> - Everyone appears as ryuk's skin (Co-President)
+    * <font color=#fffff>Gurge44</font> - Everyone appears as Gurge44's skin (EHR Developer)
+    * <font color=#ec7578>TommyXL</font> - Everyone appears as TommyXL's skin (Lead Developer of TOHE)
 
 * <font color=cyan>Enable Youtuber Plan</font>
   * <font color=green>ON</font>: Host can use the command `/up [rolename]` to get the specified role on the next game - Requires Permissions

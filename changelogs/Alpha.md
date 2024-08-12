@@ -19,7 +19,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <summary><b><font color=#cf4e8f>v2.1.0 Alpha 3</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: Neutral Chaos Role: [Troller](/options/Chaos/Neutral/Troller.html) (Idea by: `@dx7405`)<br>
+\+ <font color=green><b>NEW</b></font>: Neutral Chaos Role: [Troller](/options/Neutral/Chaos/Troller.html) (Idea by: `@dx7405`)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Vip/Moderator/Sponsor and ect. shown in game<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the host changed his nickname to his own when he was killed by Doppelganger (hopefully)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Veteran kill Taskinator<br>
@@ -37,7 +37,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 \+ <font color=green><b>NEW</b></font>: Added role info in setting menu<br>
 \+ <font color=green><b>NEW</b></font>: Added search bar in settings<br>
-\+ <font color=green><b>NEW</b></font>: Helpful Add-on: [Spurt](/options/Helpful/Addons/Spurt.html) (Idea by: `@.thediamondstar`)<br>
+\+ <font color=green><b>NEW</b></font>: Helpful Add-on: [Spurt](/options/Addons/Helpful/Spurt.html) (Idea by: `@.thediamondstar`)<br>
 =  AddonBase (Port From EHR) (The settings are now sorted alphabetically)<br>
 </details>
 <details>

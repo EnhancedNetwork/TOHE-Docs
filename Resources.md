@@ -266,7 +266,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 </tr>
 <tr>
 <td>/icon</td>
-<td><b>Display icons and what they mean.</td>
+<td><b>Display icons and what they mean.</b></td>
 </tr>
 <tr>
 <td>/icons</td>
@@ -671,7 +671,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 </tr>
 <tr>
 <td>/poll</td>
-<td><b>Begin a poll in your lobby.</td>
+<td><b>Begin a poll in your lobby.</b></td>
 </tr>
 <tr>
 <td>/rn [name]</td>

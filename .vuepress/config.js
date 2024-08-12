@@ -287,7 +287,7 @@ export default defineUserConfig({
           ],
           '/options/Impostors/Experimental/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
-            { text: 'Doll Master', link: '/options/Impostors/Ghost/DollMaster.html' },
+            { text: 'Doll Master', link: '/options/Impostors/Experimental/DollMaster.html' },
           ],
           '/options/Impostors/Ghost/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
@@ -447,6 +447,7 @@ export default defineUserConfig({
           ],
           '/options/Neutrals/Experimental/': [
             { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
+            { text: 'Doppelganger', link: '/options/Neutrals/Experimental/Doppelganger.html' },
             { text: 'Imitator', link: '/options/Neutrals/Experimental/Imitator.html' },
             { text: 'Quizmaster', link: '/options/Neutrals/Experimental/Quizmaster.html' },
           ],

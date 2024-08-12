@@ -88,7 +88,7 @@ next: /Roles.html
 
 ### <font color=red><b>Madmate</b></font>
 ---
-[Crewpostor](/options/Impostors/Madmate/Crewpostor.html) | [Parasite](/options/Impostors/Madmate/Parasite.html)
+[Crewpostor](/options/Impostors/Madmate/Crewpostor.html) | [Parasite](/options/Impostors/Madmate/Parasite.html) | [Refugee](/options/Impostors/Madmate/Refugee.html)
 <br>
 
 ### <font color=#00ffff><b>Support</b></font>

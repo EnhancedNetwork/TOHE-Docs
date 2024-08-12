@@ -51,7 +51,7 @@ To access Beta Builds, visit the [TOH: Enhanced Discord](https://discord.gg/tohe
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Swooper and Wraith can report Bait<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Betasummary>
+<summary><b><font color=#d395b4>v2.0.0 Beta</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Added F3 and F4 to show role and add-ons settings, respectively<br>

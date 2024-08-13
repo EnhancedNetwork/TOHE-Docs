@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Crewmates/Vanilla/Engineer.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Crewmates/Vanilla/Engineer.html\",\"title\":\"Engineer\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Engineer\",\"prev\":\"Crewmate\",\"next\":\"GuardianAngel\"},\"headers\":[],\"git\":{\"updatedTime\":1713130336000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Crewmates/Vanilla/Engineer.md\"}")
-export { comp, data }

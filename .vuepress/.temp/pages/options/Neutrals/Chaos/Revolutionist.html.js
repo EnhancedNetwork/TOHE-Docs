@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Revolutionist.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Neutrals/Chaos/Revolutionist.html\",\"title\":\"Revolutionist\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Revolutionist\",\"prev\":\"Provocateur\",\"next\":\"Spiritcaller\"},\"headers\":[],\"git\":{\"updatedTime\":1697184121000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":2},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Neutrals/Chaos/Revolutionist.md\"}")
-export { comp, data }

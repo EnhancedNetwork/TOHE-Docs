@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Crewmates/Vanilla/Tracker.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Crewmates/Vanilla/Tracker.html\",\"title\":\"Tracker\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Tracker\",\"prev\":\"Scientist\",\"next\":\"/options/Settings/Crewmates.html\"},\"headers\":[],\"git\":{\"updatedTime\":1721110855000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3}]},\"filePathRelative\":\"options/Crewmates/Vanilla/Tracker.md\"}")
-export { comp, data }

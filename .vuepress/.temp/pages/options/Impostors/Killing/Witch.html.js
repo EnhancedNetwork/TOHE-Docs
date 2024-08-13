@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Impostors/Killing/Witch.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Impostors/Killing/Witch.html\",\"title\":\"Witch\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Witch\",\"prev\":\"Underdog\",\"next\":\"Zombie\"},\"headers\":[],\"git\":{\"updatedTime\":1713127677000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Impostors/Killing/Witch.md\"}")
-export { comp, data }

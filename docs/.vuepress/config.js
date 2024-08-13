@@ -6,11 +6,12 @@ import { searchPlugin } from '@vuepress/plugin-search'
 export default defineUserConfig({
   bundler: viteBundler(),
   theme: defaultTheme({
+    logo: '/images/logo.png',
     locales: {
       '/': {
+        externalLinkIcon: false,
         selectLanguageName: 'English',
         home: '/',
-        logo: '/images/logo.png',
         logoAlt: 'TOHE',
         navbar: [
           {

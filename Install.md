@@ -39,6 +39,8 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, Micr
 
 6. `(Optional)` Right click your `Among Us.exe` and click '`Create shortcut`'. Move your new shortcut to wherever you can easily access it, such as your Desktop!
 #### You have now installed Town of Host: Enhanced! All that remains is to start up a private lobby and customize your settings.
+
+> From: NotPyro404
 </details>
 <br>
 <details>
@@ -85,6 +87,23 @@ Note: For Xbox, theres no problem in launching the game with `Among Us.exe` at a
 #### You have now installed Town of Host: Enhanced! All that remains is to start up a private lobby and customize your settings.
 
 > From: Pietro
+</details>
+<br>
+<details>
+<summary><b><font color=#d395b4>Install TOHE for</font> <font color=#3004fc>Mod Manager</font></b></summary>
+
+1. Download the [Mod Manager 7](https://goodloss.fr/mm/) installer.
+
+2. Once the download is complete, open the installer and click install. You can change the destination if you want, but that's not required. Once Mod Manager is installed, close the installer (delete it if you'd like) and open Mod Manager (There should be an icon on your desktop, if not then check around in AppData).
+
+3. `(Notice)` If you get a notification like this upon opening Mod Manager, re-install Among Us fully.<br>
+![image](./images/ModManagerFail.png)
+
+4. Once you open Mod Manager, swap your search category to `Active Mods`. Search the page for Town of Host: Enhanced. Click the download icon on the TOHE box, and wait for it to download. Once it downloads, head to your Mods Library and start TOHE.
+
+#### You have now installed Town of Host: Enhanced! All that remains is to start up a private lobby and customize your settings.
+
+> From: NotPyro404
 </details>
 <br>
 <details>

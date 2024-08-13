@@ -11,7 +11,7 @@ sidebar:
 ---
 
 ## <font size=5em><b>All Alpha Releases/Changelogs:</b></font><br>
-To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE/) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester] (Content Creator with your TOHE videos having 600+ views on average).
+To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE/) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester](#) (Content Creator with your TOHE videos having 600+ views on average).
 
 ---
 <font size=4em>

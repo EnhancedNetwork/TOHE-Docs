@@ -16,7 +16,19 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Alpha 3</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.1.0 Alpha 4</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+
+* By [**D1GQ**](https://github.com/D1GQ)<br>
+
+* By [**Marg**](https://github.com/MargaretTheFool)<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 3</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Neutral Chaos Role: [Troller](/options/Neutral/Chaos/Troller.html) (Idea by: `@dx7405`)<br>

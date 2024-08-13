@@ -55,7 +55,7 @@ next: /Roles.html
 
 ### <font color=#cc0044><b>Apocalypse</b></font>
 ---
-[Baker](/options/Neutrals/Apocalypse/Baker.html) | [Berserker](/options/Neutrals/Apocalypse/Berserker.html) | [Plaguebearer](/options/Neutrals/Apocalypse/Plaguebearer.html) | [Soul Collector](/options/Neutrals/ApocalypseSoulCollector.html)
+[Baker](/options/Neutrals/Apocalypse/Baker.html) | [Berserker](/options/Neutrals/Apocalypse/Berserker.html) | [Plaguebearer](/options/Neutrals/Apocalypse/Plaguebearer.html) | [Soul Collector](/options/Neutrals/Apocalypse/SoulCollector.html)
 
 ### <font color=#046300><b>Benign</b></font>
 ---

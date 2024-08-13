@@ -16,7 +16,18 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.0.2</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.0.3</font></b></summary>
+::: danger Caution
+= <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, & Imitator are working, but are unstable<br>
+:::
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+- Update to (AMONG US VERSION AHAHHAHA)
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.2</font></b></summary>
 ::: danger Caution
 = <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, & Imitator are working, but are unstable<br>
@@ -87,7 +98,7 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 = <font color=#e08709><b>IMPROVEMENT</b></font>: [Councillor](./options/Impostors/Killing/Councillor.html) (By [**NikoCat223**](https://github.com/NikoCat233))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: [Plague Bearer](/options/Neutrals/Killing/Plaguebearer.html) (By [**TommyXL**](https://github.com/Tommy-XL))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: [Schrodinger's Cat](/options/Neutrals/Benign/SchrodingersCat.html) (By [**TommyXL**](https://github.com/Tommy-XL))<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: [Tricky](/options/Addons/Impostor/Tricky.md) (By [**Drakos**](https://github.com/Ultradragon005))<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: [Tricky](/options/Addons/Impostor/Tricky.html) (By [**Drakos**](https://github.com/Ultradragon005))<br>
 
 * <font size=3em><font color=#12edaf><b>GHOST ROLES RETURNED</b></font></font><br>
 \+ <font color=#12edaf><b>RETURNED</b></font>: [Ghastly](/options/Crewmates/Ghost/Ghastly.html) (Crewmate Ghost - By [**Drakos**](https://github.com/Ultradragon005))<br>

@@ -23,7 +23,7 @@ contributors: false
 </details>
 <br>
 <details>
-<summary><b><font color=#cf4e8f>TOHE v2.1.0 Alpha 3 Changelogs</font></b></summary>
+<summary><b><font color=#cf4e8f>TOHE v2.1.0 Alpha 4 Changelogs</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Neutral Chaos Role: [Troller](/options/Neutral/Chaos/Troller.html) (Idea by: `@dx7405`)<br>

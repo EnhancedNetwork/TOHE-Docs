@@ -1,7 +1,5 @@
 ---
-lang: en-US
-title: Installation
-contributors: false
+title: 安装
 ---
 
 # INSTALLATION

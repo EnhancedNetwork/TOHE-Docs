@@ -1,5 +1,4 @@
 ---
-lang: en-US
 title: Home
 home: true
 heroHeight: 165

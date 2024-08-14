@@ -1,7 +1,5 @@
 ---
-lang: en-US
-title: About Our Team
-contributors: false
+title: 关于我们
 ---
 
 ::: warning Regarding this mod

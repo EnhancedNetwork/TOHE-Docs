@@ -23,31 +23,19 @@ contributors: false
 </details>
 <br>
 <details>
-<summary><b><font color=#cf4e8f>TOHE v2.1.0 Alpha 4 Changelogs</font></b></summary>
-
-::: danger Caution
-= <font color=#de6707><b>KNOWN BUG</b></font>: Search in setting broken<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: Role info in setting menu temporarily removed<br>
-:::
-
-* By [**TommyXL**](https://github.com/Tommy-XL) & [**Drakos**](https://github.com/Ultradragon005)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Support new update AU v2024.8.13<br>
-
-* By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed FFA stuck meeting<br>
+<summary><b><font color=#cf4e8f>TOHE v2.1.0 Alpha 5 Changelogs</font></b></summary>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed missing strings<br>
-
-* By [**WaterPanda**](#)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Egoist text typo<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken chat for modded players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed and returned role info in setting menu<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed search in setting<br>
 </details>
 <br>
 <details>
 <summary><b><font color=#12edaf>Site Changelogs/Updates</font></b></summary>
 
 * By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
-= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.1.0 Alpha 4<br>
+= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.1.0 Alpha 5<br>
 \+ Have a good day!<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
 = <font color=#ece218><b>NOTICE</b></font>: Soul Collector & Berserker work differently in 2.1.0 Alpha 2 than they do in 2.0.2 Stable Release.<br>

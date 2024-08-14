@@ -16,7 +16,15 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Alpha 4</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.1.0 Alpha 5</font></b></summary>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken chat for modded players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed and returned role info in setting menu<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed search in setting<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 4</font></b></summary>
 
 ::: danger Caution
 = <font color=#de6707><b>KNOWN BUG</b></font>: Search in setting broken<br>

@@ -25,34 +25,29 @@ contributors: false
 <details>
 <summary><b><font color=#cf4e8f>TOHE v2.1.0 Alpha 4 Changelogs</font></b></summary>
 
+::: danger Caution
+= <font color=#de6707><b>KNOWN BUG</b></font>: Search in setting broken<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Role info in setting menu temporarily removed<br>
+:::
+
+* By [**TommyXL**](https://github.com/Tommy-XL) & [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Support new update AU v2024.8.13<br>
+
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: Neutral Chaos Role: [Troller](/options/Neutral/Chaos/Troller.html) (Idea by: `@dx7405`)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Vip/Moderator/Sponsor and ect. shown in game<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the host changed his nickname to his own when he was killed by Doppelganger (hopefully)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Veteran kill Taskinator<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed last color question for Quizmaster<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Killing Machine can call meeting<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Jailed message not shown<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
-
-* By [**D1GQ**](https://github.com/D1GQ)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved region menu when there are a lot of regions<br>
-
-* By [**Marg**](https://github.com/MargaretTheFool)<br>
-\+ <font color=green><b>NEW</b></font>: Added `/apocinfo` command<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed FFA stuck meeting<br>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
-\+ <font color=green><b>NEW</b></font>: Added role info in setting menu<br>
-\+ <font color=green><b>NEW</b></font>: Added search bar in settings<br>
-\+ <font color=green><b>NEW</b></font>: Helpful Add-on: [Spurt](/options/Addons/Helpful/Spurt.html) (Idea by: `@.thediamondstar`)<br>
-=  AddonBase (Port From EHR) (The settings are now sorted alphabetically)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed missing strings<br>
+
+* By [**WaterPanda**](#)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Egoist text typo<br>
 </details>
 <br>
 <details>
 <summary><b><font color=#12edaf>Site Changelogs/Updates</font></b></summary>
 
 * By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
-= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.1.0 Alpha 3<br>
+= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.1.0 Alpha 4<br>
 \+ Have a good day!<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
 = <font color=#ece218><b>NOTICE</b></font>: Soul Collector & Berserker work differently in 2.1.0 Alpha 2 than they do in 2.0.2 Stable Release.<br>

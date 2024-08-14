@@ -18,14 +18,22 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <details>
 <summary><b><font color=#cf4e8f>v2.1.0 Alpha 4</font></b></summary>
 
+::: danger Caution
+= <font color=#de6707><b>KNOWN BUG</b></font>: Search in setting broken<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Role info in setting menu temporarily removed<br>
+:::
+
+* By [**TommyXL**](https://github.com/Tommy-XL) & [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Support new update AU v2024.8.13<br>
+
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-
-* By [**D1GQ**](https://github.com/D1GQ)<br>
-
-* By [**Marg**](https://github.com/MargaretTheFool)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed FFA stuck meeting<br>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed missing strings<br>
 
+* By [**WaterPanda**](#)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Egoist text typo<br>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 3</font></b></summary>

@@ -18,13 +18,21 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 <details>
 <summary><b><font color=#cf4e8f>v2.0.3</font></b></summary>
 ::: danger Caution
-= <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: (Maybe fixed now) Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, & Imitator are working, but are unstable<br>
 :::
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-- Update to (AMONG US VERSION AHAHHAHA)
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the host changed his nickname to his own when he was killed by Doppelganger (hopefully) <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when F1 shows role settings<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Veteran kills Taskinator<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed (hopefully) the last color question for Quizmaster<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Killing Machine can call a meeting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Jailed message not shown<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Set 300 CD for Nemesis if they cannot use the kill button<br>
 
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed warning message about Api Error Connection<br>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.0.2</font></b></summary>

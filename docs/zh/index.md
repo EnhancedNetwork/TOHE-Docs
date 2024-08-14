@@ -7,13 +7,13 @@ heroText:
 tagline:
 heroImage: /images/logo.png
 actions:
-  - text: Role Info
+  - text: 职业介绍
     link: /Roles.html
     type: secondary
-  - text: Install Now!
+  - text: 模组安装
     link: /Install.html
     type: primary
-  - text: FAQ
+  - text: 常见问题
     link: /FAQ.html
     type: secondary
 footer: "© 2023 By <a href='https://weareten.ca'>The Enhanced Network</a>"
@@ -33,11 +33,10 @@ footerHtml: true
   <a href="https://www.instagram.com/tohenhanced/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=F56040" /></a>&nbsp;
   <div></div>
 </div>
+<hr>
 
----
-
-To all the amazing players that keep supporting us & Town of Host Enhanced after these few months: Thank you!<br>
-Moe will still be maintaining the website with Pyro's assistance.<br>
-We appreciate your patience while we continue to work on Town of Host: ***Enhanced***, as we try our absolute hardest to make sure that you get a great experience as bug free as possible.<br>
-Please be sure to read [FAQ](/FAQ) and [Install](/Install), and if you need further assistance, don't be afraid to contact us.<br>
-Visit [Changelogs](/Changelogs) for the latest Mod + Website Updates.
+感谢所有在过去几个月中一直支持我们和Town of Host Enhanced的玩家： 谢谢你们！<br>
+Moe将继续在Pyro的协助下维护网站。<br>
+我们会尽最大努力去开发Town of Host: ***Enhanced***的过程中确保您在没有错误的情况下获得良好的体验。<br>
+请阅读[常见问题](/FAQ)和[模组安装](/Install)部分,如果这无法解决您的问题,请联系我们。<br>
+访问[更新日志](/Changelogs)查看模组与网站的更新。

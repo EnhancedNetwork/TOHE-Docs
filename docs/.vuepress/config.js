@@ -41,7 +41,6 @@ export default defineUserConfig({
         ],
         backToHome: 'Take me back to my safe space please!',
         toggleColorMode: 'Toggle Dark Mode',
-        selectLanguageText: 'English',
         navbar: [
           {
             text: 'Roles',

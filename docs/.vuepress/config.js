@@ -17,10 +17,26 @@ export default defineUserConfig({
     logo: '/images/logo.png',
     logoAlt: "TOHE Logo",
     externalLinkIcon: false,
+    repo: '0xDrMoe/TOHRE-Code',
+    editLink: true,
     locales: {
       '/': {
         home: "/",
         selectLanguageName: 'English',
+        repoLabel: 'Contribute!',
+        editLinkText: 'Contribute to this page on GitHub!',
+        notFound: [
+          'Where are you going?',
+          'Huh? How did you end up here?',
+          'Honestly, how did you get here?',
+          'This is not the page you are looking for.',
+          'Nothing to see here.',
+          'Nope. Not here.',
+          "Whatever you're looking for, it's not here."
+        ],
+        backToHome: 'Take me back to my safe space please!',
+        toggleColorMode: 'Toggle Dark Mode',
+        selectLanguageText: 'English',
         navbar: [
           {
             text: 'Roles',
@@ -44,7 +60,12 @@ export default defineUserConfig({
               {
                 text: 'Add-ons',
                 link: '/options/Settings/Addons',
-              },
+              }
+            ]
+          },
+          {
+            text: "Settings",
+            children: [
               {
                 text: 'Game Settings',
                 link: '/options/Settings/Game',
@@ -60,7 +81,7 @@ export default defineUserConfig({
               {
                 text: 'Game Modifiers',
                 link: '/options/Settings/Modifiers',
-              },
+              }
             ]
           },
           {
@@ -502,23 +523,7 @@ export default defineUserConfig({
             { text: 'Neutrals', link: '/options/Settings/Neutrals' },
             { text: 'Add-ons', link: '/options/Settings/Addons' },
           ],
-        },
-        repo: '0xDrMoe/TOHRE-Code',
-        repoLabel: 'Contribute!',
-        editLink: true,
-        editLinkText: 'Contribute to this page on GitHub!',
-        notFound: [
-          'Where are you going?',
-          'Huh? How did you end up here?',
-          'Honestly, how did you get here?',
-          'This is not the page you are looking for.',
-          'Nothing to see here.',
-          'Nope. Not here.',
-          'Whatever you\'re looking for, it\'s not here.'
-        ],
-        backToHome: 'Take me back to my safe space please!',
-        toggleColorMode: 'Toggle Dark Mode',
-        selectLanguageText: 'English',
+        }
       },
       '/fr/': {
         selectLanguageName: 'Français',

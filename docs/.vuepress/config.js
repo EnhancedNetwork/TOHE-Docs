@@ -9,9 +9,14 @@ export default defineUserConfig({
   locales: {
     '/': {
       lang: "en-US",
-      title: "Town Of Host Enhanced",
+      title: "TownOfHost:Enhanced",
       description: "TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!",
     },
+    "/zh/": {
+      lang: "zh-CN",
+      title: "TownOfHost:Enhanced",
+      description: "TOHE is the best Host-Only mod for anyone who wants to change their Among Us Experience!"
+    }
   },
   theme: defaultTheme({
     logo: '/images/logo.png',

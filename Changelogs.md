@@ -59,7 +59,6 @@ contributors: false
 = <font color=#ece218><b>NOTICE</b></font>: Updated to v2.1.0 Alpha 6<br>
 \+ Have a good day!<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
-= <font color=#fdf08e><b>NOTE</b></font>: Double Agent's settings aren't 100% complete, this is known. Working on it, but if you see this Note then I didn't get to it in time lmao.
 = <font color=#ece218><b>NOTICE</b></font>: Soul Collector & Berserker work differently in 2.1.0 Alpha 2 (and above) than they do in 2.0.2 Stable Release.<br>
 \+ <font color=green><b>NEW</b></font>: Added `Translations.md` (Instead of cluttering `Resources.md` with future Translation Submissions, Translations will be listed here.) Currently has no entries, nor submissions.<br>
 \+ <font color=green><b>NEW</b></font>: Tab Favicon (Thanks Theta!)<br>

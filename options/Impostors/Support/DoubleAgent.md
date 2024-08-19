@@ -5,7 +5,7 @@ prev: Consigliere
 next: Fireworker
 ---
 
-# <font color="red">☯️ <b>Double Agent</b></font> <Badge text="Support" type="tip" vertical="middle"/>
+# <font color="red">👓 <b>Double Agent</b></font> <Badge text="Support" type="tip" vertical="middle"/>
 ---
 
 As the Double Agent, you do not have access to the kill button, but you can vote someone in a meeting to pass a bomb onto them. This can only be done one player at a time. Once the meeting has finished the bomb will activate and explode in a set amount of time.
@@ -16,11 +16,11 @@ Additionally depending on settings the Double Agent can diffuse Bastion and Agit
   * <font color=green>ON</font>: Double Agent can diffuse bombs from other roles such as Bastion or Agitator
   * <font color=red>OFF</font>: Double Agent cannot diffuse bombs from other roles
 * Diffuse active bomb on meeting call
-  * <font color=green>ON</font>: undone
+  * <font color=green>ON</font>: Any pocketed bombs will be cancelled out
     * If diffused can use ability in called meeting
-      * <font color=green>ON</font>: undone
-      * <font color=red>OFF</font>: undone
-  * <font color=red>OFF</font>: undone
+      * <font color=green>ON</font>: If the first bomb is defused in the called meeting, Double agent can give out another bomb in the same meeting
+      * <font color=red>OFF</font>:  If the first bomb is defused in the called meeting, Double Agent cannot give out another bomb until next meeting
+  * <font color=red>OFF</font>: Any pocketed bombs will not be cancelled out
 * Explosion time
   * Set the Time that the Double Agent's bomb takes to set off
 * Explosion radius

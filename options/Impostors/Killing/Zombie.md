@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Zombie
-prev: Witch
+prev: YinYanger
 next: /options/Settings/Impostors.html
 ---
 

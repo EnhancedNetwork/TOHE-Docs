@@ -2,7 +2,7 @@
 lang: en-US
 title: Minion
 prev: Bloodmoon
-next: /options/Settings/Impostors.html
+next: Possessor
 ---
 
 # <font color="red">👿 <b>Minion</b></font> <Badge text="Ghost" type="tip" vertical="middle"/>

@@ -16,6 +16,35 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
+<summary><b><font color=#cf4e8f>v2.1.0 Alpha 6</font></b></summary>
+
+* By [**D1GQ**](https://github.com/D1GQ)<br>
+\+ <font color=green><b>NEW</b></font>: Impostor Role: Double Agent<br>
+\+ <font color=green><b>NEW</b></font>: Impostor Ghost Role: Possessor<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+\+ <font color=green><b>NEW</b></font>: Impostor Role: YinYanger<br>
+\+ <font color=green><b>NEW</b></font>: Add-on: Rebirth<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Spurt for modded clients<br>
+
+* By [**Marg**](https://github.com/MargaretTheFool)<br>
+\+ <font color=green><b>NEW</b></font>: setting: Show NA on eject<br>
+\+ <font color=green><b>NEW</b></font>: setting: NA can guess NA<br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Minus and Plus in settings now always active<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Troller not reset ability<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Fortune Teller show role for FFA<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Again fixed Quizmaster last color<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Haunt Menu show "NotAssigned" in Hide & Seek<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed speed when Bandit steals Statue<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some null errors<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
+
+* By [**WaterPanda**](#)<br>
+= <font color=#32CD32><b>TYPO</b></font>: Fixed some typo in text<br>
+</details>
+<details>
 <summary><b><font color=#cf4e8f>v2.1.0 Alpha 5</font></b></summary>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>

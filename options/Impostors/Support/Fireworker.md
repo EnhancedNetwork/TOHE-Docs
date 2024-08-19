@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Fireworker
-prev: Consigliere
+prev: DoubleAgent
 next: Gangster
 ---
 

@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Guesser
-prev: Gravestone
+prev: DoubleShot
 next: OIIAI
 ---
 
-# <font color=#f8cd46>❔ <b>Guesser</b></font> <Badge text="Mixed" type="tip" vertical="middle"/>
+# <font color=#f8cd46>❔ <b>Guesser</b></font> <Badge text="Guesser" type="tip" vertical="middle"/>
 ---
 
 As a guesser, guess roles of players in meetings to kill them.<br>

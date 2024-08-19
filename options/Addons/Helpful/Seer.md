@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Seer
-prev: Radar
+prev: Rebirth
 next: Silent
 ---
 

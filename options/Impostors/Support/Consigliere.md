@@ -2,7 +2,7 @@
 lang: en-US
 title: Consigliere
 prev: Cleaner
-next: Fireworker
+next: DoubleAgent
 ---
 
 # <font color="red">👨‍⚖️ <b>Consigliere</b></font> <Badge text="Support" type="tip" vertical="middle"/>

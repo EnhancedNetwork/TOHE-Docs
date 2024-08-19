@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Onbound
-prev: DoubleShot
+prev: Guesser
 next: Rebound
 ---
 
-# <font color=#baaae9>🛡️ <b>Onbound</b></font> <Badge text="Other" type="tip" vertical="middle"/>
+# <font color=#baaae9>🛡️ <b>Onbound</b></font> <Badge text="Guesser" type="tip" vertical="middle"/>
 ---
 
 With the Onbound add-on, you cannot be guessed in meetings.

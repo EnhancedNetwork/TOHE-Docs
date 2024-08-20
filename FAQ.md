@@ -60,6 +60,30 @@ Unfortunately, this is a disconnection caused by a mod error or server error. If
 </details>
 <br>
 <details>
+<summary><b><font color=#d395b4>Could not connect to my Among Us account, why?</font></b></summary>
+
+This problem could occur from a few causes:
+
+1. Steam isn't running! Go and turn on the Steam app, wait for it to load, THEN run modded Among Us.
+
+2. `steam_appid.txt` is missing from the modded folder! Copy it from the vanilla Among Us folder, and paste it into your modded folder.
+</details>
+<br>
+<details>
+<summary><b><font color=#d395b4>Sure is taking a while to sign in, why?</font></b></summary>
+
+This problem could occur from a few causes:
+
+1. Steam is down! Steam goes down for maintenance every Tuesday at around 7:00PM EST. You will not be able to sign in during this maintenance period. (This may also result in getting the `SteamworksAuthFail` error)
+
+2. Console is still starting up! Click nothing and just wait until it clears out. If it doesn't, see the two below.
+
+3. Your PC is Slow/Bad! Slow or Old PCs will just experience this. Nothing we can do about it, This is a vanilla issue.
+
+4. Login just hung up! If this happens, just click "Go Offline" then try signing in again. It should work. If it doesn't, see the three above.
+</details>
+<br>
+<details>
 <summary><b><font color=#d395b4>After installing the TOHE, it is still in vanilla, why?</font></b></summary>
 
 1. This may be caused by your antivirus software identifying the mod as a virus and automatically deleting it. Please try to close the antivirus software and reinstall it.
@@ -182,6 +206,16 @@ Read near the bottom of the [Install](/Install.html) page.
 <summary><b><font color=#d395b4>Why can't I post in #role-ideas in the TOHE Discord?</font></b></summary>
 
 Role Ideas are currently locked to Sponsors, Nitro Boosters, & Contributors. This is so that the Developers/Contributors of TOHE can catch up on role ideas. The channel will open back up at a later date, but there's not a specific time.
+</details>
+<br>
+<details>
+<summary><b><font color=#d395b4>How do I become Contributor or Translator?</font></b></summary>
+
+Keep in mind, both of these require you to add significant changes, it can't just be a "one and done" sort of deal. If you are an inactive Contributor/Translator, you may be removed from the team.
+
+1. To earn Contributor, you'll need to help with coding Features, Roles, Gamemodes, and so on for TOHE. To do this, you will need a token. You can obtain one of these by creating a ticket in the TEN Discord and asking for an API Token. Moe will get back to you at some point.
+
+2. To earn Translator, you'll need to help with translating TOHE into other languages supported by Among Us (See supported languages on the Resources Page). If you want to translate a language that TOHE hasn't yet started, you may create a ticket applying for the position (of course, it will only be you unless other people apply for the same position) and wait for Ryuk or Moe to get back to you. If you want to translate TOHE into another language but Among Us doesn't yet support it, you can do that in your own english.dat file and share it in #website-feedback when you are finished. (Info on english.dat on the Resources Page.)
 </details>
 <br>
 <details>

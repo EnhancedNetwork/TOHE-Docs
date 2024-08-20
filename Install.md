@@ -19,13 +19,15 @@ This policy is in place to keep the integrity of our Sponsor, Contributor, & Tes
 
 * Visit `#mod-release` in the [TOH: Enhanced Discord](https://discord.gg/tohe), or go [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases) to download it directly from GitHub. 
 
-Installation requires that you own a PC version of Among Us on Steam, Epic, Microsoft, or Itch.
+Installation requires that you own a PC version of Among Us on Steam, Epic, Xbox App, or Itch. Microsoft Store will not work.
 </details>
 <br>
 <details>
 <summary><b><font color=#d395b4>Install TOHE for</font> <font color=#14356a>Steam</font></b></summary>
 
-1. Download the latest full Release of TOHE in `#mod-release` or [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases). You only need the main zip such as "`TOHE.v1.0.0.zip`", not the source code files.
+Notice: You can follow the installation video [HERE](https://www.youtube.com/watch?v=2oyD75caFQ0) if you want visuals with steps. However, the below steps work just fine.
+
+1. Download the latest full Release of TOHE in `#mod-release` or [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases). You only need the main zip such as "`TOHE.v1.0.0.zip`", not the source code files. DO NOT DOWNLOAD THE `-MS` FILE, IT WILL NOT WORK!
 
 2. Once the download is complete, unzip it into a new empty folder like on desktop.
 
@@ -46,7 +48,9 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, Micr
 <details>
 <summary><b><font color=#d395b4>Install TOHE for</font> <font color=#343434>Epic Games</font></b></summary>
 
-1. Download the latest full Release of TOHE in `#mod-release` or [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases). You only need the main zip such as "`TOHE.v1.0.0.zip`", not the source code files.
+Notice: You can follow the installation video [HERE](https://www.youtube.com/watch?v=2oyD75caFQ0) if you want visuals with steps. However, the below steps work just fine.
+
+1. Download the latest full Release of TOHE in `#mod-release` or [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases). You only need the main zip such as "`TOHE.v1.0.0.zip`", not the source code files. DO NOT DOWNLOAD THE `-MS` FILE, IT WILL NOT WORK!
 
 2. Once the download is complete, unzip it into a new empty folder somewhere like on desktop.
 
@@ -68,21 +72,20 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, Micr
 </details>
 <br>
 <details>
-<summary><b><font color=#d395b4>Install TOHE for</font> <font color=#0e7a0d>Microsoft</font></b></summary>
+<summary><b><font color=#d395b4>Install TOHE for</font> <font color=#0e7a0d>Xbox App</font></b></summary>
 
-1. Download the latest full Release of TOHE [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases). You only need the other zip such as "`TOHE.v1.0.0-MS.zip`", not the source code files.<br>
-Note: the file should **always** contain "-MS" in its name. otherwise you're downloading a incompatible version.
+1. Download the latest full Release of TOHE [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases). You only need the other zip such as "`TOHE.v1.0.0-MS.zip`", not the source code files. MAKE SURE YOU DOWNLOAD THE `-MS` FILE, OTHERWISE IT WILL NOT WORK!<br>
 
 2. Once the download is complete, unzip it into a new empty folder like on desktop.
 
-3. Locate your AmongUs install. For example, if you own the game on Microsoft/Xbox App, you need to go to Xbox app, then you can find this by right clicking on the game in your Library, selecting "Manage", then "Files", and finally selecting "Browse files".<br>
+3. Locate your AmongUs install. For example, if you own the game on Xbox App, you need to go to Xbox App, then you can find this by right clicking on the game in your Library, selecting "Manage", then "Files", and finally selecting "Browse files".<br>
 ![image](./images/MSGetFolder.png)
 
 4. Select all of the files in your TOHE folder and copy them to the Among Us installation folder. The folder should now look something like this:<br>
 ![image](./images/MSResultFolder.png)
 
-5. Now go back to Xbox app, then launch the game like you would normally do.<br>
-Note: For Xbox, theres no problem in launching the game with `Among Us.exe` at all.
+5. Now go back to Xbox App, then launch the game like you would normally do. Theres no problem in launching the game with `Among Us.exe` at all.<br>
+NOTE: This is for the `Xbox App` version of Among Us. You cannot download TOHE on the Microsoft Store version of Among Us. TOHE cannot be downloaded on Xbox Consoles.
 
 #### You have now installed Town of Host: Enhanced! All that remains is to start up a private lobby and customize your settings.
 
@@ -143,7 +146,7 @@ Visit `#alpha-builds` in the [TOH: Enhanced Discord](https://discord.gg/tohe) on
 
 3. Once the download is complete, move the dll into your `TOHE\BepInEx\plugins` folder. (TOHE will be whatever your Mod Folder is, if you renamed it, it will be that one)
 
-4. Within the TOHE folder, run `Among Us.exe` for Steam, or `EpicGamesStartGame.cmd` for Epic Games. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder, & that you launched from your modded folder.
+4. Within the TOHE folder, run Among Us like you usually would. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder, & that you launched from your modded folder.
 
 #### You have successfully installed a Alpha Build/Beta Build!
 </details>

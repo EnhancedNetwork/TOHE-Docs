@@ -10,7 +10,7 @@ You can create your own translations that Town of Host: Enhanced/Among Us doesn'
 
 Note: You have to put the file in the following directory: `.\Among Us\Language` for it to work. (Make sure your file is a `.dat` file, otherwise it will not work. Paste it alongside the `template.dat` file already in your folder.)
 
-You can submit your own translation to be featured by joining the [TEN Discord](https://discord.gg/TOHE), heading to #website-feedback, and creating a forum post with the Translation tag.
+You can submit your own translation to be featured by joining the [Discord](https://discord.gg/TOHE), heading to #website-feedback, and creating a forum post with the Translation tag.
 Below are some member submitted translations:
 
 ---

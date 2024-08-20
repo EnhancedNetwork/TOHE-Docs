@@ -40,7 +40,7 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 
-I'm also mostly known online as NotPyro404. I am a Moderator in the TEN Discord, aswell as the Website Maintainer for [T.E.N.](https://weareten.ca/). If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
+I'm also mostly known online as NotPyro404. I am a Moderator in the Discord Server for The Enhanced Network, aswell as the Website Maintainer for [T.E.N.](https://weareten.ca/). If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 </details>
 
 ---
@@ -51,7 +51,7 @@ I'm also mostly known online as NotPyro404. I am a Moderator in the TEN Discord,
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm just a girl who loves to play video games and is obsessed with everything <font color=#f0b6d5>pink</font>! My job is to keep all aspects of TEN (and TOHE itself) a fun and welcoming place for all. This means I'm keeping everyone in check, including your very own project lead! 😉
+I'm just a girl who loves to play video games and is obsessed with everything <font color=#f0b6d5>pink</font>! My job is to keep all aspects of The Enhanced Network (and TOHE itself) a fun and welcoming place for all. This means I'm keeping everyone in check, including your very own project lead! 😉
 </details>
 
 ---
@@ -80,7 +80,7 @@ I help out with ensuring the server stays a welcoming and fun community for all 
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I help keep the TEN community a safe and welcoming place for everyone. So if there’s an issue, please feel free to reach out! I love to play video games (but I’m a sore loser lol) and spend time with my family. 
+I help keep the community of The Enhanced Network a safe and welcoming place for everyone. So if there’s an issue, please feel free to reach out! I love to play video games (but I’m a sore loser lol) and spend time with my family. 
 </details>
 
 ---
@@ -89,7 +89,7 @@ I help keep the TEN community a safe and welcoming place for everyone. So if the
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I help out in the TEN Discord. I'm working on the Modded Among Us Queue bot. Some hobbies I have are playing games & programming. My favorite game is probably Valorant.
+I help out in the Discord Server of The Enhanced Network. I'm working on the Modded Among Us Queue bot. Some hobbies I have are playing games & programming. My favorite game is probably Valorant.
 </details>
 
 ---
@@ -98,7 +98,7 @@ I help out in the TEN Discord. I'm working on the Modded Among Us Queue bot. Som
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I help with moderating the TEN Discord. Some of my hobbies are Fortnite, Discord, and other games. I also like to joke around and poke fun of myself.
+I help with moderating the Discord Server of The Enhanced Network. Some of my hobbies are Fortnite, Discord, and other games. I also like to joke around and poke fun of myself.
 </details>
 
 ---

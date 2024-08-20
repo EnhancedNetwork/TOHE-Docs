@@ -6,6 +6,9 @@ contributors: false
 
 # INSTALLATION
 
+Here are some Guides for Installing Town of Host: Enhanced Builds. Find out how to install Town of Host: Enhanced on specific launchers, and also how to install various builds.
+
+Other general help related pages can be found at [FAQ](/FAQ.html) (For common questions) as well as [Resources](/Resources.html) (For other information).
 
 ## Distribution Policy
 
@@ -23,11 +26,11 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, Xbox
 </details>
 <br>
 <details>
-<summary><b><font color=#d395b4>Install TOHE for</font> <font color=#14356a>Steam</font></b></summary>
+<summary><b><font color=#d395b4>Install Town of Host: Enhanced for</font> <font color=#14356a>Steam</font></b></summary>
 
 Notice: You can follow the installation video [HERE](https://www.youtube.com/watch?v=2oyD75caFQ0) if you want visuals with steps. However, the below steps work just fine.
 
-1. Download the latest full Release of TOHE in `#mod-release` or [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases). You only need the main zip such as "`TOHE.v1.0.0.zip`", not the source code files. DO NOT DOWNLOAD THE `-MS` FILE, IT WILL NOT WORK!
+1. Download the latest full Release of Town of Host: Enhanced in `#mod-release` or [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases). You only need the main zip such as "`TOHE.v1.0.0.zip`", not the source code files. DO NOT DOWNLOAD THE `-MS` FILE, IT WILL NOT WORK!
 
 2. Once the download is complete, unzip it into a new empty folder like on desktop.
 
@@ -46,11 +49,11 @@ Notice: You can follow the installation video [HERE](https://www.youtube.com/wat
 </details>
 <br>
 <details>
-<summary><b><font color=#d395b4>Install TOHE for</font> <font color=#343434>Epic Games</font></b></summary>
+<summary><b><font color=#d395b4>Install Town of Host: Enhanced for</font> <font color=#343434>Epic Games</font></b></summary>
 
 Notice: You can follow the installation video [HERE](https://www.youtube.com/watch?v=2oyD75caFQ0) if you want visuals with steps. However, the below steps work just fine.
 
-1. Download the latest full Release of TOHE in `#mod-release` or [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases). You only need the main zip such as "`TOHE.v1.0.0.zip`", not the source code files. DO NOT DOWNLOAD THE `-MS` FILE, IT WILL NOT WORK!
+1. Download the latest full Release of Town of Host: Enhanced in `#mod-release` or [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases). You only need the main zip such as "`TOHE.v1.0.0.zip`", not the source code files. DO NOT DOWNLOAD THE `-MS` FILE, IT WILL NOT WORK!
 
 2. Once the download is complete, unzip it into a new empty folder somewhere like on desktop.
 
@@ -72,9 +75,9 @@ Notice: You can follow the installation video [HERE](https://www.youtube.com/wat
 </details>
 <br>
 <details>
-<summary><b><font color=#d395b4>Install TOHE for</font> <font color=#0e7a0d>Xbox App</font></b></summary>
+<summary><b><font color=#d395b4>Install Town of Host: Enhanced for</font> <font color=#0e7a0d>Xbox App</font></b></summary>
 
-1. Download the latest full Release of TOHE [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases). You only need the other zip such as "`TOHE.v1.0.0-MS.zip`", not the source code files. MAKE SURE YOU DOWNLOAD THE `-MS` FILE, OTHERWISE IT WILL NOT WORK!<br>
+1. Download the latest full Release of Town of Host: Enhanced [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases). You only need the other zip such as "`TOHE.v1.0.0-MS.zip`", not the source code files. MAKE SURE YOU DOWNLOAD THE `-MS` FILE, OTHERWISE IT WILL NOT WORK!<br>
 
 2. Once the download is complete, unzip it into a new empty folder like on desktop.
 
@@ -93,7 +96,7 @@ NOTE: This is for the `Xbox App` version of Among Us. You cannot download TOHE o
 </details>
 <br>
 <details>
-<summary><b><font color=#d395b4>Install TOHE for</font> <font color=#3004fc>Mod Manager</font></b></summary>
+<summary><b><font color=#d395b4>Install Town of Host: Enhanced for</font> <font color=#3004fc>Mod Manager</font></b></summary>
 
 1. Download the [Mod Manager 7](https://goodloss.fr/mm/) installer.
 
@@ -114,7 +117,7 @@ NOTE: This is for the `Xbox App` version of Among Us. You cannot download TOHE o
 
 Keep an eye on the [releases page](https://github.com/0xDrMoe/TownofHost-Enhanced/releases) for new stable releases. If a new version is released, all you'll usually need to do is repeat steps 1-2 above in either guide, unzipping into the same folder where you already have it installed, and letting it overwrite/replace the old files.<br>
 If it says it requires a newer version of Among Us, repeat steps 3-5 as well after making sure your base game is up to date.<br>
-In some cases, the <b>Latest</b> TOHE Builds are Beta or Alpha Builds. Follow the first step in the below guide to get Alpha/Beta Builds. Stable builds will always be the latest, unless a Beta build has a higher version number, unless a Alpha build has a higher version number than the Beta version.<br>
+In some cases, the <b>Latest</b> Town of Host: Enhanced Builds are Beta or Alpha Builds. Follow the first step in the below guide to get Alpha/Beta Builds. Stable builds will always be the latest, unless a Beta build has a higher version number, unless a Alpha build has a higher version number than the Beta version.<br>
 (Ex: 1.6.0 Stable -> 2.0.0 Alpha 2 -> 2.0.0 Beta 1 -> 2.0.0 Stable)
 </details>
 <br>
@@ -124,7 +127,7 @@ In some cases, the <b>Latest</b> TOHE Builds are Beta or Alpha Builds. Follow th
 * Accessible by Contributors, Testers, and Sponsors that are at least Insider tier.<br>
 `NOT FOR DISTRIBUTION`
 - To become a <b>Contributor</b>, you need to help with coding in roles/addons/gamemodes/etc related to the mod.<br>
-- To become a <b>Tester</b>, you must be an active content creator with your <b>TOHE videos</b> having 600+ views on average.<br>
+- To become a <b>Tester</b>, you must be an active content creator with your <b>Town of Host: Enhanced videos</b> having 600+ views on average.<br>
 - To become a <b>Sponsor</b>, you need to purchase a package on our [Website](https://weareten.ca/TOHE/) (Insider tier for $5.00 grants Alpha Build access).<br>
 
 Visit `#alpha-builds` in the [TOH: Enhanced Discord](https://discord.gg/tohe) once you have been accepted into one of the above roles, and download the latest dll!

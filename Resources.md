@@ -5,12 +5,15 @@ contributors: false
 ---
 
 # Helpful Resources
-Here are some Resources that may help you understand some things relating to the mod. Such as Hot-Keys, Commands, Template/Preset Help, and other Useful Resources.
+
+Here are some Resources that may help you understand some things relating to the mod. Such as Hot-Keys, Commands, Template/Preset Help, and other Useful Guides/Information.
+
+Other general help related pages can be found at [FAQ](/FAQ.html) (For common questions) as well as [Install](/Install.html) (For installation issues/questions).
 
 <font size=3em>
 <details>
 <summary><b><font color=gray>Hot-Keys</font></b></summary>
-Below is a list of Hot-Keys that you can use to make your experience better while playing TOHE. You can use these Hot-Keys to perform certain actions.<br>
+Below is a list of Hot-Keys that you can use to make your experience better while playing Town of Host: Enhanced. You can use these Hot-Keys to perform certain actions.<br>
 <details>
 <summary><b><font color=red>Everyone</font></b></summary>
 <details>
@@ -26,7 +29,7 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 </tr>
 <tr>
 <td><kbd>LeftAlt</kbd> + <kbd>F4</kbd></td>
-<td>Use the Secret TOHE Exclusive Role.</td>
+<td>Use the Secret Town of Host: Enhanced Exclusive Role.</td>
 </tr>
 </table>
 </details>
@@ -216,7 +219,7 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 <details>
 <summary><b><font color=gray>Chat Commands</font></b></summary>
 
-Below is a list of commands that you can use to make your experience better while playing TOHE. You can use these commands in the chat box to perform certain actions.<br><br>
+Below is a list of commands that you can use to make your experience better while playing Town of Host: Enhanced. You can use these commands in the chat box to perform certain actions.<br><br>
 
 Note: Commands that are italicized are considered "essential" and are recommended for all players.<br>
 <details>
@@ -800,7 +803,7 @@ Versus what the edited `english.dat` I have looks like.<br>
 
 Just mess around a little bit, and have fun! Make sure you copy your template as a backup before you try messing with it again, or messing with the mod itself.<br>
 
-For some member submitted translations (not yet supported by TOHE/Base game Among Us), browse [here](/Translations.html).<br>
+For some member submitted translations (not yet supported by Town of Host: Enhanced/Base game Among Us), browse [here](/Translations.html).<br>
 
 > From + Compiling: NotPyro404
 </details>
@@ -826,7 +829,7 @@ For some member submitted translations (not yet supported by TOHE/Base game Amon
 - `{{RoomCode}}` - Displays the Room Code.
 - `{{PlayerName}}` - Displays the players username. (The one reading the variable)
 - `{{HostName}}` - Displays the hosts username.
-- `{{ModVersion}}` - Displays the current version of TOHE.
+- `{{ModVersion}}` - Displays the current version of Town of Host: Enhanced.
 - `{{Map}}` - Displays the Map that is going to be played.
 
 > From: The Enhanced Network + Compiling: NotPyro404
@@ -870,7 +873,7 @@ Here's a Doc covering Fonts & Symbols that you can use while creating Templates!
 <details>
 <summary><b><font color=gray>Original Role Colors (Hex Codes)</font></b></summary>
 
-You can find the <i>original</i> Hex Codes of TOHE Roles [Here](https://github.com/0xDrMoe/TownofHost-Enhanced/blob/main/Resources/roleColor.json).<br><br>
+You can find the <i>original</i> Hex Codes of Town of Host: Enhanced Roles [Here](https://github.com/0xDrMoe/TownofHost-Enhanced/blob/main/Resources/roleColor.json).<br><br>
 
 > From: The Enhanced Network
 </details>

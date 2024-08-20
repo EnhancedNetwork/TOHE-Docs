@@ -11,7 +11,7 @@ sidebar:
 ---
 
 ## <font size=5em><b>All Alpha Releases/Changelogs:</b></font><br>
-To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE/) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester](#) (Content Creator with your TOHE videos having 600+ views on average).
+To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE/) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester](#) (Content Creator with your Town of Host: Enhanced videos having 600+ views on average).
 
 ---
 <font size=4em>
@@ -708,7 +708,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <summary><b><font color=#d395b4>v1.6.0 Alpha 3</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved role spawns (Ported from TOHE+) (Now for each role you can set the chance of appearance from 0% to 100%) <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved role spawns (Ported from EHR) (Now for each role you can set the chance of appearance from 0% to 100%) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed "IsAlive" for modded clients <br>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
@@ -745,10 +745,10 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Bomber and Nuker was banned by EAC after shapeshift <br>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: Added setting client "Dark Theme" (Ported From TOHE+) (Works only for modded players) <br>
+\+ <font color=green><b>NEW</b></font>: Added setting client "Dark Theme" (Ported From EHR) (Works only for modded players) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Add-ons display was recoded <br>
 \+ <font color=green><b>NEW</b></font>: New setting: Impostors can see each other's Add-ons <br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Role Summary (Ported From TOHE+) <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Role Summary (Ported From EHR) <br>
 \- <font color=red><b>REMOVED</b></font>: Client Setting "Old Role Summary" removed <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when "FixedUpdate" for roles working in lobby <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Time Master teleport player when they were in the vent <br>
@@ -861,7 +861,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug where Mini could not be exiled <br>
 
 * By [**Drakos**](https://github.com/Ultradragon005) <br>
-\+ <font color=green><b>NEW</b></font>: Added New Alchemist Setting: Potion Of Speed (Ported from TOHE+) <br>
+\+ <font color=green><b>NEW</b></font>: Added New Alchemist Setting: Potion Of Speed (Ported from EHR) <br>
 
 * By [**Marg**](https://github.com/MargaretTheFool)<br>
 \+ <font color=green><b>NEW</b></font>: Add /rn for vanilla clients <br>
@@ -977,7 +977,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Console now appears only for people with debugger perms<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Made Fool incompatible with Repairman<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Some other miscellaneous changes<br>
-\+ <font color=green><b>NEW</b></font>: Ported FFA from TOHE+ (Thanks Gurge44)<br>
+\+ <font color=green><b>NEW</b></font>: Ported FFA from EHR (Thanks Gurge44)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed random spawns, setting vent when 2 players alive, setting cant vent when kill cd is up and many other miscellaneous bugs in FFA mode<br>
 \+ <font color=green><b>NEW</b></font>: Added chat commands /tpin and /tpout (to tp vanilla players in and out of ship in lobby)<br>
 \+ <font color=green><b>NEW</b></font>: Added jester not win info in exile message for next meeting <br>

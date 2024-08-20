@@ -15,4 +15,4 @@ Note: Up to two rifts can be placed at a time, if you try to place a third, it r
 * This page is not yet completed! Sorry for the inconvience!
   * This page still needs: Settings.
 
-> From: TOHE+
+> From: EHR

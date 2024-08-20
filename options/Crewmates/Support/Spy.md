@@ -25,4 +25,4 @@ Note: If the kill button interaction is blocked the player's cooldown will reset
   * <font color=green>ON</font>: the interaction with the killer and Spy is stopped.
   * <font color=red>OFF</font>: the interaction with the killer and Spy is not stopped.
 
-> From: TOHE+
+> From: EHR

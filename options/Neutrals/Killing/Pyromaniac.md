@@ -22,4 +22,4 @@ As the Pyromaniac, your job is to kill everyone and be the last one standing. Yo
   * <font color=green>ON</font>: the Pyromaniac can see as far as an <font color=red>Impostor</font> can
   * <font color=red>OFF</font>: the Pyromaniac will have <font color=#8cffff>Crewmate</font> Vision
 
-> From: TOHE+
+> From: EHR

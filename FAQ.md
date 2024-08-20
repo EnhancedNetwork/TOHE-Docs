@@ -6,15 +6,19 @@ contributors: false
 
 # FAQ
 
+Here you can browse through Common Questions relating to Town of Host: Enhanced. These can vary from general questions, to troubleshooting.
+
+Other general help related pages can be found at [Install](/Install.html) (For installation issues/questions) as well as [Resources](/Resources.html) (For other information).
+
 <font size=4em>
 <details>
-<summary><b><font color=#d395b4>How can I Install TOHE?</font></b></summary>
+<summary><b><font color=#d395b4>How can I Install Town of Host: Enhanced?</font></b></summary>
 
-Visit the [Install](/Install.html) page! This guides you through installing TOHE on etiher Steam, Epic, or Xbox App, and also shows you how to install Alpha & Beta Builds.
+Visit the [Install](/Install.html) page! This guides you through installing Town of Host: Enhanced on either Steam, Epic, or Xbox App, and also shows you how to install Alpha & Beta Builds.
 </details>
 <br>
 <details>
-<summary><b><font color=#d395b4>How can I install TOHE on phones, tablets, and consoles?</font></b></summary>
+<summary><b><font color=#d395b4>How can I install Town of Host: Enhanced on phones, tablets, and consoles?</font></b></summary>
 
 You can only install mods on PC/Computer. You must have the Steam, Epic, Xbox App, or Itch versions of Among Us to download mods. If you have no PC/Computer, you don’t need to worry as, even if you don't have/can't get the mod, you can still join Host-Only mods (such as TOHE, TOH, PL, etc) as long as you have Among Us on any device! You can find the lobbies of these mods to join and play as long as you are on the right game version.
 </details>
@@ -84,7 +88,7 @@ This problem could occur from a few causes:
 </details>
 <br>
 <details>
-<summary><b><font color=#d395b4>After installing the TOHE, it is still in vanilla, why?</font></b></summary>
+<summary><b><font color=#d395b4>After installing the Town of Host: Enhanced, it is still in vanilla, why?</font></b></summary>
 
 1. This may be caused by your antivirus software identifying the mod as a virus and automatically deleting it. Please try to close the antivirus software and reinstall it.
 
@@ -196,16 +200,16 @@ Their presence has no effect on the game, and all players know who the Game Mast
 <details>
 <summary><b><font color=#d395b4>How can I access Beta & Alpha Builds?</font></b></summary>
 
-1. Anybody can get Beta Access by visiting `#beta-builds` in the TOHE Discord.
+1. Anybody can get Beta Access by visiting `#beta-builds` in the TEN Discord.
 
 2. Become a Contributor, Tester, or Sponsor (Insider+) for Alpha Access.<br>
 Read near the bottom of the [Install](/Install.html) page.
 </details>
 <br>
 <details>
-<summary><b><font color=#d395b4>Why can't I post in #role-ideas in the TOHE Discord?</font></b></summary>
+<summary><b><font color=#d395b4>Why can't I post in #role-ideas in the TEN Discord?</font></b></summary>
 
-Role Ideas are currently locked to Sponsors, Nitro Boosters, & Contributors. This is so that the Developers/Contributors of TOHE can catch up on role ideas. The channel will open back up at a later date, but there's not a specific time.
+Role Ideas are currently locked to Sponsors, Nitro Boosters, & Contributors. This is so that the Developers/Contributors of Town of Host: Enhanced can catch up on role ideas. The channel will open back up at a later date, but there's not a specific time.
 </details>
 <br>
 <details>
@@ -213,13 +217,13 @@ Role Ideas are currently locked to Sponsors, Nitro Boosters, & Contributors. Thi
 
 Keep in mind, both of these require you to add significant changes, it can't just be a "one and done" sort of deal. If you are an inactive Contributor/Translator, you may be removed from the team.
 
-1. To earn Contributor, you'll need to help with coding Features, Roles, Gamemodes, and so on for TOHE. To do this, you will need a token. You can obtain one of these by creating a ticket in the TEN Discord and asking for an API Token. Moe will get back to you at some point.
+1. To earn Contributor, you'll need to help with coding Features, Roles, Gamemodes, and so on for Town of Host: Enhanced. To do this, you will need a token. You can obtain one of these by creating a ticket in the TEN Discord and asking for an API Token. Moe will get back to you at some point.
 
-2. To earn Translator, you'll need to help with translating TOHE into other languages supported by Among Us (See supported languages on the Resources Page). If you want to translate a language that TOHE hasn't yet started, you may create a ticket applying for the position (of course, it will only be you unless other people apply for the same position) and wait for Ryuk or Moe to get back to you. If you want to translate TOHE into another language but Among Us doesn't yet support it, you can do that in your own english.dat file and share it in #website-feedback when you are finished. (Info on english.dat on the Resources Page.)
+2. To earn Translator, you'll need to help with translating Town of Host: Enhanced into other languages supported by Among Us (See supported languages on the Resources Page). If you want to translate a language that Town of Host: Enhanced hasn't yet started, you may create a ticket applying for the position (of course, it will only be you unless other people apply for the same position) and wait for Ryuk or Moe to get back to you. If you want to translate Town of Host: Enhanced into another language but Among Us doesn't yet support it, you can do that in your own english.dat file and share it in #website-feedback when you are finished. (Info on english.dat on the Resources Page.)
 </details>
 <br>
 <details>
-<summary><b><font color=#d395b4>Can you use the Submerged mod with TOHE?</font></b></summary>
+<summary><b><font color=#d395b4>Can you use the Submerged mod with Town of Host: Enhanced?</font></b></summary>
 
 While this is technically possible, we don't recommend it as Submerged still requires all players to have it installed to play. If you do want to attempt this, we can say that the host would need Town of Host: Enhanced (TOHE) installed (as it's intended for only the host to install), as well as having Submerged installed. All of the people in your lobby could join normally but they would need the Submerged mod installed. (This applies to any custom Among Us map, Submerged is used in the example however, as it's one of the most popular)
 </details>

@@ -264,9 +264,9 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 
 * <font size=3em><font color=green><b>NEW ROLES</b></font></font><br>
 \+ <font color=green><b>NEW</b></font>: Rift Maker (Support Impostor - By: ryuk) <br>
-\+ <font color=green><b>NEW</b></font>: Penguin (Hindering Impostor - Coded by dev TOH and Ported from TOHE+ - By: Drakos) <br>
-\+ <font color=green><b>NEW</b></font>: Stealth (Hindering Impostor - Coded by dev TOH and Ported from TOHE+ - By: Drakos) <br>
-\+ <font color=green><b>NEW</b></font>: Plague Scientist (Neutral Killer - Coded by dev TOH and Ported from TOHE+ - By: Drakos) <br>
+\+ <font color=green><b>NEW</b></font>: Penguin (Hindering Impostor - Coded by dev TOH and Ported from EHR - By: Drakos) <br>
+\+ <font color=green><b>NEW</b></font>: Stealth (Hindering Impostor - Coded by dev TOH and Ported from EHR - By: Drakos) <br>
+\+ <font color=green><b>NEW</b></font>: Plague Scientist (Neutral Killer - Coded by dev TOH and Ported from EHR - By: Drakos) <br>
 \+ <font color=green><b>NEW</b></font>: Schrodinger's Cat (Neutral Benign - Coded by dev TOH - By: ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: Quizmaster (Experimental role - By: Furo) <br>
 
@@ -308,7 +308,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 \+ <font color=green><b>NEW</b></font>: Players can use the «/rn» command (By: Marg) <br>
 \+ <font color=green><b>NEW</b></font>: Copycat: «Can copy team changing addon» (By: ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: Fortune Teller: «Show random active roles in Fortune Teller hints» (By: ryuk) <br>
-\+ <font color=green><b>NEW</b></font>: Alchemist: «Potion Of Speed» (Ported from TOHE+ - By: Drakos) <br>
+\+ <font color=green><b>NEW</b></font>: Alchemist: «Potion Of Speed» (Ported from EHR - By: Drakos) <br>
 \+ <font color=green><b>NEW</b></font>: Doppelganger: «Can vent» and «Has imp vision» (By: ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: Bandit: «Steal cooldown» (different from kill cooldown - By: ryuk) <br>
 
@@ -408,7 +408,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 \+ <font color=green><b>NEW</b></font>: Silent (Helpful Addon - By: NikoCat223) <br>
 \+ <font color=green><b>NEW</b></font>: Mundane (Harmful Addon - By: ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: dlekS ehT !paM weN (Thanks sleepyut (@Galster-dev on GitHub) and TommyXL) <br>
-\+ <font color=green><b>NEW</b></font>: New Gamemode: FFA from TOHE+ (By: ryuk, Special Thanks: Gurge44) <br>
+\+ <font color=green><b>NEW</b></font>: New Gamemode: FFA from EHR (By: ryuk, Special Thanks: Gurge44) <br>
 \+ <font color=green><b>NEW</b></font>: Added chat commands /tpin, /tpout - TP players in and out of ship in lobby (By: ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: New Setting: Prevent /quit due to malicious use (By: Furo) <br>
 \+ <font color=green><b>NEW</b></font>: New Setting: Change Decontamination Time (Very Cool! Try this! By: TommyXL) <br>
@@ -534,7 +534,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 
 * <font size=3em><font color=green><b>ADDITIONS</b></font></font><br>
 \+ <font color=green><b>NEW</b></font>: Ported President (from SLE by ryuk, originally coded by SolarFlare) <br>
-\+ <font color=green><b>NEW</b></font>: Ported Spy (from TOHE+ by LezaiYa, Originally coded by Gurge44) <br>
+\+ <font color=green><b>NEW</b></font>: Ported Spy (from EHR by LezaiYa, Originally coded by Gurge44) <br>
 \+ <font color=green><b>NEW</b></font>: Added double click to kill setting for infectious (by ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: Added 2 lobby games /rps and /coinflip for ppl who die to early (lol) (by ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: Ported Rebound from SLE (by ryuk) (originally coded by SolarFlare) <br>

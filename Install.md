@@ -114,7 +114,7 @@ NOTE: This is for the `Xbox App` version of Among Us. You cannot download TOHE o
 
 Keep an eye on the [releases page](https://github.com/0xDrMoe/TownofHost-Enhanced/releases) for new stable releases. If a new version is released, all you'll usually need to do is repeat steps 1-2 above in either guide, unzipping into the same folder where you already have it installed, and letting it overwrite/replace the old files.<br>
 If it says it requires a newer version of Among Us, repeat steps 3-5 as well after making sure your base game is up to date.<br>
-In some cases, the <b>Latest</b>> TOHE Builds are Beta or Alpha Builds. Follow the first step in the below guide to get Alpha/Beta Builds. Stable builds will always be the latest, unless a Beta build has a higher version number, unless a Alpha build has a higher version number than the Beta version.<br>
+In some cases, the <b>Latest</b> TOHE Builds are Beta or Alpha Builds. Follow the first step in the below guide to get Alpha/Beta Builds. Stable builds will always be the latest, unless a Beta build has a higher version number, unless a Alpha build has a higher version number than the Beta version.<br>
 (Ex: 1.6.0 Stable -> 2.0.0 Alpha 2 -> 2.0.0 Beta 1 -> 2.0.0 Stable)
 </details>
 <br>

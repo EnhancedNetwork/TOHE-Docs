@@ -470,7 +470,7 @@ The original creator of TOH: Edited, now being worked on again as TONX/Town of N
 <summary><b><font color=gray>Mod Info</font></b></summary>
 
 Repository Deleted by Owner.<br>
-TOH: Enhanced is a continuation of TOHE: Restored. (Later renamed to TOH: Re-Edited)
+Town of Host: Enhanced is a continuation of TOHE: Restored. (Later renamed to TOH: Re-Edited)
 </details>
 
 ---
@@ -479,7 +479,7 @@ TOH: Enhanced is a continuation of TOHE: Restored. (Later renamed to TOH: Re-Edi
 <details>
 <summary><b><font color=gray>Mod Info</font></b></summary>
 
-Previously known as Town of Host Edited, now being maintained again under the name Town of Next! (TONX) This was the Original Base for TOHE: Restored & TOH: Enhanced.
+Previously known as Town of Host Edited, now being maintained again under the name Town of Next! (TONX) This was the Original Base for TOHE: Restored & Town of Host: Enhanced.
 </details>
 
 ---

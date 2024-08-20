@@ -11,7 +11,7 @@ sidebar:
 ---
 
 ## <font size=5em><b>All Beta Releases/Changelogs:</b></font><br>
-To access Beta Builds, visit the [TOH: Enhanced Discord](https://discord.gg/tohe) and visit #beta-builds, then download the latest dll!
+To access Beta Builds, visit the [Discord Server](https://discord.gg/tohe) of The Enhanced Network and visit #beta-builds, then download the latest dll!
 
 ---
 <font size=4em>

@@ -14,7 +14,7 @@ contributors: false
 
 # <font color=pink>🗳️ <b>Vote for The Enhanced Network</b></font> <Badge text="Minecraft" type="tip" vertical="middle"/>
 ---
-Vote for The Enhanced Network to get rewards! You can read more about voting below. If you have any questions, feel free to ask in our [Discord](https://discord.gg/tohe)!
+Vote for The Enhanced Network to get rewards! You can read more about voting below. If you have any questions, feel free to ask in our [Discord Server](https://discord.gg/tohe)!
 
 ## Vote Links
 

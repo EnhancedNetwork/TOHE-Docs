@@ -11,7 +11,7 @@ sidebar:
 ---
 
 ## <font size=5em><b>All Stable Releases/Changelogs:</b></font><br>
-To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0xDrMoe/TownofHost-Enhanced) and download the latest release!
+To access Stable Builds, visit the [Discord Server](https://discord.gg/tohe) of The Enhanced Network and download the latest release!
 
 ---
 <font size=4em>

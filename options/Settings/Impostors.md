@@ -16,42 +16,42 @@ next: /Roles.html
 </tr>
 
 <tr>
-<td><font color=#3b0722><b>👣 Concealing</b></font></td>
+<td><a href="#concealing" style="color:#3b0722"><b>👣 Concealing</b></a></td>
 <td align="center">15</td>
 </tr>
 
 <tr>
-<td><font color=#4d2b22><b>🚧 Experimental</b></font></td>
+<td><a href="#experimental" style="color:#4d2b22"><b>🚧 Experimental</b></a></td>
 <td align="center">1</td>
 </tr>
 
 <tr>
-<td><font color=#bd8b88><b>👻 Ghost</b></font></td>
+<td><a href="#ghost" style="color:#bd8b88"><b>👻 Ghost</b></a></td>
 <td align="center">2</td>
 </tr>
 
 <tr>
-<td><font color=#636363><b>⛓️ Hindering</b></font></td>
+<td><a href="#hindering" style="color:#636363"><b>⛓️ Hindering</b></a></td>
 <td align="center">9</td>
 </tr>
 
 <tr>
-<td><font color=#6a0000><b>🔪 Killing</b></font></td>
+<td><a href="#killing" style="color:#6a0000"><b>🔪 Killing</b></a></td>
 <td align="center">29</td>
 </tr>
 
 <tr>
-<td><font color=red><b>😡 Madmate</b></font></td>
+<td><a href="#madmate" style="color:red"><b>😡 Madmate</b></a></td>
 <td align="center">3</td>
 </tr>
 
 <tr>
-<td><font color=#00ffff><b>🏥 Support</b></font> </td>
+<td><a href="#support" style="color:#00ffff"><b>🏥 Support</b></a> </td>
 <td align="center">14</td>
 </tr>
 
 <tr>
-<td><font color=#8cffff><b>🍦 Vanilla</b></font> </td>
+<td><a href="#vanilla" style="color:#8cffff"><b>🍦 Vanilla</b></a> </td>
 <td align="center">3</td>
 </tr>
 

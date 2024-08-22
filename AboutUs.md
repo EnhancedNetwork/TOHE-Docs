@@ -12,7 +12,7 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 ## President
 
-[**Moe**](https://github.com/0xDrMoe): <font color=#ff8000>President + Website Maintainer/Developer</font>
+[**Moe**](https://github.com/0xDrMoe): <font color=#ff8000>President + Main Website Maintainer/Developer</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -36,7 +36,7 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 
 ## Website Maintainer
 
-[**Pyro**](https://sites.google.com/view/notpyro404)：<font color=#49e6ac>Website Maintainer + Moderator</font>
+[**Pyro**](https://sites.google.com/view/notpyro404)：<font color=#49e6ac>TOHE Website Maintainer + Moderator</font>
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 

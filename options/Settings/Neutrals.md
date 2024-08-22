@@ -16,37 +16,37 @@ next: /Roles.html
 </tr>
 
 <tr>
-<td><font color=#cc0044><b>🚨 Apocalypse</b></font></td>
+<td>><a href="#apocalypse" style="color:#cc0044"><b>🚨 Apocalypse</b></a></td>
 <td align="center">4</td>
 </tr>
 
 <tr>
-<td><font color=#046300><b>🕊️ Benign</b></font></td>
+<td><a href="#benign" style="color:#046300"><b>🕊️ Benign</b></a></td>
 <td align="center">13</td>
 </tr>
 
 <tr>
-<td><font color=#d4af37><b>😈 Chaos</b></font></td>
+<td><a href="#chaos" style="color:#d4af37"><b>😈 Chaos</b></a></td>
 <td align="center">14</td>
 </tr>
 
 <tr>
-<td><font color=#912900><b>👹 Evil</b></font></td>
+<td><a href="#evil" style="color:#912900"><b>👹 Evil</b></a></td>
 <td align="center">8</td>
 </tr>
 
 <tr>
-<td><font color=#4d3222><b>🚧 Experimental</b></font></td>
+<td><a href="#experimental" style="color:#4d3222"><b>🚧 Experimental</b></a></td>
 <td align="center">3</td>
 </tr>
 
 <tr>
-<td><font color=#b22222><b>🪓 Killing</b></font></td>
+<td><a href="#killing" style="color:#b22222"><b>🪓 Killing</b></a></td>
 <td align="center">32</td>
 </tr>
 
 <tr>
-<td><font color=#7c8c8d><b>📊 Total:</b></font></td>
+<td><font color=#7c8c8d><b>📊 Total:</b></a></td>
 <td align="center"><b>76</b></td>
 </tr>
 

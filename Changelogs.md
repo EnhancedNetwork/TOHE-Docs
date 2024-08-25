@@ -60,10 +60,13 @@ contributors: false
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
 = <font color=#ece218><b>NOTICE</b></font>: Soul Collector & Berserker work differently in 2.1.0 Alpha 2 (and above) than they do in 2.0.3 Stable Release.<br>
 \+ <font color=green><b>NEW</b></font>: Added `Translations.md` (Instead of cluttering `Resources.md` with future Translation Submissions, Translations will be listed here.) Currently has no entries, nor submissions.<br>
-\+ <font color=green><b>NEW</b></font>: Tab Favicon (Thanks Theta!)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: All Commands + Hot-Keys are updated and finally listed. (Minus a few variants. However, variants like `/r` & `/role` were included.)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Dev Builds are now listed as Alpha Builds, this is due to a name change that has already happened.<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Canary Builds are now listed as Beta Builds, this is due to a name change coming soon in the future.<br>
 = <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are mostly corrected, thanks Drakos for doing the numbers! No idea what `[None] = Count: 13` still means though. Mostly Corrected because I might have gotten some counts wrong, if you know the proper counts, make a #website-feedback post.<br>
+
+* By [**Theta**](https://github.com/ThetaHalo)<br>
+\+ <font color=green><b>NEW</b></font>: Tab Favicon<br>
+\+ <font color=green><b>NEW</b></font>: Factions in Roles.html clickable (This change makes it easier for users on mobile to navigate the website) and these clickable factions should still remain colored. (They may not)<br>
 </details>
 </font>

@@ -15,37 +15,37 @@ next: /Roles.html
 <td colspan="2" align="center"><b><u>Role Count</u></b></td>
 </tr>
 <tr>
-<td><font color=#e69c9c><b>🧒 Basic</b></font></td>
+<td><a href="#basic" style="color:#e69c9c"><b>🧒 Basic</b></a></td>
 <td align="center">16</td>
 </tr>
 
 <tr>
-<td><font color=#224c4d><b>🚧 Experimental</b></font></td>
+<td><a href="#experimental" style="color:#224c4d"><b>🚧 Experimental</b></a></td>
 <td align="center">0</td>
 </tr>
 
 <tr>
-<td><font color=#9bacb2><b>👻 Ghost</b></font></td>
+<td><a href="#ghost" style="color:#9bacb2"><b>👻 Ghost</b></a></td>
 <td align="center">3</td>
 </tr>
 
 <tr>
-<td><font color=#b22222><b>🗡️ Killing</b></font></td>
+<td><a href="#killing" style="color:#b22222"><b>🗡️ Killing</b></a></td>
 <td align="center">12</td>
 </tr>
 
 <tr>
-<td><font color=#d4af37><b>🧑‍⚖️ Power</b></font></td>
+<td><a href="#power" style="color:#d4af37"><b>🧑‍⚖️ Power</b></a></td>
 <td align="center">13</td>
 </tr>
 
 <tr>
-<td><font color=#7fffd4><b>🏥 Support</b></font></td>
+<td><a href="#support" style="color:#7fffd4"><b>🏥 Support</b></a></td>
 <td align="center">27</td>
 </tr>
 
 <tr>
-<td><font color=#8cffff><b>🍦 Vanilla</b></font></td>
+<td><a href="#vanilla" style="color:#8cffff"><b>🍦 Vanilla</b></a></td>
 <td align="center">6</td>
 </tr>
 

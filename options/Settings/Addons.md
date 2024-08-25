@@ -16,37 +16,37 @@ next: /Roles.html
 </tr>
 
 <tr>
-<td><font color=#4d223a><b>🚧 Experimental</b></font></td>
+<td><a href="#experimental" style="color:#4d223a"><b>🚧 Experimental</b></a></td>
 <td align="center">2</td>
 </tr>
 
 <tr>
-<td><font color=#d6b149><b>❔ Guesser</b></font></td>
+<td><a href="#guesser" style="color:#d6b149"><b>❔ Guesser</b></a></td>
 <td align="center">4</td>
 </tr>
 
 <tr>
-<td><font color=red><b>🤕 Harmful</b></font></td>
+<td><a href="#harmful" style="color:red"><b>🤕 Harmful</b></a></td>
 <td align="center">12</td>
 </tr>
 
 <tr>
-<td><font color=#00ff00><b>🤑 Helpful</b></font></td>
-<td align="center">23</td>
+<td><a href="#helpful" style="color:#00ff00"><b>🤑 Helpful</b></a></td>
+<td align="center">22</td>
 </tr>
 
 <tr>
-<td><font color=red><b>🦹 Impostor Only</b></font></td>
+<td><a href="#impostor-only" style="color:red"><b>🦹 Impostor Only</b></a></td>
 <td align="center">8</td>
 </tr>
 
 <tr>
-<td><font color=#a83295><b>⚙️ Miscellaneous</b></font></td>
+<td><a href="#miscellaneous" style="color=#a83295"><b>⚙️ Miscellaneous</b></font></td>
 <td align="center">6</td>
 </tr>
 
 <tr>
-<td><font color=#32a87f><b>😵‍💫 Mixed</b></font></td>
+<td><a href="#mixed" style="color=#32a87f"><b>😵‍💫 Mixed</b></font></td>
 <td align="center">12</td>
 </tr>
 

@@ -32,7 +32,7 @@ next: /Roles.html
 
 <tr>
 <td><a href="#helpful" style="color:#00ff00"><b>🤑 Helpful</b></a></td>
-<td align="center">22</td>
+<td align="center">23</td>
 </tr>
 
 <tr>

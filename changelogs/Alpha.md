@@ -16,7 +16,35 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Alpha 6</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.1.0 Alpha 7</font></b></summary>
+
+* By [**Drakos**](https://github.com/Ultradragon005) + [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Added support role basic changer mid-game<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: More fixes for AntiBlackOut (This will not completely fix black screen issues, but the more players there are in the game, the less chance of black screen occurrences (To do this, we use revives and base role changes during exile, so that dead players will be alive for a couple of seconds, but will become dead again))<br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Helpful Add-on: Evader<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Optimize intro scene<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Phantom For Desync Roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Kill Cooldown for Berserker<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Doomsayer ImpostorVision not used<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Taskinator triggered Schrodingers Cat ability<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Innocent didn't win with Impostor when setting is On<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some null errors<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Rebirth setting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed YinYanger conflicts and Double Agent message<br>
+
+* By [**Pyro**](https://github.com/NotPyro404)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Update YinYanger info so it doesn't get tagged by Innersloth filter<br>
+
+* By [**WaterPanda**](#)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Double Agent Role description<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 6</font></b></summary>
 
 * By [**D1GQ**](https://github.com/D1GQ)<br>
 \+ <font color=green><b>NEW</b></font>: Impostor Role: Double Agent<br>
@@ -45,7 +73,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#32CD32><b>TYPO</b></font>: Fixed some typo in text<br>
 </details>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Alpha 5</font></b></summary>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 5</font></b></summary>
 
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken chat for modded players<br>

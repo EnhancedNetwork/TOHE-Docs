@@ -32,7 +32,7 @@ next: /Roles.html
 
 <tr>
 <td><font color=#00ff00><b>🤑 Helpful</b></font></td>
-<td align="center">22</td>
+<td align="center">23</td>
 </tr>
 
 <tr>
@@ -73,7 +73,7 @@ next: /Roles.html
 
 ### <font color=#00ff00><b>Helpful</b></font>
 ---
-[Autopsy](/options/Addons/Helpful/Autopsy.html) | [Bait](/options/Addons/Helpful/Bait.html) | [Beartrap](/options/Addons/Helpful/Beartrap.html) | [Bewilder](/options/Addons/Helpful/Bewilder.html) | [Burst](/options/Addons/Helpful/Burst.html) | [Cyber](/options/Addons/Helpful/Cyber.html) | [Flash](/options/Addons/Helpful/Flash.html) | [Lazy](/options/Addons/Helpful/Lazy.html) | [Loyal](/options/Addons/Helpful/Loyal.html) | [Lucky](/options/Addons/Helpful/Lucky.html) | [Necroview](/options/Addons/Helpful/Necroview.html) | [Nimble](/options/Addons/Helpful/Nimble.html) | [Overclocked](/options/Addons/Helpful/Overclocked.html) | [Radar](/options/Addons/Helpful/Radar.html) | [Rebirth](/options/Addons/Helpful/Rebirth.html) | [Seer](/options/Addons/Helpful/Seer.html) | [Silent](/options/Addons/Helpful/Silent.html) | [Sleuth](/options/Addons/Helpful/Sleuth.html) | [Spurt](/options/Addons/Helpful/Spurt.html) | [Tiebreaker](/options/Addons/Helpful/Tiebreaker.html) | [Torch](/options/Addons/Helpful/Torch.html) | [Watcher](/options/Addons/Helpful/Watcher.html)
+[Autopsy](/options/Addons/Helpful/Autopsy.html) | [Bait](/options/Addons/Helpful/Bait.html) | [Beartrap](/options/Addons/Helpful/Beartrap.html) | [Bewilder](/options/Addons/Helpful/Bewilder.html) | [Burst](/options/Addons/Helpful/Burst.html) | [Cyber](/options/Addons/Helpful/Cyber.html) | [Evader](/options/Addons/Helpful/Evader.html) | [Flash](/options/Addons/Helpful/Flash.html) | [Lazy](/options/Addons/Helpful/Lazy.html) | [Loyal](/options/Addons/Helpful/Loyal.html) | [Lucky](/options/Addons/Helpful/Lucky.html) | [Necroview](/options/Addons/Helpful/Necroview.html) | [Nimble](/options/Addons/Helpful/Nimble.html) | [Overclocked](/options/Addons/Helpful/Overclocked.html) | [Radar](/options/Addons/Helpful/Radar.html) | [Rebirth](/options/Addons/Helpful/Rebirth.html) | [Seer](/options/Addons/Helpful/Seer.html) | [Silent](/options/Addons/Helpful/Silent.html) | [Sleuth](/options/Addons/Helpful/Sleuth.html) | [Spurt](/options/Addons/Helpful/Spurt.html) | [Tiebreaker](/options/Addons/Helpful/Tiebreaker.html) | [Torch](/options/Addons/Helpful/Torch.html) | [Watcher](/options/Addons/Helpful/Watcher.html)
 <br>
 
 ### <font color=red><b>Impostor</b></font>

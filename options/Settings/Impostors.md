@@ -132,7 +132,7 @@ Below are settings to make the game more balanced based on your lobby's style of
   * <font color=red>Madmates</font> have maximum vision
   * You can turn this <font color=green>ON</font> or <font color=red>OFF</font>
 * <font color=red>Madmates</font> can fix sabotages
-  * Turning this <font color=green>ON</font> will essentially give <font color=red>Madmates</font> the [Fool](#fool) Add-on by default.
+  * Turning this <font color=red>OFF</font> will essentially give <font color=red>Madmates</font> the [Fool](#fool) Add-on by default.
   * You can turn this <font color=green>ON</font> or <font color=red>OFF</font>
 <br><br>
 
@@ -143,7 +143,7 @@ Below are settings to make the game more balanced based on your lobby's style of
 * Default Shapeshift Cooldown
   * The default cooldown for any <font color=red>Impostor</font> with the ability to shapeshift
   * From 5 (minumum) to 995 (maximum) seconds with 5 seconds intervals
-* <font color=red>Impostors</font> can't sabotage after they've die
+* <font color=red>Impostors</font> can't sabotage after they've died
   * <font color=red>Impostors</font> can't call any sabotages after they die
   * You can turn this <font color=green>ON</font> or <font color=red>OFF</font>
 </details>

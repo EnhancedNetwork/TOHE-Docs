@@ -20,7 +20,7 @@ This policy is in place to keep the integrity of our Sponsor, Contributor, & Tes
 <details>
 <summary><b><font color=#d395b4>How to get Stable Builds</font></b></summary>
 
-* Visit `#mod-release` in the [Discord Server](https://discord.gg/tohe) of The Enhanced Network, or go [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/latest) to download it directly from GitHub. 
+* Visit `#mod-release` in the [Discord Server](https://discord.gg/ten) of The Enhanced Network, or go [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/latest) to download it directly from GitHub. 
 
 Installation requires that you own a PC version of Among Us on Steam, Epic, Xbox App, or Itch. Microsoft Store will not work.
 </details>
@@ -121,13 +121,13 @@ NOTE: This is for the `Xbox App` version of Among Us. You cannot download TOHE o
 - To become a <b>Tester</b>, you must be an active content creator with 4 or more of your <b>Town of Host: Enhanced videos</b> having 600+ views on average.<br>
 - To become a <b>Sponsor</b>, you need to purchase a package on our [Website](https://weareten.ca/TOHE/) (Insider tier for $5.00 grants Alpha Build access).<br>
 
-Visit `#alpha-builds` in the [Discord Server](https://discord.gg/tohe) of The Enhanced Network once you have been accepted into one of the above roles, and download the latest dll!
+Visit `#alpha-builds` in the [Discord Server](https://discord.gg/ten) of The Enhanced Network once you have been accepted into one of the above roles, and download the latest dll!
 </details>
 <br>
 <details>
 <summary><b><font color=#d395b4>How to get</font> <font color=#ffef00>Beta Builds</font></b></summary>
 
-* Visit `#beta-builds` in the [Discord Server](https://discord.gg/tohe) of The Enhanced Network, and download the latest dll!
+* Visit `#beta-builds` in the [Discord Server](https://discord.gg/ten) of The Enhanced Network, and download the latest dll!
 </details>
 <br>
 <details>

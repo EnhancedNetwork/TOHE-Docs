@@ -605,7 +605,7 @@ Multiple Ideas such as: Evil Guesser, Nice Guesser, and more included in TOH: TO
 <p align="right">Feedback & Contact</p>
 
 <p align="right">
-<a href="https://discord.gg/tohe" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>&nbsp;
+<a href="https://discord.gg/ten" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>&nbsp;
 <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank"><img src="https://img.shields.io/badge/Github%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 </p>
 

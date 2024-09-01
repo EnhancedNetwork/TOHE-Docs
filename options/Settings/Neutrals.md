@@ -91,6 +91,10 @@ Below are settings to make the game more balanced based on your lobby's style of
   * Set the minimal amount of <font color=#7f8c8d>Neutral</font> Killing roles allowed in the round
 * Maximum Amount of <font color=#7f8c8d>Neutral</font> Killing roles
   * Set the max amount of Non-<font color=#7f8c8d>Neutral</font> Killing roles allowed in the round
+* Minimum Amount of Apocalypse roles
+  * Set the minimal amount of Apocalypse roles roles allowed in the round
+* Maximum Amount of Apocalypse roles
+  * Set the max amount of Apocalypse roles roles allowed in the round
 * <font color=#7f8c8d>Neutrals</font> win together
   * <font color=green>ON</font>: Certain <font color=#7f8c8d>Neutral</font> Types will win together
     * If a Killing-<font color=#7f8c8d>Neutral</font> wins, all Killing-<font color=#7f8c8d>Neutrals</font> win. If an Evil-<font color=#7f8c8d>Neutral</font> wins, all Evil-<font color=#7f8c8d>Neutrals</font> win

@@ -79,7 +79,7 @@ export default defineUserConfig({
           '/options/Addons/Experimental/': [
             { text: 'Back to Addons', link: '/options/Settings/Addons.html' },
             { text: 'Glow', link: '/options/Addons/Experimental/Glow.html' },
-            { text: 'Swift', link: '/options/Addons/Impostor/Swift.html' }
+            { text: 'Swift', link: '/options/Addons/Experimental/Swift.html' }
           ],
           '/options/Addons/Guesser/': [
             { text: 'Back to Addons', link: '/options/Settings/Addons.html' },

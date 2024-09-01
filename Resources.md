@@ -930,7 +930,7 @@ Player leaves the Game (If no cause of death was established, does not always di
 - Fall<br>
 Ladders on Airship/Fungle (Fall From Ladders setting)<br><br>
 
-- Guessed
+- Guessed<br>
 Evil Guesser (If a player was guessed or if a player misguessed)<br>
 Nice Guesser (If a player was guessed or if a player misguessed)<br>
 Doomsayer (If a player was guessed or if a player misguessed)<br>
@@ -971,7 +971,7 @@ Taskinator (Given to player if they do a task that the Taskinator did)
 Terrorist (Given to all players when Terrorist meets their win-condition)<br>
 Burst (Given to Killer if they killed a player with Burst & failed to stay in a vent when the detonation goes off)<br><br>
 
-- Misfire
+- Misfire<br>
 Deceiver (Whoever Deceiver’s ability is used on)<br>
 Reverie (If Cooldown increases too much)<br>
 Sheriff (If Sheriff tries to kill player with role they aren’t allowed to kill)<br>
@@ -980,13 +980,13 @@ Hater (Hater kills target when misfire setting)<br>
 Pursuer (When whoever Pursuer blanks attempts to kill)<br>
 Vengeful Romantic (If killed someone other than partner’s killer)<br><br>
 
-- Burned
+- Burned<br>
 Arsonist (Given to players that have been doused when the Arsonist vented & killed)<br><br>
 
 - Sniped<br>
 Sniper (Given to players that have been killed by the Sniper)<br><br>
 
-- Revenge
+- Revenge<br>
 Avenger (Happens to a random player when player with Avenger is killed)<br>
 Randomizer (Happens by chance)<br>
 Retributionist (Whoever Retributionist kills using their '/rv' command)<br>
@@ -1189,6 +1189,14 @@ Bug (This Death Reason occured awhile ago due to bugs, but has since been patche
 <tr>
 <td><font color=#e5f6b4>⦿</font></td>
 <td>Used by the <font color=#e5f6b4>Plaguebearer</font> to mark who they have plagued.</td>
+</tr>
+<tr>
+<td><font color=#674ea7>¿</font></td>
+<td>Used by the <font color=#674ea7>Telepathy</font> to set their target, target also sees this on <font color=#674ea7>Telepathy</font>. (Possibly not TOHE Role, sorry)</td>
+</tr>
+<tr>
+<td><font color=#d4703e>⌘</font></td>
+<td> Visible on the <font color=#d4703e>Messenger</font> about to speak. (Possibly not TOHE Role, sorry)</td>
 </tr>
 </table>
 

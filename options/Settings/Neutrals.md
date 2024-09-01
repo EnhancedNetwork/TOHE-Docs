@@ -22,17 +22,17 @@ next: /Roles.html
 
 <tr>
 <td><a href="#benign" style="color:#046300"><b>🕊️ Benign</b></a></td>
-<td align="center">13</td>
+<td align="center">12</td>
 </tr>
 
 <tr>
 <td><a href="#chaos" style="color:#d4af37"><b>😈 Chaos</b></a></td>
-<td align="center">14</td>
+<td align="center">13</td>
 </tr>
 
 <tr>
 <td><a href="#evil" style="color:#912900"><b>👹 Evil</b></a></td>
-<td align="center">8</td>
+<td align="center">7</td>
 </tr>
 
 <tr>
@@ -42,12 +42,12 @@ next: /Roles.html
 
 <tr>
 <td><a href="#killing" style="color:#b22222"><b>🪓 Killing</b></a></td>
-<td align="center">32</td>
+<td align="center">28</td>
 </tr>
 
 <tr>
 <td><font color=#7c8c8d><b>📊 Total:</b></a></td>
-<td align="center"><b>76</b></td>
+<td align="center"><b>67</b></td>
 </tr>
 
 </table>

@@ -46,7 +46,7 @@ next: /Roles.html
 </tr>
 
 <tr>
-<td><font color=#7c8c8d><b>📊 Total:</b></a></td>
+<td><font color=#7c8c8d><b>📊 Total:</b></font></td>
 <td align="center"><b>67</b></td>
 </tr>
 

@@ -38,7 +38,7 @@ contributors: false
 <summary><b><font color=#5ea692>Site Changelogs/Updates</font></b></summary>
 
 * By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
-= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.1.0 Alpha 7<br>
+= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.1.0 Alpha 8<br>
 \+ Have a good day!<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
 = <font color=#ece218><b>NOTICE</b></font>: Soul Collector & Berserker work differently in 2.1.0 Alpha 2 (and above) than they do in 2.0.3 Stable Release.<br>

@@ -21,7 +21,7 @@ next: /Roles.html
 
 <tr>
 <td><a href="#experimental" style="color:#224c4d"><b>🚧 Experimental</b></a></td>
-<td align="center">0</td>
+<td align="center">1</td>
 </tr>
 
 <tr>
@@ -51,7 +51,7 @@ next: /Roles.html
 
 <tr>
 <td><font color=#8cffff><b>📊 Total:</b></font></td>
-<td align="center"><b>89</b></td>
+<td align="center"><b>90</b></td>
 </tr>
 
 </table>
@@ -64,7 +64,7 @@ next: /Roles.html
 
 ### <font color=#224c4d><b>Experimental</b></font>
 ---
-[N/A](#)
+[Altruist](/options/Crewmates/Experimental/Altruist.html)
 
 ### <font color=#9bacb2><b>Ghost</b></font>
 ---

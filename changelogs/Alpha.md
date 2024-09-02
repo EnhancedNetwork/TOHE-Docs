@@ -16,7 +16,18 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Alpha 7</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.1.0 Alpha 8</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Experimental Crewmate Role: Altruist (Functions fine, but not fully completed, so i don't recommend using this role yet. I mean revived players can remember all/some the player roles while they were dead)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed disconnects while role assigns<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Lot of fixes for AntiBlackOut<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Change death reason display (from EHR)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for spawn players in start game and after meeting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when in exile player displayed full roles and add-ons<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 7</font></b></summary>
 
 * By [**Drakos**](https://github.com/Ultradragon005) + [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Added support role basic changer mid-game<br>

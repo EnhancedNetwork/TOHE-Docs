@@ -5,7 +5,7 @@ prev: Glow
 next: /options/Settings/Addons.html
 ---
 
-# <font color=red>🏃 <b>Swift</b></font> <Badge text="Impostor Experimental" type="tip" vertical="middle"/>
+# <font color=red>🏃 <b>Swift</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
 ---
 
 As the Swift, your kills will not cause you to lunge.

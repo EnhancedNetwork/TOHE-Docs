@@ -67,6 +67,15 @@ Helping out with Tickets, bot related things... basically anything to do with th
 
 ## Staff Team
 
+[**Matt**](#): Legal Advisor
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I'm 25 years old from the United States. I am a bar certified attorney in contract law as well as professional broadcast engineer working full time for ESPN. In my free time, I run a non-profit food ministry in Louisiana as well as enjoy watching sports.
+</details>
+
+---
+
 [**FieryFlower**](#): Sr. Moderator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -103,11 +112,47 @@ I help with moderating the Discord Server of The Enhanced Network. Some of my ho
 
 ---
 
-[**Matt**](#): Legal Advisor
+[**Tasha**](#): Helper
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm 25 years old from the United States. I am a bar certified attorney in contract law as well as professional broadcast engineer working full time for ESPN. In my free time, I run a non-profit food ministry in Louisiana as well as enjoy watching sports.
+I am a Helper in The Enhanced Network’s Discord Server, aiming to ensure that it is a welcoming and supportive community for everyone to enjoy! I enjoy playing video games, taking midday naps, watching UFC and making pickles!
+</details>
+
+---
+
+[**Northie**](#): Helper
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+Hey I'm Northie, also known as Norfie or North. Right now I'm a Helper in the TOHE server! Currently, I'm working towards becoming a Veterinarian. I enjoy drawing a lot, however it takes me a while to think of what I should draw. I absolutely love music, and if you need recommendations, you can just ask!
+</details>
+
+---
+
+[**Flashy**](#): Helper
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+BIO! Placeholder
+</details>
+
+---
+
+[**fishking21**](#): Helper
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+BIO! Placeholder
+</details>
+
+---
+
+[**thelittlenarwhal**](#): Helper
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+BIO! Placeholder
 </details>
 
 ---

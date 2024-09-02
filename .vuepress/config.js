@@ -187,6 +187,7 @@ export default defineUserConfig({
           ],
           '/options/Crewmates/Experimental/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
+            { text: 'Altruist', link: '/options/Crewmates/Experimental/Altruist.html' },
           ],
           '/options/Crewmates/Ghost/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },

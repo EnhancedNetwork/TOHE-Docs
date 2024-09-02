@@ -17,7 +17,7 @@ contributors: false
 
 <font size=4em><b>Latest Versions:</b></font><br>
 
-<a href="/changelogs/Alpha.html" style="color:#997d6d"><b>v2.1.0 Alpha 7</b></a>
+<a href="/changelogs/Alpha.html" style="color:#997d6d"><b>v2.1.0 Alpha 8</b></a>
 <a href="/changelogs/Beta.html" style="color:#6d7299"><b>v2.0.0 Beta 12</b></a>
 <a href="/changelogs/Stable.html" style="color:#996d7f"><b>v2.0.3 Stable</b></a>
 
@@ -37,7 +37,7 @@ contributors: false
 <tr>
 <td><a href="/options/Settings/Crewmates.html" style="color:#8cffff"><b>🦸‍♂️ Crewmates</b> </a></td>
 <td>Play together and win by completing all tasks/voting out all Evil</td>
-<td align="center">89</td>
+<td align="center">90</td>
 </tr>
 
 <tr>
@@ -54,7 +54,7 @@ contributors: false
 
 <tr>
 <td colspan=2>📊 Total:</td>
-<td align="center"><b>315</b></td>
+<td align="center"><b>316</b></td>
 </tr>
 </table>
 <br>

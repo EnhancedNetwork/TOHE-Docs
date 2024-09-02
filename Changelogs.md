@@ -19,36 +19,19 @@ contributors: false
 <summary><b><font color=#a3693b>Known Bugs</font></b></summary>
 
 = <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, & Imitator are working, but are unstable<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, Imitator, & Altruist are working, but are unstable<br>
 </details>
 <br>
 <details>
-<summary><b><font color=#a65a80>TOHE v2.1.0 Alpha 7 Changelogs</font></b></summary>
-
-* By [**Drakos**](https://github.com/Ultradragon005) + [**TommyXL**](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: Added support role basic changer mid-game<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: More fixes for AntiBlackOut (This will not completely fix black screen issues, but the more players there are in the game, the less chance of black screen occurrences (To do this, we use revives and base role changes during exile, so that dead players will be alive for a couple of seconds, but will become dead again))<br>
+<summary><b><font color=#a65a80>TOHE v2.1.0 Alpha 8 Changelogs</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: Helpful Add-on: Evader<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Optimize intro scene<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Phantom For Desync Roles<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Kill Cooldown for Berserker<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Doomsayer ImpostorVision not used<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Taskinator triggered Schrodingers Cat ability<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Innocent didn't win with Impostor when setting is On<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some null errors<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
-
-* By [**Drakos**](https://github.com/Ultradragon005)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Rebirth setting<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed YinYanger conflicts and Double Agent message<br>
-
-* By [**Pyro**](https://github.com/NotPyro404)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Update YinYanger info so it doesn't get tagged by Innersloth filter<br>
-
-* By [**WaterPanda**](#)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Double Agent Role description<br>
+\+ <font color=green><b>NEW</b></font>: Experimental Crewmate Role: Altruist (Functions fine, but not fully completed, so i don't recommend using this role yet. I mean revived players can remember all/some the player roles while they were dead)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed disconnects while role assigns<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Lot of fixes for AntiBlackOut<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Change death reason display (from EHR)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for spawn players in start game and after meeting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when in exile player displayed full roles and add-ons<br>
 </details>
 <br>
 <details>

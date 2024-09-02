@@ -20,7 +20,8 @@ Below are some member submitted translations:
 <summary><b><font color=gray>Not Available</font></b></summary>
 
 <b>This is a Work in Progress!</b><br>
-You cannot currently download custom translations for your build of Town of Host: Enhanced as there are none currently available. This page will be updated once some Custom Translations are submitted.
+You cannot currently download custom translations for your build of Town of Host: Enhanced as there are none currently available. This page will be updated once some Custom Translations are submitted.<br>
+SUBMIT YOUR OWN in the #website-feedback channel using the `Custom Translation` Tag!
 
 > Submitted by: Thou Mother
 </details>

@@ -56,7 +56,7 @@ I'm just a girl who loves to play video games and is obsessed with everything <f
 
 ---
 
-[**Jackler**](https://linktr.ee/Jackler): Head of Tech Ops
+[**Jackler**](https://linktr.ee/Jackler): <font color=#cf7821>Head of Tech Ops</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 

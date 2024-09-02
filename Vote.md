@@ -5,7 +5,7 @@ prev: null
 next: null
 navbar: false
 sidebar:
-    - { text: Visit our Store, link: https://weareten.ca/ }
+    - { text: Visit our Store, link: https://weareten.ca/TOHE/ }
     - { text: Check out our Website, link: https://weareten.ca/ }
     - { text: Join our Discord, link: https://discord.gg/ten }
     - { text: Support Us!, link: https://weareten.ca/TOHE/ }

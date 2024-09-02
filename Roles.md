@@ -17,9 +17,9 @@ contributors: false
 
 <font size=4em><b>Latest Versions:</b></font><br>
 
-- <b><font size=4em>Alpha:</font> [v2.1.0 Alpha 7](/changelogs/Alpha.html)</b><br>
-- <b><font size=3em>Beta:</font> [v2.0.0 Beta 12](/changelogs/Beta.html)</b><br>
-- <b><font size=3em>Stable:</font> [v2.0.3](/changelogs/Stable.html)</b><br>
+<a href="/changelogs/Alpha.html" style="color:#997d6d"><b>v2.1.0 Alpha 7</b></a>
+<a href="/changelogs/Beta.html" style="color:#6d7299"><b>v2.0.0 Beta 12</b></a>
+<a href="/changelogs/Stable.html" style="color:#996d7f"><b>v2.0.3 Stable</b></a>
 
 <table>
 <tr>

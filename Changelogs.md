@@ -16,14 +16,14 @@ contributors: false
 
 <font size=4em>
 <details>
-<summary><b><font color=#de6707>Known Bugs</font></b></summary>
+<summary><b><font color=#a3693b>Known Bugs</font></b></summary>
 
 = <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, & Imitator are working, but are unstable<br>
 </details>
 <br>
 <details>
-<summary><b><font color=#cf4e8f>TOHE v2.1.0 Alpha 7 Changelogs</font></b></summary>
+<summary><b><font color=#a65a80>TOHE v2.1.0 Alpha 7 Changelogs</font></b></summary>
 
 * By [**Drakos**](https://github.com/Ultradragon005) + [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Added support role basic changer mid-game<br>
@@ -52,7 +52,7 @@ contributors: false
 </details>
 <br>
 <details>
-<summary><b><font color=#12edaf>Site Changelogs/Updates</font></b></summary>
+<summary><b><font color=#5ea692>Site Changelogs/Updates</font></b></summary>
 
 * By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
 = <font color=#ece218><b>NOTICE</b></font>: Updated to v2.1.0 Alpha 7<br>

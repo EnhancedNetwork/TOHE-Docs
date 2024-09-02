@@ -15,9 +15,9 @@ Other general help related pages can be found at [FAQ](/FAQ.html) (For common qu
 <summary><b><font color=gray>Hot-Keys</font></b></summary>
 Below is a list of Hot-Keys that you can use to make your experience better while playing Town of Host: Enhanced. You can use these Hot-Keys to perform certain actions.<br>
 <details>
-<summary><b><font color=red>Everyone</font></b></summary>
+<summary><b><font color=#996d6d>Everyone</font></b></summary>
 <details>
-<summary><b><font color=orange>Everyone - General</font></b></summary>
+<summary><b><font color=#8a5353>Everyone - General</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Hot-Key</b></td>
@@ -35,7 +35,7 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 </details>
 <br>
 <details>
-<summary><b><font color=orange>Everyone - Mod Only</font></b></summary>
+<summary><b><font color=#8a5353>Everyone - Mod Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Hot-Key</b></td>
@@ -94,10 +94,10 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 </details>
 <br>
 <details>
-<summary><b><font color=red>Host Only</font></b></summary>
+<summary><b><font color=#996d6d>Host Only</font></b></summary>
 <br>
 <details>
-<summary><b><font color=orange>Host Only - General</font></b></summary>
+<summary><b><font color=#8a5353>Host Only - General</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Hot-Key</b></td>
@@ -151,7 +151,7 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 </details>
 <br>
 <details>
-<summary><b><font color=orange>Host Only - Debug</font></b></summary>
+<summary><b><font color=#8a5353>Host Only - Debug</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Hot-Key</b></td>
@@ -223,9 +223,9 @@ Below is a list of commands that you can use to make your experience better whil
 
 Note: Commands that are italicized are considered "essential" and are recommended for all players.<br>
 <details>
-<summary><b><font color=red>Everyone</font></b></summary>
+<summary><b><font color=#996d6d>Everyone</font></b></summary>
 <details>
-<summary><b><font color=orange>Everyone - General</font></b></summary>
+<summary><b><font color=#8a5353>Everyone - General</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -411,7 +411,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 </details>
 <br>
 <details>
-<summary><b><font color=orange>Everyone - Minigames</font></b></summary>
+<summary><b><font color=#8a5353>Everyone - Minigames</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -441,7 +441,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 </details>
 <br>
 <details>
-<summary><b><font color=orange>Everyone - Mod Only</font></b></summary>
+<summary><b><font color=#8a5353>Everyone - Mod Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -463,7 +463,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 </details>
 <br>
 <details>
-<summary><b><font color=orange>Everyone - Role Specific</font></b></summary>
+<summary><b><font color=#8a5353>Everyone - Role Specific</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -526,7 +526,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 </details>
 <br>
 <details>
-<summary><b><font color=red>VIP Only</font></b></summary>
+<summary><b><font color=#996d6d>VIP Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -564,7 +564,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 </details>
 <br>
 <details>
-<summary><b><font color=red>Moderator Only</font></b></summary>
+<summary><b><font color=#996d6d>Moderator Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -610,7 +610,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 </details>
 <br>
 <details>
-<summary><b><font color=red>Host Only</font></b></summary>
+<summary><b><font color=#996d6d>Host Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>

@@ -29,25 +29,25 @@ contributors: false
 </tr>
 
 <tr>
-<td><a href="/Options/Settings/Addons.html" style="color:#ff9ace"><b>📋 Add-ons</b></a></td>
+<td><a href="/options/Settings/Addons.html" style="color:#ff9ace"><b>📋 Add-ons</b></a></td>
 <td>Add-ons that can be added to any role for any player</td>
 <td align="center">74</td>
 </tr>
 
 <tr>
-<td><a href="/Options/Settings/Crewmates.html" style="color:#8cffff"><b>🦸‍♂️ Crewmates</b> </a></td>
+<td><a href="/options/Settings/Crewmates.html" style="color:#8cffff"><b>🦸‍♂️ Crewmates</b> </a></td>
 <td>Play together and win by completing all tasks/voting out all Evil</td>
 <td align="center">89</td>
 </tr>
 
 <tr>
-<td><a href="/Options/Settings/Impostors.html" style="color:red"><b>🦹‍♂️ Impostors</b></a></td>
+<td><a href="/options/Settings/Impostors.html" style="color:red"><b>🦹‍♂️ Impostors</b></a></td>
 <td>Play together and win via killing/voting out all Crewmates/Neutrals</td>
 <td align="center">77</td>
 </tr>
 
 <tr>
-<td><a href="/Options/Settings/Neutrals.html" style="color:#7c8c8d"><b>🕶️ Neutrals</b></a></td>
+<td><a href="/options/Settings/Neutrals.html" style="color:#7c8c8d"><b>🕶️ Neutrals</b></a></td>
 <td>Play alone and win via their own win conditions</td>
 <td align="center">67</td>
 </tr>

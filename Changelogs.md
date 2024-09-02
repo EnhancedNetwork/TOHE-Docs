@@ -65,6 +65,6 @@ contributors: false
 
 * By [**Theta**](https://github.com/ThetaHalo)<br>
 \+ <font color=green><b>NEW</b></font>: Tab Favicon<br>
-\+ <font color=green><b>NEW</b></font>: Factions in Roles.html clickable (This change makes it easier for users on mobile to navigate the website) and these clickable factions should still remain colored. (They may not)<br>
+\+ <font color=green><b>NEW</b></font>: Factions in Roles.html clickable (This change makes it easier for users on mobile to navigate the website) and these clickable factions should still remain colored. (Fixed by Pyro)<br>
 </details>
 </font>

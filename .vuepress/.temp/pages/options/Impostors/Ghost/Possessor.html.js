@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Impostors/Ghost/Possessor.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Impostors/Ghost/Possessor.html\",\"title\":\"Possessor\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Possessor\",\"prev\":\"Minion\",\"next\":\"/options/Settings/Impostors.html\"},\"headers\":[],\"git\":{\"updatedTime\":1724101103000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Impostors/Ghost/Possessor.md\"}")
-export { comp, data }

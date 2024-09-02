@@ -1160,566 +1160,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Escapist",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Escapist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lightning",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Lightning.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mastermind",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Mastermind.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Miner",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Miner.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Puppeteer",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Puppeteer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "RiftMaker",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/RiftMaker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Scavenger",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Scavenger.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Shapemaster",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Shapemaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Soul Catcher",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/SoulCatcher.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Swooper",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Swooper.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Trickster",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Trickster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Undertaker",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Undertaker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vampire",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Vampire.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vampiress",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Vampiress.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Warlock",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Warlock.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Wildling",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/Wildling.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Doll Master",
-    "headers": [],
-    "path": "/options/Impostors/Experimental/DollMaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bloodmoon",
-    "headers": [],
-    "path": "/options/Impostors/Ghost/Bloodmoon.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Minion",
-    "headers": [],
-    "path": "/options/Impostors/Ghost/Minion.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Possessor",
-    "headers": [],
-    "path": "/options/Impostors/Ghost/Possessor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Anonymous",
-    "headers": [],
-    "path": "/options/Impostors/Hindering/Anonymous.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Dazzler",
-    "headers": [],
-    "path": "/options/Impostors/Hindering/Dazzler.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Devourer",
-    "headers": [],
-    "path": "/options/Impostors/Hindering/Devourer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Disperser",
-    "headers": [],
-    "path": "/options/Impostors/Hindering/Disperser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Eraser",
-    "headers": [],
-    "path": "/options/Impostors/Hindering/Eraser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Penguin",
-    "headers": [],
-    "path": "/options/Impostors/Hindering/Penguin.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pitfall",
-    "headers": [],
-    "path": "/options/Impostors/Hindering/Pitfall.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Stealth",
-    "headers": [],
-    "path": "/options/Impostors/Hindering/Stealth.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Twister",
-    "headers": [],
-    "path": "/options/Impostors/Hindering/Twister.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Arrogance",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Arrogance.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bard",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Bard.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bomber",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Bomber.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bounty Hunter",
-    "headers": [],
-    "path": "/options/Impostors/Killing/BountyHunter.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Butcher",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Butcher.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Chronomancer",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Chronomancer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Councillor",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Councillor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Cursed Wolf",
-    "headers": [],
-    "path": "/options/Impostors/Killing/CursedWolf.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Deathpact",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Deathpact.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Evil Guesser",
-    "headers": [],
-    "path": "/options/Impostors/Killing/EvilGuesser.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Evil Hacker",
-    "headers": [],
-    "path": "/options/Impostors/Killing/EvilHacker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Evil Tracker",
-    "headers": [],
-    "path": "/options/Impostors/Killing/EvilTracker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Greedy",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Greedy.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hangman",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Hangman.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Inhibitor",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Inhibitor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Instigator",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Instigator.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Killing Machine",
-    "headers": [],
-    "path": "/options/Impostors/Killing/KillingMachine.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Ludopath",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Ludopath.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lurker",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Lurker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mercenary",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Mercenary.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Ninja",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Ninja.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Nuker",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Nuker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Quick Shooter",
-    "headers": [],
-    "path": "/options/Impostors/Killing/QuickShooter.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Saboteur",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Saboteur.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sniper",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Sniper.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Trapster",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Trapster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Underdog",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Underdog.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Witch",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Witch.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "YinYanger",
-    "headers": [],
-    "path": "/options/Impostors/Killing/YinYanger.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Zombie",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Zombie.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Crewpostor",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/Crewpostor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Parasite",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/Parasite.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Refugee",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/Refugee.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Anti Adminer",
-    "headers": [],
-    "path": "/options/Impostors/Support/AntiAdminer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Blackmailer",
-    "headers": [],
-    "path": "/options/Impostors/Support/Blackmailer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Camouflager",
-    "headers": [],
-    "path": "/options/Impostors/Support/Camouflager.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Cleaner",
-    "headers": [],
-    "path": "/options/Impostors/Support/Cleaner.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Consigliere",
-    "headers": [],
-    "path": "/options/Impostors/Support/Consigliere.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Double Agent",
-    "headers": [],
-    "path": "/options/Impostors/Support/DoubleAgent.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Fireworker",
-    "headers": [],
-    "path": "/options/Impostors/Support/Fireworker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Gangster",
-    "headers": [],
-    "path": "/options/Impostors/Support/Gangster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Godfather",
-    "headers": [],
-    "path": "/options/Impostors/Support/Godfather.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Kamikaze",
-    "headers": [],
-    "path": "/options/Impostors/Support/Kamikaze.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Morphling",
-    "headers": [],
-    "path": "/options/Impostors/Support/Morphling.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Nemesis",
-    "headers": [],
-    "path": "/options/Impostors/Support/Nemesis.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Time Thief",
-    "headers": [],
-    "path": "/options/Impostors/Support/TimeThief.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vindicator",
-    "headers": [],
-    "path": "/options/Impostors/Support/Vindicator.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Visionary",
-    "headers": [],
-    "path": "/options/Impostors/Support/Visionary.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Impostor",
-    "headers": [],
-    "path": "/options/Impostors/Vanilla/Impostor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Phantom",
-    "headers": [],
-    "path": "/options/Impostors/Vanilla/Phantom.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Shapeshifter",
-    "headers": [],
-    "path": "/options/Impostors/Vanilla/Shapeshifter.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Addict",
     "headers": [],
     "path": "/options/Crewmates/Basic/Addict.html",
@@ -2224,6 +1664,118 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Escapist",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Escapist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lightning",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Lightning.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mastermind",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Mastermind.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Miner",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Miner.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Puppeteer",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Puppeteer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "RiftMaker",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/RiftMaker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Scavenger",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Scavenger.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Shapemaster",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Shapemaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Soul Catcher",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/SoulCatcher.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Swooper",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Swooper.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Trickster",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Trickster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Undertaker",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Undertaker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vampire",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Vampire.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vampiress",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Vampiress.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Warlock",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Warlock.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Wildling",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/Wildling.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Crewmate",
     "headers": [],
     "path": "/options/Crewmates/Vanilla/Crewmate.html",
@@ -2262,6 +1814,454 @@ export const searchIndex = [
     "title": "Tracker",
     "headers": [],
     "path": "/options/Crewmates/Vanilla/Tracker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Doll Master",
+    "headers": [],
+    "path": "/options/Impostors/Experimental/DollMaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bloodmoon",
+    "headers": [],
+    "path": "/options/Impostors/Ghost/Bloodmoon.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Minion",
+    "headers": [],
+    "path": "/options/Impostors/Ghost/Minion.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Possessor",
+    "headers": [],
+    "path": "/options/Impostors/Ghost/Possessor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Anonymous",
+    "headers": [],
+    "path": "/options/Impostors/Hindering/Anonymous.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Dazzler",
+    "headers": [],
+    "path": "/options/Impostors/Hindering/Dazzler.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Devourer",
+    "headers": [],
+    "path": "/options/Impostors/Hindering/Devourer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Disperser",
+    "headers": [],
+    "path": "/options/Impostors/Hindering/Disperser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Eraser",
+    "headers": [],
+    "path": "/options/Impostors/Hindering/Eraser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Penguin",
+    "headers": [],
+    "path": "/options/Impostors/Hindering/Penguin.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Pitfall",
+    "headers": [],
+    "path": "/options/Impostors/Hindering/Pitfall.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Stealth",
+    "headers": [],
+    "path": "/options/Impostors/Hindering/Stealth.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Twister",
+    "headers": [],
+    "path": "/options/Impostors/Hindering/Twister.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Arrogance",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Arrogance.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bard",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Bard.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bomber",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Bomber.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bounty Hunter",
+    "headers": [],
+    "path": "/options/Impostors/Killing/BountyHunter.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Butcher",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Butcher.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Chronomancer",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Chronomancer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Councillor",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Councillor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Cursed Wolf",
+    "headers": [],
+    "path": "/options/Impostors/Killing/CursedWolf.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Deathpact",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Deathpact.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Evil Guesser",
+    "headers": [],
+    "path": "/options/Impostors/Killing/EvilGuesser.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Evil Hacker",
+    "headers": [],
+    "path": "/options/Impostors/Killing/EvilHacker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Evil Tracker",
+    "headers": [],
+    "path": "/options/Impostors/Killing/EvilTracker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Greedy",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Greedy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hangman",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Hangman.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Inhibitor",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Inhibitor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Instigator",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Instigator.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Killing Machine",
+    "headers": [],
+    "path": "/options/Impostors/Killing/KillingMachine.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Ludopath",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Ludopath.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lurker",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Lurker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mercenary",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Mercenary.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Ninja",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Ninja.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Nuker",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Nuker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Quick Shooter",
+    "headers": [],
+    "path": "/options/Impostors/Killing/QuickShooter.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Saboteur",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Saboteur.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sniper",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Sniper.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Trapster",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Trapster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Underdog",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Underdog.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Witch",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Witch.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "YinYanger",
+    "headers": [],
+    "path": "/options/Impostors/Killing/YinYanger.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Zombie",
+    "headers": [],
+    "path": "/options/Impostors/Killing/Zombie.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Crewpostor",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/Crewpostor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Parasite",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/Parasite.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Refugee",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/Refugee.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Anti Adminer",
+    "headers": [],
+    "path": "/options/Impostors/Support/AntiAdminer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Blackmailer",
+    "headers": [],
+    "path": "/options/Impostors/Support/Blackmailer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Camouflager",
+    "headers": [],
+    "path": "/options/Impostors/Support/Camouflager.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Cleaner",
+    "headers": [],
+    "path": "/options/Impostors/Support/Cleaner.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Consigliere",
+    "headers": [],
+    "path": "/options/Impostors/Support/Consigliere.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Double Agent",
+    "headers": [],
+    "path": "/options/Impostors/Support/DoubleAgent.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Fireworker",
+    "headers": [],
+    "path": "/options/Impostors/Support/Fireworker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Gangster",
+    "headers": [],
+    "path": "/options/Impostors/Support/Gangster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Godfather",
+    "headers": [],
+    "path": "/options/Impostors/Support/Godfather.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Kamikaze",
+    "headers": [],
+    "path": "/options/Impostors/Support/Kamikaze.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Morphling",
+    "headers": [],
+    "path": "/options/Impostors/Support/Morphling.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Nemesis",
+    "headers": [],
+    "path": "/options/Impostors/Support/Nemesis.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Time Thief",
+    "headers": [],
+    "path": "/options/Impostors/Support/TimeThief.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vindicator",
+    "headers": [],
+    "path": "/options/Impostors/Support/Vindicator.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Visionary",
+    "headers": [],
+    "path": "/options/Impostors/Support/Visionary.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Impostor",
+    "headers": [],
+    "path": "/options/Impostors/Vanilla/Impostor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Phantom",
+    "headers": [],
+    "path": "/options/Impostors/Vanilla/Phantom.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Shapeshifter",
+    "headers": [],
+    "path": "/options/Impostors/Vanilla/Shapeshifter.html",
     "pathLocale": "/",
     "extraFields": []
   },

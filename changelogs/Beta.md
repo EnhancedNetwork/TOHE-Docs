@@ -11,7 +11,7 @@ sidebar:
 ---
 
 ## <font size=5em><b>All Beta Releases/Changelogs:</b></font><br>
-To access Beta Builds, visit the [TOH: Enhanced Discord](https://discord.gg/tohe) and visit #beta-builds, then download the latest dll!
+To access Beta Builds, visit the [Discord Server](https://discord.gg/ten) of The Enhanced Network and visit #beta-builds, then download the latest dll!
 
 ---
 <font size=4em>
@@ -523,11 +523,11 @@ To access Beta Builds, visit the [TOH: Enhanced Discord](https://discord.gg/tohe
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Added dlekS ehT in Map Picker Menu (Thanks Submerged sourse code)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved role spawns (Ported from TOHE+) (Now for each role you can set the chance of appearance from 0% to 100%)<br>
-\+ <font color=green><b>NEW</b></font>: Added setting: "Dark Theme" (Ported From TOHE+) (Works only for modded players)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved role spawns (Ported from EHR) (Now for each role you can set the chance of appearance from 0% to 100%)<br>
+\+ <font color=green><b>NEW</b></font>: Added setting: "Dark Theme" (Ported From EHR) (Works only for modded players)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Add-ons display was recoded<br>
 \+ <font color=green><b>NEW</b></font>: New setting: Impostors can see each other's Add-ons<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Role Summary (Ported From TOHE+)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Role Summary (Ported From EHR)<br>
 \- <font color=red><b>REMOVED</b></font>: Client Setting "Old Role Summary" removed<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when "FixedUpdate" for roles working in lobby<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed bug when settings sometimes are not loading<br>
@@ -698,7 +698,7 @@ To access Beta Builds, visit the [TOH: Enhanced Discord](https://discord.gg/tohe
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \- <font color=red><b>REMOVED</b></font>: Repairman Add-on has been removed <br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: FixedUpdate in code now work async | May improve performance on slower devices and also idea was taken from TOHE+ <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: FixedUpdate in code now work async | May improve performance on slower devices and also idea was taken from EHR <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Black screen (Anti Blackout) protection system has been improved | If result voting show as tie, then after meeting the result voting will be displayed above the player's name <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Disperser teleported players when they were in vent <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Huntsman not colored names targets at the beginning of the game (for vanilla) <br>
@@ -787,7 +787,7 @@ v1.5.1 Beta 1(Pre-Release)
 + By [**Drakos**](https://github.com/Ultradragon005) <br>
 \+ <font color=green><b>NEW</b></font>: Added Add-On: Susceptible <br>
 \+ <font color=green><b>NEW</b></font>: Added Add-On: Tired <br>
-\+ <font color=green><b>NEW</b></font>: Added New Alchemist Setting: Potion Of Speed (Ported from TOHE+)
+\+ <font color=green><b>NEW</b></font>: Added New Alchemist Setting: Potion Of Speed (Ported from EHR)
 
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
 \+ <font color=green><b>NEW</b></font>: Added option to hide 'Host♥' text <br>
@@ -906,7 +906,7 @@ v1.5.1 Beta 1(Pre-Release)
 \+ <font color=green><b>NEW</b></font>: Crewmate Support role: [Keeper](/options/Crewmates/Support/Keeper.html)<br>
 \+ <font color=green><b>NEW</b></font>: Crewmate Basic role: [Guess Master](/options/Crewmates/Basic/GuessMaster.html)<br>
 \+ <font color=green><b>NEW</b></font>: Harmful Add-on: [Mundane](/options/Addons/Harmful/Mundane.html)<br>
-\+ <font color=green><b>NEW</b></font>: Ported FFA from TOHE+ (Thanks gurge44) (Fixed random spawns, setting vent when 2 players alive, setting cant vent when kill cd is up and many other miscellaneous bugs in FFA mode)<br>
+\+ <font color=green><b>NEW</b></font>: Ported FFA from EHR (Thanks gurge44) (Fixed random spawns, setting vent when 2 players alive, setting cant vent when kill cd is up and many other miscellaneous bugs in FFA mode)<br>
 
 * By [**Pietro**](https://github.com/Pietrodjaowjao)<br>
 \+ <font color=green><b>NEW</b></font>: Added new feature: Update Button (Heavy WIP)<br>

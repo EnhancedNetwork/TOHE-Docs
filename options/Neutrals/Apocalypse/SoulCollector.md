@@ -15,11 +15,11 @@ Once you collect the configurable amount of souls, you become Death. If the gain
 * Required number of souls
   * Set the amount of correct predictions the Soul Collector needs to win
 * Gain a passive soul each round
-  * <font color=green>ON</font>: the Soul Catcher can predict their own death
-  * <font color=red>OFF</font>: the Soul Catcher cannot predict if they die
-* Can collect their own soul
-  * <font color=green>ON</font>: the Soul Catcher can predict their own death
-  * <font color=red>OFF</font>: the Soul Catcher cannot predict if they die
+  * <font color=green>ON</font>: the Soul Catcher can gain a passive soul each round
+  * <font color=red>OFF</font>: the Soul Catcher cannot gain a passive soul each round
+* Soul Collector can vent
+  * <font color=green>ON</font>: the Soul Collector can vent
+  * <font color=red>OFF</font>: the Soul Collector cannot vent
 * Increased meeting time when Death exists
   * Set the amount of time that the meeting is extended by when Death exists
 

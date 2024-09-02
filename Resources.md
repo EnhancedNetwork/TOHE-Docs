@@ -5,12 +5,15 @@ contributors: false
 ---
 
 # Helpful Resources
-Here are some Resources that may help you understand some things relating to the mod. Such as Hot-Keys, Commands, Template/Preset Help, and other Useful Resources.
+
+Here are some Resources that may help you understand some things relating to the mod. Such as Hot-Keys, Commands, Template/Preset Help, and other Useful Guides/Information.
+
+Other general help related pages can be found at [FAQ](/FAQ.html) (For common questions) as well as [Install](/Install.html) (For installation issues/questions).
 
 <font size=3em>
 <details>
 <summary><b><font color=gray>Hot-Keys</font></b></summary>
-Below is a list of Hot-Keys that you can use to make your experience better while playing TOHE. You can use these Hot-Keys to perform certain actions.<br>
+Below is a list of Hot-Keys that you can use to make your experience better while playing Town of Host: Enhanced. You can use these Hot-Keys to perform certain actions.<br>
 <details>
 <summary><b><font color=red>Everyone</font></b></summary>
 <details>
@@ -26,7 +29,7 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 </tr>
 <tr>
 <td><kbd>LeftAlt</kbd> + <kbd>F4</kbd></td>
-<td>Use the Secret TOHE Exclusive Role.</td>
+<td>Use the Secret Town of Host: Enhanced Exclusive Role.</td>
 </tr>
 </table>
 </details>
@@ -216,7 +219,7 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 <details>
 <summary><b><font color=gray>Chat Commands</font></b></summary>
 
-Below is a list of commands that you can use to make your experience better while playing TOHE. You can use these commands in the chat box to perform certain actions.<br><br>
+Below is a list of commands that you can use to make your experience better while playing Town of Host: Enhanced. You can use these commands in the chat box to perform certain actions.<br><br>
 
 Note: Commands that are italicized are considered "essential" and are recommended for all players.<br>
 <details>
@@ -468,7 +471,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 </tr>
 <tr>
 <td><b><i>/id</i></b></td>
-<td><b>What Command does</b></td>
+<td><b>Show all IDs of players in the lobby.</b></td>
 </tr>
 <tr>
 <td>/answer [ⓐ/ⓑ/ⓒ]</td>
@@ -800,7 +803,7 @@ Versus what the edited `english.dat` I have looks like.<br>
 
 Just mess around a little bit, and have fun! Make sure you copy your template as a backup before you try messing with it again, or messing with the mod itself.<br>
 
-For some member submitted translations (not yet supported by TOHE/Base game Among Us), browse [here](/Translations.html)<br>
+For some member submitted translations (not yet supported by Town of Host: Enhanced/Base game Among Us), browse [here](/Translations.html).<br>
 
 > From + Compiling: NotPyro404
 </details>
@@ -826,7 +829,7 @@ For some member submitted translations (not yet supported by TOHE/Base game Amon
 - `{{RoomCode}}` - Displays the Room Code.
 - `{{PlayerName}}` - Displays the players username. (The one reading the variable)
 - `{{HostName}}` - Displays the hosts username.
-- `{{ModVersion}}` - Displays the current version of TOHE.
+- `{{ModVersion}}` - Displays the current version of Town of Host: Enhanced.
 - `{{Map}}` - Displays the Map that is going to be played.
 
 > From: The Enhanced Network + Compiling: NotPyro404
@@ -870,7 +873,7 @@ Here's a Doc covering Fonts & Symbols that you can use while creating Templates!
 <details>
 <summary><b><font color=gray>Original Role Colors (Hex Codes)</font></b></summary>
 
-You can find the <i>original</i> Hex Codes of TOHE Roles [Here](https://github.com/0xDrMoe/TownofHost-Enhanced/blob/main/Resources/roleColor.json).<br><br>
+You can find the <i>original</i> Hex Codes of Town of Host: Enhanced Roles [Here](https://github.com/0xDrMoe/TownofHost-Enhanced/blob/main/Resources/roleColor.json).<br><br>
 
 > From: The Enhanced Network
 </details>
@@ -878,11 +881,20 @@ You can find the <i>original</i> Hex Codes of TOHE Roles [Here](https://github.c
 <details>
 <summary><b><font color=gray>Presets Info</font></b></summary>
 
-You can save your favorite settings as presets and load them later. You can also download presets shared by others. If you want to use a preset, make sure the file is renamed to `Options.json` before using if, it isn't already. (If you do not have `File name extensions` marked on the `View` Tab, you only need to rename it to `Options`.)
+You can save your favorite settings as presets and load them later. You can also download presets shared by others. If you want to use a preset, make sure the file is renamed to `Options.json` before using if, it isn't already. (If you do not have `File name extensions` marked on the `View` Tab, you only need to rename it to `Options`.)<br>
 
-Note: You have to put the file in the following directory: `.\Among Us\TOHE-DATA\SaveData` for it to work. (If you cannot locate `TOHE-DATA\SaveData`, try enabling `Hidden items` on the `View` Tab!)
+Note: You have to put the file in the following directory: `.\Among Us\TOHE-DATA\SaveData` for it to work. (If you cannot locate `TOHE-DATA\SaveData`, try enabling `Hidden items` on the `View` Tab!)<br>
 
-For some member submitted presets, browse [here](/Presets.html)
+For some member submitted presets, browse [here](/Presets.html).<br>
+
+> From + Compiling: NotPyro404
+</details>
+<br>
+<details>
+<summary><b><font color=gray>Member Submitted Presets + More</font></b></summary>
+
+For Member Submitted Presets, visit the [Presets](/Presets.html) page.
+For Member Submitted Translations, visit the [Custom Translations](/Translations.html) page.
 
 > From + Compiling: NotPyro404
 </details>
@@ -918,7 +930,7 @@ Player leaves the Game (If no cause of death was established, does not always di
 - Fall<br>
 Ladders on Airship/Fungle (Fall From Ladders setting)<br><br>
 
-- Guessed
+- Guessed<br>
 Evil Guesser (If a player was guessed or if a player misguessed)<br>
 Nice Guesser (If a player was guessed or if a player misguessed)<br>
 Doomsayer (If a player was guessed or if a player misguessed)<br>
@@ -959,7 +971,7 @@ Taskinator (Given to player if they do a task that the Taskinator did)
 Terrorist (Given to all players when Terrorist meets their win-condition)<br>
 Burst (Given to Killer if they killed a player with Burst & failed to stay in a vent when the detonation goes off)<br><br>
 
-- Misfire
+- Misfire<br>
 Deceiver (Whoever Deceiver’s ability is used on)<br>
 Reverie (If Cooldown increases too much)<br>
 Sheriff (If Sheriff tries to kill player with role they aren’t allowed to kill)<br>
@@ -968,13 +980,13 @@ Hater (Hater kills target when misfire setting)<br>
 Pursuer (When whoever Pursuer blanks attempts to kill)<br>
 Vengeful Romantic (If killed someone other than partner’s killer)<br><br>
 
-- Burned
+- Burned<br>
 Arsonist (Given to players that have been doused when the Arsonist vented & killed)<br><br>
 
 - Sniped<br>
 Sniper (Given to players that have been killed by the Sniper)<br><br>
 
-- Revenge
+- Revenge<br>
 Avenger (Happens to a random player when player with Avenger is killed)<br>
 Randomizer (Happens by chance)<br>
 Retributionist (Whoever Retributionist kills using their '/rv' command)<br>
@@ -1177,6 +1189,14 @@ Bug (This Death Reason occured awhile ago due to bugs, but has since been patche
 <tr>
 <td><font color=#e5f6b4>⦿</font></td>
 <td>Used by the <font color=#e5f6b4>Plaguebearer</font> to mark who they have plagued.</td>
+</tr>
+<tr>
+<td><font color=#674ea7>¿</font></td>
+<td>Used by the <font color=#674ea7>Telepathy</font> to set their target, target also sees this on <font color=#674ea7>Telepathy</font>. (Possibly not TOHE Role, sorry)</td>
+</tr>
+<tr>
+<td><font color=#d4703e>⌘</font></td>
+<td> Visible on the <font color=#d4703e>Messenger</font> about to speak. (Possibly not TOHE Role, sorry)</td>
 </tr>
 </table>
 

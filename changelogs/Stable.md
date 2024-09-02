@@ -11,12 +11,31 @@ sidebar:
 ---
 
 ## <font size=5em><b>All Stable Releases/Changelogs:</b></font><br>
-To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0xDrMoe/TownofHost-Enhanced) and download the latest release!
+To access Stable Builds, visit the [Discord Server](https://discord.gg/ten) of The Enhanced Network and download the latest release!
 
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.0.2</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.0.3</font></b></summary>
+::: danger Caution
+= <font color=#de6707><b>KNOWN BUG</b></font>: (Maybe fixed now) Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, & Imitator are working, but are unstable<br>
+:::
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the host changed his nickname to his own when he was killed by Doppelganger (hopefully) <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when F1 shows role settings<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Veteran kills Taskinator<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed (hopefully) the last color question for Quizmaster<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Killing Machine can call a meeting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Jailed message not shown<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Set 300 CD for Nemesis if they cannot use the kill button<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed warning message about Api Error Connection<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.0.2</font></b></summary>
 ::: danger Caution
 = <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, & Imitator are working, but are unstable<br>
@@ -87,7 +106,7 @@ To access Stable Builds, visit the [TOH: Enhanced Git-Hub](https://github.com/0x
 = <font color=#e08709><b>IMPROVEMENT</b></font>: [Councillor](./options/Impostors/Killing/Councillor.html) (By [**NikoCat223**](https://github.com/NikoCat233))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: [Plague Bearer](/options/Neutrals/Killing/Plaguebearer.html) (By [**TommyXL**](https://github.com/Tommy-XL))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: [Schrodinger's Cat](/options/Neutrals/Benign/SchrodingersCat.html) (By [**TommyXL**](https://github.com/Tommy-XL))<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: [Tricky](/options/Addons/Impostor/Tricky.md) (By [**Drakos**](https://github.com/Ultradragon005))<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: [Tricky](/options/Addons/Impostor/Tricky.html) (By [**Drakos**](https://github.com/Ultradragon005))<br>
 
 * <font size=3em><font color=#12edaf><b>GHOST ROLES RETURNED</b></font></font><br>
 \+ <font color=#12edaf><b>RETURNED</b></font>: [Ghastly](/options/Crewmates/Ghost/Ghastly.html) (Crewmate Ghost - By [**Drakos**](https://github.com/Ultradragon005))<br>
@@ -245,9 +264,9 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 
 * <font size=3em><font color=green><b>NEW ROLES</b></font></font><br>
 \+ <font color=green><b>NEW</b></font>: Rift Maker (Support Impostor - By: ryuk) <br>
-\+ <font color=green><b>NEW</b></font>: Penguin (Hindering Impostor - Coded by dev TOH and Ported from TOHE+ - By: Drakos) <br>
-\+ <font color=green><b>NEW</b></font>: Stealth (Hindering Impostor - Coded by dev TOH and Ported from TOHE+ - By: Drakos) <br>
-\+ <font color=green><b>NEW</b></font>: Plague Scientist (Neutral Killer - Coded by dev TOH and Ported from TOHE+ - By: Drakos) <br>
+\+ <font color=green><b>NEW</b></font>: Penguin (Hindering Impostor - Coded by dev TOH and Ported from EHR - By: Drakos) <br>
+\+ <font color=green><b>NEW</b></font>: Stealth (Hindering Impostor - Coded by dev TOH and Ported from EHR - By: Drakos) <br>
+\+ <font color=green><b>NEW</b></font>: Plague Scientist (Neutral Killer - Coded by dev TOH and Ported from EHR - By: Drakos) <br>
 \+ <font color=green><b>NEW</b></font>: Schrodinger's Cat (Neutral Benign - Coded by dev TOH - By: ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: Quizmaster (Experimental role - By: Furo) <br>
 
@@ -289,7 +308,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 \+ <font color=green><b>NEW</b></font>: Players can use the «/rn» command (By: Marg) <br>
 \+ <font color=green><b>NEW</b></font>: Copycat: «Can copy team changing addon» (By: ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: Fortune Teller: «Show random active roles in Fortune Teller hints» (By: ryuk) <br>
-\+ <font color=green><b>NEW</b></font>: Alchemist: «Potion Of Speed» (Ported from TOHE+ - By: Drakos) <br>
+\+ <font color=green><b>NEW</b></font>: Alchemist: «Potion Of Speed» (Ported from EHR - By: Drakos) <br>
 \+ <font color=green><b>NEW</b></font>: Doppelganger: «Can vent» and «Has imp vision» (By: ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: Bandit: «Steal cooldown» (different from kill cooldown - By: ryuk) <br>
 
@@ -389,7 +408,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 \+ <font color=green><b>NEW</b></font>: Silent (Helpful Addon - By: NikoCat223) <br>
 \+ <font color=green><b>NEW</b></font>: Mundane (Harmful Addon - By: ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: dlekS ehT !paM weN (Thanks sleepyut (@Galster-dev on GitHub) and TommyXL) <br>
-\+ <font color=green><b>NEW</b></font>: New Gamemode: FFA from TOHE+ (By: ryuk, Special Thanks: Gurge44) <br>
+\+ <font color=green><b>NEW</b></font>: New Gamemode: FFA from EHR (By: ryuk, Special Thanks: Gurge44) <br>
 \+ <font color=green><b>NEW</b></font>: Added chat commands /tpin, /tpout - TP players in and out of ship in lobby (By: ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: New Setting: Prevent /quit due to malicious use (By: Furo) <br>
 \+ <font color=green><b>NEW</b></font>: New Setting: Change Decontamination Time (Very Cool! Try this! By: TommyXL) <br>
@@ -515,7 +534,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 
 * <font size=3em><font color=green><b>ADDITIONS</b></font></font><br>
 \+ <font color=green><b>NEW</b></font>: Ported President (from SLE by ryuk, originally coded by SolarFlare) <br>
-\+ <font color=green><b>NEW</b></font>: Ported Spy (from TOHE+ by LezaiYa, Originally coded by Gurge44) <br>
+\+ <font color=green><b>NEW</b></font>: Ported Spy (from EHR by LezaiYa, Originally coded by Gurge44) <br>
 \+ <font color=green><b>NEW</b></font>: Added double click to kill setting for infectious (by ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: Added 2 lobby games /rps and /coinflip for ppl who die to early (lol) (by ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: Ported Rebound from SLE (by ryuk) (originally coded by SolarFlare) <br>

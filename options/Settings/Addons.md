@@ -16,43 +16,43 @@ next: /Roles.html
 </tr>
 
 <tr>
-<td><font color=#4d223a><b>🚧 Experimental</b></font></td>
+<td><a href="#experimental" style="color:#4d223a"><b>🚧 Experimental</b></a></td>
 <td align="center">2</td>
 </tr>
 
 <tr>
-<td><font color=red><b>🤕 Harmful</b></font></td>
+<td><a href="#guesser" style="color:#d6b149"><b>❔ Guesser</b></a></td>
+<td align="center">4</td>
+</tr>
+
+<tr>
+<td><a href="#harmful" style="color:red"><b>🤕 Harmful</b></a></td>
 <td align="center">12</td>
 </tr>
 
 <tr>
-<td><font color=#00ff00><b>🤑 Helpful</b></font></td>
-<td align="center">22</td>
+<td><a href="#helpful" style="color:#00ff00"><b>🤑 Helpful</b></a></td>
+<td align="center">23</td>
 </tr>
 
 <tr>
-<td><font color=red><b>🦹 Impostor Only</b></font></td>
+<td><a href="#impostor-only" style="color:red"><b>🦹 Impostor Only</b></a></td>
 <td align="center">8</td>
 </tr>
 
 <tr>
-<td><font color=#a83295><b>⚙️ Miscellaneous</b></font></td>
+<td><a href="#miscellaneous" style="color=#a83295"><b>⚙️ Miscellaneous</b></font></td>
 <td align="center">6</td>
 </tr>
 
 <tr>
-<td><font color=#32a87f><b>😵‍💫 Mixed</b></font></td>
-<td align="center">13</td>
+<td><a href="#mixed" style="color=#32a87f"><b>😵‍💫 Mixed</b></font></td>
+<td align="center">12</td>
 </tr>
 
 <tr>
-<td><font color=#32a87f><b>🗃️ Other (Site Only)</b></font></td>
-<td align="center">3</td>
-</tr>
-
-<tr>
-<td><font color=#ff9ace><b>🟰 Total:</b></font></td>
-<td align="center"><b>73</b></td>
+<td><font color=#ff9ace><b>📊 Total:</b></font></td>
+<td align="center"><b>74</b></td>
 </tr>
 
 </table>
@@ -62,6 +62,10 @@ next: /Roles.html
 ---
 [Glow](/options/Addons/Experimental/Glow.html) | [Swift](/options/Addons/Experimental/Swift.html)
 
+### <font color=#d6b149><b>Guesser</b></font>
+---
+[Double Shot](/options/Addons/Guesser/DoubleShot.html) | [Guesser](/options/Addons/Guesser/Guesser.html) | [Onbound](/options/Addons/Guesser/Onbound.html) | [Rebound](/options/Addons/Guesser/Rebound.html)
+
 ### <font color=#ff0000><b>Harmful</b></font>
 ---
 [Disregarded](/options/Addons/Harmful/Disregarded.html) | [Fool](/options/Addons/Harmful/Fool.html) | [Fragile](/options/Addons/Harmful/Fragile.html) | [Hurried](/options/Addons/Harmful/Hurried.html) | [Influenced](/options/Addons/Harmful/Influenced.html) | [Mundane](/options/Addons/Harmful/Mundane.html) | [Oblivious](/options/Addons/Harmful/Oblivious.html) | [Rascal](/options/Addons/Harmful/Rascal.html) | [Statue](/options/Addons/Harmful/Statue.html) | [Tired](/options/Addons/Harmful/Tired.html) | [Unlucky](/options/Addons/Harmful/Unlucky.html) | [Void Ballot](/options/Addons/Harmful/VoidBallot.html)
@@ -69,7 +73,7 @@ next: /Roles.html
 
 ### <font color=#00ff00><b>Helpful</b></font>
 ---
-[Autopsy](/options/Addons/Helpful/Autopsy.html) | [Bait](/options/Addons/Helpful/Bait.html) | [Beartrap](/options/Addons/Helpful/Beartrap.html) | [Bewilder](/options/Addons/Helpful/Bewilder.html) | [Burst](/options/Addons/Helpful/Burst.html) | [Cyber](/options/Addons/Helpful/Cyber.html) | [Flash](/options/Addons/Helpful/Flash.html) | [Lazy](/options/Addons/Helpful/Lazy.html) | [Loyal](/options/Addons/Helpful/Loyal.html) | [Lucky](/options/Addons/Helpful/Lucky.html) | [Necroview](/options/Addons/Helpful/Necroview.html) | [Nimble](/options/Addons/Helpful/Nimble.html) | [Overclocked](/options/Addons/Helpful/Overclocked.html) | [Seer](/options/Addons/Helpful/Seer.html) | [Silent](/options/Addons/Helpful/Silent.html) | [Sleuth](/options/Addons/Helpful/Sleuth.html) | [Spurt](/options/Addons/Helpful/Spurt.html) | [Tiebreaker](/options/Addons/Helpful/Tiebreaker.html) | [Torch](/options/Addons/Helpful/Torch.html) | [Watcher](/options/Addons/Helpful/Watcher.html)
+[Autopsy](/options/Addons/Helpful/Autopsy.html) | [Bait](/options/Addons/Helpful/Bait.html) | [Beartrap](/options/Addons/Helpful/Beartrap.html) | [Bewilder](/options/Addons/Helpful/Bewilder.html) | [Burst](/options/Addons/Helpful/Burst.html) | [Cyber](/options/Addons/Helpful/Cyber.html) | [Evader](/options/Addons/Helpful/Evader.html) | [Flash](/options/Addons/Helpful/Flash.html) | [Lazy](/options/Addons/Helpful/Lazy.html) | [Loyal](/options/Addons/Helpful/Loyal.html) | [Lucky](/options/Addons/Helpful/Lucky.html) | [Necroview](/options/Addons/Helpful/Necroview.html) | [Nimble](/options/Addons/Helpful/Nimble.html) | [Overclocked](/options/Addons/Helpful/Overclocked.html) | [Radar](/options/Addons/Helpful/Radar.html) | [Rebirth](/options/Addons/Helpful/Rebirth.html) | [Seer](/options/Addons/Helpful/Seer.html) | [Silent](/options/Addons/Helpful/Silent.html) | [Sleuth](/options/Addons/Helpful/Sleuth.html) | [Spurt](/options/Addons/Helpful/Spurt.html) | [Tiebreaker](/options/Addons/Helpful/Tiebreaker.html) | [Torch](/options/Addons/Helpful/Torch.html) | [Watcher](/options/Addons/Helpful/Watcher.html)
 <br>
 
 ### <font color=red><b>Impostor</b></font>
@@ -83,11 +87,7 @@ next: /Roles.html
 
 ### <font color=#32a87f><b>Mixed</b></font>
 ---
-[Antidote](/options/Addons/Mixed/Antidote.html) | [Avenger](/options/Addons/Mixed/Avenger.html) | [Aware](/options/Addons/Mixed/Aware.html) | [Bloodthirst](/options/Addons/Mixed/Bloodthirst.html) | [Diseased](/options/Addons/Mixed/Diseased.html) | [Ghoul](/options/Addons/Mixed/Ghoul.html) | [Gravestone](/options/Addons/Mixed/Gravestone.html) | [Guesser](/options/Addons/Mixed/Guesser.html) | [OIIAI](/options/Addons/Mixed/OIIAI.html) | [Paranoia](/options/Addons/Mixed/Paranoia.html) | [Stubborn](/options/Addons/Mixed/Stubborn.html) | [Susceptible](/options/Addons/Mixed/Susceptible.html)
-
-### <font color=#ff9ace><b>Other</b></font>
----
-[Double Shot](/options/Addons/Other/DoubleShot.html) | [Onbound](/options/Addons/Other/Onbound.html) | [Rebound](/options/Addons/Other/Rebound.html)
+[Antidote](/options/Addons/Mixed/Antidote.html) | [Avenger](/options/Addons/Mixed/Avenger.html) | [Aware](/options/Addons/Mixed/Aware.html) | [Bloodthirst](/options/Addons/Mixed/Bloodthirst.html) | [Diseased](/options/Addons/Mixed/Diseased.html) | [Ghoul](/options/Addons/Mixed/Ghoul.html) | [Gravestone](/options/Addons/Mixed/Gravestone.html) | [OIIAI](/options/Addons/Mixed/OIIAI.html) | [Paranoia](/options/Addons/Mixed/Paranoia.html) | [Stubborn](/options/Addons/Mixed/Stubborn.html) | [Susceptible](/options/Addons/Mixed/Susceptible.html)
 
 <br>
 

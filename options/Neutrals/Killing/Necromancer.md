@@ -21,4 +21,4 @@ Additionally, when someone tries to kill you, the kill will be blocked and you w
   * <font color=green>ON</font>: the Necromancer can see as far as an <font color=red>Impostor</font> can
   * <font color=red>OFF</font>: the Necromancer will have <font color=#8cffff>Crewmate</font> Vision
 
-> From: TOHE+
+> From: EHR

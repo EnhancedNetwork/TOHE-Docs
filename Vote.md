@@ -7,14 +7,14 @@ navbar: false
 sidebar:
     - { text: Visit our Store, link: https://weareten.ca/ }
     - { text: Check out our Website, link: https://weareten.ca/ }
-    - { text: Join our Discord, link: https://discord.gg/tohe }
+    - { text: Join our Discord, link: https://discord.gg/ten }
     - { text: Support Us!, link: https://weareten.ca/TOHE/ }
 contributors: false
 ---
 
 # <font color=pink>🗳️ <b>Vote for The Enhanced Network</b></font> <Badge text="Minecraft" type="tip" vertical="middle"/>
 ---
-Vote for The Enhanced Network to get rewards! You can read more about voting below. If you have any questions, feel free to ask in our [Discord](https://discord.gg/tohe)!
+Vote for The Enhanced Network to get rewards! You can read more about voting below. If you have any questions, feel free to ask in our [Discord Server](https://discord.gg/ten)!
 
 ## Vote Links
 
@@ -41,5 +41,5 @@ Vote parties are a way for you to get more rewards for voting! When the server r
 ## Socials
 Support us on other platforms that we are on!
 <center>
-<a href="https://discord.gg/tohe" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>&nbsp; <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank"><img src="https://img.shields.io/badge/Github%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a> <a href="https://weareten.ca/TOHE/" target="_blank"><img src="#"/></a>&nbsp;<a href="https://www.tiktok.com/@TOHEnhanced" target="_blank"><img src="https://img.shields.io/badge/TikTok%20-%231DA1F2.svg?&style=for-the-badge&logo=tiktok&logoColor=white&color=000000"/></a>&nbsp; <a href="https://twitter.com/TOHEnhanced" target="_blank"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2"/></a>&nbsp; <a href="https://www.reddit.com/r/TOHE/" target="_blank"><img src="https://img.shields.io/badge/Reddit%20-%231DA1F2.svg?&style=for-the-badge&logo=reddit&logoColor=white&color=ff4404"/></a>&nbsp; <a href="https://www.youtube.com/@TOHEnhanced" target="_blank"><img src="https://img.shields.io/badge/YouTube%20-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000"/></a>&nbsp; <a href="https://www.instagram.com/tohenhanced/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=F56040"/></a>&nbsp;
+<a href="https://discord.gg/ten" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>&nbsp; <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank"><img src="https://img.shields.io/badge/Github%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>&nbsp; <a href="https://www.tiktok.com/@TOHEnhanced" target="_blank"><img src="https://img.shields.io/badge/TikTok%20-%231DA1F2.svg?&style=for-the-badge&logo=tiktok&logoColor=white&color=000000"/></a>&nbsp; <a href="https://twitter.com/TOHEnhanced" target="_blank"><img src="https://img.shields.io/badge/Twitter%20(X)%20-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white&color=1DA1F2"/></a>&nbsp; <a href="https://www.reddit.com/r/TOHE/" target="_blank"><img src="https://img.shields.io/badge/Reddit%20-%231DA1F2.svg?&style=for-the-badge&logo=reddit&logoColor=white&color=ff4404"/></a>&nbsp; <a href="https://www.youtube.com/@TOHEnhanced" target="_blank"><img src="https://img.shields.io/badge/YouTube%20-%231DA1F2.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000"/></a>&nbsp; <a href="https://www.instagram.com/tohenhanced/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=F56040"/></a>&nbsp;
 </center>

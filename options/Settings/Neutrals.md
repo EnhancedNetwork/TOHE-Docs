@@ -5,7 +5,7 @@ prev: /Roles.html
 next: /Roles.html
 ---
 
-# <font color="#7f8c8d">🥷 <b>Neutral Roles</b></font>
+# <font color="#7f8c8d">🕶️ <b>Neutral Roles</b></font>
 ---
 
 <b>Play for yourself, and eliminate everyone around you. Neutrals can win alone, but they can also win with other players. Their victory conditions are different from other players. Each Neutral player has a unique victory condition.</b><br>
@@ -16,46 +16,46 @@ next: /Roles.html
 </tr>
 
 <tr>
-<td><font color=#cc0044><b>🚨 Apocalypse</b></font></td>
+<td>><a href="#apocalypse" style="color:#cc0044"><b>🚨 Apocalypse</b></a></td>
 <td align="center">4</td>
 </tr>
 
 <tr>
-<td><font color=#046300><b>🕊️ Benign</b></font></td>
+<td><a href="#benign" style="color:#046300"><b>🕊️ Benign</b></a></td>
+<td align="center">12</td>
+</tr>
+
+<tr>
+<td><a href="#chaos" style="color:#d4af37"><b>😈 Chaos</b></a></td>
 <td align="center">13</td>
 </tr>
 
 <tr>
-<td><font color=#d4af37><b>😈 Chaos</b></font></td>
-<td align="center">14</td>
+<td><a href="#evil" style="color:#912900"><b>👹 Evil</b></a></td>
+<td align="center">7</td>
 </tr>
 
 <tr>
-<td><font color=#912900><b>👹 Evil</b></font></td>
-<td align="center">8</td>
-</tr>
-
-<tr>
-<td><font color=#4d3222><b>🚧 Experimental</b></font></td>
+<td><a href="#experimental" style="color:#4d3222"><b>🚧 Experimental</b></a></td>
 <td align="center">3</td>
 </tr>
 
 <tr>
-<td><font color=#b22222><b>🪓 Killing</b></font></td>
-<td align="center">32</td>
+<td><a href="#killing" style="color:#b22222"><b>🪓 Killing</b></a></td>
+<td align="center">28</td>
 </tr>
 
 <tr>
-<td><font color=#7c8c8d><b>🟰 Total:</b></font></td>
-<td align="center"><b>76</b></td>
+<td><font color=#7c8c8d><b>📊 Total:</b></a></td>
+<td align="center"><b>67</b></td>
 </tr>
 
 </table>
 <br>
 
-### <font color=#046300><b>Apocalypse</b></font>
+### <font color=#cc0044><b>Apocalypse</b></font>
 ---
-[Baker](/options/Neutrals/Apocalypse/Baker.html) | [Berserker](/options/Neutrals/Apocalypse/Berserker.html) | [Plaguebearer](/options/Neutrals/Apocalypse/Plaguebearer.html) | [Soul Collector](/options/Neutrals/ApocalypseSoulCollector.html)
+[Baker](/options/Neutrals/Apocalypse/Baker.html) | [Berserker](/options/Neutrals/Apocalypse/Berserker.html) | [Plaguebearer](/options/Neutrals/Apocalypse/Plaguebearer.html) | [Soul Collector](/options/Neutrals/Apocalypse/SoulCollector.html)
 
 ### <font color=#046300><b>Benign</b></font>
 ---
@@ -91,6 +91,10 @@ Below are settings to make the game more balanced based on your lobby's style of
   * Set the minimal amount of <font color=#7f8c8d>Neutral</font> Killing roles allowed in the round
 * Maximum Amount of <font color=#7f8c8d>Neutral</font> Killing roles
   * Set the max amount of Non-<font color=#7f8c8d>Neutral</font> Killing roles allowed in the round
+* Minimum Amount of Apocalypse roles
+  * Set the minimal amount of Apocalypse roles roles allowed in the round
+* Maximum Amount of Apocalypse roles
+  * Set the max amount of Apocalypse roles roles allowed in the round
 * <font color=#7f8c8d>Neutrals</font> win together
   * <font color=green>ON</font>: Certain <font color=#7f8c8d>Neutral</font> Types will win together
     * If a Killing-<font color=#7f8c8d>Neutral</font> wins, all Killing-<font color=#7f8c8d>Neutrals</font> win. If an Evil-<font color=#7f8c8d>Neutral</font> wins, all Evil-<font color=#7f8c8d>Neutrals</font> win

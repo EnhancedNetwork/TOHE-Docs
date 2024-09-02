@@ -11,15 +11,100 @@ sidebar:
 ---
 
 ## <font size=5em><b>All Alpha Releases/Changelogs:</b></font><br>
-To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE/) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester] (Content Creator with your TOHE videos having 600+ views on average).
+To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE/) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester](#) (Content Creator with your Town of Host: Enhanced videos having 600+ views on average).
 
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Alpha 3</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.1.0 Alpha 7</font></b></summary>
+
+* By [**Drakos**](https://github.com/Ultradragon005) + [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Added support role basic changer mid-game<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: More fixes for AntiBlackOut (This will not completely fix black screen issues, but the more players there are in the game, the less chance of black screen occurrences (To do this, we use revives and base role changes during exile, so that dead players will be alive for a couple of seconds, but will become dead again))<br>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: Neutral Chaos Role: [Troller](/options/Chaos/Neutral/Troller.html) (Idea by: `@dx7405`)<br>
+\+ <font color=green><b>NEW</b></font>: Helpful Add-on: Evader<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Optimize intro scene<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Phantom For Desync Roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Kill Cooldown for Berserker<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Doomsayer ImpostorVision not used<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Taskinator triggered Schrodingers Cat ability<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Innocent didn't win with Impostor when setting is On<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some null errors<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Rebirth setting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed YinYanger conflicts and Double Agent message<br>
+
+* By [**Pyro**](https://github.com/NotPyro404)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Update YinYanger info so it doesn't get tagged by Innersloth filter<br>
+
+* By [**WaterPanda**](#)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Double Agent Role description<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 6</font></b></summary>
+
+* By [**D1GQ**](https://github.com/D1GQ)<br>
+\+ <font color=green><b>NEW</b></font>: Impostor Role: Double Agent<br>
+\+ <font color=green><b>NEW</b></font>: Impostor Ghost Role: Possessor<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+\+ <font color=green><b>NEW</b></font>: Impostor Role: YinYanger<br>
+\+ <font color=green><b>NEW</b></font>: Add-on: Rebirth<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Spurt for modded clients<br>
+
+* By [**Marg**](https://github.com/MargaretTheFool)<br>
+\+ <font color=green><b>NEW</b></font>: setting: Show NA on eject<br>
+\+ <font color=green><b>NEW</b></font>: setting: NA can guess NA<br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Minus and Plus in settings now always active<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Troller not reset ability<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Fortune Teller show role for FFA<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Again fixed Quizmaster last color<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Haunt Menu show "NotAssigned" in Hide & Seek<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed speed when Bandit steals Statue<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some null errors<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
+
+* By [**WaterPanda**](#)<br>
+= <font color=#32CD32><b>TYPO</b></font>: Fixed some typo in text<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 5</font></b></summary>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken chat for modded players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed and returned role info in setting menu<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed search in setting<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 4</font></b></summary>
+
+::: danger Caution
+= <font color=#de6707><b>KNOWN BUG</b></font>: Search in setting broken<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Role info in setting menu temporarily removed<br>
+:::
+
+* By [**TommyXL**](https://github.com/Tommy-XL) & [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Support new update AU v2024.8.13<br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed FFA stuck meeting<br>
+
+* By [**Drakos**](https://github.com/Ultradragon005)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed missing strings<br>
+
+* By [**WaterPanda**](#)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Egoist text typo<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 3</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Neutral Chaos Role: [Troller](/options/Neutral/Chaos/Troller.html) (Idea by: `@dx7405`)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Vip/Moderator/Sponsor and ect. shown in game<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the host changed his nickname to his own when he was killed by Doppelganger (hopefully)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Veteran kill Taskinator<br>
@@ -37,7 +122,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 \+ <font color=green><b>NEW</b></font>: Added role info in setting menu<br>
 \+ <font color=green><b>NEW</b></font>: Added search bar in settings<br>
-\+ <font color=green><b>NEW</b></font>: Helpful Add-on: [Spurt](/options/Helpful/Addons/Spurt.html) (Idea by: `@.thediamondstar`)<br>
+\+ <font color=green><b>NEW</b></font>: Helpful Add-on: [Spurt](/options/Addons/Helpful/Spurt.html) (Idea by: `@.thediamondstar`)<br>
 =  AddonBase (Port From EHR) (The settings are now sorted alphabetically)<br>
 </details>
 <details>
@@ -141,7 +226,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#32CD32><b>TYPOS</b></font>: Fixed some typos and descriptions<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Alphaha 23</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 23</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Now at the end of the game, players who left the game after death will display the real death reason and after the reason "(Disconnected)"<br>
@@ -158,7 +243,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added lobby timer in "template.txt"<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Alphaha 22</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 22</font></b></summary>
 
 * By [**D1GQ**](https://github.com/D1GQ)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Simplified some Dollmaster code for OnCheckMurder<br>
@@ -204,7 +289,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 \+ <font color=green><b>NEW</b></font>: Settings for Engineer: "Vent Cooldown" and "Max Time In Vents"<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Alphaha 20</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 20</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: bug when God was based on Impostor<br>
@@ -228,7 +313,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that caused Main Body text not to show<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.0.0 Alphahaha 19.1</font></b></summary>
+<summary><b><font color=#d395b4>v2.0.0 Alpha 19.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Аgain small fix for Quizmaster (lol)<br>
@@ -651,7 +736,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <summary><b><font color=#d395b4>v1.6.0 Alpha 3</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved role spawns (Ported from TOHE+) (Now for each role you can set the chance of appearance from 0% to 100%) <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved role spawns (Ported from EHR) (Now for each role you can set the chance of appearance from 0% to 100%) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed "IsAlive" for modded clients <br>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
@@ -688,10 +773,10 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Bomber and Nuker was banned by EAC after shapeshift <br>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: Added setting client "Dark Theme" (Ported From TOHE+) (Works only for modded players) <br>
+\+ <font color=green><b>NEW</b></font>: Added setting client "Dark Theme" (Ported From EHR) (Works only for modded players) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Add-ons display was recoded <br>
 \+ <font color=green><b>NEW</b></font>: New setting: Impostors can see each other's Add-ons <br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Role Summary (Ported From TOHE+) <br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Role Summary (Ported From EHR) <br>
 \- <font color=red><b>REMOVED</b></font>: Client Setting "Old Role Summary" removed <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when "FixedUpdate" for roles working in lobby <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Time Master teleport player when they were in the vent <br>
@@ -804,7 +889,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug where Mini could not be exiled <br>
 
 * By [**Drakos**](https://github.com/Ultradragon005) <br>
-\+ <font color=green><b>NEW</b></font>: Added New Alchemist Setting: Potion Of Speed (Ported from TOHE+) <br>
+\+ <font color=green><b>NEW</b></font>: Added New Alchemist Setting: Potion Of Speed (Ported from EHR) <br>
 
 * By [**Marg**](https://github.com/MargaretTheFool)<br>
 \+ <font color=green><b>NEW</b></font>: Add /rn for vanilla clients <br>
@@ -920,7 +1005,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Console now appears only for people with debugger perms<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Made Fool incompatible with Repairman<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Some other miscellaneous changes<br>
-\+ <font color=green><b>NEW</b></font>: Ported FFA from TOHE+ (Thanks Gurge44)<br>
+\+ <font color=green><b>NEW</b></font>: Ported FFA from EHR (Thanks Gurge44)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed random spawns, setting vent when 2 players alive, setting cant vent when kill cd is up and many other miscellaneous bugs in FFA mode<br>
 \+ <font color=green><b>NEW</b></font>: Added chat commands /tpin and /tpout (to tp vanilla players in and out of ship in lobby)<br>
 \+ <font color=green><b>NEW</b></font>: Added jester not win info in exile message for next meeting <br>

@@ -10,7 +10,7 @@ export default defineUserConfig({
       '/': {
         selectLanguageName: 'English',
         home: '/',
-        logo: '/images/logo.png',
+        logo: './logo.png',
         logoAlt: 'TOHE',
         navbar: [
           {
@@ -79,7 +79,14 @@ export default defineUserConfig({
           '/options/Addons/Experimental/': [
             { text: 'Back to Addons', link: '/options/Settings/Addons.html' },
             { text: 'Glow', link: '/options/Addons/Experimental/Glow.html' },
-            { text: 'Swift', link: '/options/Addons/Impostor/Swift.html' }
+            { text: 'Swift', link: '/options/Addons/Experimental/Swift.html' }
+          ],
+          '/options/Addons/Guesser/': [
+            { text: 'Back to Addons', link: '/options/Settings/Addons.html' },
+            { text: 'Double Shot', link: '/options/Addons/Guesser/DoubleShot.html' },
+            { text: 'Guesser', link: '/options/Addons/Guesser/Guesser.html' },
+            { text: 'Onbound', link: '/options/Addons/Guesser/Onbound.html' },
+            { text: 'Rebound', link: '/options/Addons/Guesser/Rebound.html' }
           ],
           '/options/Addons/Harmful/': [
             { text: 'Back to Addons', link: '/options/Settings/Addons.html' },
@@ -104,6 +111,7 @@ export default defineUserConfig({
             { text: 'Bewilder', link: '/options/Addons/Helpful/Bewilder.html' },
             { text: 'Burst', link: '/options/Addons/Helpful/Burst.html' },
             { text: 'Cyber', link: '/options/Addons/Helpful/Cyber.html' },
+            { text: 'Evader', link: '/options/Addons/Helpful/Evader.html' },
             { text: 'Flash', link: '/options/Addons/Helpful/Flash.html' },
             { text: 'Lazy', link: '/options/Addons/Helpful/Lazy.html' },
             { text: 'Loyal', link: '/options/Addons/Helpful/Loyal.html' },
@@ -112,6 +120,7 @@ export default defineUserConfig({
             { text: 'Nimble', link: '/options/Addons/Helpful/Nimble.html' },
             { text: 'Overclocked', link: '/options/Addons/Helpful/Overclocked.html' },
             { text: 'Radar', link: '/options/Addons/Helpful/Radar.html' },
+            { text: 'Rebirth', link: '/options/Addons/Helpful/Rebirth.html' },
             { text: 'Seer', link: '/options/Addons/Helpful/Seer.html' },
             { text: 'Silent', link: '/options/Addons/Helpful/Silent.html' },
             { text: 'Sleuth', link: '/options/Addons/Helpful/Sleuth.html' },
@@ -149,17 +158,10 @@ export default defineUserConfig({
             { text: 'Diseased', link: '/options/Addons/Mixed/Diseased.html' },
             { text: 'Ghoul', link: '/options/Addons/Mixed/Ghoul.html' },
             { text: 'Gravestone', link: '/options/Addons/Mixed/Gravestone.html' },
-            { text: 'Guesser', link: '/options/Addons/Mixed/Guesser.html' },
             { text: 'OIIAI', link: '/options/Addons/Mixed/OIIAI.html' },
             { text: 'Paranoia', link: '/options/Addons/Mixed/Paranoia.html' },
             { text: 'Stubborn', link: '/options/Addons/Mixed/Stubborn.html' },
             { text: 'Susceptible', link: '/options/Addons/Mixed/Susceptible.html' },
-          ],
-          '/options/Addons/Other/': [
-            { text: 'Back to Addons', link: '/options/Settings/Addons.html' },
-            { text: 'Double Shot', link: '/options/Addons/Other/DoubleShot.html' },
-            { text: 'Onbound', link: '/options/Addons/Other/Onbound.html' },
-            { text: 'Rebound', link: '/options/Addons/Other/Rebound.html' }
           ],
           '/options/Crewmates/Basic/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
@@ -293,6 +295,7 @@ export default defineUserConfig({
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
             { text: 'Bloodmoon', link: '/options/Impostors/Ghost/Bloodmoon.html' },
             { text: 'Minion', link: '/options/Impostors/Ghost/Minion.html' },
+            { text: 'Possessor', link: '/options/Impostors/Ghost/Possessor.html' },
           ],
           '/options/Impostors/Hindering/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
@@ -341,6 +344,7 @@ export default defineUserConfig({
             { text: 'Trapster', link: '/options/Impostors/Killing/Trapster.html' },
             { text: 'Underdog', link: '/options/Impostors/Killing/Underdog.html' },
             { text: 'Witch', link: '/options/Impostors/Killing/Witch.html' },
+            { text: 'YinYanger', link: '/options/Impostors/Killing/YinYanger.html' },
             { text: 'Zombie', link: '/options/Impostors/Killing/Zombie.html' }
           ],
           '/options/Impostors/Madmate/': [
@@ -356,6 +360,7 @@ export default defineUserConfig({
             { text: 'Camouflager', link: '/options/Impostors/Support/Camouflager.html' },
             { text: 'Cleaner', link: '/options/Impostors/Support/Cleaner.html' },
             { text: 'Consigliere', link: '/options/Impostors/Support/Consigliere.html' },
+            { text: 'Double Agent', link: '/options/Impostors/Support/DoubleAgent.html' },
             { text: 'Fireworker', link: '/options/Impostors/Support/Fireworker.html' },
             { text: 'Gangster', link: '/options/Impostors/Support/Gangster.html' },
             { text: 'Godfather', link: '/options/Impostors/Support/Godfather.html' },

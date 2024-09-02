@@ -16,47 +16,47 @@ next: /Roles.html
 </tr>
 
 <tr>
-<td><font color=#3b0722><b>👣 Concealing</b></font></td>
+<td><a href="#concealing" style="color:#3b0722"><b>👣 Concealing</b></a></td>
 <td align="center">15</td>
 </tr>
 
 <tr>
-<td><font color=#4d2b22><b>🚧 Experimental</b></font></td>
+<td><a href="#experimental" style="color:#4d2b22"><b>🚧 Experimental</b></a></td>
 <td align="center">1</td>
 </tr>
 
 <tr>
-<td><font color=#bd8b88><b>👻 Ghost</b></font></td>
+<td><a href="#ghost" style="color:#bd8b88"><b>👻 Ghost</b></a></td>
 <td align="center">2</td>
 </tr>
 
 <tr>
-<td><font color=#636363><b>⛓️ Hindering</b></font></td>
+<td><a href="#hindering" style="color:#636363"><b>⛓️ Hindering</b></a></td>
 <td align="center">9</td>
 </tr>
 
 <tr>
-<td><font color=#6a0000><b>🔪 Killing</b></font></td>
+<td><a href="#killing" style="color:#6a0000"><b>🔪 Killing</b></a></td>
 <td align="center">29</td>
 </tr>
 
 <tr>
-<td><font color=red><b>😡 Madmate</b></font></td>
+<td><a href="#madmate" style="color:red"><b>😡 Madmate</b></a></td>
 <td align="center">3</td>
 </tr>
 
 <tr>
-<td><font color=#00ffff><b>🫂 Support</b></font> </td>
+<td><a href="#support" style="color:#00ffff"><b>🏥 Support</b></a> </td>
 <td align="center">14</td>
 </tr>
 
 <tr>
-<td><font color=#8cffff><b>🍦 Vanilla</b></font> </td>
+<td><a href="#vanilla" style="color:#8cffff"><b>🍦 Vanilla</b></a> </td>
 <td align="center">3</td>
 </tr>
 
 <tr>
-<td><font color=red><b>🟰 Total:</b></font></td>
+<td><font color=red><b>📊 Total:</b></font></td>
 <td align="center"><b>74</b></td>
 </tr>
 
@@ -74,7 +74,7 @@ next: /Roles.html
 
 ### <font color=#bd8b88><b>Ghost</b></font>
 ---
-[Bloodmoon](/options/Impostors/Ghost/Bloodmoon.html) | [Minion](/options/Impostors/Ghost/Minion.html)
+[Bloodmoon](/options/Impostors/Ghost/Bloodmoon.html) | [Minion](/options/Impostors/Ghost/Minion.html) | [Possessor](/options/Impostors/Ghost/Possessor.html)
 
 ### <font color=#636363><b>Hindering</b></font>
 ---
@@ -83,7 +83,7 @@ next: /Roles.html
 
 ### <font color=#6a0000><b>Killing</b></font>
 ---
-[Arrogance](/options/Impostors/Killing/Arrogance.html) | [Bomber](/options/Impostors/Killing/Bomber.html) | [Bounty Hunter](/options/Impostors/Killing/BountyHunter.html) | [Butcher](/options/Impostors/Killing/Butcher.html) | [Chronomancer](/options/Impostors/Killing/Chronomancer.html) | [Councillor](/options/Impostors/Killing/Councillor.html) | [Cursed Wolf](/options/Impostors/Killing/CursedWolf.html) | [Deathpact](/options/Impostors/Killing/Deathpact.html) | [Evil Guesser](/options/Impostors/Killing/EvilGuesser.html) | [Evil Tracker](/options/Impostors/Killing/EvilTracker.html) | [Greedy](/options/Impostors/Killing/Greedy.html) | [Hangman](/options/Impostors/Killing/Hangman.html) | [Inhibitor](/options/Impostors/Killing/Inhibitor.html) | [Instigator](/options/Impostors/Killing/Instigator.html) | [Killing Machine](/options/Impostors/Killing/KillingMachine.html) | [Ludopath](/options/Impostors/Killing/Ludopath.html) | [Lurker](/options/Impostors/Killing/Lurker.html) | [Mercenary](/options/Impostors/Killing/Mercenary.html) | [Ninja](/options/Impostors/Killing/Ninja.html) | [Quick Shooter](/options/Impostors/Killing/Quickshooter.html) | [Saboteur](/options/Impostors/Killing/Saboteur.html) | [Sniper](/options/Impostors/Killing/Sniper.html) | [Trapster](/options/Impostors/Killing/Trapster.html) | [Underdog](/options/Impostors/Killing/Underdog.html) | [Witch](/options/Impostors/Killing/Witch.html) | [Zombie](/options/Impostors/Killing/Witch.html)
+[Arrogance](/options/Impostors/Killing/Arrogance.html) | [Bomber](/options/Impostors/Killing/Bomber.html) | [Bounty Hunter](/options/Impostors/Killing/BountyHunter.html) | [Butcher](/options/Impostors/Killing/Butcher.html) | [Chronomancer](/options/Impostors/Killing/Chronomancer.html) | [Councillor](/options/Impostors/Killing/Councillor.html) | [Cursed Wolf](/options/Impostors/Killing/CursedWolf.html) | [Deathpact](/options/Impostors/Killing/Deathpact.html) | [Evil Guesser](/options/Impostors/Killing/EvilGuesser.html) | [Evil Tracker](/options/Impostors/Killing/EvilTracker.html) | [Greedy](/options/Impostors/Killing/Greedy.html) | [Hangman](/options/Impostors/Killing/Hangman.html) | [Inhibitor](/options/Impostors/Killing/Inhibitor.html) | [Instigator](/options/Impostors/Killing/Instigator.html) | [Killing Machine](/options/Impostors/Killing/KillingMachine.html) | [Ludopath](/options/Impostors/Killing/Ludopath.html) | [Lurker](/options/Impostors/Killing/Lurker.html) | [Mercenary](/options/Impostors/Killing/Mercenary.html) | [Ninja](/options/Impostors/Killing/Ninja.html) | [Quick Shooter](/options/Impostors/Killing/QuickShooter.html) | [Saboteur](/options/Impostors/Killing/Saboteur.html) | [Sniper](/options/Impostors/Killing/Sniper.html) | [Trapster](/options/Impostors/Killing/Trapster.html) | [Underdog](/options/Impostors/Killing/Underdog.html) | [Witch](/options/Impostors/Killing/Witch.html) | [YinYanger](/options/Impostors/Killing/YinYanger.html) | [Zombie](/options/Impostors/Killing/Zombie.html)
 <br>
 
 ### <font color=red><b>Madmate</b></font>
@@ -93,12 +93,12 @@ next: /Roles.html
 
 ### <font color=#00ffff><b>Support</b></font>
 ---
-[Anti Adminer](/options/Impostors/Support/AntiAdminer.html) | [Blackmailer](/options/Impostors/Support/Blackmailer.html) | [Camouflager](/options/Impostors/Support/Camouflager.html) | [Cleaner](/options/Impostors/Support/Cleaner.html) | [Consigliere](/options/Impostors/Support/Consigliere.html) | [Fireworker](/options/Impostors/Support/Fireworker.html) | [Gangster](/options/Impostors/Support/Gangster.html) | [Godfather](/options/Impostors/Support/Godfather.html) | [Kamikaze](/options/Impostors/Support/Kamikaze.html) | [Morphling](/options/Impostors/Support/Morphling.html) | [Nemesis](/options/Impostors/Support/Nemesis.html) | [Time Thief](/options/Impostors/Support/TimeThief.html) | [Vindicator](/options/Impostors/Support/Vindicator.html) | [Visionary](/options/Impostors/Support/Visionary.html)
+[Anti Adminer](/options/Impostors/Support/AntiAdminer.html) | [Blackmailer](/options/Impostors/Support/Blackmailer.html) | [Camouflager](/options/Impostors/Support/Camouflager.html) | [Cleaner](/options/Impostors/Support/Cleaner.html) | [Consigliere](/options/Impostors/Support/Consigliere.html) | [Double Agent](/options/Impostors/Support/DoubleAgent.html) | [Fireworker](/options/Impostors/Support/Fireworker.html) | [Gangster](/options/Impostors/Support/Gangster.html) | [Godfather](/options/Impostors/Support/Godfather.html) | [Kamikaze](/options/Impostors/Support/Kamikaze.html) | [Morphling](/options/Impostors/Support/Morphling.html) | [Nemesis](/options/Impostors/Support/Nemesis.html) | [Time Thief](/options/Impostors/Support/TimeThief.html) | [Vindicator](/options/Impostors/Support/Vindicator.html) | [Visionary](/options/Impostors/Support/Visionary.html)
 <br>
 
 ### <font color=#8cffff><b>Vanilla</b></font>
 ---
-[Impostor](/options/Impostors/Vanilla/Impostor.html) | [Phantom](/options/Phantom/Vanilla/Shapeshifter.html) | [Shapeshifter](/options/Impostors/Vanilla/Shapeshifter.html)
+[Impostor](/options/Impostors/Vanilla/Impostor.html) | [Phantom](/options/Impostors/Vanilla/Phantom.html) | [Shapeshifter](/options/Impostors/Vanilla/Shapeshifter.html)
 <br>
 
 <br>
@@ -132,7 +132,7 @@ Below are settings to make the game more balanced based on your lobby's style of
   * <font color=red>Madmates</font> have maximum vision
   * You can turn this <font color=green>ON</font> or <font color=red>OFF</font>
 * <font color=red>Madmates</font> can fix sabotages
-  * Turning this <font color=green>ON</font> will essentially give <font color=red>Madmates</font> the [Fool](#fool) Add-on by default.
+  * Turning this <font color=red>OFF</font> will essentially give <font color=red>Madmates</font> the [Fool](#fool) Add-on by default.
   * You can turn this <font color=green>ON</font> or <font color=red>OFF</font>
 <br><br>
 
@@ -143,7 +143,7 @@ Below are settings to make the game more balanced based on your lobby's style of
 * Default Shapeshift Cooldown
   * The default cooldown for any <font color=red>Impostor</font> with the ability to shapeshift
   * From 5 (minumum) to 995 (maximum) seconds with 5 seconds intervals
-* <font color=red>Impostors</font> can't sabotage after they've die
+* <font color=red>Impostors</font> can't sabotage after they've died
   * <font color=red>Impostors</font> can't call any sabotages after they die
   * You can turn this <font color=green>ON</font> or <font color=red>OFF</font>
 </details>

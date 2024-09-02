@@ -12,7 +12,7 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 ## President
 
-[**Moe**](https://github.com/0xDrMoe): <font color=#ff8000>President, Website Maintainer/Developer</font>
+[**Moe**](https://github.com/0xDrMoe): <font color=#ff8000>President + Main Website Maintainer/Developer</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -25,7 +25,7 @@ I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++.
 
 ## Co-President
 
-[**ryuk**](https://github.com/ryuk201198)：Co-President, Head of Development
+[**ryuk**](https://github.com/ryuk201198)：<font color=#9e2424>Co-President + Head of Development</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -34,13 +34,13 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 
 ---
 
-## Website Assistant
+## Website Maintainer
 
-[**Pyro**](https://sites.google.com/view/notpyro404)：<font color=#49e6ac>Website Assistant & Moderator</font>
+[**Pyro**](https://sites.google.com/view/notpyro404)：<font color=#49e6ac>TOHE Website Maintainer + Moderator</font>
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 
-I'm also mostly known online as NotPyro404. I am a Moderator in the TOHE Discord, aswell as the Website Assistant for [T.E.N.](https://weareten.ca/). If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
+I'm also mostly known online as NotPyro404. I am a Moderator in the Discord Server for The Enhanced Network, aswell as the Website Maintainer for [T.E.N.](https://weareten.ca/). If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 </details>
 
 ---
@@ -51,7 +51,7 @@ I'm also mostly known online as NotPyro404. I am a Moderator in the TOHE Discord
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm just a girl who loves to play video games and is obsessed with everything <font color=#f0b6d5>pink</font>! My job is to keep all aspects of TOHE (the server and mod itself) a fun and welcoming place for all. This means I'm keeping everyone in check, including your very own project lead! 😉
+I'm just a girl who loves to play video games and is obsessed with everything <font color=#f0b6d5>pink</font>! My job is to keep all aspects of The Enhanced Network (and TOHE itself) a fun and welcoming place for all. This means I'm keeping everyone in check, including your very own project lead! 😉
 </details>
 
 ---
@@ -80,7 +80,7 @@ I help out with ensuring the server stays a welcoming and fun community for all 
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I help keep the TOHE community a safe and welcoming place for everyone. So if there’s an issue, please feel free to reach out! I love to play video games (but I’m a sore loser lol) and spend time with my family. 
+I help keep the community of The Enhanced Network a safe and welcoming place for everyone. So if there’s an issue, please feel free to reach out! I love to play video games (but I’m a sore loser lol) and spend time with my family. 
 </details>
 
 ---
@@ -89,7 +89,7 @@ I help keep the TOHE community a safe and welcoming place for everyone. So if th
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I help out in the TOHE Discord. I'm working on the Modded Among Us Queue bot. Some hobbies I have are playing games & programming. My favorite game is probably Valorant.
+I help out in the Discord Server of The Enhanced Network. I'm working on the Modded Among Us Queue bot. Some hobbies I have are playing games & programming. My favorite game is probably Valorant.
 </details>
 
 ---
@@ -98,7 +98,7 @@ I help out in the TOHE Discord. I'm working on the Modded Among Us Queue bot. So
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I help with moderating the TOHE Discord. Some of my hobbies are Fortnite, Discord, and other games. I also like to joke around and poke fun of myself.
+I help with moderating the Discord Server of The Enhanced Network. Some of my hobbies are Fortnite, Discord, and other games. I also like to joke around and poke fun of myself.
 </details>
 
 ---
@@ -115,7 +115,7 @@ I'm 25 years old from the United States. I am a bar certified attorney in contra
 ## TOHE Team
 ### Lead Developer
 
-[**Tommy-XL**](https://github.com/Tommy-XL)：Role & Feature Coding, <font color=#0036a7><b>Russian</b></font> Translator
+[**Tommy-XL**](https://github.com/Tommy-XL)：<font color=#ec7578>Lead Developer + Role/Feature Coding + <font color=#0036a7><b>Russian</b></font> Translator</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -144,7 +144,7 @@ Coded many Roles and Features. (placeholder)
 
 ---
 
-[**FuroYT**](https://github.com/FuroYT): Feature Coding, <font color=#002654><b>French</b></font> Translator
+[**FuroYT**](https://github.com/FuroYT): Feature Coding + <font color=#002654><b>French</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -153,7 +153,7 @@ I am a part of the TOHE French Translation team. I enjoy programming and gaming.
 
 ---
 
-[**乐崽吖**](https://github.com/LezaiYa)：Role Coding, <font color=#de2910><b>Simplified Chinese</b></font> Translator
+[**乐崽吖**](https://github.com/LezaiYa)：Role Coding + <font color=#de2910><b>Simplified Chinese</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -162,7 +162,7 @@ Hello everyone. I'm a Simplified Chinese Translator and Contributor to this mod.
 
 ---
 
-[**阿龍**](https://www.youtube.com/channel/UCVT0-d5Sxc3ab1AZvkBe-cQ)：Feature Coding & <font color=#de2910><b>Traditional Chinese</b></font> Translator
+[**阿龍**](https://www.youtube.com/channel/UCVT0-d5Sxc3ab1AZvkBe-cQ)：Feature Coding + <font color=#de2910><b>Traditional Chinese</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -201,7 +201,7 @@ I plan to port most of the roles from Town of Salem 2 in some form because I lov
 
 ---
 
-[**Pietro**](https://github.com/Pietrodjaowjao): Feature Coding, <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font> Translator
+[**Pietro**](https://github.com/Pietrodjaowjao): Feature Coding + <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -224,7 +224,7 @@ Used to use names like "Huier" and "天寸梦初". KPD, NiKoCat, Commandf1 are m
 
 ---
 
-[**Gurge44**](https://www.youtube.com/@200iqguy)：Role Coding, <font color=#cf192b><b>English</b></font> Translator, & EHR Developer
+[**Gurge44**](https://www.youtube.com/@200iqguy)：Role Coding + <font color=#cf192b><b>English</b></font> Translator + EHR Developer
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -302,7 +302,7 @@ Hello everyone, I am from mainland China. I am one of the Simplified Chinese Tra
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I am a Translator in the TOHE Discord server, I enjoy gaming, drawing and going on walks. Also school competitivity is what drives me insane.
+I am a Translator in the TOHE Discord server, I enjoy gaming, drawing and going on walks. Also school competitively is what drives me insane.
 </details>
 
 ---
@@ -313,7 +313,7 @@ I am a Translator in the TOHE Discord server, I enjoy gaming, drawing and going 
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm a Portuguese Brazil Translator. I'm also a Friday Night Funkin coder, & I make Android ports. I post videos on YouTube about games. Playing minecraft almost every day lmao.
+I'm a Portuguese Brazil Translator. I'm also a Friday Night Funkin' coder, & I make Android ports. I post videos on YouTube about games. Playing minecraft almost every day lmao.
 </details>
 
 ---
@@ -349,7 +349,7 @@ Helped Translate TOHE into French. (placeholder)
 
 ### <font color=#bd0029><b>Japanese</b></font>
 
-[**Sunnyboi**](#)：<font color=#bd0029><b>Japanese</b></font> & <font color=#ffc400><b>Spanish</b></font> Translator
+[**Sunnyboi**](#)：<font color=#bd0029><b>Japanese</b></font> + <font color=#ffc400><b>Spanish</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -360,7 +360,7 @@ I helped with Japanese and Spanish translations for TOHE. I played Ultimate Fris
 
 ### <font color=#009b3a><b>Latam (Latin American)</b></font>
 
-[**xxSShadow**](https://www.youtube.com/channel/UCji4tV4CjOd2Xzo1GxmhCig)：<font color=#009b3a><b>Latam (Latin American)</b></font> Translator, <font color=#ffc400><b>Spanish</b></font> Translator
+[**xxSShadow**](https://www.youtube.com/channel/UCji4tV4CjOd2Xzo1GxmhCig)：<font color=#009b3a><b>Latam (Latin American)</b></font> Translator + <font color=#ffc400><b>Spanish</b></font> Translator
 
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -470,7 +470,7 @@ The original creator of TOH: Edited, now being worked on again as TONX/Town of N
 <summary><b><font color=gray>Mod Info</font></b></summary>
 
 Repository Deleted by Owner.<br>
-TOH: Enhanced is a continuation of TOHE: Restored. (Later renamed to TOH: Re-Edited)
+Town of Host: Enhanced is a continuation of TOHE: Restored. (Later renamed to TOH: Re-Edited)
 </details>
 
 ---
@@ -479,7 +479,7 @@ TOH: Enhanced is a continuation of TOHE: Restored. (Later renamed to TOH: Re-Edi
 <details>
 <summary><b><font color=gray>Mod Info</font></b></summary>
 
-Previously known as Town of Host Edited, now being maintained again under the name Town of Next! (TONX) This was the Original Base for TOHE: Restored & TOH: Enhanced.
+Previously known as Town of Host Edited, now being maintained again under the name Town of Next! (TONX) This was the Original Base for TOHE: Restored & Town of Host: Enhanced.
 </details>
 
 ---
@@ -605,7 +605,7 @@ Multiple Ideas such as: Evil Guesser, Nice Guesser, and more included in TOH: TO
 <p align="right">Feedback & Contact</p>
 
 <p align="right">
-<a href="https://discord.gg/tohe" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>&nbsp;
+<a href="https://discord.gg/ten" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>&nbsp;
 <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank"><img src="https://img.shields.io/badge/Github%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 </p>
 

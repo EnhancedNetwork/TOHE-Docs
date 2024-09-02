@@ -17,4 +17,4 @@ Double click on someone to kill them normally.
 * Manipulation notification delay
   * Set the amount of time it will take for the Masterminds target to be notified that they were manipulated
 
-> From: TOHE+
+> From: EHR

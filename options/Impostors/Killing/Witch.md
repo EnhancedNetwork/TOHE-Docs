@@ -2,7 +2,7 @@
 lang: en-US
 title: Witch
 prev: Underdog
-next: Zombie
+next: YinYanger
 ---
 
 # <font color="red">🧙 <b>Witch</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

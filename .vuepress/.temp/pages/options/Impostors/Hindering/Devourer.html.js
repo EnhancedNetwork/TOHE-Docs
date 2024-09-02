@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Impostors/Hindering/Devourer.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Impostors/Hindering/Devourer.html\",\"title\":\"Devourer\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Devourer\",\"prev\":\"Dazzler\",\"next\":\"Disperser\"},\"headers\":[],\"git\":{\"updatedTime\":1716176069000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Impostors/Hindering/Devourer.md\"}")
+export { comp, data }

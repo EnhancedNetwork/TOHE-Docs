@@ -17,7 +17,7 @@ contributors: false
 
 <font size=4em><b>Latest Versions:</b></font><br>
 
-- <b><font size=4em>Alpha:</font> [v2.1.0 Alpha 6](/changelogs/Alpha.html)</b><br>
+- <b><font size=4em>Alpha:</font> [v2.1.0 Alpha 7](/changelogs/Alpha.html)</b><br>
 - <b><font size=3em>Beta:</font> [v2.0.0 Beta 12](/changelogs/Beta.html)</b><br>
 - <b><font size=3em>Stable:</font> [v2.0.3](/changelogs/Stable.html)</b><br>
 
@@ -49,7 +49,7 @@ contributors: false
 <tr>
 <td><a href="/Options/Settings/Neutrals.html" style="color:#7c8c8d"><b>🕶️ Neutrals</b></a></td>
 <td>Play alone and win via their own win conditions</td>
-<td align="center">76</td>
+<td align="center">67</td>
 </tr>
 
 <tr>

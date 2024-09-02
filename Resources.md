@@ -1192,11 +1192,11 @@ Bug (This Death Reason occured awhile ago due to bugs, but has since been patche
 </tr>
 <tr>
 <td><font color=#674ea7>¿</font></td>
-<td>Used by the <font color=#674ea7>Telepathy</font> to set their target, target also sees this on <font color=#674ea7>Telepathy</font>. (Possibly not TOHE Role, sorry)</td>
+<td>Used by the <font color=#674ea7>Telepathy</font> to set their target, target also sees this on <font color=#674ea7>Telepathy</font>.</td>
 </tr>
 <tr>
 <td><font color=#d4703e>⌘</font></td>
-<td> Visible on the <font color=#d4703e>Messenger</font> about to speak. (Possibly not TOHE Role, sorry)</td>
+<td> Visible on the <font color=#d4703e>Messenger</font> about to speak.</td>
 </tr>
 </table>
 

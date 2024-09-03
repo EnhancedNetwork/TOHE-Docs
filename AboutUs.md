@@ -134,7 +134,7 @@ Hey I'm Northie, also known as Norfie or North. Right now I'm a Helper in the TO
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-BIO! Placeholder
+Helping to ensure the safety of the community, answering questions about the server and TOHE.
 </details>
 
 ---

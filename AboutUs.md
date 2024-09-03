@@ -149,11 +149,11 @@ Feel free to drop me an @ for a chat!
 
 ---
 
-[**thelittlenarwhal**](#): Helper
+[**Cayla***](#): Helper
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-BIO! Placeholder
+Hey! I am Cayla, I love the ocean and anything nautical. My favorite animal is a narwhal, and yes they are real! Love playing different video games, currently obsessed with TOHE. I am an up and coming moderator here and I hope that I can bring some positive vibes to the community. Two truths and a lie: I danced on stage with Cyndi Lauper to Girls Just Want to have fun and tossed my shirt into the crowd. I am terrified of ketchup. I skinny dipped in Mexico with Rob Thomas of Matchbox Twenty.
 </details>
 
 ---

@@ -41,12 +41,12 @@ next: /Roles.html
 </tr>
 
 <tr>
-<td><a href="#miscellaneous" style="color=#a83295"><b>⚙️ Miscellaneous</b></a></td>
+<td><a href="#miscellaneous" style="color:#a83295"><b>⚙️ Miscellaneous</b></a></td>
 <td align="center">6</td>
 </tr>
 
 <tr>
-<td><a href="#mixed" style="color=#32a87f"><b>😵‍💫 Mixed</b></a></td>
+<td><a href="#mixed" style="color:#32a87f"><b>😵‍💫 Mixed</b></a></td>
 <td align="center">12</td>
 </tr>
 

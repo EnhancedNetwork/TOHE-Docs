@@ -139,11 +139,12 @@ BIO! Placeholder
 
 ---
 
-[**fishking21**](#): Helper
+[**Fish King 👑**](#): Helper
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-BIO! Placeholder
+Passionate about chemistry, politics and gaming, working hard to be able to give my children and wife the life they deserve.
+Feel free to drop me an @ for a chat!
 </details>
 
 ---

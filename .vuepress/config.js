@@ -464,7 +464,6 @@ export default defineUserConfig({
             { text: 'Bandit', link: '/options/Neutrals/Killing/Bandit.html' },
             { text: 'Blood Knight', link: '/options/Neutrals/Killing/BloodKnight.html' },
             { text: 'Demon', link: '/options/Neutrals/Killing/Demon.html' },
-            { text: 'Doppelganger', link: '/options/Neutrals/Killing/Doppelganger.html' },
             { text: 'Glitch', link: '/options/Neutrals/Killing/Glitch.html' },
             { text: 'Hex Master', link: '/options/Neutrals/Killing/HexMaster.html' },
             { text: 'Huntsman', link: '/options/Neutrals/Killing/Huntsman.html' },

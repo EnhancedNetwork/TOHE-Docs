@@ -16,6 +16,18 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
+<summary><b><font color=#cf4e8f>v2.1.0 Alpha 8.2</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: =  Well, you really know what I'm trying to fix (Also all builds work fine in new AU version)<br>
+</details>
+<details>
+<summary><b><font color=#cf4e8f>v2.1.0 Alpha 8.1</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Another attempt to fix role assign<br>
+</details>
+<details>
 <summary><b><font color=#cf4e8f>v2.1.0 Alpha 8</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>

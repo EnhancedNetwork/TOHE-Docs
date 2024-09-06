@@ -16,6 +16,12 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
+<summary><b><font color=#cf4e8f>v2.1.0 Alpha 9.1</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Just fixed problems where the game ends immediately after starting (Optional upgrade if you don't finish the game immediately after starting, lol)
+</details>
+<details>
 <summary><b><font color=#cf4e8f>v2.1.0 Alpha 9</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
@@ -28,19 +34,19 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
 </details>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Alpha 8.2</font></b></summary>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 8.2</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: =  Well, you really know what I'm trying to fix (Also all builds work fine in new AU version)<br>
 </details>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Alpha 8.1</font></b></summary>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 8.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Another attempt to fix role assign<br>
 </details>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Alpha 8</font></b></summary>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 8</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Experimental Crewmate Role: Altruist (Functions fine, but not fully completed, so i don't recommend using this role yet. I mean revived players can remember all/some the player roles while they were dead)<br>

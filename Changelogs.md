@@ -26,12 +26,13 @@ contributors: false
 <summary><b><font color=#a65a80>TOHE v2.1.0 Alpha 8 Changelogs</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: Experimental Crewmate Role: Altruist (Functions fine, but not fully completed, so i don't recommend using this role yet. I mean revived players can remember all/some the player roles while they were dead)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed disconnects while role assigns<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Lot of fixes for AntiBlackOut<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Change death reason display (from EHR)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for spawn players in start game and after meeting<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when in exile player displayed full roles and add-ons<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Dleks not loaded<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bugs with ghost roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when blackmailed not work for non-host modded players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for Phantom for desync players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Eraser can erase ghost role<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed the display death reasons in meeting for modded players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
 </details>
 <br>
 <details>

@@ -16,6 +16,18 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
+<summary><b><font color=#cf4e8f>v2.1.0 Alpha 9</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Dleks not loaded<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bugs with ghost roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when blackmailed not work for non-host modded players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for Phantom for desync players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Eraser can erase ghost role<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed the display death reasons in meeting for modded players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
+</details>
+<details>
 <summary><b><font color=#cf4e8f>v2.1.0 Alpha 8.2</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>

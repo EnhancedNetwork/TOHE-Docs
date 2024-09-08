@@ -148,4 +148,20 @@ Visit `#alpha-builds` in the [Discord Server](https://discord.gg/ten) of The Enh
 
 #### You have successfully installed a Alpha Build/Beta Build!
 </details>
+<br>
+<details>
+<summary><b><font color=gray>Installing <font color=#ebd326>Presets</font></font></b></summary>
+
+You can save your favorite settings as presets and load them later. You can also download presets shared by others. 
+
+For some Member Submitted Presets, visit [This Page](/Presets.html).
+
+1. If you want to use a preset, make sure the file is renamed to `Options.json` before using it, if it isn't already. (If you do not have `File name extensions` marked on the `View` Tab, you only need to rename it to `Options`.)
+
+2. You have to put the file in the following directory: `.\Among Us\TOHE-DATA\SaveData` for it to work. (If you cannot locate `TOHE-DATA\SaveData`, try enabling `Hidden items` on the `View` Tab!)
+
+3. `(Note)` If you download a preset that is from a version newer than that one which you are running on, it will still work, but any settings in the preset you downloaded that aren't already in the version you are on will be ignored.
+
+4. `(Keep in Mind)`: It is always suggested to just roll with whatever you like! If you see any roles you may like or are simply interested in, enable them, and mess with them to your personal liking!
+</details>
 </font>

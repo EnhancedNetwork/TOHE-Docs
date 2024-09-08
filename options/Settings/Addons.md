@@ -61,10 +61,12 @@ next: /Roles.html
 ### <font color=#4d223a><b>Experimental</b></font>
 ---
 [Glow](/options/Addons/Experimental/Glow.html) | [Swift](/options/Addons/Experimental/Swift.html)
+<br>
 
 ### <font color=#d6b149><b>Guesser</b></font>
 ---
 [Double Shot](/options/Addons/Guesser/DoubleShot.html) | [Guesser](/options/Addons/Guesser/Guesser.html) | [Onbound](/options/Addons/Guesser/Onbound.html) | [Rebound](/options/Addons/Guesser/Rebound.html)
+<br>
 
 ### <font color=#ff0000><b>Harmful</b></font>
 ---
@@ -88,7 +90,6 @@ next: /Roles.html
 ### <font color=#32a87f><b>Mixed</b></font>
 ---
 [Antidote](/options/Addons/Mixed/Antidote.html) | [Avenger](/options/Addons/Mixed/Avenger.html) | [Aware](/options/Addons/Mixed/Aware.html) | [Bloodthirst](/options/Addons/Mixed/Bloodthirst.html) | [Diseased](/options/Addons/Mixed/Diseased.html) | [Ghoul](/options/Addons/Mixed/Ghoul.html) | [Gravestone](/options/Addons/Mixed/Gravestone.html) | [OIIAI](/options/Addons/Mixed/OIIAI.html) | [Paranoia](/options/Addons/Mixed/Paranoia.html) | [Stubborn](/options/Addons/Mixed/Stubborn.html) | [Susceptible](/options/Addons/Mixed/Susceptible.html)
-
 <br>
 
 <details>

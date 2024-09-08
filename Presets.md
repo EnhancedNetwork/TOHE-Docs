@@ -4,15 +4,16 @@ title: Presets
 contributors: false
 ---
 
-## Custom Submitted Presets
+## Member Submitted Presets
 
-You can save your favorite settings as presets and load them later. You can also download presets shared by others. If you want to use a preset, make sure the file is renamed to `Options.json` before using it, if it isn't already. (If you do not have `File name extensions` marked on the `View` Tab, you only need to rename it to `Options`.)
+You can save your favorite settings as presets and load them later. You can also download presets shared by others. 
 
-Note: You have to put the file in the following directory: `.\Among Us\TOHE-DATA\SaveData` for it to work. (If you cannot locate `TOHE-DATA\SaveData`, try enabling `Hidden items` on the `View` Tab!)
+For Instructions on how to Install Presets, visit the bottom of [This Page](/Install.html).
+
+Keep in Mind: It is always suggested to just roll with whatever you like! If you see any roles you may like or are simply interested in, enable them, and mess with them to your personal liking!
 
 You can submit your own preset to be featured by joining the [Discord Server](https://discord.gg/ten), heading to #website-feedback, and creating a forum post with the Preset tag.
 Below are some member submitted presets:
-NOTE: If you download a preset that is from a version newer than that one which you are running on, it will still work, but any settings in the preset you downloaded that aren't already in the version you are on will be ignored.
 
 ---
 

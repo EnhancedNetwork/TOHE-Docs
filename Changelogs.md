@@ -23,23 +23,21 @@ contributors: false
 </details>
 <br>
 <details>
-<summary><b><font color=#a65a80>TOHE v2.1.0 Alpha 8 Changelogs</font></b></summary>
+<summary><b><font color=#a65a80>TOHE v2.1.0 Alpha 10 Changelogs</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Dleks not loaded<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bugs with ghost roles<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when blackmailed not work for non-host modded players<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for Phantom for desync players<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Eraser can erase ghost role<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Changed the display death reasons in meeting for modded players<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when "/l" and "/role" not work<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed critical error in FFA<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed visual bug in meeting (I hope)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed black screen issue (I hope)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added warning message about enabled setting "No Game End" (Warns only host when he presses the start button)<br>
 </details>
 <br>
 <details>
 <summary><b><font color=#5ea692>Site Changelogs/Updates</font></b></summary>
 
 * By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
-= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.1.0 Alpha 8<br>
+= <font color=#ece218><b>NOTICE</b></font>: Updated to v2.1.0 Alpha 10<br>
 \+ Have a good day!<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
 = <font color=#ece218><b>NOTICE</b></font>: Soul Collector & Berserker work differently in 2.1.0 Alpha 2 (and above) than they do in 2.0.3 Stable Release.<br>

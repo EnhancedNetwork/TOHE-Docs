@@ -879,27 +879,6 @@ You can find the <i>original</i> Hex Codes of Town of Host: Enhanced Roles [Here
 </details>
 <br>
 <details>
-<summary><b><font color=gray>Presets Info</font></b></summary>
-
-You can save your favorite settings as presets and load them later. You can also download presets shared by others. If you want to use a preset, make sure the file is renamed to `Options.json` before using if, it isn't already. (If you do not have `File name extensions` marked on the `View` Tab, you only need to rename it to `Options`.)<br>
-
-Note: You have to put the file in the following directory: `.\Among Us\TOHE-DATA\SaveData` for it to work. (If you cannot locate `TOHE-DATA\SaveData`, try enabling `Hidden items` on the `View` Tab!)<br>
-
-For some member submitted presets, browse [here](/Presets.html).<br>
-
-> From + Compiling: NotPyro404
-</details>
-<br>
-<details>
-<summary><b><font color=gray>Member Submitted Presets + More</font></b></summary>
-
-For Member Submitted Presets, visit the [Presets](/Presets.html) page.
-For Member Submitted Translations, visit the [Custom Translations](/Translations.html) page.
-
-> From + Compiling: NotPyro404
-</details>
-<br>
-<details>
 <summary><b><font color=gray>Death Reasons</font></b></summary>
 
 Here's a list of Death Reasons, and what makes them occur: [Death Reasons](https://docs.google.com/document/d/e/2PACX-1vTD5Qn3DchoADfPjxH1j11wfXzp3Is9GAMYnZYt5RePbM7OS_Iz4mNWgigQvN3rkFHh_QVfBguhV0rb/pub)<br>

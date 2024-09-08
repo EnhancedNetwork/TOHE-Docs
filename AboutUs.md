@@ -98,7 +98,7 @@ I help keep the community of The Enhanced Network a safe and welcoming place for
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I help out in the Discord Server of The Enhanced Network. I'm working on the Modded Among Us Queue bot. Some hobbies I have are playing games & programming. My favorite game is probably Valorant.
+I help out in the Discord Server of The Enhanced Network. I'm working on the Modded Among Us Queue bot. Some hobbies I have are playing games & programming. <s>My favorite game is probably Valorant.</s> My favorite game is probably Lethal Company.
 </details>
 
 ---

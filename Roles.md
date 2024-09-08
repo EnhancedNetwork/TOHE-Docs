@@ -59,4 +59,9 @@ contributors: false
 </table>
 <br>
 
+### <font color=#4d223a><b>Member Submitted Stuff</b></font>
+---
+For Member Submitted Presets, visit the [Presets](/Presets.html) page.
+
+For Member Submitted Translations, visit the [Custom Translations](/Translations.html) page.
 ---

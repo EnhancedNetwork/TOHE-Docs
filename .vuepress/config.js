@@ -98,6 +98,7 @@ export default defineUserConfig({
             { text: 'Mundane', link: '/options/Addons/Harmful/Mundane.html' },
             { text: 'Oblivious', link: '/options/Addons/Harmful/Oblivious.html' },
             { text: 'Rascal', link: '/options/Addons/Harmful/Rascal.html' },
+            { text: 'Sloth', link: '/options/Addons/Harmful/Sloth.html' },
             { text: 'Statue', link: '/options/Addons/Harmful/Statue.html' },
             { text: 'Tired', link: '/options/Addons/Harmful/Tired.html' },
             { text: 'Unlucky', link: '/options/Addons/Harmful/Unlucky.html' },

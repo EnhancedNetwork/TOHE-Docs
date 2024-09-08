@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Statue
-prev: Rascal
+prev: Sloth
 next: Tired
 ---
 

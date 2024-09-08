@@ -42,6 +42,7 @@ contributors: false
 = <font color=#ece218><b>NOTICE</b></font>: Soul Collector & Berserker work differently in 2.1.0 Alpha 2 (and above) than they do in 2.0.3 Stable Release.<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Dev Builds are now listed as Alpha Builds, this is due to a name change that has already happened.<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Canary Builds are now listed as Beta Builds, this is due to a name change coming soon in the future.<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: I've listed Sloth already as I hope to get it into the mod before v2.1.0 is actually released.<br>
 = <font color=#fdf08e><b>NOTE</b></font>: Role Counts/Amounts are mostly corrected, thanks Drakos for doing the numbers! No idea what `[None] = Count: 13` still means though. Mostly Corrected because I might have gotten some counts wrong, if you know the proper counts, make a #website-feedback post.<br>
 
 * By [**Theta**](https://github.com/ThetaHalo)<br>

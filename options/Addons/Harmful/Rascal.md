@@ -2,7 +2,7 @@
 lang: en-US
 title: Rascal
 prev: Oblivious
-next: Statue
+next: Sloth
 ---
 
 # <font color=#980404>👹 <b>Rascal</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>

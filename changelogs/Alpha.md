@@ -16,7 +16,24 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Alpha 10</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.1.0 Alpha 11</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added custom label ID for modded (from EHR)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when revived player not change custom role when they have ghost role<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when settings not synced
+= <font color=#F6BE00><b>CHANGE</b></font>: Some small changes<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 10.1</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed visual bug in meeting again (I hope)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some black screen cases are fixed (I hope)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed double intro screen<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 10</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when "/l" and "/role" not work<br>
@@ -24,6 +41,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed visual bug in meeting (I hope)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed black screen issue (I hope)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added warning message about enabled setting "No Game End" (Warns only host when he presses the start button)<br>
+</details>
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 9.1</font></b></summary>
 

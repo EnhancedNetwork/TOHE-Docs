@@ -281,11 +281,7 @@ export default defineUserConfig({
             { text: 'Swooper', link: '/options/Impostors/Concealing/Swooper.html' },
             { text: 'Trickster', link: '/options/Impostors/Concealing/Trickster.html' },
             { text: 'Undertaker', link: '/options/Impostors/Concealing/Undertaker.html' },
-            {
-              text: 'Vampire', link: '/options/Impostors/Concealing/Vampire.html', children: [
-                { text: 'Vampiress', link: '/options/Impostors/Concealing/Vampiress.html' },
-              ]
-            },
+            {text: 'Vampire', link: '/options/Impostors/Concealing/Vampire.html',},
             { text: 'Warlock', link: '/options/Impostors/Concealing/Warlock.html' },
             { text: 'Wildling', link: '/options/Impostors/Concealing/Wildling.html' },
           ],

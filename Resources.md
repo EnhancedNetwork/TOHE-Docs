@@ -757,6 +757,7 @@ You can edit these templates, or add your own on new-lines!
 On a new-line, you want to add your trigger word and your message. Such as: `[example]:this is an example template!` <i>(The trigger word being `[example]` and the message being `this is an example template!`. (YOU NEED THE `:`!))</i> You can add as many of these as you want. You can then save the file, boot up the mod, and run `/t [example]` in your chat box to see if it's set up to your liking!
 
 Alternatively, you may also use this [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) put together by one of TOHE's Contributors, [Drakos](https://github.com/Ultradragon005).
+
 <details>
 <summary><b><font color=gray>Guide</font></b></summary>
 
@@ -847,7 +848,7 @@ For some member submitted translations (not yet supported by Town of Host: Enhan
 - `<sup>exampleText</sup>` Enables <sup>Superscript</sup> for the text/font.
 - `<sub>exampleText</sub>` Enables <sub>Subscript</sub> for the text/font.
 - `<size=[size][%]>exampleText</size>` Sets the <font size=2em>Size</font> of the text/font. (Can type exact text/font sizes or use percentages.)
-- `\n` Creates a New Line. (Such as `<br>` (or the `[Enter]` key) would)
+- `\n` Creates a New Line. (Such as `<br>` or <kbd>Return</kbd>/<kbd>Enter</kbd> would.)
 
 > From: The Enhanced Network + Compiling: NotPyro404
 </details>
@@ -1212,6 +1213,7 @@ Below is a list of all languages supported by Vanilla Among Us.<br><br>
 
 Below is a list of all colors + their IDs supported by Vanilla Among Us.<br><br>
 
+<b>
 <table>
 <tr>
 <td align="center"><b>ID</b></td>
@@ -1290,6 +1292,7 @@ Below is a list of all colors + their IDs supported by Vanilla Among Us.<br><br>
 <td><font color=#ec7578>Coral</font></td>
 </tr>
 </table>
+</b>
 
 > From: Innersloth + Compiling: NotPyro404
 </details>

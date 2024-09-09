@@ -42,7 +42,7 @@ The official Among Us anti-cheat system often treats mods as cheats and may kick
 </details>
 <br>
 <details>
-<summary><b><font color=gray>Why has my connection to the server been interrupted?</font></b></summary>
+<summary><b><font color=gray>Why has my <font color=#996d6d>connection to the server been interrupted?</font></font></b></summary>
 
 If you find that other people can play normally, there are two possibilities:
 
@@ -52,7 +52,7 @@ If you find that other people can play normally, there are two possibilities:
 </details>
 <br>
 <details>
-<summary><b><font color=gray>Why does it say I am Unable to connect to my Among Us account?</font></b></summary>
+<summary><b><font color=gray>Why does it say I am <font color=#996d6d>Unable to connect to my Among Us account?</font></font></b></summary>
 
 There are a few possibilities such as having bad network strength, changing your VPN/VPN instability may also cause this problem. Some solutions are to restart the game, restart the VPN, restarting your router, or restarting the computer entirely.
 </details>
@@ -88,7 +88,7 @@ This problem could occur from a few causes:
 </details>
 <br>
 <details>
-<summary><b><font color=gray>After installing the Town of Host: Enhanced, it is still in vanilla, why?</font></b></summary>
+<summary><b><font color=gray>After installing the Town of Host: Enhanced, <font color=#996d6d>it is still in vanilla</font>, why?</font></b></summary>
 
 1. This may be caused by your antivirus software identifying the mod as a virus and automatically deleting it. Please try to close the antivirus software and reinstall it.
 
@@ -114,7 +114,7 @@ This is due to some bugs in the meeting billing that prevent the meeting from en
 </details>
 <br>
 <details>
-<summary><b><font color=gray>Why does the role reveal at the start of the game show that I am one role/team, but in game I am a different role/team?</font></b></summary>
+<summary><b><font color=gray>The role reveal at the start of the game shows that I am one role/team, <font color=#996d6d>but in game I am a different role/team</font>, why?</font></b></summary>
 
 In order to be compatible with vanilla, Host-only mods have to give you a Impostor base so that you can have the kill button. (Or for some roles, such as Crewpostor, you are an Impostor but your base is Engineer so that you can do Tasks to kill.) So for players who don't have the mod installed, you will see that you are an Impostor with no teammates. The initial team you are on is your role base. Please look at the bottom of your screen on the Role Reveal screen, or above your name in game to see what your actual role/team is.
 </details>
@@ -126,7 +126,7 @@ Host-Only mods are mods that are compatible with vanilla clients, meaning it onl
 </details>
 <br>
 <details>
-<summary><b><font color=gray>Why does the game end inexplicably?</font></b></summary>
+<summary><b><font color=gray>Why does the game <font color=#996d6d>end inexplicably?</font></font></b></summary>
 
 The game will end suddenly if there are an equal amount of Impostors alive to Non-Killing players (and the victory condition of a Neutral isn't met), the victory conditions of a Neutral is met, or the Crew is done all of their tasks. Some other possibilities may include:
 
@@ -166,7 +166,7 @@ There are a few possibilities
 
 2. You may need to enable more roles or allow more players to be the same role.
 
-3. You may come across this message: "There are incompatible roles in your role list, you may experience vanilla roles", which means you have a certain role & it's addon form enabled, (You can find info on what roles/addons are incompatible on these pages: [Crewmate](/options/Crewmates/Vanilla/Crewmate.html) | [Engineer](/options/Crewmates/Vanilla/Engineer.html) | [Scientist](/options/Crewmates/Vanilla/Scientist.html)) (This should not occur anymore as of 1.2.1 Alpha 3)
+3. You may come across this message: "There are incompatible roles in your role list, you may experience vanilla roles", which means you have a certain role & it's addon form enabled. (This should not occur anymore as of 1.2.1 Alpha 3)
 
 4. Eraser might've erased your role, resetting you to your base role (Impostor/Shapeshifter/Crewmate/Engineer/Scientist are all Base Roles (Base Role =/= Team/Role))
 
@@ -174,7 +174,7 @@ There are a few possibilities
 </details>
 <br>
 <details>
-<summary><b><font color=gray>Why does the game never end?</font></b></summary>
+<summary><b><font color=gray>Why does the game <font color=#996d6d>never</font> end?</font></b></summary>
 
 There are a few possibilities,
 
@@ -207,7 +207,7 @@ Read near the bottom of the [Install](/Install.html) page.
 </details>
 <br>
 <details>
-<summary><b><font color=gray>Why can't I post in #role-ideas in the Discord Server of The Enhanced Network?</font></b></summary>
+<summary><b><font color=gray>Why can't I post in #role-ideas in The Enhanced Network Discord?</font></b></summary>
 
 Role Ideas are currently locked to Sponsors, Nitro Boosters, & Contributors. This is so that the Developers/Contributors of Town of Host: Enhanced can catch up on role ideas. The channel will open back up at a later date, but there's not a specific time.
 </details>

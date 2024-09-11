@@ -29,7 +29,7 @@ In this section, you can find Starter Presets. These are great for new hosts/pla
 Important Notes: There are currently no Advanced Presets to choose from. You should not see this unless you are looking at my GitHub profile (NotPyro404) or Moe merged this too early. (I haven't even made a PR yet!)
 
 <details>
-<summary><b><font color=gray>Vanilla</font></b></summary>
+<summary><b><font color=gray>Introduction to TOHE</font></b></summary>
 
 <a href="/presets/StarterVanilla.json" download>Download this Preset</a><br>
 Important Notes: This Preset is as simple as they come, well, besides just being default Impostors & Crewmates, but it's to get you familiar with the very base Mechanics. Roles Enabled below:<br>
@@ -39,7 +39,7 @@ Vanilla Roles for Crewmates
 > Provided by: NotPyro404
 </details>
 <details>
-<summary><b><font color=gray>Vanilla+</font></b></summary>
+<summary><b><font color=gray>Introduction to Special Crewmate Abilities + Neutrals</font></b></summary>
 
 <a href="/presets/StarterVanillaPlus.json" download>Download this Preset</a><br>
 Important Notes: This Preset is the same as Vanilla, but instead to introduce you to Special Crewmate Abilities, & Neutrals. Roles Enabled below:<br>
@@ -49,18 +49,30 @@ Jester & Serial Killer for Neutrals.
 
 > Provided by: NotPyro404
 </details>
+<details>
+<summary><b><font color=gray>Introduction to Add-ons</font></b></summary>
+
+<a href="/presets/StarterVanillaPlusPlus.json" download>Download this Preset</a><br>
+Important Notes: This Preset is the same as Vanilla+, but instead to introduce you to Add-ons! Roles Enabled below:<br>
+Vanilla Roles for Impostors<br>
+Vanilla Roles, Sheriff, & Mechanic for Crewmates<br>
+Jester & Serial Killer for Neutrals.
+Autopsy, Bait, Nimble, Watcher, Disregarded, & Gravestone for Neutrals.
+
+> Provided by: NotPyro404
+</details>
 
 </details>
 <details>
 <summary><b><font color=#446280>Advanced Presets</font></b></summary>
 
-In this section, you can find Advanced Presets. These are recommended for TOHE casuals that may want to try out hosting for themselves, or new hosts that have familiarized themselves with some <i>basic</i> TOHE mechanics. These are all found on Preset Slot 1.
+In this section, you can find Advanced Presets. These are recommended for TOHE casuals that may want to try out hosting for themselves, or new hosts that have familiarized themselves with some <i>basic</i> TOHE mechanics. Enabled Roles will not be displayed for Advanced/Expert Presets.
 
 <details>
-<summary><b><font color=gray>Not Available</font></b></summary>
+<summary><b><font color=gray>Ed's Recommendations</font></b></summary>
 
-<b>This is a Work in Progress!</b><br>
-Important Notes: There are currently no Advanced Presets to choose from. You should not see this unless you are looking at my GitHub profile (NotPyro404) or Moe merged this too early. (I haven't even made a PR yet!)
+<a href="/presets/AdvancedEd.json" download>Download this Preset</a><br>
+Important Notes: This Preset is what Ed (holmes3) uses in their lobbies and recommends to familiar hosts.
 
 > Provided by: NotPyro404
 </details>
@@ -69,7 +81,7 @@ Important Notes: There are currently no Advanced Presets to choose from. You sho
 <details>
 <summary><b><font color=#37254a>Expert Presets</font></b></summary>
 
-In this section, you can find Expert Presets. These are recommended for hosts that may want to try turning up the heat, or TOHE Veterans that want a bigger challenge. Some of these can get insane, & complex. These are all found on Preset Slot 1.
+In this section, you can find Expert Presets. These are recommended for hosts that may want to try turning up the heat, or TOHE Veterans that want a bigger challenge. Some of these can get insane, & complex. Enabled Roles will not be displayed for Advanced/Expert Presets.
 
 <details>
 <summary><b><font color=gray>Not Available</font></b></summary>

@@ -32,9 +32,7 @@ Important Notes: There are currently no Advanced Presets to choose from. You sho
 <summary><b><font color=gray>Introduction to TOHE</font></b></summary>
 
 <a href="/presets/StarterVanilla.json" download>Download this Preset</a><br>
-Important Notes: This Preset is as simple as they come, well, besides just being default Impostors & Crewmates, but it's to get you familiar with the very base Mechanics. Roles Enabled below:<br>
-Vanilla Roles for Impostors<br>
-Vanilla Roles for Crewmates
+Important Notes: This Preset is as simple as they come, well, besides just being default Impostors & Crewmates, but it's to get you famiar wliith the very base Mechanics.
 
 > Provided by: NotPyro404
 </details>
@@ -43,9 +41,7 @@ Vanilla Roles for Crewmates
 
 <a href="/presets/StarterVanillaPlus.json" download>Download this Preset</a><br>
 Important Notes: This Preset is the same as Vanilla, but instead to introduce you to Special Crewmate Abilities, & Neutrals. Roles Enabled below:<br>
-Vanilla Roles for Impostors<br>
-Vanilla Roles, Sheriff, & Mechanic for Crewmates<br>
-Jester & Serial Killer for Neutrals.
+Sheriff, Mechanic, Jester, & Serial Killer.
 
 > Provided by: NotPyro404
 </details>
@@ -53,11 +49,15 @@ Jester & Serial Killer for Neutrals.
 <summary><b><font color=gray>Introduction to Add-ons</font></b></summary>
 
 <a href="/presets/StarterVanillaPlusPlus.json" download>Download this Preset</a><br>
-Important Notes: This Preset is the same as Vanilla+, but instead to introduce you to Add-ons! Roles Enabled below:<br>
-Vanilla Roles for Impostors<br>
-Vanilla Roles, Sheriff, & Mechanic for Crewmates<br>
-Jester & Serial Killer for Neutrals.
-Autopsy, Bait, Nimble, Watcher, Disregarded, & Gravestone for Neutrals.
+Important Notes: This Preset is to introduce you to specific Add-ons! Nothing Speed related/complicated yet.
+
+> Provided by: NotPyro404
+</details>
+<details>
+<summary><b><font color=gray>Introduction to Impostors</font></b></summary>
+
+<a href="/presets/StarterVanillaPlusPlus.json" download>Download this Preset</a><br>
+Important Notes: This Preset is to get you into the various Impostor Roles. These will only be ones with basic abilities, nothing crazy.
 
 > Provided by: NotPyro404
 </details>
@@ -66,7 +66,7 @@ Autopsy, Bait, Nimble, Watcher, Disregarded, & Gravestone for Neutrals.
 <details>
 <summary><b><font color=#446280>Advanced Presets</font></b></summary>
 
-In this section, you can find Advanced Presets. These are recommended for TOHE casuals that may want to try out hosting for themselves, or new hosts that have familiarized themselves with some <i>basic</i> TOHE mechanics. Enabled Roles will not be displayed for Advanced/Expert Presets.
+In this section, you can find Advanced Presets. These are recommended for TOHE casuals that may want to try out hosting for themselves, or new hosts that have familiarized themselves with some <i>basic</i> TOHE mechanics.
 
 <details>
 <summary><b><font color=gray>Ed's Recommendations</font></b></summary>
@@ -81,7 +81,7 @@ Important Notes: This Preset is what Ed (holmes3) uses in their lobbies and reco
 <details>
 <summary><b><font color=#37254a>Expert Presets</font></b></summary>
 
-In this section, you can find Expert Presets. These are recommended for hosts that may want to try turning up the heat, or TOHE Veterans that want a bigger challenge. Some of these can get insane, & complex. Enabled Roles will not be displayed for Advanced/Expert Presets.
+In this section, you can find Expert Presets. These are recommended for hosts that may want to try turning up the heat, or TOHE Veterans that want a bigger challenge. Some of these can get insane, & complex.
 
 <details>
 <summary><b><font color=gray>Not Available</font></b></summary>

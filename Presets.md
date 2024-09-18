@@ -8,8 +8,8 @@ contributors: false
 
 You can save your favorite settings as presets and load them later. You can also download presets shared by others.
 
-If you are new to hosting and don't know what to enable, there are also some Starter Presets below. Once you have a bit of a grasp on some roles and some special perks, you can try out some Advanced Presets, unless you think you're ready to try out Expert Presets, which include a lot of complex roles and perks. 
-If you want to try out what some community members roll with, you can try downloading one of the many Member Submitted Presets, which can range from Straight-forward all the way to Experienced.
+If you are new to hosting and don't know what to enable, there are also some <b>Starter Presets</b> below. Once you have a bit of a grasp on some roles and some special perks, you can try out some <b>Advanced Presets</b>, unless you think you're ready to try out <b>Expert Presets</b>, which include a lot of complex roles and perks. 
+If you want to try out what some community members roll with, you can try downloading one of the many <i>Member Submitted Presets<i>, which are sorted by the above system.
 
 For Instructions on how to Install Presets, visit the bottom of [This Page](/Install.html).
 
@@ -23,7 +23,7 @@ You can submit your own preset to be featured by joining the [Discord Server](ht
 <details>
 <summary><b><font color=#63806e>Starter Presets</font></b></summary>
 
-In this section, you can find Starter Presets. These are great for new hosts/players that want to slowly learn about all that Town of Host: Enhanced has to offer, but are also amazing for TOHE Veterans that may want to take a breather from the chaos. These are all found on Preset Slot 1.<br><br>
+In this section, you can find Starter Presets. These are great for new hosts/players that want to slowly learn about all that Town of Host: Enhanced has to offer, but are also amazing for TOHE Veterans that may want to take a breather from the chaos.<br><br>
 
 <b>This is a Work in Progress!</b><br>
 Important Notes: There are currently no Advanced Presets to choose from. You should not see this unless you are looking at my GitHub profile (NotPyro404) or Moe merged this too early. (I haven't even made a PR yet!)
@@ -74,7 +74,7 @@ In this section, you can find Advanced Presets. These are recommended for TOHE c
 <a href="/presets/AdvancedEd.json" download>Download this Preset</a><br>
 Important Notes: This Preset is what Ed (holmes3) uses in their lobbies and recommends to familiar hosts.
 
-> Provided by: NotPyro404
+> Provided by: Ed
 </details>
 
 </details>
@@ -82,19 +82,6 @@ Important Notes: This Preset is what Ed (holmes3) uses in their lobbies and reco
 <summary><b><font color=#37254a>Expert Presets</font></b></summary>
 
 In this section, you can find Expert Presets. These are recommended for hosts that may want to try turning up the heat, or TOHE Veterans that want a bigger challenge. Some of these can get insane, & complex.
-
-<details>
-<summary><b><font color=gray>Not Available</font></b></summary>
-
-<b>This is a Work in Progress!</b><br>
-Important Notes: There are currently no Advanced Presets to choose from. You should not see this unless you are looking at my GitHub profile (NotPyro404) or Moe merged this too early. (I haven't even made a PR yet!)
-
-> Provided by: NotPyro404
-</details>
-
-</details>
-<details>
-<summary><b><font color=gray>Member Submitted Presets</font></b></summary>
 
 <details>
 <summary><b><font color=gray>Marg's Regular Settings & Extreme Chaos Settings</font></b></summary>
@@ -113,7 +100,5 @@ Important Notes: Preset 1 is Pyro's Circus. This has every role enabled (Besides
 Version: 2.1.0 Alpha 3
 
 > Submitted by: NotPyro404
-</details>
-
 </details>
 </font>

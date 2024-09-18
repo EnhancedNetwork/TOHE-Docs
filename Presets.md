@@ -8,7 +8,7 @@ contributors: false
 
 You can save your favorite settings as presets and load them later. You can also download presets shared by others.
 
-If you are new to hosting and don't know what to enable, there are also some <b>Starter Presets</b> below. Once you have a bit of a grasp on some roles and some special perks, you can try out some <b>Advanced Presets</b>, unless you think you're ready to try out <b>Expert Presets</b>, which include a lot of complex roles and perks. 
+If you are new to hosting and don't know what to enable, there are also some <b>Starter Presets</b> below. Once you have a bit of a grasp on some roles and some special perks, you can try out some <b>Advanced Presets</b>, unless you think you're ready to try out <b>Expert Presets</b>, which include a lot of complex roles and perks.<br>
 If you want to try out what some community members roll with, you can try downloading one of the many <i>Member Submitted Presets<i>, which are sorted by the above system.
 
 For Instructions on how to Install Presets, visit the bottom of [This Page](/Install.html).
@@ -25,8 +25,7 @@ You can submit your own preset to be featured by joining the [Discord Server](ht
 
 In this section, you can find Starter Presets. These are great for new hosts/players that want to slowly learn about all that Town of Host: Enhanced has to offer, but are also amazing for TOHE Veterans that may want to take a breather from the chaos.<br><br>
 
-<b>This is a Work in Progress!</b><br>
-Important Notes: There are currently no Advanced Presets to choose from. You should not see this unless you are looking at my GitHub profile (NotPyro404) or Moe merged this too early. (I haven't even made a PR yet!)
+Important Notes: I am not a genius, I am not good at creating Presets to introduce players to TOHE. Submissions are appreciated for what you would recommend to new hosts.
 
 <details>
 <summary><b><font color=gray>Introduction to TOHE</font></b></summary>

@@ -188,7 +188,6 @@ export default defineUserConfig({
           ],
           '/options/Crewmates/Experimental/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
-            { text: 'Altruist', link: '/options/Crewmates/Experimental/Altruist.html' },
           ],
           '/options/Crewmates/Ghost/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
@@ -230,6 +229,7 @@ export default defineUserConfig({
           ],
           '/options/Crewmates/Support/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
+            { text: 'Altruist', link: '/options/Crewmates/Support/Altruist.html' },
             { text: 'Benefactor', link: '/options/Crewmates/Support/Benefactor.html' },
             { text: 'Chameleon', link: '/options/Crewmates/Support/Chameleon.html' },
             { text: 'Coroner', link: '/options/Crewmates/Support/Coroner.html' },
@@ -281,7 +281,7 @@ export default defineUserConfig({
             { text: 'Swooper', link: '/options/Impostors/Concealing/Swooper.html' },
             { text: 'Trickster', link: '/options/Impostors/Concealing/Trickster.html' },
             { text: 'Undertaker', link: '/options/Impostors/Concealing/Undertaker.html' },
-            {text: 'Vampire', link: '/options/Impostors/Concealing/Vampire.html',},
+            { text: 'Vampire', link: '/options/Impostors/Concealing/Vampire.html',},
             { text: 'Warlock', link: '/options/Impostors/Concealing/Warlock.html' },
             { text: 'Wildling', link: '/options/Impostors/Concealing/Wildling.html' },
           ],

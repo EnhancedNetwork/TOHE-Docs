@@ -36,11 +36,12 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 
 ## Website Maintainer
 
-[**Pyro**](https://sites.google.com/view/notpyro404)：<font color=#49e6ac>TOHE Website Maintainer + Moderator</font>
+[**Pyro**](https://sites.google.com/view/notpyro404)：<font color=#49e6ac>TOHE Docs Website Maintainer + Moderator + Technically TOHE Contributor</font>
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 
-I'm also mostly known online as NotPyro404. I am a Moderator in the Discord Server for The Enhanced Network, aswell as the Website Maintainer for [T.E.N.](https://weareten.ca/). If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
+I'm also mostly known online as NotPyro404. I am a Moderator in the Discord Server for The Enhanced Network, aswell as a Website Maintainer for [T.E.N.](https://weareten.ca/) (Mainly TOHE Documentation). I'm now technically a TOHE Contributor because I've "coded" my first addon, Sloth!<br>
+If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 </details>
 
 ---
@@ -158,10 +159,9 @@ Hey! I am Cayla, I love the ocean and anything nautical. My favorite animal is a
 
 ---
 
-## TOHE Team
-### Lead Developer
+### Lead Developers
 
-[**Tommy-XL**](https://github.com/Tommy-XL)：<font color=#ec7578>Lead Developer + Role/Feature Coding + <font color=#0036a7><b>Russian</b></font> Translator</font>
+[**Tommy-XL**](https://github.com/Tommy-XL)：<font color=#008080>TOHE Lead Developer + Role/Feature Coding + <font color=#0036a7><b>Russian</b></font> Translator</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -169,6 +169,18 @@ I love playing games (I mostly play all games on PlayStation). I especially pay 
 </details>
 
 ---
+
+[**D1GQ**](https://github.com/D1GQ)：<font color=#1a5a91>BAU Lead Developer + Role Coding</font>
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+Sup... I recently got into coding in the last two years, mostly C# and Python.
+and I also do 3D art design as a hobby! Glad to meet everyone here and can't wait to work with y'all. ❤️
+</details>
+
+---
+
+## TOHE Team
 
 ### Contributors
 
@@ -224,16 +236,6 @@ TChinese Translator for in TOHE since April 2023. I'm a casual gamer, playing ga
 I'm a TOHE Contributor.
 The voices? Nah I'd win.
 I play chess when I'm bored, and catch crypto pumps 😼. I also workout and try to run very fast, so that's cool I guess.
-</details>
-
----
-
-[**D1GQ**](https://github.com/D1GQ)：Role Coding
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-Sup... I recently got into coding in the last two years, mostly C# and Python.
-and I also do 3D art design as a hobby! Glad to meet everyone here and can't wait to work with y'all. ❤️
 </details>
 
 ---

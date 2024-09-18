@@ -31,7 +31,7 @@ Important Notes: There are currently no Advanced Presets to choose from. You sho
 <details>
 <summary><b><font color=gray>Introduction to TOHE</font></b></summary>
 
-<a href="/presets/StarterVanilla.json" download>Download this Preset</a><br>
+<a href="/presets/StarterIntroTOHE.json" download>Download this Preset</a><br>
 Important Notes: This Preset is as simple as they come, well, besides just being default Impostors & Crewmates, but it's to get you famiar wliith the very base Mechanics.
 
 > Provided by: NotPyro404
@@ -39,7 +39,7 @@ Important Notes: This Preset is as simple as they come, well, besides just being
 <details>
 <summary><b><font color=gray>Introduction to Special Crewmate Abilities + Neutrals</font></b></summary>
 
-<a href="/presets/StarterVanillaPlus.json" download>Download this Preset</a><br>
+<a href="/presets/StarterIntroNeut.json" download>Download this Preset</a><br>
 Important Notes: This Preset is the same as Vanilla, but instead to introduce you to Special Crewmate Abilities, & Neutrals. Roles Enabled below:<br>
 Sheriff, Mechanic, Jester, & Serial Killer.
 
@@ -48,16 +48,16 @@ Sheriff, Mechanic, Jester, & Serial Killer.
 <details>
 <summary><b><font color=gray>Introduction to Add-ons</font></b></summary>
 
-<a href="/presets/StarterVanillaPlusPlus.json" download>Download this Preset</a><br>
-Important Notes: This Preset is to introduce you to specific Add-ons! Nothing Speed related/complicated yet.
+<a href="/presets/StarterIntroAddon.json" download>Download this Preset</a><br>
+Important Notes: This Preset is to introduce you to a few Add-ons that spice gameplay. Nothing Speed related/complicated yet.
 
 > Provided by: NotPyro404
 </details>
 <details>
 <summary><b><font color=gray>Introduction to Impostors</font></b></summary>
 
-<a href="/presets/StarterVanillaPlusPlus.json" download>Download this Preset</a><br>
-Important Notes: This Preset is to get you into the various Impostor Roles. These will only be ones with basic abilities, nothing crazy.
+<a href="/presets/StarterIntroImp.json" download>Download this Preset</a><br>
+Important Notes: This Preset is to get you into a few Impostor Roles. These will only be ones with basic abilities, nothing crazy.
 
 > Provided by: NotPyro404
 </details>

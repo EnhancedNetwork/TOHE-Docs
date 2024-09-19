@@ -847,6 +847,167 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Autopsy",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Autopsy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bait",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Bait.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Beartrap",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Beartrap.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bewilder",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Bewilder.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Burst",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Burst.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Cyber",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Cyber.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Evader",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Evader.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Flash",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Flash.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lazy",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Lazy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Loyal",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Loyal.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lucky",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Lucky.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Necroview",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Necroview.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Nimble",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Nimble.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Overclocked",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Overclocked.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Radar",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Radar.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Rebirth",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Rebirth.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Seer",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Seer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Silent",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Silent.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sleuth",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Sleuth.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Spurt",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Spurt.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Tiebreaker",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Tiebreaker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Torch",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Torch.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Watcher",
+    "headers": [],
+    "path": "/options/Addons/Helpful/Watcher.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Circumvent",
     "headers": [],
     "path": "/options/Addons/Impostor/Circumvent.html",
@@ -1022,163 +1183,23 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Autopsy",
+    "title": "Ghastly",
     "headers": [],
-    "path": "/options/Addons/Helpful/Autopsy.html",
+    "path": "/options/Crewmates/Ghost/Ghastly.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Bait",
+    "title": "Hawk",
     "headers": [],
-    "path": "/options/Addons/Helpful/Bait.html",
+    "path": "/options/Crewmates/Ghost/Hawk.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Beartrap",
+    "title": "Warden",
     "headers": [],
-    "path": "/options/Addons/Helpful/Beartrap.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bewilder",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Bewilder.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Burst",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Burst.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Cyber",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Cyber.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Evader",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Evader.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Flash",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Flash.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lazy",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Lazy.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Loyal",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Loyal.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lucky",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Lucky.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Necroview",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Necroview.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Nimble",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Nimble.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Overclocked",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Overclocked.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Radar",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Radar.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Rebirth",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Rebirth.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Seer",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Seer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Silent",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Silent.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sleuth",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Sleuth.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Spurt",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Spurt.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Tiebreaker",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Tiebreaker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Torch",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Torch.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Watcher",
-    "headers": [],
-    "path": "/options/Addons/Helpful/Watcher.html",
+    "path": "/options/Crewmates/Ghost/Warden.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1291,27 +1312,6 @@ export const searchIndex = [
     "title": "Transporter",
     "headers": [],
     "path": "/options/Crewmates/Basic/Transporter.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Ghastly",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Ghastly.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hawk",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Hawk.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Warden",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Warden.html",
     "pathLocale": "/",
     "extraFields": []
   },

@@ -9,7 +9,7 @@ contributors: false
 You can save your favorite settings as presets and load them later. You can also download presets shared by others.
 
 If you are new to hosting and don't know what to enable, there are also some <b>Starter Presets</b> below. Once you have a bit of a grasp on some roles and some special perks, you can try out some <b>Advanced Presets</b>, unless you think you're ready to try out <b>Expert Presets</b>, which include a lot of complex roles and perks.<br>
-If you want to try out what some community members roll with, you can try downloading one of the many <i>Member Submitted Presets<i>, which are sorted by the above system.
+If you want to try out what some community members roll with, you can try downloading one of the many <i>Member Submitted Presets</i>, which are sorted by the above system.
 
 For Instructions on how to Install Presets, visit the bottom of [This Page](/Install.html).
 
@@ -99,5 +99,6 @@ Important Notes: Preset 1 is Pyro's Circus. This has every role enabled (Besides
 Version: 2.1.0 Alpha 3
 
 > Submitted by: NotPyro404
+</details>
 </details>
 </font>

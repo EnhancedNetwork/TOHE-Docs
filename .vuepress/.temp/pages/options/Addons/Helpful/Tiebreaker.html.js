@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Addons/Helpful/Tiebreaker.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Addons/Helpful/Tiebreaker.html\",\"title\":\"Tiebreaker\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Tiebreaker\",\"prev\":\"Spurt\",\"next\":\"Torch\"},\"headers\":[],\"git\":{\"updatedTime\":1723399844000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":4},{\"name\":\"Pyro\",\"email\":\"141536178+Pyro0TV@users.noreply.github.com\",\"commits\":1},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Addons/Helpful/Tiebreaker.md\"}")
+export { comp, data }

@@ -41,7 +41,7 @@ next: /Roles.html
 
 <tr>
 <td><a href="#support" style="color:#7fffd4"><b>🏥 Support</b></a></td>
-<td align="center">27</td>
+<td align="center">28</td>
 </tr>
 
 <tr>
@@ -51,7 +51,7 @@ next: /Roles.html
 
 <tr>
 <td><font color=#8cffff><b>📊 Total:</b></font></td>
-<td align="center"><b>89</b></td>
+<td align="center"><b>90</b></td>
 </tr>
 
 </table>
@@ -64,7 +64,7 @@ next: /Roles.html
 
 ### <font color=#224c4d><b>Experimental</b></font>
 ---
-[N/A](#)
+[None](#)
 
 ### <font color=#9bacb2><b>Ghost</b></font>
 ---
@@ -82,7 +82,7 @@ next: /Roles.html
 
 ### <font color=#7fffd4><b>Support</b></font>
 ---
-[Benefactor](/options/Crewmates/Support/Benefactor.html) | [Chameleon](/options/Crewmates/Support/Chameleon.html) | [Coroner](/options/Crewmates/Support/Coroner.html) | [Deputy](/options/Crewmates/Support/Deputy.html) | [Detective](/options/Crewmates/Support/Detective.html) | [Enigma](/options/Crewmates/Support/Enigma.html) | [Fortune Teller](/options/Crewmates/Support/FortuneTeller.html) | [Grenadier](/options/Crewmates/Support/Grenadier.html) | [Inspector](/options/Crewmates/Support/Inspector.html) | [Investigator](/options/Crewmates/Support/Investigator.html) | [Keeper](/options/Crewmates/Support/Keeper.html) | [Lighter](/options/Crewmates/Support/Lighter.html) | [Mechanic](/options/Crewmates/Support/Mechanic.html) | [Medic](/options/Crewmates/Support/Medic.html) | [Medium](/options/Crewmates/Support/Medium.html) | [Merchant](/options/Crewmates/Support/Merchant.html) | [Mortician](/options/Crewmates/Support/Mortician.html) | [Observer](/options/Crewmates/Support/Observer.html) | [Oracle](/options/Crewmates/Support/Oracle.html) | [Pacifist](/options/Crewmates/Support/Pacifist.html) | [Psychic](/options/Crewmates/Support/Psychic.html) | [Snitch](/options/Crewmates/Support/Snitch.html) | [Spiritualist](/options/Crewmates/Support/Spiritualist.html) | [Spy](/options/Crewmates/Support/Spy.html) | [Time Manager](/options/Crewmates/Support/TimeManager.html) | [Time Master](/options/Crewmates/Support/TimeMaster.html) | [Witness](/options/Crewmates/Support/Witness.html)
+[Altruist](/options/Crewmates/Support/Altruist.html) | [Benefactor](/options/Crewmates/Support/Benefactor.html) | [Chameleon](/options/Crewmates/Support/Chameleon.html) | [Coroner](/options/Crewmates/Support/Coroner.html) | [Deputy](/options/Crewmates/Support/Deputy.html) | [Detective](/options/Crewmates/Support/Detective.html) | [Enigma](/options/Crewmates/Support/Enigma.html) | [Fortune Teller](/options/Crewmates/Support/FortuneTeller.html) | [Grenadier](/options/Crewmates/Support/Grenadier.html) | [Inspector](/options/Crewmates/Support/Inspector.html) | [Investigator](/options/Crewmates/Support/Investigator.html) | [Keeper](/options/Crewmates/Support/Keeper.html) | [Lighter](/options/Crewmates/Support/Lighter.html) | [Mechanic](/options/Crewmates/Support/Mechanic.html) | [Medic](/options/Crewmates/Support/Medic.html) | [Medium](/options/Crewmates/Support/Medium.html) | [Merchant](/options/Crewmates/Support/Merchant.html) | [Mortician](/options/Crewmates/Support/Mortician.html) | [Observer](/options/Crewmates/Support/Observer.html) | [Oracle](/options/Crewmates/Support/Oracle.html) | [Pacifist](/options/Crewmates/Support/Pacifist.html) | [Psychic](/options/Crewmates/Support/Psychic.html) | [Snitch](/options/Crewmates/Support/Snitch.html) | [Spiritualist](/options/Crewmates/Support/Spiritualist.html) | [Spy](/options/Crewmates/Support/Spy.html) | [Time Manager](/options/Crewmates/Support/TimeManager.html) | [Time Master](/options/Crewmates/Support/TimeMaster.html) | [Witness](/options/Crewmates/Support/Witness.html)
 <br>
 
 ### <font color=#8cffff><b>Vanilla</b></font>

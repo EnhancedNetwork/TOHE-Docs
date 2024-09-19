@@ -16,7 +16,7 @@ next: /Roles.html
 </tr>
 
 <tr>
-<td>><a href="#apocalypse" style="color:#cc0044"><b>🚨 Apocalypse</b></a></td>
+<td><a href="#apocalypse" style="color:#cc0044"><b>🚨 Apocalypse</b></a></td>
 <td align="center">4</td>
 </tr>
 

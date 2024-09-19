@@ -16,7 +16,117 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Alpha 7</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.1.0 Alpha 12</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL) + [**NikoCat223**](https://github.com/NikoCat233)<br>
+\+ <font color=green><b>NEW</b></font>: Added disabling vent usage for vanilla (ported from MoreGamemodes) (When a player does not have access to vents, they will never be able to use it)<br>
+
+* By [**Pyro**](https://github.com/NotPyro404)<br>
+\+ <font color=green><b>NEW</b></font>: Harmful Add-on: Sloth<br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Setting for Jester: "Can't Move In Vents"<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Altruist was improved and removed from Experimental role<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when in FFA assigns crewmate basic<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some bugs for Psychic<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed id label<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some errors in logs<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Deceiver can kill Serial Killer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Enigma level clue<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Medium message shows when Medium dead<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Hangman can kill Nice Mini<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed minimum kill cooldown for Huntsman<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Bloodmoon not work for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed missed strings for Blackmailer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Overseer show med scanner after meeting<br>
+=  Inhibitor and Saboteur now use the sabotage sound in intro<br>
+
+* By [**WaterPanda**](#)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Jester, Zombie and Solsticer can't get Rebirth<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Altruist can't be Oblivious<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 11</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added custom label ID for modded (from EHR)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when revived player not change custom role when they have ghost role<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when settings not synced
+= <font color=#F6BE00><b>CHANGE</b></font>: Some small changes<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 10.1</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed visual bug in meeting again (I hope)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some black screen cases are fixed (I hope)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed double intro screen<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 10</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when "/l" and "/role" not work<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed critical error in FFA<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed visual bug in meeting (I hope)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed black screen issue (I hope)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added warning message about enabled setting "No Game End" (Warns only host when he presses the start button)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 9.1</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when "BanList.txt" work incorrectly (Sorry, i forgot to remove just one code, lol)
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 9.1</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Just fixed problems where the game ends immediately after starting (Optional upgrade if you don't finish the game immediately after starting, lol)
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 9.1</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Just fixed problems where the game ends immediately after starting (Optional upgrade if you don't finish the game immediately after starting, lol)
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 9</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Dleks not loaded<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bugs with ghost roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when blackmailed not work for non-host modded players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for Phantom for desync players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Eraser can erase ghost role<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed the display death reasons in meeting for modded players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 8.2</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: =  Well, you really know what I'm trying to fix (Also all builds work fine in new AU version)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 8.1</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Another attempt to fix role assign<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 8</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Experimental Crewmate Role: Altruist (Functions fine, but not fully completed, so i don't recommend using this role yet. I mean revived players can remember all/some the player roles while they were dead)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed disconnects while role assigns<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Lot of fixes for AntiBlackOut<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Change death reason display (from EHR)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for spawn players in start game and after meeting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when in exile player displayed full roles and add-ons<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 7</font></b></summary>
 
 * By [**Drakos**](https://github.com/Ultradragon005) + [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Added support role basic changer mid-game<br>

@@ -15,9 +15,9 @@ Other general help related pages can be found at [FAQ](/FAQ.html) (For common qu
 <summary><b><font color=gray>Hot-Keys</font></b></summary>
 Below is a list of Hot-Keys that you can use to make your experience better while playing Town of Host: Enhanced. You can use these Hot-Keys to perform certain actions.<br>
 <details>
-<summary><b><font color=red>Everyone</font></b></summary>
+<summary><b><font color=#996d6d>Everyone</font></b></summary>
 <details>
-<summary><b><font color=orange>Everyone - General</font></b></summary>
+<summary><b><font color=#8a5353>Everyone - General</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Hot-Key</b></td>
@@ -35,7 +35,7 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 </details>
 <br>
 <details>
-<summary><b><font color=orange>Everyone - Mod Only</font></b></summary>
+<summary><b><font color=#8a5353>Everyone - Mod Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Hot-Key</b></td>
@@ -94,10 +94,10 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 </details>
 <br>
 <details>
-<summary><b><font color=red>Host Only</font></b></summary>
+<summary><b><font color=#996d6d>Host Only</font></b></summary>
 <br>
 <details>
-<summary><b><font color=orange>Host Only - General</font></b></summary>
+<summary><b><font color=#8a5353>Host Only - General</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Hot-Key</b></td>
@@ -151,7 +151,7 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 </details>
 <br>
 <details>
-<summary><b><font color=orange>Host Only - Debug</font></b></summary>
+<summary><b><font color=#8a5353>Host Only - Debug</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Hot-Key</b></td>
@@ -223,9 +223,9 @@ Below is a list of commands that you can use to make your experience better whil
 
 Note: Commands that are italicized are considered "essential" and are recommended for all players.<br>
 <details>
-<summary><b><font color=red>Everyone</font></b></summary>
+<summary><b><font color=#996d6d>Everyone</font></b></summary>
 <details>
-<summary><b><font color=orange>Everyone - General</font></b></summary>
+<summary><b><font color=#8a5353>Everyone - General</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -411,7 +411,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 </details>
 <br>
 <details>
-<summary><b><font color=orange>Everyone - Minigames</font></b></summary>
+<summary><b><font color=#8a5353>Everyone - Minigames</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -441,7 +441,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 </details>
 <br>
 <details>
-<summary><b><font color=orange>Everyone - Mod Only</font></b></summary>
+<summary><b><font color=#8a5353>Everyone - Mod Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -463,7 +463,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 </details>
 <br>
 <details>
-<summary><b><font color=orange>Everyone - Role Specific</font></b></summary>
+<summary><b><font color=#8a5353>Everyone - Role Specific</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -526,7 +526,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 </details>
 <br>
 <details>
-<summary><b><font color=red>VIP Only</font></b></summary>
+<summary><b><font color=#996d6d>VIP Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -564,7 +564,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 </details>
 <br>
 <details>
-<summary><b><font color=red>Moderator Only</font></b></summary>
+<summary><b><font color=#996d6d>Moderator Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -610,7 +610,7 @@ Note: Commands that are italicized are considered "essential" and are recommende
 </details>
 <br>
 <details>
-<summary><b><font color=red>Host Only</font></b></summary>
+<summary><b><font color=#996d6d>Host Only</font></b></summary>
 <table>
 <tr>
 <td align="center"> <b>Command</b></td>
@@ -757,6 +757,7 @@ You can edit these templates, or add your own on new-lines!
 On a new-line, you want to add your trigger word and your message. Such as: `[example]:this is an example template!` <i>(The trigger word being `[example]` and the message being `this is an example template!`. (YOU NEED THE `:`!))</i> You can add as many of these as you want. You can then save the file, boot up the mod, and run `/t [example]` in your chat box to see if it's set up to your liking!
 
 Alternatively, you may also use this [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) put together by one of TOHE's Contributors, [Drakos](https://github.com/Ultradragon005).
+
 <details>
 <summary><b><font color=gray>Guide</font></b></summary>
 
@@ -847,7 +848,7 @@ For some member submitted translations (not yet supported by Town of Host: Enhan
 - `<sup>exampleText</sup>` Enables <sup>Superscript</sup> for the text/font.
 - `<sub>exampleText</sub>` Enables <sub>Subscript</sub> for the text/font.
 - `<size=[size][%]>exampleText</size>` Sets the <font size=2em>Size</font> of the text/font. (Can type exact text/font sizes or use percentages.)
-- `\n` Creates a New Line. (Such as `<br>` (or the `[Enter]` key) would)
+- `\n` Creates a New Line. (Such as `<br>` or <kbd>Return</kbd>/<kbd>Enter</kbd> would.)
 
 > From: The Enhanced Network + Compiling: NotPyro404
 </details>
@@ -876,27 +877,6 @@ Here's a Doc covering Fonts & Symbols that you can use while creating Templates!
 You can find the <i>original</i> Hex Codes of Town of Host: Enhanced Roles [Here](https://github.com/0xDrMoe/TownofHost-Enhanced/blob/main/Resources/roleColor.json).<br><br>
 
 > From: The Enhanced Network
-</details>
-<br>
-<details>
-<summary><b><font color=gray>Presets Info</font></b></summary>
-
-You can save your favorite settings as presets and load them later. You can also download presets shared by others. If you want to use a preset, make sure the file is renamed to `Options.json` before using if, it isn't already. (If you do not have `File name extensions` marked on the `View` Tab, you only need to rename it to `Options`.)<br>
-
-Note: You have to put the file in the following directory: `.\Among Us\TOHE-DATA\SaveData` for it to work. (If you cannot locate `TOHE-DATA\SaveData`, try enabling `Hidden items` on the `View` Tab!)<br>
-
-For some member submitted presets, browse [here](/Presets.html).<br>
-
-> From + Compiling: NotPyro404
-</details>
-<br>
-<details>
-<summary><b><font color=gray>Member Submitted Presets + More</font></b></summary>
-
-For Member Submitted Presets, visit the [Presets](/Presets.html) page.
-For Member Submitted Translations, visit the [Custom Translations](/Translations.html) page.
-
-> From + Compiling: NotPyro404
 </details>
 <br>
 <details>
@@ -1192,11 +1172,11 @@ Bug (This Death Reason occured awhile ago due to bugs, but has since been patche
 </tr>
 <tr>
 <td><font color=#674ea7>¿</font></td>
-<td>Used by the <font color=#674ea7>Telepathy</font> to set their target, target also sees this on <font color=#674ea7>Telepathy</font>. (Possibly not TOHE Role, sorry)</td>
+<td>Used by the <font color=#674ea7>Telepathy</font> to set their target, target also sees this on <font color=#674ea7>Telepathy</font>.</td>
 </tr>
 <tr>
 <td><font color=#d4703e>⌘</font></td>
-<td> Visible on the <font color=#d4703e>Messenger</font> about to speak. (Possibly not TOHE Role, sorry)</td>
+<td> Visible on the <font color=#d4703e>Messenger</font> about to speak.</td>
 </tr>
 </table>
 
@@ -1233,6 +1213,7 @@ Below is a list of all languages supported by Vanilla Among Us.<br><br>
 
 Below is a list of all colors + their IDs supported by Vanilla Among Us.<br><br>
 
+<b>
 <table>
 <tr>
 <td align="center"><b>ID</b></td>
@@ -1311,6 +1292,7 @@ Below is a list of all colors + their IDs supported by Vanilla Among Us.<br><br>
 <td><font color=#ec7578>Coral</font></td>
 </tr>
 </table>
+</b>
 
 > From: Innersloth + Compiling: NotPyro404
 </details>

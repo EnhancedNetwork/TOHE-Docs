@@ -36,11 +36,12 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 
 ## Website Maintainer
 
-[**Pyro**](https://sites.google.com/view/notpyro404)：<font color=#49e6ac>TOHE Website Maintainer + Moderator</font>
+[**Pyro**](https://sites.google.com/view/notpyro404)：<font color=#49e6ac>TOHE Docs Website Maintainer + Moderator + Technically TOHE Contributor</font>
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 
-I'm also mostly known online as NotPyro404. I am a Moderator in the Discord Server for The Enhanced Network, aswell as the Website Maintainer for [T.E.N.](https://weareten.ca/). If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
+I'm also mostly known online as NotPyro404. I am a Moderator in the Discord Server for The Enhanced Network, aswell as a Website Maintainer for [T.E.N.](https://weareten.ca/) (Mainly TOHE Documentation). I'm now technically a TOHE Contributor because I've "coded" my first addon, Sloth!<br>
+If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 </details>
 
 ---
@@ -56,7 +57,7 @@ I'm just a girl who loves to play video games and is obsessed with everything <f
 
 ---
 
-[**Jackler**](https://linktr.ee/Jackler): Head of Tech Ops
+[**Jackler**](https://linktr.ee/Jackler): <font color=#cf7821>Head of Tech Ops</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -66,6 +67,15 @@ Helping out with Tickets, bot related things... basically anything to do with th
 ---
 
 ## Staff Team
+
+[**Matt**](#): Legal Advisor
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I'm 25 years old from the United States. I am a bar certified attorney in contract law as well as professional broadcast engineer working full time for ESPN. In my free time, I run a non-profit food ministry in Louisiana as well as enjoy watching sports.
+</details>
+
+---
 
 [**FieryFlower**](#): Sr. Moderator
 <details>
@@ -89,7 +99,7 @@ I help keep the community of The Enhanced Network a safe and welcoming place for
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I help out in the Discord Server of The Enhanced Network. I'm working on the Modded Among Us Queue bot. Some hobbies I have are playing games & programming. My favorite game is probably Valorant.
+I help out in the Discord Server of The Enhanced Network. I'm working on the Modded Among Us Queue bot. Some hobbies I have are playing games & programming. <s>My favorite game is probably Valorant.</s> My favorite game is probably Lethal Company.
 </details>
 
 ---
@@ -103,19 +113,55 @@ I help with moderating the Discord Server of The Enhanced Network. Some of my ho
 
 ---
 
-[**Matt**](#): Legal Advisor
+[**Tasha**](#): Helper
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm 25 years old from the United States. I am a bar certified attorney in contract law as well as professional broadcast engineer working full time for ESPN. In my free time, I run a non-profit food ministry in Louisiana as well as enjoy watching sports.
+I am a Helper in The Enhanced Network’s Discord Server, aiming to ensure that it is a welcoming and supportive community for everyone to enjoy! I enjoy playing video games, taking midday naps, watching UFC and making pickles!
 </details>
 
 ---
 
-## TOHE Team
-### Lead Developer
+[**Northie**](#): Helper
+<details>
+<summary><b><font color=gray>About</font></b></summary>
 
-[**Tommy-XL**](https://github.com/Tommy-XL)：<font color=#ec7578>Lead Developer + Role/Feature Coding + <font color=#0036a7><b>Russian</b></font> Translator</font>
+Hey I'm Northie, also known as Norfie or North. Right now I'm a Helper in the TOHE server! Currently, I'm working towards becoming a Veterinarian. I enjoy drawing a lot, however it takes me a while to think of what I should draw. I absolutely love music, and if you need recommendations, you can just ask!
+</details>
+
+---
+
+[**Flashy**](#): Helper
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+Helping to ensure the safety of the community, answering questions about the server and TOHE.
+</details>
+
+---
+
+[**Fish King 👑**](#): Helper
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+Passionate about chemistry, politics and gaming, working hard to be able to give my children and wife the life they deserve.
+Feel free to drop me an @ for a chat!
+</details>
+
+---
+
+[**Cayla***](#): Helper
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+Hey! I am Cayla, I love the ocean and anything nautical. My favorite animal is a narwhal, and yes they are real! Love playing different video games, currently obsessed with TOHE. I am an up and coming moderator here and I hope that I can bring some positive vibes to the community. Two truths and a lie: I danced on stage with Cyndi Lauper to Girls Just Want to have fun and tossed my shirt into the crowd. I am terrified of ketchup. I skinny dipped in Mexico with Rob Thomas of Matchbox Twenty.
+</details>
+
+---
+
+### Lead Developers
+
+[**Tommy-XL**](https://github.com/Tommy-XL)：<font color=#008080>TOHE Lead Developer + Role/Feature Coding + <font color=#0036a7><b>Russian</b></font> Translator</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -123,6 +169,18 @@ I love playing games (I mostly play all games on PlayStation). I especially pay 
 </details>
 
 ---
+
+[**D1GQ**](https://github.com/D1GQ)：<font color=#1a5a91>BAU Lead Developer + Role Coding</font>
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+Sup... I recently got into coding in the last two years, mostly C# and Python.
+and I also do 3D art design as a hobby! Glad to meet everyone here and can't wait to work with y'all. ❤️
+</details>
+
+---
+
+## TOHE Team
 
 ### Contributors
 
@@ -178,16 +236,6 @@ TChinese Translator for in TOHE since April 2023. I'm a casual gamer, playing ga
 I'm a TOHE Contributor.
 The voices? Nah I'd win.
 I play chess when I'm bored, and catch crypto pumps 😼. I also workout and try to run very fast, so that's cool I guess.
-</details>
-
----
-
-[**D1GQ**](https://github.com/D1GQ)：Role Coding
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-Sup... I recently got into coding in the last two years, mostly C# and Python.
-and I also do 3D art design as a hobby! Glad to meet everyone here and can't wait to work with y'all. ❤️
 </details>
 
 ---

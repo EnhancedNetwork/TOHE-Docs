@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Addons/Helpful/Seer.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Addons/Helpful/Seer.html\",\"title\":\"Seer\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Seer\",\"prev\":\"Rebirth\",\"next\":\"Silent\"},\"headers\":[],\"git\":{\"updatedTime\":1724101103000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Addons/Helpful/Seer.md\"}")
-export { comp, data }

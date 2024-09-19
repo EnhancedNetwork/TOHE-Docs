@@ -43,17 +43,17 @@ These are Tags to help you differentiate between Bugs & Changes, Additions & Rew
 
 - <font color=#002654><b>French</b></font>: French Translation of the mod.<br>
 - <font color=#bd0029><b>Japanese</b></font>: Japanese Translation of the mod.<br>
-- <font color=#009b3a><b>Latam (Latin American)</b></font>: Latam Translation of the mod.<br>
+- <font color=#009b3a><b>Latam</b></font>: Latin American Translation of the mod.<br>
 - <font color=#009344><b>Italian</b></font>: Italian Translation of the mod.<br>
 - <font color=#ffc400><b>Spanish</b></font>: Spanish Translation of the mod.<br>
 - <font color=#de2910><b>SChinese</b></font>: Simplified Chinese Translation of the mod.<br>
 - <font color=#de2910><b>TChinese</b></font>: Traditional Chinese Translation of the mod.<br>
 - <font color=#cf192b><b>English</b></font>: English Translation of the mod.<br>
-- <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font>: Brazilian Translation of the mod.<br>
+- <font color=#009b3a><b>Brazilian</b></font>: Portuguese Brazil Translation of the mod.<br>
 - <font color=#0036a7><b>Russian</b></font>: Russian Translation of the mod.<br>
 - <font color=#1e448b><b>Dutch</b></font>: Dutch Translation of the mod.<br>
 - <font color=#ffcf00><b>German</b></font>: German Translation of the mod.<br>
-- <font color=#056306><b>Portuguese (Portuguese Portugal)</b></font>: Portuguese Translation of the mod.<br>
+- <font color=#056306><b>Portuguese </b></font>: Portuguese Portugal Translation of the mod.<br>
 - <font color=#CD2E3A><b>Korean</b></font>: Korean Translation of the mod.<br>
 - <font color=#FED141><b>Filipino</b></font>: Filipino Translation of the mod.<br>
 - <font color=#FF8200><b>Irish</b></font>: Irish Translation of the mod.<br>

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Benefactor
-prev: /options/Settings/Crewmates.html
+prev: Altruist
 next: Chameleon
 ---
 

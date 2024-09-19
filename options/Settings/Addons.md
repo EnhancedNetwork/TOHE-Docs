@@ -8,7 +8,7 @@ next: /Roles.html
 # <font color="#ff9ace">📋 <b>Add-ons</b></font>
 ---
 
-<b>These are modifiers that any players can acquire. There are some that help you, some that harm you, and some can do both! There are also some <font color=red>Impostor Only</font> add-ons. Each one is unique in the way it affects the player.<br>Some add-ons are only received from other players, such as Cleansed or Knighted. These are known as Betrayal Add-ons. These will not be covered on this page. Add-ons in the "Other" Tab are ones that aren't found on the add-ons tab in TOHE itself. This includes ones in Game Modifiers.</b><br>
+<b>These are modifiers that any players can acquire. There are some that help you, some that harm you, and some can do both! There are also some <font color=red>Impostor Only</font> add-ons. Each one is unique in the way it affects the player.<br>Some add-ons are only received from other players, such as Cleansed or Knighted. These are known as Betrayal Add-ons. These will not be covered on this page.</b><br>
 
 <table>
 <tr>
@@ -41,12 +41,12 @@ next: /Roles.html
 </tr>
 
 <tr>
-<td><a href="#miscellaneous" style="color=#a83295"><b>⚙️ Miscellaneous</b></a></td>
+<td><a href="#miscellaneous" style="color:#a83295"><b>⚙️ Miscellaneous</b></a></td>
 <td align="center">6</td>
 </tr>
 
 <tr>
-<td><a href="#mixed" style="color=#32a87f"><b>😵‍💫 Mixed</b></a></td>
+<td><a href="#mixed" style="color:#32a87f"><b>😵‍💫 Mixed</b></a></td>
 <td align="center">12</td>
 </tr>
 
@@ -61,14 +61,16 @@ next: /Roles.html
 ### <font color=#4d223a><b>Experimental</b></font>
 ---
 [Glow](/options/Addons/Experimental/Glow.html) | [Swift](/options/Addons/Experimental/Swift.html)
+<br>
 
 ### <font color=#d6b149><b>Guesser</b></font>
 ---
 [Double Shot](/options/Addons/Guesser/DoubleShot.html) | [Guesser](/options/Addons/Guesser/Guesser.html) | [Onbound](/options/Addons/Guesser/Onbound.html) | [Rebound](/options/Addons/Guesser/Rebound.html)
+<br>
 
 ### <font color=#ff0000><b>Harmful</b></font>
 ---
-[Disregarded](/options/Addons/Harmful/Disregarded.html) | [Fool](/options/Addons/Harmful/Fool.html) | [Fragile](/options/Addons/Harmful/Fragile.html) | [Hurried](/options/Addons/Harmful/Hurried.html) | [Influenced](/options/Addons/Harmful/Influenced.html) | [Mundane](/options/Addons/Harmful/Mundane.html) | [Oblivious](/options/Addons/Harmful/Oblivious.html) | [Rascal](/options/Addons/Harmful/Rascal.html) | [Statue](/options/Addons/Harmful/Statue.html) | [Tired](/options/Addons/Harmful/Tired.html) | [Unlucky](/options/Addons/Harmful/Unlucky.html) | [Void Ballot](/options/Addons/Harmful/VoidBallot.html)
+[Disregarded](/options/Addons/Harmful/Disregarded.html) | [Fool](/options/Addons/Harmful/Fool.html) | [Fragile](/options/Addons/Harmful/Fragile.html) | [Hurried](/options/Addons/Harmful/Hurried.html) | [Influenced](/options/Addons/Harmful/Influenced.html) | [Mundane](/options/Addons/Harmful/Mundane.html) | [Oblivious](/options/Addons/Harmful/Oblivious.html) | [Rascal](/options/Addons/Harmful/Rascal.html) | [Sloth](/options/Addons/Harmful/SLoth.html) | [Statue](/options/Addons/Harmful/Statue.html) | [Tired](/options/Addons/Harmful/Tired.html) | [Unlucky](/options/Addons/Harmful/Unlucky.html) | [Void Ballot](/options/Addons/Harmful/VoidBallot.html)
 <br>
 
 ### <font color=#00ff00><b>Helpful</b></font>
@@ -88,7 +90,6 @@ next: /Roles.html
 ### <font color=#32a87f><b>Mixed</b></font>
 ---
 [Antidote](/options/Addons/Mixed/Antidote.html) | [Avenger](/options/Addons/Mixed/Avenger.html) | [Aware](/options/Addons/Mixed/Aware.html) | [Bloodthirst](/options/Addons/Mixed/Bloodthirst.html) | [Diseased](/options/Addons/Mixed/Diseased.html) | [Ghoul](/options/Addons/Mixed/Ghoul.html) | [Gravestone](/options/Addons/Mixed/Gravestone.html) | [OIIAI](/options/Addons/Mixed/OIIAI.html) | [Paranoia](/options/Addons/Mixed/Paranoia.html) | [Stubborn](/options/Addons/Mixed/Stubborn.html) | [Susceptible](/options/Addons/Mixed/Susceptible.html)
-
 <br>
 
 <details>

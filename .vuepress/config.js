@@ -98,6 +98,7 @@ export default defineUserConfig({
             { text: 'Mundane', link: '/options/Addons/Harmful/Mundane.html' },
             { text: 'Oblivious', link: '/options/Addons/Harmful/Oblivious.html' },
             { text: 'Rascal', link: '/options/Addons/Harmful/Rascal.html' },
+            { text: 'Sloth', link: '/options/Addons/Harmful/Sloth.html' },
             { text: 'Statue', link: '/options/Addons/Harmful/Statue.html' },
             { text: 'Tired', link: '/options/Addons/Harmful/Tired.html' },
             { text: 'Unlucky', link: '/options/Addons/Harmful/Unlucky.html' },
@@ -228,6 +229,7 @@ export default defineUserConfig({
           ],
           '/options/Crewmates/Support/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
+            { text: 'Altruist', link: '/options/Crewmates/Support/Altruist.html' },
             { text: 'Benefactor', link: '/options/Crewmates/Support/Benefactor.html' },
             { text: 'Chameleon', link: '/options/Crewmates/Support/Chameleon.html' },
             { text: 'Coroner', link: '/options/Crewmates/Support/Coroner.html' },
@@ -279,11 +281,7 @@ export default defineUserConfig({
             { text: 'Swooper', link: '/options/Impostors/Concealing/Swooper.html' },
             { text: 'Trickster', link: '/options/Impostors/Concealing/Trickster.html' },
             { text: 'Undertaker', link: '/options/Impostors/Concealing/Undertaker.html' },
-            {
-              text: 'Vampire', link: '/options/Impostors/Concealing/Vampire.html', children: [
-                { text: 'Vampiress', link: '/options/Impostors/Concealing/Vampiress.html' },
-              ]
-            },
+            { text: 'Vampire', link: '/options/Impostors/Concealing/Vampire.html',},
             { text: 'Warlock', link: '/options/Impostors/Concealing/Warlock.html' },
             { text: 'Wildling', link: '/options/Impostors/Concealing/Wildling.html' },
           ],
@@ -463,7 +461,6 @@ export default defineUserConfig({
             { text: 'Bandit', link: '/options/Neutrals/Killing/Bandit.html' },
             { text: 'Blood Knight', link: '/options/Neutrals/Killing/BloodKnight.html' },
             { text: 'Demon', link: '/options/Neutrals/Killing/Demon.html' },
-            { text: 'Doppelganger', link: '/options/Neutrals/Killing/Doppelganger.html' },
             { text: 'Glitch', link: '/options/Neutrals/Killing/Glitch.html' },
             { text: 'Hex Master', link: '/options/Neutrals/Killing/HexMaster.html' },
             { text: 'Huntsman', link: '/options/Neutrals/Killing/Huntsman.html' },

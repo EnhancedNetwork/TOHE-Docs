@@ -16,11 +16,5 @@ You kill with a delay. If you bite someone, they will die a set amount of time l
 * Can Vent
   * <font color=green>ON</font>: Vampire can Vent
   * <font color=red>OFF</font>: Vampire cannot Vent
-* <font color=#f46f4e>(Hidden Role) Vampiress - Has a % Chance of replacing Vampire.</font>
-
-<center>
-
-[<font color="red">Vampiress</font>](./Vampiress.html)
-</center>
 
 > From: TOH

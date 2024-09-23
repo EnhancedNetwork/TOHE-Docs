@@ -104,15 +104,6 @@ I help out in the Discord Server of The Enhanced Network. I'm working on the Mod
 
 ---
 
-[**Essence**](#): Moderator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-I help with moderating the Discord Server of The Enhanced Network. Some of my hobbies are Fortnite, Discord, and other games. I also like to joke around and poke fun of myself.
-</details>
-
----
-
 [**Tasha**](#): Helper
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -150,7 +141,7 @@ Feel free to drop me an @ for a chat!
 
 ---
 
-[**Cayla***](#): Helper
+[**Cayla**](#): Helper
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Rascal
-prev: Oblivious
+prev: Prohibited
 next: Sloth
 ---
 

@@ -2,7 +2,7 @@
 lang: en-US
 title: Oblivious
 prev: Mundane
-next: Rascal
+next: Prohibited
 ---
 
 # <font color=#424242>🤡 <b>Oblivious</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>

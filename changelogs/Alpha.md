@@ -16,7 +16,65 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Alpha 12</font></b></summary>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 14</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Role: Ventguard (From EHR)<br>
+\+ <font color=green><b>NEW</b></font>: Setting for random spawns: Active On Round One<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when modded client not assign custom tasks<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Spurt and Time Master not synced for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Hater can't kill<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Crewpostor kill Solsticer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when disabled "Neutral Apocalypse Can Guess" not work for commands<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Statue speed after meeting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when ghost roles can't use guard button<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when sometimes Deceiver kill dead players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Has Impostor Vision not work for Doppelganger<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when modded client called RpcSetName in end game<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added more roles for copy for Copycat when setting "Can copy evil variants of crew roles" is enabled<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Gangster and Admirer can't get Egoist<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Necroview when check Admired and Madmate<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for Copycat<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mod client not having blue color in lobby<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Recoded Delayed Network Data<br>
+
+* By [**Marg**](https://github.com/MargaretTheFool)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added ejection message for Death<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 13</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Add-on: Prohibited<br>
+\+ <font color=green><b>NEW</b></font>: Copycat now supports role basis changes<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Aware not work after Overseer check<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Overseer errors<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes when addon is removed or added<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Berserker and Soul Collector for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Altruist normal report mode not work<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Hide&Seek not assign roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Merchant can assign converted add-ons<br>
+
+* By [**Marg**](https://github.com/MargaretTheFool)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Terrorist winning when Death should win<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Baker for modded clients<br>
+
+* By [**D1GQ**](https://github.com/D1GQ)<br>
+\+ <font color=green><b>NEW</b></font>: Support "Better Among Us" mod when clients joined in TOHE lobbies<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 12.1</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when kill button not work in FFA<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when modded clients can't use sabotage<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Multiple Player ID<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 12</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL) + [**NikoCat223**](https://github.com/NikoCat233)<br>
 \+ <font color=green><b>NEW</b></font>: Added disabling vent usage for vanilla (ported from MoreGamemodes) (When a player does not have access to vents, they will never be able to use it)<br>

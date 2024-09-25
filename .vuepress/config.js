@@ -97,6 +97,7 @@ export default defineUserConfig({
             { text: 'Influenced', link: '/options/Addons/Harmful/Influenced.html' },
             { text: 'Mundane', link: '/options/Addons/Harmful/Mundane.html' },
             { text: 'Oblivious', link: '/options/Addons/Harmful/Oblivious.html' },
+            { text: 'Prohibited', link: '/options/Addons/Harmful/Prohibited.html' },
             { text: 'Rascal', link: '/options/Addons/Harmful/Rascal.html' },
             { text: 'Sloth', link: '/options/Addons/Harmful/Sloth.html' },
             { text: 'Statue', link: '/options/Addons/Harmful/Statue.html' },
@@ -256,6 +257,7 @@ export default defineUserConfig({
             { text: 'Spy', link: '/options/Crewmates/Support/Spy.html' },
             { text: 'Time Manager', link: '/options/Crewmates/Support/TimeManager.html' },
             { text: 'Time Master', link: '/options/Crewmates/Support/TimeMaster.html' },
+            { text: 'Ventguard', link: '/options/Crewmates/Support/Ventguard.html' },
             { text: 'Witness', link: '/options/Crewmates/Support/Witness.html' },
           ],
           '/options/Crewmates/Vanilla/': [

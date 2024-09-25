@@ -25,32 +25,31 @@ contributors: false
 <details>
 <summary><b><font color=#a65a80>TOHE v2.1.0 Alpha 12 Changelogs</font></b></summary>
 
-* By [**TommyXL**](https://github.com/Tommy-XL) + [**NikoCat223**](https://github.com/NikoCat233)<br>
-\+ <font color=green><b>NEW</b></font>: Added disabling vent usage for vanilla (ported from MoreGamemodes) (When a player does not have access to vents, they will never be able to use it)<br>
-
-* By [**Pyro**](https://github.com/NotPyro404)<br>
-\+ <font color=green><b>NEW</b></font>: Harmful Add-on: Sloth<br>
-
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: Setting for Jester: "Can't Move In Vents"<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Altruist was improved and removed from Experimental role<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when in FFA assigns crewmate basic<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some bugs for Psychic<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed id label<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some errors in logs<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Deceiver can kill Serial Killer<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Enigma level clue<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Medium message shows when Medium dead<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Hangman can kill Nice Mini<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed minimum kill cooldown for Huntsman<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Bloodmoon not work for modded clients<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed missed strings for Blackmailer<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Overseer show med scanner after meeting<br>
-=  Inhibitor and Saboteur now use the sabotage sound in intro<br>
+\+ <font color=green><b>NEW</b></font>: Role: Ventguard (From EHR)<br>
+\+ <font color=green><b>NEW</b></font>: Setting for random spawns: Active On Round One<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when modded client not assign custom tasks<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Spurt and Time Master not synced for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Hater can't kill<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Crewpostor kill Solsticer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when disabled "Neutral Apocalypse Can Guess" not work for commands<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Statue speed after meeting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when ghost roles can't use guard button<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when sometimes Deceiver kill dead players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Has Impostor Vision not work for Doppelganger<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when modded client called RpcSetName in end game<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added more roles for copy for Copycat when setting "Can copy evil variants of crew roles" is enabled<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Gangster and Admirer can't get Egoist<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Necroview when check Admired and Madmate<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for Copycat<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
 
-* By [**WaterPanda**](#)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Jester, Zombie and Solsticer can't get Rebirth<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Altruist can't be Oblivious<br>
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mod client not having blue color in lobby<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Recoded Delayed Network Data<br>
+
+* By [**Marg**](https://github.com/MargaretTheFool)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added ejection message for Death<br>
 </details>
 <br>
 <details>

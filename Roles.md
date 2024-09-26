@@ -20,7 +20,7 @@ contributors: false
 <table>
 <tr>
 <td><a href="/changelogs/Alpha.html" style="color:#997d6d"><b>Alpha</b></a></td>
-<td>v2.1.0 Alpha 12</td>
+<td>v2.1.0 Alpha 15</td>
 <td align="center">Latest</td>
 </tr>
 <tr>

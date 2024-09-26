@@ -41,7 +41,7 @@ Notice: You can follow the installation video [HERE](https://www.youtube.com/wat
 ![image](./images/ResultFolder.png)
 
 5. Within the TOHE folder, run `Among Us.exe`. The first time running it may take some time while the mod sets up its files. If you see a black screen, just wait a couple minutes. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.<br>
-Note: If you separated your TOHE Mod and Vanilla folders, and run into an issue where it says 'you are logged out/in offline mode', close TOHE and open Steam (or launch Vanilla AU as this will open Steam too), then try again. This should solve the issue.
+Note: If you separated your TOHE Mod and Vanilla folders, and run into an issue where it says 'you are logged out/in offline mode', close TOHE and open Steam (or launch Vanilla AU as this will open Steam too), then try again. This should solve the issue. (Separating your folders isn't required, but recommended so your mod still works if a major Among Us update is released.)
 
 6. `(Optional)` Right click your `Among Us.exe` and click '`Create shortcut`'. Move your new shortcut to wherever you can easily access it, such as your Desktop!
 #### You have now installed Town of Host: Enhanced! All that remains is to start up a private lobby and customize your settings.

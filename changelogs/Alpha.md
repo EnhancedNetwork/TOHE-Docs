@@ -16,6 +16,24 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
+<summary><b><font color=#cf4e8f>v2.1.0 Alpha 15</font></b></summary>
+
+* By [**0xDrMoe**](https://github.com/0xDrMoe)<br>
+\+ <font color=green><b>NEW</b></font>: Add-on: Eavesdropper (Helpful Addon)<br>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed conflicts with Terrorist and Workaholic win<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Blackmailer for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for Ventguard<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some changes in code<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for delayed network data<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Altruist for modded clients<br>
+
+* By [**WaterPanda**](#)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some typos<br>
+<details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 14</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
@@ -595,7 +613,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Some fix in code<br>
 
 * By [**0xDrMoe**](https://github.com/0xDrMoe)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Changed Radar color (sorry Lauryn <3 it's not that bad looking)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed Radar color<br>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.0.0 Alpha 12</font></b></summary>

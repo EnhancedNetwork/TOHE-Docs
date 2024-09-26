@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Evader
-prev: Cyber
+prev: Eavesdropper
 next: Flash
 ---
 

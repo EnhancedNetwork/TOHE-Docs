@@ -23,33 +23,23 @@ contributors: false
 </details>
 <br>
 <details>
-<summary><b><font color=#a65a80>TOHE v2.1.0 Alpha 12 Changelogs</font></b></summary>
+<summary><b><font color=#a65a80>TOHE v2.1.0 Alpha 15 Changelogs</font></b></summary>
+
+* By [**0xDrMoe**](https://github.com/0xDrMoe)<br>
+\+ <font color=green><b>NEW</b></font>: Add-on: Eavesdropper (Helpful Addon)<br>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: Role: Ventguard (From EHR)<br>
-\+ <font color=green><b>NEW</b></font>: Setting for random spawns: Active On Round One<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when modded client not assign custom tasks<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Spurt and Time Master not synced for modded clients<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Hater can't kill<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Crewpostor kill Solsticer<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when disabled "Neutral Apocalypse Can Guess" not work for commands<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Statue speed after meeting<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when ghost roles can't use guard button<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when sometimes Deceiver kill dead players<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Has Impostor Vision not work for Doppelganger<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when modded client called RpcSetName in end game<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Added more roles for copy for Copycat when setting "Can copy evil variants of crew roles" is enabled<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Gangster and Admirer can't get Egoist<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Necroview when check Admired and Madmate<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for Copycat<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed conflicts with Terrorist and Workaholic win<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Blackmailer for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for Ventguard<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some changes in code<br>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mod client not having blue color in lobby<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Recoded Delayed Network Data<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for delayed network data<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Altruist for modded clients<br>
 
-* By [**Marg**](https://github.com/MargaretTheFool)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Added ejection message for Death<br>
+* By [**WaterPanda**](#)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some typos<br>
 </details>
 <br>
 <details>

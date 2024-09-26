@@ -113,6 +113,7 @@ export default defineUserConfig({
             { text: 'Bewilder', link: '/options/Addons/Helpful/Bewilder.html' },
             { text: 'Burst', link: '/options/Addons/Helpful/Burst.html' },
             { text: 'Cyber', link: '/options/Addons/Helpful/Cyber.html' },
+            { text: 'Eavesdropper', link: '/options/Addons/Helpful/Eavesdropper.html' },
             { text: 'Evader', link: '/options/Addons/Helpful/Evader.html' },
             { text: 'Flash', link: '/options/Addons/Helpful/Flash.html' },
             { text: 'Lazy', link: '/options/Addons/Helpful/Lazy.html' },

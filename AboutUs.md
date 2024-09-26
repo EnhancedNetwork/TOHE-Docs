@@ -36,7 +36,7 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 
 ## Website Maintainer
 
-[**Pyro**](https://sites.google.com/view/notpyro404)：<font color=#49e6ac>TOHE Docs Website Maintainer + Moderator + Technically TOHE Contributor</font>
+[**Pyro**](https://sites.google.com/view/notpyro404)：<font color=#49e6ac>TOHE Docs Website Maintainer + Moderator</font>
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 

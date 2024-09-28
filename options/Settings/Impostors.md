@@ -27,7 +27,7 @@ next: /Roles.html
 
 <tr>
 <td><a href="#ghost" style="color:#bd8b88"><b>👻 Ghost</b></a></td>
-<td align="center">2</td>
+<td align="center">3</td>
 </tr>
 
 <tr>
@@ -37,7 +37,7 @@ next: /Roles.html
 
 <tr>
 <td><a href="#killing" style="color:#6a0000"><b>🔪 Killing</b></a></td>
-<td align="center">29</td>
+<td align="center">30</td>
 </tr>
 
 <tr>
@@ -47,7 +47,7 @@ next: /Roles.html
 
 <tr>
 <td><a href="#support" style="color:#00ffff"><b>🏥 Support</b></a> </td>
-<td align="center">14</td>
+<td align="center">15</td>
 </tr>
 
 <tr>
@@ -57,7 +57,7 @@ next: /Roles.html
 
 <tr>
 <td><font color=red><b>📊 Total:</b></font></td>
-<td align="center"><b>74</b></td>
+<td align="center"><b>79</b></td>
 </tr>
 
 </table>

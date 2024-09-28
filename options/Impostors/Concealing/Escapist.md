@@ -21,6 +21,11 @@ Escapist can mark a location by shapeshifting, and then they can Unshift. When t
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+
+Here’s your text with corrections and improvements for clarity and flow:
+
+The Escapist was once a regular Impostor, but he was cornered by a Sheriff, a Knight, and a Reviver. There was no way he could escape when his partners came from behind and brutally killed them. The Escapist was so scared that he couldn’t bring himself to kill for a long time.
+
+At long last, he made his way to MiraHQ and met with Dr. Imp, who suggested he use a teleport gun to mark a position for easy escapes. Since then, the Escapist has not been caught once, and the crew has no idea.
+> Submitted by: champofchamps78
 </details>

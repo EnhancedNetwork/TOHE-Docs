@@ -25,6 +25,16 @@ After every teleported kill you will freeze for a configurable amount of time.
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+The Undertaker was the typical school nerd, well-informed about the workings of quantum physics. One day, he had had enough. The bullies who kept tormenting him were too much to bear.
+
+He knew how to kill, alright, but in his heart, he didn’t want to be found out; after all, he had a reputation to maintain. He was well-versed in the art of killing, but in the end, there was only one way he wouldn’t be caught: if he used his brain. 🧠
+
+He devised a plan: whenever he used an ability, it would create a rift that teleported the dead corpses away—thanks to quantum physics. But after his revenge, he became a bit too comfortable with killing. He made it his hobby, using his intellect for evil.
+
+He transformed into THE UNDERDOG, but he didn’t like that name, so he thought of himself as an underdog who took other people’s lives to become The Undertaker.
+
+In the end, one thing was off: it took too much energy for him to maintain his methods. He froze in place for a few seconds.
+
+Ultimately, he was caught by the Sheriff, the Reverie, and the Knight. But that story is for another time.
+> Submitted by: champofchamps78
 </details>

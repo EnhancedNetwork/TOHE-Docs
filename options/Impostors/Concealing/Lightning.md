@@ -24,6 +24,14 @@ The Lightning cannot do regular kills. After the Lightning uses their kill butto
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+Lightning was previously the scientist for the crew, but he was bullied by the Sheriff and the Captain about how utterly useless his role was. One day, he had enough. He went to the dark side, knowing there was no return.
+
+The tryouts for the Head Impostor team were happening when he joined, but he needed one thing: a whole ton of kills.
+
+Driven by the urge to prove himself and become the superior Impostor, he knew he had to get the killer in a very short time. What better way to do so than with science?
+
+He started dousing people with a bit of lightning, which could make others kill the target. This way, he was never caught; instead, innocent crew members were implicated, and in the end, he became the Monarch of the Impostors.
+
+But there was one thing: he would never win a one-on-one against a neutral killer. Why? Because he could never kill himself—normally, he was far too scared of guns and knives. In the end, he died to a glitch and was dethroned.
+> Submitted by: champofchamps78
 </details>

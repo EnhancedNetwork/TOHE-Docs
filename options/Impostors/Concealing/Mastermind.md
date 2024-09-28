@@ -22,6 +22,12 @@ Double click on someone to kill them normally.
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+Mastermind was always bullied by others because he had an enormously large head. One day, he had enough; he knew he had to stand up for himself, so he became an Impostor on the ship.
+
+He had only one goal: to influence and kill people. He knew that those who bullied him had a kill button, but they were far too afraid to use it. The best way for him to get revenge was to force them into a position where they had to kill.
+
+Either they kill, or they die. 🔪
+
+But Mastermind knew one thing: this way of killing would win him the battle, not the war.
+> Submitted by: champofchamps78
 </details>

@@ -47,5 +47,6 @@ contributors: false
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Role Counts/Amounts corrected. (I've counted directly from files)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Canary Builds are now listed as Beta Builds, this is due to a name change coming soon in the future.<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Prepared ALL ROLE/ADDON FILES for the ongoing LORE EVENT.<br>
+\+ <font color=green><b>NEW</b></font>: Added the First Lore Batch (Impostor Concealing). (Note: Used ChatGPT for help understanding/punctuating some lore theories)<br>
 </details>
 </font>

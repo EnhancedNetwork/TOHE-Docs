@@ -27,3 +27,5 @@ When the Evader is voted out, there is chance the Evader will not be ejected. (C
   * Set the maximum times that Evader can escape getting thrown out
 * Chance to not be exiled
   * Set the percentage that Evader can escape getting thrown out
+
+> Idea: [Lime](#) & Coding: [TommyXL](#)

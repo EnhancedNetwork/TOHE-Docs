@@ -23,23 +23,19 @@ contributors: false
 </details>
 <br>
 <details>
-<summary><b><font color=#a65a80>TOHE v2.1.0 Alpha 15 Changelogs</font></b></summary>
-
-* By [**0xDrMoe**](https://github.com/0xDrMoe)<br>
-\+ <font color=green><b>NEW</b></font>: Add-on: Eavesdropper (Helpful Addon)<br>
+<summary><b><font color=#a65a80>TOHE v2.1.0 Alpha 15.1 Changelogs</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed conflicts with Terrorist and Workaholic win<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Blackmailer for modded clients<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for Ventguard<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some changes in code<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some errors<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Lawyer icons<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed murders while anti blackout<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when revived player not sets Camouflage skin while Camouflage<br>
 
 * By [**NikoCat223**](https://github.com/NikoCat233)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for delayed network data<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Altruist for modded clients<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added notify message about game end (Since RpcEndGame may not be received by certain client on InnerSloth officials. These codes should be necessary to tell those players to quit by themselves)<br>
 
-* By [**WaterPanda**](#)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some typos<br>
+* By [**Huier**](https://github.com/Huier-Huang)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Swapper now show tasks<br>
 </details>
 <br>
 <details>

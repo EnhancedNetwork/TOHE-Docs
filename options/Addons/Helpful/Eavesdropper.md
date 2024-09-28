@@ -25,3 +25,5 @@ As the Eavesdropper, you have a chance to see other information-based messages l
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
 * Chance to eavesdrop
   * Set the percentage that the Eavesdropper can see other information-based messages
+
+> Idea: [Cristos](#) & Coding: [0xDrMoe](#)

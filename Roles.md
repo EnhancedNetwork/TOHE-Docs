@@ -54,7 +54,7 @@ contributors: false
 <tr>
 <td><a href="/options/Settings/Impostors.html" style="color:red"><b>🦹‍♂️ Impostors</b></a></td>
 <td>Play together and win via killing/voting out all Crewmates/Neutrals</td>
-<td align="center">79</td>
+<td align="center">78</td>
 </tr>
 
 <tr>

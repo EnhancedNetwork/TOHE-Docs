@@ -316,11 +316,7 @@ export default defineUserConfig({
                 { text: 'Bard', link: '/options/Impostors/Killing/Bard.html' },
               ]
             },
-            {
-              text: 'Bomber', link: '/options/Impostors/Killing/Bomber.html', children: [
-                { text: 'Nuker', link: '/options/Impostors/Killing/Nuker.html' },
-              ]
-            },
+            { text: 'Bomber', link: '/options/Impostors/Killing/Bomber.html' },
             { text: 'Bounty Hunter', link: '/options/Impostors/Killing/BountyHunter.html' },
             { text: 'Butcher', link: '/options/Impostors/Killing/Butcher.html' },
             { text: 'Chronomancer', link: '/options/Impostors/Killing/Chronomancer.html' },

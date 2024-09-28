@@ -44,7 +44,8 @@ contributors: false
 * By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
 = <font color=#ece218><b>NOTICE</b></font>: Soul Collector & Berserker work differently in 2.1.0 Alpha 2 (and above) than they do in 2.0.3 Stable Release.<br>
-= <font color=#ece218><b>NOTICE</b></font>: Role Counts/Amounts corrected. (I've counted directly from files)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Role Counts/Amounts corrected. (I've counted directly from files)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Canary Builds are now listed as Beta Builds, this is due to a name change coming soon in the future.<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Prepared ALL ROLE/ADDON FILES for the ongoing LORE EVENT.<br>
 </details>
 </font>

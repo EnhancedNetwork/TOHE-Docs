@@ -17,3 +17,10 @@ If you survive till the end, you win with the winning team.
   * Set the cooldown of the voodoo doll 
 
 > Idea & Coding: [ryuk](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

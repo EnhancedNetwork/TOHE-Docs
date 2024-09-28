@@ -24,3 +24,10 @@ As a Troller, you can complete tasks so that random events can happen to players
     * Amount of Short Tasks for Troller: Set the amount of Short Tasks the Troller will have to do to win
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -28,3 +28,10 @@ Depending on the setting, Arsonist may start the fire anytime. But if he failed 
   * <font color=red>OFF</font>: the Arsonist cannot ignite all currently doused players whenever they want
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

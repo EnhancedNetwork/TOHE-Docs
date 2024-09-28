@@ -28,3 +28,10 @@ If you infect all the killers, you then can simply outnumber the crew and win th
   * <font color=red>OFF</font>: the Infectious cannot Vent
 
 > From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

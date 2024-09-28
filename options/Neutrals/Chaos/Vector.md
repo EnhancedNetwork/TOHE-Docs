@@ -17,3 +17,10 @@ Vector will win alone by venting a certain number of times.
   * Set how long the Vector has to wait to Vent
   
 > Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

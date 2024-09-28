@@ -59,4 +59,11 @@ After a certain level you become War.
 [<font color="#2b0804">War</font>](./War.html)
 </center>
 
-> From: TOHEX, Reworked by: Marg
+> From: TOHEX & Reworked by: Marg
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

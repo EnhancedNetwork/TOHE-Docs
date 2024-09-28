@@ -22,3 +22,10 @@ Additionally, when someone tries to kill you, the kill will be blocked and you w
   * <font color=red>OFF</font>: the Necromancer will have <font color=#8cffff>Crewmate</font> Vision
 
 > From: EHR
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -42,3 +42,10 @@ The killer's kill cooldown will be reset to 10 seconds.
   * <font color=red>OFF</font>: the Solsticer will have the same tasks as everyone else
 
 > Idea & Coding: [NikoCat233](https://github.com/NikoCat233)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

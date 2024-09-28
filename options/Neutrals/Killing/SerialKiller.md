@@ -27,3 +27,10 @@ As the Serial Killer, your job is to simply murder everyone to win.
   * <font color=red>OFF</font>: the Serial Killer will be impacted by any harmful interactions
 
 > From: Town of Salem 1
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

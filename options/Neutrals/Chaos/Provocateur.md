@@ -12,3 +12,10 @@ The Provocateur can kill any target with the kill button. If the target loses at
   * Set the Maximum amount of Provocateur that can be in a match
 
 > From: [法师](https://space.bilibili.com/511107305) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

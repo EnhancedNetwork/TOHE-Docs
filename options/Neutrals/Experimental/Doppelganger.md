@@ -17,3 +17,10 @@ Note:- You can not steal the identity of the target when Camouflage is active.
   * Set the Doppelgangers Kill Cooldown
 
 > Idea: [thewhiskas27](#) & Coding: [ryuk](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

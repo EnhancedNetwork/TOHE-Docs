@@ -33,3 +33,10 @@ As the Spiritcaller, your victims become Evil Spirits after they die. These spir
   * Set how long the players that the Evil Spirits mess with will be blinded for
 
 > From: Idea & Coding: [papercut](https://github.com/lars-wu)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

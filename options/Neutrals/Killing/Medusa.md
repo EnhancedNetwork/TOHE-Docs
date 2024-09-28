@@ -20,4 +20,11 @@ You can stone bodies to make them un-reportable. Much like Cleaning a body.
   * <font color=green>ON</font>: Medusa has the same vision as an Impostor
   * <font color=red>OFF</font>: Medusa has default vision
 
-> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons) 
+> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

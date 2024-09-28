@@ -21,3 +21,10 @@ The Blood Knight wins when they're the last killing role alive and the amount of
   * Set the time a Blood Knight is protected for after killing
 
 > From: TOHR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

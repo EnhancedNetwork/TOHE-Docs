@@ -32,3 +32,10 @@ Infection progress is cumulative, and does not reset with distance or after meet
   * <font color=red>OFF</font>: the Plague Scientist cannot Infect in a Vent
 
 > From: TOH & Coding: [Drakos]
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

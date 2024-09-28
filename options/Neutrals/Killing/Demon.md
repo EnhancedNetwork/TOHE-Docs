@@ -26,5 +26,11 @@ Only the Demon team and the <font color=#8cffff>Crewmate</font> team are left, a
 * Demon damage received
   * Set how much health a Demon loses when someone tries to kill them
 
-
 > Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

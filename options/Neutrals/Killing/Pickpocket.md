@@ -23,3 +23,10 @@ Kill everyone to win.
   * Set how much the Pickpockets votes increase after a kill (0.1 vote increments)
 
 > From: Project Lotus & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

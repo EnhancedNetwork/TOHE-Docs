@@ -28,3 +28,10 @@ If the Terrorist dies after completing all tasks, the Terrorist wins the game al
     * You must have “Disable Hidden Roles” toggled <font color=red>OFF</font> for this to have a chance to appear
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

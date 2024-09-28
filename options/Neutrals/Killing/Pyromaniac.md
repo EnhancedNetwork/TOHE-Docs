@@ -23,3 +23,10 @@ As the Pyromaniac, your job is to kill everyone and be the last one standing. Yo
   * <font color=red>OFF</font>: the Pyromaniac will have <font color=#8cffff>Crewmate</font> Vision
 
 > From: EHR
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

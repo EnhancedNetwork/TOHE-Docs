@@ -31,3 +31,10 @@ If the Jester get voted out, the Jester wins the game alone. If the Jester is st
 </center>
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

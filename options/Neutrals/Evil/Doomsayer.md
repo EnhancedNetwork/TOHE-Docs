@@ -47,3 +47,10 @@ You can see the player's id before the player's name, or use the `/id` command t
   * <font color=red>OFF</font>: the mod will not care to hide the Doomsayer's commands.
 
 > From: ToUR
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

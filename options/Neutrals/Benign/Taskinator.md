@@ -26,3 +26,10 @@ Note: Taskinator bombs ignore all protection.
       * Set the amount of Short Tasks the Taskinator will receive
 
 > Idea: [Dx] & Coding: [ryuk](https://github.com/ryuk2098)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

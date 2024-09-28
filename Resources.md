@@ -726,17 +726,11 @@ Open the root directory of game: `...\Among Us\TOHE-DATA\`
 There are a few files:
 
 - `BanList.txt`: A list of friendcodes that will be unable to join your lobby.
-
 - `Default_Teamplate.txt`: This is the Default TOHE Template file. If you wish to reset your templates to default, You can use this. (No idea why it says Teamplate.)
-
 - `DenyName.txt`: A list of names that will be filtered out of the game.
-
 - `Moderators.txt`: A list of friendcodes that will receive a nice Moderator tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to moderate your lobby (such as using the commands near the top of the page). Only grant users you trust these permissions! (NOTE: `english.dat` is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](./Resources.html) Page.)
-
 - `template.txt`: You can modify the `welcome` and `onMeeting` messages here. You can also add custom templates here as well following the same format as `welcome` & `onMeeting` use.
-
 - `VIP-List.txt`: A list of friendcodes that will be given a sweet VIP tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to change their name color. (NOTE: `english.dat` is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](./Resources.html) Page.)
-
 - `WhiteList.txt`: A list of friendcodes that will be exempt from blacklisted platforms, along with level requirements.
 
 > From: The Enhanced Network + Compiling: NotPyro404
@@ -812,26 +806,26 @@ For some member submitted translations (not yet supported by Town of Host: Enhan
 <details>
 <summary><b><font color=gray>Valid Variables</font></b></summary>
 
-- `{{PlayerSpeedMod}}` - Displays the speed of players.
-- `{{CrewLightMod}}` - Displays the vision radius of a Crewmate.
-- `{{ImpostorLightMod}}` - Displays the vision radius of an Impostor.
+- `{{ModVersion}}` - Displays the current version of Town of Host: Enhanced.
+- `{{AmongUsVersion}}` - Displays the current Among Us version.
+- `{{InternalVersion}}` - Displays the source code plugin version.
+- `{{Date}}` - Displays the current date.
+- `{{Time}}` - Displays the current time.
+- `{{PlayerName}}` - Displays the readers username.
+- `{{HostName}}` - Displays the hosts username.
+- `{{RoomCode}}` - Displays the Room Code.
+- `{{Map}}` - Displays the Map that is going to be played.
 - `{{KillCooldown}}` - Displays the default Kill Cooldown set in your Among Us settings.
 - `{{NumCommonTasks}}` - Displays the amount of Common Tasks per player.
 - `{{NumLongTasks}}` - Displays the amount of Long Tasks per player.
 - `{{NumShortTasks}}` - Displays the amount of Short Tasks per player.
-- `{{AmongUsVersion}}` - Displays the current Among Us version.
-- `{{InternalVersion}}` - Displays the source code plugin version.
-- `{{NumEmergencyMeetings}}` - Displays the amount of emergency meetings allowed per player.
-- `{{EmergencyCooldown}}` - Displays the cooldown before you can call another meeting after the last one is finished.
+- `{{NumEmergencyMeetings}}` - Displays the amount of meetings allowed per player.
 - `{{DiscussionTime}}` - Displays the time period where you can talk before voting.
 - `{{VotingTime}}` - Displays the time period where you vote.
-- `{{Date}}` - Displays the current date.
-- `{{Time}}` - Displays the current time.
-- `{{RoomCode}}` - Displays the Room Code.
-- `{{PlayerName}}` - Displays the players username. (The one reading the variable)
-- `{{HostName}}` - Displays the hosts username.
-- `{{ModVersion}}` - Displays the current version of Town of Host: Enhanced.
-- `{{Map}}` - Displays the Map that is going to be played.
+- `{{EmergencyCooldown}}` - Displays the cooldown before you can call a meeting.
+- `{{PlayerSpeedMod}}` - Displays the speed of players.
+- `{{CrewLightMod}}` - Displays the vision radius of a Crewmate.
+- `{{ImpostorLightMod}}` - Displays the vision radius of an Impostor.
 
 > From: The Enhanced Network + Compiling: NotPyro404
 </details>

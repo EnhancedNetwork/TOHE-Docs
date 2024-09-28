@@ -21,17 +21,14 @@ contributors: false
 <tr>
 <td><a href="/changelogs/Alpha.html" style="color:#997d6d"><b>Alpha</b></a></td>
 <td>v2.1.0 Alpha 15</td>
-<td align="center">Latest</td>
 </tr>
 <tr>
 <td><a href="/changelogs/Beta.html" style="color:#6d7299"><b>Beta</b></a></td>
 <td>v2.0.0 Beta 12</td>
-<td align="center">#</td>
 </tr>
 <tr>
 <td><a href="/changelogs/Stable.html" style="color:#996d7f"><b>Stable</b></a></td>
 <td>v2.0.3 Stable</td>
-<td align="center">#</td>
 </tr>
 </table>
 
@@ -74,8 +71,7 @@ contributors: false
 <br>
 
 ### <font color=#4d223a><b>Member Submitted Stuff</b></font>
----
+
 For Member Submitted Presets, visit the [Presets](/Presets.html) page.
 
 For Member Submitted Translations, visit the [Custom Translations](/Translations.html) page.
----

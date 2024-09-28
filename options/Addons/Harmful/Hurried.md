@@ -25,3 +25,10 @@ Hurried hurries to his goal so it won't get Madmate, Charmed or so on.
   * <font color=red>OFF</font>: Hurried Crewmates cannot be recruited by Cultist, Jackal, any recruiting roles
 
 > Idea: [Pyro](#) & Coding: [NikoCat223](https://github.com/NikoCat233)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

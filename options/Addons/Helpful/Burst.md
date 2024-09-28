@@ -27,3 +27,10 @@ If the killer is inside a vent, they will not die.
   * Set how long it takes for the Burst's killer to explode after killing the Burst
 
 > From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons/)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

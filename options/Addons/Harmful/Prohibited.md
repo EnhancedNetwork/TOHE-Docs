@@ -39,3 +39,10 @@ As the Prohibited, you have some Vents Blocked for use.
   * Set how many vents will be blocked on this Map
 
 > From: [TommyXL](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -29,3 +29,10 @@ When the Evader is voted out, there is chance the Evader will not be ejected. (C
   * Set the percentage that Evader can escape getting thrown out
 
 > Idea: [Lime](#) & Coding: [TommyXL](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

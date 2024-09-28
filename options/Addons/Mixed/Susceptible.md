@@ -27,3 +27,10 @@ As the Susceptible, your death reason will be random.
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
 
 > Idea: [FlyFlyTurtle](#) & Coding: [Drakos](https://github.com/Ultradragon005)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

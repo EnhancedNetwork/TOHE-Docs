@@ -36,3 +36,10 @@ You can see the player's id before the player's name, or use the `/id` command t
   * <font color=red>OFF</font>: the mod will not hide the guesser’s command
 
 > From: TheOtherRoles, Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

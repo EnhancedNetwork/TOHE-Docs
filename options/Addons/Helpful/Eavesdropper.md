@@ -27,3 +27,10 @@ As the Eavesdropper, you have a chance to see other information-based messages l
   * Set the percentage that the Eavesdropper can see other information-based messages
 
 > Idea: [Cristos](#) & Coding: [0xDrMoe](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -31,3 +31,10 @@ Notice: Rebirth will be removed from you if you exhausted all your rebirths.
   * <font color=red>OFF</font>: Rebirth will become any player even if they didn't vote them
 
 > Idea & Coding: [Drakos]
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

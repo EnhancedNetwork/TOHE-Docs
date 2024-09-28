@@ -17,3 +17,10 @@ Only <font color=red>Impostor</font> other than Bombers and Trapsters will becom
   * Set how much the Stealers votes increase after a kill.
 
 > Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

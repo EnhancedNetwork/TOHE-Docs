@@ -28,3 +28,10 @@ Lovers are a combination of two players. The Lovers wins when only the Lovers is
   * <font color=red>OFF</font>: Crewmates cannot become Lovers
   
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

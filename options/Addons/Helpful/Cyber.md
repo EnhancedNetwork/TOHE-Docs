@@ -37,3 +37,10 @@ Additionally, your death will be known.
   * <font color=red>OFF</font>: the Cyber remains secret
 
 > From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons/)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

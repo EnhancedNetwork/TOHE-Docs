@@ -20,3 +20,10 @@ The <font color=red>Impostors</font> won't be Bewilder. Bewilder may have a smal
   * <font color=red>OFF</font>: The Bewilders Killer will not gain the Bewilders Vision
   
 > From: TOHR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

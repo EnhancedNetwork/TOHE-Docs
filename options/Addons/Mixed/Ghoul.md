@@ -18,3 +18,10 @@ Only assigned to crewmates, and not crewmates with no tasks or are task based.
   * Set the percentage players have of getting Ghoul
 
 > From: TOHEX
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

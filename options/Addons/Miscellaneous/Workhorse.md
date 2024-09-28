@@ -23,3 +23,10 @@ The first player to complete all the tasks will become Workhorse, Workhorse will
   * <font color=red>OFF</font>: Others can still become Workhorse while the Snitch cannot
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -25,3 +25,10 @@ So nobody knows who you voted for.
   * <font color=red>OFF</font>: Neutrals cannot become Silent
   
 > Idea & Coding: [NikoCat223](https://github.com/NikoCat233)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

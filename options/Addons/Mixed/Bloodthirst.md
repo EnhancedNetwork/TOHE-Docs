@@ -20,3 +20,10 @@ Only assigned to crewmates with tasks.
   * Set the percentage players have of getting Bloodthirst
 
 > From: Project Lotus
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

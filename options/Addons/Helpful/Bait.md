@@ -34,3 +34,10 @@ When a Bait is killed, the player who killed the Bait will be forced to report t
   * <font color=red>OFF</font>: Nobody will know who the bait is unless they reveal
 
 > From: TOH & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

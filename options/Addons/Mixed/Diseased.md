@@ -29,3 +29,10 @@ When someone tries to use kill button on you, their cooldown will be increased b
   * <font color=red>OFF</font>: Killer's cooldown will not return to normal after a meeting
 
 > From: TOH:TOR & Coding: [ryuk](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

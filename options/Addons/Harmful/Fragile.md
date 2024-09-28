@@ -36,3 +36,10 @@ As Fragile, you will die instantly if someone tries to use kill button on you (e
   * <font color=red>OFF</font>: Killers will not lunge towards the Fragile on kill
   
 > From: [cuboidsnow](#) & Coding: [ryuk](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

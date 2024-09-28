@@ -13,3 +13,10 @@ As the Guess Master, you will receive information about every attempted guess ma
   * Set the Maximum amount of Guess Masters that can be in a match
 
 > Idea: [spong](#) & Coding: [ryuk](https://github.com/ryuk2098)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

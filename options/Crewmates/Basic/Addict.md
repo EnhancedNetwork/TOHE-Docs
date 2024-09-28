@@ -25,3 +25,10 @@ After this period is over, you are immobilized for another defined period of tim
   * Set the time the Addict is stuck in place for after invulnerability
 
 > From: Idea & Coding: [papercut](https://github.com/lars-wu) 
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -18,3 +18,10 @@ As the Keeper, you can vote someone to protect them from being ejected. You can 
   * <font color=red>OFF</font>: the Keeper's vote will not be hidden
 
 > Idea: [Drakos](#) & Coding: [ryuk](https://github.com/ryuk2098)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -19,3 +19,10 @@ Catching self-reports, extra intel on body age, etc.
   * Set how long the Scientist can use Vitals for at a time
 
 > From: Innersloth
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

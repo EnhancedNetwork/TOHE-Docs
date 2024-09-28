@@ -293,3 +293,10 @@ The Sheriff can kill any Non-Crew player. If the Sheriff tries tries to kill a C
 </details>
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

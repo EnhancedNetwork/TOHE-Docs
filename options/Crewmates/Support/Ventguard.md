@@ -23,4 +23,12 @@ As the Ventguard, you can enter Vents to Block them. Nobody can enter blocked ve
   * <font color=red>OFF</font>: Blocked Vents will not be reset each meeting
 * <font color=#00ffff>Amount of Ability</font> <font color=#7fffd2>Use Gains</font> <font color=#00ffff>with Each Task Completed</font>
   * Set the amount of Ability uses a Ventguard gains with each Task completed (0.1 increments)
+
 > From: EHR
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

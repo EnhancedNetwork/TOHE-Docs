@@ -36,3 +36,10 @@ After the Snitch completes all tasks, they will see the <font color=red>Impostor
   * <font color=red>OFF</font>: the Snitch does the same amount of Tasks as anyone else
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

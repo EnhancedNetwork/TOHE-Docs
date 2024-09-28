@@ -25,3 +25,10 @@ Use this power to catch sneaky killers!
   * Set the amount of Ability Uses a Lighter gains with each Task completed (0.1 increments)
 
 > From: TOR & Coding: [Gurge44](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

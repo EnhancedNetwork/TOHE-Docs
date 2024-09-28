@@ -21,3 +21,10 @@ Depending on the host's settings, you may misfire on reaching max kill cooldown 
   * Set the lowest the Reverie's kill cooldown can be
 
 > Rework Idea: [Pyro](#) & Coding: [ryuk](#), Original Idea & Coding: [TronAndRey](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

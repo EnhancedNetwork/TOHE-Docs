@@ -26,3 +26,10 @@ As a Coroner you can’t report bodies, instead when you try to report, you will
   * <font color=red>OFF</font>: the killer of the body that the Coroner kills will not be alerted that they are being tracked
 
 > From: Idea & Coding: [papercut](https://github.com/lars-wu)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

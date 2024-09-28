@@ -21,3 +21,10 @@ Additionally, You do not have access to guessing.
   * <font color=red>OFF</font>: Copycat will not be able to copy evil versions of crewmate roles
 
 > From: SLE & Coding: [ryuk](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

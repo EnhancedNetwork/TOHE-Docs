@@ -13,3 +13,10 @@ The Observer can see all shield animations caused by other players after the fir
   * Set the Maximum amount of Observers that can be in a match
 
 > Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

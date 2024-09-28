@@ -21,3 +21,10 @@ As the Ghastly, possess an unsuspecting person, thereafter choose a target for t
 
 
 > From: Idea & Coding: [Drakos]
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

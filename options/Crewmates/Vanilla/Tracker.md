@@ -19,3 +19,10 @@ As the Tracker, press your tracker button on a player to track their location vi
   * Set how long the Delay for Tracking is for the Tracker
 
 > From: Innersloth
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

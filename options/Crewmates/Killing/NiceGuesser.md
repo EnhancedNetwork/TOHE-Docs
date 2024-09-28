@@ -31,5 +31,11 @@ You can see the ID of player’s next to their name, or by typing `/id`
   * <font color=green>ON</font>: the mod will attempt to hide the Nice Guesser’s commands
   * <font color=red>OFF</font>: the mod will not care to hide the Nice Guesser’s commands
 
-
 > From: TheOtherRoles, Coding: [KARPED1EM](https://github.com/KARPED1EM)、[Commandf1](https://github.com/commandf1)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -12,3 +12,10 @@ As an Evil Mini, you are unkillable until you grow up and have a very long initi
 (If the Evil Mini is somehow killed before they grow up, the game will not end unlike it's Nice counterpart)
 
 > Idea & Coding: [LezaiYa](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -38,7 +38,14 @@ Depending on the host's settings, the Medic or the target can see if the player 
 
 ::: tip Did You Know?
 
-Medic was reworked as of Beta Build 1 (2.5.1_1), previously it was based on [KARPED1EM](https://github.com/KARPED1EM)'s code, but now it's based on Town of Us Reactivated
+Medic was reworked as of 2.5.1_1, previously it was based on [KARPED1EM](https://github.com/KARPED1EM)'s code, but now it's based on Town of Us Reactivated
 :::
 
 > From: ToUR & Coding: [Tommy-XL](https://github.com/Tommy-XL)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

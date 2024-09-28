@@ -20,3 +20,10 @@ Be careful though, crewmates can also be killed with the bombs.
   *  Set the maximum initial amount of bombs a Bastion will have
 
 > From: [Discussions](#) & Coding: [Gurge](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -15,5 +15,11 @@ After the Detective reports the body. They will receive a clue message, which wi
   * <font color=green>ON</font>: the Detective can find out the Role of the Killer of any body the Detective reports
   * <font color=red>OFF</font>: the Detective will not be able to find the exact killer’s role
 
-
 > From: TOHR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

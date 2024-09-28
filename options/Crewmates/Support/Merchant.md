@@ -55,3 +55,10 @@ Complete Tasks to give Players a Random Add-On, and receive money that can be us
       * Set the amount of Short Tasks the Merchant will receive
 
 > From: Idea & Coding: [papercut](https://github.com/lars-wu)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

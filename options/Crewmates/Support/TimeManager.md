@@ -28,3 +28,10 @@ The more Tasks that the Time Manager does will increase the Meeting Time. If the
   * <font color=red>OFF</font>: the Time Manager does the same amount of Tasks as anyone else
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

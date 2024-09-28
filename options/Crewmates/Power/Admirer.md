@@ -22,3 +22,10 @@ You can only do this once.
   * Set how many times the Admirer can admire players
 
 > From: Town of Salem II & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

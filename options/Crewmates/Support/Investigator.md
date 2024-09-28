@@ -19,3 +19,10 @@ Depending on the settings, it'll be either sus/not sus or their exact role.
   * Suspicion - Reveals if the Target has a kill button
 
 > From: Project Lotus
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

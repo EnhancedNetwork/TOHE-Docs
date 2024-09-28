@@ -14,3 +14,10 @@ Crewmates win by getting rid of all killers or by finishing all their tasks.
   * Set the Maximum amount of Crewmates that can be in a match
 
 > From: Innersloth
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -32,3 +32,10 @@ Depending on the settings you may only do so while x amount players are alive an
       * Set the amount of Short Tasks the Retributionist will receive
 
 > From: Idea & Coding: [Drakos]
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

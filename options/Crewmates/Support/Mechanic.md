@@ -36,3 +36,10 @@ The Mechanic can use the vent at any time. They can also fix all Sabotages by th
   * Set the amount of Ability Uses it takes to fix Lights/Comms (0.1 increments)
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

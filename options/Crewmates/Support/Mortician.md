@@ -16,3 +16,10 @@ The Mortician will see arrows pointing to all dead bodies, and if the mortician 
   * <font color=red>OFF</font>: the Mortician will not see arrows pointing to all dead bodies
 
 > From: [草暖](https://b23.tv/kTnVK2c) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

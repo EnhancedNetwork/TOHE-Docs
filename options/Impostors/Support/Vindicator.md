@@ -18,3 +18,10 @@ The Vindicator receives extra votes, like Mayor.
   * <font color=red>OFF</font>: all of the Vindicators votes will appear as normal votes
 
 > From: TOH+
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

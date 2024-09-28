@@ -20,3 +20,10 @@ As the Possessor, you are able to possess players when others aren't in the Aler
   * Set the Focus Range that will not allow the Possessor to kill players in if they are within it
 
 > Idea & Coding: [D1GQ]
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

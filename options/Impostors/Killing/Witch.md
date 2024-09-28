@@ -18,3 +18,10 @@ The Witch has two attack methods: Direct Killing & Spelling. Pressing the Kill b
     * Double-Click - Single click to Spellcast, double click to kill normally
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

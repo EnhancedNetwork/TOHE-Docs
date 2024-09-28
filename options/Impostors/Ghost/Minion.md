@@ -16,3 +16,10 @@ As the Minion, you can temporarily blind non-impostors.
   * Set how long the Minions target will be blind for
 
 > Idea & Coding: [Drakos]
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

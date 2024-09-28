@@ -20,3 +20,10 @@ After a Quick Shooter completes a kill, he can offset the Kill Cooldown until he
   * Set how many Bullets the Quick Shooter can have in a Meeting
 
 > Idea & Coding: [NCSIMON](https://github.com/NCSIMON)、[KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

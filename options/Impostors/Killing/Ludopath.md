@@ -16,3 +16,10 @@ Minimum it can be is 1 second, while the maximum is your default kill cooldown.
   * Set the Ludopath’s maximum kill cooldown
 
 > Idea: [Dawson](#) & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

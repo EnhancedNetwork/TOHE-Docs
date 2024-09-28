@@ -35,3 +35,10 @@ As the Deathpact, the targets of your shapeshifting are marked for a deathpact. 
   * <font color=red>OFF</font>: Players in the Deathpact cannot call meetings
 
 > From: Idea & Coding: [papercut](https://github.com/lars-wu)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

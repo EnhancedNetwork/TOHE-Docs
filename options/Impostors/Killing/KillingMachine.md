@@ -15,3 +15,10 @@ The Killing Machine has a very short kill cooldown, but cannot vent, has lower v
   * Set the Killing Machines Kill Cooldown
 
 > From: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

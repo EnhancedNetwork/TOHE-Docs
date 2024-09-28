@@ -18,3 +18,10 @@ Double click on someone to kill them normally.
   * Set the amount of time it will take for the Masterminds target to be notified that they were manipulated
 
 > From: EHR
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

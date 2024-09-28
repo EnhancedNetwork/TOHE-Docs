@@ -13,3 +13,10 @@ You don’t appear as <font color=red>Impostor</font> to Crewmates. (Sheriff can
   * Set the Maximum amount of Tricksters that can be in a match
 
 > From: TOH+
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

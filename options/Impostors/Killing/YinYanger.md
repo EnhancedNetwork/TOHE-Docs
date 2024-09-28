@@ -15,3 +15,10 @@ As the YinYanger, you can use your kill button one time to pick your Yin, and a 
   * Set long the YinYanger needs to wait to kill
 
 > Idea: TOHTOR & Coding: [Drakos]
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

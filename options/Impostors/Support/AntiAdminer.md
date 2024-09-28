@@ -17,3 +17,10 @@ Note: Anti Adminer does not know for sure if someone is using the device while n
   * <font color=red>OFF</font>: Anti Adminer does not receive this information
 
 > From: TOHY & Coding: [Yumenopai](https://github.com/Yumenopai)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -21,3 +21,10 @@ The Twister itself will not swap places with anyone and players who are in vents
   * <font color=red>OFF</font>: players can see who they swapped places with
 
 > From: Idea & Coding: [papercut](https://github.com/lars-wu)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

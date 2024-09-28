@@ -18,3 +18,10 @@ Note: the Disperser itself will not be teleported with shapeshift and players wh
   * Set how long the Disperser can use Shapeshift for
 
 > From: ToUR
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -18,3 +18,10 @@ As the Bloodmoon, attack enemies to make them drip blood, this means they will d
   * Set how long targets of Bloodmoon have until they die
 
 > From: TOH (Mafia) & Coding: [Drakos]
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

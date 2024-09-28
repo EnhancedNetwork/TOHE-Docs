@@ -14,3 +14,10 @@ As the Kamikaze you can single click to mark people. Double click to kill normal
   * This page still needs: Settings.
 
 > Idea & Coding: [Drakos](https://github.com/Ultradragon005)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

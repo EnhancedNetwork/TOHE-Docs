@@ -26,3 +26,10 @@ As the Councillor, you can kill players during a meeting like a Judge. When kill
   * <font color=red>OFF</font>: the mod will not care to hide the Judge’s `/tl` commands
 
 > Idea: [DreameR](#) & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

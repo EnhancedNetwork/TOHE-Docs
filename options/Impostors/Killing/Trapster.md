@@ -25,3 +25,10 @@ When someone tries to report a body you killed, they'll die.
        * <font color=red>OFF</font>: Bodies killed by the Trapster will not trigger another trap on the player that reported them
 
 > Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

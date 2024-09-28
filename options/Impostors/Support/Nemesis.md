@@ -19,3 +19,10 @@ As the Nemesis you can revenge some players.
   * <font color=red>OFF</font>: Legacy Nemesis will not be used
 
 > From: TOH (Mafia) & Coding: [Drakos]
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

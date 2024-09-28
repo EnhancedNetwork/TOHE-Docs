@@ -21,3 +21,10 @@ The Warlock can curse other players while Unshifted, but when they Shapeshift af
   * Set how long the Warlock will stay shifted for
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

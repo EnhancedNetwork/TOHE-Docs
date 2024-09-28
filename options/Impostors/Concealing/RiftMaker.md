@@ -16,3 +16,10 @@ Note: Up to two rifts can be placed at a time, if you try to place a third, it r
   * This page still needs: Settings.
 
 > From: EHR
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

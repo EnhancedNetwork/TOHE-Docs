@@ -18,3 +18,10 @@ You kill with a delay. If you bite someone, they will die a set amount of time l
   * <font color=red>OFF</font>: Vampire cannot Vent
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

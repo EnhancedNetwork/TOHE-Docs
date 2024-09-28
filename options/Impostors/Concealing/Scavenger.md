@@ -15,3 +15,10 @@ When a Scavenger kills, it will not leave a dead body, (Like Hangman if they are
   * Set how long the Scavenger needs to wait to use his Ability
 
 > From: [喜](https://space.bilibili.com/443432765) & Coding: [喜](https://space.bilibili.com/443432765)、[KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

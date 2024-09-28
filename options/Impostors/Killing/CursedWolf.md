@@ -15,3 +15,10 @@ When the Cursed Wolf is about to be killed, the Cursed Wolf will curse the kille
   * Set how many Shields the Cursed Wolf has
 
 > From: TOHY
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -17,3 +17,10 @@ As the Lurker, you can jump into a vent to reduce your cooldown by a certain num
   * Set how much the Lurkers kill cooldown gets lowered by
 
 > From: Idea & Coding: [papercut](https://github.com/lars-wu)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

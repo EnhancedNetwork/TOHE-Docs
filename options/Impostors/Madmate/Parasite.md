@@ -13,3 +13,10 @@ The Parasite doesn’t know the Other Impostors, and the Other <font color=red>I
   * Set the Maximum amount of Parasites that can be in a match
 
 > From: TOH+
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

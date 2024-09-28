@@ -22,5 +22,11 @@ When a Camouflager Shapeshifts, all players will look the same. All players will
   * <font color=green>ON</font>: players cannot report bodies when Camouflager is camouflaged
   * <font color=red>OFF</font>: players can report bodies when Camouflager is camouflaged
 
-
 > From: TheOtherRoles
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

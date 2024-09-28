@@ -27,3 +27,10 @@ You can shoot players from far away. You have to shapeshift twice to make a succ
   * <font color=red>OFF</font>: the Sniper will work as default
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

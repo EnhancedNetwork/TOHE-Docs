@@ -16,3 +16,10 @@ The Puppeteer can choose a target to kill for him. The target will kill anyone a
   * <font color=red>OFF</font>: the person they targeted won't suicide
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

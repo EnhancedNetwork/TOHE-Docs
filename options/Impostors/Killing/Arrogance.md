@@ -25,3 +25,10 @@ The Arrogance reduces their kill cooldown with each successful kill of theirs.
 </center>
 
 > From: TOU & Coding: [KARPED1EM](https://github.com/KARPED1EM)、[天寸梦初](https://github.com/Huier-Huang)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

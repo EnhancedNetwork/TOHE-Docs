@@ -37,3 +37,10 @@ When the Crewpostor does a Task, they will kill the player closest to them. (Dep
       * Set how many Short Tasks the Crewpostor will receive
 
 > From: TOH:TOR
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

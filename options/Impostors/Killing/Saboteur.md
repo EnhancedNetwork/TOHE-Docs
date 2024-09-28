@@ -20,3 +20,10 @@ This role was formerly a Hidden Role under [Inhibitor](Inhibitor)
 :::
 
 > Idea: [Pyro](#) & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

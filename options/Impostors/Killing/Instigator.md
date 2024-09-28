@@ -19,3 +19,10 @@ As the Instigator, it's your job to turn the crewmates against each other. Each 
   * Set how many kills the Instigator will get when they use their ability
 
 > Idea & Coding: [lars-wu (papercut)](https://github.com/lars-wu)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

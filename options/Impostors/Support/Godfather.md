@@ -17,3 +17,10 @@ In the next round, if someone kills the target, the killer will turn into a Refu
   * <font color=red>Madmate</font>: Killer will turn into Madmate.
 
 > Idea & Coding: [ryuk](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

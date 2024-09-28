@@ -17,3 +17,10 @@ Greedy kills with odd and even kills will have different kill cooldowns. Greedyâ
   * Set how long the Greedyâ€™s kill cooldown is after killing their 2nd, 4th, 6th[...] person
 
 > From: TOHY
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -17,3 +17,12 @@ Press the kill button twice for a direct kill.
 * Kill the target if a meeting starts during dragging
   * <font color=green>ON</font>: The player that the Penguin is dragging will die if a body is reported/emergency meeting is called
   * <font color=red>OFF</font>: The player that the Penguin is dragging will not die if a body is reported/emergency meeting is called
+
+> From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

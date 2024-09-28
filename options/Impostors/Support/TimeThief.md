@@ -22,3 +22,10 @@ Every time the Time Thief kills, the Meeting time will be reduced. If the Time T
   * <font color=red>OFF</font>: the Meeting time will remain lowered
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

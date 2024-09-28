@@ -19,3 +19,10 @@ The Wildling can Shapeshift, but cannot Vent. After a Wilding kills, they gain a
   * Set how long the Wildling stays Shapeshifted for
 
 > From: TOH+
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -21,3 +21,10 @@ After every teleported kill you will freeze for a configurable amount of time.
   * Set how long the Undertaker will Freeze for after using their ability
 
 > From: ToUR
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

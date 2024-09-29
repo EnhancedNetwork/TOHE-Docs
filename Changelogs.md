@@ -16,7 +16,7 @@ contributors: false
 
 <font size=3em>
 <details>
-<summary><b><font color=#a65a80>TOHE v2.1.0 Alpha 15.1 Changelogs</font></b></summary>
+<summary><b><font color=#a65a80>TOHE v2.1.0 Alpha 16 Changelogs</font></b></summary>
 
 <details>
 <summary><b><font color=#a3693b>Known Bugs</font></b></summary>
@@ -24,18 +24,24 @@ contributors: false
 = <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, Imitator, & Altruist are working, but are unstable<br>
 </details>
+<details>
+<summary><b><font color=#cf4e8f>v2.1.0 Alpha 16.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some errors<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Lawyer icons<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed murders while anti blackout<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when revived player not sets Camouflage skin while Camouflage<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Jailer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed custom intro for vanilla<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 16</font></b></summary>
 
-* By [**NikoCat223**](https://github.com/NikoCat233)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Added notify message about game end (Since RpcEndGame may not be received by certain client on InnerSloth officials. These codes should be necessary to tell those players to quit by themselves)<br>
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Judge for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Maybe fixed Soul Collector errors<br>
+\- <font color=#12edaf><b>REVERT</b></font>: Reverted all changes in Delayed Network Data (means it works same as was 2.0.3)<br>
 
 * By [**Huier**](https://github.com/Huier-Huang)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Swapper now show tasks<br>
+\+ <font color=green><b>NEW</b></font>: Setting for Judge: Max Trials per game<br>
+</details>
 </details>
 <br>
 <details>

@@ -16,7 +16,31 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Alpha 15.1</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.1.0 Alpha 16.1</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Jailer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed custom intro for vanilla<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 16</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Judge for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Maybe fixed Soul Collector errors<br>
+\- <font color=#12edaf><b>REVERT</b></font>: Reverted all changes in Delayed Network Data (means it works same as was 2.0.3)<br>
+
+* By [**Huier**](https://github.com/Huier-Huang)<br>
+\+ <font color=green><b>NEW</b></font>: Setting for Judge: Max Trials per game<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 15.2</font></b></summary>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Try fix disconnects<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 15.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed some errors<br>

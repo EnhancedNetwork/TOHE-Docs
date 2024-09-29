@@ -886,7 +886,8 @@ If you don't want to read the Doc, they will all be listed below!<br><br>
 Any Role that can Kill (Is applied to any role that does not have a special death reason)<br><br>
 
 - Ejected<br>
-When a player is voted (Is applied when a player is voted out during a Meeting)<br><br>
+When a player is voted (Is applied when a player is voted out during a Meeting)<br>
+Tricky and Susceptible will never give this death reason.<br><br>
 
 - Suicide<br>
 Unlucky (Happens to the player by chance)<br>
@@ -899,7 +900,8 @@ Pixie (Can only happen if Pixie suicides if target is not voted out setting is o
 Terrorist (Can only happen if Can Win by Suicide setting is on)<br><br>
 
 - Disconnected<br>
-Player leaves the Game (If no cause of death was established, does not always display if the player disconnected)<br><br>
+Player leaves the Game (If no cause of death was established, does not always display if the player disconnected)<br>
+Tricky and Susceptible will never give this death reason.<br><br>
 
 - Fall<br>
 Ladders on Airship/Fungle (Fall From Ladders setting)<br><br>
@@ -909,11 +911,13 @@ Evil Guesser (If a player was guessed or if a player misguessed)<br>
 Nice Guesser (If a player was guessed or if a player misguessed)<br>
 Doomsayer (If a player was guessed or if a player misguessed)<br>
 Guesser (If a player was guessed or if a player misguessed)<br>
-Guesser Mode (If a player was guessed or if a player misguessed)<br><br>
+Guesser Mode (If a player was guessed or if a player misguessed)<br>
+Tricky and Susceptible will never give this death reason.<br><br>
 
 - Other<br>
 Shouldn’t happen (404: DeathReasonNotFound)<br>
-Game Master (Only exception, the death reason of Game Master will be Other)<br><br>
+Game Master (Only exception, the death reason of Game Master will be Other)<br>
+Tricky and Susceptible will never give this death reason.<br><br>
 
 - Spelled<br>
 Witch (Given to a player marked by the Witch if the Witch isn't voted out)<br><br>
@@ -982,7 +986,8 @@ Bodyguard (Given to the Bodyguard themselves)<br><br>
 Lightning (Given if a player touches another player after becoming Quantum Ghost)<br><br>
 
 - Overtired<br>
-Workholic (Given to the Workholic if they complete their tasks)<br><br>
+Workholic (Given to the Workholic if they complete their tasks)<br>
+Tricky and Susceptible will never give this death reason.<br><br>
 
 - Ashamed<br>
 Workaholic (Given to everyone else alive if Workaholic completes their tasks)<br><br>
@@ -1049,10 +1054,12 @@ Quizmaster (Given to players that incorrectly answer a question from the Quizmas
 Famine (Given to anyone without bread after Famine transforms and is not voted out, or when famine uses their kill button on a player after that)<br><br>
 
 - Armageddon<br>
-Death (Given to everyone alive if Death is not voted out when they transform)<br><br>
+Death (Given to everyone alive if Death is not voted out when they transform)<br>
+Tricky and Susceptible will never give this death reason.<br><br>
 
 - Alive<br>
-Bug (This Death Reason occured awhile ago due to bugs, but has since been patched out)<br><br>
+Bug (This Death Reason occurred awhile ago due to bugs, but has since been patched out)<br>
+Tricky and Susceptible will never give this death reason, but that should be obvious.<br><br>
 
 > From: Marg + Compiling: NotPyro404
 </details>

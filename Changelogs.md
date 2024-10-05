@@ -37,10 +37,10 @@ contributors: false
 \+ <font color=green><b>NEW</b></font>: Eavesdropper (Addon Helpful, idea by: Crosspost Del Slay, coded: TommyXL)<br>
 \+ <font color=green><b>NEW</b></font>: Spurt (Addon Helpful, idea by: .thediamondstar)<br>
 \+ <font color=green><b>NEW</b></font>: Prohibited (Addon Harmful, by: TommyXL)<br>
-\+ <font color=green><b>NEW</b></font>: New Neutral Team (Faction): Neutral Apocalypse (Can be sets min/max Neutral Apocalypse)<br>
-\+ <font color=green><b>NEW</b></font>: New role: Baker<br>
-\+ <font color=green><b>NEW</b></font>: Berserker and PlagueBearer now moved to Neutral Apocalypse<br>
-\+ <font color=green><b>NEW</b></font>: Soul Collector reworked<br>
+\+ <font color=green><b>NEW</b></font>: New Neutral Team (Faction): Neutral Apocalypse (Can be sets min/max Neutral Apocalypse) (Coded by: Marg)<br>
+\+ <font color=green><b>NEW</b></font>: New role: Baker (Coded by: Marg)<br>
+\+ <font color=green><b>NEW</b></font>: Berserker and PlagueBearer now moved to Neutral Apocalypse (Reworked by: Marg)<br>
+\+ <font color=green><b>NEW</b></font>: Soul Collector reworked (Reworked by: Marg)<br>
 \+ <font color=green><b>NEW</b></font>: Added disabling use vent for vanilla (ported from MoreGamemodes, by TommyXL & NikoCat)<br>
 \+ <font color=green><b>NEW</b></font>: When a player does not have access to vents, they will never be able to use it<br>
 \+ <font color=green><b>NEW</b></font>: More fixes for AntiBlackOut (By TommyXL & Drakos)(Note: This will not completely fix black screen issues, but the more players there are in the game, the less chance of black screen occurrences) (To do this, we use revives and base role changes during exile, so that dead players will be alive for a couple of seconds, but will become dead again)<br>

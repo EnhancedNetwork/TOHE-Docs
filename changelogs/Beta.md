@@ -16,7 +16,29 @@ To access Beta Builds, visit TEN's [Discord Server](https://discord.gg/ten) and 
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Beta 1</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.1.0 Beta 2</font></b></summary>
+
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved menu for role descriptions in settings<br>
+\+ <font color=green><b>NEW</b></font>: Setting: Apocalypse can see each other's Add-ons<br>
+\+ <font color=green><b>NEW</b></font>: Settings: "Halloween Decorations" and "Birthday Decoration" (only for modded)<br>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some bugs for Phantom<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some bugs for Witness<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Neutral Apocalypse not counted correctly<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed missed string "GuessedAsMundane"<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some roles descriptions<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Judge for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Lawyer and Executioner can be revived when target was dead<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed kill cd for Glitch<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Executioner and Lawyer Intro cutscene<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed arrows for modded clients<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed settings for Double Shot and Sleuth<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Double Agent can't get Tricky<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Miner/Double Agent/Prohibited can't get Circumvent<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Neutral Apocalypse can't get Rebirth and Evader<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Beta 1</font></b></summary>
 
 \+ <font color=green><b>NEW</b></font>: Sloth (Addon Harmful, Idea & Coded: Pyro) (mostly code borrowed from Flash)<br>
 \+ <font color=green><b>NEW</b></font>: Yin Yanger (Impostor Killing, idea & coded: Drakos)<br>

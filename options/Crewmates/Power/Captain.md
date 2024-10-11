@@ -46,3 +46,10 @@ If you betray the captain's trust by voting them out, you will lose an addon.
   * <font color=red>OFF</font>: the Captain will have the same tasks as everyone else
 
 > Idea: [lily0la](#) & Coding: [ryuk](https://github.com/ryuk2098)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -28,3 +28,10 @@ Whenever many people are near Statue, the Statue is completely frozen or slowed 
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
   
 > From: [spong](#) & Coding: [Drakos](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

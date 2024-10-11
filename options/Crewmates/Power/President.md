@@ -32,3 +32,10 @@ Ability 2: Reveal identity - Type /reveal in meetings to reveal yourself. Reveal
   * <font color=red>OFF</font>: The mod will not hide commands President's commands
 
 > From: SLE & Coding: [SolarFlare](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

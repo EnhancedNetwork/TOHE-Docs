@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Rascal
-prev: Oblivious
+prev: Prohibited
 next: Sloth
 ---
 
@@ -19,3 +19,10 @@ Only assigned to Crewmates, cannot be assigned by the Merchant.
   * <font color=red>OFF</font>: Rascal will appear as they normally would
 
 > From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -19,3 +19,10 @@ As the Morphling, you are a Shapeshifter but cannot kill while not shapeshift.
   * Set how long the Morphling will stay in their Shapeshift form until they unshift
 
 > From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

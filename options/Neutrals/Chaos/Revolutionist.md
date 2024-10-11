@@ -27,3 +27,10 @@ If the player name displays 「●」, it means they have been recruited.
   * Set how long a Revolutionist has to Vent.
 
 > From: [波奇酱](#) & Coding: [NCSIMON](https://github.com/NCSIMON)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

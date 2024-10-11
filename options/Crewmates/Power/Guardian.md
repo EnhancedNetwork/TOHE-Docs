@@ -23,3 +23,10 @@ If you complete all of your Tasks, you become immortal. This includes being Kill
   * <font color=red>OFF</font>: the Guardian will have the same tasks as everyone else
 
 > From: SLE & Coding: [SolarFlare](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

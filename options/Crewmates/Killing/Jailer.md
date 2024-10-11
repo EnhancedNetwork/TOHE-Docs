@@ -38,3 +38,10 @@ Note: Jailed players cannot be guessed or judged and jailed players can only gue
   * <font color=red>OFF</font>: Jailed players will not be notified when the meeting starts
 
 > From: TOS & Coding: [ryuk](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

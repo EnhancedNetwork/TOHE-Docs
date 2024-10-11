@@ -17,3 +17,10 @@ The killing method of the Hangman during the Shapeshifting is Strangling. Strang
   * Set how long the Hangman stays shapeshifted to use his ability.
 
 > From: [草暖](https://b23.tv/kTnVK2c) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -15,3 +15,10 @@ After the Collector votes for a target, they will collect all the votes cast ont
   * Set the amount of Votes a Collector needs to receive to Win
 
 > Idea & Coding: [NCSIMON](https://github.com/NCSIMON)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

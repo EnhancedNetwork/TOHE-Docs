@@ -29,3 +29,10 @@ Not assigned to Detective or Mortician.
   * <font color=red>OFF</font>: the Sleuth cannot find the role of the killer
   
 > From: ToUR & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons/)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

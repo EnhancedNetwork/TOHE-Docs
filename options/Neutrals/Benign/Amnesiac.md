@@ -26,3 +26,10 @@ If the target was a neutral killer of a select few, you'll become the role they 
   * Set if Amnesiac will receive arrows pointing towards a dead body
   
 > From: ToUR
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

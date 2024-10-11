@@ -32,3 +32,10 @@ You have to kill <b>everyone</b> to win.
   * <font color=red>OFF</font>: the Glitch doesn't have the Vision of an Impostor
 
 > Idea & Coding: [Gurge44](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

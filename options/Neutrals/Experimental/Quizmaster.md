@@ -26,3 +26,10 @@ The Quizmaster cannot mark multiple people in the same round.
   * <font color=red>OFF</font>: Questions will only relate to the ongoing round
 
 > Idea: [Spong] & Coding: [Furo]
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

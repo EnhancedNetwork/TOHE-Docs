@@ -29,3 +29,10 @@ As the Pitfall, you use your shapeshift to mark the area around the shapeshift a
   * Set how long the vision is affected for
 
 > From: Idea & Coding: [papercut](https://github.com/lars-wu)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

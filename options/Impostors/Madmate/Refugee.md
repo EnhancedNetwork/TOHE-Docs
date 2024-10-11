@@ -14,3 +14,10 @@ Now your job is to help the Impostors kill the crewmates.
 * Can only appear if Godfather/Amnesiac are enabled (as the description implies).
 
 > From: TOHRE
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

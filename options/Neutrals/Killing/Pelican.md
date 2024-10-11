@@ -18,3 +18,10 @@ Note: Pelican swallowing people is not a normal way to kill, so role skills such
   * <font color=red>OFF</font>: the Pelican cannot vent
 
 > From: Goose Goose Duck & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

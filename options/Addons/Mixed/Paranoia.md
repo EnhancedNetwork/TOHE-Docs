@@ -21,3 +21,10 @@ Madmates and <font color=#7f8c8d>Neutrals</font> can't become Paranoia. Paranoia
   * <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
 
 > Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -22,3 +22,10 @@ The Stalker can kill anyone, and every kill will immediately cause electricity s
   * <font color=red>OFF</font>: the Stalker will not steal the win from anyone
 
 > From: TOHY
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

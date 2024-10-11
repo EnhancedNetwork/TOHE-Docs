@@ -2,7 +2,7 @@
 lang: en-US
 title: Oblivious
 prev: Mundane
-next: Rascal
+next: Prohibited
 ---
 
 # <font color=#424242>🤡 <b>Oblivious</b></font> <Badge text="Harmful" type="tip" vertical="middle"/>
@@ -27,3 +27,10 @@ Detective and Cleaners won't be Oblivious. Oblivious cannot report dead bodies. 
   * <font color=red>OFF</font>: Bait will act as normal
 
 > From: TOHR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

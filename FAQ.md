@@ -200,7 +200,7 @@ Their presence has no effect on the game, and all players know who the Game Mast
 <details>
 <summary><b><font color=gray>How can I access Beta & Alpha Builds?</font></b></summary>
 
-1. Anybody can get Beta Access by visiting `#beta-builds` in the Discord Server of The Enhanced Network.
+1. Anybody can get Beta Access by visiting `#beta-builds` in TEN's Discord Server.
 
 2. Become a Contributor, Tester, or Sponsor (Insider+) for Alpha Access.<br>
 Read near the bottom of the [Install](/Install.html) page.
@@ -217,7 +217,7 @@ Role Ideas are currently locked to Sponsors, Nitro Boosters, & Contributors. Thi
 
 Keep in mind, both of these require you to add significant changes, it can't just be a "one and done" sort of deal. If you are an inactive Contributor/Translator, you may be removed from the team.
 
-1. To earn Contributor, you'll need to help with coding Features, Roles, Game-modes, and so on for Town of Host: Enhanced. To do this, you will need a token. You can obtain one of these by creating a ticket in the Discord Server of The Enhanced Network and asking for an API Token. Moe will get back to you at some point.
+1. To earn Contributor, you'll need to help with coding Features, Roles, Game-modes, and so on for Town of Host: Enhanced. To do this, you will need a token. You can obtain one of these by creating a ticket in TEN's Discord Server and asking for an API Token. Moe will get back to you at some point.
 
 2. To earn Translator, you'll need to help with translating Town of Host: Enhanced into other languages supported by Among Us (See supported languages on the Resources Page). If you want to translate a language that Town of Host: Enhanced hasn't yet started, you may create a ticket applying for the position (of course, it will only be you unless other people apply for the same position) and wait for Ryuk or Moe to get back to you. If you want to translate Town of Host: Enhanced into another language but Among Us doesn't yet support it, you can do that in your own english.dat file and share it in #website-feedback when you are finished. (Info on english.dat on the Resources Page.)
 </details>

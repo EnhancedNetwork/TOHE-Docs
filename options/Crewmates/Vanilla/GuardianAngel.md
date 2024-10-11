@@ -20,3 +20,10 @@ As the Guardian Angel, you are the first crewmate to die and can give Crewmates 
   * <font color=red>OFF</font>: the Impostors cannot see the Protection of Guardian Angel
 
 > From: Innersloth
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

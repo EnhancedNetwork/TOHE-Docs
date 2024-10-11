@@ -16,3 +16,10 @@ Note: Gangster can not convert Vigilante into madmate.
   * Set how long the Vigilante has to wait to Kill
 
 > From: SLE (Mercenary)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

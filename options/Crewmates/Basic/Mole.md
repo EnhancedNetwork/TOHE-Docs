@@ -15,3 +15,10 @@ As the Mole, when you vent, you stay in the vent for 1 second. When you come out
   * Set how long the Mole has to wait to use their Ability
 
 > Idea: [thewhiskas27](#) & Coding: [ryuk](https://github.com/ryuk2098)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -25,3 +25,10 @@ Stay alive to win. You win with the winning team rather than alone. If you die, 
       * Set the amount of Short Tasks the Opportunist will receive
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

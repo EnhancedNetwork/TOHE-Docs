@@ -30,3 +30,10 @@ Only the Cultist team and the <font color=#8cffff>Crewmate</font> team are left,
   * <font color=red>OFF</font>: when the Cultist attempts to Charm a Neutral, the Cultist will receive a message saying “This player cannot be Charmed”
 
 > Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

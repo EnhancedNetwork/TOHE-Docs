@@ -97,6 +97,7 @@ export default defineUserConfig({
             { text: 'Influenced', link: '/options/Addons/Harmful/Influenced.html' },
             { text: 'Mundane', link: '/options/Addons/Harmful/Mundane.html' },
             { text: 'Oblivious', link: '/options/Addons/Harmful/Oblivious.html' },
+            { text: 'Prohibited', link: '/options/Addons/Harmful/Prohibited.html' },
             { text: 'Rascal', link: '/options/Addons/Harmful/Rascal.html' },
             { text: 'Sloth', link: '/options/Addons/Harmful/Sloth.html' },
             { text: 'Statue', link: '/options/Addons/Harmful/Statue.html' },
@@ -112,6 +113,7 @@ export default defineUserConfig({
             { text: 'Bewilder', link: '/options/Addons/Helpful/Bewilder.html' },
             { text: 'Burst', link: '/options/Addons/Helpful/Burst.html' },
             { text: 'Cyber', link: '/options/Addons/Helpful/Cyber.html' },
+            { text: 'Eavesdropper', link: '/options/Addons/Helpful/Eavesdropper.html' },
             { text: 'Evader', link: '/options/Addons/Helpful/Evader.html' },
             { text: 'Flash', link: '/options/Addons/Helpful/Flash.html' },
             { text: 'Lazy', link: '/options/Addons/Helpful/Lazy.html' },
@@ -256,6 +258,7 @@ export default defineUserConfig({
             { text: 'Spy', link: '/options/Crewmates/Support/Spy.html' },
             { text: 'Time Manager', link: '/options/Crewmates/Support/TimeManager.html' },
             { text: 'Time Master', link: '/options/Crewmates/Support/TimeMaster.html' },
+            { text: 'Ventguard', link: '/options/Crewmates/Support/Ventguard.html' },
             { text: 'Witness', link: '/options/Crewmates/Support/Witness.html' },
           ],
           '/options/Crewmates/Vanilla/': [
@@ -313,11 +316,7 @@ export default defineUserConfig({
                 { text: 'Bard', link: '/options/Impostors/Killing/Bard.html' },
               ]
             },
-            {
-              text: 'Bomber', link: '/options/Impostors/Killing/Bomber.html', children: [
-                { text: 'Nuker', link: '/options/Impostors/Killing/Nuker.html' },
-              ]
-            },
+            { text: 'Bomber', link: '/options/Impostors/Killing/Bomber.html' },
             { text: 'Bounty Hunter', link: '/options/Impostors/Killing/BountyHunter.html' },
             { text: 'Butcher', link: '/options/Impostors/Killing/Butcher.html' },
             { text: 'Chronomancer', link: '/options/Impostors/Killing/Chronomancer.html' },

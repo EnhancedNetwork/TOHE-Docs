@@ -18,3 +18,10 @@ As the Tricky, your kills will have a random death reason.
   * <font color=red>OFF</font>: Tricky's Kill-Reason will randomly pull from ALL roles
 
 > From: [FlyFlyCat] & Coding: [Drakos]
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

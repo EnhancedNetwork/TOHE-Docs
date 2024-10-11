@@ -33,3 +33,10 @@ Note: You don’t need to worry about this if you have a TOHE Modded Client, as 
   * <font color=red>OFF</font>: the mod will not care to hide the Evil Guesser’s commands
 
 > From: TheOtherRoles, Coding: [KARPED1EM](https://github.com/KARPED1EM)、[Commandf1](https://github.com/commandf1)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

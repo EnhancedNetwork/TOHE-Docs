@@ -25,3 +25,10 @@ You win after winning a certain number of duels set by the host.
   * Set how many times the Pirate needs to win a duel to win
 
 > From: Town of Salem 1 & Coding: [ryuk](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

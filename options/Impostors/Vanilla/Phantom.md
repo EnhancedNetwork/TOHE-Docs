@@ -18,3 +18,10 @@ Note: You will make a smoke cloud whenever you go invisible and become visible. 
   * Set how long the Phantom stays Invisible for
 
 > From: Innersloth
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -23,5 +23,11 @@ Target dies after possession
   * <font color=green>ON</font>: Doll Master's target will die after the Duration of the Possession is finished
   * <font color=red>OFF</font>: Doll Master's target will not die after the Duration of the Possession is finished
 
-
 > From: D1GQ
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

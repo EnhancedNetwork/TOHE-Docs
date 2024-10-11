@@ -26,3 +26,10 @@ The Sloth's default movement speed is slower than others. (speed depends on the 
   * Set how slow players with Sloth will become
 
 > Based From: Flash Code ([KARPED1EM](#)) & Coding: [NotPyro404](https://github.com/NotPyro404)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

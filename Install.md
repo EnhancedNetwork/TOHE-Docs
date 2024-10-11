@@ -20,7 +20,7 @@ This policy is in place to keep the integrity of our Sponsor, Contributor, & Tes
 <details>
 <summary><b><font color=gray>How to get</font> <font color=#996d7f>Stable Builds</font></b></summary>
 
-* Visit `#mod-release` in the [Discord Server](https://discord.gg/ten) of The Enhanced Network, or go [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/latest) to download it directly from GitHub. 
+* Visit `#mod-release` in TEN's [Discord Server](https://discord.gg/ten), or go [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/latest) to download it directly from GitHub. 
 
 Installation requires that you own a PC version of Among Us on Steam, Epic, Xbox App, or Itch. Microsoft Store will not work.
 </details>
@@ -41,7 +41,7 @@ Notice: You can follow the installation video [HERE](https://www.youtube.com/wat
 ![image](./images/ResultFolder.png)
 
 5. Within the TOHE folder, run `Among Us.exe`. The first time running it may take some time while the mod sets up its files. If you see a black screen, just wait a couple minutes. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder.<br>
-Note: If you separated your TOHE Mod and Vanilla folders, and run into an issue where it says 'you are logged out/in offline mode', close TOHE and open Steam (or launch Vanilla AU as this will open Steam too), then try again. This should solve the issue.
+Note: If you separated your TOHE Mod and Vanilla folders, and run into an issue where it says 'you are logged out/in offline mode', close TOHE and open Steam (or launch Vanilla AU as this will open Steam too), then try again. This should solve the issue. (Separating your folders isn't required, but recommended so your mod still works if a major Among Us update is released.)
 
 6. `(Optional)` Right click your `Among Us.exe` and click '`Create shortcut`'. Move your new shortcut to wherever you can easily access it, such as your Desktop!
 #### You have now installed Town of Host: Enhanced! All that remains is to start up a private lobby and customize your settings.
@@ -125,13 +125,13 @@ NOTE: This is for the `Xbox App` version of Among Us. You cannot download TOHE o
 - To become a <b>Tester</b>, you must be an active content creator with 4 or more of your <b>Town of Host: Enhanced videos</b> having 600+ views on average.<br>
 - To become a <b>Sponsor</b>, you need to purchase a package on our [Website](https://weareten.ca/TOHE/) (Insider tier for $5.00 grants Alpha Build access).<br>
 
-Visit `#alpha-builds` in the [Discord Server](https://discord.gg/ten) of The Enhanced Network once you have been accepted into one of the above roles, and download the latest dll!
+Visit `#alpha-builds` in TEN's [Discord Server](https://discord.gg/ten) once you have been accepted into one of the above roles, and download the latest dll!
 </details>
 <br>
 <details>
 <summary><b><font color=gray>How to get</font> <font color=#6d7299>Beta Builds</font></b></summary>
 
-* Visit `#beta-builds` in the [Discord Server](https://discord.gg/ten) of The Enhanced Network, and download the latest dll!
+* Visit `#beta-builds` in TEN's [Discord Server](https://discord.gg/ten), and download the latest dll!
 </details>
 <br>
 <details>

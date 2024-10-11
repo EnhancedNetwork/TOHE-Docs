@@ -26,3 +26,10 @@ As the Randomizer, when you die, your killer will do one of the following:<br>
   * Set how long the killer of a Randomizer will be frozen/stuck for after killing
 
 > Idea: [Night] & Coding: [乐崽吖](https://github.com/LezaiYa)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

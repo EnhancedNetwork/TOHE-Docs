@@ -24,3 +24,10 @@ As the Gravestone, your role is revealed to everyone when you die.
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
 
 > From "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

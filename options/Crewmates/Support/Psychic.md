@@ -30,3 +30,10 @@ The Psychic can see the names of some players in Red (In the Meeting), and at le
   * <font color=red>OFF</font>: Neutral Chaos roles cannot appear as Red
 
 > From: TOHR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -22,5 +22,11 @@ As the Hawk, you can kill a limited amount of players decided by the host, tough
   * <font color=green>ON</font>: the Hawk's Max Slices is increased by one if a Crewmate is converted
   * <font color=red>OFF</font>: the Hawk's Max Slices is not increased by one even if a Crewmate is converted
 
-
 > From: Idea & Coding: [Drakos]
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

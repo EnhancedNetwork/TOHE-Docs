@@ -35,3 +35,10 @@ Note : If your role changes your win condition will be changed accordingly
 </center>
 
 > From: Stellar Roles & Coding: [Gurge44] & [ryuk]
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

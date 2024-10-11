@@ -29,3 +29,10 @@ You win by killing everyone.
 </center>
 
 > From: ToUR & Coding: [ryuk](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

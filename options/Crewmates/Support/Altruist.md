@@ -23,3 +23,10 @@ As the Altruist, you can sacrifice yourself to revive a dead body using the Repo
   * Set how long the Scientist can use Vitals for at a time
 
 > From: TOHR & Coding: [TommyXL](https://github.com/TommyXL)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

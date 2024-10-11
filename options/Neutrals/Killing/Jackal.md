@@ -57,3 +57,10 @@ If there are only the Jackal team and the <font color=#8cffff>Crewmate</font> te
   * <font color=red>OFF</font>: the Sidekick can only win with the Jackal, and will not win if the Jackal doesn’t win
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

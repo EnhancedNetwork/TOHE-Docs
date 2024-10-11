@@ -18,3 +18,10 @@ As the Warden, alert someone of nearby danger, additionally giving them a tempor
   * Set the maximum ability uses that the Warden will have
 
 > From: Idea & Coding: [Drakos]
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

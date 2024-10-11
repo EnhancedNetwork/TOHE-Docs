@@ -30,3 +30,10 @@ If the Bread gives additional effects setting is on, then you can vent to change
 </center>
 
 > From: Marg
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

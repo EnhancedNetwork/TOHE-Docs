@@ -33,3 +33,10 @@ Additionally depending on settings the Double Agent can diffuse Bastion and Agit
   * Don't change the Role - Double Agent will stay as Double Agent
 
 > Idea: [FieryFlower] & Coding: [D1GQ]
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

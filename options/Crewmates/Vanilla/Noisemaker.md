@@ -18,3 +18,10 @@ As the Noisemaker, whenever you die you will make a noise, and a visual indicato
   * Set how long the Alert of the Noisemaker lasts
 
 > From: Innersloth
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

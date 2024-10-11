@@ -60,5 +60,11 @@ PS: You don’t need to worry about this if you have a TOHE Modded Client, as it
   * <font color=green>ON</font>: the mod will attempt to hide the Judge’s `/tl` commands
   * <font color=red>OFF</font>: the mod will not care to hide the Judge’s commands.
 
-
 > From: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

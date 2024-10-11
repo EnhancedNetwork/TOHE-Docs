@@ -36,11 +36,11 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 
 ## Website Maintainer
 
-[**Pyro**](https://sites.google.com/view/notpyro404)：<font color=#49e6ac>TOHE Docs Website Maintainer + Moderator + Technically TOHE Contributor</font>
+[**Pyro**](https://sites.google.com/view/notpyro404)：<font color=#49e6ac>TOHE Docs Website Maintainer + Moderator</font>
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 
-I'm also mostly known online as NotPyro404. I am a Moderator in the Discord Server for The Enhanced Network, aswell as a Website Maintainer for [T.E.N.](https://weareten.ca/) (Mainly TOHE Documentation). I'm now technically a TOHE Contributor because I've "coded" my first addon, Sloth!<br>
+I'm also mostly known online as NotPyro404. I am a Moderator in TEN's Discord Server, aswell as a Website Maintainer for [T.E.N.](https://weareten.ca/) (Mainly TOHE Documentation). I've "coded" my first TOHE addon, Sloth!<br>
 If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 </details>
 
@@ -99,16 +99,7 @@ I help keep the community of The Enhanced Network a safe and welcoming place for
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I help out in the Discord Server of The Enhanced Network. I'm working on the Modded Among Us Queue bot. Some hobbies I have are playing games & programming. <s>My favorite game is probably Valorant.</s> My favorite game is probably Lethal Company.
-</details>
-
----
-
-[**Essence**](#): Moderator
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-I help with moderating the Discord Server of The Enhanced Network. Some of my hobbies are Fortnite, Discord, and other games. I also like to joke around and poke fun of myself.
+I help out in TEN's Discord Server. I'm working on the Modded Among Us Queue bot. Some hobbies I have are playing games & programming. <s>My favorite game is probably Valorant.</s> My favorite game is probably Lethal Company.
 </details>
 
 ---
@@ -117,7 +108,7 @@ I help with moderating the Discord Server of The Enhanced Network. Some of my ho
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I am a Helper in The Enhanced Network’s Discord Server, aiming to ensure that it is a welcoming and supportive community for everyone to enjoy! I enjoy playing video games, taking midday naps, watching UFC and making pickles!
+I am a Helper in TEN's Discord Server, aiming to ensure that it is a welcoming and supportive community for everyone to enjoy! I enjoy playing video games, taking midday naps, watching UFC and making pickles!
 </details>
 
 ---
@@ -150,7 +141,7 @@ Feel free to drop me an @ for a chat!
 
 ---
 
-[**Cayla***](#): Helper
+[**Cayla**](#): Helper
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -350,7 +341,7 @@ Hello everyone, I am from mainland China. I am one of the Simplified Chinese Tra
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I am a Translator in the TOHE Discord server, I enjoy gaming, drawing and going on walks. Also school competitively is what drives me insane.
+I am a Translator in TEN's Discord Server, I enjoy gaming, drawing and going on walks. Also school competitively is what drives me insane.
 </details>
 
 ---

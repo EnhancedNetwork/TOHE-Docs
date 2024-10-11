@@ -16,3 +16,10 @@ The Super Star will have a Star next to their name so everyone knows who they ar
   * <font color=red>OFF</font>: the Super Star remains secret
 
 > From: Goose Goose Duck & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

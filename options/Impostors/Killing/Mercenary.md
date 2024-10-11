@@ -17,3 +17,10 @@ You have a shorter kill cooldown than other Impostors, but you will suicide if y
   * Set how long the Mercenary has to make a kill before they suicide
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -68,3 +68,10 @@ As the Alchemist, you create a potion by completing a task. The potion you made 
 </table>
 
 > From: EHR
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

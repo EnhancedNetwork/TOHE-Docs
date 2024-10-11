@@ -27,3 +27,10 @@ As the Hater, you have no kill cooldown. However, you can only kill Lovers, and 
   * <font color=red>OFF</font>: Don't choose addons that the Hater can kill without misfiring
 
 > Idea: [thewhiskas27] & Coding: [NikoCat233](https://github.com/NikoCat233) (Originally From: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM))
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

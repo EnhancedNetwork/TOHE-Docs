@@ -18,3 +18,10 @@ Eraser can vote for any crew target at the meeting to erase the target's roles, 
   * <font color=red>OFF</font>: The Erasers votes will appear as a normal vote
 
 > From: TOR:GMH & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

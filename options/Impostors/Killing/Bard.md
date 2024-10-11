@@ -13,3 +13,10 @@ Whenever the Bard completes a creation, the Bard’s kill cooldown is permanentl
 * You must have “Disable Hidden Roles” toggled <font color=red>OFF</font> for this to have a chance to appear
 
 > From: Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

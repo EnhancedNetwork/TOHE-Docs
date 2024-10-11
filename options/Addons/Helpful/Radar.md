@@ -24,3 +24,10 @@ As the Radar, you have arrows pointing towards the closest person at all times.
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
 
 > From: TOU:R & Coding: [ryuk](https://github.com/ryuk2098)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

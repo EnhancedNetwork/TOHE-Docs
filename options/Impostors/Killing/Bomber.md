@@ -25,15 +25,13 @@ The Bomber can Shapeshift to Suicide Bomb the surrounding area. All player’s w
 * <font color=red>Bomber</font> dies in their explosion
   * <font color=green>ON</font>: <font color=red>Bomber</font> survives the bomb
   * <font color=red>OFF</font>: <font color=red>Bomber</font> dies to the bomb
-* <font color=#f46f4e>(Hidden Role) Nuker - Has a % chance to replace the Bomber</font>
-  * Nuke Cooldown
-    * Set how long the Nuker needs to wait to nuke
-  * Nuke radius (12x is very large)
-    * Set how big a nuke's radius is
 
-<center>
-
-[<font color="red">Nuker</font>](./Nuker.html)
-</center>
 
 > From: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

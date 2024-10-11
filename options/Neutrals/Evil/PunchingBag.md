@@ -16,3 +16,10 @@ You cannot be guessed, as that adds to your attack count.
   * Set how many times the Punching Bag needs to be attacked to win
 
 > From: TOH+
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -27,3 +27,10 @@ Note: You cannot swap yourself.
   * <font color=red>OFF</font>: The mod will not care to hide the Swapper’s commands
 
 > From: TOHEX
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

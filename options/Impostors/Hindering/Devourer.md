@@ -24,3 +24,10 @@ As the Devourer, you use your shapeshift to permanently change the appearance of
   * <font color=red>OFF</font>: the names of the players that were Devoured will appear in game
 
 > From: Idea & Coding: [papercut](https://github.com/lars-wu)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

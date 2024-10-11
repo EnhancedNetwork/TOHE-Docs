@@ -19,3 +19,10 @@ The Seeker needs to collect certain number of points set by the host to win
   * Set how long a Seeker needs to wait to tag a player
 
 > Idea: [lily0la](#) & Coding: [ryuk](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

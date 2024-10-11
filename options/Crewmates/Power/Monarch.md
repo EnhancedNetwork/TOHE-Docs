@@ -23,3 +23,10 @@ If a knighted player is alive, the Monarch cannot be guessed or exhiled.
   * Set the Max amount of players that the Monarch can make Knighted
 
 > From: Town of Salem 2 & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

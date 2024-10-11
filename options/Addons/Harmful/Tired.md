@@ -30,3 +30,10 @@ Whenever Tired kills (or uses kill ability on) someone, alternatively whenever t
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
   
 > From: [Drakos]
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

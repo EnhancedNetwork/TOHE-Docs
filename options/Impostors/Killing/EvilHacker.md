@@ -24,3 +24,10 @@ Example: ★Cafeteria: 3 (DEAD×1).
       * The Evil Hacker can see where the murder is located
 
 > From: TOH & Coding: [TommyXL](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -23,3 +23,10 @@ You know the <font color=red>Impostors</font> but they don't know you.<br>The tw
   * If toggled <font color-red>OFF</font>, the Traitor cannot Sabotage
 
 > From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

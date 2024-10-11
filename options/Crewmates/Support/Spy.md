@@ -26,3 +26,10 @@ Note: If the kill button interaction is blocked the player's cooldown will reset
   * <font color=red>OFF</font>: the interaction with the killer and Spy is not stopped.
 
 > From: EHR
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

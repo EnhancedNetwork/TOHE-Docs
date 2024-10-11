@@ -35,3 +35,10 @@ The Mayor receives extra votes. The Mayor may also get a Portable Meeting Button
   * <font color=red>OFF</font>: the Mayor does the same amount of Tasks as anyone else
 
 > From: Town of Us: Reactivated
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

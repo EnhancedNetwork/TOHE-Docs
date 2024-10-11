@@ -20,3 +20,10 @@ If you run out of reveal uses, your kill button functions normally.
   * Set the Maximum amount of times the Consigliere can reveal a role
 
 > From: TOHY
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

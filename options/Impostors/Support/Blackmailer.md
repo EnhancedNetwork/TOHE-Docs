@@ -16,3 +16,10 @@ Speaking by the blackmailed player will trigger the confusion command, please do
   * Set how long the Blackmailer has to wait to blackmail a player
 
 > From: ToUR & Coding: [LezaiYa](https://github.com/LezaiYa)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

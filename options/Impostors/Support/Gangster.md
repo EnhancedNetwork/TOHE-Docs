@@ -38,3 +38,10 @@ The Gangster can attempt to recruit a player to a Madmate by pressing the kill b
   * <font color=red>OFF</font>: this role cannot become a Madmate from Gangster interacting with it
 
 > Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

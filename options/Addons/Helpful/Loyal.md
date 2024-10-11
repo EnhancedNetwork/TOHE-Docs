@@ -22,3 +22,10 @@ Cannot be assigned to <font color=#7f8c8d>Neutrals</font>.
   * <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become Loyal
 
 > Idea: [beep6604](#) & Coding: [Tommy-XL](https://github.com/Tommy-XL)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

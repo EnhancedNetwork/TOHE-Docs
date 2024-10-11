@@ -16,3 +16,10 @@ Note: If the killing machine attempts to use their kill button on you, the inter
   * Set the Maximum amount of Schrodinger Cats that can be in a match
 
 > Idea & Coding: [ryuk](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -20,3 +20,10 @@ Fireworker can place Fireworks to cause Area Damage. The Fireworker can plant up
   * <font color=red>OFF</font>: the Fireworker can only plant Fireworks
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

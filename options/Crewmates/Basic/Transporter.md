@@ -24,3 +24,10 @@ When a Transporter completes any task, two random players will swap positions un
       * Set the amount of Short Tasks the Transporter will receive
 
 > From: [Tommy-XL](https://github.com/KARPED1EM/TownOfHostEdited/issues/18) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

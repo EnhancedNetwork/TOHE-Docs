@@ -17,3 +17,10 @@ The Flash's default movement speed is faster than others. (speed depends on the 
   * Set how fast players with Flash will become
 
 > From: TOH:TOR & Coding: [KARPED1EM](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

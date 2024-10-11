@@ -18,3 +18,10 @@ Just be aware that there is an egg while shifting and the disguise is temporary.
   * Set long the Shapeshifter needs to wait to Shapeshift
 
 > From: Innersloth
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

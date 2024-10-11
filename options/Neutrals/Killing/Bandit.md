@@ -31,3 +31,10 @@ Note: Cleansed, Last Impostor and Lovers can not be stolen.
   * <font color=red>OFF</font>: the Bandit cannot Sabotage
   
 > Idea: [thewhiskas27] & Coding [ryuk](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

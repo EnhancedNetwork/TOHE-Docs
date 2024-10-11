@@ -17,3 +17,10 @@ You get an arrow pointing to the ghost of the body that was reported in the last
   * Set how long a Spiritualist's Ghost arrow pops-up for
 
 > From: Idea & Coding: [papercut](https://github.com/lars-wu)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

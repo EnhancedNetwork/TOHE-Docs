@@ -22,3 +22,10 @@ If you kill your assigned target, your next kill cooldown will be shortened. If 
   * <font color=red>OFF</font>: the Bounty Hunter will not receive this arrow
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

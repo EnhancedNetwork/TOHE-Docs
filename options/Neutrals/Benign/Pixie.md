@@ -23,3 +23,10 @@ You win with the winning team when you have certain amounts of points set by the
   * <font color=red>OFF</font>: the Pixie will not suicide even if none of their targets are voted out
 
 > Idea: [Azanthiel] & Coding: [ryuk](https://github.com/ryuk2098)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

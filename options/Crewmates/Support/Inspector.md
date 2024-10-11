@@ -43,3 +43,10 @@ Checking command: `/cmp [player id 1] [player id 2]`<br>
   * <font color=red>OFF</font>: the Inspector does the same amount of Tasks as anyone else
 
 > From: Stellar Roles & Coding: [ryuk](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

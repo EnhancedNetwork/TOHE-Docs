@@ -26,3 +26,10 @@ When Beartrap is killed, Beartrap will immobilize their killer for a configurabl
   * Set how long the killer of a Beartrap will be frozen/stuck for after killing
 
 > From: TOH & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

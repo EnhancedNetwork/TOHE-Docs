@@ -24,3 +24,10 @@ Shrouded players who did not make a kill will also have the 「◈」 mark in me
   * <font color=red>OFF</font>: the Shroud will have <font color=#8cffff>Crewmate</font> Vision
 
 > From: Town of Salem 2
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

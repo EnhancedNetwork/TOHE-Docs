@@ -25,3 +25,10 @@ The Follower can use their Kill button to Follow players, and use it again to fo
   * <font color=red>OFF</font>: the target will have no idea who the Follower is
 
 > From: TOHY & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

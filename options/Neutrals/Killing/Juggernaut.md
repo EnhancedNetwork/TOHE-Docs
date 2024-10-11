@@ -24,3 +24,10 @@ Kill everyone to win.
   * <font color=red>OFF</font>: the Juggernaut cannot vent
 
 > From: Town of Us Reactivated & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -19,3 +19,10 @@ An Overseer can see the Role of the Nearest Player by using their Kill Button, b
   * Set how far the Overseer can see
 
 > From: Idea & Coding: [papercut](https://github.com/lars-wu)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

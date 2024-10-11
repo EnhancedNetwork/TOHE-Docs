@@ -13,3 +13,10 @@ You see the total number of tasks completed by everyone all together next to you
   * Set the Maximum amount of Task Managers that can be in a match
 
 > From: TOHY
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

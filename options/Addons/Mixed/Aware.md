@@ -27,3 +27,10 @@ As Aware, you will be notified in the next meeting if a revealing role interacts
   * <font color=red>OFF</font>: Aware does not know the role of the player
 
 > From: [Dailyhare](#) & Coding: [ryuk](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

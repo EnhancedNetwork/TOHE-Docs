@@ -21,3 +21,10 @@ Mare was originally a Role, but was later changed to an Impostor debuff addon.
 :::
 
 > From: TOH
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

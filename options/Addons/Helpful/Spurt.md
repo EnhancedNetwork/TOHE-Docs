@@ -35,3 +35,10 @@ When you start walking, you gain an enormous speed boost, which swiftly deterior
   * <font color=red>OFF</font>: Spurts recharging will not be displayed
 
 > Idea: [TheDiamondStar](#) & Coding: [Drakos](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -16,3 +16,10 @@ Only assigned to <font color=red>Impostors</font>.
   * Set the chance of a Circumvent spawning
 
 > Idea: [Rudyrant](#) & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

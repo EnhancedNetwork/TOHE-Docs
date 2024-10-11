@@ -25,3 +25,10 @@ When you vote for a Player, you can see if they are a Crewmate, Neutral, or Impo
   * <font color=red>OFF</font>: Oracle will not check if the player has any add-ons
 
 > From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

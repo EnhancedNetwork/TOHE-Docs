@@ -30,4 +30,5 @@ footer: "© 2023 By The Enhanced Network"
 <p>We appreciate your patience while we continue to work on Town of Host: <i><b>Enhanced</b></i>, as we try our absolute hardest to make sure that you get a great experience as bug free as possible.</p>
 <p>Please be sure to read the FAQ, Install, as well as Resources pages. If you need further assistance, don't be afraid to contact us.</p>
 <p>Visit Changelogs for the latest Mod + Website Updates.</p>
+<p>Submit your Unofficial Lore Theories in TEN's Discord Server for the ongoing Lore Event!</p>
 <p>Have a Great Day!</p>

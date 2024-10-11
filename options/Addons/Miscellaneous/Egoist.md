@@ -24,3 +24,10 @@ Madmate and <font color=#7f8c8d>Neutrals</font> won't be Egoist. If the Egoist's
   * <font color=red>OFF</font>: the <font color=red>Impostor</font> has no clue of his Egoist teammate
 
 > From: [小叨院长](https://space.bilibili.com/1998829749) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

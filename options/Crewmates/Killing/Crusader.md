@@ -18,3 +18,10 @@ If that player gets attacked, you'll kill the attacker.
   * Set the maximum amount of crusades the Crusader can use in a game
 
 > From: Project Lotus
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

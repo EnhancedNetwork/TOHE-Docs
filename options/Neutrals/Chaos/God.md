@@ -19,3 +19,10 @@ God knows everyone's role from the beginning, and God will win alone as long as 
   * <font color=red>OFF</font>: God cannot Guess, even when Guesser Mode is enabled
 
 > From: SNR & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

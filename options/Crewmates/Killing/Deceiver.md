@@ -20,3 +20,10 @@ The Deceiver can pass counterfeits to other players through the kill button. If 
   * <font color=red>OFF</font>: Deceiver will not lose their ability even if they deceive a player without a kill button
 
 > From: [罗寄](#) & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

@@ -21,3 +21,10 @@ The Veteran can Alert by Venting. If someone tries to Interact with the Veteran,
   * Set the amount of Alerts a Veteran gains with each Task completed (0.1 increments)
 
 > From: TOU & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

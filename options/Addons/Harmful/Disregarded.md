@@ -24,3 +24,10 @@ With the Disregarded add-on, your corpse cannot be reported.
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
 
 > From: Idea & Coding: [papercut](https://github.com/lars-wu)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

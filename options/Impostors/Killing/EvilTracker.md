@@ -25,3 +25,10 @@ The Evil Tracker can track other people, and the Evil Tracker can Shapeshift int
   * <font color=red>OFF</font>: the Evil Tracker will not receive this info.
 
 > From: TOHE-R
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

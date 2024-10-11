@@ -28,3 +28,10 @@ Optionally, the Agitator cannot receive the bomb.
   * <font color=red>OFF</font>: the Agitator cannot have the bomb passed to them
 
 > From: TOH:TOR & Coding: [ryuk](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

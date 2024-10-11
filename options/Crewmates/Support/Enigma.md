@@ -35,3 +35,10 @@ As the Enigma, you get a random clue about the killer each meeting, depending on
       * Set the amount of Short Tasks the Enigma will receive
 
 > Idea & Coding: [lars-wu (papercut)](https://github.com/lars-wu)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

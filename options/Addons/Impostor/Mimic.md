@@ -18,3 +18,10 @@ Only <font color=red>Impostor</font> can become Mimic. When the Mimic is dead, o
   * <font color=red>OFF</font>: Mimic cannot see the roles of dead players
 
 > Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

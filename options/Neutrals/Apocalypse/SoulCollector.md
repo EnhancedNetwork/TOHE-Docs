@@ -28,4 +28,11 @@ Once you collect the configurable amount of souls, you become Death. If the gain
 [<font color="#644661">Death</font>](./Death.html)
 </center>
 
-> From: [ryuk](#), Reworked by: Marg
+> From: [ryuk](#) & Reworked by: Marg
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

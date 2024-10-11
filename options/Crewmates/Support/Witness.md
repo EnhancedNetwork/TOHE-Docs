@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Witness
-prev: TimeMaster
+prev: Ventguard
 next: /options/Settings/Crewmates.html
 ---
 
@@ -15,3 +15,10 @@ As the Witness, when you use your kill button on someone, you will know if they 
   * Set the amount of time after a kill where the killer will appear red to the Witness
 
 > From: ToUR (Detective) & Coding: [Gurge44](#)
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

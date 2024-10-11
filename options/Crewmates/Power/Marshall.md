@@ -23,3 +23,10 @@ If the Marshall completes all of their tasks, they will be revealed to the Crew.
   * <font color=red>OFF</font>: the Marshall will have the same tasks as everyone else
 
 > From: TOH+
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

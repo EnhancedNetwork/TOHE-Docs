@@ -21,3 +21,10 @@ Venting while disguised will reveal yourself.
   * Set the amount of Ability Uses a Chameleon gains with each Task completed (0.1 increments)
 
 > From: Project Lotus
+
+<details>
+<summary><b><font color=gray>Unofficial Lore</font></b></summary>
+
+Placeholder: This role is a ROLE OH EM GOSH
+> Submitted by: Member
+</details>

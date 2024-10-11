@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Crewmates/Support/Coroner.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Crewmates/Support/Coroner.html\",\"title\":\"Coroner\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Coroner\",\"prev\":\"Chameleon\",\"next\":\"Deputy\"},\"headers\":[],\"git\":{\"updatedTime\":1727503862000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":2},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2},{\"name\":\"Papercut\",\"email\":\"129853907+lars-wu@users.noreply.github.com\",\"commits\":1}]},\"filePathRelative\":\"options/Crewmates/Support/Coroner.md\"}")
+export { comp, data }

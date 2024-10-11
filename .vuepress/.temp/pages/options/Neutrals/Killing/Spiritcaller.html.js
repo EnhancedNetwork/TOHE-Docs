@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Spiritcaller.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Neutrals/Killing/Spiritcaller.html\",\"title\":\"Spiritcaller\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Spiritcaller\",\"prev\":\"Shroud\",\"next\":\"Stalker\"},\"headers\":[],\"git\":{\"updatedTime\":1727503065000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2}]},\"filePathRelative\":\"options/Neutrals/Killing/Spiritcaller.md\"}")
+export { comp, data }

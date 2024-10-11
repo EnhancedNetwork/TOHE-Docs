@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Neutrals/Apocalypse/Berserker.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Neutrals/Apocalypse/Berserker.html\",\"title\":\"Berserker\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Berserker\",\"prev\":\"Baker\",\"next\":\"Plaguebearer\"},\"headers\":[],\"git\":{\"updatedTime\":1727503065000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2}]},\"filePathRelative\":\"options/Neutrals/Apocalypse/Berserker.md\"}")
+export { comp, data }

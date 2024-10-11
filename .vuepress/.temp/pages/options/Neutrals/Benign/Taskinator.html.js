@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Taskinator.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Neutrals/Benign/Taskinator.html\",\"title\":\"Taskinator\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Taskinator\",\"prev\":\"Shaman\",\"next\":\"/options/Settings/Neutrals.html\"},\"headers\":[],\"git\":{\"updatedTime\":1727503065000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":4}]},\"filePathRelative\":\"options/Neutrals/Benign/Taskinator.md\"}")
+export { comp, data }

@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Addons/Mixed/Bloodthirst.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Addons/Mixed/Bloodthirst.html\",\"title\":\"Bloodthirst\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Bloodthirst\",\"prev\":\"Aware\",\"next\":\"Diseased\"},\"headers\":[],\"git\":{\"updatedTime\":1727504355000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2}]},\"filePathRelative\":\"options/Addons/Mixed/Bloodthirst.md\"}")
+export { comp, data }

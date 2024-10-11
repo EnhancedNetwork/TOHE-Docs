@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Addons/Guesser/Rebound.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Addons/Guesser/Rebound.html\",\"title\":\"Rebound\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Rebound\",\"prev\":\"Onbound\",\"next\":\"/options/Settings/Addons.html\"},\"headers\":[],\"git\":{\"updatedTime\":1724101103000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Addons/Guesser/Rebound.md\"}")
-export { comp, data }

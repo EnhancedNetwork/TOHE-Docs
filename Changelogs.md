@@ -25,26 +25,16 @@ contributors: false
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, Imitator, & Altruist are working, but are unstable<br>
 </details>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Beta 2</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.1.0 Beta 3</font></b></summary>
 
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved menu for role descriptions in settings<br>
-\+ <font color=green><b>NEW</b></font>: Setting: Apocalypse can see each other's Add-ons<br>
-\+ <font color=green><b>NEW</b></font>: Settings: "Halloween Decorations" and "Birthday Decoration" (only for modded)<br>
-
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some bugs for Phantom<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some bugs for Witness<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Neutral Apocalypse not counted correctly<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed missed string "GuessedAsMundane"<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some roles descriptions<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Judge for modded clients<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Lawyer and Executioner can be revived when target was dead<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed kill cd for Glitch<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Executioner and Lawyer Intro cutscene<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed arrows for modded clients<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed settings for Double Shot and Sleuth<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Double Agent can't get Tricky<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Miner/Double Agent/Prohibited can't get Circumvent<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Neutral Apocalypse can't get Rebirth and Evader<br>
+\+ <font color=green><b>NEW</b></font>: Modded players now will see changes in TOHE settings<br>
+\+ <font color=green><b>NEW</b></font>: Added custom "Timer" image for Mercenary, Bounty Hunter and Penguin (Thanks @that_one_missing_pixel (Pixel))<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed (hopefully) the vanilla bug where players' outfits sometimes didn't change<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when player nicknames were updated during meeting as if it was during the game<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when some players got stuck in walls after meeting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed other miscellaneous bugs<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some neutrals who could win after death will no longer get ghost roles<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Marshall can no longer get Gravestone<br>
 </details>
 </details>
 <br>

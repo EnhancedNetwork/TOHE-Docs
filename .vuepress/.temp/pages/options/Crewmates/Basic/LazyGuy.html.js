@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Crewmates/Basic/LazyGuy.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Crewmates/Basic/LazyGuy.html\",\"title\":\"Lazy Guy\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Lazy Guy\",\"prev\":\"GuessMaster\",\"next\":\"Mini\"},\"headers\":[],\"git\":{\"updatedTime\":1727503862000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":4},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Crewmates/Basic/LazyGuy.md\"}")
-export { comp, data }

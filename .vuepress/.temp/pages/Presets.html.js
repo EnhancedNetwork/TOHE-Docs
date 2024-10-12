@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/Presets.html.vue"
-const data = JSON.parse("{\"path\":\"/Presets.html\",\"title\":\"Presets\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Presets\",\"contributors\":false},\"headers\":[{\"level\":2,\"title\":\"Presets\",\"slug\":\"presets\",\"link\":\"#presets\",\"children\":[]}],\"git\":{\"updatedTime\":1726722004000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":25},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"Presets.md\"}")
-export { comp, data }

@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Neutrals/Benign/SchrodingersCat.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Neutrals/Benign/SchrodingersCat.html\",\"title\":\"Schrodingers Cat\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Schrodingers Cat\",\"prev\":\"Romantic\",\"next\":\"Taskinator\"},\"headers\":[],\"git\":{\"updatedTime\":1727503065000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Neutrals/Benign/SchrodingersCat.md\"}")
-export { comp, data }

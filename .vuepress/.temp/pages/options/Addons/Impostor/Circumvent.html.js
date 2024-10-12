@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Addons/Impostor/Circumvent.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Addons/Impostor/Circumvent.html\",\"title\":\"Circumvent\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Circumvent\",\"prev\":\"/options/Settings/Addons.html\",\"next\":\"Clumsy\"},\"headers\":[],\"git\":{\"updatedTime\":1727504355000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":5},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":2}]},\"filePathRelative\":\"options/Addons/Impostor/Circumvent.md\"}")
-export { comp, data }

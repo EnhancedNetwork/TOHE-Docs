@@ -70,7 +70,7 @@ contributors: false
 </table>
 <br>
 
-### <font color=#4d223a><b>Member Submitted Stuff</b></font>
+### <font color=#e0b0ff><b>Member Submitted Content</b></font>
 
-For Member Submitted Presets, visit the [Presets](/Presets.html) page.
+For Member Submitted Presets, visit the [Presets](/Presets.html) page.<br>
 For Member Submitted Translations, visit the [Custom Translations](/Translations.html) page.

@@ -16,7 +16,7 @@ contributors: false
 
 <font size=3em>
 <details>
-<summary><b><font color=#a65a80>TOHE v2.1.0 Beta 2 Changelogs</font></b></summary>
+<summary><b><font color=#a65a80>TOHE v2.1.0 Beta 3 Changelogs</font></b></summary>
 
 <details>
 <summary><b><font color=#a3693b>Known Bugs</font></b></summary>
@@ -43,7 +43,7 @@ contributors: false
 
 * By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Prepared ALL ROLE/ADDON FILES for the ongoing LORE EVENT.<br>
+\+ <font color=green><b>NEW</b></font>: Added `Thunderstore Mod Manager` to Install.html.<br>
 \+ <font color=green><b>NEW</b></font>: Added the Second Lore Batch (Impostor Killing). (Note: Used ChatGPT for help understanding/punctuating some lore theories)<br>
 </details>
 </font>

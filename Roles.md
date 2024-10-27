@@ -28,7 +28,7 @@ contributors: false
 </tr>
 <tr>
 <td><a href="/changelogs/Stable.html" style="color:#996d7f"><b>Stable</b></a></td>
-<td>v2.0.3 Stable</td>
+<td>v2.1.0 Stable</td>
 </tr>
 </table>
 

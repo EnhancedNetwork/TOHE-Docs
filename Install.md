@@ -20,7 +20,7 @@ This policy is in place to keep the integrity of our Sponsor, Contributor, & Tes
 <details>
 <summary><b><font color=gray>How to get</font> <font color=#996d7f>Stable Builds</font></b></summary>
 
-* Visit `#mod-release` in TEN's [Discord Server](https://discord.gg/ten), or go [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/latest) to download it directly from GitHub. 
+* Visit `#tohe-release` in TEN's [Discord Server](https://discord.gg/ten), or go [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/latest) to download it directly from GitHub. 
 
 Installation requires that you own a PC version of Among Us on Steam, Epic, Xbox App, or Itch. Microsoft Store will not work.
 </details>
@@ -30,7 +30,7 @@ Installation requires that you own a PC version of Among Us on Steam, Epic, Xbox
 
 Notice: You can follow the installation video [HERE](https://www.youtube.com/watch?v=2oyD75caFQ0) if you want visuals with steps. However, the below steps work just fine.
 
-1. Download the latest full Release of Town of Host: Enhanced in `#mod-release` or [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/latest). You only need the main zip such as "`TOHE.v1.0.0.zip`", not the source code files. DO NOT DOWNLOAD THE `-MS` FILE, IT WILL NOT WORK!
+1. Download the latest full Release of Town of Host: Enhanced in `#tohe-release` or [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/latest). You only need the main zip such as "`TOHE.v1.0.0.zip`", not the source code files. DO NOT DOWNLOAD THE `-MS` FILE, IT WILL NOT WORK!
 
 2. Once the download is complete, unzip it into a new empty folder like on desktop.
 
@@ -54,7 +54,7 @@ Note: If you separated your TOHE Mod and Vanilla folders, and run into an issue 
 
 Notice: You can follow the installation video [HERE](https://www.youtube.com/watch?v=2oyD75caFQ0) if you want visuals with steps. However, the below steps work just fine.
 
-1. Download the latest full Release of Town of Host: Enhanced in `#mod-release` or [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/latest). You only need the main zip such as "`TOHE.v1.0.0.zip`", not the source code files. DO NOT DOWNLOAD THE `-MS` FILE, IT WILL NOT WORK!
+1. Download the latest full Release of Town of Host: Enhanced in `#tohe-release` or [here](https://github.com/0xDrMoe/TownofHost-Enhanced/releases/latest). You only need the main zip such as "`TOHE.v1.0.0.zip`", not the source code files. DO NOT DOWNLOAD THE `-MS` FILE, IT WILL NOT WORK!
 
 2. Once the download is complete, unzip it into a new empty folder somewhere like on desktop.
 

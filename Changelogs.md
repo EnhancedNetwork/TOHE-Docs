@@ -25,6 +25,12 @@ contributors: false
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, Imitator, & Altruist are working, but are unstable<br>
 </details>
 <details>
+<summary><b><font color=#cf4e8f>v2.1.1 Stable</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Baker not showing roles to non-host modded players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mass kicking from lobbies against non-host modded players<br>
+</details>
+<details>
 <summary><b><font color=#cf4e8f>v2.1.0 Stable</font></b></summary>
 
 * <font size=3em><font color=green><b>NEW ROLES/ADDONS</b></font></font><br>

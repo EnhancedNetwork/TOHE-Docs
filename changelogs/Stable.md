@@ -16,7 +16,12 @@ To access Stable Builds, you can visit TEN's [Discord Server](https://discord.gg
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2..10</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.1.1</font></b></summary>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Baker not showing roles to non-host modded players<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mass kicking from lobbies against non-host modded players<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0</font></b></summary>
 ::: danger Caution
 = <font color=#de6707><b>KNOWN BUG</b></font>: (Maybe fixed now) Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, & Imitator are working, but are unstable<br>

@@ -219,9 +219,11 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 <details>
 <summary><b><font color=gray>Chat Commands</font></b></summary>
 
-Below is a list of commands that you can use to make your experience better while playing Town of Host: Enhanced. You can use these commands in the chat box to perform certain actions.<br><br>
+Below is a list of commands that you can use to make your experience better while playing Town of Host: Enhanced. You can use these commands in the chat box to perform certain actions.<br>
 
-Note: Commands that are italicized are considered "essential" and are recommended for all players.<br>
+Note: Commands may be locked behind specific settings, such as /rename for Everyone (Which Hosts <i>usually</i> have disabled).<br><br>
+
+Commands that are italicized are considered "essential" and are recommended for all players.<br>
 <details>
 <summary><b><font color=#996d6d>Everyone</font></b></summary>
 <details>
@@ -593,6 +595,10 @@ Note: Commands that are italicized are considered "essential" and are recommende
 <tr>
 <td><b><i>/say [message]</i></b></td>
 <td><b>Send moderator message.</b></td>
+</tr>
+<tr>
+<td>/start</td>
+<td>Allows lobby moderators to start the game.</td>
 </tr>
 <tr>
 <td>/tagcolor</td>

@@ -20,7 +20,7 @@ contributors: false
 <table>
 <tr>
 <td><a href="/changelogs/Alpha.html" style="color:#997d6d"><b>Alpha</b></a></td>
-<td>v2.2.0 Alpha 1</td>
+<td>v2.2.0 Alpha 2</td>
 </tr>
 <tr>
 <td><a href="/changelogs/Beta.html" style="color:#6d7299"><b>Beta</b></a></td>
@@ -60,7 +60,7 @@ contributors: false
 <tr>
 <td><a href="/options/Settings/Neutrals.html" style="color:#7c8c8d"><b>🕶️ Neutrals</b></a></td>
 <td>Play alone and win via their own win conditions</td>
-<td align="center">74</td>
+<td align="center">75</td>
 </tr>
 
 <tr>

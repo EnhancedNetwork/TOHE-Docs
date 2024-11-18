@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Romantic
-prev: Pursuer
+prev: Revenant
 next: SchrodingersCat
 ---
 

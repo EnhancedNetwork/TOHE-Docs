@@ -407,6 +407,7 @@ export default defineUserConfig({
             { text: 'Opportunist', link: '/options/Neutrals/Benign/Opportunist.html' },
             { text: 'Pixie', link: '/options/Neutrals/Benign/Pixie.html' },
             { text: 'Pursuer', link: '/options/Neutrals/Benign/Pursuer.html' },
+            { text: 'Revenant', link: '/options/Neutrals/Benign/Revenant.html'},
             {
               text: 'Romantic', link: '/options/Neutrals/Benign/Romantic.html', children: [
                 { text: 'Vengeful Romantic', link: '/options/Neutrals/Benign/RomanticVengeful.html' },

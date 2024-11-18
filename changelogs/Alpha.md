@@ -16,7 +16,18 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 1</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 2</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Role: Revenant (By: [LimeAU](https://github.com/Limeau))<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed double spy seeing each other’s orange name<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed rebirth vote-out on Solsticer and Mini<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Host Doomsayer infinite guess<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Sictator UI Interactions<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix changing gamemode sometimes showing HideNSeek<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Changed Lawyer to Single Role to avoid unknown bugs<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 \+ <font color=green><b>NEW</b></font>: Critical Error Manager<br>

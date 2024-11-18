@@ -25,22 +25,15 @@ contributors: false
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, Imitator, & Altruist are working, but are unstable<br>
 </details>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 1</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 2</font></b></summary>
 
-* By [**TommyXL**](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: Critical Error Manager<br>
-
-* By [**Huier**](https://github.com/Huier-Huang)<br>
-\+ <font color=green><b>NEW</b></font>: Option: Dictator use /vote command to exp players<br>
-
-* By [**Laikrai**](https://github.com/Laikrai)<br>
-\+ <font color=green><b>NEW</b></font>: Command: /start for moderators to start a game<br>
-
-* By [**NikoCat223**](https://github.com/NikoCat233)<br>
-\+ <font color=green><b>NEW</b></font>: Hash Api System (Now the mod calculates its own file hash and use that to interact with Enhanced API)<br>
-\+ <font color=green><b>NEW</b></font>: Added dictator button for modded clients based on 1237<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed non debug clients can use anti-blackout test<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Random Spawn leads to a ban on anti-cheat regions<br>
+\+ <font color=green><b>NEW</b></font>: Role: Revenant (By: [LimeAU](https://github.com/Limeau))<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed double spy seeing each other’s orange name<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed rebirth vote-out on Solsticer and Mini<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Host Doomsayer infinite guess<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Sictator UI Interactions<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix changing gamemode sometimes showing HideNSeek<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Changed Lawyer to Single Role to avoid unknown bugs<br>
 </details>
 </details>
 <br>

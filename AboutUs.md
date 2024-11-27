@@ -41,6 +41,7 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 <summary><b><font color=gray>About Me</font></b></summary>
 
 I'm also mostly known online as NotPyro404. I am a Moderator in TEN's Discord Server, aswell as a Website Maintainer for [T.E.N.](https://weareten.ca/) (Mainly TOHE Documentation). I've "coded" my first TOHE addon, Sloth!<br>
+I've recently started helping out as a Builder for an upcoming Minecraft Event, MCM.<br>
 If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 </details>
 
@@ -104,7 +105,7 @@ I help out in TEN's Discord Server. I'm working on the Modded Among Us Queue bot
 
 ---
 
-[**Tasha**](#): Helper
+[**Tasha**](#): Moderator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -113,16 +114,7 @@ I am a Helper in TEN's Discord Server, aiming to ensure that it is a welcoming a
 
 ---
 
-[**Northie**](#): Helper
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-Hey I'm Northie, also known as Norfie or North. Right now I'm a Helper in the TOHE server! Currently, I'm working towards becoming a Veterinarian. I enjoy drawing a lot, however it takes me a while to think of what I should draw. I absolutely love music, and if you need recommendations, you can just ask!
-</details>
-
----
-
-[**Flashy**](#): Helper
+[**Flashy**](#): Moderator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 

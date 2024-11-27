@@ -25,15 +25,13 @@ contributors: false
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, Imitator, & Altruist are working, but are unstable<br>
 </details>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 2</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 3.1</font></b></summary>
 
-\+ <font color=green><b>NEW</b></font>: Role: Revenant (By: [LimeAU](https://github.com/Limeau))<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed double spy seeing each other’s orange name<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed rebirth vote-out on Solsticer and Mini<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Host Doomsayer infinite guess<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Sictator UI Interactions<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix changing gamemode sometimes showing HideNSeek<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Changed Lawyer to Single Role to avoid unknown bugs<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed others not being able to report a body and turn into body's role when Amnesiac waa not converted<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix translations of ChiefOfPolice<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Adjust KCD animations for Jackal and ChiefOfPolice<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Consigliere not being able to guess certian roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Kamikaze mod clients not seeing icons<br>
 </details>
 </details>
 <br>

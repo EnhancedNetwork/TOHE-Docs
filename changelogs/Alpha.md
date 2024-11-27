@@ -16,7 +16,28 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 2</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 3.1</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed others not being able to report a body and turn into body's role when Amnesiac waa not converted<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix translations of ChiefOfPolice<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Adjust KCD animations for Jackal and ChiefOfPolice<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Consigliere not being able to guess certian roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Kamikaze mod clients not seeing icons<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 3</font></b></summary>
+
+\+ <font color=#12edaf><b>REWORKED</b></font>: Jackal (Jackal can now convert anyone into Sidekick, Sidekick can now turn into Jackal after Jackal's death)<br>
+\+ <font color=#12edaf><b>REWORKED</b></font>: Amnesiac (Amnesiac now can turn into any roles, Amnesiac cannot vent after changing role depending on the can vent setting)<br>
+\+ <font color=#12edaf><b>RETURNED</b></font>: Chief Of Police Returns (Chief of Police can recruit anyone as Sheriff, Chief may suicide depending on the setting upon wrong recruit)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug where Revenant has wrong Idu<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug where Arsonist may not be able to dose someone (maybe)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: CopyCat now cant copy baker<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Temporarily Disable HorseMode from release since it causes game crashes<br>
+\+ <font color=green><b>NEW</b></font>: Added some new options for Berserker, PlagueBearer, SoulCollector by [ApeMV](https://github.com/ApeMV)
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 2</font></b></summary>
 
 \+ <font color=green><b>NEW</b></font>: Role: Revenant (By: [LimeAU](https://github.com/Limeau))<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed double spy seeing each other’s orange name<br>

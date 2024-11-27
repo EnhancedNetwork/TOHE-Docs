@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Copycat
-prev: Captain
+prev: ChiefOfPolice
 next: Dictator
 ---
 

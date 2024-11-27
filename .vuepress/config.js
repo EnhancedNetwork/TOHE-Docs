@@ -217,6 +217,7 @@ export default defineUserConfig({
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
             { text: 'Admirer', link: '/options/Crewmates/Power/Admirer.html' },
             { text: 'Captain', link: '/options/Crewmates/Power/Captain.html' },
+            { text: 'Chief Of Police', link: '/options/Crewmates/Power/ChiefOfPolice.html' },
             { text: 'Copycat', link: '/options/Crewmates/Power/Copycat.html' },
             { text: 'Dictator', link: '/options/Crewmates/Power/Dictator.html' },
             { text: 'Guardian', link: '/options/Crewmates/Power/Guardian.html' },

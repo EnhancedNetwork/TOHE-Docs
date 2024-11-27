@@ -48,7 +48,7 @@ contributors: false
 <tr>
 <td><a href="/options/Settings/Crewmates.html" style="color:#8cffff"><b>🦸‍♂️ Crewmates</b> </a></td>
 <td>Play together and win by completing all tasks/voting out all Evil</td>
-<td align="center">80</td>
+<td align="center">81</td>
 </tr>
 
 <tr>
@@ -65,7 +65,7 @@ contributors: false
 
 <tr>
 <td colspan=2>📊 Total:</td>
-<td align="center"><b>302</b></td>
+<td align="center"><b>303</b></td>
 </tr>
 </table>
 <br>

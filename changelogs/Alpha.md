@@ -16,7 +16,27 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 3.1</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 4</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Experimental Role: Shocker by [laikrai](https://github.com/laikrai)<br>
+\+ <font color=green><b>NEW</b></font>: Crowded Mod now included in TOHE (TOHE is now incompatible with CrowdedMod since we included all its features)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Scavenger now has its own death reason by [ApeMV](https://github.com/ApeMV)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed Intro sound for some roles by [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed converted killer roles sabotage getting banned by EAC (experimental)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: MasterMind now is a experimental role since it causes some bugs<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mod news not loading<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed summary text sometimes bugged and can not be shown<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added additional exile rpcs to ease dead alive bug (experimental)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Evil Mini can not be guessed before 18 option added<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some roles allow misguess to be ignored<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Add kill notify for guardian<br>
+\+ <font color=green><b>NEW</b></font>: Spy Setting: Hide "Block kill attempts" option for since it never actually worked<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Engineer basis roles with 1 second vent duration now can't move in vent (like jester) (experimental)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Traitor now sees impostors on intro screen<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Now tasks always re-assign on role changed mid game (experimental)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 3.1</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed others not being able to report a body and turn into body's role when Amnesiac waa not converted<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix translations of ChiefOfPolice<br>

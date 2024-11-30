@@ -42,12 +42,12 @@ next: /Roles.html
 
 <tr>
 <td><a href="#killing" style="color:#b22222"><b>🪓 Killing</b></a></td>
-<td align="center">28</td>
+<td align="center">22</td>
 </tr>
 
 <tr>
 <td><font color=#7c8c8d><b>📊 Total:</b></font></td>
-<td align="center"><b>67</b></td>
+<td align="center"><b>61</b></td>
 </tr>
 
 </table>
@@ -75,7 +75,7 @@ next: /Roles.html
 
 ### <font color=red><b>Killing</b></font>
 ---
-[Agitator](/options/Neutrals/Killing/Agitator.html) | [Arsonist](/options/Neutrals/Killing/Arsonist.html) | [Bandit](/options/Neutrals/Killing/Bandit.html) | [Blood Knight](/options/Neutrals/Killing/BloodKnight.html) | [Demon](/options/Neutrals/Killing/Demon.html) | [Glitch](/options/Neutrals/Killing/Glitch.html) | [Hex Master](/options/Neutrals/Killing/HexMaster.html) | [Huntsman](/options/Neutrals/Killing/Huntsman.html) | [Infectious](/options/Neutrals/Killing/Infectious.html) | [Jackal](/options/Neutrals/Killing/Jackal.html) | [Jinx](/options/Neutrals/Killing/Jinx.html) | [Juggernaut](/options/Neutrals/Killing/Juggernaut.html) | [Medusa](/options/Neutrals/Killing/Medusa.html) | [Necromancer](/options/Neutrals/Killing/Necromancer.html) | [Pelican](/options/Neutrals/Killing/Pelican.html) | [Pickpocket](/options/Neutrals/Killing/Pickpocket.html) | [Plague Scientist](/options/Neutrals/Killing/PlagueScientist.html) | [Poisoner](/options/Neutrals/Killing/Poisoner) | [Potion Master](/options/Neutrals/Killing/PotionMaster.html) | [Pyromaniac](/options/Neutrals/Killing/Pyromaniac.html) | [Serial Killer](/options/Neutrals/Killing/SerialKiller.html) | [Shroud](/options/Neutrals/Killing/Shroud.html) | [Spiritcaller](/options/Neutrals/Killing/Spiritcaller.html) | [Stalker](/options/Neutrals/Killing/Stalker.html) | [Traitor](/options/Neutrals/Killing/Traitor.html) | [Virus](/options/Neutrals/Killing/Virus.html) | [Werewolf](/options/Neutrals/Killing/Werewolf.html) | [Wraith](/options/Neutrals/Killing/Wraith.html)
+[Agitator](/options/Neutrals/Killing/Agitator.html) | [Arsonist](/options/Neutrals/Killing/Arsonist.html) | [Bandit](/options/Neutrals/Killing/Bandit.html) | [Blood Knight](/options/Neutrals/Killing/BloodKnight.html) | [Demon](/options/Neutrals/Killing/Demon.html) | [Glitch](/options/Neutrals/Killing/Glitch.html) | [Huntsman](/options/Neutrals/Killing/Huntsman.html) | [Infectious](/options/Neutrals/Killing/Infectious.html) | [Jackal](/options/Neutrals/Killing/Jackal.html) | [Juggernaut](/options/Neutrals/Killing/Juggernaut.html) | [Pelican](/options/Neutrals/Killing/Pelican.html) | [Pickpocket](/options/Neutrals/Killing/Pickpocket.html) | [Plague Scientist](/options/Neutrals/Killing/PlagueScientist.html) | [Pyromaniac](/options/Neutrals/Killing/Pyromaniac.html) | [Serial Killer](/options/Neutrals/Killing/SerialKiller.html) | [Shroud](/options/Neutrals/Killing/Shroud.html) | [Spiritcaller](/options/Neutrals/Killing/Spiritcaller.html) | [Stalker](/options/Neutrals/Killing/Stalker.html) | [Traitor](/options/Neutrals/Killing/Traitor.html) | [Virus](/options/Neutrals/Killing/Virus.html) | [Werewolf](/options/Neutrals/Killing/Werewolf.html) | [Wraith](/options/Neutrals/Killing/Wraith.html)
 <br>
 
 <details>

@@ -5,10 +5,10 @@ sidebar:
 - { text: Game Settings, link: /options/Settings/Game.html}
 - { text: System Settings, link: /options/Settings/System.html}
 - { text: Mod Settings, link: /options/Settings/Mod.html}
-- { text: Game Modifiers, link: /options/Settings/Modifiers.html}
 - { text: Impostors, link: /options/Settings/Impostors.html}
 - { text: Crewmates, link: /options/Settings/Crewmates.html} 
 - { text: Neutrals, link: /options/Settings/Neutrals.html}
+- { text: Coven, link: /options/Settings/Coven.html}
 - { text: Add-ons, link: /options/Settings/Addons.html}
 contributors: false
 ---
@@ -53,19 +53,25 @@ contributors: false
 
 <tr>
 <td><a href="/options/Settings/Impostors.html" style="color:red"><b>🦹‍♂️ Impostors</b></a></td>
-<td>Play together and win via killing/voting out all Crewmates/Neutrals</td>
+<td>Play together and win via killing/voting out all Crewmates/Neutrals/Coven</td>
 <td align="center">78</td>
 </tr>
 
 <tr>
 <td><a href="/options/Settings/Neutrals.html" style="color:#7c8c8d"><b>🕶️ Neutrals</b></a></td>
 <td>Play alone and win via their own win conditions</td>
-<td align="center">74</td>
+<td align="center">68</td>
+</tr>
+
+<tr>
+<td><a href="/options/Settings/Coven.html" style="color:#ac42f2"><b>🧙‍♀️ Coven</b></a></td>
+<td>Play together and win via killing/voting out all Crewmates/Neutrals/Impostors</td>
+<td align="center">13</td>
 </tr>
 
 <tr>
 <td colspan=2>📊 Total:</td>
-<td align="center"><b>302</b></td>
+<td align="center"><b>308</b></td>
 </tr>
 </table>
 <br>

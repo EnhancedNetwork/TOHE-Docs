@@ -24,6 +24,9 @@ A player can only be erased once
 * <font color=#7f8c8d>Neutrals</font> can become OIIAI
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+* <font color=#ac42f2>Coven</font> can become OIIAI
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 * OIIAI can pass onto the killer
   * <font color=green>ON</font>: OIIAI's killer will gain the OIIAI addon
   * <font color=red>OFF</font>: OIIAI's killer will not gain the OIIAI addon

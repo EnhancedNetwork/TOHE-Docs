@@ -23,6 +23,9 @@ As the Eavesdropper, you have a chance to see other information-based messages l
 * <font color=#7f8c8d>Neutrals</font> can become Eavesdropper
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+* <font color=#ac42f2>Coven</font> can become Eavesdropper
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 * Chance to eavesdrop
   * Set the percentage that the Eavesdropper can see other information-based messages
 

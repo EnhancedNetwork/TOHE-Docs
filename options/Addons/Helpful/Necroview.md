@@ -11,7 +11,8 @@ next: Nimble
 The Necroview can see the teams of dead players. The following info will be displayed on dead players' names while in meeting:<br>
 \- The <font color=red>Red</font> name indicate the Impostors<br>
 \- The <font color=#8cffff>Cyan</font> name indicate the Crewmates<br>
-\- The <font color=#7c8c8d>Gray</font> name indicate the Neutrals
+\- The <font color=#7c8c8d>Gray</font> name indicate the Neutrals<br>
+\- The <font color=#ac42f2>Purple</font> name indicate the Coven
 * Max
   * Set the Maximum amount of Necroviews that can be in a match
 * Spawn Chance
@@ -25,6 +26,9 @@ The Necroview can see the teams of dead players. The following info will be disp
 * <font color=#7f8c8d>Neutrals</font> can become Necroview
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+* <font color=#ac42f2>Coven</font> can become Necroview
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 
 > From: TOH+ & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
 

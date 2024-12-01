@@ -22,6 +22,9 @@ When Beartrap is killed, Beartrap will immobilize their killer for a configurabl
 * <font color=#7f8c8d>Neutrals</font> can become Beartrap
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+* <font color=#ac42f2>Coven</font> can become Beartrap
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 * Freeze time
   * Set how long the killer of a Beartrap will be frozen/stuck for after killing
 

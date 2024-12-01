@@ -22,6 +22,9 @@ As the Gravestone, your role is revealed to everyone when you die.
 * <font color=#7f8c8d>Neutrals</font> can have Gravestone
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+* <font color=#ac42f2>Coven</font> can have Gravestone
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 
 > From "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
 

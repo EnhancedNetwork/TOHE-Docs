@@ -23,6 +23,9 @@ Note that your skill and vote icon still functions on the player you voted at fi
 * <font color=#7f8c8d>Neutrals</font> can become Influenced
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+* <font color=#ac42f2>Coven</font> can become Influenced
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 
 > Idea: [spong](#) & Coding: [NikoCat223](https://github.com/NikoCat233)
 

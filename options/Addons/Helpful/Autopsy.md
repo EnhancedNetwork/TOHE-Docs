@@ -23,6 +23,9 @@ Cannot be assigned to Doctor, Tracefinder, Scientist, or Sunnyboy.
 * <font color=#7f8c8d>Neutrals</font> can become Autopsy
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+* <font color=#ac42f2>Coven</font> can become Autopsy
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 
 > From: TOHY & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
 

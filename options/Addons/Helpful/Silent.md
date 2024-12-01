@@ -17,12 +17,15 @@ So nobody knows who you voted for.
 * <font color=red>Impostors</font> can become Silent
   * <font color=green>ON</font>: Impostors can become Silent
   * <font color=red>OFF</font>: Impostors cannot become Silent
-  * <font color=#8cffff>Crewmates</font> can become Silent
+* <font color=#8cffff>Crewmates</font> can become Silent
   * <font color=green>ON</font>: Crewmates can become Silent
   * <font color=red>OFF</font>: Crewmates cannot become Silent
 * <font color=#7f8c8d>Neutrals</font> can become Silent
   * <font color=green>ON</font>: Neutrals can become Silent
   * <font color=red>OFF</font>: Neutrals cannot become Silent
+* <font color=#ac42f2>Coven</font> can become Silent
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become Silent
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become Silent
   
 > Idea & Coding: [NikoCat223](https://github.com/NikoCat233)
 

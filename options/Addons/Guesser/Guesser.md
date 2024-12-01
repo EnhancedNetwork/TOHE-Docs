@@ -25,6 +25,9 @@ You can see the player's id before the player's name, or use the `/id` command t
 * <font color=#7f8c8d>Neutrals</font> can become Guesser
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+* <font color=#ac42f2>Coven</font> can become Guesser
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 * Can guess Add-ons
   * If toggled ON anyone who reveals their Add-Ons can be guessed
   * <font color=red>OFF</font>: Anybody can reveal their Add-On without fear of being guessed

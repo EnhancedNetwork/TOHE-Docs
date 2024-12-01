@@ -22,6 +22,9 @@ Detective and Cleaners won't be Oblivious. Oblivious cannot report dead bodies. 
 * <font color=#7f8c8d>Neutrals</font> can become Oblivious
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+* <font color=#ac42f2>Coven</font> can become Oblivious
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 * Immune to Bait
   * <font color=green>ON</font>: Bait will not auto-report
   * <font color=red>OFF</font>: Bait will act as normal

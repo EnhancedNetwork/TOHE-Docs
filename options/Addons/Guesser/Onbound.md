@@ -22,6 +22,9 @@ With the Onbound add-on, you cannot be guessed in meetings.
 * <font color=#7f8c8d>Neutrals</font> can become Onbound
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become Onbound
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become Onbound
+* <font color=#ac42f2>Coven</font> can become Onbound
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 
 > From: SLE [SolarFlare](#) & Coding: [ryuk](#)
 

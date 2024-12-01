@@ -8,7 +8,7 @@ next: Poisoner
 # <font color="#8a68f5">🪄 <b>Illusionist</b></font> <Badge text="Trickery" type="tip" vertical="middle"/>
 ---
 
-The Illusionist can use their kill button on a player to reverse the results of any investigative role. For example, if someone with a kill button is Illusioned, they will appear not to have a kill button to the Investigator, and vice versa.<br>Illusions wear off after meetings.<br><b>With the Necronomicon, you may double-click to kill. Every kill you make appears as a random death reason.</b>
+The Illusionist can use their kill button on a player to reverse the results of any investigative role. For example, if someone with a kill button is Illusioned, they will appear not to have a kill button to the Investigator, and vice versa.<br>Depending on the host's settings, Illusions wear off after meetings.<br><b>With the Necronomicon, you may double-click to kill. Every kill you make appears as a random death reason.</b>
 
 <details>
 <summary><i><b><font color="#8a68f5">Illusionist</font> Cases:</b></i></summary>
@@ -40,6 +40,12 @@ The Illusionist can use their kill button on a player to reverse the results of 
 * <font color=#b8fb4f>Snitch</font> is Affected by Illusions
   * <font color=green>ON</font>: Non-<font color=#ac42f2>Coven</font> Illusioned players will be shown as Impostors to the <font color=#b8fb4f>Snitch</font>
   * <font color=red>OFF</font>: <font color=#b8fb4f>Snitch</font> will work as normal
+* Reset Illusions After Meeting
+  * <font color=green>ON</font>: All Illusions will be cleared after a meeting ends
+  * <font color=red>OFF</font>: Illusions will last the whole game
+* Remove Illusions When Illusionist Dies
+  * <font color=green>ON</font>: All Illusions will be cleared if the Illusionist dies
+  * <font color=red>OFF</font>: Illusions will last past the Illusionist's death
 
 > Idea & Coding: [Marg](https://github.com/MargaretTheFool)
 

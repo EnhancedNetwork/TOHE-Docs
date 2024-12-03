@@ -25,24 +25,16 @@ contributors: false
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, Imitator, & Altruist are working, but are unstable<br>
 </details>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 4</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 5</font></b></summary>
 
-\+ <font color=green><b>NEW</b></font>: Experimental Role: Shocker by [laikrai](https://github.com/laikrai)<br>
-\+ <font color=green><b>NEW</b></font>: Crowded Mod now included in TOHE (TOHE is now incompatible with CrowdedMod since we included all its features)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Scavenger now has its own death reason by [ApeMV](https://github.com/ApeMV)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed Intro sound for some roles by [sussynba](https://github.com/PEPPERcula)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed converted killer roles sabotage getting banned by EAC (experimental)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: MasterMind now is a experimental role since it causes some bugs<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mod news not loading<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed summary text sometimes bugged and can not be shown<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Added additional exile rpcs to ease dead alive bug (experimental)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Evil Mini can not be guessed before 18 option added<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some roles allow misguess to be ignored<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Add kill notify for guardian<br>
-\+ <font color=green><b>NEW</b></font>: Spy Setting: Hide "Block kill attempts" option for since it never actually worked<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Engineer basis roles with 1 second vent duration now can't move in vent (like jester) (experimental)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Traitor now sees impostors on intro screen<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Now tasks always re-assign on role changed mid game (experimental)<br>
+\+ <font color=green><b>NEW</b></font>: Apocalypse Intro Screen by [Marg](https://github.com/MargaretTheFool)<br>
+\+ <font color=green><b>NEW</b></font>: Opportunist can vent option by [sussynba](https://github.com/PEPPERcula)<br>
+\+ <font color=green><b>NEW</b></font>: Pestilence can kill guesser option by [ApeMV](https://github.com/ApeMV)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Baker now uses shapeshift button to transform by [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix same task type get assigned repeatedly<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: People will be more likely to share similar tasks from vanilla<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Impostor count option reverted to 1 - 3, since changing the value range will always reset it to 3<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Game may be a little laggy since we're testing something new<br>
 </details>
 </details>
 <br>
@@ -52,6 +44,6 @@ contributors: false
 * By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
 \+ <font color=green><b>NEW</b></font>: Added `Thunderstore Mod Manager` to Install.html.<br>
-\+ <font color=green><b>NEW</b></font>: Added the Fourth Lore Batch (Impostor Hindering).<br>
+\+ <font color=green><b>NEW</b></font>: Added first 5 Lore Batches.<br>
 </details>
 </font>

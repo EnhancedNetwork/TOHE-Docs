@@ -16,7 +16,18 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 4</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 5</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Apocalypse Intro Screen by [Marg](https://github.com/MargaretTheFool)<br>
+\+ <font color=green><b>NEW</b></font>: Opportunist can vent option by [sussynba](https://github.com/PEPPERcula)<br>
+\+ <font color=green><b>NEW</b></font>: Pestilence can kill guesser option by [ApeMV](https://github.com/ApeMV)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Baker now uses shapeshift button to transform by [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix same task type get assigned repeatedly<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: People will be more likely to share similar tasks from vanilla<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Impostor count option reverted to 1 - 3, since changing the value range will always reset it to 3<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Game may be a little laggy since we're testing something new<br>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 4</font></b></summary>
 
 \+ <font color=green><b>NEW</b></font>: Experimental Role: Shocker by [laikrai](https://github.com/laikrai)<br>
 \+ <font color=green><b>NEW</b></font>: Crowded Mod now included in TOHE (TOHE is now incompatible with CrowdedMod since we included all its features)<br>

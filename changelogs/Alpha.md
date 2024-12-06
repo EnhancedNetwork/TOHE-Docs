@@ -16,7 +16,22 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 5</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 6</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Lover and Egoist IntroCutscene by [sussynba](https://github.com/PEPPERcula)<br>
+\+ <font color=green><b>NEW</b></font>: Impostor and Madmate see each other on Intro<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed playerIdList related bugs (on change role mid game, copycat)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Probably fixed log spam on disconnecting from game<br>
+= <font color=#fdf08e><b>NOTE</b></font>: Modded Intro: Lover, Egoist > Madmate > Neutral, impostor > crewmate<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: MasterMind is still experimental, its experimental for a reason<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: impostor count option reverted to 1 - 3, since changing the value range will always reset it to 3 and idk why<br>
+
+= <font color=#ece218><b>NOTICE</b></font>: This build is very experimental and following stuffs need yours help to test:<br>
+1. playerIdList behaviors of Spiritualist, Pitfall, PlagueBearer, Alchemist, Enigma, Mortician, Spiritualist, Tracefinder are changed and if you meet bugs regarding these roles, please open a bug report<br>
+2. not completely sure whether intropatch is coded correctly. Maybe it will show extra or miss some info to players (like seeing players not in your team or not supposed to see on intro, cant see teammates on intro). Maybe you will get whitescreen on seeing intro. If so, please open bug reports with the log of client that sees wrong intro<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 5.1</font></b></summary>
 
 \+ <font color=green><b>NEW</b></font>: Apocalypse Intro Screen by [Marg](https://github.com/MargaretTheFool)<br>
 \+ <font color=green><b>NEW</b></font>: Opportunist can vent option by [sussynba](https://github.com/PEPPERcula)<br>
@@ -26,6 +41,27 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#de6707><b>KNOWN BUG</b></font>: People will be more likely to share similar tasks from vanilla<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Impostor count option reverted to 1 - 3, since changing the value range will always reset it to 3<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Game may be a little laggy since we're testing something new<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 5</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Horse Mode and Long Neck Mode by [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix /setplayers setting 15+ players in vanilla regions by [Pietro](https://github.com/Pietrodjaowjao)<br>
+\+ <font color=green><b>NEW</b></font>: Legacy option for Traitor (traitor can be shapeshifter) by [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix stealer addon displaying wrong vote number on display<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix sending chat bug causing blackmailer false spam<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Attempted fix for amnesiac's abnormal vent behavior<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix jackal ability limit still -100<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix vector setting id bug<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Shocker crashing the game<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix overseer useless playeridlist bug<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix assign role mid game not having common tasks<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed vanilla clients still seeing modded name after a player has left the game<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: TOHE now completely assigns the tasks apart from InnerSloth's system (Experimental)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: people will be more likely to share similar tasks from vanilla<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: impostor count option reverted to 1 - 3, since changing the value range will always reset it to 3<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: game may be a little laggy since we're testing something new<br>
+</details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 4</font></b></summary>
 

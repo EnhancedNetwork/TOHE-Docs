@@ -23,6 +23,9 @@ When you start walking, you gain an enormous speed boost, which swiftly deterior
 * <font color=#7f8c8d>Neutrals</font> can become Spurt
   * <font color=green>ON</font>: Neutrals can become Spurt
   * <font color=red>OFF</font>: Neutrals cannot become Spurt
+* <font color=#ac42f2>Coven</font> can become Spurt
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become Spurt
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become Spurt
 * Min Speed
   * Set the Minimum speed that a Spurt can have
 * Max Speed

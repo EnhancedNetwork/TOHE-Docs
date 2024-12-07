@@ -23,6 +23,9 @@ If a player with Double Shot guesses you correctly, they will die instantly.
 * <font color=#7f8c8d>Neutrals</font> can become Rebound
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+* <font color=#ac42f2>Coven</font> can become Rebound
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 
 > From: SLE [SolarFlare](#) & Coding: [ryuk](#)
 

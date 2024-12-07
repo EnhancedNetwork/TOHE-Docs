@@ -23,6 +23,9 @@ If the killer is inside a vent, they will not die.
 * <font color=#7f8c8d>Neutrals</font> can have Burst
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can have this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot have this role
+* <font color=#ac42f2>Coven</font> can become Burst
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 * Burst Kill Delay
   * Set how long it takes for the Burst's killer to explode after killing the Burst
 

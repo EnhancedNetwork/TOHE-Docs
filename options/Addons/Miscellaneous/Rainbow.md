@@ -22,6 +22,9 @@ As the Rainbow, you change your colors like crazy.
 * <font color=#7f8c8d>Neutrals</font> can become Rainbow
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+* <font color=#ac42f2>Coven</font> can become Rainbow
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 * Cooldown for changing colors
   * Set how often the Rainbow will change colors
 * Rainbow color changes during Camouflage

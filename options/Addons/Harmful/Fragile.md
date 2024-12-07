@@ -22,6 +22,9 @@ As Fragile, you will die instantly if someone tries to use kill button on you (e
 * <font color=#7f8c8d>Neutrals</font> can become Fragile
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+* <font color=#ac42f2>Coven</font> can become Fragile
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 * <font color=red>Impostors</font> can force kill Fragile
   * <font color=green>ON</font>: <font color=red>Impostors</font> can kill Fragile forcefully
   * <font color=red>OFF</font>: <font color=red>Impostors</font> cannot kill Fragile forcefully
@@ -31,6 +34,9 @@ As Fragile, you will die instantly if someone tries to use kill button on you (e
 * <font color=#7f8c8d>Neutrals</font> can force kill Fragile
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can kill Fragile forcefully
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot kill Fragile forcefully
+* <font color=#ac42f2>Coven</font> can force kill Fragile
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can kill Fragile forcefully
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot kill Fragile forcefully
 * Killer lunge on kill
   * <font color=green>ON</font>: Killers will lunge towards the Fragile on kill
   * <font color=red>OFF</font>: Killers will not lunge towards the Fragile on kill

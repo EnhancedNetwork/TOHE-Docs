@@ -24,6 +24,9 @@ Not assigned to Detective or Mortician.
 * <font color=#8cffff>Crewmates</font> can become Sleuths
   * <font color=green>ON</font>: Crewmates can become Sleuths
   * <font color=red>OFF</font>: Crewmates cannot become Sleuths
+* <font color=#ac42f2>Coven</font> can become Sleuths
+  * <font color=green>ON</font>: Coven can become Sleuths
+  * <font color=red>OFF</font>: Coven cannot become Sleuths
 * Can find the role of the killer
   * <font color=green>ON</font>: the Sleuth can find the role of the killer
   * <font color=red>OFF</font>: the Sleuth cannot find the role of the killer

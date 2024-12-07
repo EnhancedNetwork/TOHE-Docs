@@ -20,6 +20,9 @@ Cannot be assigned to <font color=#7f8c8d>Neutrals</font>.
 * <font color=#8cffff>Crewmates</font> can become Loyal
   * <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become Loyal
   * <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become Loyal
+* <font color=#ac42f2>Coven</font> can become Loyal
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 
 > Idea: [beep6604](#) & Coding: [Tommy-XL](https://github.com/Tommy-XL)
 

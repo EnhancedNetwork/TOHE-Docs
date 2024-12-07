@@ -20,7 +20,7 @@ contributors: false
 <table>
 <tr>
 <td><a href="/changelogs/Alpha.html" style="color:#997d6d"><b>Alpha</b></a></td>
-<td>v2.1.0 Alpha 15</td>
+<td>v2.2.0 Alpha 6</td>
 </tr>
 <tr>
 <td><a href="/changelogs/Beta.html" style="color:#6d7299"><b>Beta</b></a></td>
@@ -28,7 +28,7 @@ contributors: false
 </tr>
 <tr>
 <td><a href="/changelogs/Stable.html" style="color:#996d7f"><b>Stable</b></a></td>
-<td>v2.0.3 Stable</td>
+<td>v2.1.1 Stable</td>
 </tr>
 </table>
 
@@ -48,7 +48,7 @@ contributors: false
 <tr>
 <td><a href="/options/Settings/Crewmates.html" style="color:#8cffff"><b>🦸‍♂️ Crewmates</b> </a></td>
 <td>Play together and win by completing all tasks/voting out all Evil</td>
-<td align="center">80</td>
+<td align="center">81</td>
 </tr>
 
 <tr>
@@ -76,7 +76,7 @@ contributors: false
 </table>
 <br>
 
-### <font color=#4d223a><b>Member Submitted Stuff</b></font>
+### <font color=#e0b0ff><b>Member Submitted Content</b></font>
 
-For Member Submitted Presets, visit the [Presets](/Presets.html) page.
+For Member Submitted Presets, visit the [Presets](/Presets.html) page.<br>
 For Member Submitted Translations, visit the [Custom Translations](/Translations.html) page.

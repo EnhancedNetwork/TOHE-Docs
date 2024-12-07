@@ -23,6 +23,6 @@ Press the kill button twice for a direct kill.
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+Penguin go waddle waddle, walk and eat fish shaped beans. Yum!
+> Submitted by: crxstos
 </details>

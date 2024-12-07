@@ -2,7 +2,7 @@
 lang: en-US
 title: Captain
 prev: Admirer
-next: Copycat
+next: ChiefOfPolice
 ---
 
 # <font color="#4682B4">👨‍✈️ <b>Captain</b></font> <Badge text="Power" type="tip" vertical="middle"/>

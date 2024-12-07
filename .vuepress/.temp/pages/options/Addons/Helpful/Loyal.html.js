@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Addons/Helpful/Loyal.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Addons/Helpful/Loyal.html\",\"title\":\"Loyal\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Loyal\",\"prev\":\"Lazy\",\"next\":\"Lucky\"},\"headers\":[],\"git\":{\"updatedTime\":1727504355000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":2},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3}]},\"filePathRelative\":\"options/Addons/Helpful/Loyal.md\"}")
-export { comp, data }

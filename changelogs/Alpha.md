@@ -16,7 +16,124 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Alpha 16.1</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 6</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Lover and Egoist IntroCutscene by [sussynba](https://github.com/PEPPERcula)<br>
+\+ <font color=green><b>NEW</b></font>: Impostor and Madmate see each other on Intro<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed playerIdList related bugs (on change role mid game, copycat)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Probably fixed log spam on disconnecting from game<br>
+= <font color=#fdf08e><b>NOTE</b></font>: Modded Intro: Lover, Egoist > Madmate > Neutral, impostor > crewmate<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: MasterMind is still experimental, its experimental for a reason<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: impostor count option reverted to 1 - 3, since changing the value range will always reset it to 3 and idk why<br>
+
+= <font color=#ece218><b>NOTICE</b></font>: This build is very experimental and following stuffs need yours help to test:<br>
+1. playerIdList behaviors of Spiritualist, Pitfall, PlagueBearer, Alchemist, Enigma, Mortician, Spiritualist, Tracefinder are changed and if you meet bugs regarding these roles, please open a bug report<br>
+2. not completely sure whether intropatch is coded correctly. Maybe it will show extra or miss some info to players (like seeing players not in your team or not supposed to see on intro, cant see teammates on intro). Maybe you will get whitescreen on seeing intro. If so, please open bug reports with the log of client that sees wrong intro<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 5.1</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Apocalypse Intro Screen by [Marg](https://github.com/MargaretTheFool)<br>
+\+ <font color=green><b>NEW</b></font>: Opportunist can vent option by [sussynba](https://github.com/PEPPERcula)<br>
+\+ <font color=green><b>NEW</b></font>: Pestilence can kill guesser option by [ApeMV](https://github.com/ApeMV)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Baker now uses shapeshift button to transform by [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix same task type get assigned repeatedly<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: People will be more likely to share similar tasks from vanilla<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Impostor count option reverted to 1 - 3, since changing the value range will always reset it to 3<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Game may be a little laggy since we're testing something new<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 5</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Horse Mode and Long Neck Mode by [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix /setplayers setting 15+ players in vanilla regions by [Pietro](https://github.com/Pietrodjaowjao)<br>
+\+ <font color=green><b>NEW</b></font>: Legacy option for Traitor (traitor can be shapeshifter) by [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix stealer addon displaying wrong vote number on display<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix sending chat bug causing blackmailer false spam<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Attempted fix for amnesiac's abnormal vent behavior<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix jackal ability limit still -100<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix vector setting id bug<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Shocker crashing the game<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix overseer useless playeridlist bug<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix assign role mid game not having common tasks<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed vanilla clients still seeing modded name after a player has left the game<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: TOHE now completely assigns the tasks apart from InnerSloth's system (Experimental)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: people will be more likely to share similar tasks from vanilla<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: impostor count option reverted to 1 - 3, since changing the value range will always reset it to 3<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: game may be a little laggy since we're testing something new<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 4</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Experimental Role: Shocker by [laikrai](https://github.com/laikrai)<br>
+\+ <font color=green><b>NEW</b></font>: Crowded Mod now included in TOHE (TOHE is now incompatible with CrowdedMod since we included all its features)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Scavenger now has its own death reason by [ApeMV](https://github.com/ApeMV)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed Intro sound for some roles by [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed converted killer roles sabotage getting banned by EAC (experimental)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: MasterMind now is a experimental role since it causes some bugs<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mod news not loading<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed summary text sometimes bugged and can not be shown<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added additional exile rpcs to ease dead alive bug (experimental)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Evil Mini can not be guessed before 18 option added<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some roles allow misguess to be ignored<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Add kill notify for guardian<br>
+\+ <font color=green><b>NEW</b></font>: Spy Setting: Hide "Block kill attempts" option for since it never actually worked<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Engineer basis roles with 1 second vent duration now can't move in vent (like jester) (experimental)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Traitor now sees impostors on intro screen<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Now tasks always re-assign on role changed mid game (experimental)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 3.1</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed others not being able to report a body and turn into body's role when Amnesiac waa not converted<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix translations of ChiefOfPolice<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Adjust KCD animations for Jackal and ChiefOfPolice<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Consigliere not being able to guess certian roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Kamikaze mod clients not seeing icons<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 3</font></b></summary>
+
+\+ <font color=#12edaf><b>REWORKED</b></font>: Jackal (Jackal can now convert anyone into Sidekick, Sidekick can now turn into Jackal after Jackal's death)<br>
+\+ <font color=#12edaf><b>REWORKED</b></font>: Amnesiac (Amnesiac now can turn into any roles, Amnesiac cannot vent after changing role depending on the can vent setting)<br>
+\+ <font color=#12edaf><b>RETURNED</b></font>: Chief Of Police Returns (Chief of Police can recruit anyone as Sheriff, Chief may suicide depending on the setting upon wrong recruit)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug where Revenant has wrong Idu<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug where Arsonist may not be able to dose someone (maybe)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: CopyCat now cant copy baker<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Temporarily Disable HorseMode from release since it causes game crashes<br>
+\+ <font color=green><b>NEW</b></font>: Added some new options for Berserker, PlagueBearer, SoulCollector by [ApeMV](https://github.com/ApeMV)
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 2</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Role: Revenant (By: [LimeAU](https://github.com/Limeau))<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed double spy seeing each other’s orange name<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed rebirth vote-out on Solsticer and Mini<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Host Doomsayer infinite guess<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Sictator UI Interactions<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix changing gamemode sometimes showing HideNSeek<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Changed Lawyer to Single Role to avoid unknown bugs<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 1</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Critical Error Manager<br>
+
+* By [**Huier**](https://github.com/Huier-Huang)<br>
+\+ <font color=green><b>NEW</b></font>: Option: Dictator use /vote command to exp players<br>
+
+* By [**Laikrai**](https://github.com/Laikrai)<br>
+\+ <font color=green><b>NEW</b></font>: Command: /start for moderators to start a game<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+\+ <font color=green><b>NEW</b></font>: Hash Api System (Now the mod calculates its own file hash and use that to interact with Enhanced API)<br>
+\+ <font color=green><b>NEW</b></font>: Added dictator button for modded clients based on 1237<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed non debug clients can use anti-blackout test<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Random Spawn leads to a ban on anti-cheat regions<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 16.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Jailer<br>

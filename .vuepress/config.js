@@ -217,6 +217,7 @@ export default defineUserConfig({
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
             { text: 'Admirer', link: '/options/Crewmates/Power/Admirer.html' },
             { text: 'Captain', link: '/options/Crewmates/Power/Captain.html' },
+            { text: 'Chief Of Police', link: '/options/Crewmates/Power/ChiefOfPolice.html' },
             { text: 'Copycat', link: '/options/Crewmates/Power/Copycat.html' },
             { text: 'Dictator', link: '/options/Crewmates/Power/Dictator.html' },
             { text: 'Guardian', link: '/options/Crewmates/Power/Guardian.html' },
@@ -407,6 +408,7 @@ export default defineUserConfig({
             { text: 'Opportunist', link: '/options/Neutrals/Benign/Opportunist.html' },
             { text: 'Pixie', link: '/options/Neutrals/Benign/Pixie.html' },
             { text: 'Pursuer', link: '/options/Neutrals/Benign/Pursuer.html' },
+            { text: 'Revenant', link: '/options/Neutrals/Benign/Revenant.html'},
             {
               text: 'Romantic', link: '/options/Neutrals/Benign/Romantic.html', children: [
                 { text: 'Vengeful Romantic', link: '/options/Neutrals/Benign/RomanticVengeful.html' },
@@ -449,9 +451,9 @@ export default defineUserConfig({
           ],
           '/options/Neutrals/Experimental/': [
             { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
-            { text: 'Doppelganger', link: '/options/Neutrals/Experimental/Doppelganger.html' },
             { text: 'Imitator', link: '/options/Neutrals/Experimental/Imitator.html' },
             { text: 'Quizmaster', link: '/options/Neutrals/Experimental/Quizmaster.html' },
+            { text: 'Shocker', link: '/options/Neutrals/Experimental/Shocker.html' },
           ],
           '/options/Neutrals/Killing/': [
             { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
@@ -460,6 +462,7 @@ export default defineUserConfig({
             { text: 'Bandit', link: '/options/Neutrals/Killing/Bandit.html' },
             { text: 'Blood Knight', link: '/options/Neutrals/Killing/BloodKnight.html' },
             { text: 'Demon', link: '/options/Neutrals/Killing/Demon.html' },
+            { text: 'Doppelganger', link: '/options/Neutrals/Killing/Doppelganger.html' },
             { text: 'Glitch', link: '/options/Neutrals/Killing/Glitch.html' },
             { text: 'Hex Master', link: '/options/Neutrals/Killing/HexMaster.html' },
             { text: 'Huntsman', link: '/options/Neutrals/Killing/Huntsman.html' },

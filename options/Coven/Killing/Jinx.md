@@ -19,7 +19,7 @@ The Jinx can use their kill button to Jinx a player. Anyone who interacts with t
 
 
 > Original "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)<br>
-> Reworked "Idea & Coding": [Marg](https://github.com/MargaretTheFool)
+> Reworked Idea & Coding: [Marg](https://github.com/MargaretTheFool)
 
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

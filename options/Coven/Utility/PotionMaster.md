@@ -18,7 +18,7 @@ The Potion Master has two potions available for their use. The Reveal potion rev
   * Set the Amount of times the Potion Master can barrier
 
 > Original "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)<br>
-> Reworked "Idea & Coding": [Marg](https://github.com/MargaretTheFool)
+> Reworked Idea & Coding: [Marg](https://github.com/MargaretTheFool)
 
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

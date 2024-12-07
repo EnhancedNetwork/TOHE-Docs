@@ -22,7 +22,7 @@ The Hex Master can use their kill button to mark a player with the 乂 symbol. I
   * <font color=red>OFF</font>: Hexes will not look like <font color=red>Witch</font> spells
 
 > Original "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)<br>
-> Reworked "Idea & Coding": [Marg](https://github.com/MargaretTheFool)
+> Reworked Idea & Coding: [Marg](https://github.com/MargaretTheFool)
 
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

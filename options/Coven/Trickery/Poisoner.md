@@ -15,7 +15,7 @@ The Poisoner can use their kill button on a player to roleblock them. The next t
   * Set how long it takes for the Poisoned target to die
 
 > Originally From: Town of Us Reactivated & "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)<br>
-> Reworked "Idea & Coding": [Marg](https://github.com/MargaretTheFool)
+> Reworked Idea & Coding: [Marg](https://github.com/MargaretTheFool)
 
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

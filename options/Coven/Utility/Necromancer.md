@@ -20,7 +20,7 @@ As the Necromancer, you can shapeshift to become the role of a random dead perso
 
 
 > Originally From: EHR<br>
-> Reworked "Idea & Coding": [Marg](https://github.com/MargaretTheFool)
+> Reworked Idea & Coding: [Marg](https://github.com/MargaretTheFool)
 
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

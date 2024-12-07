@@ -166,6 +166,31 @@ export default defineUserConfig({
             { text: 'Stubborn', link: '/options/Addons/Mixed/Stubborn.html' },
             { text: 'Susceptible', link: '/options/Addons/Mixed/Susceptible.html' },
           ],
+          '/options/Coven/Killing/': [
+            { text: 'Back to Coven', link: '/options/Settings/Coven.html' },
+            { text: 'Conjurer', link: '/options/Coven/Killing/Conjurer.html' },
+            { text: 'Hex Master', link: '/options/Coven/Killing/HexMaster.html' },
+            { text: 'Jinx', link: '/options/Coven/Killing/Jinx.html' }
+          ],
+          '/options/Coven/Power/': [
+            { text: 'Back to Coven', link: '/options/Settings/Coven.html' },
+            { text: 'Coven Leader', link: '/options/Coven/Power/CovenLeader.html' },
+            { text: 'Ritualist', link: '/options/Coven/Power/Ritualist.html' }
+          ],
+          '/options/Coven/Trickery/': [
+            { text: 'Back to Coven', link: '/options/Settings/Coven.html' },
+            { text: 'Illusionist', link: '/options/Coven/Trickery/Illusionist.html' },
+            { text: 'Poisoner', link: '/options/Coven/Trickery/Poisoner.html' }
+          ],
+          '/options/Coven/Utility/': [
+            { text: 'Back to Coven', link: '/options/Settings/Coven.html' },
+            { text: 'Medusa', link: '/options/Coven/Utility/Medusa.html' },
+            { text: 'Moon Dancer', link: '/options/Coven/Utility/MoonDancer.html' },
+            { text: 'Necromancer', link: '/options/Coven/Utility/Necromancer.html' },
+            { text: 'Potion Master', link: '/options/Coven/Utility/PotionMaster.html' },
+            { text: 'Sacrifist', link: '/options/Coven/Utility/Sacrifist.html' },
+            { text: 'Voodoo Master', link: '/options/Coven/Utility/VoodooMaster.html' }
+          ],
           '/options/Crewmates/Basic/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
             { text: 'Addict', link: '/options/Crewmates/Basic/Addict.html' },
@@ -464,19 +489,13 @@ export default defineUserConfig({
             { text: 'Demon', link: '/options/Neutrals/Killing/Demon.html' },
             { text: 'Doppelganger', link: '/options/Neutrals/Killing/Doppelganger.html' },
             { text: 'Glitch', link: '/options/Neutrals/Killing/Glitch.html' },
-            { text: 'Hex Master', link: '/options/Neutrals/Killing/HexMaster.html' },
             { text: 'Huntsman', link: '/options/Neutrals/Killing/Huntsman.html' },
             { text: 'Infectious', link: '/options/Neutrals/Killing/Infectious.html' },
             { text: 'Jackal', link: '/options/Neutrals/Killing/Jackal.html' },
-            { text: 'Jinx', link: '/options/Neutrals/Killing/Jinx.html' },
             { text: 'Juggernaut', link: '/options/Neutrals/Killing/Juggernaut.html' },
-            { text: 'Medusa', link: '/options/Neutrals/Killing/Medusa.html' },
-            { text: 'Necromancer', link: '/options/Neutrals/Killing/Necromancer.html' },
             { text: 'Pelican', link: '/options/Neutrals/Killing/Pelican.html' },
             { text: 'Pickpocket', link: '/options/Neutrals/Killing/Pickpocket.html' },
             { text: 'Plague Scientist', link: '/options/Neutrals/Killing/PlagueScientist.html' },
-            { text: 'Poisoner', link: '/options/Neutrals/Killing/Poisoner.html' },
-            { text: 'Potion Master', link: '/options/Neutrals/Killing/PotionMaster.html' },
             { text: 'Pyromaniac', link: '/options/Neutrals/Killing/Pyromaniac.html' },
             { text: 'Serial Killer', link: '/options/Neutrals/Killing/SerialKiller.html' },
             { text: 'Shroud', link: '/options/Neutrals/Killing/Shroud.html' },

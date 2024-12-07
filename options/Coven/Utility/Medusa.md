@@ -17,7 +17,7 @@ The Medusa can use their kill button on players to mark them as Stoned. When the
   * Vision of Stoned players while affected by stoning
 
 > Original "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)<br>
-> Reworked "Idea & Coding": [Marg](https://github.com/MargaretTheFool)
+> Reworked Idea & Coding: [Marg](https://github.com/MargaretTheFool)
 
 
 <details>

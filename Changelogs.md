@@ -21,25 +21,30 @@ contributors: false
 <details>
 <summary><b><font color=#cf4e8f>v2.2.0 Alpha 6</font></b></summary>
 
-\+ <font color=green><b>NEW</b></font>: Lover and Egoist IntroCutscene by [sussynba](https://github.com/PEPPERcula)<br>
-\+ <font color=green><b>NEW</b></font>: Impostor and Madmate see each other on Intro<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed playerIdList related bugs (on change role mid game, copycat)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Probably fixed log spam on disconnecting from game<br>
-= <font color=#fdf08e><b>NOTE</b></font>: Modded Intro: Lover, Egoist > Madmate > Neutral, impostor > crewmate<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: MasterMind is still experimental, its experimental for a reason<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: impostor count option reverted to 1 - 3, since changing the value range will always reset it to 3 and idk why<br>
-
-= <font color=#ece218><b>NOTICE</b></font>: This build is very experimental and following stuffs need yours help to test:<br>
-1. playerIdList behaviors of Spiritualist, Pitfall, PlagueBearer, Alchemist, Enigma, Mortician, Spiritualist, Tracefinder are changed and if you meet bugs regarding these roles, please open a bug report<br>
-2. not completely sure whether intropatch is coded correctly. Maybe it will show extra or miss some info to players (like seeing players not in your team or not supposed to see on intro, cant see teammates on intro). Maybe you will get whitescreen on seeing intro. If so, please open bug reports with the log of client that sees wrong intro<br>
+\+ <font color=green><b>NEW</b></font>: Ported Custom Net Object System from MoreGameModes by [Drakos](https://github.com/Ultradragon005)<br>
+\+ <font color=green><b>NEW</b></font>: Role AbyssBringer (ported from EHR)<br>
+\+ <font color=green><b>NEW</b></font>: Legacy Parasite & Legacy Traitor (can shapeshift) by [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Famine still have shapeshift button<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Quick Shooter may bug sometimes<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Maybe Fixed Error Spam when a modded client disconnected from game during meeting or other important period<br>
+\+ <font color=green><b>NEW</b></font>: Added KN detect (not sure whether it works) by [red88phantom](https://github.com/redphantom1000)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Parasite and imp can see each other on intro<br>
+\+ <font color=green><b>NEW</b></font>: Can Set impostors num to 0 - maxplayers/2
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Multiple improvements in codes<br>
+\+ <font color=green><b>NEW</b></font>: Experimental Custom Net Object (Influenced roles: AbyssBringer (new role and buggy), Bomber (seems good), Fireworker (hasn't tested), RiftMaker (may be buggy))<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Abyssbringer blackhole wont despawn after meeting (settings)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Abyssbringer blackhole stops when no target to follow (will make it head to pelican blackroom and despawn)
+= <font color=#de6707><b>KNOWN BUG</b></font>: RiftMaker's Rift can be seen by everyone<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: May disconnect players<br>
+= <font color=#fdf08e><b>NOTE</b></font>: Pitfall should also use this stuff<br>
 </details>
 <details>
-<summary><b><font color=#a175ff>Coven Alpha 6 (NOT MAIN ALPHA)</font></b></summary>
+<summary><b><font color=#a175ff>Coven Alpha 7 (NOT MAIN ALPHA)</font></b></summary>
 
-\- <font color=red><b>REMOVED</b></font>: Removed unused roles Sorceress and Dreamweaver from CustomRoles entirely<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Hopefully fixed null errors relating to Moon Dancer<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Necromancer getting Game Master<br>
-\+ <font color=green><b>NEW</b></font>: All the changes from Alpha 6<br>
+\- <font color=red><b>REMOVED</b></font>: Necromancer no longer gets Enchanted upon Necromancy (this was previously intentional)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Necromancer can no longer see opposing teams upong gaining their role<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Coven can no longer get add-ons they aren't allowed to have (like Egoist)<br>
+\+ <font color=green><b>NEW</b></font>: All the changes from Alpha 7<br>
 
 </details>
 </details>

@@ -16,7 +16,27 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 6</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 7</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Ported Custom Net Object System from MoreGameModes by [Drakos](https://github.com/Ultradragon005)<br>
+\+ <font color=green><b>NEW</b></font>: Role AbyssBringer (ported from EHR)<br>
+\+ <font color=green><b>NEW</b></font>: Legacy Parasite & Legacy Traitor (can shapeshift) by [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Famine still have shapeshift button<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Quick Shooter may bug sometimes<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Maybe Fixed Error Spam when a modded client disconnected from game during meeting or other important period<br>
+\+ <font color=green><b>NEW</b></font>: Added KN detect (not sure whether it works) by [red88phantom](https://github.com/redphantom1000)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Parasite and imp can see each other on intro<br>
+\+ <font color=green><b>NEW</b></font>: Can Set impostors num to 0 - maxplayers/2
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Multiple improvements in codes<br>
+\+ <font color=green><b>NEW</b></font>: Experimental Custom Net Object (Influenced roles: AbyssBringer (new role and buggy), Bomber (seems good), Fireworker (hasn't tested), RiftMaker (may be buggy))<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Abyssbringer blackhole wont despawn after meeting (settings)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Abyssbringer blackhole stops when no target to follow (will make it head to pelican blackroom and despawn)
+= <font color=#de6707><b>KNOWN BUG</b></font>: RiftMaker's Rift can be seen by everyone<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: May disconnect players<br>
+= <font color=#fdf08e><b>NOTE</b></font>: Pitfall should also use this stuff<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 6</font></b></summary>
 
 \+ <font color=green><b>NEW</b></font>: Lover and Egoist IntroCutscene by [sussynba](https://github.com/PEPPERcula)<br>
 \+ <font color=green><b>NEW</b></font>: Impostor and Madmate see each other on Intro<br>

@@ -298,6 +298,7 @@ export default defineUserConfig({
           ],
           '/options/Impostors/Concealing/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
+            { text: 'Abyssbringer', link: '/options/Impostors/Concealing/Abyssbringer.html' },
             { text: 'Escapist', link: '/options/Impostors/Concealing/Escapist.html' },
             { text: 'Lightning', link: '/options/Impostors/Concealing/Lightning.html' },
             { text: 'Mastermind', link: '/options/Impostors/Concealing/Mastermind.html' },

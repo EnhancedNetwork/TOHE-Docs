@@ -16,6 +16,18 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 8</font></b></summary>
+
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent dead players from knowing role immediately after death (will know on meeting started)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent Nemesis and Retributionist from seeing roles before skill used up option<br>
+= Change ability button text for some roles by [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Some Adjustments for Riftmaker by [laikrai](https://github.com/laikrai)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Crowded not loading<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed BlackMailer skill not disabled when it turns into ghost roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed AbyssBringer Blackhole not despawning correctly<br>
+
+</details>
+<details>
 <summary><b><font color=#cf4e8f>v2.2.0 Alpha 7</font></b></summary>
 
 \+ <font color=green><b>NEW</b></font>: Ported Custom Net Object System from MoreGameModes by [Drakos](https://github.com/Ultradragon005)<br>

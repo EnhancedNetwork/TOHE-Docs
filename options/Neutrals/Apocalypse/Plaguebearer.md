@@ -33,6 +33,32 @@ You win by killing everyone.
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+The plague bearer was a curious person who would even go to the extent he would experiment on his own body and it went.. Wrong..
+ 
+The plague bearer made such a virus that only he had its cure and could even transfer by touch.. and interaction
+And that made the person weak..
+They couldn't kill the strong uninfected people..
+ 
+And he went on and started interacting with people
+But this went far better than he thought.. He realised that if the infected people touched/interacted with unifected too they would be infected...
+ 
+Wow..
+Curiosity got the best of everyone..
+Always be curious
+ 
+Back to story..
+ 
+"AAAHH" He screamed in pain as after infecting everyone he drank the anti dote... It was painful recovering from the virus..
+Very Painful..
+ 
+But now he was invulnerable to infected crewmates...
+Except for ejection and Space..
+ 
+And.. In the war of 1888 this was...
+The Turning wave..
+ 
+"AAAAAAAAAAAAAH" He screamed in agony...
+To be continued
+Stay tuned in
+> Submitted by: champofchamps78
 </details>

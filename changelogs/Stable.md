@@ -13,6 +13,9 @@ sidebar:
 ## <font size=5em><b>All Stable Releases/Changelogs:</b></font><br>
 To access Stable Builds, you can visit TEN's [Discord Server](https://discord.gg/ten) and download the latest release in #tohe-release, or go straight to our Releases on [GitHub](github.com/EnhancedNetwork/TownofHost-Enhanced/releases/latest)!
 
+<b><font color=#cf4e8f>Latest Release</font></b><br>
+<b><font color=#d395b4>Previous Release</font></b>
+
 ---
 <font size=4em>
 <details>

@@ -13,6 +13,9 @@ sidebar:
 ## <font size=5em><b>All Beta Releases/Changelogs:</b></font><br>
 To access Beta Builds, visit TEN's [Discord Server](https://discord.gg/ten) and visit #beta-builds, then download the latest dll!
 
+<b><font color=#cf4e8f>Latest Release</font></b><br>
+<b><font color=#d395b4>Previous Release</font></b>
+
 ---
 <font size=4em>
 <details>

@@ -13,10 +13,29 @@ sidebar:
 ## <font size=5em><b>All Alpha Releases/Changelogs:</b></font><br>
 To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE/) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester](#) (Content Creator with your Town of Host: Enhanced videos having 600+ views on average).
 
+<b><font color=#cf4e8f>Latest Release</font></b><br>
+<b><font color=#d395b4>Previous Release</font></b>
+
 ---
 <font size=4em>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 8</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 8.2</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix EvilMini not having kill button<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Add fall back url for api<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Change some obfuscation settings
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 8.1</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mod clients unable to see roles after death<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix missing string PreventSeeRolesBeforeSkillUsedUp<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Testing Heavy Obfuscation
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 8</font></b></summary>
 
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent dead players from knowing role immediately after death (will know on meeting started)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent Nemesis and Retributionist from seeing roles before skill used up option<br>
@@ -28,7 +47,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 
 </details>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 7</font></b></summary>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 7</font></b></summary>
 
 \+ <font color=green><b>NEW</b></font>: Ported Custom Net Object System from MoreGameModes by [Drakos](https://github.com/Ultradragon005)<br>
 \+ <font color=green><b>NEW</b></font>: Role AbyssBringer (ported from EHR)<br>

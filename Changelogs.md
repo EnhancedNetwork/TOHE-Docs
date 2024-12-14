@@ -19,24 +19,22 @@ contributors: false
 <summary><b><font color=#a65a80>TOHE v2.2.0 Changelogs</font></b></summary>
 
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 8</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 8.2</font></b></summary>
 
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent dead players from knowing role immediately after death (will know on meeting started)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent Nemesis and Retributionist from seeing roles before skill used up option<br>
-= Change ability button text for some roles by [sussynba](https://github.com/PEPPERcula)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Some Adjustments for Riftmaker by [laikrai](https://github.com/laikrai)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Crowded not loading<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed BlackMailer skill not disabled when it turns into ghost roles<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed AbyssBringer Blackhole not despawning correctly<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix EvilMini not having kill button<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Add fall back url for api<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Change some obfuscation settings
 </details>
 <details>
-<summary><b><font color=#a175ff>Coven Alpha 7 (NOT MAIN ALPHA)</font></b></summary>
+<summary><b><font color=#a175ff>Coven Alpha 8.2 (NOT MAIN ALPHA)</font></b></summary>
 
-\- <font color=red><b>REMOVED</b></font>: Necromancer no longer gets Enchanted upon Necromancy (this was previously intentional)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Necromancer can no longer see opposing teams upong gaining their role<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Coven can no longer get add-ons they aren't allowed to have (like Egoist)<br>
-\+ <font color=green><b>NEW</b></font>: All the changes from Alpha 7<br>
-
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Ritualist's messages aren't hidden<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Necromancer gets revived if their role is reverted while they die<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Necromancer's duration no longer counts down while in a meeting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where win conditions are screwed up<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Necromancer and Sacrifist's durations are no longer displayed with 5 decimal places<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Enchanted add-on is not displayed<br>
+\+ <font color=green><b>NEW</b></font>: All the changes from Alpha 8.2
 </details>
 </details>
 <br>
@@ -46,7 +44,7 @@ contributors: false
 * By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
 \+ <font color=green><b>NEW</b></font>: Added `Thunderstore Mod Manager` to Install.html.<br>
-\+ <font color=green><b>NEW</b></font>: Added first 5 Lore Batches.<br>
+\+ <font color=green><b>NEW</b></font>: Added 6 Lore Batches.<br>
 \+ <font color=green><b>NEW</b></font>: Prepared for Coven Faction. (Sidebars: Pyro, everything else: Marg)<br>
 </details>
 </font>

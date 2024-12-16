@@ -29,9 +29,14 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 8.1</font></b></summary>
 
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mod clients unable to see roles after death<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix missing string PreventSeeRolesBeforeSkillUsedUp<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Testing Heavy Obfuscation
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix EvilMini not having kill button<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Add fall back url for api<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Change some obfuscation settings<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Instigator not working<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Lighter Ability limit not syncing<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix having a while space at the end of a player's message will bug some roles<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvements regarding CustomNetObject<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for unshapeshifted button<br>
 
 </details>
 <details>

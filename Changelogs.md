@@ -19,16 +19,10 @@ contributors: false
 <summary><b><font color=#a65a80>TOHE v2.2.0 Changelogs</font></b></summary>
 
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 8.2</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 8.3</font></b></summary>
 
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix EvilMini not having kill button<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Add fall back url for api<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Change some obfuscation settings<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Instigator not working<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Lighter Ability limit not syncing<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix having a while space at the end of a player's message will bug some roles<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvements regarding CustomNetObject<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for unshapeshifted button<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Custom Net Object related bugs (Fixes several roles being broken)
+
 </details>
 <details>
 <summary><b><font color=#a175ff>Coven Alpha 8.2 (NOT MAIN ALPHA)</font></b></summary>

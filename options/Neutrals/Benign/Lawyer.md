@@ -50,7 +50,7 @@ If they lose, you lose.
   * Mayor
   * Doctor
 
-> From: "Idea & Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
+> From: TheOtherRolesAU + "Coding": [TheSkullCreeper](https://github.com/Loonie-Toons)
 
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

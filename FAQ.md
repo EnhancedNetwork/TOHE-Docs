@@ -12,6 +12,16 @@ Here you can browse through Common Questions relating to Town of Host: Enhanced.
 <details>
 <summary><b><font color=#a65a80>Installation</font></b></summary>
 <details>
+<summary><b><font color=gray>Alpha Builds Distribution Policy</font></b></summary>
+
+## Distribution Policy
+
+<b>Alpha Builds are not for distribution. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked. <br>
+If you are a content creator, you may use these builds in your videos, but you may not provide a download link for your viewers. If you are found to be distributing these builds, you will be removed from the respective role and your access to the builds will be revoked.<br><br>
+This policy is in place to keep the integrity of our Sponsor, Contributor, & Tester roles. If you are interested in becoming one of these roles, please see the below sections for more information.</b>
+</details>
+<br>
+<details>
 <summary><b><font color=gray>How can I Install Town of Host: Enhanced?</font></b></summary>
 
 Visit the [Install](/Install.html) page! This guides you through installing Town of Host: Enhanced on either Steam, Epic, or Xbox App, and also shows you how to install Alpha & Beta Builds.

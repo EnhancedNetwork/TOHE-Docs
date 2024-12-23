@@ -22,13 +22,7 @@ This policy is in place to keep the integrity of our Sponsor, Contributor, & Tes
 </details>
 <br>
 <details>
-<summary><b><font color=gray>How can I Install Town of Host: Enhanced?</font></b></summary>
-
-Visit the [Install](/Install.html) page! This guides you through installing Town of Host: Enhanced on either Steam, Epic, or Xbox App, and also shows you how to install Alpha & Beta Builds.
-</details>
-<br>
-<details>
-<summary><b><font color=gray>How can I install Town of Host: Enhanced on phones, tablets, and consoles?</font></b></summary>
+<summary><b><font color=gray>Can I install Town of Host: Enhanced on computers, phones, tablets, & consoles?</font></b></summary>
 
 You can only install mods on PC/Computer. You must have the Steam, Epic, Xbox App, or Itch versions of Among Us to download mods. If you have no PC/Computer, you don’t need to worry as, even if you don't have/can't get the mod, you can still join Host-Only mods (such as TOHE, TOH, PL, etc) as long as you have Among Us on any device! You can find the lobbies of these mods to join and play as long as you are on the right game version.
 </details>

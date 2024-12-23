@@ -6,11 +6,11 @@ contributors: false
 
 # Helpful Resources
 
-Here are some Resources that may help you understand some things relating to the mod. Such as Hot-Keys, Commands, Template/Preset Help, and other Useful Guides/Information.
-
-Other general help related pages can be found at [FAQ](/FAQ.html) (For common questions) as well as [Install](/Install.html) (For installation issues/questions).
+Here are some Resources that may help you understand some things relating to the mod. Such as Mod Features, Customization, other Useful Guides/Information, & User Submitted Content.
 
 <font size=3em>
+<details>
+<summary><b><font color=#a65a80>Mod Features</font></b></summary>
 <details>
 <summary><b><font color=gray>Hot-Keys</font></b></summary>
 Below is a list of Hot-Keys that you can use to make your experience better while playing Town of Host: Enhanced. You can use these Hot-Keys to perform certain actions.<br>
@@ -723,160 +723,124 @@ Commands that are italicized are considered "essential" and are recommended for 
 
 > From: The Enhanced Network + Compiling: NotPyro404
 </details>
-<br>
 <details>
-<summary><b><font color=gray>TOHE-DATA Info</font></b></summary>
-
-Open the root directory of game: `...\Among Us\TOHE-DATA\`
-
-There are a few files:
-
-- `BanList.txt`: A list of friendcodes that will be unable to join your lobby.
-- `Default_Teamplate.txt`: This is the Default TOHE Template file. If you wish to reset your templates to default, You can use this. (No idea why it says Teamplate.)
-- `DenyName.txt`: A list of names that will be filtered out of the game.
-- `Moderators.txt`: A list of friendcodes that will receive a nice Moderator tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to moderate your lobby (such as using the commands near the top of the page). Only grant users you trust these permissions! (NOTE: `english.dat` is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](./Resources.html) Page.)
-- `template.txt`: You can modify the `welcome` and `onMeeting` messages here. You can also add custom templates here as well following the same format as `welcome` & `onMeeting` use.
-- `VIP-List.txt`: A list of friendcodes that will be given a sweet VIP tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to change their name color. (NOTE: `english.dat` is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](./Resources.html) Page.)
-- `WhiteList.txt`: A list of friendcodes that will be exempt from blacklisted platforms, along with level requirements.
-
-> From: The Enhanced Network + Compiling: NotPyro404
-</details>
-<br>
-<details>
-<summary><b><font color=gray>Templates Info</font></b></summary>
-
-Open the root directory of the mod and find the `..\Among Us\TOHE-DATA\template.txt` file.
-
-You can see that there are some words in the file, such as `welcome`, `onMeeting`, and other gibberish.
-- `welcome:exampleMessage` - this is the message that will be sent when other players enter your lobby.
-- `onMeeting:exampleMessage` - this is the message that will be sent when each meeting starts. 
-- `onFirstMeeting:exampleMessage` - this is just like `onMeeting`, but the message sent here will only be sent on the <i>first</i> meeting. Any meetings after will prioritize `onMeeting`. 
-
-You can edit these templates, or add your own on new-lines!
-
-On a new-line, you want to add your trigger word and your message. Such as: `[example]:this is an example template!` <i>(The trigger word being `[example]` and the message being `this is an example template!`. (YOU NEED THE `:`!))</i> You can add as many of these as you want. You can then save the file, boot up the mod, and run `/t [example]` in your chat box to see if it's set up to your liking!
-
-Alternatively, you may also use this [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) put together by one of TOHE's Contributors, [Drakos](https://github.com/Ultradragon005).
-
-<details>
-<summary><b><font color=gray>Guide</font></b></summary>
-
-There is a Tutorial at the bottom of the Template Editior's page if you need it. If you do not want to watch it, here's a small guide abounht how to use it.
-
-1. Enter a Title for the template. This title will be displayed at the top of the template when its activated in game. Here's what the title will look like by default:
-![image](./images/TemplateTitle.png)
-2. Enter in what you want the template to display. You can edit the Font Size & Text Colors, but it is recommended to do it last. (From: Drakos)
-3. Enter in the name for this template. This name will also be the trigger word for this template. `[example]:this is an example template!` (`[example]` being the name/trigger word)
-4. Click the "Copy as HTML Formatted" to copy your template to your clipboard.
-5. Locate `..\Among Us\TOHE-DATA\template.txt` and paste your new template on a new-line.
-6. You can then save the file [`[Ctrl] + [S]`], boot up the mod, and run `/t [example]` in your chat box to see if it's set up to your liking!
-</details>
-
-If you create copies of the template name on newlines, it will send them in seperate messages. Here's an example from Drakos: 
-![image](./images/TemplateNewLines.png)
-
-> From + Compiling: NotPyro404 + Images: Drakos
-</details>
-<br>
-<details>
-<summary><b><font color=gray>Template Editor</font></b></summary>
-
-Here's a Template Editor which you can use to edit or create templates.<br>
-[Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html)<br>
-
-The Template Editor is only 1 of the many Utilities (Also by Drakos) which are on this [Among Us Utilities](https://ultradragon005.github.io/AmongUs-Utilities/index.html) page. You can find a [Welcome Message Guide](https://ultradragon005.github.io/AmongUs-Utilities/guide.html), [Pixel Art Editor](https://ultradragon005.github.io/AmongUs-Utilities/pixelgrid.html), [Gallery](https://ultradragon005.github.io/AmongUs-Utilities/gallery.html), & also the [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) shown already.<br><br>
-
-> From: Drakos
-</details>
-<br>
-<details>
-<summary><b><font color=gray>template.dat Info</font></b></summary>
-
-You can edit your `template.dat` to say really anything you want! You can also download custom templates shared by others. If you want to use one, make sure the file is renamed to `english.dat` before using it, if it isn't already. (NOTE: english.dat is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](./Resources.html) Page.)<br><br>
-
-Note: You have to put the file in the following directory: `.\Among Us\Language` for it to work. (Make sure your file is a `.dat` file, otherwise it will not work. Paste it alongside the `template.dat` file already in your folder.)<br><br>
-
-You can do a lot with your `template.dat`, for this though, we'll refer to it as `english.dat` for simplicity sake. For starters, you can edit the Host Text, Icon, & Color. I won't go into depth on <i>everything</i> that the `english.dat` can edit, but it's almost every line of text that can be displayed on the screen. Once you get the hang of editing the Host Text, Icon, & Color, you can move down the list to edit anything you really want to (Such as Role Names, Role Descriptions, VIP Text, Moderator Text, and more).<br>
-Below is what the default `template.dat` looks like, Versus what the edited `english.dat` I have looks like.<br>
-![image](./images/HostTextDefault.png)<br>
-Versus what the edited `english.dat` I have looks like.<br>
-![image](./images/HostTextEdited.png)<br><br>
-
-Just mess around a little bit, and have fun! Make sure you copy your template as a backup before you try messing with it again, or messing with the mod itself.<br>
-
-For some member submitted translations (not yet supported by Town of Host: Enhanced/Base game Among Us), browse [here](/Translations.html).<br>
+<summary><b><font color=gray>Icons: Explained</font></b></summary>
+<table>
+<tr>
+<td align="center"><b>Icon</b></td>
+<td align="center"><b>Scenario</b></td>
+</tr>
+<tr>
+<td><font color=#ff1919>†</font></td>
+<td>This player was spelled by a <font color=#ff1919>Witch</font></td>
+</tr>
+<tr>
+<td><font color=#fc04fc>乂</font></td>
+<td>This player was hexed by a <font color=#fc04fc>Hex Master</font></td>
+</tr>
+<tr>
+<td><font color=#6697FF>◈</font></td>
+<td>This player was shrouded by a <font color=6697FF>Shroud</font></td>
+</tr>
+<tr>
+<td><font color=EDC240>⦿</font></td>
+<td>This player is being dueled by a <font color=#EDC240>Pirate</font></td>
+</tr>
+<tr>
+<td><font color=#8464bc>?!</font></td>
+<td>This player is being quizzed by a <font color=#8464bc>Quizmaster</font></td>
+</tr>
+<tr>
+<td><font color=#b8fb4f>⚠</font></td>
+<td>This player is a <font color=#b8fb4f>Snitch</font> who is about to finish their tasks</td>
+</tr>
+<tr>
+<td><font color=#f8fa87>⚠</font></td>
+<td>This player is a <font color=#f8fa87>Solsticer</font> who is about to finish their tasks</td>
+</tr>
+<tr>
+<td><font color=#39FF14>✚</font></td>
+<td>This player has a <font color=#39FF14>Medic</font> Shield</td>
+</tr>
+<tr>
+<td><font color=#999DA0>♦</font></td>
+<td>This player is the <font color=#999DA0>Executioner</font>'s target</td>
+</tr>
+<tr>
+<td><font color=#2E856E>♦</font></td>
+<td>This player is your <font color=#2E856E>Lawyer</font></td>
+</tr>
+<tr>
+<td><font color=#FFA500>♦</font></td>
+<td>This player is your <font color=#FFA500>Follower</font></td>
+</tr>
+<tr>
+<td><font color=#fc1494>♥</font></td>
+<td>This player is a <font color=#fc1494>Romantic</font></td>
+</tr>
+<tr>
+<td><font color=#ff9ace>♥</font></td>
+<td>This player is a <font color=#ff9ace>Lover</font></td>
+</tr>
+<tr>
+<td><font color=#f0ef5b>★</font></td>
+<td>This player is a <font color=#f0ef5b>Super Star</font></td>
+</tr>
+<tr>
+<td><font color=#f46f4e>★</font></td>
+<td>This player is a <font color=#f46f4e>Cyber</font></td>
+</tr>
+<tr>
+<td><font color=#5573aa>★</font></td>
+<td>This player is a <font color=#5573aa>Marshall</font></td>
+</tr>
+<tr>
+<td><font color=#4682b4>☆</font></td>
+<td>This player is a <font color=#4682b4>Captain</font></td>
+</tr>
+<tr>
+<td><font color=#404040>☜</font></td>
+<td>This player is a teammate of the <font color=#404040>Schrodinger's Cat</font></td>
+</tr>
+<tr>
+<td><font color=#aa900d>⊠</font></td>
+<td>This player is marked by the <font color=#aa900d>Jailer</font></td>
+</tr>
+<tr>
+<td><font color=#ff1919>╳</font></td>
+<td>This player is blackmailed by the <font color=#ff1919>Blackmailer</font></td>
+</tr>
+<tr>
+<td><font color=#ff1919>∇</font></td>
+<td>This player is marked by the <font color=#ff1919>Kamikaze</font></td>
+</tr>
+<tr>
+<td><font color=#ff1919>■</font></td>
+<td>This player is a quantum ghost marked by the <font color=#ff1919>Lightning</font></td>
+</tr>
+<tr>
+<td><font color=#8c7458>●</font></td>
+<td>Used by the <font color=#8c7458>Baker</font> to mark who has Bread</td>
+</tr>
+<tr>
+<td><font color=#a475a4>♠</font></td>
+<td>Used by the <font color=#a475a4>Soul Collector</font> to mark who's death they're predicting.</td>
+</tr>
+<tr>
+<td><font color=#e5f6b4>⦿</font></td>
+<td>Used by the <font color=#e5f6b4>Plaguebearer</font> to mark who they have plagued.</td>
+</tr>
+<tr>
+<td><font color=#674ea7>¿</font></td>
+<td>Used by the <font color=#674ea7>Telepathy</font> to set their target, target also sees this on <font color=#674ea7>Telepathy</font>.</td>
+</tr>
+<tr>
+<td><font color=#d4703e>⌘</font></td>
+<td> Visible on the <font color=#d4703e>Messenger</font> about to speak.</td>
+</tr>
+</table>
 
 > From + Compiling: NotPyro404
-</details>
-<br>
-<details>
-<summary><b><font color=gray>Valid Variables</font></b></summary>
-
-- `{{ModVersion}}` - Displays the current version of Town of Host: Enhanced.
-- `{{AmongUsVersion}}` - Displays the current Among Us version.
-- `{{InternalVersion}}` - Displays the source code plugin version.
-- `{{Date}}` - Displays the current date.
-- `{{Time}}` - Displays the current time.
-- `{{PlayerName}}` - Displays the readers username.
-- `{{HostName}}` - Displays the hosts username.
-- `{{RoomCode}}` - Displays the Room Code.
-- `{{Map}}` - Displays the Map that is going to be played.
-- `{{KillCooldown}}` - Displays the default Kill Cooldown set in your Among Us settings.
-- `{{NumCommonTasks}}` - Displays the amount of Common Tasks per player.
-- `{{NumLongTasks}}` - Displays the amount of Long Tasks per player.
-- `{{NumShortTasks}}` - Displays the amount of Short Tasks per player.
-- `{{NumEmergencyMeetings}}` - Displays the amount of meetings allowed per player.
-- `{{DiscussionTime}}` - Displays the time period where you can talk before voting.
-- `{{VotingTime}}` - Displays the time period where you vote.
-- `{{EmergencyCooldown}}` - Displays the cooldown before you can call a meeting.
-- `{{PlayerSpeedMod}}` - Displays the speed of players.
-- `{{CrewLightMod}}` - Displays the vision radius of a Crewmate.
-- `{{ImpostorLightMod}}` - Displays the vision radius of an Impostor.
-
-> From: The Enhanced Network + Compiling: NotPyro404
-</details>
-<br>
-<details>
-<summary><b><font color=gray>Text Formatting</font></b></summary>
-
-- `<color=#[hex]>exampleText</color>` Changes the <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Color </span> of the text/font.
-- `<b>exampleText</b>` Enables <b>Bold</b> for the text/font.
-- `<s>exampleText</s>` Enables <s>Strikethrough</s> for the text/font.
-- `<u>exampleText</u>` Enables <u>Underline</u> for the text/font.
-- `<i>exampleText</i>` Enables <i>Italics</i> for the text/font.
-- `<mark>exampleText</mark>` Enables <mark>Highlight</mark> for the text/font.
-- `<sup>exampleText</sup>` Enables <sup>Superscript</sup> for the text/font.
-- `<sub>exampleText</sub>` Enables <sub>Subscript</sub> for the text/font.
-- `<size=[size][%]>exampleText</size>` Sets the <font size=2em>Size</font> of the text/font. (Can type exact text/font sizes or use percentages.)
-- `\n` Creates a New Line. (Such as `<br>` or <kbd>Return</kbd>/<kbd>Enter</kbd> would.)
-
-> From: The Enhanced Network + Compiling: NotPyro404
-</details>
-<br>
-<details>
-<summary><b><font color=gray>Supported Rich Text Tags</font></b></summary>
-
-Here's a full list of Rich Text Tags that you can use for formatting. Some may not work, so keep that in mind. There is a `<font>` tag, that will not work with all fonts, it will only work with the Fonts covered in the next dropdown menu.
-[Link to List](https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.2/manual/RichTextSupportedTags.html)<br><br>
-
-> From: Unity Technologies
-</details>
-<br>
-<details>
-<summary><b><font color=gray>Usable Fonts/Symbols</font></b></summary>
-
-Here's a Doc covering Fonts & Symbols that you can use while creating Templates! This Doc also shows some Sprites which are technically other Symbols, as well as some Icons and what exactly they mean when you see them!<br>
-[Link to Doc](https://docs.google.com/document/d/e/2PACX-1vQh4sc9RL_Byt3kextqngdaAuGovFO_YaxHITZsIKqcd39mUAc6sQ89sfsSRGZsHUCecfIQiDY2WtQ-/pub)<br><br>
-
-> From: Drakos
-</details>
-<br>
-<details>
-<summary><b><font color=gray>Original Role Colors (Hex Codes)</font></b></summary>
-
-You can find the <i>original</i> Hex Codes of Town of Host: Enhanced Roles [Here](https://github.com/0xDrMoe/TownofHost-Enhanced/blob/main/Resources/roleColor.json).<br><br>
-
-> From: The Enhanced Network
 </details>
 <br>
 <details>
@@ -1069,127 +1033,166 @@ Tricky and Susceptible will never give this death reason, but that should be obv
 
 > From: Marg + Compiling: NotPyro404
 </details>
+</details>
+<details>
+<summary><b><font color=#a65a80>Customization</font></b></summary>
+<details>
+<summary><b><font color=gray>TOHE-DATA Info</font></b></summary>
+
+Open the root directory of game: `...\Among Us\TOHE-DATA\`
+
+There are a few files:
+
+- `BanList.txt`: A list of friendcodes that will be unable to join your lobby.
+- `Default_Teamplate.txt`: This is the Default TOHE Template file. If you wish to reset your templates to default, You can use this. (No idea why it says Teamplate.)
+- `DenyName.txt`: A list of names that will be filtered out of the game.
+- `Moderators.txt`: A list of friendcodes that will receive a nice Moderator tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to moderate your lobby (such as using the commands near the top of the page). Only grant users you trust these permissions! (NOTE: `english.dat` is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](./Resources.html) Page.)
+- `template.txt`: You can modify the `welcome` and `onMeeting` messages here. You can also add custom templates here as well following the same format as `welcome` & `onMeeting` use.
+- `VIP-List.txt`: A list of friendcodes that will be given a sweet VIP tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to change their name color. (NOTE: `english.dat` is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](./Resources.html) Page.)
+- `WhiteList.txt`: A list of friendcodes that will be exempt from blacklisted platforms, along with level requirements.
+
+> From: The Enhanced Network + Compiling: NotPyro404
+</details>
 <br>
 <details>
-<summary><b><font color=gray>Icons: Explained</font></b></summary>
-<table>
-<tr>
-<td align="center"><b>Icon</b></td>
-<td align="center"><b>Scenario</b></td>
-</tr>
-<tr>
-<td><font color=#ff1919>†</font></td>
-<td>This player was spelled by a <font color=#ff1919>Witch</font></td>
-</tr>
-<tr>
-<td><font color=#fc04fc>乂</font></td>
-<td>This player was hexed by a <font color=#fc04fc>Hex Master</font></td>
-</tr>
-<tr>
-<td><font color=#6697FF>◈</font></td>
-<td>This player was shrouded by a <font color=6697FF>Shroud</font></td>
-</tr>
-<tr>
-<td><font color=EDC240>⦿</font></td>
-<td>This player is being dueled by a <font color=#EDC240>Pirate</font></td>
-</tr>
-<tr>
-<td><font color=#8464bc>?!</font></td>
-<td>This player is being quizzed by a <font color=#8464bc>Quizmaster</font></td>
-</tr>
-<tr>
-<td><font color=#b8fb4f>⚠</font></td>
-<td>This player is a <font color=#b8fb4f>Snitch</font> who is about to finish their tasks</td>
-</tr>
-<tr>
-<td><font color=#f8fa87>⚠</font></td>
-<td>This player is a <font color=#f8fa87>Solsticer</font> who is about to finish their tasks</td>
-</tr>
-<tr>
-<td><font color=#39FF14>✚</font></td>
-<td>This player has a <font color=#39FF14>Medic</font> Shield</td>
-</tr>
-<tr>
-<td><font color=#999DA0>♦</font></td>
-<td>This player is the <font color=#999DA0>Executioner</font>'s target</td>
-</tr>
-<tr>
-<td><font color=#2E856E>♦</font></td>
-<td>This player is your <font color=#2E856E>Lawyer</font></td>
-</tr>
-<tr>
-<td><font color=#FFA500>♦</font></td>
-<td>This player is your <font color=#FFA500>Follower</font></td>
-</tr>
-<tr>
-<td><font color=#fc1494>♥</font></td>
-<td>This player is a <font color=#fc1494>Romantic</font></td>
-</tr>
-<tr>
-<td><font color=#ff9ace>♥</font></td>
-<td>This player is a <font color=#ff9ace>Lover</font></td>
-</tr>
-<tr>
-<td><font color=#f0ef5b>★</font></td>
-<td>This player is a <font color=#f0ef5b>Super Star</font></td>
-</tr>
-<tr>
-<td><font color=#f46f4e>★</font></td>
-<td>This player is a <font color=#f46f4e>Cyber</font></td>
-</tr>
-<tr>
-<td><font color=#5573aa>★</font></td>
-<td>This player is a <font color=#5573aa>Marshall</font></td>
-</tr>
-<tr>
-<td><font color=#4682b4>☆</font></td>
-<td>This player is a <font color=#4682b4>Captain</font></td>
-</tr>
-<tr>
-<td><font color=#404040>☜</font></td>
-<td>This player is a teammate of the <font color=#404040>Schrodinger's Cat</font></td>
-</tr>
-<tr>
-<td><font color=#aa900d>⊠</font></td>
-<td>This player is marked by the <font color=#aa900d>Jailer</font></td>
-</tr>
-<tr>
-<td><font color=#ff1919>╳</font></td>
-<td>This player is blackmailed by the <font color=#ff1919>Blackmailer</font></td>
-</tr>
-<tr>
-<td><font color=#ff1919>∇</font></td>
-<td>This player is marked by the <font color=#ff1919>Kamikaze</font></td>
-</tr>
-<tr>
-<td><font color=#ff1919>■</font></td>
-<td>This player is a quantum ghost marked by the <font color=#ff1919>Lightning</font></td>
-</tr>
-<tr>
-<td><font color=#8c7458>●</font></td>
-<td>Used by the <font color=#8c7458>Baker</font> to mark who has Bread</td>
-</tr>
-<tr>
-<td><font color=#a475a4>♠</font></td>
-<td>Used by the <font color=#a475a4>Soul Collector</font> to mark who's death they're predicting.</td>
-</tr>
-<tr>
-<td><font color=#e5f6b4>⦿</font></td>
-<td>Used by the <font color=#e5f6b4>Plaguebearer</font> to mark who they have plagued.</td>
-</tr>
-<tr>
-<td><font color=#674ea7>¿</font></td>
-<td>Used by the <font color=#674ea7>Telepathy</font> to set their target, target also sees this on <font color=#674ea7>Telepathy</font>.</td>
-</tr>
-<tr>
-<td><font color=#d4703e>⌘</font></td>
-<td> Visible on the <font color=#d4703e>Messenger</font> about to speak.</td>
-</tr>
-</table>
+<summary><b><font color=gray>Templates Info</font></b></summary>
+
+Open the root directory of the mod and find the `..\Among Us\TOHE-DATA\template.txt` file.
+
+You can see that there are some words in the file, such as `welcome`, `onMeeting`, and other gibberish.
+- `welcome:exampleMessage` - this is the message that will be sent when other players enter your lobby.
+- `onMeeting:exampleMessage` - this is the message that will be sent when each meeting starts. 
+- `onFirstMeeting:exampleMessage` - this is just like `onMeeting`, but the message sent here will only be sent on the <i>first</i> meeting. Any meetings after will prioritize `onMeeting`. 
+
+You can edit these templates, or add your own on new-lines!
+
+On a new-line, you want to add your trigger word and your message. Such as: `[example]:this is an example template!` <i>(The trigger word being `[example]` and the message being `this is an example template!`. (YOU NEED THE `:`!))</i> You can add as many of these as you want. You can then save the file, boot up the mod, and run `/t [example]` in your chat box to see if it's set up to your liking!
+
+Alternatively, you may also use this [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) put together by one of TOHE's Contributors, [Drakos](https://github.com/Ultradragon005).
+
+<details>
+<summary><b><font color=gray>Guide</font></b></summary>
+
+There is a Tutorial at the bottom of the Template Editior's page if you need it. If you do not want to watch it, here's a small guide abounht how to use it.
+
+1. Enter a Title for the template. This title will be displayed at the top of the template when its activated in game. Here's what the title will look like by default:
+![image](./images/TemplateTitle.png)
+2. Enter in what you want the template to display. You can edit the Font Size & Text Colors, but it is recommended to do it last. (From: Drakos)
+3. Enter in the name for this template. This name will also be the trigger word for this template. `[example]:this is an example template!` (`[example]` being the name/trigger word)
+4. Click the "Copy as HTML Formatted" to copy your template to your clipboard.
+5. Locate `..\Among Us\TOHE-DATA\template.txt` and paste your new template on a new-line.
+6. You can then save the file [`[Ctrl] + [S]`], boot up the mod, and run `/t [example]` in your chat box to see if it's set up to your liking!
+</details>
+
+If you create copies of the template name on newlines, it will send them in seperate messages. Here's an example from Drakos: 
+![image](./images/TemplateNewLines.png)
+
+> From + Compiling: NotPyro404 + Images: Drakos
+</details>
+<br>
+<details>
+<summary><b><font color=gray>Template Editor</font></b></summary>
+
+Here's a Template Editor which you can use to edit or create templates.<br>
+[Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html)<br>
+
+The Template Editor is only 1 of the many Utilities (Also by Drakos) which are on this [Among Us Utilities](https://ultradragon005.github.io/AmongUs-Utilities/index.html) page. You can find a [Welcome Message Guide](https://ultradragon005.github.io/AmongUs-Utilities/guide.html), [Pixel Art Editor](https://ultradragon005.github.io/AmongUs-Utilities/pixelgrid.html), [Gallery](https://ultradragon005.github.io/AmongUs-Utilities/gallery.html), & also the [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) shown already.<br><br>
+
+> From: Drakos
+</details>
+<br>
+<details>
+<summary><b><font color=gray>template.dat Info</font></b></summary>
+
+You can edit your `template.dat` to say really anything you want! You can also download custom templates shared by others. If you want to use one, make sure the file is renamed to `english.dat` before using it, if it isn't already. (NOTE: english.dat is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](./Resources.html) Page.)<br><br>
+
+Note: You have to put the file in the following directory: `.\Among Us\Language` for it to work. (Make sure your file is a `.dat` file, otherwise it will not work. Paste it alongside the `template.dat` file already in your folder.)<br><br>
+
+You can do a lot with your `template.dat`, for this though, we'll refer to it as `english.dat` for simplicity sake. For starters, you can edit the Host Text, Icon, & Color. I won't go into depth on <i>everything</i> that the `english.dat` can edit, but it's almost every line of text that can be displayed on the screen. Once you get the hang of editing the Host Text, Icon, & Color, you can move down the list to edit anything you really want to (Such as Role Names, Role Descriptions, VIP Text, Moderator Text, and more).<br>
+Below is what the default `template.dat` looks like, Versus what the edited `english.dat` I have looks like.<br>
+![image](./images/HostTextDefault.png)<br>
+Versus what the edited `english.dat` I have looks like.<br>
+![image](./images/HostTextEdited.png)<br><br>
+
+Just mess around a little bit, and have fun! Make sure you copy your template as a backup before you try messing with it again, or messing with the mod itself.<br>
+
+For some member submitted translations (not yet supported by Town of Host: Enhanced/Base game Among Us), browse [here](/Translations.html).<br>
 
 > From + Compiling: NotPyro404
 </details>
 <br>
+<details>
+<summary><b><font color=gray>Valid Variables</font></b></summary>
+
+- `{{ModVersion}}` - Displays the current version of Town of Host: Enhanced.
+- `{{AmongUsVersion}}` - Displays the current Among Us version.
+- `{{InternalVersion}}` - Displays the source code plugin version.
+- `{{Date}}` - Displays the current date.
+- `{{Time}}` - Displays the current time.
+- `{{PlayerName}}` - Displays the readers username.
+- `{{HostName}}` - Displays the hosts username.
+- `{{RoomCode}}` - Displays the Room Code.
+- `{{Map}}` - Displays the Map that is going to be played.
+- `{{KillCooldown}}` - Displays the default Kill Cooldown set in your Among Us settings.
+- `{{NumCommonTasks}}` - Displays the amount of Common Tasks per player.
+- `{{NumLongTasks}}` - Displays the amount of Long Tasks per player.
+- `{{NumShortTasks}}` - Displays the amount of Short Tasks per player.
+- `{{NumEmergencyMeetings}}` - Displays the amount of meetings allowed per player.
+- `{{DiscussionTime}}` - Displays the time period where you can talk before voting.
+- `{{VotingTime}}` - Displays the time period where you vote.
+- `{{EmergencyCooldown}}` - Displays the cooldown before you can call a meeting.
+- `{{PlayerSpeedMod}}` - Displays the speed of players.
+- `{{CrewLightMod}}` - Displays the vision radius of a Crewmate.
+- `{{ImpostorLightMod}}` - Displays the vision radius of an Impostor.
+
+> From: The Enhanced Network + Compiling: NotPyro404
+</details>
+<br>
+<details>
+<summary><b><font color=gray>Text Formatting</font></b></summary>
+
+- `<color=#[hex]>exampleText</color>` Changes the <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Color </span> of the text/font.
+- `<b>exampleText</b>` Enables <b>Bold</b> for the text/font.
+- `<s>exampleText</s>` Enables <s>Strikethrough</s> for the text/font.
+- `<u>exampleText</u>` Enables <u>Underline</u> for the text/font.
+- `<i>exampleText</i>` Enables <i>Italics</i> for the text/font.
+- `<mark>exampleText</mark>` Enables <mark>Highlight</mark> for the text/font.
+- `<sup>exampleText</sup>` Enables <sup>Superscript</sup> for the text/font.
+- `<sub>exampleText</sub>` Enables <sub>Subscript</sub> for the text/font.
+- `<size=[size][%]>exampleText</size>` Sets the <font size=2em>Size</font> of the text/font. (Can type exact text/font sizes or use percentages.)
+- `\n` Creates a New Line. (Such as `<br>` or <kbd>Return</kbd>/<kbd>Enter</kbd> would.)
+
+> From: The Enhanced Network + Compiling: NotPyro404
+</details>
+<br>
+<details>
+<summary><b><font color=gray>Supported Rich Text Tags</font></b></summary>
+
+Here's a full list of Rich Text Tags that you can use for formatting. Some may not work, so keep that in mind. There is a `<font>` tag, that will not work with all fonts, it will only work with the Fonts covered in the next dropdown menu.
+[Link to List](https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.2/manual/RichTextSupportedTags.html)<br><br>
+
+> From: Unity Technologies
+</details>
+<br>
+<details>
+<summary><b><font color=gray>Usable Fonts/Symbols</font></b></summary>
+
+Here's a Doc covering Fonts & Symbols that you can use while creating Templates! This Doc also shows some Sprites which are technically other Symbols, as well as some Icons and what exactly they mean when you see them!<br>
+[Link to Doc](https://docs.google.com/document/d/e/2PACX-1vQh4sc9RL_Byt3kextqngdaAuGovFO_YaxHITZsIKqcd39mUAc6sQ89sfsSRGZsHUCecfIQiDY2WtQ-/pub)<br><br>
+
+> From: Drakos
+</details>
+<br>
+<details>
+<summary><b><font color=gray>Original Role Colors (Hex Codes)</font></b></summary>
+
+You can find the <i>original</i> Hex Codes of Town of Host: Enhanced Roles [Here](https://github.com/0xDrMoe/TownofHost-Enhanced/blob/main/Resources/roleColor.json).<br><br>
+
+> From: The Enhanced Network
+</details>
+</details>
+<details>
+<summary><b><font color=#a65a80>Miscellaneous</font></b></summary>
 <details>
 <summary><b><font color=gray>Among Us Supported Languages</font></b></summary>
 
@@ -1303,4 +1306,133 @@ Below is a list of all colors + their IDs supported by Vanilla Among Us.<br><br>
 
 > From: Innersloth + Compiling: NotPyro404
 </details>
-</font>
+</details>
+<details>
+<summary><b><font color=#a65a80>User Submitted Content</font></b></summary>
+<details>
+<summary><b><font color=gray>Custom Presets</font></b></summary>
+
+You can save your favorite settings as presets and load them later. You can also download presets shared by others.
+
+If you are new to hosting and don't know what to enable, there are also some <b>Starter Presets</b> below. Once you have a bit of a grasp on some roles and some special perks, you can try out some <b>Advanced Presets</b>, unless you think you're ready to try out <b>Expert Presets</b>, which include a lot of complex roles and perks.<br>
+If you want to try out what some community members roll with, you can try downloading one of the many <i>Member Submitted Presets</i>, which are sorted by the above system.
+
+For Instructions on how to Install Presets, visit [FAQ](/FAQ.html).
+
+Keep in Mind: It is always suggested to just roll with whatever you like! If you see any roles you may like or are simply interested in, enable them, and mess with them to your personal liking!
+
+You can submit your own preset to be featured by joining the [Discord Server](https://discord.gg/ten), heading to #website-feedback, and creating a forum post with the Preset tag.
+
+---
+
+<font size=4em>
+<details>
+<summary><b><font color=#63806e>Starter Presets</font></b></summary>
+
+In this section, you can find Starter Presets. These are great for new hosts/players that want to slowly learn about all that Town of Host: Enhanced has to offer, but are also amazing for TOHE Veterans that may want to take a breather from the chaos.<br><br>
+
+Important Notes: I am not a genius, I am not good at creating Presets to introduce players to TOHE. Submissions are appreciated for what you would recommend to new hosts.
+
+<details>
+<summary><b><font color=gray>Introduction to TOHE</font></b></summary>
+
+<a href="/presets/StarterIntroTOHE.json" download>Download this Preset</a><br>
+Important Notes: This Preset is as simple as they come, well, besides just being default Impostors & Crewmates, but it's to get you famiar wliith the very base Mechanics.
+
+> Provided by: NotPyro404
+</details>
+<details>
+<summary><b><font color=gray>Introduction to Special Crewmate Abilities + Neutrals</font></b></summary>
+
+<a href="/presets/StarterIntroNeut.json" download>Download this Preset</a><br>
+Important Notes: This Preset is the same as Vanilla, but instead to introduce you to Special Crewmate Abilities, & Neutrals. Roles Enabled below:<br>
+Sheriff, Mechanic, Jester, & Serial Killer.
+
+> Provided by: NotPyro404
+</details>
+<details>
+<summary><b><font color=gray>Introduction to Add-ons</font></b></summary>
+
+<a href="/presets/StarterIntroAddon.json" download>Download this Preset</a><br>
+Important Notes: This Preset is to introduce you to a few Add-ons that spice gameplay. Nothing Speed related/complicated yet.
+
+> Provided by: NotPyro404
+</details>
+<details>
+<summary><b><font color=gray>Introduction to Impostors</font></b></summary>
+
+<a href="/presets/StarterIntroImp.json" download>Download this Preset</a><br>
+Important Notes: This Preset is to get you into a few Impostor Roles. These will only be ones with basic abilities, nothing crazy.
+
+> Provided by: NotPyro404
+</details>
+
+</details>
+<details>
+<summary><b><font color=#446280>Advanced Presets</font></b></summary>
+
+In this section, you can find Advanced Presets. These are recommended for TOHE casuals that may want to try out hosting for themselves, or new hosts that have familiarized themselves with some <i>basic</i> TOHE mechanics.
+
+<details>
+<summary><b><font color=gray>Ed's Recommendations</font></b></summary>
+
+<a href="/presets/AdvancedEd.json" download>Download this Preset</a><br>
+Important Notes: This Preset is what Ed (holmes3) uses in their lobbies and recommends to familiar hosts.
+
+> Provided by: Ed
+</details>
+
+</details>
+<details>
+<summary><b><font color=#37254a>Expert Presets</font></b></summary>
+
+In this section, you can find Expert Presets. These are recommended for hosts that may want to try turning up the heat, or TOHE Veterans that want a bigger challenge. Some of these can get insane, & complex.
+
+<details>
+<summary><b><font color=gray>Marg's Regular Settings & Extreme Chaos Settings</font></b></summary>
+
+<a href="/presets/CustomMargsPreset.json" download>Download this Preset</a><br>
+Important Notes: Preset 1 is Marg's Regular Settings. Preset 2 is Marg's Extreme Chaos Settings.
+Version: 2.0.0 Alpha 20
+
+> Submitted by: Marg
+</details>
+<details>
+<summary><b><font color=gray>Pyro's Circus</font></b></summary>
+
+<a href="/presets/CustomPyrosPreset.json" download>Download this Preset</a><br>
+Important Notes: Preset 1 is Pyro's Circus. This has every role enabled (Besides a few, which were either better as their addon versions, or just weren't wanted such as: Executioner, Most Vanilla Roles, so on.)
+Version: 2.1.0 Alpha 3
+
+> Submitted by: NotPyro404
+</details>
+</details>
+</details>
+<br>
+<details>
+<summary><b><font color=gray>Custom Translations</font></b></summary>
+
+You can create your own translations that Town of Host: Enhanced/Among Us doesn't already support, and use them if you wish. 
+You can also download custom translations shared by others. If you want to use a translation, make sure the file is renamed to `english.dat` before using it, if it isn't already. 
+NOTE: english.dat is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) 
+A list of all base game supported translations can be found on the [Resources](./Resources.html) Page.
+
+Note: You have to put the file in the following directory: `.\Among Us\Language` for it to work. (Make sure your file is a `.dat` file, otherwise it will not work. Paste it alongside the `template.dat` file already in your folder.)
+
+You can submit your own translation to be featured by joining the [Discord Server](https://discord.gg/ten), heading to #website-feedback, and creating a forum post with the Translation tag.
+Below are some member submitted translations:
+
+---
+
+<font size=4em>
+<details>
+<summary><b><font color=gray>Not Available</font></b></summary>
+
+<b>This is a Work in Progress!</b><br>
+You cannot currently download custom translations for your build of Town of Host: Enhanced as there are none currently available. This page will be updated once some Custom Translations are submitted.<br>
+SUBMIT YOUR OWN in the #website-feedback channel using the `Custom Translation` Tag!
+
+> Submitted by: Thou Mother
+</details>
+</details>
+</details>

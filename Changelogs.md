@@ -25,15 +25,14 @@ contributors: false
 
 </details>
 <details>
-<summary><b><font color=#a175ff>Coven Alpha 8.2 (NOT MAIN ALPHA)</font></b></summary>
+<summary><b><font color=#a175ff>Coven Alpha 8.3 (NOT MAIN ALPHA)</font></b></summary>
 
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Ritualist's messages aren't hidden<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Necromancer gets revived if their role is reverted while they die<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Necromancer's duration no longer counts down while in a meeting<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where win conditions are screwed up<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Necromancer and Sacrifist's durations are no longer displayed with 5 decimal places<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Enchanted add-on is not displayed<br>
-\+ <font color=green><b>NEW</b></font>: All the changes from Alpha 8.2
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Poisoner and Illusionist unable to do second action<br>
+\+ <font color=green><b>NEW</b></font>: Setting: Coven can know Celebrity<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Win Condition Check (by [Niko](https://github.com/NikoCat233))<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Ritualist command showing for host<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed typos (by [Impostor4291](https://github.com/impostor4291))<br>
+\+ <font color=green><b>NEW</b></font>: All the changes from Alpha 8.3
 </details>
 </details>
 <br>

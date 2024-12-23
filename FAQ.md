@@ -36,6 +36,12 @@ This issue may occur because the room prohibits sending certain messages, such a
 </details>
 <br>
 <details>
+<summary><b><font color=gray>Why do I have a notice saying <font color=#996d6d>"Wrong Version of Among Us"</font> at the top of my screen?</font></b></summary>
+
+Make sure you have updated your Among Us game files in your Modded Folder to the latest version. If you have the error afterwards, make sure you are not on any public betas (for Steam Users), or check the [Notice Channel](https://discord.com/channels/1094344790910455908/1096633728350040145) in The Enhanced Network's [Discord](https://discord.gg/ten).
+</details>
+<br>
+<details>
 <summary><b><font color=gray>Why did I get a pop-up saying <font color=#996d6d>"You have been kicked by Among Us' official anti-cheat"</font>?</font></b></summary>
 
 The official Among Us anti-cheat system often treats mods as cheats and may kick you out of the game. This situation is unavoidable, and all Host-Only mods have this problem. If you still want to enter a lobby to play, you can only contact the host to reopen the lobby.

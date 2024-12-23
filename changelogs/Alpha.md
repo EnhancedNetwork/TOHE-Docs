@@ -14,7 +14,8 @@ sidebar:
 To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE/) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester](#) (Content Creator with your Town of Host: Enhanced videos having 600+ views on average).
 
 <b><font color=#cf4e8f>Latest Release</font></b><br>
-<b><font color=#d395b4>Previous Release</font></b>
+<b><font color=#d395b4>Previous Release</font></b><br>
+<b><font color=#a175ff>Coven Releases</font></b>
 
 ---
 <font size=4em>
@@ -23,6 +24,17 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Custom Net Object related bugs (Fixes several roles being broken)
 
+<details>
+<summary><b><font color=#a175ff>Coven Alpha 8.3</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Poisoner and Illusionist unable to do second action<br>
+\+ <font color=green><b>NEW</b></font>: Setting: Coven can know Celebrity<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Win Condition Check (by [Niko](https://github.com/NikoCat233))<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Ritualist command showing for host<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed typos (by [Impostor4291](https://github.com/impostor4291))<br>
+\+ <font color=green><b>NEW</b></font>: All the changes from Alpha 8.3
+
+</details>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 8.2</font></b></summary>
@@ -31,6 +43,13 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Add fall back url for api<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Change some obfuscation settings
 
+<details>
+<summary><b><font color=#a175ff>Coven Alpha 8.3</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed the mod not booting<br>
+= <font color=#ece218><b>NOTICE</b></font>: All the changes from Alpha 8.2
+
+</details>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 8.1</font></b></summary>
@@ -43,7 +62,6 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix having a while space at the end of a player's message will bug some roles<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvements regarding CustomNetObject<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Some fix for unshapeshifted button<br>
-
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 8</font></b></summary>
@@ -56,6 +74,18 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed BlackMailer skill not disabled when it turns into ghost roles<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed AbyssBringer Blackhole not despawning correctly<br>
 
+<details>
+<summary><b><font color=#a175ff>Coven Alpha 8</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Ritualist's messages aren't hidden<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Necromancer gets revived if their role is reverted while they die
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Necromancer's duration no longer counts down while in a meeting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where win conditions are screwed up<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Necromancer and Sacrifist's durations are no longer displayed with 5 decimal places<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Enchanted add-on is not displayed<br>
+= <font color=#ece218><b>NOTICE</b></font>: All the changes from Alpha 8
+
+</details>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 7</font></b></summary>
@@ -76,6 +106,16 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#de6707><b>KNOWN BUG</b></font>: RiftMaker's Rift can be seen by everyone<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: May disconnect players<br>
 = <font color=#fdf08e><b>NOTE</b></font>: Pitfall should also use this stuff<br>
+
+<details>
+<summary><b><font color=#a175ff>Coven Alpha 7</font></b></summary>
+
+\- <font color=red><b>REMOVED</b></font>: Necromancer no longer gets Enchanted upon Necromancy (this was previously intentional)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Necromancer can no longer see opposing teams upong gaining their role<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Coven can no longer get add-ons they aren't allowed to have (like Egoist)<br>
+= <font color=#ece218><b>NOTICE</b></font>: All the changes from Alpha 7
+
+</details>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 6</font></b></summary>
@@ -91,6 +131,15 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#ece218><b>NOTICE</b></font>: This build is very experimental and following stuffs need yours help to test:<br>
 1. playerIdList behaviors of Spiritualist, Pitfall, PlagueBearer, Alchemist, Enigma, Mortician, Spiritualist, Tracefinder are changed and if you meet bugs regarding these roles, please open a bug report<br>
 2. not completely sure whether intropatch is coded correctly. Maybe it will show extra or miss some info to players (like seeing players not in your team or not supposed to see on intro, cant see teammates on intro). Maybe you will get whitescreen on seeing intro. If so, please open bug reports with the log of client that sees wrong intro<br>
+<details>
+<summary><b><font color=#a175ff>Coven Alpha 6</font></b></summary>
+
+\- <font color=red><b>REMOVED</b></font>: Removed unused roles Sorceress and Dreamweaver from CustomRoles entirely<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Hopefully fixed null errors relating to Moon Dancer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Necromancer getting Game Master<br>
+= <font color=#ece218><b>NOTICE</b></font>: All the changes from Alpha 6
+
+</details>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 5.1</font></b></summary>
@@ -123,6 +172,14 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#de6707><b>KNOWN BUG</b></font>: people will be more likely to share similar tasks from vanilla<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: impostor count option reverted to 1 - 3, since changing the value range will always reset it to 3<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: game may be a little laggy since we're testing something new<br>
+
+<details>
+<summary><b><font color=#a175ff>Coven Alpha 5</font></b></summary>
+
+\+ <font color=#12edaf><b>RETURNED</b></font>: Coven Faction (New + Reworked Roles)<br>
+= <font color=#ece218><b>NOTICE</b></font>: Different from Main Alpha 5 Branch
+
+</details>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 4</font></b></summary>

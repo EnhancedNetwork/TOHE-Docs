@@ -10,11 +10,11 @@ actions:
   - text: Role Info
     link: /Roles.html
     type: secondary
-  - text: Install Now!
-    link: /Install.html
-    type: primary
-  - text: FAQ
+  - text: FAQ + Install
     link: /FAQ.html
+    type: primary
+  - text: Resources
+    link: /Resources.html
     type: secondary
 footer: "© 2023 By The Enhanced Network"
 ---
@@ -28,7 +28,7 @@ footer: "© 2023 By The Enhanced Network"
 <p>To all the amazing players that keep supporting us & Town of Host Enhanced after these few months: Thank you!</p>
 <p>Moe will still be maintaining the website with Pyro's assistance.</p>
 <p>We appreciate your patience while we continue to work on Town of Host: <i><b>Enhanced</b></i>, as we try our absolute hardest to make sure that you get a great experience as bug free as possible.</p>
-<p>Please be sure to read the FAQ, Install, as well as Resources pages. If you need further assistance, don't be afraid to contact us.</p>
+<p>Please be sure to read the FAQ/Install + Resources pages. If you need further assistance, don't be afraid to contact us.</p>
 <p>Visit Changelogs for the latest Mod + Website Updates.</p>
 <p>Submit your Unofficial Lore Theories in TEN's Discord Server for the ongoing Lore Event!</p>
 <p>Have a Great Day!</p>

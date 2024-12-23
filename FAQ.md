@@ -10,7 +10,7 @@ Here you can browse through Common Questions relating to Town of Host: Enhanced.
 
 <font size=4em>
 <details>
-<summary><b><font color=gray>Installation</font></b></summary>
+<summary><b><font color=#a65a80>Installation</font></b></summary>
 <details>
 <summary><b><font color=gray>How can I Install Town of Host: Enhanced?</font></b></summary>
 
@@ -192,7 +192,7 @@ For some Member Submitted Presets, visit [This Page](/Presets.html).
 </details>
 </details>
 <details>
-<summary><b><font color=gray>Technical/Connection</font></b></summary>
+<summary><b><font color=#a65a80>Technical/Connection</font></b></summary>
 <details>
 <summary><b><font color=gray>Could not connect to my Among Us account, why?</font></b></summary>
 
@@ -343,7 +343,7 @@ There are a few possibilities,
 
 </details>
 <details>
-<summary><b><font color=gray>Miscellaneous</font></b></summary>
+<summary><b><font color=#a65a80>Miscellaneous</font></b></summary>
 <details>
 <summary><b><font color=gray>What are Host-Only mods?</font></b></summary>
 
@@ -386,6 +386,20 @@ Read near the bottom of the [Install](/Install.html) page.
 </details>
 <br>
 <details>
+<summary><b><font color=gray>Can you use the Submerged mod with Town of Host: Enhanced?</font></b></summary>
+
+While this is technically possible, we don't recommend it as Submerged still requires all players to have it installed to play. If you do want to attempt this, we can say that the host would need Town of Host: Enhanced (TOHE) installed (as it's intended for only the host to install), as well as having Submerged installed. All of the people in your lobby could join normally but they would need the Submerged mod installed. (This applies to any custom Among Us map, Submerged is used in the example however, as it's one of the most popular)
+</details>
+</details>
+<details>
+<summary><b><font color=#a65a80>Other</font></b></summary>
+<details>
+<summary><b><font color=gray>Why can't I post in #role-ideas in The Enhanced Network Discord?</font></b></summary>
+
+Role Ideas are currently locked to Sponsors, Nitro Boosters, & Contributors. This is so that the Developers/Contributors of Town of Host: Enhanced can catch up on role ideas. The channel will open back up at a later date, but there's not a specific time.
+</details>
+<br>
+<details>
 <summary><b><font color=gray>How do I become Contributor or Translator?</font></b></summary>
 
 Keep in mind, both of these require you to add significant changes, it can't just be a "one and done" sort of deal. If you are an inactive Contributor/Translator, you may be removed from the team.
@@ -393,20 +407,6 @@ Keep in mind, both of these require you to add significant changes, it can't jus
 1. To earn Contributor, you'll need to help with coding Features, Roles, Game-modes, and so on for Town of Host: Enhanced. To do this, you will need a token. You can obtain one of these by creating a ticket in TEN's Discord Server and asking for an API Token. Moe will get back to you at some point.
 
 2. To earn Translator, you'll need to help with translating Town of Host: Enhanced into other languages supported by Among Us (See supported languages on the Resources Page). If you want to translate a language that Town of Host: Enhanced hasn't yet started, you may create a ticket applying for the position (of course, it will only be you unless other people apply for the same position) and wait for Ryuk or Moe to get back to you. If you want to translate Town of Host: Enhanced into another language but Among Us doesn't yet support it, you can do that in your own english.dat file and share it in #website-feedback when you are finished. (Info on english.dat on the Resources Page.)
-</details>
-<br>
-<details>
-<summary><b><font color=gray>Can you use the Submerged mod with Town of Host: Enhanced?</font></b></summary>
-
-While this is technically possible, we don't recommend it as Submerged still requires all players to have it installed to play. If you do want to attempt this, we can say that the host would need Town of Host: Enhanced (TOHE) installed (as it's intended for only the host to install), as well as having Submerged installed. All of the people in your lobby could join normally but they would need the Submerged mod installed. (This applies to any custom Among Us map, Submerged is used in the example however, as it's one of the most popular)
-</details>
-</details>
-<details>
-<summary><b><font color=gray>Unsure</font></b></summary>
-<details>
-<summary><b><font color=gray>Why can't I post in #role-ideas in The Enhanced Network Discord?</font></b></summary>
-
-Role Ideas are currently locked to Sponsors, Nitro Boosters, & Contributors. This is so that the Developers/Contributors of Town of Host: Enhanced can catch up on role ideas. The channel will open back up at a later date, but there's not a specific time.
 </details>
 </details>
 </font>

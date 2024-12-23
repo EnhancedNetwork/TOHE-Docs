@@ -41,7 +41,13 @@ contributors: false
 
 * By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
-\+ <font color=green><b>NEW</b></font>: Added `Thunderstore Mod Manager` to Install.html.<br>
+\+ <font color=green><b>NEW</b></font>: <b>Heavy</b> Resources Rework. (Sorted into various categories + Includes User-Submitted Presets + Translations.)<br>
+\- <font color=red><b>REMOVED</b></font>: Presets.html (Refer Above)<br>
+\- <font color=red><b>REMOVED</b></font>: Translations.html (Refer Above)<br>
+\+ <font color=green><b>NEW</b></font>: <b>Heavy</b> FAQ Rework. (Sorted into various categories + Includes Installation Guides.)<br>
+\- <font color=red><b>REMOVED</b></font>: Install.html (Refer Above)<br>
+\+ <font color=green><b>NEW</b></font>: Updated Tabs, Sidebars, & Various Links to reflect the above changes.<br>
+\+ <font color=green><b>NEW</b></font>: Updated Tags.html to include Release Tags.<br>
 \+ <font color=green><b>NEW</b></font>: Added 6 Lore Batches.<br>
 \+ <font color=green><b>NEW</b></font>: Prepared for Coven Faction. (Sidebars: Pyro, everything else: Marg)<br>
 </details>

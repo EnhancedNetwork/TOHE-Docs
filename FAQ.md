@@ -184,7 +184,7 @@ Visit `#alpha-builds` in TEN's [Discord Server](https://discord.gg/ten) once you
 
 You can save your favorite settings as presets and load them later. You can also download presets shared by others. 
 
-For some Member Submitted Presets, visit [This Page](/Presets.html).
+For some Member Submitted Presets, visit the [Resources](/Resources.html) Page.
 
 1. If you want to use a preset, make sure the file is renamed to `Options.json` before using it, if it isn't already. (If you do not have `File name extensions` marked on the `View` Tab, you only need to rename it to `Options`.)
 
@@ -385,8 +385,7 @@ You have three methods to get log files:
 
 1. Anybody can get Beta Access by visiting `#beta-builds` in TEN's Discord Server.
 
-2. Become a Contributor, Tester, or Sponsor (Insider+) for Alpha Access.<br>
-Read near the bottom of the [Install](/Install.html) page.
+2. Become a Contributor, Tester, or Sponsor (Insider+) for Alpha Access.
 </details>
 <br>
 <details>

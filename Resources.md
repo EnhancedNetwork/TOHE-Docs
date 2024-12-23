@@ -1116,7 +1116,7 @@ Versus what the edited `english.dat` I have looks like.<br>
 
 Just mess around a little bit, and have fun! Make sure you copy your template as a backup before you try messing with it again, or messing with the mod itself.<br>
 
-For some member submitted translations (not yet supported by Town of Host: Enhanced/Base game Among Us), browse [here](/Translations.html).<br>
+For some member submitted translations (not yet supported by Town of Host: Enhanced/Base game Among Us), browse the [Resources](/Resources.html) Page.<br>
 
 > From + Compiling: NotPyro404
 </details>

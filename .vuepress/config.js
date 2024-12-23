@@ -59,20 +59,16 @@ export default defineUserConfig({
             link: '/AboutUs.html',
           },
           {
+            text: 'FAQ',
+            link: '/FAQ.html',
+          },
+          {
             text: 'Changelogs',
             link: '/Changelogs.html',
           },
           {
             text: 'Resources',
             link: '/Resources.html',
-          },
-          {
-            text: 'Install',
-            link: '/Install.html',
-          },
-          {
-            text: 'FAQ',
-            link: '/FAQ.html',
           },
         ],
         sidebar: {
@@ -518,9 +514,9 @@ export default defineUserConfig({
             { text: 'Add-ons', link: '/options/Settings/Addons.html' },
           ],
         },
-        repo: '0xDrMoe/TOHRE-Code',
+        repo: 'EnhancedNetwork/TOHE-Docs',
         repoLabel: 'Contribute!',
-        docsRepo: '0xDrMoe/TOHRE-Code',
+        docsRepo: 'EnhancedNetwork/TOHE-Docs',
         editLink: true,
         editLinkText: 'Contribute to this page on GitHub!',
         notFound: [

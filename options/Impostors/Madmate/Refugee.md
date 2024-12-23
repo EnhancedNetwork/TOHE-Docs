@@ -13,7 +13,7 @@ As the Refugee, you were either an Amnesiac who remembered an Impostor, or a kil
 Now your job is to help the Impostors kill the crewmates.
 * Can only appear if Godfather/Amnesiac are enabled (as the description implies).
 
-> From: TOHRE
+> From: TOHER
 
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

@@ -20,6 +20,23 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=4em>
 <details>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 9</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Role Convert log (displayed along with Kill log)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Role Description for DollMaster and ChiefOfPolice by ImpyIsLazy<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Add target mark for Seeker
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Add note for vent for Altruist<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix maverick kill num not syncing<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some other very little improvements
+
+<details>
+<summary><b><font color=#a175ff>Coven Alpha 9</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: All the changes from Alpha 8.3
+
+</details>
+</details>
+<details>
 <summary><b><font color=#cf4e8f>v2.2.0 Alpha 8.3</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Custom Net Object related bugs (Fixes several roles being broken)

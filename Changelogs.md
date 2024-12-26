@@ -18,22 +18,9 @@ contributors: false
 <details>
 <summary><b><font color=#a65a80>TOHE v2.2.0 Changelogs</font></b></summary>
 
-<details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 8.3</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Stable Release</font></b></summary>
 
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Custom Net Object related bugs (Fixes several roles being broken)
-
-</details>
-<details>
-<summary><b><font color=#a175ff>Coven Alpha 8.3 (NOT MAIN ALPHA)</font></b></summary>
-
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Poisoner and Illusionist unable to do second action<br>
-\+ <font color=green><b>NEW</b></font>: Setting: Coven can know Celebrity<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Win Condition Check (by [Niko](https://github.com/NikoCat233))<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Ritualist command showing for host<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed typos (by [Impostor4291](https://github.com/impostor4291))<br>
-\+ <font color=green><b>NEW</b></font>: All the changes from Alpha 8.3
-</details>
+There are no notes for this yet but there's no point in updating this with alpha builds when it wont get pushed live until a main build
 </details>
 <br>
 <details>

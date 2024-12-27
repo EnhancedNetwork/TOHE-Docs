@@ -836,7 +836,27 @@ Commands that are italicized are considered "essential" and are recommended for 
 </tr>
 <tr>
 <td><font color=#d4703e>⌘</font></td>
-<td> Visible on the <font color=#d4703e>Messenger</font> about to speak.</td>
+<td>Visible on the <font color=#d4703e>Messenger</font> about to speak.</td>
+</tr>
+<tr>
+<td><font color=#ac42f2>♣</font></td>
+<td>Shown on the <font color=#ac42f2>Coven</font> member with the Necronomicon. This is only shown to <font color=#ac42f2>Coven</font>.</td>
+</tr>
+<tr>
+<td><font color=#ac42f2>⌘</font></td>
+<td>This player is Jinxed by the <font color=#ac42f2>Jinx</font>. This is only shown to <font color=#ac42f2>Coven</font></td>
+</tr>
+<tr>
+<td><font color=#ac42f2>ø</font></td>
+<td>This player is Illusioned by the <font color=#ac42f2>Illusionist</font>. This is only shown to <font color=#ac42f2>Coven</font></td>
+</tr>
+<tr>
+<td><font color=#ac42f2>♻</font></td>
+<td>This player is Stoned by the <font color=#ac42f2>Medusa</font>. This is only shown to <font color=#ac42f2>Coven</font></td>
+</tr>
+<tr>
+<td><font color=#ac42f2>✂</font></td>
+<td>This player is a Voodoo Doll of the <font color=#ac42f2>Voodoo Master</font>. This is only shown to <font color=#ac42f2>Coven</font></td>
 </tr>
 </table>
 

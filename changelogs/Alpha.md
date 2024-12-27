@@ -32,7 +32,20 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <details>
 <summary><b><font color=#a175ff>Coven Alpha 9</font></b></summary>
 
-\+ <font color=green><b>NEW</b></font>: All the changes from Alpha 8.3
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Poisoner and Illusionist unable to do second action<br>
+\+ <font color=green><b>NEW</b></font>: Setting: Coven can know Celebrity (I forgot to add this)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Win Condition Check (by Niko)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Ritualist command showing for host (For real this time)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Updated /icons to include all Coven icons<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: All Coven can now see the icons of other coven roles<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Arsonist is now a Neutral Evil if they can not ignite anytime<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: A message is now shown if the use of /kc is disabled and someone tries to use it
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Conjurer and Sacrifist can no longer kill their teammates with their kill buttons<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix many String issues with Quizmaster<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Role Basis and Role Faction questions being swapped<br>
+\+ <font color=green><b>NEW</b></font>: New Quizmaster Settings: Min Question Difficulty, Max Question Difficulty<br>
+\+ <font color=green><b>NEW</b></font>: Three New Quizmaster Questions (No Spoilers!)<br>
+\+ <font color=green><b>NEW</b></font>: All the changes from Alpha 9
 
 </details>
 </details>

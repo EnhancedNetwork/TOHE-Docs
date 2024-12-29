@@ -1454,5 +1454,170 @@ SUBMIT YOUR OWN in the #website-feedback channel using the `Custom Translation` 
 
 > Submitted by: Thou Mother
 </details>
+<details>
+<summary><b><font color=gray>TOHE x MAUL Christmas Event 2024</font></b></summary>
+
+<a href="/translations/Christmas24.dat" download>Download this Translation</a><br>
+Important Notes: This translation is what was used for the TOHE x MAUL Christmas Event (Partnership) in 2024 (12/29/24). This only affects some roles.
+
+<details>
+<summary><b><font color=gray>Renamed Roles</font></b></summary>
+
+Rename list will only be provided for this translation.<br><br>
+
+Cultist → Santa<br>
+BountyHunter → Gingerbread Tracker<br>
+FireWorks → Holiday Sparkler<br>
+SerialKiller → Nutcracker Nightmare<br>
+ShapeMaster → Snow Sculptor<br>
+Vampire → Mistletoe Drainer<br>
+Warlock → Frostcaster<br>
+Assassin → Silent Snowfall<br>
+Zombie → Frostbitten Walker<br>
+Hacker → Santa’s Codebreaker<br>
+Miner → Candy Cane Digger<br>
+Escapee → Snowdrift Runner<br>
+Witch → Yule Sorceress<br>
+Mafia → Toy Smuggler<br>
+Puppeteer → Christmas Puppetmaster<br>
+TimeThief → Yuletide Timer<br>
+Sniper → Icicle Shooter<br>
+EvilTracker → Naughty List Keeper<br>
+AntiAdminer → Rebel Elf<br>
+Bomber → Ornament Bomber<br>
+Scavenger → Stocking Raider<br>
+Gangster → Festive Mobster<br>
+Cleaner → Snow Sweeper<br>
+CursedWolf → Frostfang<br>
+QuickShooter → Candy Cane Sniper<br>
+Camouflager → Snowdrift Hider<br>
+Eraser → Memory Wiper<br>
+Swooper → Sleigh Glider<br>
+Crewpostor → Naughty Elf<br>
+Trickster → Kringle’s Prankster<br>
+Parasite → Mistletoe Leech<br>
+Disperser → Snowflake Scatterer<br>
+Inhibitor → Frostfreeze<br>
+Saboteur → Santa’s Saboteur<br>
+Councillor → Holiday Advisor<br>
+Dazzler → Starlight Dancer<br>
+Devourer → Feast Fiend<br>
+Twister → Winter Whirlwind<br>
+Lurker → Snow Shadow<br>
+Ludopath → Toymaker's Curse<br>
+Chronomancer → Holiday Timekeeper<br>
+Pitfall → Gift Pit<br>
+EvilMini → Naughty Ornament<br>
+Luckey → Starcatcher<br>
+Mayor → Christmas Chancellor<br>
+Sheriff → Town Protector<br>
+Jailer → Festive Lockdown<br>
+Marshall → Sleigh Sergeant<br>
+Transporter → Sleigh Driver<br>
+TimeManager → Winter Clock<br>
+Bodyguard → Reindeer Protector<br>
+Grenadier → Ornament Exploder<br>
+Medic → Reindeer Medic<br>
+Judge → Yuletide Arbiter<br>
+Mortician → Festive Undertaker<br>
+Deputy → Santa’s Helper<br>
+Oracle → Frost Prophet<br>
+Spiritualist → Holiday Spiritkeeper<br>
+Admirer → Mistletoe Admirer<br>
+Witness → Sleigh Watcher<br>
+Swapper → Gift Swapper<br>
+ChiefOfPolice → Elf Patrol Chief<br>
+Jester → Holiday Fool<br>
+Revolutionist → Snow Rebel<br>
+PlagueBearer → Snowstorm Spreader<br>
+Pestilence → Christmas Chill<br>
+Glitch → The Grinch<br>
+Sidekick → Sally<br>
+Juggernaut → Frost Giant<br>
+Infectious → Caroling Contagion<br>
+Virus → Holiday Bug<br>
+Pursuer → Naughty Tracker<br>
+Phantom → Christmas Wraith<br>
+Pirate → Festive Plunderer<br>
+Agitater → Tinsel Tinkerer<br>
+Maverick → Independent Elf<br>
+CursedSoul → Frosted Spirit<br>
+Pickpocket → Stocking Thief<br>
+Vulture → Sleigh Raider<br>
+Medusa → Holiday Stunner<br>
+Baker → Gingerbread Chef<br>
+Famine → Christmas Scarcity<br>
+Spiritcaller → Yule Spirit Whisperer<br>
+Imitator → Festive Mimic<br>
+Doomsayer → Winter Prophet<br>
+Shroud → Snow Cover<br>
+Werewolf → Krampus<br>
+Shaman → Winter Witch Doctor<br>
+Seeker → Starfinder<br>
+SoulCollector → Winter Reaper<br>
+Poisoner → Candy Poisoner<br>
+HexMaster → Frost Hexer<br>
+Necromancer → Frozen Necromancer<br>
+Lovers → Under the Mistletoe<br>
+Madmate → Merry Mischief<br>
+Watcher → Snow Watcher<br>
+Torch → Christmas Candle<br>
+Seer → Star Seer<br>
+Oblivious → Snowblind<br>
+Bewilder → Holiday Confuser<br>
+Workhorse → Reindeer Runner<br>
+Fool → Winter Fool<br>
+Youtuber → North Star<br>
+Egoist → Selfish Elf<br>
+Trapper → Gift Trapper<br>
+Rascal → Mischievous Elf<br>
+Soulless → Snow Spiritless<br>
+Lazy → Hibernating Elf<br>
+Loyal → Santa’s Loyalist<br>
+Swift → Dasher<br>
+Mare → Rudolph<br>
+Burst → Frost Burst<br>
+Sleuth → Christmas Detective<br>
+Clumsy → Tinsel Tumbler<br>
+Mastermind → Yuletide Strategist<br>
+Blackmailer → Silent Night<br>
+President → North Pole Leader<br>
+Inspector → Holiday Investigator<br>
+Randomizer → Gift Shuffler<br>
+Enigma → Snowfall Mystery<br>
+Taskinator → Toy Taskmaster<br>
+Pixie → Winter Sprite<br>
+Flash → Blitzen<br>
+Benefactor → Gift Giver<br>
+Penguin → Snowy Waddler<br>
+PlagueDoctor → Carol Plaguebringer<br>
+Rainbow → Christmas Lights<br>
+Mundane → Plain Snowflake<br>
+Mercenary → Masked Caroler<br>
+KillingMachine → Toy Crusher<br>
+Arrogance → Overconfident Elf<br>
+Minion → Santa’s Little Helper<br>
+Tiebreaker → Holiday Mediator<br>
+Schizophrenic → Split Spirit<br>
+Statue → Snowman<br>
+PunchingBag → Stuffed Stocking<br>
+Ghastly → Haunting Caroler<br>
+Radar → Reindeer Tracker<br>
+Bloodthirst → Crimson Frostbite<br>
+DollMaster → Marionette<br>
+Apocalypse → Frozen Cataclysm<br>
+Death → Silent Reaper<br>
+War → Winter Warlord<br>
+YinYanger → Snowflake Balancer<br>
+Spurt → Iceburst Sprinter<br>
+Troller → Grinch’s Prankster<br>
+Rebirth → Festive Renewal<br>
+Evader → Sleigh Dodger<br>
+Sloth → Hibernating Spirit<br>
+Shocker → Holiday Spark
+</details>
+
+> Provided by: Sarhadactyl
+</details>
 </details>
 </details>

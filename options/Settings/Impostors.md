@@ -57,7 +57,7 @@ next: /Roles.html
 
 <tr>
 <td><font color=red><b>📊 Total:</b></font></td>
-<td align="center"><b>78</b></td>
+<td align="center"><b>79</b></td>
 </tr>
 
 </table>

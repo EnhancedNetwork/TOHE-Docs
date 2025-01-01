@@ -42,12 +42,12 @@ next: /Roles.html
 
 <tr>
 <td><a href="#killing" style="color:#b22222"><b>🪓 Killing</b></a></td>
-<td align="center">22</td>
+<td align="center">23</td>
 </tr>
 
 <tr>
 <td><font color=#7c8c8d><b>📊 Total:</b></font></td>
-<td align="center"><b>68</b></td>
+<td align="center"><b>70</b></td>
 </tr>
 
 </table>

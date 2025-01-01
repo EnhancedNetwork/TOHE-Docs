@@ -48,12 +48,12 @@ contributors: false
 <tr>
 <td><a href="/options/Settings/Impostors.html" style="color:red"><b>🦹‍♂️ Impostors</b></a></td>
 <td>Play together and win via killing/voting out all Crewmates/Neutrals/Coven</td>
-<td align="center">78</td>
+<td align="center">79</td>
 </tr>
 <tr>
 <td><a href="/options/Settings/Neutrals.html" style="color:#7c8c8d"><b>🕶️ Neutrals</b></a></td>
 <td>Play alone and win via their own win conditions</td>
-<td align="center">68</td>
+<td align="center">70</td>
 </tr>
 <tr>
 <td><a href="/options/Settings/Coven.html" style="color:#ac42f2"><b>🧙‍♀️ Coven</b></a></td>
@@ -62,7 +62,7 @@ contributors: false
 </tr>
 <tr>
 <td colspan=2>📊 Total:</td>
-<td align="center"><b>308</b></td>
+<td align="center"><b>312</b></td>
 </tr>
 </table>
 <br>

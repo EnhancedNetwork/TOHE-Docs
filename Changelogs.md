@@ -28,17 +28,15 @@ There are no notes for this yet but there's no point in updating this with alpha
 
 * By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
-\+ <font color=green><b>NEW</b></font>: <b>Heavy</b> Resources Rework. (Sorted into various categories + Includes User-Submitted Presets + Translations.)<br>
-\- <font color=red><b>REMOVED</b></font>: Presets.html (Refer Above)<br>
-\- <font color=red><b>REMOVED</b></font>: Translations.html (Refer Above)<br>
-\+ <font color=green><b>NEW</b></font>: Quizmaster Questions + Answers Displayed on Resources Page (Answers will be hidden by default)<br>
-\+ <font color=green><b>NEW</b></font>: <b>Heavy</b> FAQ Rework. (Sorted into various categories + Includes Installation Guides.)<br>
-\- <font color=red><b>REMOVED</b></font>: Install.html (Refer Above)<br>
-\+ <font color=green><b>NEW</b></font>: Updated Tabs, Sidebars, & Various Links to reflect the above changes.<br>
-\+ <font color=green><b>NEW</b></font>: Updated Tags.html to include Release Tags.<br>
-\+ <font color=green><b>NEW</b></font>: Added 7 Lore Batches.<br>
-\+ <font color=green><b>NEW</b></font>: Prepared for Coven Faction. (Sidebars: Pyro, everything else: Marg)<br>
-= <font color=#ece218><b>NOTICE</b></font>: To Do: Reformat Death Reasons list (To be Cleaner/Compact) [Resources]<br>
-= <font color=#ece218><b>NOTICE</b></font>: To Do: Recount all Roles/Addons (Sub-Faction Totals, Faction Totals, & Full Total) [Roles]<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: **Heavy** FAQ Rework. (Sorted into various categories + Includes Installation Guides.)<br>
+\- <font color=red><b>REMOVED</b></font>: _Remove Install.md (Refer Above)_<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: **Heavy** Resources Rework. (Sorted into various categories + Includes User-Submitted Presets + Translations.)<br>
+\- <font color=red><b>REMOVED</b></font>: _Remove Presets.md (Refer Above)_<br>
+\- <font color=red><b>REMOVED</b></font>: _Remove Translations.md (Refer Above)_<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Reformat Death Reasons List on Resources Page (To be Cleaner/Compact)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: **Quizmaster Questions + Answers** Displayed on Resources Page (Answers will be hidden by default)<br>
+= <font color=#ece218><b>NOTICE</b></font>: Prepared for Coven Faction.<br>
+= <font color=#ece218><b>NOTICE</b></font>: Add Unofficial Lore Theory Batches 1 through 7.<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Recount all Roles/Addons (Sub-Faction Totals, Faction Totals, & Full Total)<br>
 </details>
 </font>

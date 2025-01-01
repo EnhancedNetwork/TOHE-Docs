@@ -17,7 +17,7 @@ To access Beta Builds, visit TEN's [Discord Server](https://discord.gg/ten) and 
 <b><font color=#d395b4>Previous Release</font></b>
 
 ---
-<font size=4em>
+<font size=3em>
 <details>
 <summary><b><font color=#cf4e8f>v2.1.0 Beta 3</font></b></summary>
 

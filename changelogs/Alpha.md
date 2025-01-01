@@ -18,7 +18,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <b><font color=#a175ff>Coven Releases</font></b>
 
 ---
-<font size=4em>
+<font size=3em>
 <details>
 <summary><b><font color=#cf4e8f>v2.2.0 Alpha 10</font></b></summary>
 

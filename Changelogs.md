@@ -18,7 +18,7 @@ contributors: false
 <details>
 <summary><b><font color=#a65a80>TOHE v2.2.0 Changelogs</font></b></summary>
 
-<summary><b><font color=#cf4e8f>v2.2.0 Stable Release</font></b></summary>
+<b><font color=#cf4e8f>v2.2.0 Stable Release</font></b>
 
 There are no notes for this yet but there's no point in updating this with alpha builds when it wont get pushed live until a main build
 </details>
@@ -37,5 +37,8 @@ There are no notes for this yet but there's no point in updating this with alpha
 \+ <font color=green><b>NEW</b></font>: Updated Tags.html to include Release Tags.<br>
 \+ <font color=green><b>NEW</b></font>: Added 7 Lore Batches.<br>
 \+ <font color=green><b>NEW</b></font>: Prepared for Coven Faction. (Sidebars: Pyro, everything else: Marg)<br>
+= <font color=#ece218><b>NOTICE</b></font>: To Do: Quizmaster Questions + Answers (Will be hidden by default)<br>
+= <font color=#ece218><b>NOTICE</b></font>: To Do: Reformat Death Reasons list (More compact/cleaner)<br>
+= <font color=#ece218><b>NOTICE</b></font>: To Do: Recount all Roles/Addons (Category Totals, Faction Totals, & Full Total)<br>
 </details>
 </font>

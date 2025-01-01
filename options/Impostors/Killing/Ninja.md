@@ -7,7 +7,7 @@ next: QuickShooter
 
 # <font color="red">🥷 <b>Ninja</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
-<font size=4em>Formerly known as Assassin</font>
+<font size=3em>Formerly known as Assassin</font>
 
 The Ninja can use the kill button to mark a target, and if the mark is successful, a shield-animation will be displayed as a reminder. The Ninja can then use Shapeshift to teleport to the marked person and kill the marked person. Ninja cannot kill regularly, but may be able to kill regularly after assassination according to the host's settings.
 * Max

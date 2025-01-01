@@ -14,7 +14,7 @@ sidebar:
 These are Tags to help you differentiate between Bugs & Changes, Additions & Reworks, Removals & Reverts.
 
 ---
-<font size=4em>
+<font size=3em>
 <details>
 <summary><b><font color=#cf4e8f>Recently Added Tags</font></b></summary>
 

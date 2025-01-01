@@ -15,12 +15,12 @@ contributors: false
 
 # Roles
 
-<font size=4em><b>Latest Versions:</b></font><br>
+<font size=3em><b>Latest Versions:</b></font><br>
 
 <table>
 <tr>
 <td><a href="/changelogs/Alpha.html" style="color:#997d6d"><b>Alpha</b></a></td>
-<td>v2.2.0 Alpha 8.3</td>
+<td>v2.2.0 Alpha 10</td>
 </tr>
 <tr>
 <td><a href="/changelogs/Beta.html" style="color:#6d7299"><b>Beta</b></a></td>
@@ -32,7 +32,7 @@ contributors: false
 </tr>
 </table>
 
-<font size=4em><b>Role Types + Count</b></font><br>
+<font size=3em><b>Role Types + Count</b></font><br>
 
 <table>
 <tr>

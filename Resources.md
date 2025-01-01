@@ -33,7 +33,6 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 </tr>
 </table>
 </details>
-<br>
 <details>
 <summary><b><font color=#8a5353>Everyone - Mod Only</font></b></summary>
 <table>
@@ -92,7 +91,6 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 </table>
 </details>
 </details>
-<br>
 <details>
 <summary><b><font color=#996d6d>Host Only</font></b></summary>
 <br>
@@ -149,7 +147,6 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 </tr>
 </table>
 </details>
-<br>
 <details>
 <summary><b><font color=#8a5353>Host Only - Debug</font></b></summary>
 <table>
@@ -215,7 +212,6 @@ Below is a list of Hot-Keys that you can use to make your experience better whil
 
 > From: The Enhanced Network + Compiling: NotPyro404
 </details>
-<br>
 <details>
 <summary><b><font color=gray>Chat Commands</font></b></summary>
 
@@ -411,7 +407,6 @@ Commands that are italicized are considered "essential" and are recommended for 
 </tr>
 </table>
 </details>
-<br>
 <details>
 <summary><b><font color=#8a5353>Everyone - Minigames</font></b></summary>
 <table>
@@ -441,7 +436,6 @@ Commands that are italicized are considered "essential" and are recommended for 
 </tr>
 </table>
 </details>
-<br>
 <details>
 <summary><b><font color=#8a5353>Everyone - Mod Only</font></b></summary>
 <table>
@@ -463,7 +457,6 @@ Commands that are italicized are considered "essential" and are recommended for 
 </tr>
 </table>
 </details>
-<br>
 <details>
 <summary><b><font color=#8a5353>Everyone - Role Specific</font></b></summary>
 <table>
@@ -526,7 +519,6 @@ Commands that are italicized are considered "essential" and are recommended for 
 </table>
 </details>
 </details>
-<br>
 <details>
 <summary><b><font color=#996d6d>VIP Only</font></b></summary>
 <table>
@@ -564,7 +556,6 @@ Commands that are italicized are considered "essential" and are recommended for 
 </tr>
 </table>
 </details>
-<br>
 <details>
 <summary><b><font color=#996d6d>Moderator Only</font></b></summary>
 <table>
@@ -614,7 +605,6 @@ Commands that are italicized are considered "essential" and are recommended for 
 </tr>
 </table>
 </details>
-<br>
 <details>
 <summary><b><font color=#996d6d>Host Only</font></b></summary>
 <table>
@@ -862,7 +852,12 @@ Commands that are italicized are considered "essential" and are recommended for 
 
 > From + Compiling: NotPyro404
 </details>
-<br>
+<details>
+<summary><b><font color=gray>Quizmaster Questions</font></b></summary>
+
+Undone
+
+</details>
 <details>
 <summary><b><font color=gray>Death Reasons</font></b></summary>
 
@@ -877,7 +872,7 @@ Any Role that can Kill (Is applied to any role that does not have a special deat
 
 - Ejected<br>
 When a player is voted (Is applied when a player is voted out during a Meeting)<br>
-Tricky and Susceptible will never give this death reason.<br><br>
+Tricky, Susceptible, & Illusionist will never give this death reason.<br><br>
 
 - Suicide<br>
 Unlucky (Happens to the player by chance)<br>
@@ -887,11 +882,12 @@ Deathpact (If the marked players do not meet in time)<br>
 Mastermind (If the manipulated target does not kill by the timer, or a meeting is called while they are manipulated)<br>
 Mercenary (If Mercenary does not kill by the suicide timer)<br>
 Pixie (Can only happen if Pixie suicides if target is not voted out setting is on)<br>
-Terrorist (Can only happen if Can Win by Suicide setting is on)<br><br>
+Terrorist (Can only happen if Can Win by Suicide setting is on)<br>
+Sacrifist (Happens if they sacrifice themselves while having the Necronomicon)<br><br>
 
 - Disconnected<br>
 Player leaves the Game (If no cause of death was established, does not always display if the player disconnected)<br>
-Tricky and Susceptible will never give this death reason.<br><br>
+Tricky, Susceptible, & Illusionist will never give this death reason.<br><br>
 
 - Fall<br>
 Ladders on Airship/Fungle (Fall From Ladders setting)<br><br>
@@ -902,12 +898,12 @@ Nice Guesser (If a player was guessed or if a player misguessed)<br>
 Doomsayer (If a player was guessed or if a player misguessed)<br>
 Guesser (If a player was guessed or if a player misguessed)<br>
 Guesser Mode (If a player was guessed or if a player misguessed)<br>
-Tricky and Susceptible will never give this death reason.<br><br>
+Tricky, Susceptible, & Illusionist will never give this death reason.<br><br>
 
 - Other<br>
 Shouldn’t happen (404: DeathReasonNotFound)<br>
 Game Master (Only exception, the death reason of Game Master will be Other)<br>
-Tricky and Susceptible will never give this death reason.<br><br>
+Tricky, Susceptible, & Illusionist will never give this death reason.<br><br>
 
 - Spelled<br>
 Witch (Given to a player marked by the Witch if the Witch isn't voted out)<br><br>
@@ -937,7 +933,8 @@ Bastion (Given to players if they use a vent that the Bastion did)<br>
 Agitator (Given to players if they hold the Agitator's bomb (hot potato) and don't pass it on)<br>
 Taskinator (Given to player if they do a task that the Taskinator did)
 Terrorist (Given to all players when Terrorist meets their win-condition)<br>
-Burst (Given to Killer if they killed a player with Burst & failed to stay in a vent when the detonation goes off)<br><br>
+Burst (Given to Killer if they killed a player with Burst & failed to stay in a vent when the detonation goes off)<br>
+Conjurer (Given to idk)<br><br>
 
 - Misfire<br>
 Deceiver (Whoever Deceiver’s ability is used on)<br>
@@ -952,7 +949,7 @@ Vengeful Romantic (If killed someone other than partner’s killer)<br><br>
 Arsonist (Given to players that have been doused when the Arsonist vented & killed)<br><br>
 
 - Sniped<br>
-Sniper (Given to players that have been killed by the Sniper)<br><br>
+Sniper (Given to players that have been killed by the Sniper) (UNUSED)<br><br>
 
 - Revenge<br>
 Avenger (Happens to a random player when player with Avenger is killed)<br>
@@ -962,7 +959,8 @@ Butcher (If Butcher kills Avenger then EVERYONE gets this)<br>
 Nemesis (Whoever Nemesis kills using their '/rv' command)<br><br>
 
 - Execution<br>
-Jailer (Given to the players that the Jailer has jailed & killed)<br><br>
+Jailer (Given to the players that the Jailer has jailed & killed)<br>
+Host (Given to player that the Host decides to execute)<br><br>
 
 - Eaten<br>
 Pelican (Given to the players that the Pelican has used their kill button on)<br><br>
@@ -977,7 +975,7 @@ Lightning (Given if a player touches another player after becoming Quantum Ghost
 
 - Overtired<br>
 Workholic (Given to the Workholic if they complete their tasks)<br>
-Tricky and Susceptible will never give this death reason.<br><br>
+Tricky, Susceptible, & Illusionist will never give this death reason.<br><br>
 
 - Ashamed<br>
 Workaholic (Given to everyone else alive if Workaholic completes their tasks)<br><br>
@@ -1045,11 +1043,23 @@ Famine (Given to anyone without bread after Famine transforms and is not voted o
 
 - Armageddon<br>
 Death (Given to everyone alive if Death is not voted out when they transform)<br>
-Tricky and Susceptible will never give this death reason.<br><br>
+Tricky, Susceptible, & Illusionist will never give this death reason.<br><br>
+
+- Sacrificed<br>
+Altruist (Happens to the Altruist upon reviving someone)<br><br>
+
+- Electrocuted<br>
+Shocker (Given to the players that we're in the room Shocker marked for Electrocution) <br><br>
+
+- Scavenged<br>
+Scavenger (Given to the players that the Pelican has used their kill button on)<br><br>
+
+- Blasted Off<br>
+Moon Dancer (Set chance to do this when Moon Dancer kills with Necronomicon)<br><br>
 
 - Alive<br>
 Bug (This Death Reason occurred awhile ago due to bugs, but has since been patched out)<br>
-Tricky and Susceptible will never give this death reason, but that should be obvious.<br><br>
+Tricky, Susceptible, & Illusionist will never give this death reason, but that should be obvious.<br><br>
 
 > From: Marg + Compiling: NotPyro404
 </details>
@@ -1073,7 +1083,6 @@ There are a few files:
 
 > From: The Enhanced Network + Compiling: NotPyro404
 </details>
-<br>
 <details>
 <summary><b><font color=gray>Templates Info</font></b></summary>
 
@@ -1109,7 +1118,6 @@ If you create copies of the template name on newlines, it will send them in sepe
 
 > From + Compiling: NotPyro404 + Images: Drakos
 </details>
-<br>
 <details>
 <summary><b><font color=gray>Template Editor</font></b></summary>
 
@@ -1120,7 +1128,6 @@ The Template Editor is only 1 of the many Utilities (Also by Drakos) which are o
 
 > From: Drakos
 </details>
-<br>
 <details>
 <summary><b><font color=gray>template.dat Info</font></b></summary>
 
@@ -1140,7 +1147,6 @@ For some member submitted translations (not yet supported by Town of Host: Enhan
 
 > From + Compiling: NotPyro404
 </details>
-<br>
 <details>
 <summary><b><font color=gray>Valid Variables</font></b></summary>
 
@@ -1167,7 +1173,6 @@ For some member submitted translations (not yet supported by Town of Host: Enhan
 
 > From: The Enhanced Network + Compiling: NotPyro404
 </details>
-<br>
 <details>
 <summary><b><font color=gray>Text Formatting</font></b></summary>
 
@@ -1184,7 +1189,6 @@ For some member submitted translations (not yet supported by Town of Host: Enhan
 
 > From: The Enhanced Network + Compiling: NotPyro404
 </details>
-<br>
 <details>
 <summary><b><font color=gray>Supported Rich Text Tags</font></b></summary>
 
@@ -1193,7 +1197,6 @@ Here's a full list of Rich Text Tags that you can use for formatting. Some may n
 
 > From: Unity Technologies
 </details>
-<br>
 <details>
 <summary><b><font color=gray>Usable Fonts/Symbols</font></b></summary>
 
@@ -1202,7 +1205,6 @@ Here's a Doc covering Fonts & Symbols that you can use while creating Templates!
 
 > From: Drakos
 </details>
-<br>
 <details>
 <summary><b><font color=gray>Original Role Colors (Hex Codes)</font></b></summary>
 
@@ -1237,7 +1239,6 @@ Below is a list of all languages supported by Vanilla Among Us.<br><br>
 
 > From: Innersloth + Compiling: NotPyro404
 </details>
-<br>
 <details>
 <summary><b><font color=gray>Among Us Color Options</font></b></summary>
 
@@ -1345,7 +1346,6 @@ You can submit your own preset to be featured by joining the [Discord Server](ht
 
 ---
 
-<font size=4em>
 <details>
 <summary><b><font color=#63806e>Starter Presets</font></b></summary>
 
@@ -1428,7 +1428,6 @@ Version: 2.1.0 Alpha 3
 </details>
 </details>
 </details>
-<br>
 <details>
 <summary><b><font color=gray>Custom Translations</font></b></summary>
 
@@ -1444,16 +1443,6 @@ Below are some member submitted translations:
 
 ---
 
-<font size=4em>
-<details>
-<summary><b><font color=gray>Not Available</font></b></summary>
-
-<b>This is a Work in Progress!</b><br>
-You cannot currently download custom translations for your build of Town of Host: Enhanced as there are none currently available. This page will be updated once some Custom Translations are submitted.<br>
-SUBMIT YOUR OWN in the #website-feedback channel using the `Custom Translation` Tag!
-
-> Submitted by: Thou Mother
-</details>
 <details>
 <summary><b><font color=gray>TOHE x MAUL Christmas Event 2024</font></b></summary>
 

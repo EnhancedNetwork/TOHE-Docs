@@ -35,7 +35,7 @@ There are no notes for this yet but there's no point in updating this with alpha
 \- <font color=red><b>REMOVED</b></font>: Install.html (Refer Above)<br>
 \+ <font color=green><b>NEW</b></font>: Updated Tabs, Sidebars, & Various Links to reflect the above changes.<br>
 \+ <font color=green><b>NEW</b></font>: Updated Tags.html to include Release Tags.<br>
-\+ <font color=green><b>NEW</b></font>: Added 6 Lore Batches.<br>
+\+ <font color=green><b>NEW</b></font>: Added 7 Lore Batches.<br>
 \+ <font color=green><b>NEW</b></font>: Prepared for Coven Faction. (Sidebars: Pyro, everything else: Marg)<br>
 </details>
 </font>

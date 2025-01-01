@@ -30,6 +30,57 @@ If the target was a neutral killer of a select few, you'll become the role they 
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+ - This. Is. Too. Tiring.
+Prologue 
+The Amnesiac was a normal Neutral killer... 
+If you can call that normal :giggle: 
+One day though.. He saw a bean and tried to kill..
+Only devastation followed..
+
+Chapter 1 A Beautiful Day! 🌞
+The Sun was shining, Birds singing and the Amnesiac humming a tune and swinging the knife around..
+It was all wonderful until...
+
+Chapter 2 Target.. Spotted
+The amnesiac saw a lonely bean running around desperately, He was so lost and afraid...
+Interesting thought the amnesiac as he sneaked behind him and thought
+"Lets end his misery"
+
+Chapter 3 Last Words? No Last Essays!
+The amnesiac while stabbing the target asked for his last words and what he got were?
+Paragraphs...
+He didn't stop Yapping and Yapping He vented out EVERYTHING to him..
+And when He finally stopped talking and died?
+The Amnesiac...
+
+Chapter 4 I forgot?
+Forgot what he was even doing... the Knife fell out of his hands as he stumbled around trying to remember something... And he couldn't He tried and tried.. But couldn't
+
+Chapter 5 What to do
+Now the amnesiac was no "Particular" Threat.. He couldn't even kill! So only way for him to have a chance at winning was to change alliances and remember...
+
+Now there were 2 probabilities how he could remember
+Kill Button
+Report button
+
+Note for Viewer sEttIngS VaRY fOr EvERy HOsT
+
+Chapter 6  I remember!
+Now looking through a corpse the Amnesiac pulled out the heart and listened carefully and pulled out neurons from the brain and surgically Put them into his own brain
+
+Now he remembered that he was a crewmate and changed alliances...
+
+iF tHe DeAd OnE wAs Of OtHeR aLlIaNcEs ThErE wOuLd Be VaRiEd ReSuLtS 🤓
+
+And finally...
+He won with the crewmates...
+
+What a day!!
+
+Wait... "AAH" The amnesiac screamed and started yapping again to his killer...
+This went on and on.. Making it the Oiiai Addon..
+
+The... End?! I'm not sure
+
+> Submitted by: champofchamps78
 </details>

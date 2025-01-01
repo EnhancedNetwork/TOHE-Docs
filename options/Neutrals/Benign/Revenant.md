@@ -21,5 +21,5 @@ Note that Revenant only works when being directly killed.
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
 Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+> Submitted by: Nada
 </details>

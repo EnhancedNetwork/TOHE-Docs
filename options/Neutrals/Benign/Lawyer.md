@@ -55,6 +55,32 @@ If they lose, you lose.
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+ - OBJECTION!
+The lawyer was always arguing with authority not giving a damn what they thought, and when he was stopped he would just start throwing around big words which confused the officer and ultimately the officer let him free..
+The lawyer found  a great way to earn money...
+He was the first Lawyer... Let us call him... A. Ham
+Now A. Ham had a competetor A. Burr who was an Executioner who needed to earn money by getting people Voted by the jury
+
+Now this was an ongoing battle which has not ended even YET...
+Lawyer VS Executioner...
+
+But one thing for certain if the target dies due to "Circumstances"
+The lawyer's main goal is to be voted out and jester around the crewmates.. Stealing the win
+
+Other wise... he just needed an Opportunity to win with the crewmates.. this was different for other lawyers...
+
+But A. Ham? He was an Opportunist...
+
+More to come :P
+THE END!
+Oppo.. My love, take your time
+I'll see you on the other side
+Raise a glass to freedom.
+
+And... He was shot between his ribs...
+Opportunist by his side...
+
+Will the tell your story?
+
+> Submitted by: champofchamps78
 </details>

@@ -39,6 +39,82 @@ Note : If your role changes your win condition will be changed accordingly
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+ - The Duel
+"Theodosia writes me a letter ev'ry day.
+Theodosia, she's mine.
+Love doesn't discriminate
+Between the sinners
+And the saints
+It takes and it takes and it takes
+And we keep loving anyway."
+
+The Romantic loved Theodosia, One of the people who understood him.
+He talked to her daily and they worked as a team never leaving each other alone...
+
+One day they were separated during a critical sabotage
+And... The unimaginable happened...
+
+There are moments that the words don't reach
+There is suffering too terrible to name
+The moments when you're in so deep
+It feels easier to just swim down
+
+As the Romantic sat down... Thinking what to do...
+He thought about it for a while and saw the Maverick...
+He knew the Maverick would do anything to survive and would kill anyone, Event the most harmless person...
+
+Time to take revenge...
+
+Dear Mister Maverick
+I hope this finds you in due health
+And in due favour..
+
+You see... That was my friend that you decided to...
+
+[Maverick]
+Ki.....
+
+Careful how you proceed, good man
+Intemperate indeed, good man
+Answer for the accusations I lay at your feet
+Or prepare to bleed, good man
+Then stand Mister
+Weehawken, dawn
+Guns, drawn
+
+And so they met...
+
+And they fought...
+
+The Lover was a neutral..
+The Taskinator..
+So..
+RUTHLESSNESS IS MERCY UPON OURSELVES..
+
+And he shot the bullet
+
+And The Maverick.. aims his pistol at the sky!
+Wait!
+
+I strike him right between his ribs
+I walk towards him, but I am ushered away
+
+I hear wailing in the streets
+Death doesn't discriminate between the sinners and the saints
+It takes, and it takes, and it takes
+
+"I survived, but I paid for it
+Now I'm the villain in your history
+I was too young and blind to see
+I should've known, I should've known
+The world was wide enough for both Maverick and me"
+
+As he sat down....
+Regretting killing the Maverick....
+
+And he sobbed and cried...
+
+The end 
+
+> Submitted by: champofchamps78
 </details>

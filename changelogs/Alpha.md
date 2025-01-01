@@ -22,11 +22,6 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <details>
 <summary><b><font color=#cf4e8f>v2.2.0 Alpha 10</font></b></summary>
 
-= <font color=#ece218><b>NOTICE</b></font>: Alpha 10 does not exist, this is primarily for the Coven Alpha.
-
-<details>
-<summary><b><font color=#a175ff>Coven Alpha 10</font></b></summary>
-
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Admired interactions for some roles (for example admired time thief will now add meeting time, gangster and godfather are recruiting correctly (Hopefully, I didnt check the code carefully)) (by [ImpyIsLazy](https://github.com/impostor4291))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Double Agent now can kill when its the only imp alive (by [ImpyIsLazy](https://github.com/impostor4291))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Baker's role block ability is reworked to reset kill cooldown [Marg](https://github.com/MargaretTheFool) (I doubt whether it works)<br>
@@ -34,7 +29,14 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Recoded Seeker (Fix seeker cause players unable to move in next game)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Block-Move-In-Vent players enter vent on meeting begin will have nearby vents blocked forever after meeting is finished<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix modded players can't see psychic red names<br>
-\+ <font color=green><b>NEW</b></font>: All the changes from Alpha 9
+
+<details>
+<summary><b><font color=#a175ff>Coven Alpha 10</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Added a New Level of Quizmaster questions (Level 5) (These are questions related to the community)<br>
+\+ <font color=green><b>NEW</b></font>: Ritualist now converts to its current team (Like Admirer and Gangster)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Necromancer no longer dies if target dies during revenge<br>
+\+ <font color=green><b>NEW</b></font>: Updated to Alpha 10<br>
 
 </details>
 </details>

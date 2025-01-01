@@ -18,7 +18,7 @@ These are Tags to help you differentiate between Bugs & Changes, Additions & Rew
 <details>
 <summary><b><font color=#cf4e8f>Recently Added Tags</font></b></summary>
 
-\+ None, read All Site Tags for Tag info.
+= <font color=#ece218><b>NOTICE</b></font>: None, read All Site Tags for Tag info.
 </details>
 <details>
 <summary><b><font color=#d395b4>All Site Tags</font></b></summary>

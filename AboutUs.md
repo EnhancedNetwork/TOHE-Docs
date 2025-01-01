@@ -58,7 +58,7 @@ I'm just a girl who loves to play video games and is obsessed with everything <f
 
 ---
 
-[**Jackler**](https://linktr.ee/Jackler): <font color=#cf7821>Head of Tech Ops</font>
+[**Jackler**](https://linktr.ee/Jackler): <font color=#ff8000>Head of Tech Ops</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -67,9 +67,7 @@ Helping out with Tickets, bot related things... basically anything to do with th
 
 ---
 
-## Staff Team
-
-[**Matt**](#): Legal Advisor
+[**Matt**](#): <font color=#0000ff>Head of Legal</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -77,6 +75,8 @@ I'm 25 years old from the United States. I am a bar certified attorney in contra
 </details>
 
 ---
+
+## Staff Team
 
 [**FieryFlower**](#): Sr. Moderator
 <details>
@@ -494,7 +494,7 @@ The original creator of TOH: Edited, now being worked on again as TONX/Town of N
 
 ---
 
-# Credited Mods 
+## Credited Mods 
 
 [**Town Of Host Edited: Restored**](https://github.com/Loonie-Toons/Re-Edited) (By: TheSkullCreeper)
 <details>

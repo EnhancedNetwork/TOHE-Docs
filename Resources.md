@@ -854,9 +854,255 @@ Commands that are italicized are considered "essential" and are recommended for 
 </details>
 <details>
 <summary><b><font color=gray>Quizmaster Questions</font></b></summary>
+<details>
+<summary><b><font color=#996d6d>Stage 1 Questions</font></b></summary>
+<details>
+<summary><b><font color=#8a5353>"What was the sabotage was called last?"</font></b></summary>
 
-Undone
+This question is situational, meaning it doesn't always have the same answer, and will vary game to game.
 
+</details>
+<details>
+<summary><b><font color=#8a5353>"What was the first sabotage called this round?"</font></b></summary>
+
+This question is situational, meaning it doesn't always have the same answer, and will vary game to game.
+
+</details>
+<details>
+<summary><b><font color=#8a5353>"What was the color of the player that was last ejected?"</font></b></summary>
+
+This question is situational, meaning it doesn't always have the same answer, and will vary game to game.
+
+</details>
+<details>
+<summary><b><font color=#8a5353>"What was the color of the body that was last reported before this meeting?"</font></b></summary>
+
+This question is situational, meaning it doesn't always have the same answer, and will vary game to game.
+
+</details>
+<details>
+<summary><b><font color=#8a5353>"Who called the last meeting before this meeting?"</font></b></summary>
+
+This question is situational, meaning it doesn't always have the same answer, and will vary game to game.
+
+</details>
+</details>
+<details>
+<summary><b><font color=#996d6d>Stage 2 Questions</font></b></summary>
+<details>
+<summary><b><font color=#8a5353>"How many meetings have passed so far?"</font></b></summary>
+
+This question is situational, meaning it doesn't always have the same answer, and will vary game to game.
+
+</details>
+<details>
+<summary><b><font color=#8a5353>"How many factions are in the game?"</font></b></summary>
+
+This question is fixed, meaning it always has the same answer and remains consistent across all games.<br>
+Note: Don't click the dropdown menu if you want to be surprised.
+<details>
+<summary><b><font color=#784747>Answer (SPOILERS)</font></b></summary>
+
+The total of Factions in TOHE is <b>Four</b>. Impostors, Crewmates, Neutrals, & Coven.<br>
+All Possible Options: "One", "Two", "Three", "<b>Four</b>", & "Five".
+
+</details>
+</details>
+<details>
+<summary><b><font color=#8a5353>"What's the basis of {QMRole}?"</font></b></summary>
+
+This question is situational, meaning it doesn't always have the same answer, and will vary game to game.
+
+</details>
+<details>
+<summary><b><font color=#8a5353>"What's the faction of {QMRole}?"</font></b></summary>
+
+This question is situational, meaning it doesn't always have the same answer, and will vary game to game.
+
+</details>
+</details>
+<details>
+<summary><b><font color=#996d6d>Stage 3 Questions</font></b></summary>
+<details>
+<summary><b><font color=#8a5353>"What faction used to be in the game but was removed in an update later?"</font></b></summary>
+
+This question is fixed, meaning it always has the same answer and remains consistent across all games.<br>
+Note: Don't click the dropdown menu if you want to be surprised.
+<details>
+<summary><b><font color=#784747>Answer (SPOILERS)</font></b></summary>
+
+The Faction that was added and removed one update later was <b>Coven</b>. (Re-added in v2.2.0)<br>
+All Possible Options: "Sabotuer", "Sorcerers", "<b>Coven</b>", "Killer", & "None".
+
+</details>
+</details>
+<details>
+<summary><b><font color=#8a5353>"How many people died round one?"</font></b></summary>
+
+This question is situational, meaning it doesn't always have the same answer, and will vary game to game.
+
+</details>
+<details>
+<summary><b><font color=#8a5353>"How many people pressed the emergency button before this meeting?"</font></b></summary>
+
+This question is situational, meaning it doesn't always have the same answer, and will vary game to game.
+
+</details>
+<details>
+<summary><b><font color=#8a5353>"What did the E in TOHE originally stand for?"</font></b></summary>
+
+This question is fixed, meaning it always has the same answer and remains consistent across all games.<br>
+Note: Don't click the dropdown menu if you want to be surprised.
+<details>
+<summary><b><font color=#784747>Answer (SPOILERS)</font></b></summary>
+
+The E in TOHE originally stood for <b>Edited</b>, rather than Enhanced.<br>
+All Possible Options: "Edition", "Experimental", "Enhanced", & "<b>Edited</b>".
+
+</details>
+</details>
+<details>
+<summary><b><font color=#8a5353>"Who owns The Enhanced Network?"</font></b></summary>
+
+This question is fixed, meaning it always has the same answer and remains consistent across all games.<br>
+Note: Don't click the dropdown menu if you want to be surprised.
+<details>
+<summary><b><font color=#784747>Answer (SPOILERS)</font></b></summary>
+
+The Owner of The Enhanced Network (TEN) + TOHE is <b>Moe</b>.
+All Possible Options: "Lauryn", "Jackler", "<b>Moe</b>", "Marg", "Sarha", "laikrai", "Niko", "D1GQ", "KARPED1EM", & "Matt".
+
+</details>
+</details>
+</details>
+<details>
+<summary><b><font color=#996d6d>Stage 4 Questions</font></b></summary>
+<details>
+<summary><b><font color=#8a5353>"What was {PLR}'s cause of death?"</font></b></summary>
+
+This question is situational, meaning it doesn't always have the same answer, and will vary game to game.
+
+</details>
+<details>
+<summary><b><font color=#8a5353>"How did {PLR} die?"</font></b></summary>
+
+This question is situational, meaning it doesn't always have the same answer, and will vary game to game.
+
+</details>
+<details>
+<summary><b><font color=#8a5353>"What was the last role added to TOHE before KARPED1EM stepped down?"</font></b></summary>
+
+This question is fixed, meaning it always has the same answer and remains consistent across all games.<br>
+Note: Don't click the dropdown menu if you want to be surprised.
+<details>
+<summary><b><font color=#784747>Answer (SPOILERS)</font></b></summary>
+
+The Last Role added to TOHE by KARPED1EM was: <b>Pacifist</b>.<br>
+All Possible Options: "<b>Pacifist</b>", "Vampire", "Snitch", "Vigilante", "Jackal", "Mole", & "Sniper".
+
+</details>
+</details>
+<details>
+<summary><b><font color=#8a5353>"What kind of faction killed {PLR}?"</font></b></summary>
+
+This question is situational, meaning it doesn't always have the same answer, and will vary game to game.
+
+</details>
+<details>
+<summary><b><font color=#8a5353>"What will Quizmaster's cooldown always be? (excluding first kill override and changes from other roles/addons)"</font></b></summary>
+
+This question is fixed, meaning it always has the same answer and remains consistent across all games.<br>
+Note: Don't click the dropdown menu if you want to be surprised.
+<details>
+<summary><b><font color=#784747>Answer (SPOILERS)</font></b></summary>
+
+The Quizmaster's cooldown will always be <b>15</b>.<br>
+All Possible Options: "<b>15</b>", "30", "0", & "999".
+
+</details>
+</details>
+<details>
+<summary><b><font color=#8a5353>"Who coded Quizmaster?"</font></b></summary>
+
+This question is fixed, meaning it always has the same answer and remains consistent across all games.<br>
+Note: Don't click the dropdown menu if you want to be surprised.
+<details>
+<summary><b><font color=#784747>Answer (SPOILERS)</font></b></summary>
+
+Quizmaster was coded by <b>Furo</b>.<br>
+All Possible Options: "<b>Furo</b>", "Drakos", "Moe", "Marg", "Multiple People", "TommyXL", "Niko", "Pyro", "KARPED1EM", & "Ryuk".
+
+</details>
+</details>
+</details>
+<details>
+<summary><b><font color=#996d6d>Stage 5 Questions</font></b></summary>
+<details>
+<summary><b><font color=#8a5353>"Who are The Enhanced Network's partners?"</font></b></summary>
+
+This question is fixed, meaning it always has the same answer and remains consistent across all games.<br>
+Note: Don't click the dropdown menu if you want to be surprised.
+<details>
+<summary><b><font color=#784747>Answer (SPOILERS)</font></b></summary>
+
+The Enhanced Network's Partners are <b>Modded Among Us Lobbies & Purple Among Us</b>.<br>
+All Possible Options: "Innersloth", "Modded Among Us Lobbies", "Purple Among Us", "<b>Modded Among Us Lobbies & Purple Among Us</b>", "Steam", "Twitter", "Town Of Us: Reactivated", "Moe Corporation", & "Digital Bandidos".
+
+</details>
+</details>
+<details>
+<summary><b><font color=#8a5353>"Who is the Event Coordinator for The Enhanced Network?"</font></b></summary>
+
+This question is fixed, meaning it always has the same answer and remains consistent across all games.<br>
+Note: Don't click the dropdown menu if you want to be surprised.
+<details>
+<summary><b><font color=#784747>Answer (SPOILERS)</font></b></summary>
+
+The Event Coordinator for The Enhanced Network is <b>Sarha</b>.<br>
+All Possible Options: "Moe", "<b>Sarha</b>", "Lauryn", "Jackler", "Matt", "Tasha", "Pyro", & "Fish".
+
+</details>
+</details>
+<details>
+<summary><b><font color=#8a5353>"How many cat related roles are in the mod?"</font></b></summary>
+
+This question is fixed, meaning it always has the same answer and remains consistent across all games.<br>
+Note: Don't click the dropdown menu if you want to be surprised.
+<details>
+<summary><b><font color=#784747>Answer (SPOILERS)</font></b></summary>
+
+There are <b>3</b> Cat Related Roles in TOHE. These consist of Copycat, Schrodinger's Cat, & OIIAI (Cat).<br>
+All Possible Options: "0", "1", "2", "<b>3</b>", "4", "5", & "6".
+
+</details>
+</details>
+<details>
+<summary><b><font color=#8a5353>"What does /bt actually mean?"</font></b></summary>
+
+This question is fixed, meaning it always has the same answer and remains consistent across all games.<br>
+Note: Don't click the dropdown menu if you want to be surprised.
+<details>
+<summary><b><font color=#784747>Answer (SPOILERS)</font></b></summary>
+
+/bt actually stands for <b>Bet</b>.<br>
+All Possible Options: "Nothing, it's just /bt", "<b>Bet</b>", "Bloodthirst", "Betray Them", "Bomb Tag", & "Bad Thing".
+
+</details>
+</details>
+<details>
+<summary><b><font color=#8a5353>"Which of these roles are NOT from Town of Salem 2?"</font></b></summary>
+
+This question is fixed, meaning it always has the same answer and remains consistent across all games.<br>
+Note: Don't click the dropdown menu if you want to be surprised.
+<details>
+<summary><b><font color=#784747>Answer (SPOILERS)</font></b></summary>
+
+The following role that is not from Town of Salem 2 (TOS2) is <b>Moon Dancer</b><br>
+All Possible Options: "Coven Leader", "Jinx", "Marshall", "Doomsayer", "Baker", "<b>Moon Dancer</b>", "Pirate", "Mayor", "Veteran", & "Psychic".
+
+</details>
+</details>
+</details>
 </details>
 <details>
 <summary><b><font color=gray>Death Reasons</font></b></summary>
@@ -1061,7 +1307,7 @@ Moon Dancer (Set chance to do this when Moon Dancer kills with Necronomicon)<br>
 Bug (This Death Reason occurred awhile ago due to bugs, but has since been patched out)<br>
 Tricky, Susceptible, & Illusionist will never give this death reason, but that should be obvious.<br><br>
 
-> From: Marg + Compiling: NotPyro404
+> From: [Marg](https://docs.google.com/document/d/e/2PACX-1vTD5Qn3DchoADfPjxH1j11wfXzp3Is9GAMYnZYt5RePbM7OS_Iz4mNWgigQvN3rkFHh_QVfBguhV0rb/pub) + Compiling: NotPyro404
 </details>
 </details>
 <details>

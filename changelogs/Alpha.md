@@ -14,7 +14,7 @@ sidebar:
 To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE/) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester](#) (Content Creator with your Town of Host: Enhanced videos having 600+ views on average).
 
 <b><font color=#cf4e8f>Latest Release</font></b><br>
-<b><font color=#d395b4>Previous Release</font></b><br>
+<b><font color=#d395b4>Previous Releases</font></b><br>
 <b><font color=#a175ff>Coven Releases</font></b>
 
 ---
@@ -31,7 +31,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix modded players can't see psychic red names<br>
 
 <details>
-<summary><b><font color=#a175ff>Coven Alpha 10</font></b></summary>
+<summary><b><font color=#a175ff>v2.2.0 Coven Alpha 10</font></b></summary>
 
 \+ <font color=green><b>NEW</b></font>: Added a New Level of Quizmaster questions (Level 5) (These are questions related to the community)<br>
 \+ <font color=green><b>NEW</b></font>: Ritualist now converts to its current team (Like Admirer and Gangster)<br>
@@ -51,7 +51,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Some other very little improvements
 
 <details>
-<summary><b><font color=#a175ff>Coven Alpha 9</font></b></summary>
+<summary><b><font color=#a175ff>v2.2.0 Coven Alpha 9</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Poisoner and Illusionist unable to do second action<br>
 \+ <font color=green><b>NEW</b></font>: Setting: Coven can know Celebrity (I forgot to add this)<br>
@@ -71,12 +71,12 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 </details>
 </details>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 8.3</font></b></summary>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 8.3</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Custom Net Object related bugs (Fixes several roles being broken)
 
 <details>
-<summary><b><font color=#d395b4>Coven Alpha 8.3</font></b></summary>
+<summary><b><font color=#a175ff>v2.2.0 Coven Alpha 8.3</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Poisoner and Illusionist unable to do second action<br>
 \+ <font color=green><b>NEW</b></font>: Setting: Coven can know Celebrity<br>
@@ -95,7 +95,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#F6BE00><b>CHANGE</b></font>: Change some obfuscation settings
 
 <details>
-<summary><b><font color=#a175ff>Coven Alpha 8.3</font></b></summary>
+<summary><b><font color=#a175ff>v2.2.0 Coven Alpha 8.2</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed the mod not booting<br>
 = <font color=#ece218><b>NOTICE</b></font>: All the changes from Alpha 8.2
@@ -126,7 +126,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed AbyssBringer Blackhole not despawning correctly<br>
 
 <details>
-<summary><b><font color=#a175ff>Coven Alpha 8</font></b></summary>
+<summary><b><font color=#a175ff>v2.2.0 Coven Alpha 8</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Ritualist's messages aren't hidden<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Necromancer gets revived if their role is reverted while they die
@@ -159,7 +159,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#fdf08e><b>NOTE</b></font>: Pitfall should also use this stuff<br>
 
 <details>
-<summary><b><font color=#a175ff>Coven Alpha 7</font></b></summary>
+<summary><b><font color=#a175ff>v2.2.0 Coven Alpha 7</font></b></summary>
 
 \- <font color=red><b>REMOVED</b></font>: Necromancer no longer gets Enchanted upon Necromancy (this was previously intentional)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Necromancer can no longer see opposing teams upong gaining their role<br>
@@ -183,7 +183,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 1. playerIdList behaviors of Spiritualist, Pitfall, PlagueBearer, Alchemist, Enigma, Mortician, Spiritualist, Tracefinder are changed and if you meet bugs regarding these roles, please open a bug report<br>
 2. not completely sure whether intropatch is coded correctly. Maybe it will show extra or miss some info to players (like seeing players not in your team or not supposed to see on intro, cant see teammates on intro). Maybe you will get whitescreen on seeing intro. If so, please open bug reports with the log of client that sees wrong intro<br>
 <details>
-<summary><b><font color=#a175ff>Coven Alpha 6</font></b></summary>
+<summary><b><font color=#a175ff>v2.2.0 Coven Alpha 6</font></b></summary>
 
 \- <font color=red><b>REMOVED</b></font>: Removed unused roles Sorceress and Dreamweaver from CustomRoles entirely<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Hopefully fixed null errors relating to Moon Dancer<br>
@@ -225,7 +225,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#de6707><b>KNOWN BUG</b></font>: game may be a little laggy since we're testing something new<br>
 
 <details>
-<summary><b><font color=#a175ff>Coven Alpha 5</font></b></summary>
+<summary><b><font color=#a175ff>v2.2.0 Coven Alpha 5</font></b></summary>
 
 \+ <font color=#12edaf><b>RETURNED</b></font>: Coven Faction (New + Reworked Roles)<br>
 = <font color=#ece218><b>NOTICE</b></font>: Different from Main Alpha 5 Branch

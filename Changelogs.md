@@ -33,7 +33,7 @@ There are no notes for this yet but there's no point in updating this with alpha
 = <font color=#e08709><b>IMPROVEMENT</b></font>: **Heavy** Resources Rework. (Sorted into various categories + Includes User-Submitted Presets + Translations.)<br>
 \- <font color=red><b>REMOVED</b></font>: _Remove Presets.md (Refer Above)_<br>
 \- <font color=red><b>REMOVED</b></font>: _Remove Translations.md (Refer Above)_<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Reformat Death Reasons List on Resources Page (To be Cleaner/Compact)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Reformat Causes of Death List on Resources Page (To be Cleaner/Compact)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: **Quizmaster Questions + Answers** Displayed on Resources Page (Answers will be hidden by default)<br>
 = <font color=#ece218><b>NOTICE</b></font>: Prepared for Coven Faction.<br>
 = <font color=#ece218><b>NOTICE</b></font>: Add Unofficial Lore Theory Batches 1 through 7.<br>

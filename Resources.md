@@ -238,6 +238,14 @@ Commands that are italicized are considered "essential" and are recommended for 
 <td>See how Apocalypse roles work.</td>
 </tr>
 <tr>
+<td>/covinfo</td>
+<td>See how Coven works.</td>
+</tr>
+<tr>
+<td>/coveninfo</td>
+<td>See how Coven works.</td>
+</tr>
+<tr>
 <td>/color [color]</td>
 <td>Change your Color to any, even if someone's taken it.</td>
 </tr>
@@ -715,6 +723,9 @@ Commands that are italicized are considered "essential" and are recommended for 
 </details>
 <details>
 <summary><b><font color=gray>Icons: Explained</font></b></summary>
+
+Below is a list of Icons, as well as what they indicate.<br>
+
 <table>
 <tr>
 <td align="center"><b>Icon</b></td>
@@ -854,6 +865,8 @@ Commands that are italicized are considered "essential" and are recommended for 
 </details>
 <details>
 <summary><b><font color=gray>Quizmaster Questions</font></b></summary>
+
+Below is a list of Quizmaster Questions, as well as their Correct/Possible Options. (Warning: Spoilers!)<br>
 <details>
 <summary><b><font color=#996d6d>Stage 1 Questions</font></b></summary>
 <details>
@@ -949,7 +962,7 @@ This question is situational, meaning it doesn't always have the same answer, an
 
 </details>
 <details>
-<summary><b><font color=#8a5353>"What did the E in TOHE originally stand for?"</font></b></summary>
+<summary><b><font color=#8a5353>"What did the <b>E</b> in TOHE originally stand for?"</font></b></summary>
 
 This question is fixed, meaning it always has the same answer and remains consistent across all games.<br>
 Note: Don't click the dropdown menu if you want to be surprised.
@@ -1105,22 +1118,23 @@ All Possible Options: "Coven Leader", "Jinx", "Marshall", "Doomsayer", "Baker", 
 </details>
 </details>
 <details>
-<summary><b><font color=gray>Death Reasons</font></b></summary>
+<summary><b><font color=gray>Causes of Death</font></b></summary>
 
-Here's a list of Death Reasons, and what makes them occur: [Death Reasons](https://docs.google.com/document/d/e/2PACX-1vTD5Qn3DchoADfPjxH1j11wfXzp3Is9GAMYnZYt5RePbM7OS_Iz4mNWgigQvN3rkFHh_QVfBguhV0rb/pub)<br>
-If you don't want to read the Doc, they will all be listed below!<br><br>
+Below is a list of Causes of Death, as well as how they occur.<br>
+<details>
+<summary><b><font color=#996d6d>Kill</font></b></summary>
 
-`- Death Reason`<br>
-`Role/Scenario: (Rough Explanation)`<br><br>
+Any Role that can Kill (Is applied to any role that does not have a special death reason)
+</details>
+<details>
+<summary><b><font color=#996d6d>Ejected</font></b></summary>
 
-- Kill<br>
-Any Role that can Kill (Is applied to any role that does not have a special death reason)<br><br>
-
-- Ejected<br>
 When a player is voted (Is applied when a player is voted out during a Meeting)<br>
-Tricky, Susceptible, & Illusionist will never give this death reason.<br><br>
+Tricky, Susceptible, & Illusionist will never give this death reason.<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Suicide</font></b></summary>
 
-- Suicide<br>
 Unlucky (Happens to the player by chance)<br>
 Ghoul (If the player with Ghoul finishes all tasks when alive)<br>
 Addict (If the Addict does not vent by the suicide timer)<br>
@@ -1129,48 +1143,71 @@ Mastermind (If the manipulated target does not kill by the timer, or a meeting i
 Mercenary (If Mercenary does not kill by the suicide timer)<br>
 Pixie (Can only happen if Pixie suicides if target is not voted out setting is on)<br>
 Terrorist (Can only happen if Can Win by Suicide setting is on)<br>
-Sacrifist (Happens if they sacrifice themselves while having the Necronomicon)<br><br>
+Sacrifist (Happens if they sacrifice themselves while having the Necronomicon)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Disconnected</font></b></summary>
 
-- Disconnected<br>
 Player leaves the Game (If no cause of death was established, does not always display if the player disconnected)<br>
-Tricky, Susceptible, & Illusionist will never give this death reason.<br><br>
+Tricky, Susceptible, & Illusionist will never give this death reason.<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Fall</font></b></summary>
 
-- Fall<br>
-Ladders on Airship/Fungle (Fall From Ladders setting)<br><br>
+Ladders on Airship/Fungle (Fall From Ladders setting)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Guessed</font></b></summary>
 
-- Guessed<br>
 Evil Guesser (If a player was guessed or if a player misguessed)<br>
 Nice Guesser (If a player was guessed or if a player misguessed)<br>
 Doomsayer (If a player was guessed or if a player misguessed)<br>
 Guesser (If a player was guessed or if a player misguessed)<br>
 Guesser Mode (If a player was guessed or if a player misguessed)<br>
-Tricky, Susceptible, & Illusionist will never give this death reason.<br><br>
+Tricky, Susceptible, & Illusionist will never give this death reason.<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Other</font></b></summary>
 
-- Other<br>
 Shouldn’t happen (404: DeathReasonNotFound)<br>
 Game Master (Only exception, the death reason of Game Master will be Other)<br>
-Tricky, Susceptible, & Illusionist will never give this death reason.<br><br>
+Tricky, Susceptible, & Illusionist will never give this death reason.<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Spelled</font></b></summary>
 
-- Spelled<br>
-Witch (Given to a player marked by the Witch if the Witch isn't voted out)<br><br>
+Witch (Given to a player marked by the Witch if the Witch isn't voted out)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Cursed</font></b></summary>
 
-- Cursed<br>
-Cursed Wolf (Given to players killed by the Cursed Wolf's reflect)<br><br>
+Cursed Wolf (Given to players killed by the Cursed Wolf's reflect)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Hexed</font></b></summary>
 
-- Hexed<br>
-Hex Master (Given to a player marked by the Hex Master if the HexMaster isn't voted out)<br><br>
+Hex Master (Given to a player marked by the Hex Master if the HexMaster isn't voted out)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Heartbroken</font></b></summary>
 
-- Heartbroken<br>
-Lovers (Given to the other Lover when their Lover died)<br><br>
+Lovers (Given to the other Lover when their Lover died)<br>
 
-- Bitten<br>
-Vampire (Given to players that Vampire has used their kill button on)<br><br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Bitten</font></b></summary>
 
-- Poisoned<br>
+Vampire (Given to players that Vampire has used their kill button on)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Poisoned</font></b></summary>
+
 Poisoner (Given to players that Poisoner has used their kill button on)<br>
-Alchemist (Poison Potion)<br><br>
+Alchemist (Poison Potion)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Exploded</font></b></summary>
 
-- Exploded<br>
 Bomber (Given to players within the radius of the Bomber when it explodes)<br>
 Nuker (Given to players within the radius of the Nuker when it explodes)<br>
 Fireworker (Given to players killed by the Fireworker's fireworks)<br>
@@ -1180,132 +1217,204 @@ Agitator (Given to players if they hold the Agitator's bomb (hot potato) and don
 Taskinator (Given to player if they do a task that the Taskinator did)
 Terrorist (Given to all players when Terrorist meets their win-condition)<br>
 Burst (Given to Killer if they killed a player with Burst & failed to stay in a vent when the detonation goes off)<br>
-Conjurer (Given to idk)<br><br>
+Conjurer (Given to players affected by the Conjurer's meteor)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Misfire</font></b></summary>
 
-- Misfire<br>
 Deceiver (Whoever Deceiver’s ability is used on)<br>
 Reverie (If Cooldown increases too much)<br>
 Sheriff (If Sheriff tries to kill player with role they aren’t allowed to kill)<br>
 Fireworker (If Fireworker is in their own radius when they explode)<br>
 Hater (Hater kills target when misfire setting)<br>
 Pursuer (When whoever Pursuer blanks attempts to kill)<br>
-Vengeful Romantic (If killed someone other than partner’s killer)<br><br>
+Vengeful Romantic (If killed someone other than partner’s killer)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Burned</font></b></summary>
 
-- Burned<br>
-Arsonist (Given to players that have been doused when the Arsonist vented & killed)<br><br>
+Arsonist (Given to players that have been doused when the Arsonist vented & killed)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Sniped</font></b></summary>
 
-- Sniped<br>
-Sniper (Given to players that have been killed by the Sniper) (UNUSED)<br><br>
+Sniper (Given to players that have been killed by the Sniper) (UNUSED)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Revenge</font></b></summary>
 
-- Revenge<br>
 Avenger (Happens to a random player when player with Avenger is killed)<br>
 Randomizer (Happens by chance)<br>
 Retributionist (Whoever Retributionist kills using their '/rv' command)<br>
 Butcher (If Butcher kills Avenger then EVERYONE gets this)<br>
-Nemesis (Whoever Nemesis kills using their '/rv' command)<br><br>
+Nemesis (Whoever Nemesis kills using their '/rv' command)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Execution</font></b></summary>
 
-- Execution<br>
 Jailer (Given to the players that the Jailer has jailed & killed)<br>
-Host (Given to player that the Host decides to execute)<br><br>
+Host (Given to player that the Host decides to execute)<br>
 
-- Eaten<br>
-Pelican (Given to the players that the Pelican has used their kill button on)<br><br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Eaten</font></b></summary>
 
-- Victim<br>
+Pelican (Given to the players that the Pelican has used their kill button on)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Victim</font></b></summary>
+
 Hater (Given to the player that the Hater successfully killed)<br>
 Revolutionist (Given to the player that the Revolutionist attempted to recruit)<br>
-Bodyguard (Given to the Bodyguard themselves)<br><br>
+Bodyguard (Given to the Bodyguard themselves)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Quantization</font></b></summary>
 
-- Quantization<br>
-Lightning (Given if a player touches another player after becoming Quantum Ghost)<br><br>
+Lightning (Given if a player touches another player after becoming Quantum Ghost)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Overtired</font></b></summary>
 
-- Overtired<br>
 Workholic (Given to the Workholic if they complete their tasks)<br>
-Tricky, Susceptible, & Illusionist will never give this death reason.<br><br>
+Tricky, Susceptible, & Illusionist will never give this death reason.<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Ashamed</font></b></summary>
 
-- Ashamed<br>
-Workaholic (Given to everyone else alive if Workaholic completes their tasks)<br><br>
+Workaholic (Given to everyone else alive if Workaholic completes their tasks)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Destroyed</font></b></summary>
 
-- Destroyed<br>
 Provocateur (Given to the Provocateur's target)<br>
-Crusader (Given to Crusader if it tries to kill Pestilence)<br><br>
+Crusader (Given to Crusader if it tries to kill Pestilence)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Dismembered</font></b></summary>
 
-- Dismembered<br>
-Butcher (Given to players the Butcher has killed)<br><br>
+Butcher (Given to players the Butcher has killed)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Strangled</font></b></summary>
 
-- Strangled<br>
-Hangman (Given to players the Hangman has killed while they were shapeshifted)<br><br>
+Hangman (Given to players the Hangman has killed while they were shapeshifted)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Judged</font></b></summary>
 
-- Judged<br>
 Councillor (Given to players that the Councillor used their '/tl' command on)<br>
-Judge (Given to players that the Judge used their '/tl' command on)<br><br>
+Judge (Given to players that the Judge used their '/tl' command on)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Infected</font></b></summary>
 
-- Infected<br>
 Infectious (Given to players killed by the Infectious)<br>
 Plague Scientist (Given to players killed by the Plague Scientist)<br>
-Virus (Given to players killed by the Virus)<br><br>
+Virus (Given to players killed by the Virus)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Jinxed</font></b></summary>
 
-- Jinxed<br>
-Jinx (Given to players killed by the Jinx's reflect)<br><br>
+Jinx (Given to players killed by the Jinx's reflect)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Hacked</font></b></summary>
 
-- Hacked<br>
-Glitch (Given to players killed by the Glitch)<br><br>
+Glitch (Given to players killed by the Glitch)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Plundered</font></b></summary>
 
-- Plundered<br>
-Pirate (Given to a player that loses the duel against the Pirate)<br><br>
+Pirate (Given to a player that loses the duel against the Pirate)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Shrouded</font></b></summary>
 
-- Shrouded<br>
-Shroud (Given to a player marked by the Shroud if the Shroud isn't voted out, or the player hasn't performed a kill)<br><br>
+Shroud (Given to a player marked by the Shroud if the Shroud isn't voted out, or the player hasn't performed a kill)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Mauled</font></b></summary>
 
-- Mauled<br>
-Werewolf (Given to players caught in the Werewolf's Maul Radius)<br><br>
+Werewolf (Given to players caught in the Werewolf's Maul Radius)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Drained</font></b></summary>
 
-- Drained<br>
-Puppeteer ('Puppet dies alongside victim' Setting)<br><br>
+Puppeteer ('Puppet dies alongside victim' Setting)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Shattered</font></b></summary>
 
-- Shattered<br>
-Fragile (Given to a player that any Impostor based role interacted with)<br><br>
+Fragile (Given to a player that any Impostor based role interacted with)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Trapped</font></b></summary>
 
-- Trapped<br>
-Trapster (Given to players that report a body killed by the Trapster)<br><br>
+Trapster (Given to players that report a body killed by the Trapster)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Targeted</font></b></summary>
 
-- Targeted<br>
-Kamikaze (Given to players killed when the Kamikaze dies)<br><br>
+Kamikaze (Given to players killed when the Kamikaze dies)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Retribution</font></b></summary>
 
-- Retribution<br>
-Instigator (Given to players that voted for the same player that the Instigator voted for)<br><br>
+Instigator (Given to players that voted for the same player that the Instigator voted for)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Sliced</font></b></summary>
 
-- Sliced<br>
-Hawk (Given to a player that the Hawk has haunted)<br><br>
+Hawk (Given to a player that the Hawk has haunted)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Bleed</font></b></summary>
 
-- Bleed<br>
-Bloodmoon (Given to a player that the Bloodmoon has haunted)<br><br>
+Bloodmoon (Given to a player that the Bloodmoon has haunted)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Wrong Quiz Answer</font></b></summary>
 
-- Wrong Quiz Answer<br>
-Quizmaster (Given to players that incorrectly answer a question from the Quizmaster)<br><br>
+Quizmaster (Given to players that incorrectly answer a question from the Quizmaster)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Starved</font></b></summary>
 
-- Starved<br>
-Famine (Given to anyone without bread after Famine transforms and is not voted out, or when famine uses their kill button on a player after that)<br><br>
+Famine (Given to anyone without bread after Famine transforms and is not voted out, or when famine uses their kill button on a player after that)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Armageddon</font></b></summary>
 
-- Armageddon<br>
 Death (Given to everyone alive if Death is not voted out when they transform)<br>
-Tricky, Susceptible, & Illusionist will never give this death reason.<br><br>
+Tricky, Susceptible, & Illusionist will never give this death reason.<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Sacrificed</font></b></summary>
 
-- Sacrificed<br>
-Altruist (Happens to the Altruist upon reviving someone)<br><br>
+Altruist (Happens to the Altruist upon reviving someone)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Electrocuted</font></b></summary>
 
-- Electrocuted<br>
-Shocker (Given to the players that we're in the room Shocker marked for Electrocution) <br><br>
+Shocker (Given to the players that we're in the room Shocker marked for Electrocution) <br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Scavenged</font></b></summary>
 
-- Scavenged<br>
-Scavenger (Given to the players that the Pelican has used their kill button on)<br><br>
+Scavenger (Given to the players that the Pelican has used their kill button on)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Blasted Off</font></b></summary>
 
-- Blasted Off<br>
-Moon Dancer (Set chance to do this when Moon Dancer kills with Necronomicon)<br><br>
+Moon Dancer (Set chance to do this when Moon Dancer kills with Necronomicon)<br>
+</details>
+<details>
+<summary><b><font color=#996d6d>Alive</font></b></summary>
 
-- Alive<br>
 Bug (This Death Reason occurred awhile ago due to bugs, but has since been patched out)<br>
-Tricky, Susceptible, & Illusionist will never give this death reason, but that should be obvious.<br><br>
+Tricky, Susceptible, & Illusionist will never give this death reason, but that should be obvious.<br>
+</details>
 
 > From: [Marg](https://docs.google.com/document/d/e/2PACX-1vTD5Qn3DchoADfPjxH1j11wfXzp3Is9GAMYnZYt5RePbM7OS_Iz4mNWgigQvN3rkFHh_QVfBguhV0rb/pub) + Compiling: NotPyro404
 </details>

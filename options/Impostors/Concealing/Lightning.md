@@ -2,7 +2,7 @@
 lang: en-US
 title: Lightning
 prev: Escapist
-next: Mastermind
+next: Miner
 ---
 
 # <font color=red>🌩️ <b>Lightning</b></font> <Badge text="Concealing" type="tip" vertical="middle"/>

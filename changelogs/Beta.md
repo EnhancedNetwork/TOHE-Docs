@@ -19,7 +19,83 @@ To access Beta Builds, visit TEN's [Discord Server](https://discord.gg/ten) and 
 ---
 <font size=3em>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Beta 3</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Beta 1</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Crowded Mod now included in TOHE (TOHE is now incompatible with CrowdedMod since we included all its features. Of course, it won't work on InnerSloth official servers. You can actually set imposter number to 0 now)<br>
+\+ <font color=green><b>NEW</b></font>: Tasks Assign System (TOHE now completely assigns the tasks apart from InnerSloth's system,Role conversion mid-game will now reset tasks)<br>
+\+ <font color=green><b>NEW</b></font>: Ported Custom Net Object System from MoreGameModes by [Drakos](https://github.com/Ultradragon005)<br>
+\+ <font color=green><b>NEW</b></font>: IntroScreen Improvements (Traitor sees Impostors, Impostors and Madmates see each other, Apocalypse Intro Screen by [Marg](https://github.com/MargaretTheFool), Lover and Egoist IntroCutscenes as well as Changed Intro sounds for some roles by [sussynba](https://github.com/PEPPERcula)).<br>
+\+ <font color=green><b>NEW</b></font>: Role conversion log (displayed along with Kill log) (Will only display Main Role changes for players in kill log)<br>
+\+ <font color=green><b>NEW</b></font>: Prevent dead players from knowing roles immediately after death (Will know when the meeting starts) (Prevent Nemesis and Retributionist from seeing roles before skill used up option)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Horse Mode and Long Neck Mode by [sussynba](https://github.com/PEPPERcula)<br>
+\+ <font color=green><b>NEW</b></font>: command: /start for moderators to start a game by [laikrai](https://github.com/laikrai)<br>
+\+ <font color=green><b>NEW</b></font>: Critical Error Manager [Tommy-XL](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Hash API System (Now the mod calculates its own file hash and uses that to interact with Enhanced API)<br>
+\+ <font color=green><b>NEW</b></font>: Engineer-based roles with 1-second vent duration now can't move in vent (like jester)<br>
+\+ <font color=green><b>NEW</b></font>: Chief Of Police Returns (Chief of Police can recruit anyone as Sheriff, Chief may suicide depending on the setting upon wrong recruit)<br>
+\+ <font color=#12edaf><b>REWORK</b></font>: Jackal (Jackal can now convert anyone into SideKick, Sidekick can now turn into Jackal after Jackal's death)<br>
+\+ <font color=#12edaf><b>REWORK</b></font>: Amnesiac (Amnesiac now can turn into any role, Amnesiac cannot vent after changing role depending on the can vent setting)<br>
+\+ <font color=green><b>NEW</b></font>: Experimental Role: Shocker by [laikrai](https://github.com/laikrai)<br>
+\+ <font color=green><b>NEW</b></font>: Role AbyssBringer (ported from EHR)<br>
+\+ <font color=green><b>NEW</b></font>: Role Revenant by [LimeAU](https://github.com/Limeau)<br>
+\+ <font color=green><b>NEW</b></font>: Option: Dictator use /vote command to expel players @hinhinarrrrrr<br>
+\+ <font color=#12edaf><b>REWORK</b></font>: Deputy (Handcuffed players now have to use the kill button on others to break the handcuff)<br>
+\+ <font color=#12edaf><b>REWORK</b></font>: Baker's role block ability is reworked to reset kill cooldown by [Marg](https://github.com/MargaretTheFool) (Niko doubts whether it works)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Admired interactions for some roles by [ImpyIsLazy](https://github.com/impostor4291) (For example, admired time thief will now add meeting time, gangster and godfather are recruiting correctly (Hopefully, Niko didn't check the code carefully))<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Cultist is now a Neutral killing role by [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Troller is now a Neutral Benign role by [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Double Agent now can kill when it's the only imp alive by [ImpyIsLazy](https://github.com/impostor4291)<br>
+= Change ability button text for some roles by [sussynba](https://github.com/PEPPERcula)
+= <font color=#32CD32><b>TYPO</b></font>: Fix Role Description for DollMaster and ChiefOfPolice by [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Add target mark for Seeker<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Add note for vent for Altruist<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: CopyCat now can't copy baker<br>
++ Added some new options for Berserker, PlagueBearer, SoulCollector by [ApeMV](https://github.com/ApeMV)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Scavenger now has its own death reason by [ApeMV](https://github.com/ApeMV)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Add kill notify for guardian<br>
+\+ <font color=green><b>NEW</b></font>: Opportunist can vent option by [sussynba](https://github.com/PEPPERcula)<br>
+\+ <font color=green><b>NEW</b></font>: Pestilence can kill guesser option by [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Baker now uses shapeshift button to transform by [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Lawyer is now a Single Role to avoid unknown bugs<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: MasterMind now is an experimental role since it causes some bugs<br>
+\+ <font color=green><b>NEW</b></font>: Added Evil Mini cannot be guessed before 18 option<br>
+\+ <font color=green><b>NEW</b></font>: Legacy option for Traitor and Parasite (Can Shapeshift) by [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Other Minor changes that are missed from this list<br>
+= <font color=#ece218><b>NOTICE</b></font>: Our future official releases will include obfuscation on certain methods and functions. (The purpose of obfuscation is to protect our official builds from malicious tampering.)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Rebased RoleBase to include targeting Custom Roles in it<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Included latest Custom Region files in mod<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added back up api url in attempt to ease connection issues in certain countries and regions<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Random Spawn leads to a ban on anticheat regions<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed double spy seeing each other's orange name<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed rebirth vote-out on Solsticer and Mini<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Host DoomSayer can infinite guess<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix changing gamemode sometimes showing HideNSeek<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug where Arsonist may not be able to douse someone (maybe)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Consigliere not being able to guess certain roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Kamikaze mod clients not seeing icons<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some roles allowing misguess to be ignored<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix stealer addon displaying wrong vote number on display<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix sending chat bug causing blackmailer false spam<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed vanilla clients still seeing modded name on meeting after a player has left the game<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Quick Shooter may bug sometimes<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Maybe Fixed Error Spam when a modded client disconnected from the game during a meeting or other important period<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix maverick kill number not syncing<br>
+= Recoded Seeker<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Converted Jailer from losing all their executions<br>
+= Mod Updater now uses Dispatcher<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Other bug fixes that Niko randomly missed, deleted from this list or are included in other changes<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Translations for other languages may be outdated or inaccurate<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: This is a beta build, there may be some unstable stuff, please give your feedback on it.<br>
+= <font color=#ece218><b>NOTICE</b></font>: We will focus on merging coven roles after this beta release
+= <font color=#ece218><b>NOTICE</b></font>: There may be some minor fixes for beta builds later<br><br>
+
+Thanks to @NikoCat233  @MargaretTheFool @PEPPERcula @ImpyIsLazy @Laikrai @Pietrodjaowjao @ApeMV @Bri1101 for making this Beta release possible
+Thanks to our translators for their hard work on bringing the mod to everyone
+Thanks to our testers and players for finding bugs and providing useful feedback
+Thanks to everyone that keeps supporting the mod and helps us move further forward!
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Beta 3</font></b></summary>
 
 \+ <font color=green><b>NEW</b></font>: Modded players now will see changes in TOHE settings<br>
 \+ <font color=green><b>NEW</b></font>: Added custom "Timer" image for Mercenary, Bounty Hunter and Penguin (Thanks @that_one_missing_pixel (Pixel))<br>
@@ -31,7 +107,7 @@ To access Beta Builds, visit TEN's [Discord Server](https://discord.gg/ten) and 
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Marshall can no longer get Gravestone<br>
 </details>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Beta 2</font></b></summary>
+<summary><b><font color=#d395b4>v2.1.0 Beta 2</font></b></summary>
 
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved menu for role descriptions in settings<br>
 \+ <font color=green><b>NEW</b></font>: Setting: Apocalypse can see each other's Add-ons<br>

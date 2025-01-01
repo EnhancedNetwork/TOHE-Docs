@@ -17,12 +17,12 @@ next: /Roles.html
 
 <tr>
 <td><a href="#concealing" style="color:#3b0722"><b>👣 Concealing</b></a></td>
-<td align="center">16</td>
+<td align="center">15</td>
 </tr>
 
 <tr>
 <td><a href="#experimental" style="color:#4d2b22"><b>🚧 Experimental</b></a></td>
-<td align="center">1</td>
+<td align="center">2</td>
 </tr>
 
 <tr>
@@ -65,12 +65,12 @@ next: /Roles.html
 
 ### <font color=#3b0722><b>Concealing</b></font>
 ---
-[Abyssbringer](/options/Impostors/Concealing/Abyssbringer.html) | [Escapist](/options/Impostors/Concealing/Escapist.html) | [Lightning](/options/Impostors/Concealing/Lightning.html) | [Mastermind](/options/Impostors/Concealing/Mastermind.html) | [Miner](/options/Impostors/Concealing/Miner.html) | [Puppeteer](/options/Impostors/Concealing/Puppeteer.html) | [Rift Maker](/options/Impostors/Concealing/RiftMaker.html) | [Scavenger](/options/Impostors/Concealing/Scavenger.html) | [Shapemaster](/options/Impostors/Concealing/Shapemaster.html) | [Soul Catcher](/options/Impostors/Concealing/SoulCatcher.html) | [Swooper](/options/Impostors/Concealing/Swooper.html) | [Trickster](/options/Impostors/Concealing/Trickster.html) | [Undertaker](/options/Impostors/Concealing/Undertaker.html) | [Vampire](/options/Impostors/Concealing/Vampire.html) | [Warlock](/options/Impostors/Concealing/Warlock.html) | [Wildling](/options/Impostors/Concealing/Wildling.html)
+[Abyssbringer](/options/Impostors/Concealing/Abyssbringer.html) | [Escapist](/options/Impostors/Concealing/Escapist.html) | [Lightning](/options/Impostors/Concealing/Lightning.html) | [Miner](/options/Impostors/Concealing/Miner.html) | [Puppeteer](/options/Impostors/Concealing/Puppeteer.html) | [Rift Maker](/options/Impostors/Concealing/RiftMaker.html) | [Scavenger](/options/Impostors/Concealing/Scavenger.html) | [Shapemaster](/options/Impostors/Concealing/Shapemaster.html) | [Soul Catcher](/options/Impostors/Concealing/SoulCatcher.html) | [Swooper](/options/Impostors/Concealing/Swooper.html) | [Trickster](/options/Impostors/Concealing/Trickster.html) | [Undertaker](/options/Impostors/Concealing/Undertaker.html) | [Vampire](/options/Impostors/Concealing/Vampire.html) | [Warlock](/options/Impostors/Concealing/Warlock.html) | [Wildling](/options/Impostors/Concealing/Wildling.html)
 <br>
 
 ### <font color=#4d2b22><b>Experimental</b></font>
 ---
-[Doll Master](/options/Impostors/Experimental/DollMaster.html)
+[Doll Master](/options/Impostors/Experimental/DollMaster.html) | [Mastermind](/options/Impostors/Experimental/Mastermind.html)
 
 ### <font color=#bd8b88><b>Ghost</b></font>
 ---

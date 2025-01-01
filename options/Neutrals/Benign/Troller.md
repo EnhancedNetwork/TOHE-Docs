@@ -1,14 +1,14 @@
 ---
 lang: en-US
 title: Troller
-prev: Terrorist
-next: Vector
+prev: Taskinator
+next:/options/Settings/Neutrals.html
 ---
 
-# <font color="#004e6d">🧨 <b>Troller</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
+# <font color="#004e6d">🧨 <b>Troller</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
 ---
 
-As a Troller, you can complete tasks so that random events can happen to players. For example, changing the speed of all players, teleportation, influencing sabotage, etc. Also you can wins with the winner team.
+As a Troller, you can complete tasks so that random events can happen to players. For example, changing the speed of all players, teleportation, influencing sabotage, etc. Also you can win with the winner team.
 * Max
   * Set the Maximum amount of Trollers that can be in a match
 * Trolls Per Round

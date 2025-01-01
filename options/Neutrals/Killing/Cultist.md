@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Cultist
-prev: Collector
-next: God
+prev: BloodKnight
+next: Demon
 ---
 
-# <font color="#cf6acd">🦹 <b>Cultist</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
+# <font color="#cf6acd">🦹 <b>Cultist</b></font> <Badge text="Killing" type="tip" vertical="middle"/>
 ---
 
 Only the Cultist team and the <font color=#8cffff>Crewmate</font> team are left, and the number of Cult members is greater than the number of <font color=#8cffff>Crewmate</font> members, then the Cultist win. Cultist can charm a non <font color=#7f8c8d>Neutral</font> player by hitting the kill button. The charmed player's skills will not change and will be considered as a Cultist team and will no longer have the original victory conditions.

@@ -2,7 +2,7 @@
 lang: en-US
 title: Taskinator
 prev: Shaman
-next: /options/Settings/Neutrals.html
+next: Troller
 ---
 
 # <font color="#4233a2">📑 <b>Taskinator</b></font> <Badge text="Benign" type="tip" vertical="middle"/>

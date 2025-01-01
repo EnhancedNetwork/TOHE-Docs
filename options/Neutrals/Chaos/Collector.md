@@ -2,7 +2,7 @@
 lang: en-US
 title: Collector
 prev: /options/Settings/Neutrals.html
-next: Cultist
+next: God
 ---
 
 # <font color="#9d8892">🫴 <b>Collector</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>

@@ -2,7 +2,7 @@
 lang: en-US
 title: Terrorist
 prev: Specter
-next: Troller
+next: Vector
 ---
 
 # <font color="#00e600">🧨 <b>Terrorist</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>

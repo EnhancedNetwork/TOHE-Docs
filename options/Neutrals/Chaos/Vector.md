@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Vector
-prev: Troller
+prev: Terrorist
 next: Vulture
 ---
 

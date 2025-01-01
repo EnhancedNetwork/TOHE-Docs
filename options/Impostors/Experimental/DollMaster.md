@@ -2,7 +2,7 @@
 lang: en-US
 title: Doll Master
 prev: /options/Settings/Impostors.html
-next: /options/Settings/Impostors.html
+next: Mastermind
 ---
 
 # <font color=red>🎎 <b>Doll Master</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Miner
-prev: Mastermind
+prev: Lightning
 next: Puppeteer
 ---
 

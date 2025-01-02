@@ -41,6 +41,11 @@ contributors: false
 <td align="center">69</td>
 </tr>
 <tr>
+<td><a href="/options/Settings/Coven.html" style="color:#ac42f2"><b>🧙‍♀️ Coven</b></a></td>
+<td>Play together and win via killing/voting out all Crewmates/Neutrals/Impostors</td>
+<td align="center">13</td>
+</tr>
+<tr>
 <td><a href="/options/Settings/Crewmates.html" style="color:#8cffff"><b>🦸‍♂️ Crewmates</b> </a></td>
 <td>Play together and win by completing all tasks/voting out all Evil</td>
 <td align="center">81</td>
@@ -54,11 +59,6 @@ contributors: false
 <td><a href="/options/Settings/Neutrals.html" style="color:#7c8c8d"><b>🕶️ Neutrals</b></a></td>
 <td>Play alone and win via their own win conditions</td>
 <td align="center">70</td>
-</tr>
-<tr>
-<td><a href="/options/Settings/Coven.html" style="color:#ac42f2"><b>🧙‍♀️ Coven</b></a></td>
-<td>Play together and win via killing/voting out all Crewmates/Neutrals/Impostors</td>
-<td align="center">13</td>
 </tr>
 <tr>
 <td colspan=2>📊 Total:</td>

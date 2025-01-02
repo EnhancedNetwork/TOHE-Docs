@@ -33,6 +33,10 @@ export default defineUserConfig({
                 link: '/options/Settings/Neutrals.html',
               },
               {
+                text: 'Coven Roles',
+                link: '/options/Settings/Coven.html',
+              },
+              {
                 text: 'Add-ons',
                 link: '/options/Settings/Addons.html',
               },

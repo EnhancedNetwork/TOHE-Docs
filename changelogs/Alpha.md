@@ -36,6 +36,8 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 \+ <font color=green><b>NEW</b></font>: Added a New Level of Quizmaster questions (Level 5) (These are questions related to the community)<br>
 \+ <font color=green><b>NEW</b></font>: Ritualist now converts to its current team (Like Admirer and Gangster)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Necromancer no longer dies if target dies during revenge<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Add Shapeshift Ability Text for Conjurer and Sacrifist<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Conjurer can no longer bomb Transformed Neutral Apocalypse<br>
 \+ <font color=green><b>NEW</b></font>: Updated to Alpha 10<br>
 
 </details>

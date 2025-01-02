@@ -1051,15 +1051,15 @@ All Possible Options: "<b>Furo</b>", "Drakos", "Moe", "Marg", "Multiple People",
 <details>
 <summary><b><font color=#996d6d>Stage 5 Questions</font></b></summary>
 <details>
-<summary><b><font color=#8a5353>"Who are The Enhanced Network's partners?"</font></b></summary>
+<summary><b><font color=#8a5353>"Who is The Enhanced Network's partner?"</font></b></summary>
 
 This question is fixed, meaning it always has the same answer and remains consistent across all games.<br>
 Note: Don't click the dropdown menu if you want to be surprised.
 <details>
 <summary><b><font color=#784747>Answer (SPOILERS)</font></b></summary>
 
-The Enhanced Network's Partners are <b>Modded Among Us Lobbies & Purple Among Us</b>.<br>
-All Possible Options: "Innersloth", "Modded Among Us Lobbies", "Purple Among Us", "<b>Modded Among Us Lobbies & Purple Among Us</b>", "Steam", "Twitter", "Town Of Us: Reactivated", "Moe Corporation", & "Digital Bandidos".
+The Enhanced Network's current Partner is <b>Modded Among Us Lobbies</b>.<br>
+All Possible Options: "Innersloth", "<b>Modded Among Us Lobbies</b>", "Purple Among Us", "Steam", "Twitter", "Town Of Us: Reactivated", "Moe Corporation", & "Digital Bandidos".
 
 </details>
 </details>

@@ -20,7 +20,7 @@ contributors: false
 
 <b><font color=#cf4e8f>v2.2.0 Stable Release</font></b>
 
-There are no notes for this yet but there's no point in updating this with alpha builds when it wont get pushed live until a main build
+There are no notes for this yet but there's no point in updating this with alpha builds when it wont get pushed live until a main build.
 </details>
 <br>
 <details>

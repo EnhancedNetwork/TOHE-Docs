@@ -19,7 +19,12 @@ To access Stable Builds, you can visit TEN's [Discord Server](https://discord.gg
 ---
 <font size=3em>
 <details>
-<summary><b><font color=#cf4e8f>v2.1.1</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0</font></b></summary>
+
+There are no notes for this yet.
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.1</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Baker not showing roles to non-host modded players<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed mass kicking from lobbies against non-host modded players<br>

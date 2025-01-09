@@ -20,7 +20,21 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=3em>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 10</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 11</font></b></summary>
+
+= <font color=#ece218><b>NOTICE</b></font>: Newer than Beta 1<br>
+= <font color=#ece218><b>NOTICE</b></font>: 50% of the strings in other languages are in English<br>
+\+ <font color=green><b>NEW</b></font>: Merged Coven roles<br>
+= <font color=#32CD32><b>TYPOS</b></font>: More translation fixes [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added back Niko(EU) custom region<br>
+\+ <font color=green><b>NEW</b></font>: Intro Screen for Coven roles [sussynba](https://github.com/PEPPERcula) & (by [ImpyIsLazy](https://github.com/impostor4291))<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Retributionist settings showing in impostor tab [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#32CD32><b>TYPOS</b></font>: Changed role typo for SunnyBoy and Provocateur (by [ImpyIsLazy](https://github.com/impostor4291))<br>
+\+ <font color=green><b>NEW</b></font>: Option: Sheriff misfire on admired players (by [ImpyIsLazy](https://github.com/impostor4291))<br>
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 10</font></b></summary>
 
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Admired interactions for some roles (for example admired time thief will now add meeting time, gangster and godfather are recruiting correctly (Hopefully, I didnt check the code carefully)) (by [ImpyIsLazy](https://github.com/impostor4291))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Double Agent now can kill when its the only imp alive (by [ImpyIsLazy](https://github.com/impostor4291))<br>

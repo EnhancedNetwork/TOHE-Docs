@@ -1,11 +1,11 @@
 ---
 lang: en-US
 title: Provocateur
-prev: Pirate
-next: Revolutionist
+prev: Pixie
+next: Pursuer
 ---
 
-# <font color=#74ba43>😏 <b>Provocateur</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
+# <font color=#74ba43>😏 <b>Provocateur</b></font> <Badge text="Benign" type="tip" vertical="middle"/>
 
 The Provocateur can kill any target with the kill button. If the target loses at the end of the game, the Provocateur wins with the winning team.
 * Max

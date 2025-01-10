@@ -22,17 +22,17 @@ next: /Roles.html
 
 <tr>
 <td><a href="#benign" style="color:#046300"><b>🕊️ Benign</b></a></td>
-<td align="center">16</td>
+<td align="center">18</td>
 </tr>
 
 <tr>
 <td><a href="#chaos" style="color:#d4af37"><b>😈 Chaos</b></a></td>
-<td align="center">11</td>
+<td align="center">10</td>
 </tr>
 
 <tr>
 <td><a href="#evil" style="color:#912900"><b>👹 Evil</b></a></td>
-<td align="center">8</td>
+<td align="center">7</td>
 </tr>
 
 <tr>
@@ -59,11 +59,11 @@ next: /Roles.html
 
 ### <font color=#046300><b>Benign</b></font>
 ---
-[Amnesiac](/options/Neutrals/Benign/Amnesiac.html) | [Follower](/options/Neutrals/Benign/Follower.html) | [Hater](/options/Neutrals/Benign/Hater.html) | [Lawyer](/options/Neutrals/Benign/Lawyer.html) | [Maverick](/options/Neutrals/Benign/Maverick.html) | [Opportunist](/options/Neutrals/Benign/Opportunist.html) | [Pixie](/options/Neutrals/Benign/Pixie.html) | [Pursuer](/options/Neutrals/Benign/Pursuer.html) | [Revenant](/options/Neutrals/Benign/Revenant.html) | [Romantic](/options/Neutrals/Benign/Romantic.html) | [Ruthless Romantic](/options/Neutrals/Benign/RuthlessRomantic.html) | [Vengeful Romantic](/options/Neutrals/Benign/VengefulRomantic.html) | [Schrodingers Cat](/options/Neutrals/Benign/SchrodingersCat.html) | [Shaman](/options/Neutrals/Benign/Shaman.html) | [Taskinator](/options/Neutrals/Benign/Taskinator.html) | [Troller](/options/Neutrals/Benign/Troller.html)
+[Amnesiac](/options/Neutrals/Benign/Amnesiac.html) | [Follower](/options/Neutrals/Benign/Follower.html) | [Hater](/options/Neutrals/Benign/Hater.html) | [Lawyer](/options/Neutrals/Benign/Lawyer.html) | [Maverick](/options/Neutrals/Benign/Maverick.html) | [Opportunist](/options/Neutrals/Benign/Opportunist.html) | [Pixie](/options/Neutrals/Benign/Pixie.html) | [Provocateur](/options/Neutrals/Chaos/Provocateur.html) | [Pursuer](/options/Neutrals/Benign/Pursuer.html) | [Revenant](/options/Neutrals/Benign/Revenant.html) | [Romantic](/options/Neutrals/Benign/Romantic.html) | [Ruthless Romantic](/options/Neutrals/Benign/RuthlessRomantic.html) | [Vengeful Romantic](/options/Neutrals/Benign/VengefulRomantic.html) | [Schrodingers Cat](/options/Neutrals/Benign/SchrodingersCat.html) | [Shaman](/options/Neutrals/Benign/Shaman.html) | [Taskinator](/options/Neutrals/Benign/Taskinator.html) | [Troller](/options/Neutrals/Benign/Troller.html)
 
 ### <font color=#d4af37><b>Chaos</b></font>
 ---
-[Collector](/options/Neutrals/Chaos/Collector.html) | [God](/options/Neutrals/Chaos/God.html) | [Pirate](/options/Neutrals/Chaos/Pirate.html) | [Provocateur](/options/Neutrals/Chaos/Provocateur.html) | [Revolutionist](/options/Neutrals/Chaos/Revolutionist.html) | [Solsticer](/options/Neutrals/Chaos/Solsticer.html) | [Specter](/options/Neutrals/Chaos/Specter.html) | [Terrorist](/options/Neutrals/Chaos/Terrorist.html) | [Vector](/options/Neutrals/Chaos/Vector.html) | [Vulture](/options/Neutrals/Chaos/Vulture.html) | [Workaholic](/options/Neutrals/Chaos/Workaholic.html)
+[Collector](/options/Neutrals/Chaos/Collector.html) | [God](/options/Neutrals/Chaos/God.html) | [Pirate](/options/Neutrals/Chaos/Pirate.html) | [Revolutionist](/options/Neutrals/Chaos/Revolutionist.html) | [Solsticer](/options/Neutrals/Chaos/Solsticer.html) | [Specter](/options/Neutrals/Chaos/Specter.html) | [Terrorist](/options/Neutrals/Chaos/Terrorist.html) | [Vector](/options/Neutrals/Chaos/Vector.html) | [Vulture](/options/Neutrals/Chaos/Vulture.html) | [Workaholic](/options/Neutrals/Chaos/Workaholic.html)
 
 ### <font color=#912900><b>Evil</b></font>
 ---

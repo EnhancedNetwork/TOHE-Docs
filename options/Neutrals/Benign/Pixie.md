@@ -2,7 +2,7 @@
 lang: en-US
 title: Pixie
 prev: Opportunist
-next: Pursuer
+next: Provocateur
 ---
 
 # <font color="#01ff00">🧚 <b>Pixie</b></font> <Badge text="Benign" type="tip" vertical="middle"/>

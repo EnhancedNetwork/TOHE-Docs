@@ -2,7 +2,7 @@
 lang: en-US
 title: Troller
 prev: Taskinator
-next:/options/Settings/Neutrals.html
+next: /options/Settings/Neutrals.html
 ---
 
 # <font color="#004e6d">🧨 <b>Troller</b></font> <Badge text="Benign" type="tip" vertical="middle"/>

@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Revolutionist
-prev: Provocateur
-next: Spiritcaller
+prev: Pirate
+next: Solsticer
 ---
 
 # <font color=#ba4d06>🚨 <b>Revolutionist</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>

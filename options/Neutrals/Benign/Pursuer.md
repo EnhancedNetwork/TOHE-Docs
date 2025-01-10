@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Pursuer
-prev: Pixie
+prev: Provocateur
 next: Revenant
 ---
 

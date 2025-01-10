@@ -2,7 +2,7 @@
 lang: en-US
 title: Pirate
 prev: God
-next: Provocateur
+next: Revolutionist
 ---
 
 # <font color="#edc240">🏴‍☠️ <b>Pirate</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>

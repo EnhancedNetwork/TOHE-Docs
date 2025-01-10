@@ -2,7 +2,7 @@
 lang: en-US
 title: Jackal
 prev: Infectious
-next: Jinx
+next: Juggernaut
 ---
 
 # <font color="#00b4eb">🐺 <b>Jackal</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

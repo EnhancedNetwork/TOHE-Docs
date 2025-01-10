@@ -2,7 +2,7 @@
 lang: en-US
 title: Schrodingers Cat
 prev: Romantic
-next: Taskinator
+next: Shaman
 ---
 
 # <font color="#404040">🐈 <b>Schrodingers Cat</b></font> <Badge text="Benign" type="tip" vertical="middle"/>

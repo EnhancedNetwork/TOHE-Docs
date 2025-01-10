@@ -433,6 +433,7 @@ export default defineUserConfig({
             { text: 'Maverick', link: '/options/Neutrals/Benign/Maverick.html' },
             { text: 'Opportunist', link: '/options/Neutrals/Benign/Opportunist.html' },
             { text: 'Pixie', link: '/options/Neutrals/Benign/Pixie.html' },
+            { text: 'Provocateur', link: '/options/Neutrals/Benign/Provocateur.html' },
             { text: 'Pursuer', link: '/options/Neutrals/Benign/Pursuer.html' },
             { text: 'Revenant', link: '/options/Neutrals/Benign/Revenant.html'},
             {
@@ -451,7 +452,6 @@ export default defineUserConfig({
             { text: 'Collector', link: '/options/Neutrals/Chaos/Collector.html' },
             { text: 'God', link: '/options/Neutrals/Chaos/God.html' },
             { text: 'Pirate', link: '/options/Neutrals/Chaos/Pirate.html' },
-            { text: 'Provocateur', link: '/options/Neutrals/Chaos/Provocateur.html' },
             { text: 'Revolutionist', link: '/options/Neutrals/Chaos/Revolutionist.html' },
             { text: 'Solsticer', link: '/options/Neutrals/Chaos/Solsticer.html' },
             { text: 'Specter', link: '/options/Neutrals/Chaos/Specter.html' },

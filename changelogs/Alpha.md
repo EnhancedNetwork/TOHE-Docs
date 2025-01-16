@@ -20,7 +20,21 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=3em>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 11</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 12</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Tag system overhaul (You can now create a friendcode.txt file from Tag_Template.txt in TOHE-Data/Tags to assign tags and permissions to a player) (by [Marg](https://github.com/MargaretTheFool))<br>
+\+ <font color=green><b>NEW</b></font>: New win Condition for Quiz Master (by [cosbri1101](https://github.com/Bri1101))<br>
+\+ <font color=green><b>NEW</b></font>: More role choices for Lawyer and Executioner (by [cosbri1101](https://github.com/Bri1101))<br>
+\+ <font color=green><b>NEW</b></font>: Settings for Chief of Police by ([Reborn5537](https://github.com/Reborn5537))<br>
+\+ <font color=green><b>NEW</b></font>: Option for Eraser: can guess erased player<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added IsPlayer*Team method to get a player's team from playercontrol and playerstate directly (Used on Police Chief currently, need further reviewing)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix mod client lawyer and executioner may have tasks<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Mechanic unable to open all doors on Fungle<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Kill cooldown is messed up. still looking into it<br>
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 11</font></b></summary>
 
 = <font color=#ece218><b>NOTICE</b></font>: Newer than Beta 1<br>
 = <font color=#ece218><b>NOTICE</b></font>: 50% of the strings in other languages are in English<br>

@@ -36,13 +36,13 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 
 ## Website Maintainer
 
-[**Pyro**](https://sites.google.com/view/notpyro404)：<font color=#49e6ac>TOHE Docs Website Maintainer + Moderator</font>
+[**Pyro**](https://www.youtube.com/notpyro404)：<font color=#49e6ac>TOHE Docs Website Maintainer + Moderator</font>
 <details>
 <summary><b><font color=gray>About Me</font></b></summary>
 
 I'm also mostly known online as NotPyro404. I am a Moderator in TEN's Discord Server, aswell as a Website Maintainer for [T.E.N.](https://weareten.ca/) (Mainly TOHE Documentation). I've "coded" my first TOHE addon, Sloth!<br>
-I've recently started helping out as a Builder for an upcoming Minecraft Event, MCM.<br>
-If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
+I'm a terrible Content Creator, & Minecraft Builder.<br>
+<span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 </details>
 
 ---
@@ -203,7 +203,7 @@ Hello everyone. I'm a Simplified Chinese Translator and Contributor to this mod.
 
 ---
 
-[**阿龍**](https://www.youtube.com/channel/UCVT0-d5Sxc3ab1AZvkBe-cQ)：Feature Coding + <font color=#de2910><b>Traditional Chinese</b></font> Translator
+[**阿龍**](https://www.youtube.com/@dragontw6945)：Feature Coding + <font color=#de2910><b>Traditional Chinese</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -212,7 +212,7 @@ TChinese Translator for in TOHE since April 2023. I'm a casual gamer, playing ga
 
 ---
 
-[**Drakos**](https://www.youtube.com/channel/UCVT0-d5Sxc3ab1AZvkBe-cQ)：Role/Feature Coding
+[**Drakos**](https://github.com/Ultradragon005)：Role/Feature Coding
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -300,7 +300,7 @@ I'm a TOHE Translator. I like funny stuff that doesn't make any sense for anyone
 
 ### <font color=#de2910><b>Chinese</b></font>
 
-[**FlyFlyTurtle**](https://www.youtube.com/channel/UCVNjUTbJmboTfbjI7K5NfhQ)：<font color=#de2910><b>Traditional Chinese</b></font> Translator
+[**FlyFlyTurtle**](https://www.youtube.com/@FlyFlyCat_)：<font color=#de2910><b>Traditional Chinese</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -391,7 +391,7 @@ I helped with Japanese and Spanish translations for TOHE. I played Ultimate Fris
 
 ### <font color=#009b3a><b>Latam (Latin American)</b></font>
 
-[**xxSShadow**](https://www.youtube.com/channel/UCji4tV4CjOd2Xzo1GxmhCig)：<font color=#009b3a><b>Latam (Latin American)</b></font> Translator + <font color=#ffc400><b>Spanish</b></font> Translator
+[**xxSShadow**](https://www.youtube.com/@xxSShadow)：<font color=#009b3a><b>Latam (Latin American)</b></font> Translator + <font color=#ffc400><b>Spanish</b></font> Translator
 
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -423,7 +423,7 @@ Had done some Dutch translation, but have been inactive lately cause I've been b
 
 ---
 
-[**Victor**](https://youtube.com/@BoxOfDaAmazon?si=TcHHU91EBcodllzk): <font color=#1e448b><b>Dutch</b></font> Translator
+[**Victor**](https://www.youtube.com/@victor007): <font color=#1e448b><b>Dutch</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 

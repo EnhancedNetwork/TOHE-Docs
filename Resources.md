@@ -1431,9 +1431,9 @@ There are a few files:
 - `BanList.txt`: A list of friendcodes that will be unable to join your lobby.
 - `Default_Teamplate.txt`: This is the Default TOHE Template file. If you wish to reset your templates to default, You can use this. (No idea why it says Teamplate.)
 - `DenyName.txt`: A list of names that will be filtered out of the game.
-- `Moderators.txt`: A list of friendcodes that will receive a nice Moderator tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to moderate your lobby (such as using the commands near the top of the page). Only grant users you trust these permissions! (NOTE: `english.dat` is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](./Resources.html) Page.)
+- `Moderators.txt`: A list of friendcodes that will receive a nice Moderator tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to moderate your lobby (such as using the commands near the top of the page). Only grant users you trust these permissions! (NOTE: There is a new system to give out VIP/Permissions)
 - `template.txt`: You can modify the `welcome` and `onMeeting` messages here. You can also add custom templates here as well following the same format as `welcome` & `onMeeting` use.
-- `VIP-List.txt`: A list of friendcodes that will be given a sweet VIP tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to change their name color. (NOTE: `english.dat` is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: `Spanish.dat/SChinese.dat/Latam.dat`/so on.) A list of all base game supported translations can be found on the [Resources](./Resources.html) Page.)
+- `VIP-List.txt`: A list of friendcodes that will be given a sweet VIP tag (editable via `...\Among Us\Language\english.dat`) as well as permissions to change their name color. (NOTE: There is a new system to give out VIP/Permissions)
 - `WhiteList.txt`: A list of friendcodes that will be exempt from blacklisted platforms, along with level requirements.
 
 > From: The Enhanced Network + Compiling: NotPyro404
@@ -1501,6 +1501,17 @@ Just mess around a little bit, and have fun! Make sure you copy your template as
 For some member submitted translations (not yet supported by Town of Host: Enhanced/Base game Among Us), browse the [Resources](/Resources.html) Page.<br>
 
 > From + Compiling: NotPyro404
+</details>
+<details>
+<summary><b><font color=gray>TOHE-DATA Tag System</font></b></summary>
+
+Open the root directory of game: `...\Among Us\TOHE-DATA\`
+
+There are a few folders, you'll want the `Tags` one.:
+
+This folder holds 4 files (by default), 3 Folders (`MOD_TAGS` + `VIP_TAGS`, + `SPONSOR_TAGS`), & a `Tag_Template.txt` file. You can disregard the 3 folders as those use a seperate system of Tags, the new system utilizes the `Tag_Template.txt` file. When you open the Tag Template, you'll see some lines to fill out, first Copy the Tag Template so things are easier (The mod will automatically generate a new one if you've lost it), then you can fill this out however you want to give a user a Custom Tag. You can leave most of it blank for a default tag (display) or edit the other lines with info for specific permissions. The file explains it clear enough, so use that. Once you've filled out the file, you can rename it to the friendcode of the player you want to have the Tag (Like friendcode#1234) and you're set. If you'd like to sort your friend codes into custom folders, you may, and it will automatically be checked AS LONG AS it's in the Tags directory. (Note: Probably works as long as you don't name the folders any of the following: `MOD_TAGS` + `VIP_TAGS`, + `SPONSOR_TAGS`, so don't.)
+
+> From: The Enhanced Network + Compiling: NotPyro404
 </details>
 <details>
 <summary><b><font color=gray>Valid Variables</font></b></summary>

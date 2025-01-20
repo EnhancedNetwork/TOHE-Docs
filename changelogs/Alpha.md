@@ -20,7 +20,22 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 ---
 <font size=3em>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 12</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 13</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Jackal Recruit options by [laikrai](https://github.com/laikrai)<br>
+\+ <font color=green><b>NEW</b></font>: Tag manager now reads in all folders in TOHE-DATA/Tags (except vanilla folders) by [Pyro](https://github.com/NotPyro404)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Remove conflicting addons on role change mid game by [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Godfather working on dead players by [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix torch has wrong vision by [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix players are able to kill immediately after meeting (maybe) by [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Update some role descriptions (for quiz master mostly) by [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix overseer interactions for Trickstar and Illusionist (maybe, need testing) by [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Maybe fix moon dancer causing null reference<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added AssignGameMaster in new tag config (Append AssignGameMaster: yes to end of tag file, and target player will be assigned game master on game start) (AntiBlackout not fixed for gamemaster btw)<br>
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 12</font></b></summary>
 
 \+ <font color=green><b>NEW</b></font>: Tag system overhaul (You can now create a friendcode.txt file from Tag_Template.txt in TOHE-Data/Tags to assign tags and permissions to a player) (by [Marg](https://github.com/MargaretTheFool))<br>
 \+ <font color=green><b>NEW</b></font>: New win Condition for Quiz Master (by [cosbri1101](https://github.com/Bri1101))<br>

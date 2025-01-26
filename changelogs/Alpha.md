@@ -21,7 +21,17 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <font size=3em>
 
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 15</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 15.1</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Add Option NonCrewRandomCommonTasks (Non-crew players has random different common tasks apart from crew)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: /r role and /bt role now support multiple languages (enabled by modsettings/crosslanguage option)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix tags in root tag folder not loading<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix the assign of game master<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Send failed error on failed murder attempts<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Custom translation does not seem to load
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 15</font></b></summary>
 
 \+ <font color=green><b>NEW</b></font>: Option For Low Load: Delay Update Names by [TommyXL](https://github.com/Tommy-XL) (Previously names for vanilla updates per second. This seems unnecessary, so we added this option to only update names for vanilla when it is necessary, if you encounter any issues about name updates, try disable this option and report to us)<br>
 \+ <font color=green><b>NEW</b></font>: Option: change first kill cool down by [TommyXL](https://github.com/Tommy-XL) (This means now you can decide whether to reset a killer's kcd to normal, or set a shared kcd, on game start)<br>
@@ -30,19 +40,16 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix unshapeshifter can see host shapeshifting into itself on meeting<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix converted addons and addons like lover got removed mid game<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix guesser unable to guess roles instead of being unable to guess players based on team by [ImpyIsLazy](https://github.com/impostor4291)<br>
-
-Known issue:
-Assign game master based on tags.txt does not work and will crash game<br>
-You must create a folder in TOHE-DATA/tags and put tags.txt into that folder for the mod to load tags<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Assign game master based on tags.txt does not work and will crash game<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: You must create a folder in TOHE-DATA/tags and put tags.txt into that folder for the mod to load tags
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 14</font></b></summary>
 
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Disperser, Escapist, Soul Catcher, Miner, QuickShooter now uses UnShapeShift button by [cosbri1101](https://github.com/Bri1101), [ImpyIsLazy](https://github.com/impostor4291), & [Niko](https://github.com/NikoCat233)
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Disperser, Escapist, Soul Catcher, Miner, QuickShooter now uses UnShapeShift button by [cosbri1101](https://github.com/Bri1101), [ImpyIsLazy](https://github.com/impostor4291), & [Niko](https://github.com/NikoCat233)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Jester, Jackal and Sidekick now can't get ghost role by [TommyXL](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: Chat spam system (enable in Mod Settings -> Guess Mode) (It is much faster and stable than previous spams, Niko hope you will like it)<br>
+\+ <font color=green><b>NEW</b></font>: Chat spam system (enable in Mod Settings -> Guess Mode) (It is much faster and stable than previous spams, Niko hope you will like it)
 </details>
-
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 13</font></b></summary>
 
@@ -55,8 +62,7 @@ You must create a folder in TOHE-DATA/tags and put tags.txt into that folder for
 = <font color=#F6BE00><b>CHANGE</b></font>: Update some role descriptions (for quiz master mostly) by [Marg](https://github.com/MargaretTheFool)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix overseer interactions for Trickstar and Illusionist (maybe, need testing) by [ImpyIsLazy](https://github.com/impostor4291)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Maybe fix moon dancer causing null reference<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Added AssignGameMaster in new tag config (Append AssignGameMaster: yes to end of tag file, and target player will be assigned game master on game start) (AntiBlackout not fixed for gamemaster btw)<br>
-
+= <font color=#F6BE00><b>CHANGE</b></font>: Added AssignGameMaster in new tag config (Append AssignGameMaster: yes to end of tag file, and target player will be assigned game master on game start) (AntiBlackout not fixed for gamemaster btw)
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 12</font></b></summary>
@@ -69,8 +75,7 @@ You must create a folder in TOHE-DATA/tags and put tags.txt into that folder for
 = <font color=#F6BE00><b>CHANGE</b></font>: Added IsPlayer*Team method to get a player's team from playercontrol and playerstate directly (Used on Police Chief currently, need further reviewing)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix mod client lawyer and executioner may have tasks<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Mechanic unable to open all doors on Fungle<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: Kill cooldown is messed up. still looking into it<br>
-
+= <font color=#de6707><b>KNOWN BUG</b></font>: Kill cooldown is messed up. still looking into it
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 11</font></b></summary>
@@ -83,8 +88,7 @@ You must create a folder in TOHE-DATA/tags and put tags.txt into that folder for
 \+ <font color=green><b>NEW</b></font>: Intro Screen for Coven roles (by [sussynba](https://github.com/PEPPERcula))<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Retributionist settings showing in impostor tab (by [sussynba](https://github.com/PEPPERcula))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Changed role type for SunnyBoy and Provocateur (by [ImpyIsLazy](https://github.com/impostor4291))<br>
-\+ <font color=green><b>NEW</b></font>: Option: Sheriff misfire on admired players (by [ImpyIsLazy](https://github.com/impostor4291))<br>
-
+\+ <font color=green><b>NEW</b></font>: Option: Sheriff misfire on admired players (by [ImpyIsLazy](https://github.com/impostor4291))
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 10</font></b></summary>
@@ -198,7 +202,7 @@ You must create a folder in TOHE-DATA/tags and put tags.txt into that folder for
 <summary><b><font color=#a175ff>v2.2.0 Coven Alpha 8</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Ritualist's messages aren't hidden<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Necromancer gets revived if their role is reverted while they die
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Necromancer gets revived if their role is reverted while they die<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Necromancer's duration no longer counts down while in a meeting<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where win conditions are screwed up<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Necromancer and Sacrifist's durations are no longer displayed with 5 decimal places<br>
@@ -218,11 +222,11 @@ You must create a folder in TOHE-DATA/tags and put tags.txt into that folder for
 = <font color=#1376f0><b>BUG FIX</b></font>: Maybe Fixed Error Spam when a modded client disconnected from game during meeting or other important period<br>
 \+ <font color=green><b>NEW</b></font>: Added KN detect (not sure whether it works) by [red88phantom](https://github.com/redphantom1000)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Parasite and imp can see each other on intro<br>
-\+ <font color=green><b>NEW</b></font>: Can Set impostors num to 0 - maxplayers/2
+\+ <font color=green><b>NEW</b></font>: Can Set impostors num to 0 - maxplayers/2<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Multiple improvements in codes<br>
 \+ <font color=green><b>NEW</b></font>: Experimental Custom Net Object (Influenced roles: AbyssBringer (new role and buggy), Bomber (seems good), Fireworker (hasn't tested), RiftMaker (may be buggy))<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Abyssbringer blackhole wont despawn after meeting (settings)<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: Abyssbringer blackhole stops when no target to follow (will make it head to pelican blackroom and despawn)
+= <font color=#de6707><b>KNOWN BUG</b></font>: Abyssbringer blackhole stops when no target to follow (will make it head to pelican blackroom and despawn)<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: RiftMaker's Rift can be seen by everyone<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: May disconnect players<br>
 = <font color=#fdf08e><b>NOTE</b></font>: Pitfall should also use this stuff<br>
@@ -523,7 +527,7 @@ You must create a folder in TOHE-DATA/tags and put tags.txt into that folder for
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added custom label ID for modded (from EHR)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when revived player not change custom role when they have ghost role<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when settings not synced
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when settings not synced<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Some small changes<br>
 </details>
 <details>
@@ -545,16 +549,10 @@ You must create a folder in TOHE-DATA/tags and put tags.txt into that folder for
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added warning message about enabled setting "No Game End" (Warns only host when he presses the start button)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.1.0 Alpha 9.1</font></b></summary>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 9.2</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when "BanList.txt" work incorrectly (Sorry, i forgot to remove just one code, lol)
-</details>
-<details>
-<summary><b><font color=#d395b4>v2.1.0 Alpha 9.1</font></b></summary>
-
-* By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Just fixed problems where the game ends immediately after starting (Optional upgrade if you don't finish the game immediately after starting, lol)
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 9.1</font></b></summary>
@@ -665,10 +663,8 @@ You must create a folder in TOHE-DATA/tags and put tags.txt into that folder for
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 4</font></b></summary>
 
-::: danger Caution
 = <font color=#de6707><b>KNOWN BUG</b></font>: Search in setting broken<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Role info in setting menu temporarily removed<br>
-:::
 
 * By [**TommyXL**](https://github.com/Tommy-XL) & [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Support new update AU v2024.8.13<br>
@@ -979,7 +975,6 @@ You must create a folder in TOHE-DATA/tags and put tags.txt into that folder for
 
 * By [**D1GQ**](https://github.com/D1GQ)<br>
 = <font color=#F6BE00><b>CHANGES</b></font>: Lots of fixes/changes for Dollmaster:<br>
-
 \- <font color=red><b>REMOVED</b></font>: Dollmaster and Possessed player are no longer fragile.<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Dollmaster LongInfo has been updated to compensate the removal above.<br>
 \+ <font color=green><b>NEW</b></font>: Dollmaster and possessed player roles display will swap when possessed.<br>

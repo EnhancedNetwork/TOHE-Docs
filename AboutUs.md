@@ -29,7 +29,7 @@ I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++.
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-bio
+Placeholder
 </details>
 
 ---
@@ -187,7 +187,7 @@ and I also do 3D art design as a hobby! Glad to meet everyone here and can't wai
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-bio
+Placeholder
 </details>
 
 ---
@@ -196,7 +196,9 @@ bio
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-bio
+Hi, I'm Jarne, Lead Developer for Mod Manager. My ultimate goal is to make Mod Manager the best software for Among Us players, bringing all mods together in one seamless, user-friendly experience.<br>
+
+I'm determined to do whatever it takes to make this vision a reality. From designing intuitive interfaces to ensuring smooth mod integration, I'm focused on creating a platform that's as fun to use as the game itself.
 </details>
 
 ---

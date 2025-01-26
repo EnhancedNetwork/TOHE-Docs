@@ -19,8 +19,32 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 
 ---
 <font size=3em>
+
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 13</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 15</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Option For Low Load: Delay Update Names by [TommyXL](https://github.com/Tommy-XL) (Previously names for vanilla updates per second. This seems unnecessary, so we added this option to only update names for vanilla when it is necessary, if you encounter any issues about name updates, try disable this option and report to us)<br>
+\+ <font color=green><b>NEW</b></font>: Option: change first kill cool down by [TommyXL](https://github.com/Tommy-XL) (This means now you can decide whether to reset a killer's kcd to normal, or set a shared kcd, on game start)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Modded Clients Always Play Shield Animation When "Disable Shield Animations" Is off  by [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Madmate Psychic not seeing all Neutrals in red names by [cosbri1101](https://github.com/Bri1101)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix unshapeshifter can see host shapeshifting into itself on meeting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix converted addons and addons like lover got removed mid game<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix guesser unable to guess roles instead of being unable to guess players based on team by [ImpyIsLazy](https://github.com/impostor4291)<br>
+
+Known issue:
+Assign game master based on tags.txt does not work and will crash game<br>
+You must create a folder in TOHE-DATA/tags and put tags.txt into that folder for the mod to load tags<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 14</font></b></summary>
+
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Disperser, Escapist, Soul Catcher, Miner, QuickShooter now uses UnShapeShift button by [cosbri1101](https://github.com/Bri1101), [ImpyIsLazy](https://github.com/impostor4291), & [Niko](https://github.com/NikoCat233)
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Jester, Jackal and Sidekick now can't get ghost role by [TommyXL](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Chat spam system (enable in Mod Settings -> Guess Mode) (It is much faster and stable than previous spams, Niko hope you will like it)<br>
+</details>
+
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 13</font></b></summary>
 
 \+ <font color=green><b>NEW</b></font>: Jackal Recruit options by [laikrai](https://github.com/laikrai)<br>
 \+ <font color=green><b>NEW</b></font>: Tag manager now reads in all folders in TOHE-DATA/Tags (except vanilla folders) by [Pyro](https://github.com/NotPyro404)<br>

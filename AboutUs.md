@@ -25,11 +25,11 @@ I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++.
 
 ## Co-President
 
-[**ryuk**](https://github.com/ryuk201198)：<font color=#9e2424>Co-President + Head of Development</font>
+[**Sarha**](#)：<font color=#e0b0ff>Co-President</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I help in role and feature coding, and also help in fixing bugs from time to time. I love listening to music and coding. I usually prefer to code in python whether it may be for competitive coding or a small program. I also love playing action-adventure games with a good story line. <s>I actually coded my first role with 0 knowledge of C# because someone who shall not be named couldn't code Vulture.</s> xV and Solarflare helped me a lot initially in helping me code features and roles.
+bio
 </details>
 
 ---
@@ -38,10 +38,10 @@ I help in role and feature coding, and also help in fixing bugs from time to tim
 
 [**Pyro**](https://www.youtube.com/notpyro404)：<font color=#49e6ac>TOHE Docs Website Maintainer + Moderator</font>
 <details>
-<summary><b><font color=gray>About Me</font></b></summary>
+<summary><b><font color=gray>About</font></b></summary>
 
-I'm also mostly known online as NotPyro404. I am a Moderator in TEN's Discord Server, aswell as a Website Maintainer for [T.E.N.](https://weareten.ca/) (Mainly TOHE Documentation). I've "coded" my first TOHE addon, Sloth!<br>
-I'm a terrible Content Creator, & Minecraft Builder.<br>
+I'm also mostly known online as NotPyro404. I am a Moderator in TEN's Discord Server, aswell as a Website Maintainer for [T.E.N.](https://weareten.ca/) (Mainly TOHE Documentation). I've "coded" a bit for Town of Host: Enhanced, but not a lot.<br>
+I'm a terrible Content Creator & Minecraft Builder.<br>
 <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 </details>
 
@@ -72,6 +72,26 @@ Helping out with Tickets, bot related things... basically anything to do with th
 <summary><b><font color=gray>About</font></b></summary>
 
 I'm 25 years old from the United States. I am a bar certified attorney in contract law as well as professional broadcast engineer working full time for ESPN. In my free time, I run a non-profit food ministry in Louisiana as well as enjoy watching sports.
+</details>
+
+---
+
+[**ryuk**](https://github.com/ryuk201198)：<font color=#9e2424>Head of Development</font>
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I help in role and feature coding, and also help in fixing bugs from time to time. I love listening to music and coding. I usually prefer to code in python whether it may be for competitive coding or a small program. I also love playing action-adventure games with a good story line. <s>I actually coded my first role with 0 knowledge of C# because someone who shall not be named couldn't code Vulture.</s> xV and Solarflare helped me a lot initially in helping me code features and roles.
+</details>
+
+---
+
+## Translation Manager
+
+[**TBD**](#)：Translation Manager
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+ToBeDetermined
 </details>
 
 ---
@@ -142,18 +162,18 @@ Hey! I am Cayla, I love the ocean and anything nautical. My favorite animal is a
 
 ---
 
-### Lead Developers
+## Lead Developers
 
-[**Tommy-XL**](https://github.com/Tommy-XL)：<font color=#008080>TOHE Lead Developer + Role/Feature Coding + <font color=#0036a7><b>Russian</b></font> Translator</font>
+[**NikoCat233**](https://github.com/NikoCat233): <font color=#ffff00>Town of Host: Enhanced - Lead Developer</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I love playing games (I mostly play all games on PlayStation). I especially pay attention to the soundtracks in games/anime, for example in the game "Undertale" and in the anime "Death Note", they are very good. I'm interested in programming, but I really started programming after Karped stopped being a TOHE developer.
+I initially started coding for mod to host public modded rooms, especially when mods was being banned from public matchmaking. I helped with role coding and feature development. Now, I'm actively fixing bugs and improving the mod's performance. "Coding for play" has always been my source of passion, driving me to keep working on this project.
 </details>
 
 ---
 
-[**D1GQ**](https://github.com/D1GQ)：<font color=#1a5a91>BAU Lead Developer + Role Coding</font>
+[**D1GQ**](https://github.com/D1GQ)：<font color=#1a5a91>Better Among Us/The Better Roles - Lead Developer</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -163,15 +183,33 @@ and I also do 3D art design as a hobby! Glad to meet everyone here and can't wai
 
 ---
 
+[**Dan**](#)：<font color=#a99a86>Town of Host: Enhanced <b>RANKED</b> - Lead Developer</font>
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+bio
+</details>
+
+---
+
+[**Jarne**](#)：<font color=#0000ff>Mod Manager - Lead Developer</font>
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+bio
+</details>
+
+---
+
 ## TOHE Team
 
 ### Contributors
 
-[**NikoCat233**](https://github.com/NikoCat233): Role/Feature Coding
+[**Tommy-XL**](https://github.com/Tommy-XL)：Senior Contributor + Role/Feature Coding + <font color=#0036a7><b>Russian</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I initially started coding for mod to host public modded rooms, especially when mods was being banned from public matchmaking. I helped with role coding and feature development. Now, I'm actively fixing bugs and improving the mod's performance. "Coding for play" has always been my source of passion, driving me to keep working on this project.
+I love playing games (I mostly play all games on PlayStation). I especially pay attention to the soundtracks in games/anime, for example in the game "Undertale" and in the anime "Death Note", they are very good. I'm interested in programming, but I really started programming after Karped stopped being a TOHE developer.
 </details>
 
 ---
@@ -223,7 +261,7 @@ I play chess when I'm bored, and catch crypto pumps 😼. I also workout and try
 
 ---
 
-[**Marg**](https://margsbuttons.carrd.co/)：Role/Feature Coding
+[**Marg**](https://margsbuttons.carrd.co/)：Senior Contributor +Role/Feature Coding
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -467,7 +505,7 @@ I'm a Portuguese Portugal Translator (maybe the only one 😓). I mostly like to
 
 [**賣蟑螂(NK)**](https://www.youtube.com/@notkomi_lol)：Art (Ability/Skill Buttons)
 <details>
-<summary><b><font color=gray>About Me</font></b></summary>
+<summary><b><font color=gray>About</font></b></summary>
 
 Hello, I am a senior high school from Taiwan. I like to play Minecraft PvP, Among Us, Project Sekai. Nice to meet you! :D
 </details>
@@ -476,7 +514,7 @@ Hello, I am a senior high school from Taiwan. I like to play Minecraft PvP, Amon
 
 [**IRIDESCENT**](https://space.bilibili.com/434079598)：Art (Tab Images)
 <details>
-<summary><b><font color=gray>About Me</font></b></summary>
+<summary><b><font color=gray>About</font></b></summary>
 
 Created most of the Images that TOHE uses (Such as Tab Images)
 </details>

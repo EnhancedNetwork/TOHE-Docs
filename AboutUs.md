@@ -29,7 +29,7 @@ I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++.
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-Placeholder
+Sarha has a curious mind and a talent for tackling challenges head-on, turning ideas into real results. Whether it’s coming up with creative solutions, sorting through tricky data, or finding the best approach for any task, she’s always ready to adapt and get things done. With a love for learning and creating, Sarha brings energy and expertise to everything she works on.
 </details>
 
 ---

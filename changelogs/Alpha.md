@@ -21,7 +21,31 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <font size=3em>
 
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 15.1</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 16.1</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix cancelled murder attempts falsely flagging eac<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 16</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix "SecurityCameraSystem" Not Cleared After RpcExile<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Free for All not working<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix witch mark broken<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix /up message shown to everyone<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve code performance<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Add Some Crew Roles For CopyCat<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix bug when RemoveIncompatibleAddOns counts self add-on as Incompatible<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve AntiBlackout<br>
+
+* By [**Others**](#)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve god father's addon assign [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Jackal and Police Chief can recruit Neutral Apocalypse [Reborn5537](https://github.com/Reborn5537)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Mad/Recruit/Enchanted Amnesiac being able to report bodies after killing OIIAI [cosbri1101](https://github.com/Bri1101)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 15.1</font></b></summary>
 
 \+ <font color=green><b>NEW</b></font>: Add Option NonCrewRandomCommonTasks (Non-crew players has random different common tasks apart from crew)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: /r role and /bt role now support multiple languages (enabled by modsettings/crosslanguage option)<br>

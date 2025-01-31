@@ -19,7 +19,83 @@ To access Beta Builds, visit TEN's [Discord Server](https://discord.gg/ten) and 
 ---
 <font size=3em>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Beta 1</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Beta 2</font></b></summary>
+
+Translations for other languages may be outdated or inaccurate
+This is a beta build; there may be some unstable features; please feel free to provide feedback!
+
+InnerSloth has rolled out a server-side anti-cheating update that randomly kicks modded players on official servers. We have asked InnerSloth and expect a Slothly fix from them. If you don't want to be bothered, you can play on modded regions like Niko's or Official Modded. 
+
+## Major Changes
+- Coven Roles are now back! @MargaretTheFool 
+  - You can find a detailed document by [clicking here](https://docs.google.com/document/d/1KaBjn6qk5NqUC7Ax7uQxXY1C9wsswWH__rBdzrZCd1I/edit?usp=sharing) until the [Website](https://tohe.weareten.ca/) is updated (PSA, it is updated as of Release 2.2.0)!
+- New Tag System @MargaretTheFool and @NotPyro404 
+  - You can now create a friendcode.txt file from Tag_Template.txt in TOHE-Data/Tags to assign tags and permissions to a player
+- New chat spam system (enable in Mod Settings -> Guess Mode) @NikoCat233
+  - It is much faster and more stable than previous spam
+- Add option NonCrewRandomCommonTasks @NikoCat233 
+  - Non-crew players can have random different common tasks apart from the crew
+  - Managed by options in mod settings
+- /r role and /bt role now support multiple languages (enabled by mod settings/cross-language option) @NikoCat233 
+- RemoveIncompatibleAddOns @MargaretTheFool & @Impostor4291 & @NikoCat233 & @Tommy-XL 
+  - When add-ons or roles are changed mid-game, the game will check whether existing add-ons are compatible with the new ones and remove the incompatible ones
+  - Managed by options in add-on tabs
+- Bring back the Old Option Shower (experimental) @NikoCat233
+
+## Bug fixes
+- Fixed an issue where a modded client Lawyer/Executioner may have tasks @NikoCat233
+- Fixed a bug where the Mechanic was unable to open all doors on The Fungle @NikoCat233
+- Fixed a bug where Godfather would work on dead players @MargaretTheFool 
+- Fixed a bug where Torch would be assigned an incorrect Vision Multiplier @impostor4291
+- Fixed a bug where players were able to kill immediately after a meeting @Tommy-XL
+- Fixed Overseer interactions with Trickstar and Illusionist @impostor4291
+- Fix a bug where the Moon Dancer would cause null reference errors @NikoCat233
+- Adjusted roles such as Jester, Jackal, and Sidekick to prevent them from getting ghost roles @Tommy-XL
+- Fixed a bug where modded clients would play shield animations despite "Disable Shield Animations" being off @Tommy-XL
+- Fixed a bug where Madmate Psychic would not see all Neutrals in red names @Bri1101
+- Fixed a bug where the unshapeshifter would see the host shapeshifting into itself during meetings @NikoCat233
+- Fixed a bug where the guesser was unable to guess roles instead of being unable to guess players based on their faction @impostor4291
+- Fixed a bug where the Security Camera ran despite the player being exiled @Tommy-XL
+- Fixed the "Free for All" mode, which was not working @Tommy-XL
+- Fixed Mad/Recruit/Enchanted Amnesiac being able to report bodies after killing @Bri1101
+- Fixed Jackal and Police Chief being able to recruit Neutral Apocalypse @Reborn5537
+
+## Improvements
+- New Option For Low Load: Delay Update Names @Tommy-XL
+  - Previously, names for vanilla clients would update every second. This seemed unnecessary, so we added this option to only update names for vanilla when necessary
+  - If you encounter any issues with name updates, turn off this option and send us a report or open an Issue!
+- New option: Change first kill cool down @Tommy-XL
+  - This means now you can decide whether to reset a killer's KCD to normal or set a shared KCD on game start
+- Added new win Condition for Quizmaster @Bri1101
+- Added more role fallbacks for Lawyer and Executioner when their target would die @Bri1101
+- Added new Chief of Police (COP) Settings @Reborn5537
+- New Option: Eraser can guess an Erased player
+- New Jackal Recruit Options @laikrai
+- Update some strings for consistency and error fixes @NikoCat233 & @PEPPERcula 
+- Add Some Crew Roles For Copycat @Tommy-XL
+- Improve Godfather's add-on assignment @impostor4291
+- Disperser, Escapist, Soul Catcher, Miner, Quick Shooter use unshapeshifter @impostor4291 & @Bri1101
+
+## Silent Tweaks:
+- Send failed error on failed murder attempts @NikoCat233
+- Improve code performance @Tommy-XL
+- Improve AntiBlackout @Tommy-XL
+- Repo is now set to use utf-8 crlf as encoding. @NikoCat233
+
+We are very sorry if we missed any contributions. Writing such a significant change log is challenging, but everyone's effort is appreciated!
+
+### Update on Mod Progress & How You Can Help
+
+Our mod updates are moving slower than we'd like because our small team has limited time to work on coding. Our top priority is keeping the mod stable and fixing any bugs so everyone can enjoy it without issues.
+
+Volunteers from our community added new roles, features, and improvements, and we thank everyone who contributed! Please remember that these updates often take longer because they rely on volunteers' free time.
+
+Want to help speed things up? We'd love to welcome new contributors! Whether you're comfortable polishing existing code, designing characters, or suggesting creative ideas, your help can make a big difference. No matter your skill level, there's room for you to join in and shape the mod's future.
+
+We're grateful for your patience and support. Let's keep making this mod even better—together!
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Beta 1</font></b></summary>
 
 \+ <font color=green><b>NEW</b></font>: Crowded Mod now included in TOHE (TOHE is now incompatible with CrowdedMod since we included all its features. Of course, it won't work on InnerSloth official servers. You can actually set imposter number to 0 now)<br>
 \+ <font color=green><b>NEW</b></font>: Tasks Assign System (TOHE now completely assigns the tasks apart from InnerSloth's system,Role conversion mid-game will now reset tasks)<br>

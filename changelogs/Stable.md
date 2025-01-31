@@ -32,10 +32,8 @@ There are no notes for this yet.
 <details>
 <summary><b><font color=#d395b4>v2.1.0</font></b></summary>
 
-::: danger Caution
 = <font color=#de6707><b>KNOWN BUG</b></font>: (Maybe fixed now) Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, & Imitator are working, but are unstable<br>
-:::
 
 * <font color=green><b>NEW ROLES/ADDONS</b></font></font><br>
 \+ <font color=green><b>NEW</b></font>: Possessor (Imposter Ghost Role, idea & coded: D1GQ)  <br>

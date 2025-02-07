@@ -19,11 +19,47 @@ To access Beta Builds, visit TEN's [Discord Server](https://discord.gg/ten) and 
 ---
 <font size=3em>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Beta 2</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Beta 3</font></b></summary>
+
+We've received a definitive update from the developers at Innersloth regarding the Rate Limit anti-cheat measures.
+Innersloth has decided to temporarily relax these measures, with plans to reinstate them on April 4th. This will give modders ample time to adapt to the changes in the anti-cheat strategy. We're actively working with the team to ensure a smooth transition.
+During this period, we'll be rolling out several test builds to assess the situation and prepare for the eventual reactivation of the anti-cheat measures.
+Please keep in mind that, due to the limitations of the game protocol, we cannot guarantee a fully stable experience on official servers once the Rate Limit anti-cheat measures are reinstated.
+Innersloth recommends that modders who cannot adapt to these changes consider moving to Modded Regions. These regions may offer a more consistent and stable experience than the official servers, making them an ideal alternative for many players.
+
+= <font color=#ece218><b>NOTICE</b></font>: When playing on InnerSloth official servers, please be aware that the Rate Limit anti-cheat system may cause compatibility issues with most mods, leading to unexpected in-game problems that wouldn't occur on modded regions. There's also a small chance the anti-cheat system could flag you.
+If you experience any of these issues, feel free to submit a bug report through our Discord, and we'll do our best to resolve it.
+Important changes by @Tommy-XL and @NikoCat233
+You may experience slower loading times on official servers, missing chat messages, delayed player name updates, and occasional role assignment issues. For the best gaming experience, we recommend playing on modded regions like Niko's or Modded.
+We've added an option to toggle Rate Limit Bypasses on or off in System Settings at the top.
+By default, it’s enabled and will only work on official servers. Since Innersloth has temporarily eased its Rate Limit anti-cheat, you can safely disable it for a more stable experience on official servers. However, we’d greatly appreciate it if you could enable it and help us test its functionality.
+
+= <font color=#ece218><b>NOTICE</b></font>: Once Innersloth reactivates its Rate Limit anti-cheat, Rate Limit Bypasses will be automatically enforced.
+Remember, this may cause unexpected issues on official servers, such as unhidden messages from guessers, delayed player name updates, packet loss resulting in missed updates, occasional black screens after meetings, and very slow loading times. If you continue to play with this option enabled, please be aware that the server may become unstable, and there is a slight chance of being flagged by the anti-cheat system. We will do our best to address these issues, but please understand that some may be beyond our control.
+
+## Bug Fixes & Improvements
+Improved Custom Net Object @NikoCat233
+CNO now fully adheres to the rate limit anti-cheat
+More Custom Buttons @PEPPERcula
+18 images added or updated to the mod
+Solsticer and Workaholic won't be Executioner's target @impostor4291 and @Tommy-XL
+Fixed Shapeshift showing the original name for vanilla players @Tommy-XL
+Solsticer can't be Bounty Hunter or Huntsman's target @Bri1101
+Bounty Hunter and Huntsman can no longer target friendly team members (e.g., their lover or romantic partner)
+Fixed CN_Template @Reborn5537
+Madmate impostors can get the last impostor @impostor4291
+Auto start added after a certain time on modded regions @NikoCat233
+Fixed error ending the game when a player disconnects due to an error on modded regions @NikoCat233
+Converted coven team members won't target coven teammates (e.g., BodyGuard) @MargaretTheFool
+Delayed the check of the closest vent and serialized close vent @Tommy-XL
+Fixed additional winners sometimes being missed from final winners @impostor4291
+
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Beta 2</font></b></summary>
 
 Translations for other languages may be outdated or inaccurate
 This is a beta build; there may be some unstable features; please feel free to provide feedback!
-
 InnerSloth has rolled out a server-side anti-cheating update that randomly kicks modded players on official servers. We have asked InnerSloth and expect a Slothly fix from them. If you don't want to be bothered, you can play on modded regions like Niko's or Official Modded. 
 
 ## Major Changes
@@ -42,7 +78,7 @@ InnerSloth has rolled out a server-side anti-cheating update that randomly kicks
   - Managed by options in add-on tabs
 - Bring back the Old Option Shower (experimental) @NikoCat233
 
-## Bug fixes
+## Bug Fixes
 - Fixed an issue where a modded client Lawyer/Executioner may have tasks @NikoCat233
 - Fixed a bug where the Mechanic was unable to open all doors on The Fungle @NikoCat233
 - Fixed a bug where Godfather would work on dead players @MargaretTheFool 
@@ -149,7 +185,7 @@ We're grateful for your patience and support. Let's keep making this mod even be
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug where Arsonist may not be able to douse someone (maybe)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Consigliere not being able to guess certain roles<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Kamikaze mod clients not seeing icons<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some roles allowing misguess to be ignored<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some roles allowing mis-guess to be ignored<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix stealer addon displaying wrong vote number on display<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix sending chat bug causing blackmailer false spam<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed vanilla clients still seeing modded name on meeting after a player has left the game<br>

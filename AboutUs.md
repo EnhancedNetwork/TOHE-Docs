@@ -40,7 +40,7 @@ Sarha has a curious mind and a talent for tackling challenges head-on, turning i
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I'm also mostly known online as NotPyro404. I am a Moderator in TEN's Discord Server, aswell as a Website Maintainer for [T.E.N.](https://weareten.ca/) (Mainly TOHE Documentation). I've "coded" a bit for Town of Host: Enhanced, but not a lot.<br>
+I'm also mostly known online as NotPyro404. I am a Moderator in TEN's Discord Server, as well as a Website Maintainer for [T.E.N.](https://weareten.ca/) (Mainly TOHE Documentation). I've "coded" a bit for Town of Host: Enhanced, but not a lot.<br>
 I'm a terrible Content Creator & Minecraft Builder.<br>
 <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 </details>

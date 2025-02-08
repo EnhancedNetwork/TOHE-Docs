@@ -34,6 +34,13 @@ Only the Cultist team and the <font color=#8cffff>Crewmate</font> team are left,
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+My Family
+The cultist was a Orphan one which no one wanted he Always saw children get adopted but no one ever looked for him all he wanted was a Family growing up all alone he also learned people are easily influenced with some lies and decided to go and get someone to Join him he was sick of being alone
+
+He went up to the Mayor and Said "Do you believe in aliens? Well join me and we can prove they are real"
+The Mayor Just stared at him then nodded and joined the cultist next the cultist went to the Admirer and was Just charming him with preety words the admirer then joined the cultist next the cultist even spread word that there is a Apocalypse coming and we should all stick together for survival which got him even more followers cultist with His charming skills charmed all of them in the end there was one impostor and everyone Else was charmed they ejected the impostor and won the cultist was Happy for the First time in forever he was not alone...
+
+The end
+
+> Submitted by: Kira (Vampire)
 </details>

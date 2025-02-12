@@ -21,7 +21,26 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <font size=3em>
 
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 16.1</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 17.1</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix game wont start due to IRandom<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 17</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix unshapeshifter messed up host skin on meeting<br>
+\+ <font color=green><b>NEW</b></font>: Custom buttons for Glitch [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvements for Romantic [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: If romantic accidentally kills their partner,romantic will<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: If romantic's partner is ejected,or dies by suicide,or the killer is dead,romantic will become ruthless romantic<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix admired necromancer not winning with crew [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve random system<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Necromancer and Apocalypse being able to see each other when Necromancer takes Apocalypse role<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Necromancer being unable to see reveals from revealing roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Apocalypse can target Necromancer when Necromancer has Apocalypse role<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 16.1</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix cancelled murder attempts falsely flagging eac<br>
 </details>

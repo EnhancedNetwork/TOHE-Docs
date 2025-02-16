@@ -45,6 +45,35 @@ Executioner has an execution target, which will be indicated by a diamond 「♦
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+"Another beautiful Morning to chop off some heads eh chap?" Declared the executioner to his fellow comrades as he picked up his scythe.
+And then his pale faced, Green eyed friend came funning through the door with a knife stuck in his back
+The executioner screamed "NOO Who did this Agamemnon do you know?"
+"A- Aeg- Aegisthus"
+"Don't you dare leave me here Just stay awake."
+But to no use, Agamemnon stopped breathing..
+
+The whole day the Executioner was bawling and he refused to talk to anyone.
+He had one goal in his mind though. Revenge.
+
+As the dark dusty dawn shed light on the poorly lit room of the Executioner, A fire was lit in his eyes. He would stop at nothing to get back at Aegisthus.
+The game has just gone afoot.
+
+As the days went by the Executioner kept tip-toeing around Aegisthus' room trying to find some incriminating evidence. And it was a fortnight later that he was informed of the secret plan of Aegisthus to dethrone Ulysseus.
+
+Now that he knew he could get the blonde, Blue eyed brilliant ruler of Ithaca behind his back? He would be unstoppable
+
+Now the main plan comes to life.
+Get everyone to believe The Executioners' story
+
+And so he went. Exaggerating all the events and getting people to sympathise with him.
+It was truly a great day to be him.
+
+And then Aegisthus was executed by the hands of the executioner... Poetic truly
+
+The executioner wins by getting revenge!!
+"All of this took so much work that I might just collapse" 
+
+And the executioner became unconscious
+
+> Submitted by: champofchamps78
 </details>

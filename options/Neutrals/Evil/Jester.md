@@ -35,6 +35,20 @@ If the Jester get voted out, the Jester wins the game alone. If the Jester is st
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+“Have you seen my girlfriend, Have you seen my girlfriend”
+ 
+Life was pretty tough for the jester he’s parents were teachers who got caught in the ARS Incident and sadly died, so for most of his life he was an orphan but that didn’t bother him, he just kept smiling and smiling knowing it would get better, He’s a really optimistic person without a care in the world and always looking at the bright side of things.
+ 
+He’s dream was always to be a comedian, making people happy and laugh like he is, but sometimes he just gets horrible stage fright so he didn’t did it, until he saw her “The Trickster” they talk for a while, they have the same interest and they decided to become a comedy duo and it worked they were the best comedians for a while, but it didn’t last for long
+ 
+After sometime after a show they decided to take a walk in the park but then they were surrounded by police and sheriff car and they explained that “The Trickster” was a wanted criminal and after that they took her away, after he became sad for the first time he finally found someone he could bond with he’s not gonna lose them again, So it became he’s mission to find her, but he needs some help
+ 
+Opportunist: Hey feeling down why not join here they could really help
+Jester: huh
+ 
+He then joined in an organization with all neutrals that was thought to be a myth and they explained that they could use someone like him, someone that just immediately leaves then goes to the next mission, if he join this he could have a chance to find the person his looking for
+ 
+To sweeten the deal even more they said on the way out he could rather play some silly pranks on them or detonate a bomb after thrown out of course, he would also get a new suit that would survive almost any death for being voted out, after that he agreed and took the name of Jester
+
+> Submitted by: marker_should_win_tpot
 </details>

@@ -19,7 +19,33 @@ To access Beta Builds, visit TEN's [Discord Server](https://discord.gg/ten) and 
 ---
 <font size=3em>
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Beta 3</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Beta 4</font></b></summary>
+
+We've received a definitive update from the developers at Innersloth regarding the Rate Limit anti-cheat measures.
+Innersloth has decided to temporarily relax these measures, with plans to reinstate them on April 4th. This will give modders ample time to adapt to the changes in the anti-cheat strategy. We're actively working with the team to ensure a smooth transition.
+During this period, we'll be rolling out several test builds to assess the situation and prepare for the eventual reactivation of the anti-cheat measures.
+Please keep in mind that, due to the limitations of the game protocol, we cannot guarantee a fully stable experience on official servers once the Rate Limit anti-cheat measures are reinstated.
+Innersloth recommends that modders who cannot adapt to these changes consider moving to Modded Regions. These regions may offer a more consistent and stable experience than the official servers, making them an ideal alternative for many players.
+When playing on InnerSloth official servers, please be aware that the Rate Limit anti-cheat system may cause compatibility issues with most mods, leading to unexpected in-game problems that wouldn't occur on modded regions. There's also a small chance the anti-cheat system could flag you.
+If you experience any of these issues, feel free to submit a bug report through our Discord, and we'll do our best to resolve it.
+Once Innersloth reactivates its Rate Limit anti-cheat, Rate Limit Bypasses will be automatically enforced.
+Remember, this may cause unexpected issues on official servers, such as unhidden messages from guessers, delayed player name updates, packet loss resulting in missed updates, occasional black screens after meetings, and very slow loading times. If you continue to play with this option enabled, please be aware that the server may become unstable, and there is a slight chance of being flagged by the anti-cheat system. We will do our best to address these issues, but please understand that some may be beyond our control.
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed all roles using the Unshift ability<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Retributionist and Nemesis can see roles by command, even when the setting is disabled<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Phantom did not work for desync roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when role name for modded players hide in Mushroom Spore<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Poisoner/Deputy permanently blocked SerialKiller, Pursuer, Deceiver<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Necromancer was able to change roles during Necronomicon ability<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Cursed Soul stole the win of Workaholic setting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Cursed Soul setting "know role" not work<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Quizmaster stole the win of Terrorist setting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some errors in the logs<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Now Schrodingers Cat can't get Cyber<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added setting for Abyss Bringer: "Max BlackHole in Game."<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Beta 3</font></b></summary>
 
 We've received a definitive update from the developers at Innersloth regarding the Rate Limit anti-cheat measures.
 Innersloth has decided to temporarily relax these measures, with plans to reinstate them on April 4th. This will give modders ample time to adapt to the changes in the anti-cheat strategy. We're actively working with the team to ensure a smooth transition.
@@ -38,21 +64,21 @@ By default, it’s enabled and will only work on official servers. Since Innersl
 Remember, this may cause unexpected issues on official servers, such as unhidden messages from guessers, delayed player name updates, packet loss resulting in missed updates, occasional black screens after meetings, and very slow loading times. If you continue to play with this option enabled, please be aware that the server may become unstable, and there is a slight chance of being flagged by the anti-cheat system. We will do our best to address these issues, but please understand that some may be beyond our control.
 
 ## Bug Fixes & Improvements
-Improved Custom Net Object @NikoCat233
-CNO now fully adheres to the rate limit anti-cheat
-More Custom Buttons @PEPPERcula
-18 images added or updated to the mod
-Solsticer and Workaholic won't be Executioner's target @impostor4291 and @Tommy-XL
-Fixed Shapeshift showing the original name for vanilla players @Tommy-XL
-Solsticer can't be Bounty Hunter or Huntsman's target @Bri1101
-Bounty Hunter and Huntsman can no longer target friendly team members (e.g., their lover or romantic partner)
-Fixed CN_Template @Reborn5537
-Madmate impostors can get the last impostor @impostor4291
-Auto start added after a certain time on modded regions @NikoCat233
-Fixed error ending the game when a player disconnects due to an error on modded regions @NikoCat233
-Converted coven team members won't target coven teammates (e.g., BodyGuard) @MargaretTheFool
-Delayed the check of the closest vent and serialized close vent @Tommy-XL
-Fixed additional winners sometimes being missed from final winners @impostor4291
+Improved Custom Net Object @NikoCat233<br>
+CNO now fully adheres to the rate limit anti-cheat<br>
+More Custom Buttons @PEPPERcula<br>
+18 images added or updated to the mod<br>
+Solsticer and Workaholic won't be Executioner's target @impostor4291 and @Tommy-XL<br>
+Fixed Shapeshift showing the original name for vanilla players @Tommy-XL<br>
+Solsticer can't be Bounty Hunter or Huntsman's target @Bri1101<br>
+Bounty Hunter and Huntsman can no longer target friendly team members (e.g., their lover or romantic partner)<br>
+Fixed CN_Template @Reborn5537<br>
+Madmate impostors can get the last impostor @impostor4291<br>
+Auto start added after a certain time on modded regions @NikoCat233<br>
+Fixed error ending the game when a player disconnects due to an error on modded regions @NikoCat233<br>
+Converted coven team members won't target coven teammates (e.g., BodyGuard) @MargaretTheFool<br>
+Delayed the check of the closest vent and serialized close vent @Tommy-XL<br>
+Fixed additional winners sometimes being missed from final winners @impostor4291<br>
 
 </details>
 <details>

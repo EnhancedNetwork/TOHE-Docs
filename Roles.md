@@ -24,7 +24,7 @@ contributors: false
 </tr>
 <tr>
 <td><a href="/changelogs/Beta.html" style="color:#6d7299"><b>Beta</b></a></td>
-<td>v2.2.0 Beta 3</td>
+<td>v2.2.0 Beta 4</td>
 </tr>
 <tr>
 <td><a href="/changelogs/Stable.html" style="color:#996d7f"><b>Stable</b></a></td>

@@ -152,12 +152,12 @@ Visit `#alpha-builds` in TEN's [Discord Server](https://discord.gg/ten) once you
 <details>
 <summary><b><font color=gray>How to obtain</font> <font color=#6d7299>Beta Builds</font></b></summary>
 
-* Visit `#beta-builds` in TEN's [Discord Server](https://discord.gg/ten), and download the latest dll!
+* Visit `#tohe-beta` in TEN's [Discord Server](https://discord.gg/ten), and download the latest dll!
 </details>
 <details>
 <summary><b><font color=gray>Help Installing <font color=#997d6d>Alpha</font> & <font color=#6d7299>Beta</font> Builds</font></b></summary>
 
-1. Download the latest dll in `#alpha-builds` or `#beta-builds`.
+1. Download the latest dll in `#alpha-builds` or `#tohe-beta`.
 
 2. Make sure you don't have your Modded Client open when you attempt to do this, please close TOHE beforehand, otherwise you will get a pop-up which looks something like this:<br>
 ![image](./images/pluginsInUse.png)
@@ -352,7 +352,7 @@ You have three methods to get log files:
 <details>
 <summary><b><font color=gray>How can I access Beta & Alpha Builds?</font></b></summary>
 
-1. Anybody can get Beta Access by visiting `#beta-builds` in TEN's Discord Server.
+1. Anybody can get Beta Access by visiting `#tohe-beta` in TEN's Discord Server.
 
 2. Become a Contributor, Tester, or Sponsor (Insider+) for Alpha Access.
 </details>

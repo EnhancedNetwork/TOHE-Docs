@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Demon
-prev: BloodKnight
+prev: Cultist
 next: Doppelganger
 ---
 

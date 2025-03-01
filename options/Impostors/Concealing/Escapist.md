@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Escapist
-prev: /options/Settings/Impostors.html
+prev: Abyssbringer
 next: Lightning
 ---
 

@@ -13,10 +13,413 @@ sidebar:
 ## <font size=5em><b>All Alpha Releases/Changelogs:</b></font><br>
 To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE/) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester](#) (Content Creator with your Town of Host: Enhanced videos having 600+ views on average).
 
+<b><font color=#cf4e8f>Latest Release</font></b><br>
+<b><font color=#d395b4>Previous Releases</font></b><br>
+<b><font color=#a175ff>Coven Releases</font></b>
+
 ---
-<font size=4em>
+<font size=3em>
+
 <details>
-<summary><b><font color=#cf4e8f>v2.1.0 Alpha 16.1</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.2.0 Alpha 17.1</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix game wont start due to IRandom<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 17</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix unshapeshifter messed up host skin on meeting<br>
+\+ <font color=green><b>NEW</b></font>: Custom buttons for Glitch [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvements for Romantic [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: If romantic accidentally kills their partner,romantic will<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: If romantic's partner is ejected,or dies by suicide,or the killer is dead,romantic will become ruthless romantic<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix admired necromancer not winning with crew [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve random system<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Necromancer and Apocalypse being able to see each other when Necromancer takes Apocalypse role<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Necromancer being unable to see reveals from revealing roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Apocalypse can target Necromancer when Necromancer has Apocalypse role<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 16.1</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix cancelled murder attempts falsely flagging eac<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 16</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix "SecurityCameraSystem" Not Cleared After RpcExile<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Free for All not working<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix witch mark broken<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix /up message shown to everyone<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve code performance<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Add Some Crew Roles For CopyCat<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix bug when RemoveIncompatibleAddOns counts self add-on as Incompatible<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve AntiBlackout<br>
+
+* By [**Others**](#)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve god father's addon assign [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Jackal and Police Chief can recruit Neutral Apocalypse [Reborn5537](https://github.com/Reborn5537)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Mad/Recruit/Enchanted Amnesiac being able to report bodies after killing OIIAI [cosbri1101](https://github.com/Bri1101)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 15.1</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Add Option NonCrewRandomCommonTasks (Non-crew players has random different common tasks apart from crew)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: /r role and /bt role now support multiple languages (enabled by modsettings/crosslanguage option)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix tags in root tag folder not loading<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix the assign of game master<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Send failed error on failed murder attempts<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Custom translation does not seem to load
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 15</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Option For Low Load: Delay Update Names by [TommyXL](https://github.com/Tommy-XL) (Previously names for vanilla updates per second. This seems unnecessary, so we added this option to only update names for vanilla when it is necessary, if you encounter any issues about name updates, try disable this option and report to us)<br>
+\+ <font color=green><b>NEW</b></font>: Option: change first kill cool down by [TommyXL](https://github.com/Tommy-XL) (This means now you can decide whether to reset a killer's kcd to normal, or set a shared kcd, on game start)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Modded Clients Always Play Shield Animation When "Disable Shield Animations" Is off  by [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Madmate Psychic not seeing all Neutrals in red names by [cosbri1101](https://github.com/Bri1101)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix unshapeshifter can see host shapeshifting into itself on meeting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix converted addons and addons like lover got removed mid game<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix guesser unable to guess roles instead of being unable to guess players based on team by [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Assign game master based on tags.txt does not work and will crash game<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: You must create a folder in TOHE-DATA/tags and put tags.txt into that folder for the mod to load tags
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 14</font></b></summary>
+
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Disperser, Escapist, Soul Catcher, Miner, QuickShooter now uses UnShapeShift button by [cosbri1101](https://github.com/Bri1101), [ImpyIsLazy](https://github.com/impostor4291), & [Niko](https://github.com/NikoCat233)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Jester, Jackal and Sidekick now can't get ghost role by [TommyXL](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Chat spam system (enable in Mod Settings -> Guess Mode) (It is much faster and stable than previous spams, Niko hope you will like it)
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 13</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Jackal Recruit options by [laikrai](https://github.com/laikrai)<br>
+\+ <font color=green><b>NEW</b></font>: Tag manager now reads in all folders in TOHE-DATA/Tags (except vanilla folders) by [Pyro](https://github.com/NotPyro404)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Remove conflicting addons on role change mid game by [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Godfather working on dead players by [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix torch has wrong vision by [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix players are able to kill immediately after meeting (maybe) by [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Update some role descriptions (for quiz master mostly) by [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix overseer interactions for Trickstar and Illusionist (maybe, need testing) by [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Maybe fix moon dancer causing null reference<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added AssignGameMaster in new tag config (Append AssignGameMaster: yes to end of tag file, and target player will be assigned game master on game start) (AntiBlackout not fixed for gamemaster btw)
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 12</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Tag system overhaul (You can now create a friendcode.txt file from Tag_Template.txt in TOHE-Data/Tags to assign tags and permissions to a player) (by [Marg](https://github.com/MargaretTheFool))<br>
+\+ <font color=green><b>NEW</b></font>: New win Condition for Quiz Master (by [cosbri1101](https://github.com/Bri1101))<br>
+\+ <font color=green><b>NEW</b></font>: More role choices for Lawyer and Executioner (by [cosbri1101](https://github.com/Bri1101))<br>
+\+ <font color=green><b>NEW</b></font>: Settings for Chief of Police by ([Reborn5537](https://github.com/Reborn5537))<br>
+\+ <font color=green><b>NEW</b></font>: Option for Eraser: can guess erased player<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added IsPlayer*Team method to get a player's team from playercontrol and playerstate directly (Used on Police Chief currently, need further reviewing)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix mod client lawyer and executioner may have tasks<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Mechanic unable to open all doors on Fungle<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Kill cooldown is messed up. still looking into it
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 11</font></b></summary>
+
+= <font color=#ece218><b>NOTICE</b></font>: Newer than Beta 1<br>
+= <font color=#ece218><b>NOTICE</b></font>: 50% of the strings in other languages are in English<br>
+\+ <font color=green><b>NEW</b></font>: Merged Coven roles<br>
+= <font color=#32CD32><b>TYPOS</b></font>: More translation fixes (by [sussynba](https://github.com/PEPPERcula))<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added back Niko(EU) custom region<br>
+\+ <font color=green><b>NEW</b></font>: Intro Screen for Coven roles (by [sussynba](https://github.com/PEPPERcula))<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Retributionist settings showing in impostor tab (by [sussynba](https://github.com/PEPPERcula))<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed role type for SunnyBoy and Provocateur (by [ImpyIsLazy](https://github.com/impostor4291))<br>
+\+ <font color=green><b>NEW</b></font>: Option: Sheriff misfire on admired players (by [ImpyIsLazy](https://github.com/impostor4291))
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 10</font></b></summary>
+
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Admired interactions for some roles (for example admired time thief will now add meeting time, gangster and godfather are recruiting correctly (Hopefully, I didnt check the code carefully)) (by [ImpyIsLazy](https://github.com/impostor4291))<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Double Agent now can kill when its the only imp alive (by [ImpyIsLazy](https://github.com/impostor4291))<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Baker's role block ability is reworked to reset kill cooldown [Marg](https://github.com/MargaretTheFool) (I doubt whether it works)<br>
+\+ <font color=#12edaf><b>REWORK</b></font>: Deputy (Handcuffed player now have to use kill button on others to break the handcuff)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Recoded Seeker (Fix seeker cause players unable to move in next game)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Block-Move-In-Vent players enter vent on meeting begin will have nearby vents blocked forever after meeting is finished<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix modded players can't see psychic red names<br>
+
+<details>
+<summary><b><font color=#a175ff>v2.2.0 Coven Alpha 10</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Added a New Level of Quizmaster questions (Level 5) (These are questions related to the community)<br>
+\+ <font color=green><b>NEW</b></font>: Ritualist now converts to its current team (Like Admirer and Gangster)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Necromancer no longer dies if target dies during revenge<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Add Shapeshift Ability Text for Conjurer and Sacrifist<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Conjurer can no longer bomb Transformed Neutral Apocalypse<br>
+\+ <font color=green><b>NEW</b></font>: Updated to Alpha 10<br>
+
+</details>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 9</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Role Convert log (displayed along with Kill log)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Role Description for DollMaster and ChiefOfPolice by (by [ImpyIsLazy](https://github.com/impostor4291))<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Add target mark for Seeker
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Add note for vent for Altruist<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix maverick kill num not syncing<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some other very little improvements
+
+<details>
+<summary><b><font color=#a175ff>v2.2.0 Coven Alpha 9</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Poisoner and Illusionist unable to do second action<br>
+\+ <font color=green><b>NEW</b></font>: Setting: Coven can know Celebrity (I forgot to add this)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Win Condition Check (by Niko)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Ritualist command showing for host (For real this time)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Updated /icons to include all Coven icons<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: All Coven can now see the icons of other coven roles<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Arsonist is now a Neutral Evil if they can not ignite anytime<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: A message is now shown if the use of /kc is disabled and someone tries to use it
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Conjurer and Sacrifist can no longer kill their teammates with their kill buttons<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix many String issues with Quizmaster<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Role Basis and Role Faction questions being swapped<br>
+\+ <font color=green><b>NEW</b></font>: New Quizmaster Settings: Min Question Difficulty, Max Question Difficulty<br>
+\+ <font color=green><b>NEW</b></font>: Three New Quizmaster Questions (No Spoilers!)<br>
+\+ <font color=green><b>NEW</b></font>: All the changes from Alpha 9
+
+</details>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 8.3</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Custom Net Object related bugs (Fixes several roles being broken)
+
+<details>
+<summary><b><font color=#a175ff>v2.2.0 Coven Alpha 8.3</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Poisoner and Illusionist unable to do second action<br>
+\+ <font color=green><b>NEW</b></font>: Setting: Coven can know Celebrity<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Win Condition Check (by [Niko](https://github.com/NikoCat233))<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Ritualist command showing for host<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed typos (by [Impostor4291](https://github.com/impostor4291))<br>
+\+ <font color=green><b>NEW</b></font>: All the changes from Alpha 8.3
+
+</details>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 8.2</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix EvilMini not having kill button<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Add fall back url for api<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Change some obfuscation settings
+
+<details>
+<summary><b><font color=#a175ff>v2.2.0 Coven Alpha 8.2</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed the mod not booting<br>
+= <font color=#ece218><b>NOTICE</b></font>: All the changes from Alpha 8.2
+
+</details>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 8.1</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix EvilMini not having kill button<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Add fall back url for api<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Change some obfuscation settings<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Instigator not working<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Lighter Ability limit not syncing<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix having a while space at the end of a player's message will bug some roles<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvements regarding CustomNetObject<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fix for unshapeshifted button<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 8</font></b></summary>
+
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent dead players from knowing role immediately after death (will know on meeting started)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent Nemesis and Retributionist from seeing roles before skill used up option<br>
+= Change ability button text for some roles by [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Some Adjustments for Riftmaker by [laikrai](https://github.com/laikrai)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Crowded not loading<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed BlackMailer skill not disabled when it turns into ghost roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed AbyssBringer Blackhole not despawning correctly<br>
+
+<details>
+<summary><b><font color=#a175ff>v2.2.0 Coven Alpha 8</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Ritualist's messages aren't hidden<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Necromancer gets revived if their role is reverted while they die<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Necromancer's duration no longer counts down while in a meeting<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where win conditions are screwed up<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Necromancer and Sacrifist's durations are no longer displayed with 5 decimal places<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where Enchanted add-on is not displayed<br>
+= <font color=#ece218><b>NOTICE</b></font>: All the changes from Alpha 8
+
+</details>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 7</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Ported Custom Net Object System from MoreGameModes by [Drakos](https://github.com/Ultradragon005)<br>
+\+ <font color=green><b>NEW</b></font>: Role AbyssBringer (ported from EHR)<br>
+\+ <font color=green><b>NEW</b></font>: Legacy Parasite & Legacy Traitor (can shapeshift) by [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Famine still have shapeshift button<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Quick Shooter may bug sometimes<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Maybe Fixed Error Spam when a modded client disconnected from game during meeting or other important period<br>
+\+ <font color=green><b>NEW</b></font>: Added KN detect (not sure whether it works) by [red88phantom](https://github.com/redphantom1000)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Parasite and imp can see each other on intro<br>
+\+ <font color=green><b>NEW</b></font>: Can Set impostors num to 0 - maxplayers/2<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Multiple improvements in codes<br>
+\+ <font color=green><b>NEW</b></font>: Experimental Custom Net Object (Influenced roles: AbyssBringer (new role and buggy), Bomber (seems good), Fireworker (hasn't tested), RiftMaker (may be buggy))<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Abyssbringer blackhole wont despawn after meeting (settings)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Abyssbringer blackhole stops when no target to follow (will make it head to pelican blackroom and despawn)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: RiftMaker's Rift can be seen by everyone<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: May disconnect players<br>
+= <font color=#fdf08e><b>NOTE</b></font>: Pitfall should also use this stuff<br>
+
+<details>
+<summary><b><font color=#a175ff>v2.2.0 Coven Alpha 7</font></b></summary>
+
+\- <font color=red><b>REMOVED</b></font>: Necromancer no longer gets Enchanted upon Necromancy (this was previously intentional)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Necromancer can no longer see opposing teams upong gaining their role<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Coven can no longer get add-ons they aren't allowed to have (like Egoist)<br>
+= <font color=#ece218><b>NOTICE</b></font>: All the changes from Alpha 7
+
+</details>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 6</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Lover and Egoist IntroCutscene by [sussynba](https://github.com/PEPPERcula)<br>
+\+ <font color=green><b>NEW</b></font>: Impostor and Madmate see each other on Intro<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed playerIdList related bugs (on change role mid game, copycat)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Probably fixed log spam on disconnecting from game<br>
+= <font color=#fdf08e><b>NOTE</b></font>: Modded Intro: Lover, Egoist > Madmate > Neutral, impostor > crewmate<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: MasterMind is still experimental, its experimental for a reason<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: impostor count option reverted to 1 - 3, since changing the value range will always reset it to 3 and idk why<br>
+
+= <font color=#ece218><b>NOTICE</b></font>: This build is very experimental and following stuffs need yours help to test:<br>
+1. playerIdList behaviors of Spiritualist, Pitfall, PlagueBearer, Alchemist, Enigma, Mortician, Spiritualist, Tracefinder are changed and if you meet bugs regarding these roles, please open a bug report<br>
+2. not completely sure whether intropatch is coded correctly. Maybe it will show extra or miss some info to players (like seeing players not in your team or not supposed to see on intro, cant see teammates on intro). Maybe you will get whitescreen on seeing intro. If so, please open bug reports with the log of client that sees wrong intro<br>
+<details>
+<summary><b><font color=#a175ff>v2.2.0 Coven Alpha 6</font></b></summary>
+
+\- <font color=red><b>REMOVED</b></font>: Removed unused roles Sorceress and Dreamweaver from CustomRoles entirely<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Hopefully fixed null errors relating to Moon Dancer<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Necromancer getting Game Master<br>
+= <font color=#ece218><b>NOTICE</b></font>: All the changes from Alpha 6
+
+</details>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 5.1</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Apocalypse Intro Screen by [Marg](https://github.com/MargaretTheFool)<br>
+\+ <font color=green><b>NEW</b></font>: Opportunist can vent option by [sussynba](https://github.com/PEPPERcula)<br>
+\+ <font color=green><b>NEW</b></font>: Pestilence can kill guesser option by [ApeMV](https://github.com/ApeMV)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Baker now uses shapeshift button to transform by [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix same task type get assigned repeatedly<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: People will be more likely to share similar tasks from vanilla<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Impostor count option reverted to 1 - 3, since changing the value range will always reset it to 3<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Game may be a little laggy since we're testing something new<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 5</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Horse Mode and Long Neck Mode by [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix /setplayers setting 15+ players in vanilla regions by [Pietro](https://github.com/Pietrodjaowjao)<br>
+\+ <font color=green><b>NEW</b></font>: Legacy option for Traitor (traitor can be shapeshifter) by [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix stealer addon displaying wrong vote number on display<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix sending chat bug causing blackmailer false spam<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Attempted fix for amnesiac's abnormal vent behavior<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix jackal ability limit still -100<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix vector setting id bug<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Shocker crashing the game<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix overseer useless playeridlist bug<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix assign role mid game not having common tasks<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed vanilla clients still seeing modded name after a player has left the game<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: TOHE now completely assigns the tasks apart from InnerSloth's system (Experimental)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: people will be more likely to share similar tasks from vanilla<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: impostor count option reverted to 1 - 3, since changing the value range will always reset it to 3<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: game may be a little laggy since we're testing something new<br>
+
+<details>
+<summary><b><font color=#a175ff>v2.2.0 Coven Alpha 5</font></b></summary>
+
+\+ <font color=#12edaf><b>RETURNED</b></font>: Coven Faction (New + Reworked Roles)<br>
+= <font color=#ece218><b>NOTICE</b></font>: Different from Main Alpha 5 Branch
+
+</details>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 4</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Experimental Role: Shocker by [laikrai](https://github.com/laikrai)<br>
+\+ <font color=green><b>NEW</b></font>: Crowded Mod now included in TOHE (TOHE is now incompatible with CrowdedMod since we included all its features)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Scavenger now has its own death reason by [ApeMV](https://github.com/ApeMV)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed Intro sound for some roles by [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed converted killer roles sabotage getting banned by EAC (experimental)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: MasterMind now is a experimental role since it causes some bugs<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed mod news not loading<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed summary text sometimes bugged and can not be shown<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added additional exile rpcs to ease dead alive bug (experimental)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Evil Mini can not be guessed before 18 option added<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed some roles allow misguess to be ignored<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Add kill notify for guardian<br>
+\+ <font color=green><b>NEW</b></font>: Spy Setting: Hide "Block kill attempts" option for since it never actually worked<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Engineer basis roles with 1 second vent duration now can't move in vent (like jester) (experimental)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Traitor now sees impostors on intro screen<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Now tasks always re-assign on role changed mid game (experimental)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 3.1</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed others not being able to report a body and turn into body's role when Amnesiac waa not converted<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix translations of ChiefOfPolice<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Adjust KCD animations for Jackal and ChiefOfPolice<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Consigliere not being able to guess certian roles<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Kamikaze mod clients not seeing icons<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 3</font></b></summary>
+
+\+ <font color=#12edaf><b>REWORKED</b></font>: Jackal (Jackal can now convert anyone into Sidekick, Sidekick can now turn into Jackal after Jackal's death)<br>
+\+ <font color=#12edaf><b>REWORKED</b></font>: Amnesiac (Amnesiac now can turn into any roles, Amnesiac cannot vent after changing role depending on the can vent setting)<br>
+\+ <font color=#12edaf><b>RETURNED</b></font>: Chief Of Police Returns (Chief of Police can recruit anyone as Sheriff, Chief may suicide depending on the setting upon wrong recruit)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug where Revenant has wrong Idu<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug where Arsonist may not be able to dose someone (maybe)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: CopyCat now cant copy baker<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Temporarily Disable HorseMode from release since it causes game crashes<br>
+\+ <font color=green><b>NEW</b></font>: Added some new options for Berserker, PlagueBearer, SoulCollector by [ApeMV](https://github.com/ApeMV)
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 2</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Role: Revenant (By: [LimeAU](https://github.com/Limeau))<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed double spy seeing each other’s orange name<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed rebirth vote-out on Solsticer and Mini<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Host Doomsayer infinite guess<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Sictator UI Interactions<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix changing gamemode sometimes showing HideNSeek<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Changed Lawyer to Single Role to avoid unknown bugs<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 1</font></b></summary>
+
+* By [**TommyXL**](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Critical Error Manager<br>
+
+* By [**Huier**](https://github.com/Huier-Huang)<br>
+\+ <font color=green><b>NEW</b></font>: Option: Dictator use /vote command to exp players<br>
+
+* By [**Laikrai**](https://github.com/Laikrai)<br>
+\+ <font color=green><b>NEW</b></font>: Command: /start for moderators to start a game<br>
+
+* By [**NikoCat223**](https://github.com/NikoCat233)<br>
+\+ <font color=green><b>NEW</b></font>: Hash Api System (Now the mod calculates its own file hash and use that to interact with Enhanced API)<br>
+\+ <font color=green><b>NEW</b></font>: Added dictator button for modded clients based on 1237<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed non debug clients can use anti-blackout test<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Random Spawn leads to a ban on anti-cheat regions<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 16.1</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Jailer<br>
@@ -167,7 +570,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added custom label ID for modded (from EHR)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when revived player not change custom role when they have ghost role<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when settings not synced
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when settings not synced<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Some small changes<br>
 </details>
 <details>
@@ -189,16 +592,10 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added warning message about enabled setting "No Game End" (Warns only host when he presses the start button)<br>
 </details>
 <details>
-<summary><b><font color=#d395b4>v2.1.0 Alpha 9.1</font></b></summary>
+<summary><b><font color=#d395b4>v2.1.0 Alpha 9.2</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when "BanList.txt" work incorrectly (Sorry, i forgot to remove just one code, lol)
-</details>
-<details>
-<summary><b><font color=#d395b4>v2.1.0 Alpha 9.1</font></b></summary>
-
-* By [**TommyXL**](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Just fixed problems where the game ends immediately after starting (Optional upgrade if you don't finish the game immediately after starting, lol)
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 9.1</font></b></summary>
@@ -309,10 +706,8 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 4</font></b></summary>
 
-::: danger Caution
 = <font color=#de6707><b>KNOWN BUG</b></font>: Search in setting broken<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Role info in setting menu temporarily removed<br>
-:::
 
 * By [**TommyXL**](https://github.com/Tommy-XL) & [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Support new update AU v2024.8.13<br>
@@ -623,7 +1018,6 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 
 * By [**D1GQ**](https://github.com/D1GQ)<br>
 = <font color=#F6BE00><b>CHANGES</b></font>: Lots of fixes/changes for Dollmaster:<br>
-
 \- <font color=red><b>REMOVED</b></font>: Dollmaster and Possessed player are no longer fragile.<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Dollmaster LongInfo has been updated to compensate the removal above.<br>
 \+ <font color=green><b>NEW</b></font>: Dollmaster and possessed player roles display will swap when possessed.<br>

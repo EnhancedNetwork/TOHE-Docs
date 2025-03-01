@@ -33,6 +33,7 @@ Once you collect the configurable amount of souls, you become Death. If the gain
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+The soul collector was just a normal bean until he started playing with ritual stones which could "Supposedly" Summon Hades from the underworld... but instead came aroma... Terrible Aroma if I am to say so As soon as the Soul Collector took in the wind he died... For 1 second his heart stopped His brain stopped Him blood became Ice... He Actually died and came back to life... Crazy stuff.. Then Hades sent up a quill with a note "Thee has't awaken'd me, i am making a dealeth though beest greatful" And The Soul collector wondered... Why tf is he speaking in Shakespeare... Then he saw a translate button to English "You have awaken me, I am making a deal though... Be grateful" The deal went like... "Now You predict deaths for me... If you are right I send you a soul.. When you get a number of souls You become me... Death... For some time... I posess you Even if you are wrong and the person u predicted to die Doesn't die I'll passively send you souls... Deal? (Yes/Yes) Tick the option please "Wow" Thought the Soul collector as he picked "Yes" of course.. And now started his reign... You? Oh damn he didnt +1 Soul You? Yippee! He died +2 Souls Wait.. A dog? As he ran and ran and into a pole and fell down a pothole... But that's for another time.. But Hades did not do Him wrong.. Truly a great deal
+To be Continued
+> Submitted by: champofchamps78
 </details>

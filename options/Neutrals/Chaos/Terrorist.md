@@ -2,7 +2,7 @@
 lang: en-US
 title: Terrorist
 prev: Specter
-next: Troller
+next: Vector
 ---
 
 # <font color="#00e600">🧨 <b>Terrorist</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
@@ -32,6 +32,23 @@ If the Terrorist dies after completing all tasks, the Terrorist wins the game al
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+“And we go boom, pull the lever and everything goes down (goes down)”
+ 
+SC: Terrorist and update to the mission
+Tr: Yeah just one more task and I said don’t call me that, call me something cool like Kamikaze,
+SC: Sorry man, but I already told you there’s already someone with that name, just focus on the job don’t worry it would be alright
+TR: If I find that Kamikaze I will finish them once and for all, and I’m not worried this will be the third success of the month and I’m sure I’ll be fine
+ 
+Code name: Terrorist
+Neutral # 020 Danger Level: hypothetically very high
+ 
+Oh great it’s the Terrorist one of the best neutral out there just pure chaos I tell ya even as a little bean he already cause some damage, if you travel to Italy you could see the leaning tower of Pisa that was one chaotic vacation, he’s also banned in Italy now oopsy
+ 
+Now he’s all grown up and still a menace to society with high wanted level don’t know why they just don’t investigate on his parents house, he didn’t really have a real job unless you count selling weaponized fart bombs as a real job but other done that he’s really just an adult that lives his parents house who sells bombs, until One day
+ 
+While doing business with some elementary folks he suddenly got a piece of cloth in his mouth and got dragged into a white van, this is why you don’t sell fart bombs kids, when he woke up he was in a cell with someone, he was crying and was mentioning someone named The Trickster don’t know what that guy deal was, but then he was taken for questioning
+ 
+He was in a room with a sheriff and scientist they said that he was kidnapped because he has gift, which includes determination, bravery and a comedically large amount of bombs, he was given an offer to work for them as a Terrorist basically he would be given a mission to plant some bombs is task and then  die so they can detonate the bombs inside the given place, they also said after the mission and he died they could just revived him with a experimental recovery center, he thought about it for about a minute and they gave him an offer of a lot of money for him and his parents, he accepted it and took a mask and now he’s better known as the amazing KAMIKAZE TERRORIST
+
+> Submitted by: Pikmin 6(No.1TrickJestershipper)
 </details>

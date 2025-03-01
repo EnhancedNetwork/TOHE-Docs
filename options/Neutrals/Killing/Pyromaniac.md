@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Pyromaniac
-prev: PotionMaster
+prev: PlagueScientist
 next: SerialKiller
 ---
 

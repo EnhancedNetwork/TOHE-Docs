@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Revolutionist
-prev: Provocateur
-next: Spiritcaller
+prev: Pirate
+next: Solsticer
 ---
 
 # <font color=#ba4d06>🚨 <b>Revolutionist</b></font> <Badge text="Chaos" type="tip" vertical="middle"/>
@@ -31,6 +31,28 @@ If the player name displays 「●」, it means they have been recruited.
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+"For too long we have been suppressed by Mr. sloth"
+"Aye"
+"Aye"
+"For too long have we been pushed away from the better roles"
+"True"
+
+Now it was time to plan...
+The revolutionist needed allies 
+How to recruit them though...
+
+Well first of all he needed to talk to them so he would need to interact with them and follow them for a minute
+
+But it could be too overwhelming and the recruit could die
+
+But the dead recruit could still support because they could at least sign the petition...
+
+But as he was doing that people started growing suspicious of him and his activities and thus he...
+
+was thrown into lava...
+
+Mr. Sloth is too powerful to take down...
+The end
+
+> Submitted by: champofchamps78
 </details>

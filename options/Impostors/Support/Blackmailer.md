@@ -20,6 +20,25 @@ Speaking by the blackmailed player will trigger the confusion command, please do
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+Prologue The blackmailer was a huge nerd (Like the author) and always calculated statistics of each and every thing... And as per him The impostors were mostly called out by a lurking Crewmate
+
+Chapter 1 Vrooom
+The Blackmailer was also blessed by superspeed.. but for a VERY VERY small duration of time... So he could zoom past a huge crowd or zoom through the school auditorium... He always used this ability for fun but now he would use it to wreak havoc :)
+
+Chapter 2 Shapeshifting
+Now he learnt how to shapeshift quite simple actually just take a costume and put it on, Trying it out he figured it out and started using it to scare his friends again, Joking around
+
+Chapter 3 Trauma
+One day the Blackmailer heard about a rumor of the crewmate who saw his own shapeshifter, He was terrified for DAYS not uttering words- Wait IDEA
+
+Chapter 4 Beautiful Idea
+The Blackmailer got a beautiful idea and went on to execute it with perfection he would go shapeshift and traumatize the person he shapeshifted into and then he would Kill...
+
+With no consequences!!
+
+Every round he did this and every round he was saved... And in the end? He won!!
+
+Happy ending :)
+
+> Submitted by: champofchamps78
 </details>

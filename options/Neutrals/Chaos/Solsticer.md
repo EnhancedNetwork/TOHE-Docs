@@ -46,6 +46,30 @@ The killer's kill cooldown will be reset to 10 seconds.
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+Are your serious?
+Well the terrorist former Specter was again revived since he technically won
+So Mr sloths team revived him 
+Now he knew what he had to do…
+Loose.
+But how?
+Well there was a new role released that relied upon tasks.
+The solsticer.
+Now his main aim is to do tasks in a certain round and win
+But if he sees dead bodies his number of tasks Increase because he wants to remember the dead crew as a cherished memory
+And if a meeting is called
+He forgets his tasks because he has poor memory…
+
+So he needs to do a certain amount of tasks together in a round
+But the solsticer in this game just stayed still…
+And the impostors can’t kill solsticer so they just ignored him
+
+As the last round approached people were vent camping so the solsticer speedran 9 tasks..
+And won
+
+Dang it.
+His competitive nature got the best of him
+
+The End
+
+> Submitted by: champofchamps78
 </details>

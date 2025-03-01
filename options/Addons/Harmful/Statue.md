@@ -26,6 +26,9 @@ Whenever many people are near Statue, the Statue is completely frozen or slowed 
 * <font color=#7f8c8d>Neutrals</font> can become Statue
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+* <font color=#ac42f2>Coven</font> can become Statue
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
   
 > From: [spong](#) & Coding: [Drakos](#)
 

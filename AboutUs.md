@@ -25,23 +25,24 @@ I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++.
 
 ## Co-President
 
-[**ryuk**](https://github.com/ryuk201198)：<font color=#9e2424>Co-President + Head of Development</font>
+[**Sarha**](#)：<font color=#e0b0ff>Co-President</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I help in role and feature coding, and also help in fixing bugs from time to time. I love listening to music and coding. I usually prefer to code in python whether it may be for competitive coding or a small program. I also love playing action-adventure games with a good story line. <s>I actually coded my first role with 0 knowledge of C# because someone who shall not be named couldn't code Vulture.</s> xV and Solarflare helped me a lot initially in helping me code features and roles.
+Sarha has a curious mind and a talent for tackling challenges head-on, turning ideas into real results. Whether it’s coming up with creative solutions, sorting through tricky data, or finding the best approach for any task, she’s always ready to adapt and get things done. With a love for learning and creating, Sarha brings energy and expertise to everything she works on.
 </details>
 
 ---
 
 ## Website Maintainer
 
-[**Pyro**](https://sites.google.com/view/notpyro404)：<font color=#49e6ac>TOHE Docs Website Maintainer + Moderator</font>
+[**Pyro**](https://www.youtube.com/notpyro404)：<font color=#49e6ac>TOHE Docs Website Maintainer + Moderator</font>
 <details>
-<summary><b><font color=gray>About Me</font></b></summary>
+<summary><b><font color=gray>About</font></b></summary>
 
-I'm also mostly known online as NotPyro404. I am a Moderator in TEN's Discord Server, aswell as a Website Maintainer for [T.E.N.](https://weareten.ca/) (Mainly TOHE Documentation). I've "coded" my first TOHE addon, Sloth!<br>
-If you want to see some stuff that I'm working on, you can check out my Google Site by clicking [Here](https://sites.google.com/view/notpyro404), or clicking my name. <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
+I'm also mostly known online as NotPyro404. I am a Moderator in TEN's Discord Server, as well as a Website Maintainer for [T.E.N.](https://weareten.ca/) (Mainly TOHE Documentation). I've "coded" a bit for Town of Host: Enhanced, but not a lot.<br>
+I'm a terrible Content Creator & Minecraft Builder.<br>
+<span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span>
 </details>
 
 ---
@@ -57,7 +58,7 @@ I'm just a girl who loves to play video games and is obsessed with everything <f
 
 ---
 
-[**Jackler**](https://linktr.ee/Jackler): <font color=#cf7821>Head of Tech Ops</font>
+[**Jackler**](https://linktr.ee/Jackler): <font color=#ff8000>Head of Tech Ops</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -66,9 +67,7 @@ Helping out with Tickets, bot related things... basically anything to do with th
 
 ---
 
-## Staff Team
-
-[**Matt**](#): Legal Advisor
+[**Matt**](#): <font color=#0000ff>Head of Legal</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -76,6 +75,28 @@ I'm 25 years old from the United States. I am a bar certified attorney in contra
 </details>
 
 ---
+
+[**ryuk**](https://github.com/ryuk201198)：<font color=#9e2424>Head of Development</font>
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+I help in role and feature coding, and also help in fixing bugs from time to time. I love listening to music and coding. I usually prefer to code in python whether it may be for competitive coding or a small program. I also love playing action-adventure games with a good story line. <s>I actually coded my first role with 0 knowledge of C# because someone who shall not be named couldn't code Vulture.</s> xV and Solarflare helped me a lot initially in helping me code features and roles.
+</details>
+
+---
+
+## Translation Manager
+
+[**TBD**](#)：Translation Manager
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+ToBeDetermined
+</details>
+
+---
+
+## Staff Team
 
 [**FieryFlower**](#): Sr. Moderator
 <details>
@@ -104,7 +125,7 @@ I help out in TEN's Discord Server. I'm working on the Modded Among Us Queue bot
 
 ---
 
-[**Tasha**](#): Helper
+[**Tasha**](#): Moderator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -113,16 +134,7 @@ I am a Helper in TEN's Discord Server, aiming to ensure that it is a welcoming a
 
 ---
 
-[**Northie**](#): Helper
-<details>
-<summary><b><font color=gray>About</font></b></summary>
-
-Hey I'm Northie, also known as Norfie or North. Right now I'm a Helper in the TOHE server! Currently, I'm working towards becoming a Veterinarian. I enjoy drawing a lot, however it takes me a while to think of what I should draw. I absolutely love music, and if you need recommendations, you can just ask!
-</details>
-
----
-
-[**Flashy**](#): Helper
+[**Flashy**](#): Moderator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -150,18 +162,18 @@ Hey! I am Cayla, I love the ocean and anything nautical. My favorite animal is a
 
 ---
 
-### Lead Developers
+## Lead Developers
 
-[**Tommy-XL**](https://github.com/Tommy-XL)：<font color=#008080>TOHE Lead Developer + Role/Feature Coding + <font color=#0036a7><b>Russian</b></font> Translator</font>
+[**NikoCat233**](https://github.com/NikoCat233): <font color=#ffff00>Town of Host: Enhanced - Lead Developer</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I love playing games (I mostly play all games on PlayStation). I especially pay attention to the soundtracks in games/anime, for example in the game "Undertale" and in the anime "Death Note", they are very good. I'm interested in programming, but I really started programming after Karped stopped being a TOHE developer.
+I initially started coding for mod to host public modded rooms, especially when mods was being banned from public matchmaking. I helped with role coding and feature development. Now, I'm actively fixing bugs and improving the mod's performance. "Coding for play" has always been my source of passion, driving me to keep working on this project.
 </details>
 
 ---
 
-[**D1GQ**](https://github.com/D1GQ)：<font color=#1a5a91>BAU Lead Developer + Role Coding</font>
+[**D1GQ**](https://github.com/D1GQ)：<font color=#1a5a91>Better Among Us/The Better Roles - Lead Developer</font>
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -171,15 +183,35 @@ and I also do 3D art design as a hobby! Glad to meet everyone here and can't wai
 
 ---
 
+[**Dan**](#)：<font color=#a99a86>Town of Host: Enhanced <b>RANKED</b> - Lead Developer</font>
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+Placeholder
+</details>
+
+---
+
+[**Jarne**](#)：<font color=#0000ff>Mod Manager - Lead Developer</font>
+<details>
+<summary><b><font color=gray>About</font></b></summary>
+
+Hi, I'm Jarne, Lead Developer for Mod Manager. My ultimate goal is to make Mod Manager the best software for Among Us players, bringing all mods together in one seamless, user-friendly experience.<br>
+
+I'm determined to do whatever it takes to make this vision a reality. From designing intuitive interfaces to ensuring smooth mod integration, I'm focused on creating a platform that's as fun to use as the game itself.
+</details>
+
+---
+
 ## TOHE Team
 
 ### Contributors
 
-[**NikoCat233**](https://github.com/NikoCat233): Role/Feature Coding
+[**Tommy-XL**](https://github.com/Tommy-XL)：Senior Contributor + Role/Feature Coding + <font color=#0036a7><b>Russian</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
-I initially started coding for mod to host public modded rooms, especially when mods was being banned from public matchmaking. I helped with role coding and feature development. Now, I'm actively fixing bugs and improving the mod's performance. "Coding for play" has always been my source of passion, driving me to keep working on this project.
+I love playing games (I mostly play all games on PlayStation). I especially pay attention to the soundtracks in games/anime, for example in the game "Undertale" and in the anime "Death Note", they are very good. I'm interested in programming, but I really started programming after Karped stopped being a TOHE developer.
 </details>
 
 ---
@@ -211,7 +243,7 @@ Hello everyone. I'm a Simplified Chinese Translator and Contributor to this mod.
 
 ---
 
-[**阿龍**](https://www.youtube.com/channel/UCVT0-d5Sxc3ab1AZvkBe-cQ)：Feature Coding + <font color=#de2910><b>Traditional Chinese</b></font> Translator
+[**阿龍**](https://www.youtube.com/@dragontw6945)：Feature Coding + <font color=#de2910><b>Traditional Chinese</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -220,7 +252,7 @@ TChinese Translator for in TOHE since April 2023. I'm a casual gamer, playing ga
 
 ---
 
-[**Drakos**](https://www.youtube.com/channel/UCVT0-d5Sxc3ab1AZvkBe-cQ)：Role/Feature Coding
+[**Drakos**](https://github.com/Ultradragon005)：Role/Feature Coding
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -231,7 +263,7 @@ I play chess when I'm bored, and catch crypto pumps 😼. I also workout and try
 
 ---
 
-[**Marg**](https://margsbuttons.carrd.co/)：Role/Feature Coding
+[**Marg**](https://margsbuttons.carrd.co/)：Senior Contributor +Role/Feature Coding
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -308,7 +340,7 @@ I'm a TOHE Translator. I like funny stuff that doesn't make any sense for anyone
 
 ### <font color=#de2910><b>Chinese</b></font>
 
-[**FlyFlyTurtle**](https://www.youtube.com/channel/UCVNjUTbJmboTfbjI7K5NfhQ)：<font color=#de2910><b>Traditional Chinese</b></font> Translator
+[**FlyFlyTurtle**](https://www.youtube.com/@FlyFlyCat_)：<font color=#de2910><b>Traditional Chinese</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -399,7 +431,7 @@ I helped with Japanese and Spanish translations for TOHE. I played Ultimate Fris
 
 ### <font color=#009b3a><b>Latam (Latin American)</b></font>
 
-[**xxSShadow**](https://www.youtube.com/channel/UCji4tV4CjOd2Xzo1GxmhCig)：<font color=#009b3a><b>Latam (Latin American)</b></font> Translator + <font color=#ffc400><b>Spanish</b></font> Translator
+[**xxSShadow**](https://www.youtube.com/@xxSShadow)：<font color=#009b3a><b>Latam (Latin American)</b></font> Translator + <font color=#ffc400><b>Spanish</b></font> Translator
 
 <details>
 <summary><b><font color=gray>About</font></b></summary>
@@ -431,7 +463,7 @@ Had done some Dutch translation, but have been inactive lately cause I've been b
 
 ---
 
-[**Victor**](https://youtube.com/@BoxOfDaAmazon?si=TcHHU91EBcodllzk): <font color=#1e448b><b>Dutch</b></font> Translator
+[**Victor**](https://www.youtube.com/@victor007): <font color=#1e448b><b>Dutch</b></font> Translator
 <details>
 <summary><b><font color=gray>About</font></b></summary>
 
@@ -475,7 +507,7 @@ I'm a Portuguese Portugal Translator (maybe the only one 😓). I mostly like to
 
 [**賣蟑螂(NK)**](https://www.youtube.com/@notkomi_lol)：Art (Ability/Skill Buttons)
 <details>
-<summary><b><font color=gray>About Me</font></b></summary>
+<summary><b><font color=gray>About</font></b></summary>
 
 Hello, I am a senior high school from Taiwan. I like to play Minecraft PvP, Among Us, Project Sekai. Nice to meet you! :D
 </details>
@@ -484,7 +516,7 @@ Hello, I am a senior high school from Taiwan. I like to play Minecraft PvP, Amon
 
 [**IRIDESCENT**](https://space.bilibili.com/434079598)：Art (Tab Images)
 <details>
-<summary><b><font color=gray>About Me</font></b></summary>
+<summary><b><font color=gray>About</font></b></summary>
 
 Created most of the Images that TOHE uses (Such as Tab Images)
 </details>
@@ -502,7 +534,7 @@ The original creator of TOH: Edited, now being worked on again as TONX/Town of N
 
 ---
 
-# Credited Mods 
+## Credited Mods 
 
 [**Town Of Host Edited: Restored**](https://github.com/Loonie-Toons/Re-Edited) (By: TheSkullCreeper)
 <details>
@@ -645,7 +677,7 @@ Multiple Ideas such as: Evil Guesser, Nice Guesser, and more included in TOH: TO
 
 <p align="right">
 <a href="https://discord.gg/ten" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>&nbsp;
-<a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank"><img src="https://img.shields.io/badge/Github%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
+<a href="https://github.com/EnhancedNetwork/TownofHost-Enhanced" target="_blank"><img src="https://img.shields.io/badge/Github%20-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
 </p>
 
 ---

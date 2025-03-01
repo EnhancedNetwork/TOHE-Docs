@@ -24,6 +24,9 @@ Notice: Rebirth will be removed from you if you exhausted all your rebirths.
 * <font color=#7f8c8d>Neutrals</font> can become Rebirth
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+* <font color=#ac42f2>Coven</font> can become Rebirth
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 * Amount of Rebirths
   * Set the Maximum amount of Rebirths that Rebirth can Rebirth
 * Only rebirth to players who voted for them

@@ -2,7 +2,7 @@
 lang: en-US
 title: Doll Master
 prev: /options/Settings/Impostors.html
-next: /options/Settings/Impostors.html
+next: Mastermind
 ---
 
 # <font color=red>🎎 <b>Doll Master</b></font> <Badge text="Experimental" type="tip" vertical="middle"/>
@@ -28,6 +28,6 @@ Target dies after possession
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+Now the Dollmaster was quite the cook.. To be honest And he worked Godly fast He could make meals for a whole Crew in Minutes... One day the Dollmaster became Mad with himself... While cutting down a pufferfish the Dollmaster accidentally poisoned and killed a crewmate... This cant be.. He was great but blood? That of a Crewmate? He had never seen that before.. He was shaken but like any Other crew.. After killing the Dollmaster became... An Impostor (Duh Duh Duuuuuh on Drums in the background) Now... What about his ability? Butcher? Taken Chronomancer? Taken Poisoner? Taken What if he put something in the crewmates drink that could make then easy to be controlled remotely and easily be used to kill others the crewmates would act like puppets or more specifically dolls... That could work! That could work!! And it did... But it backfired.. One of the crew reported while the Dollmaster was controlling one of the crew and due to him controlling the whole crew saw the strings and the Dollmaster... Oops.. Dollmaster was ejected RIP Even the best ideas have cons... Even the best ones  The.. The End
+> Submitted by: champofchamps78
 </details>

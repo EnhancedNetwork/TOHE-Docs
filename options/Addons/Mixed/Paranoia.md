@@ -19,6 +19,9 @@ Madmates and <font color=#7f8c8d>Neutrals</font> can't become Paranoia. Paranoia
 * <font color=#8cffff>Crewmates</font> can become Paranoia
   * <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> can become this role
   * <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> cannot become this role
+* <font color=#ac42f2>Coven</font> can become Paranoia
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 
 > Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
 

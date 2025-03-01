@@ -22,6 +22,9 @@ As Aware, you will be notified in the next meeting if a revealing role interacts
 * Neutrals can become Aware
   * <font color=green>ON</font>: Neutrals can become Aware
   * <font color=red>OFF</font>: Neutrals cannot become Aware
+* Coven can become Aware
+  * <font color=green>ON</font>: Coven can become Aware
+  * <font color=red>OFF</font>: Coven cannot become Aware
 * Knows the role of player
   * <font color=green>ON</font>: Aware knows the role of the player
   * <font color=red>OFF</font>: Aware does not know the role of the player

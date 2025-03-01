@@ -33,6 +33,10 @@ export default defineUserConfig({
                 link: '/options/Settings/Neutrals.html',
               },
               {
+                text: 'Coven Roles',
+                link: '/options/Settings/Coven.html',
+              },
+              {
                 text: 'Add-ons',
                 link: '/options/Settings/Addons.html',
               },
@@ -59,20 +63,16 @@ export default defineUserConfig({
             link: '/AboutUs.html',
           },
           {
+            text: 'FAQ',
+            link: '/FAQ.html',
+          },
+          {
             text: 'Changelogs',
             link: '/Changelogs.html',
           },
           {
             text: 'Resources',
             link: '/Resources.html',
-          },
-          {
-            text: 'Install',
-            link: '/Install.html',
-          },
-          {
-            text: 'FAQ',
-            link: '/FAQ.html',
           },
         ],
         sidebar: {
@@ -166,6 +166,31 @@ export default defineUserConfig({
             { text: 'Stubborn', link: '/options/Addons/Mixed/Stubborn.html' },
             { text: 'Susceptible', link: '/options/Addons/Mixed/Susceptible.html' },
           ],
+          '/options/Coven/Killing/': [
+            { text: 'Back to Coven', link: '/options/Settings/Coven.html' },
+            { text: 'Conjurer', link: '/options/Coven/Killing/Conjurer.html' },
+            { text: 'Hex Master', link: '/options/Coven/Killing/HexMaster.html' },
+            { text: 'Jinx', link: '/options/Coven/Killing/Jinx.html' }
+          ],
+          '/options/Coven/Power/': [
+            { text: 'Back to Coven', link: '/options/Settings/Coven.html' },
+            { text: 'Coven Leader', link: '/options/Coven/Power/CovenLeader.html' },
+            { text: 'Ritualist', link: '/options/Coven/Power/Ritualist.html' }
+          ],
+          '/options/Coven/Trickery/': [
+            { text: 'Back to Coven', link: '/options/Settings/Coven.html' },
+            { text: 'Illusionist', link: '/options/Coven/Trickery/Illusionist.html' },
+            { text: 'Poisoner', link: '/options/Coven/Trickery/Poisoner.html' }
+          ],
+          '/options/Coven/Utility/': [
+            { text: 'Back to Coven', link: '/options/Settings/Coven.html' },
+            { text: 'Medusa', link: '/options/Coven/Utility/Medusa.html' },
+            { text: 'Moon Dancer', link: '/options/Coven/Utility/MoonDancer.html' },
+            { text: 'Necromancer', link: '/options/Coven/Utility/Necromancer.html' },
+            { text: 'Potion Master', link: '/options/Coven/Utility/PotionMaster.html' },
+            { text: 'Sacrifist', link: '/options/Coven/Utility/Sacrifist.html' },
+            { text: 'Voodoo Master', link: '/options/Coven/Utility/VoodooMaster.html' }
+          ],
           '/options/Crewmates/Basic/': [
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
             { text: 'Addict', link: '/options/Crewmates/Basic/Addict.html' },
@@ -217,6 +242,7 @@ export default defineUserConfig({
             { text: 'Back to Crewmates', link: '/options/Settings/Crewmates.html' },
             { text: 'Admirer', link: '/options/Crewmates/Power/Admirer.html' },
             { text: 'Captain', link: '/options/Crewmates/Power/Captain.html' },
+            { text: 'Chief Of Police', link: '/options/Crewmates/Power/ChiefOfPolice.html' },
             { text: 'Copycat', link: '/options/Crewmates/Power/Copycat.html' },
             { text: 'Dictator', link: '/options/Crewmates/Power/Dictator.html' },
             { text: 'Guardian', link: '/options/Crewmates/Power/Guardian.html' },
@@ -272,6 +298,7 @@ export default defineUserConfig({
           ],
           '/options/Impostors/Concealing/': [
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
+            { text: 'Abyssbringer', link: '/options/Impostors/Concealing/Abyssbringer.html' },
             { text: 'Escapist', link: '/options/Impostors/Concealing/Escapist.html' },
             { text: 'Lightning', link: '/options/Impostors/Concealing/Lightning.html' },
             { text: 'Mastermind', link: '/options/Impostors/Concealing/Mastermind.html' },
@@ -406,7 +433,9 @@ export default defineUserConfig({
             { text: 'Maverick', link: '/options/Neutrals/Benign/Maverick.html' },
             { text: 'Opportunist', link: '/options/Neutrals/Benign/Opportunist.html' },
             { text: 'Pixie', link: '/options/Neutrals/Benign/Pixie.html' },
+            { text: 'Provocateur', link: '/options/Neutrals/Benign/Provocateur.html' },
             { text: 'Pursuer', link: '/options/Neutrals/Benign/Pursuer.html' },
+            { text: 'Revenant', link: '/options/Neutrals/Benign/Revenant.html'},
             {
               text: 'Romantic', link: '/options/Neutrals/Benign/Romantic.html', children: [
                 { text: 'Vengeful Romantic', link: '/options/Neutrals/Benign/RomanticVengeful.html' },
@@ -416,19 +445,17 @@ export default defineUserConfig({
             { text: 'Shaman', link: '/options/Neutrals/Benign/Shaman.html' },
             { text: 'Schrodingers Cat', link: '/options/Neutrals/Benign/SchrodingersCat.html' },
             { text: 'Taskinator', link: '/options/Neutrals/Benign/Taskinator.html' },
+            { text: 'Troller', link: '/options/Neutrals/Benign/Troller.html' },
           ],
           '/options/Neutrals/Chaos': [
             { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
             { text: 'Collector', link: '/options/Neutrals/Chaos/Collector.html' },
-            { text: 'Cultist', link: '/options/Neutrals/Chaos/Cultist.html' },
             { text: 'God', link: '/options/Neutrals/Chaos/God.html' },
             { text: 'Pirate', link: '/options/Neutrals/Chaos/Pirate.html' },
-            { text: 'Provocateur', link: '/options/Neutrals/Chaos/Provocateur.html' },
             { text: 'Revolutionist', link: '/options/Neutrals/Chaos/Revolutionist.html' },
             { text: 'Solsticer', link: '/options/Neutrals/Chaos/Solsticer.html' },
             { text: 'Specter', link: '/options/Neutrals/Chaos/Specter.html' },
             { text: 'Terrorist', link: '/options/Neutrals/Chaos/Terrorist.html' },
-            { text: 'Troller', link: '/options/Neutrals/Chaos/Troller.html' },
             { text: 'Vector', link: '/options/Neutrals/Chaos/Vector.html' },
             { text: 'Vulture', link: '/options/Neutrals/Chaos/Vulture.html' },
             { text: 'Workaholic', link: '/options/Neutrals/Chaos/Workaholic.html' },
@@ -449,9 +476,9 @@ export default defineUserConfig({
           ],
           '/options/Neutrals/Experimental/': [
             { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
-            { text: 'Doppelganger', link: '/options/Neutrals/Experimental/Doppelganger.html' },
             { text: 'Imitator', link: '/options/Neutrals/Experimental/Imitator.html' },
             { text: 'Quizmaster', link: '/options/Neutrals/Experimental/Quizmaster.html' },
+            { text: 'Shocker', link: '/options/Neutrals/Experimental/Shocker.html' },
           ],
           '/options/Neutrals/Killing/': [
             { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
@@ -459,21 +486,17 @@ export default defineUserConfig({
             { text: 'Arsonist', link: '/options/Neutrals/Killing/Arsonist.html' },
             { text: 'Bandit', link: '/options/Neutrals/Killing/Bandit.html' },
             { text: 'Blood Knight', link: '/options/Neutrals/Killing/BloodKnight.html' },
+            { text: 'Cultist', link: '/options/Neutrals/Killing/Cultist.html' },
             { text: 'Demon', link: '/options/Neutrals/Killing/Demon.html' },
+            { text: 'Doppelganger', link: '/options/Neutrals/Killing/Doppelganger.html' },
             { text: 'Glitch', link: '/options/Neutrals/Killing/Glitch.html' },
-            { text: 'Hex Master', link: '/options/Neutrals/Killing/HexMaster.html' },
             { text: 'Huntsman', link: '/options/Neutrals/Killing/Huntsman.html' },
             { text: 'Infectious', link: '/options/Neutrals/Killing/Infectious.html' },
             { text: 'Jackal', link: '/options/Neutrals/Killing/Jackal.html' },
-            { text: 'Jinx', link: '/options/Neutrals/Killing/Jinx.html' },
             { text: 'Juggernaut', link: '/options/Neutrals/Killing/Juggernaut.html' },
-            { text: 'Medusa', link: '/options/Neutrals/Killing/Medusa.html' },
-            { text: 'Necromancer', link: '/options/Neutrals/Killing/Necromancer.html' },
             { text: 'Pelican', link: '/options/Neutrals/Killing/Pelican.html' },
             { text: 'Pickpocket', link: '/options/Neutrals/Killing/Pickpocket.html' },
             { text: 'Plague Scientist', link: '/options/Neutrals/Killing/PlagueScientist.html' },
-            { text: 'Poisoner', link: '/options/Neutrals/Killing/Poisoner.html' },
-            { text: 'Potion Master', link: '/options/Neutrals/Killing/PotionMaster.html' },
             { text: 'Pyromaniac', link: '/options/Neutrals/Killing/Pyromaniac.html' },
             { text: 'Serial Killer', link: '/options/Neutrals/Killing/SerialKiller.html' },
             { text: 'Shroud', link: '/options/Neutrals/Killing/Shroud.html' },
@@ -495,9 +518,9 @@ export default defineUserConfig({
             { text: 'Add-ons', link: '/options/Settings/Addons.html' },
           ],
         },
-        repo: '0xDrMoe/TOHRE-Code',
+        repo: 'EnhancedNetwork/TOHE-Docs',
         repoLabel: 'Contribute!',
-        docsRepo: '0xDrMoe/TOHRE-Code',
+        docsRepo: 'EnhancedNetwork/TOHE-Docs',
         editLink: true,
         editLinkText: 'Contribute to this page on GitHub!',
         notFound: [

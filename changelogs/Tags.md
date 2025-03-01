@@ -14,11 +14,11 @@ sidebar:
 These are Tags to help you differentiate between Bugs & Changes, Additions & Reworks, Removals & Reverts.
 
 ---
-<font size=4em>
+<font size=3em>
 <details>
 <summary><b><font color=#cf4e8f>Recently Added Tags</font></b></summary>
 
-\+ None, read All Site Tags for Tag info.
+= <font color=#ece218><b>NOTICE</b></font>: None, read All Site Tags for Tag info.
 </details>
 <details>
 <summary><b><font color=#d395b4>All Site Tags</font></b></summary>
@@ -57,5 +57,12 @@ These are Tags to help you differentiate between Bugs & Changes, Additions & Rew
 - <font color=#CD2E3A><b>Korean</b></font>: Korean Translation of the mod.<br>
 - <font color=#FED141><b>Filipino</b></font>: Filipino Translation of the mod.<br>
 - <font color=#FF8200><b>Irish</b></font>: Irish Translation of the mod.<br>
+</details>
+<details>
+<summary><b><font color=#cf4e8f>Release Tags</font></b></summary>
+
+<b><font color=#cf4e8f>Latest Release</font></b>: Latest Mod Releases.<br>
+<b><font color=#d395b4>Previous Release</font></b>: Prior Mod Releases.<br>
+<b><font color=#a175ff>Coven Releases</font></b>: Mod Releases for the Coven Alpha Branch.
 </details>
 </font>

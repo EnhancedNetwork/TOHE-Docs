@@ -51,6 +51,18 @@ You can see the player's id before the player's name, or use the `/id` command t
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+“Then Gandalf the Great and Gandalf the while and Monty python holy grail black knight”
+ 
+Doomsayer was once part of the Nice Guessers, they were known as the most feared group ever able to kill with one say, but dies when they guessed them wrong, but not him he was special he could guess anyone incorrectly and still lived, so to combat this some jealous nice guessers cursed him to can’t kill anyone he guessed and because of this he was thrown out for being USELESS
+ 
+Now in the big city, needing some dough he had a great idea, he wanted to make bets with people, if he can guess their role they would win some money if not he owes them money, and he had the greatest name for it the “Career Ladder”
+ 
+“Hope you don’t need to hold your bladder cause it’s time for the career ladder”
+ 
+He was pretty much set for all of his life, almost never losing and because of this he was being eyed by some professional people, They said they could pay him even more money more easily if he could help them and he agreed. It was pretty easy just guess X amount of people’s roles and he won, he could come back and they would bomb the other people, seems pretty hard right?
+ 
+Well not for him he knocked it out of the park, always guessing right and when they asked him how does he do it he just says “What can I say people are just too predictable”, He’s first name that was given to him was Neutral guesser but didn’t really rolls on the tongue pretty well so he switched it to
+ 
+DOOMSAYER
+> Submitted by: marker_should_win_tpot
 </details>

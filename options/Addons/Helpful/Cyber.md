@@ -23,6 +23,9 @@ Additionally, your death will be known.
 * <font color=#7f8c8d>Neutrals</font> can become Cyber
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can become this role
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot become this role
+* <font color=#ac42f2>Coven</font> can become Cyber
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can become this role
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot become this role
 * <font color=red>Impostors</font> know when the Cyber dies
   * <font color=green>ON</font>: <font color=red>Impostors</font> can see the kill flash of when the Cyber dies
   * <font color=red>OFF</font>: <font color=red>Impostors</font> cannot tell when a Cyber gets killed
@@ -32,6 +35,9 @@ Additionally, your death will be known.
 * <font color=#7f8c8d>Neutrals</font> know when the Cyber dies
   * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> can see the kill flash of when the Cyber dies
   * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> cannot tell when a Cyber gets killed.
+* <font color=#ac42f2>Coven</font> know when the Cyber dies
+  * <font color=green>ON</font>: <font color=#ac42f2>Coven</font> can see the kill flash of when the Cyber dies
+  * <font color=red>OFF</font>: <font color=#ac42f2>Coven</font> cannot tell when a Cyber gets killed
 * Everyone can see Cyber: 
   * <font color=green>ON</font>: a <font color=#f46f4e>orange</font> star will appear next to the Cyber’s name
   * <font color=red>OFF</font>: the Cyber remains secret

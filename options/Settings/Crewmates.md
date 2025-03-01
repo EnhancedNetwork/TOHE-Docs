@@ -14,6 +14,7 @@ next: /Roles.html
 <tr>
 <td colspan="2" align="center"><b><u>Role Count</u></b></td>
 </tr>
+
 <tr>
 <td><a href="#basic" style="color:#e69c9c"><b>🧒 Basic</b></a></td>
 <td align="center">16</td>
@@ -36,7 +37,7 @@ next: /Roles.html
 
 <tr>
 <td><a href="#power" style="color:#d4af37"><b>🧑‍⚖️ Power</b></a></td>
-<td align="center">13</td>
+<td align="center">14</td>
 </tr>
 
 <tr>
@@ -51,7 +52,7 @@ next: /Roles.html
 
 <tr>
 <td><font color=#8cffff><b>📊 Total:</b></font></td>
-<td align="center"><b>80</b></td>
+<td align="center"><b>81</b></td>
 </tr>
 
 </table>
@@ -77,7 +78,7 @@ next: /Roles.html
 
 ### <font color=#d4af37><b>Power</b></font>
 ---
-[Admirer](/options/Crewmates/Power/Admirer.html) | [Captain](/options/Crewmates/Power/Captain.html) | [Copycat](/options/Crewmates/Power/Copycat.html) | [Dictator](/options/Crewmates/Power/Dictator.html) | [Guardian](/options/Crewmates/Power/Guardian.html) | [Lookout](/options/Crewmates/Power/Lookout.html) | [Marshall](/options/Crewmates/Power/Marshall.html) | [Mayor](/options/Crewmates/Power/Mayor.html) | [Monarch](/options/Crewmates/Power/Monarch.html) | [Overseer](/options/Crewmates/Power/Overseer.html) | [President](/options/Crewmates/Power/President.html) | [Swapper](/options/Crewmates/Power/Swapper.html) | [Telecommunication](/options/Crewmates/Power/Telecommunication.html)
+[Admirer](/options/Crewmates/Power/Admirer.html) | [Captain](/options/Crewmates/Power/Captain.html) | [Chief Of Police](/options/Crewmates/Power/ChiefOfPolice.html) | [Copycat](/options/Crewmates/Power/Copycat.html) | [Dictator](/options/Crewmates/Power/Dictator.html) | [Guardian](/options/Crewmates/Power/Guardian.html) | [Lookout](/options/Crewmates/Power/Lookout.html) | [Marshall](/options/Crewmates/Power/Marshall.html) | [Mayor](/options/Crewmates/Power/Mayor.html) | [Monarch](/options/Crewmates/Power/Monarch.html) | [Overseer](/options/Crewmates/Power/Overseer.html) | [President](/options/Crewmates/Power/President.html) | [Swapper](/options/Crewmates/Power/Swapper.html) | [Telecommunication](/options/Crewmates/Power/Telecommunication.html)
 <br>
 
 ### <font color=#7fffd4><b>Support</b></font>

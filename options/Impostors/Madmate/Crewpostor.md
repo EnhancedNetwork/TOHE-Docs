@@ -41,6 +41,6 @@ When the Crewpostor does a Task, they will kill the player closest to them. (Dep
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+Throughout this round there has been immense trouble.. For the first time in The History of Among us was someone found.. D-De-Dead Shivers went down The Crewpostor’s Spine and Thinking if he was next… What if he was? What if he could not Protect himself.. “No.. Not today.. Destiny I wont let you” He ensured that he wont die but… But how? There was just a striking difference between self defence and… Over Precaution.. Or was there? Well.. To be quite honest this is a conundrum.. He went up to his friends and started a speech… Truly moving as per the author, Me, But not enough to change the mind of everyone else.. “Six hundred lives at stake It's just one life to take And when we kill him, then our journey's over” “But- But we cant” Said one of his friends..” “No dying on me now Defeat is not allowed” Completing his speech.. He felt it was useless to persuade others who were Stubborn and wont do anything to survive.. He himself had to do something but what? All he knew was to do tasks.. Wait.. Tasks! He heard rumours that by doing a number of tasks you could get enough energy to teleport and.. Kill? All rumours but what if.. What if he could? And after a couple of failed experiments.. He finally did it.. But.. The dead crewmate was a crewmate?... Did he really kill- Kill for no reason? Well he did and now… Blood… He needed to kill.. even more.. so on to doing tasks Doing tasks and killing? That’s an unholy combination of crew and Impostor Like… A Crewpostor ?
+> Submitted by: champofchamps78
 </details>

@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Pelican
-prev: Necromancer
+prev: Juggernaut
 next: Pickpocket
 ---
 

@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/Among Us/Vuepress Site TOHE/docs/.vuepress/.temp/pages/options/Addons/Guesser/DoubleShot.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Addons/Guesser/DoubleShot.html\",\"title\":\"Double Shot\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Double Shot\",\"prev\":\"/options/Settings/Addons.html\",\"next\":\"Guesser\"},\"headers\":[],\"git\":{\"updatedTime\":1727504355000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2}]},\"filePathRelative\":\"options/Addons/Guesser/DoubleShot.md\"}")
-export { comp, data }

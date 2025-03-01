@@ -40,6 +40,43 @@ Workaholics have more tasks and win alone when they complete all quests. (Accord
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+"The More I work The More Luck I Gain"
+The workaholic was known to be a big... BIG gambler but he believed as a superstition that he would become Extra lucky and win more if he worked more
+
+Brilliant I guess...
+The crew feared him... If he had no more work he would just make a bet with Mr. Sloth and win... And this win will make them
+
+Loose.
+
+So they assigned him more and MORE tasks..
+But he kept speeding to them and doing them
+
+"Tie him up"
+"But sir... isn't that unfair"
+"DO IT"
+
+And they tied him up... Resisting he broke away but the Impostor stabbed him...
+
+"What did you do" YELLED the captain
+
+"Where.. am I"
+You're in heaven buddy.. Told the medium..
+"Just kidding you're a ghost!"
+
+Complete your tasks to win!
+As the Workaholic remembered his goal he rushed...
+And flipped the right energy in shields...
+Turning them on..
+
+He... did it..
+No more tasks..
+Marching to the office of Mr. Sloth he bet him that he would win Russian roulette..
+Being fearful Mr. Sloth denied.
+
+And the workaholic was given command of the Skeld...
+He crashed it.
+
+The End
+
+> Submitted by: champofchamps
 </details>

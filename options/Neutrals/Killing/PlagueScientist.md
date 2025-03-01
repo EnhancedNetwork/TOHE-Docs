@@ -2,7 +2,7 @@
 lang: en-US
 title: Plague Scientist
 prev: Pickpocket
-next: Poisoner
+next: Pyromaniac
 ---
 
 # <font color="#ff6633">🦠 <b>Plague Scientist</b></font> <Badge text="Killing" type="tip" vertical="middle"/>

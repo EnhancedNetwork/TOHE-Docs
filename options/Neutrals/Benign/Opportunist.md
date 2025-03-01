@@ -29,6 +29,56 @@ Stay alive to win. You win with the winning team rather than alone. If you die, 
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+- Stay Alive...
+Staying alive is hard.. 
+Even harder when you are surrounded by murderers.. Then you have to be one..
+
+The opportunist thought this before well 
+The Incident
+
+After her best friend The Maverick was MURDERED in cold blood by the Last Impostor to take revenge.. The opportunist was shook
+
+One-two-three-four-five-six-seven-eight-nine
+There are ten things you need to know (number one!)
+This world was wide enough for everyone but no one...
+Her friend fiddled with the Trigger
+The Impostor was a terrible shot
+The Maverick was wearing glasses.. To take deadly aim
+The Impostor doing everything to live
+The Maverick drew first Position
+There was no beat No Melody
+They were near the same spot The Shaman died
+Examining the terrain....
+
+Look him in the eye, aim no higher
+Summon all the courage you require
+Then count (one-two-three-four-five-six-seven-eight-nine, number-ten paces, fire!)
+
+And... It all ended... His final words were...
+My love Opportunist take your time...
+Wait Love?...
+"He Loved me?"
+
+And that moment she went crazy and started laughing from shock for More than an hour and when finally she calmed down she realized..
+She had to tell the Maverick's story....
+
+She had to live and tell his story...
+
+She had to tell the Shaman's story and how people just wanted to live...
+
+But in the end...
+
+"You have no control over Who lives, who dies, who tells your story?"
+-Shaman
+
+When you are gone... who keeps your flame..
+Who tells your story...
+
+And the Opportunist Lives another 50 years and interviews the companions.. She tells their story...
+
+She... lives
+
+The.... End
+
+> Submitted by: champofchamps78
 </details>

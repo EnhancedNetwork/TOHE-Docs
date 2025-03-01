@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Huntsman
-prev: HexMaster
+prev: Glitch
 next: Infectious
 ---
 

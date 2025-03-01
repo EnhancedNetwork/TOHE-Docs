@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: God
-prev: Cultist
+prev: Collector
 next: Pirate
 ---
 
@@ -23,6 +23,38 @@ God knows everyone's role from the beginning, and God will win alone as long as 
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
 
-Placeholder: This role is a ROLE OH EM GOSH
-> Submitted by: Member
+Now the god was not actually god…
+Pretty confusing right?
+Well if he was god he would just win every game..
+Which he did not…
+He had successful games but losses to
+
+Now when he died by the serial killer it was his last life…
+Now he saw God and he asked..
+Where did I go wrong
+“No where”
+So how could he redeem himself?
+
+Well by being a missionary and carrying the idea of peace and no violence to the beans..
+Bu being their god..
+
+But by doing that god also gave him powers to steal wins and know roles..
+But the catch? He can’t kill
+He can’t guess
+Only forced to kill…
+
+Well the crew mates found it extremely irritating for god stealing their wins
+They tried to find god
+
+Now god was very… overwhelmed by the spotlight so he kept announcing in every meeting there was a god to remove some of the blames from him
+But now he was accused
+
+And ejected
+And he died
+
+No second chances…
+
+The end!
+
+> Submitted by: Neptune
 </details>

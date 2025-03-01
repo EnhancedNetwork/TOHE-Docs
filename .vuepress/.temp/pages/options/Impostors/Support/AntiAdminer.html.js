@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Impostors/Support/AntiAdminer.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Impostors/Support/AntiAdminer.html\",\"title\":\"Anti Adminer\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Anti Adminer\",\"prev\":\"/options/Settings/Impostors.html\",\"next\":\"Blackmailer\"},\"headers\":[],\"git\":{\"updatedTime\":1730754347000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":5}]},\"filePathRelative\":\"options/Impostors/Support/AntiAdminer.md\"}")
+export { comp, data }

@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Abyssbringer.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Impostors/Concealing/Abyssbringer.html\",\"title\":\"Abyssbringer\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Abyssbringer\",\"prev\":\"/options/Settings/Impostors.html\",\"next\":\"Escapist\"},\"headers\":[],\"git\":{\"updatedTime\":1733685564000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Impostors/Concealing/Abyssbringer.md\"}")
+export { comp, data }

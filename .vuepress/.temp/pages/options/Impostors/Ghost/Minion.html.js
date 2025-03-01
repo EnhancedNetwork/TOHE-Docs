@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Impostors/Ghost/Minion.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Impostors/Ghost/Minion.html\",\"title\":\"Minion\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Minion\",\"prev\":\"Bloodmoon\",\"next\":\"Possessor\"},\"headers\":[],\"git\":{\"updatedTime\":1733232692000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":5},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Impostors/Ghost/Minion.md\"}")
+export { comp, data }

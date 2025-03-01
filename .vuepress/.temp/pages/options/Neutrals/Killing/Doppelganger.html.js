@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Doppelganger.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Neutrals/Killing/Doppelganger.html\",\"title\":\"Doppelganger\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Doppelganger\",\"prev\":\"Demon\",\"next\":\"Glitch\"},\"headers\":[],\"git\":{\"updatedTime\":1732919975000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":4}]},\"filePathRelative\":\"options/Neutrals/Killing/Doppelganger.md\"}")
+export { comp, data }

@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Impostors/Support/Blackmailer.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Impostors/Support/Blackmailer.html\",\"title\":\"Blackmailer\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Blackmailer\",\"prev\":\"AntiAdminer\",\"next\":\"Camouflager\"},\"headers\":[],\"git\":{\"updatedTime\":1730754347000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3}]},\"filePathRelative\":\"options/Impostors/Support/Blackmailer.md\"}")
+export { comp, data }

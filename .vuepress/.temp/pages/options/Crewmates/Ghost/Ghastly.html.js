@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Crewmates/Ghost/Ghastly.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Crewmates/Ghost/Ghastly.html\",\"title\":\"Ghastly\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Ghastly\",\"prev\":\"/options/Settings/Crewmates.html\",\"next\":\"Hawk\"},\"headers\":[],\"git\":{\"updatedTime\":1727503862000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2}]},\"filePathRelative\":\"options/Crewmates/Ghost/Ghastly.md\"}")
+export { comp, data }

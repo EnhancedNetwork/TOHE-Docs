@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Impostors/Support/DoubleAgent.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Impostors/Support/DoubleAgent.html\",\"title\":\"Double Agent\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Double Agent\",\"prev\":\"Consigliere\",\"next\":\"Fireworker\"},\"headers\":[],\"git\":{\"updatedTime\":1730754347000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":4}]},\"filePathRelative\":\"options/Impostors/Support/DoubleAgent.md\"}")
+export { comp, data }

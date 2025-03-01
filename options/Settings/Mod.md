@@ -9,7 +9,6 @@ next: /Roles.html
 ---
 
 ## <font color=#ffc0cb>📃 Standard</font>
----
 
 ### <font size=4em color=#ffeee8>Ejection</font>
   * Confirm Ejections Mode

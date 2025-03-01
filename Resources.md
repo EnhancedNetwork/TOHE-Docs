@@ -8,7 +8,6 @@ contributors: false
 
 Here are some Resources that may help you understand some things relating to the mod. Such as Mod Features, Customization, other Useful Guides/Information, & User Submitted Content.
 
-<font size=3em>
 <details>
 <summary><b><font color=#a65a80>Mod Features</font></b></summary>
 <details>
@@ -1461,11 +1460,11 @@ There is a Tutorial at the bottom of the Template Editior's page if you need it.
 
 1. Enter a Title for the template. This title will be displayed at the top of the template when its activated in game. Here's what the title will look like by default:
 ![image](./images/TemplateTitle.png)
-2. Enter in what you want the template to display. You can edit the Font Size & Text Colors, but it is recommended to do it last. (From: Drakos)
-3. Enter in the name for this template. This name will also be the trigger word for this template. `[example]:this is an example template!` (`[example]` being the name/trigger word)
-4. Click the "Copy as HTML Formatted" to copy your template to your clipboard.
-5. Locate `..\Among Us\TOHE-DATA\template.txt` and paste your new template on a new-line.
-6. You can then save the file [`[Ctrl] + [S]`], boot up the mod, and run `/t [example]` in your chat box to see if it's set up to your liking!
+1. Enter in what you want the template to display. You can edit the Font Size & Text Colors, but it is recommended to do it last. (From: Drakos)
+2. Enter in the name for this template. This name will also be the trigger word for this template. `[example]:this is an example template!` (`[example]` being the name/trigger word)
+3. Click the "Copy as HTML Formatted" to copy your template to your clipboard.
+4. Locate `..\Among Us\TOHE-DATA\template.txt` and paste your new template on a new-line.
+5. You can then save the file [`[Ctrl] + [S]`], boot up the mod, and run `/t [example]` in your chat box to see if it's set up to your liking!
 </details>
 
 If you create copies of the template name on newlines, it will send them in seperate messages. Here's an example from Drakos: 

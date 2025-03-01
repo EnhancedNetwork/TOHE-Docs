@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Impostors/Madmate/Refugee.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Impostors/Madmate/Refugee.html\",\"title\":\"Refugee\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Refugee\",\"prev\":\"Parasite\",\"next\":\"/options/Settings/Impostors.html\"},\"headers\":[],\"git\":{\"updatedTime\":1734992354000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":4}]},\"filePathRelative\":\"options/Impostors/Madmate/Refugee.md\"}")
+export { comp, data }

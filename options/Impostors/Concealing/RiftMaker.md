@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: RiftMaker
+title: Rift Maker
 prev: Puppeteer
 next: Scavenger
 ---

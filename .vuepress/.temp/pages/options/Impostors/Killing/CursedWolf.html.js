@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Impostors/Killing/CursedWolf.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Impostors/Killing/CursedWolf.html\",\"title\":\"Cursed Wolf\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Cursed Wolf\",\"prev\":\"Councillor\",\"next\":\"Deathpact\"},\"headers\":[],\"git\":{\"updatedTime\":1728767165000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":4},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":3}]},\"filePathRelative\":\"options/Impostors/Killing/CursedWolf.md\"}")
+export { comp, data }

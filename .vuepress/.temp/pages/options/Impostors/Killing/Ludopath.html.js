@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Impostors/Killing/Ludopath.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Impostors/Killing/Ludopath.html\",\"title\":\"Ludopath\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Ludopath\",\"prev\":\"KillingMachine\",\"next\":\"Lurker\"},\"headers\":[],\"git\":{\"updatedTime\":1728767165000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":10},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":3}]},\"filePathRelative\":\"options/Impostors/Killing/Ludopath.md\"}")
+export { comp, data }

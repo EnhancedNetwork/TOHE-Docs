@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: ChiefOfPolice
+title: Chief Of Police
 prev: Captain
 next: Copycat
 ---

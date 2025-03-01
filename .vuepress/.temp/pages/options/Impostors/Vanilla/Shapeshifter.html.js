@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Impostors/Vanilla/Shapeshifter.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Impostors/Vanilla/Shapeshifter.html\",\"title\":\"Shapeshifter\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Shapeshifter\",\"prev\":\"Phantom\",\"next\":\"/options/Settings/Impostors.html\"},\"headers\":[],\"git\":{\"updatedTime\":1733232692000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Impostors/Vanilla/Shapeshifter.md\"}")
+export { comp, data }

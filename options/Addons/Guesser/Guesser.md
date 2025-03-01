@@ -2,7 +2,7 @@
 lang: en-US
 title: Guesser
 prev: DoubleShot
-next: OIIAI
+next: Onbound
 ---
 
 # <font color=#f8cd46>❔ <b>Guesser</b></font> <Badge text="Guesser" type="tip" vertical="middle"/>

@@ -213,7 +213,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 = <font color=#de6707><b>KNOWN BUG</b></font>: (Maybe fixed now) Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, & Imitator are working, but are unstable<br>
 
-* <font color=green><b>NEW ROLES/ADDONS</b></font></font><br>
+* <font color=green><b>NEW ROLES/ADDONS</b></font><br>
 \+ <font color=green><b>NEW</b></font>: Possessor (Imposter Ghost Role, idea & coded: D1GQ)  <br>
 \+ <font color=green><b>NEW</b></font>: Sloth (Addon Harmful, Idea & Coded: Pyro) (mostly code borrowed from Flash)<br>
 \+ <font color=green><b>NEW</b></font>: Yin Yanger (Impostor Killing, idea & coded: Drakos)<br>
@@ -230,7 +230,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 \+ <font color=green><b>NEW</b></font>: Berserker and PlagueBearer now moved to Neutral Apocalypse (Reworked by: Marg)<br>
 \+ <font color=green><b>NEW</b></font>: Soul Collector reworked (Reworked by: Marg)<br>
 
-* <font color=green><b>NEW SETTINGS/FEATURES</b></font></font><br>
+* <font color=green><b>NEW SETTINGS/FEATURES</b></font><br>
 \+ <font color=green><b>NEW</b></font>: Added disabling use vent for vanilla (ported from MoreGamemodes, by TommyXL & NikoCat) (When a player does not have access to vents, they will never be able to use it)<br>
 \+ <font color=green><b>NEW</b></font>: More fixes for AntiBlackOut (By TommyXL & Drakos) (Note: This will not completely fix black screen issues, but the more players there are in the game, the less chance of black screen occurrences. To do this, we use revives and base role changes during exile, so that dead players will be alive for a couple of seconds, but will become dead again)<br>
 \+ <font color=green><b>NEW</b></font>: Added support role basic changer mid-game (By TommyXL & Drakos) (CopyCat now support role basis changes. Executioner and Lawyer also change role basic after target dead)<br>
@@ -257,7 +257,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 \+ <font color=green><b>NEW</b></font>: Modded players now will see changes in TOHE settings<br>
 \+ <font color=green><b>NEW</b></font>: Added custom image "Timer" for Mercenary, Bounty Hunter and Penguin: Thanks @that_one_missing_pixel (Pixel)<br>
 
-* <font color=#1376f0><b>BUG FIXES/CHANGES</b></font></font><br>
+* <font color=#1376f0><b>BUG FIXES/CHANGES</b></font><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Phantom Desync: Phantom now plays the invisibility animation instead of teleporting to a random vent for desync roles.<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed issues with Veteran killing Taskinator, Killing Machine calling meetings, and the Jailed message not showing during the game.<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Resolved issues with FFA meetings getting stuck and Fortune Teller showing roles during FFA.<br>
@@ -372,13 +372,13 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 = <font color=#ece218><b>NOTICE</b></font>: New Settings UI (Base ported from [TOH-Y](https://github.com/Yumenopai/TownOfHost_Y))<br>
 :::
 
-* <font color=green><b>NEW ROLES/ADDONS</b></font></font><br>
+* <font color=green><b>NEW ROLES/ADDONS</b></font><br>
 \+ <font color=green><b>NEW</b></font>: [Evil Hacker](./options/Impostors/Killing/EvilHacker.html) (Impostor Killing - Ported from [TOH](https://github.com/tukasa0001/TownOfHost))<br>
 \+ <font color=green><b>NEW</b></font>: [Doll Master](./options/Impostors/Experimental/DollMaster.html) (Experimental Impostor - By [**D1GQ**](https://github.com/D1GQ))<br>
 \+ <font color=green><b>NEW</b></font>: [Radar](./options/Addons/Helpful/Radar.html) (Helpful Add-On - By [**ryuk**](https://github.com/ryuk2098))<br>
 \+ <font color=green><b>NEW</b></font>: [Glow](./options/Addons/Experimental/Glow.html) (Experimental Add-On -By [**ryuk**](https://github.com/ryuk2098))<br>
 
-* <font color=#e08709><b>IMPROVED ROLES</b></font></font><br>
+* <font color=#e08709><b>IMPROVED ROLES</b></font><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: [Ninja](./options/Impostors/Killing/Ninja.html) (By [**TommyXL**](https://github.com/Tommy-XL))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: [Chronomancer](./options/Impostors/Killing/Chronomancer.html) (By [**Drakos**](https://github.com/Ultradragon005))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: [Councillor](./options/Impostors/Killing/Councillor.html) (By [**NikoCat223**](https://github.com/NikoCat233))<br>
@@ -386,7 +386,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 = <font color=#e08709><b>IMPROVEMENT</b></font>: [Schrodinger's Cat](/options/Neutrals/Benign/SchrodingersCat.html) (By [**TommyXL**](https://github.com/Tommy-XL))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: [Tricky](/options/Addons/Impostor/Tricky.html) (By [**Drakos**](https://github.com/Ultradragon005))<br>
 
-* <font color=#12edaf><b>GHOST ROLES RETURNED</b></font></font><br>
+* <font color=#12edaf><b>GHOST ROLES RETURNED</b></font><br>
 \+ <font color=#12edaf><b>RETURNED</b></font>: [Ghastly](/options/Crewmates/Ghost/Ghastly.html) (Crewmate Ghost - By [**Drakos**](https://github.com/Ultradragon005))<br>
 \+ <font color=#12edaf><b>RETURNED</b></font>: [Hawk](/options/Crewmates/Ghost/Hawk.html) (Crewmate Ghost - By [**Drakos**](https://github.com/Ultradragon005))<br>
 \+ <font color=#12edaf><b>RETURNED</b></font>: [Warden](/options/Crewmates/Ghost/Warden.html) (Crewmate Ghost - By [**Drakos**](https://github.com/Ultradragon005))<br>
@@ -394,13 +394,13 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 \+ <font color=#12edaf><b>RETURNED</b></font>: [Minion](/options/Impostors/Ghost/Minion.html) (Impostor Ghost - By [**Drakos**](https://github.com/Ultradragon005))<br>
 \+ <font color=#12edaf><b>RETURNED</b></font>: [Guardian Angel](/options/Crewmates/Vanilla/GuardianAngel.html) (Support Vanilla Role - By [**Drakos**](https://github.com/Ultradragon005))<br>
 
-* <font color=green><b>NEW COMMANDS</b></font></font><br>
+* <font color=green><b>NEW COMMANDS</b></font><br>
 \+ <font color=green><b>NEW</b></font>: `/poll` (By [**Drakos**](https://github.com/Ultradragon005))<br>
 \+ <font color=green><b>NEW</b></font>: `/8ball` (By [**Marg**](https://github.com/MargaretTheFool))<br>
 \+ <font color=green><b>NEW</b></font>: `/me` (By [**NikoCat223**](https://github.com/NikoCat233))<br>
 \+ <font color=green><b>NEW</b></font>: `/icon` (By [**WaterPanda**](#))<br>
 
-* <font color=green><b>NEW SETTINGS</b></font></font><br>
+* <font color=green><b>NEW SETTINGS</b></font><br>
 \+ <font color=green><b>NEW</b></font>: Client Setting: `Disable Lobby Music` (By [**TommyXL**](https://github.com/Tommy-XL))<br>
 \+ <font color=green><b>NEW</b></font>: Amnesiac: `Has Arrows pointing toward bodies` (By [**ryuk**](https://github.com/ryuk2098))<br>
 \+ <font color=green><b>NEW</b></font>: Engineer: `Vent Cooldown` and `Max Time In Vents` (By [**NikoCat223**](https://github.com/NikoCat233))<br>
@@ -417,7 +417,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 \+ <font color=green><b>NEW</b></font>: `Disable Task Win If All Crews Are Dead` (Ported from [EHR](https://github.com/Gurge44/EndlessHostRoles))<br>
 \+ <font color=green><b>NEW</b></font>: `Disable Task Win If All Crews Are Converted` (Ported from [EHR](https://github.com/Gurge44/EndlessHostRoles))<br>
 
-* <font color=#e08709><b>NEW/IMPROVED FEATURES</b></font></font><br>
+* <font color=#e08709><b>NEW/IMPROVED FEATURES</b></font><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Some roles based on Shapeshift will never play the Shapeshift animation (By [**TommyXL**](https://github.com/Tommy-XL))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Lobby timer displayed for vanilla players (By [**TommyXL**](https://github.com/Tommy-XL))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Modded players can see the host during meetings (Online Only - By [**TommyXL**](https://github.com/Tommy-XL))<br>
@@ -436,7 +436,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 \+ <font color=green><b>NEW</b></font>: Added custom sounds for Eraser and Oiiai after erased role (By [**NikoCat223**](https://github.com/NikoCat233))<br>
 \+ <font color=green><b>NEW</b></font>: Region Menu paging behavior (From TONX - By [**NikoCat223**](https://github.com/NikoCat233))<br>
 
-* <font color=#F6BE00><b>SOME CHANGES/IMPROVEMENTS</b></font></font><br>
+* <font color=#F6BE00><b>SOME CHANGES/IMPROVEMENTS</b></font><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Penguin's victim can no longer vent (By [**NikoCat223**](https://github.com/NikoCat233))<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Enigma max name length increased from 8 to 10 (By [**TommyXL**](https://github.com/Tommy-XL))<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Eraser can't guess erased players (By [**TommyXL**](https://github.com/Tommy-XL))<br>
@@ -470,28 +470,28 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 <details>
 <summary><b><font color=#d395b4>v1.6.0</font></b></summary>
 
-* <font color=green><b>NEW ADDONS</b></font></font><br>
+* <font color=green><b>NEW ADDONS</b></font><br>
 \+ <font color=green><b>NEW</b></font>: Statue (Harmful Addon - By: Drakos, Idea: spong)<br>
 
-* <font color=green><b>COLLABORATIVE CHANGES</b></font></font><br>
+* <font color=green><b>COLLABORATIVE CHANGES</b></font><br>
 \+ <font color=green><b>NEW</b></font>: New function for Shapeshift roles: Reject-ShapeShift (By: NikoCat223 - Created the base code, and TommyXL - Helped) (All roles that can use shapeshift will no longer play the shapeshift animation) (This function can be adjusted using the setting «Disable Shapeshift Animations» (The Sniper has a separate setting)) (Note: In the next version it may be changed, for example: some roles will have Shapeshift disabled by default and some roles will add a setting with «Disable Shapeshift Animation»)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved code base for all add-ons (By: Drakos - Created the base code, and TommyXL - Partially helped)<br>
 
-* <font color=green><b>NEW SETTINGS</b></font></font><br>
+* <font color=green><b>NEW SETTINGS</b></font><br>
 \+ <font color=green><b>NEW</b></font>: Disable VoteKick System (By: Pietro)<br>
 \+ <font color=green><b>NEW</b></font>: Impostors can see each other's Add-ons (By: TommyXL)<br>
 \+ <font color=green><b>NEW</b></font>: Players can use «/tpin» and «/tpout» commands (By: ryuk)<br>
 \+ <font color=green><b>NEW</b></font>: Players can play mini-games (By: ryuk)<br>
 \+ <font color=green><b>NEW</b></font>: Client setting: «Dark Theme» (By: TommyXL - Ported From EHR - Works only for modded players)<br>
 
-* <font color=green><b>NEW FEATURES</b></font></font><br>
+* <font color=green><b>NEW FEATURES</b></font><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved announcement patch (By: ryuk - Ported from TOH-Y)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added «dlekS ehT» in Map Picker Menu (By: TommyXL - Thanks Submerged source code)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved role spawns (By: TommyXL - Ported from EHR) (Now for each role, you can set the chance of appearance from 0% to 100%)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Role Summary (By: TommyXL - Ported From EHR)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Revert to old Kill logs (By: ryuk) (The kill log and end summary will also automatically remove HTML tags if the length is too long (even with setting off). This is done because if the message is too big, it will not be sent to some players)<br>
 
-* <font color=#F6BE00><b>SOME CHANGES/IMPROVEMENTS</b></font></font><br>
+* <font color=#F6BE00><b>SOME CHANGES/IMPROVEMENTS</b></font><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: We will now use «Mini.RegionInstall» to add modded servers<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Now backgrounds are set in randomly (By: ryuk - from art competitions)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: If a user fails dbconnect on first login, it will be turned to offline mode and forced to re-login (By: NikoCat223)<br>
@@ -500,7 +500,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 \- <font color=red><b>REMOVED</b></font>: Unused strings were removed (By: ryuk - Thanks to kevoutings for providing all the unused strings)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Now vanilla roles and Amnesiac always will be shown in Guesser UI (By: TommyXL)<br>
 
-* <font color=#1376f0><b>BUG FIXES</b></font></font><br>
+* <font color=#1376f0><b>BUG FIXES</b></font><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Mod Updater (By: Pietro and NikoCat223)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Progress text and target mark for Pirate (By: ryuk)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Removed Overtired from enabled addons list (By: ryuk)<br>
@@ -522,7 +522,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 = <font color=#1376f0><b>BUG FIX</b></font>: Remove ejected from Tricky random death reason (By: ryuk)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Imitator having vanilla cooldown (By: ryuk)<br>
 
-* <font color=#8708c7><b>TRANSLATIONS</b></font></font>
+* <font color=#8708c7><b>TRANSLATIONS</b></font>
 \+ <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font>: (Dx7405)<br>
 \+ <font color=#1e448b><b>Dutch</b></font>: (apemv, madmazel_)<br>
 \+ <font color=#002654><b>French</b></font>: (FuroYT, KevOut, Klaomi, Sansationnelle, Space Monkey)<br>
@@ -540,7 +540,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 <details>
 <summary><b><font color=#d395b4>v1.5.0</font></b></summary>
 
-* <font color=green><b>NEW ROLES</b></font></font><br>
+* <font color=green><b>NEW ROLES</b></font><br>
 \+ <font color=green><b>NEW</b></font>: Rift Maker (Support Impostor - By: ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: Penguin (Hindering Impostor - Coded by dev TOH and Ported from EHR - By: Drakos) <br>
 \+ <font color=green><b>NEW</b></font>: Stealth (Hindering Impostor - Coded by dev TOH and Ported from EHR - By: Drakos) <br>
@@ -548,24 +548,24 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 \+ <font color=green><b>NEW</b></font>: Schrodinger's Cat (Neutral Benign - Coded by dev TOH - By: ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: Quizmaster (Experimental role - By: Furo) <br>
 
-* <font color=green><b>NEW ADDONS</b></font></font><br>
+* <font color=green><b>NEW ADDONS</b></font><br>
 \+ <font color=green><b>NEW</b></font>: Susceptible (Helpful Addon - By: Drakos) <br>
 \+ <font color=green><b>NEW</b></font>: Tired (Helpful Addon - By: Drakos) <br>
 \+ <font color=green><b>NEW</b></font>: Tricky (Impostor Add-on - By: ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: Rainbow (Miscellaneous Addon - Coded by dev TOH-Y - By: NikoCat223 and LezaiYa) <br>
 
-* <font color=#12edaf><b>REWORKED/IMPROVED ROLES</b></font></font><br>
+* <font color=#12edaf><b>REWORKED/IMPROVED ROLES</b></font><br>
 = <font color=#F6BE00><b>REWORK</b></font>: Killing Machine (Reworked - By: ryuk) <br>
 = <font color=#F6BE00><b>REWORK</b></font>: Investigator (Reworked - By: ryuk) <br>
 = <font color=#F6BE00><b>REBASED</b></font>: Swapper (Rebased - By: NikoCat223) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Copycat (Improved - By: ryuk) <br>
 
-* <font color=red><b>REMOVALS</b></font></font><br>
+* <font color=red><b>REMOVALS</b></font><br>
 \- <font color=red><b>REMOVED</b></font>: Luckey (Сrewmate Role - By: ryuk) <br>
 \- <font color=red><b>REMOVED</b></font>: Witch (Neutral Killer - By: TommyXL) <br>
 \- <font color=red><b>REMOVED</b></font>: Repairman (Common Addon - By: TommyXL) <br>
 
-* <font color=#F6BE00><b>PERFORMANCE/CODE IMPROVEMENTS</b></font></font><br>
+* <font color=#F6BE00><b>PERFORMANCE/CODE IMPROVEMENTS</b></font><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: «FixedUpdate» in code now work async (By: TommyXL) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Optimize Ping Tracker Update (By: TommyXL) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Code In «CheckMurder» (By: TommyXL) <br>
@@ -573,13 +573,13 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Сode improvements in «HasKillButton» (By: ryuk) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Сode improvements in «DivinatorCheck.Result» for Fortune Teller (By: ryuk) <br>
 
-* <font color=green><b>NEW FEATURES</b></font></font><br>
+* <font color=green><b>NEW FEATURES</b></font><br>
 \+ <font color=green><b>NEW</b></font>: Support Added For Vanilla Hide & Seek (By: TommyXL) <br>
 \+ <font color=green><b>NEW</b></font>: Added Random Skins & Colors in Camouflage (By: TommyXL) <br>
 \+ <font color=green><b>NEW</b></font>: Black screen (Anti Blackout) protection system has been improved (By: TommyXL) <br>
 \+ <font color=green><b>NEW</b></font>: Add-ons assign was recoded (By: TommyXL) <br>
 
-* <font color=green><b>NEW SETTINGS</b></font></font><br>
+* <font color=green><b>NEW SETTINGS</b></font><br>
 \+ <font color=green><b>NEW</b></font>: Show Only Enabled Roles In Guesser UI (By: TommyXL) <br>
 \+ <font color=green><b>NEW</b></font>: Only allow whitelisted players to join lobbies (By: ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: Hide «Host♥» text (By: Pietro) <br>
@@ -590,7 +590,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 \+ <font color=green><b>NEW</b></font>: Doppelganger: «Can vent» and «Has imp vision» (By: ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: Bandit: «Steal cooldown» (different from kill cooldown - By: ryuk) <br>
 
-* <font color=#F6BE00><b>CHANGES</b></font></font><br>
+* <font color=#F6BE00><b>CHANGES</b></font><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Display sorted role names for all langs in guesser UI (By: ryuk) <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Preset 5 will be used to sync with host's setting for modded client (By: TommyXL) <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Ported code «Vent.CanUse» from TOH (By: TommyXL) <br>
@@ -604,7 +604,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 = <font color=#F6BE00><b>CHANGE</b></font>: Added delay teleport after meeting (By: TommyXL) <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Roles using abilities using vents will now spawn on the Dleks (dlekS ehT) map (By: TommyXL) <br>
 
-* <font color=#1376f0><b>BUG FIXES</b></font></font><br>
+* <font color=#1376f0><b>BUG FIXES</b></font><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed vents on Dleks map for modded players (By: TommyXL) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Provocateur now cannot get Bait (By: TommyXL) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Kamikaze now cannot get Swift (By: TommyXL) <br>
@@ -656,7 +656,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug that prevented the game from ending when Mini was exiled (By: LezaiYa) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug where «/gno» and «/rand» gave same result (By: Marg) <br>
 
-* <font color=#8708c7><b>TRANSLATIONS</b></font></font>
+* <font color=#8708c7><b>TRANSLATIONS</b></font>
 \+ <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font>: (By: Dx7405) <br>
 \+ <font color=#1e448b><b>Dutch</b></font>: (By: apemv, madmazel_) <br>
 \+ <font color=#002654><b>French</b></font>: (By: FuroYT, KevOut, Klaomi, Sansationnelle) <br>
@@ -674,7 +674,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 <details>
 <summary><b><font color=#d395b4>v1.4.0</font></b></summary>
 
-* <font color=green><b>ADDITIONS</b></font></font><br>
+* <font color=green><b>ADDITIONS</b></font><br>
 \+ <font color=green><b>NEW</b></font>: Benefactor (Support Crewmate - By: ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: Keeper (Support Crewmate - By: ryuk) <br>
 \+ <font color=green><b>NEW</b></font>: Captain (Power Crewmate - By: ryuk) <br>
@@ -696,7 +696,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 \+ <font color=green><b>NEW</b></font>: New Button: Update! Now update the mod automatically! (By: Pietro) <br>
 \+ <font color=green><b>NEW</b></font>: Added Skill Icons: Vulture, Pursuer and Cleaner (By: LeziYa) <br>
 
-* <font color=#F6BE00><b>CHANGES/IMPROVEMENTS</b></font></font><br>
+* <font color=#F6BE00><b>CHANGES/IMPROVEMENTS</b></font><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Updated Log Readability (By: TommyXL) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Enhanced Anti-Cheat (EAC) now done by API (By: ryuk & Moe) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Removed Unnecessary roles from Guesser GUIs (By: NikoCat223) <br>
@@ -704,7 +704,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 = <font color=#F6BE00><b>CHANGE</b></font>: Fool (Addon) now incompatible with Repairman (Addon) to avoid issues (By: ryuk) <br>
 = <font color=#32CD32><b>TYPO</b></font>: Typos that have been corrected. <br>Enigma Typo (By: Plaguer) <br> 
 
-* <font color=#1376f0><b>BUG FIXES</b></font></font><br>
+* <font color=#1376f0><b>BUG FIXES</b></font><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Alchemist invalid string fix (By: Drakos) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Votes now return if a player dies mid-round or disconnects (By: NikoCat223, ryuk) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Multiple Bug Fixes (By: NikoCat233, LezaiYa) <br>
@@ -712,7 +712,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Workaholic getting Onbound, Rebound and Double Shot when Anti-Guess Enabled (By: ryuk) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Several Other Misc Fixes (by: Several Contributors/Devs)
 
-* <font color=#8708c7><b>TRANSLATIONS</b></font></font>
+* <font color=#8708c7><b>TRANSLATIONS</b></font>
 \+ <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font>: (By: Dx7405) <br>
 \+ <font color=#1e448b><b>Dutch</b></font>: (By: apemv, madmazel_) <br>
 \+ <font color=#002654><b>French</b></font>: (By: FuroYT, KevOut, Klaomi, Sansationnelle) <br>
@@ -810,7 +810,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 <details>
 <summary><b><font color=#d395b4>v1.1.0</font></b></summary>
 
-* <font color=green><b>ADDITIONS</b></font></font><br>
+* <font color=green><b>ADDITIONS</b></font><br>
 \+ <font color=green><b>NEW</b></font>: Ported President (from SLE by ryuk, originally coded by SolarFlare) <br>
 \+ <font color=green><b>NEW</b></font>: Ported Spy (from EHR by LezaiYa, Originally coded by Gurge44) <br>
 \+ <font color=green><b>NEW</b></font>: Added double click to kill setting for infectious (by ryuk) <br>
@@ -830,13 +830,13 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 \+ <font color=green><b>NEW</b></font>: Made Mini unable to be recruited and special kill (by LezaiYa) <br>
 \+ <font color=green><b>NEW</b></font>: New merchant to sell only enabled addons setting (by ryuk) <br>
 
-* <font color=red><b>REMOVALS</b></font></font><br>
+* <font color=red><b>REMOVALS</b></font><br>
 \- <font color=red><b>REMOVED</b></font>: Glow (by ryuk) <br>
 \- <font color=red><b>REMOVED</b></font>: Occultist until rework (by ryuk) <br>
 \- <font color=red><b>REMOVED</b></font>: Sunglasses (by ryuk) <br>
 \- <font color=red><b>REMOVED</b></font>: Removed Coven roles in code (Shade, Coven Leader, Ritualist, Banshee) (by TommyXL) <br>
 
-* <font color=#F6BE00><b>CHANGES</b></font></font><br>
+* <font color=#F6BE00><b>CHANGES</b></font><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Inspector now uses /cmp and /compare instead of /cp (ask Moe why) (by ryuk) <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Arsonist will be snitch's target if it can continue the game (by ryuk) <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Admirer moved to experimental (neutrals can win with og team, this shouldn't be the case anymore as we have tested it, but we're keeping it here in case) (by ryuk, and possibly fixed by Niko) <br>
@@ -848,7 +848,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 = <font color=#F6BE00><b>CHANGE</b></font>: Renamed Cultivator to Berserker in code, should be unchanged on client side, this is to check for code optimation later (by Moe) <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Heads/tails for coinflip now translatable in <>.dat (by PHGaming) <br>
 
-* <font color=#1376f0><b>BUG FIXES</b></font></font><br>
+* <font color=#1376f0><b>BUG FIXES</b></font><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Hater no longer ignores shields <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed huntsman (by ryuk) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed wrong win screen and Huntsman now shows everyone as target (instead of showing no one) if not enough targets alive <br>
@@ -859,20 +859,20 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 Updated en_US.json for some neutral killers (by Moe) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Tracefinder fix, it can no longer see arrows when no on was dead (by TommyXL) <br>
 
-* <font color=#12edaf><b>REWORKS</b></font></font><br>
+* <font color=#12edaf><b>REWORKS</b></font><br>
 \+ <font color=#12edaf><b>REWORK</b></font>: Reworked Reverie (by ryuk, Idea by Pyro, Original Idea/Code by TronAndRey) <br>
 \+ <font color=#12edaf><b>REWORK</b></font>: Reworked Hater (by NikoCat233) <br>
 
-* <font color=#e08709><b>IMPROVEMENTS</b></font></font><br>
+* <font color=#e08709><b>IMPROVEMENTS</b></font><br>
 \= <font color=#e08709><b>IMPROVEMENT</b></font>: Renamed Agent back to Evil Tracker AND Disruptor To Anti Adminer (by TommyXL) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Hater improvements (by Gurge44) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Amnesiac, Imitator (by NickoCat233) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Reworked chat spamming system to be a little more optimized (by ryuk) <br>
 
-* <font color=#8708c7><b>TRANSLATIONS</b></font></font>: Added support for more Translations!<br>
+* <font color=#8708c7><b>TRANSLATIONS</b></font>: Added support for more Translations!<br>
 \+ <font color=#009b3a><b>Portuguese (Brazil)</b></font> by [**Reginaldoo**](#), [**Dopzy**](#), & [**Arc**](#) <br>
 
-* <font size=2em><font color=#fdf08e><b>NOTES</b></font></font><br>
+* <font size=2em color=#fdf08e><b>NOTES</b></font><br>
 = Language.dat (English.dat) updates automatically now. <br>
 = New variables for template file = {{HostName}} (host's name), ({{PlayerName}} is for any player.) <br>
 = Several Misc Bug Fixes and code enhancements by TommyXL, ryuk, Moe and Gurge44<br>

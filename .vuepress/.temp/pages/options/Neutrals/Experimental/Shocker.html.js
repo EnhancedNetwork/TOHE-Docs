@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Neutrals/Experimental/Shocker.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Neutrals/Experimental/Shocker.html\",\"title\":\"Shocker\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Shocker\",\"prev\":\"Quizmaster\",\"next\":\"/options/Settings/Neutrals.html\"},\"headers\":[],\"git\":{\"updatedTime\":1732919975000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Neutrals/Experimental/Shocker.md\"}")
+export { comp, data }

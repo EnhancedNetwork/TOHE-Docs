@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Coven/Utility/Necromancer.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Coven/Utility/Necromancer.html\",\"title\":\"Necromancer\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Necromancer\",\"prev\":\"Medusa\",\"next\":\"PotionMaster\"},\"headers\":[],\"git\":{\"updatedTime\":1733601152000,\"contributors\":[{\"name\":\"Marg\",\"email\":\"51059123+MargaretTheFool@users.noreply.github.com\",\"commits\":1},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Coven/Utility/Necromancer.md\"}")
+export { comp, data }

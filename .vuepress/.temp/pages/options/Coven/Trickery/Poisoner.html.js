@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Coven/Trickery/Poisoner.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Coven/Trickery/Poisoner.html\",\"title\":\"Poisoner\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Poisoner\",\"prev\":\"Illusionist\",\"next\":\"/options/Settings/Coven.html\"},\"headers\":[],\"git\":{\"updatedTime\":1733601152000,\"contributors\":[{\"name\":\"Marg\",\"email\":\"51059123+MargaretTheFool@users.noreply.github.com\",\"commits\":1},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Coven/Trickery/Poisoner.md\"}")
+export { comp, data }

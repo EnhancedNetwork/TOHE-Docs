@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Coven/Utility/MoonDancer.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Coven/Utility/MoonDancer.html\",\"title\":\"Moon Dancer\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Moon Dancer\",\"prev\":\"Medusa\",\"next\":\"Necromancer\"},\"headers\":[],\"git\":{\"updatedTime\":1732933469000,\"contributors\":[{\"name\":\"Marg\",\"email\":\"51059123+MargaretTheFool@users.noreply.github.com\",\"commits\":1}]},\"filePathRelative\":\"options/Coven/Utility/MoonDancer.md\"}")
+export { comp, data }

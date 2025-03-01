@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Vampire.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Impostors/Concealing/Vampire.html\",\"title\":\"Vampire\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Vampire\",\"prev\":\"Undertaker\",\"next\":\"Warlock\"},\"headers\":[],\"git\":{\"updatedTime\":1727507016000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":8},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":4}]},\"filePathRelative\":\"options/Impostors/Concealing/Vampire.md\"}")
+export { comp, data }

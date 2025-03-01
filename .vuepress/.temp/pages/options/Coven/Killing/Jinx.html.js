@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Coven/Killing/Jinx.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Coven/Killing/Jinx.html\",\"title\":\"Jinx\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Jinx\",\"prev\":\"HexMaster\",\"next\":\"/options/Settings/Coven.html\"},\"headers\":[],\"git\":{\"updatedTime\":1733601152000,\"contributors\":[{\"name\":\"Marg\",\"email\":\"51059123+MargaretTheFool@users.noreply.github.com\",\"commits\":1},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Coven/Killing/Jinx.md\"}")
+export { comp, data }

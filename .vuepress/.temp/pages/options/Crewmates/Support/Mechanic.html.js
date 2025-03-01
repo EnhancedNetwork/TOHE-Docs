@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Crewmates/Support/Mechanic.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Crewmates/Support/Mechanic.html\",\"title\":\"Mechanic\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Mechanic\",\"prev\":\"Lighter\",\"next\":\"Medic\"},\"headers\":[],\"git\":{\"updatedTime\":1727503862000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":2},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2}]},\"filePathRelative\":\"options/Crewmates/Support/Mechanic.md\"}")
+export { comp, data }

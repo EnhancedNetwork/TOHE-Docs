@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Juggernaut.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Neutrals/Killing/Juggernaut.html\",\"title\":\"Juggernaut\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Juggernaut\",\"prev\":\"Jackal\",\"next\":\"Pelican\"},\"headers\":[],\"git\":{\"updatedTime\":1736528288000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":8},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":5}]},\"filePathRelative\":\"options/Neutrals/Killing/Juggernaut.md\"}")
+export { comp, data }

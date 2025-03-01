@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Vulture.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Neutrals/Chaos/Vulture.html\",\"title\":\"Vulture\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Vulture\",\"prev\":\"Vector\",\"next\":\"Workaholic\"},\"headers\":[],\"git\":{\"updatedTime\":1738979859000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":4},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3}]},\"filePathRelative\":\"options/Neutrals/Chaos/Vulture.md\"}")
+export { comp, data }

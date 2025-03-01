@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Crewmates/Basic/Transporter.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Crewmates/Basic/Transporter.html\",\"title\":\"Transporter\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Transporter\",\"prev\":\"Tracefinder\",\"next\":\"/options/Settings/Crewmates.html\"},\"headers\":[],\"git\":{\"updatedTime\":1727503862000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":2},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2}]},\"filePathRelative\":\"options/Crewmates/Basic/Transporter.md\"}")
+export { comp, data }

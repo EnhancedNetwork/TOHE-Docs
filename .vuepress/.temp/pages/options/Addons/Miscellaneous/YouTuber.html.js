@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Addons/Miscellaneous/YouTuber.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Addons/Miscellaneous/YouTuber.html\",\"title\":\"YouTuber\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"YouTuber\",\"prev\":\"Workhorse\",\"next\":\"/options/Settings/Addons.html\"},\"headers\":[],\"git\":{\"updatedTime\":1727504355000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":4}]},\"filePathRelative\":\"options/Addons/Miscellaneous/YouTuber.md\"}")
+export { comp, data }

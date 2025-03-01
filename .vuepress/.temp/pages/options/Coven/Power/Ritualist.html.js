@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Coven/Power/Ritualist.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Coven/Power/Ritualist.html\",\"title\":\"Ritualist\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Ritualist\",\"prev\":\"CovenLeader\",\"next\":\"/options/Settings/Coven.html\"},\"headers\":[],\"git\":{\"updatedTime\":1732933469000,\"contributors\":[{\"name\":\"Marg\",\"email\":\"51059123+MargaretTheFool@users.noreply.github.com\",\"commits\":1}]},\"filePathRelative\":\"options/Coven/Power/Ritualist.md\"}")
+export { comp, data }

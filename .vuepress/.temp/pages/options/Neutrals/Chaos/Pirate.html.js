@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Neutrals/Chaos/Pirate.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Neutrals/Chaos/Pirate.html\",\"title\":\"Pirate\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Pirate\",\"prev\":\"God\",\"next\":\"Revolutionist\"},\"headers\":[],\"git\":{\"updatedTime\":1738979859000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":4},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Neutrals/Chaos/Pirate.md\"}")
-export { comp, data }

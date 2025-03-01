@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Addons/Miscellaneous/Reach.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Addons/Miscellaneous/Reach.html\",\"title\":\"Reach\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Reach\",\"prev\":\"Rainbow\",\"next\":\"Workhorse\"},\"headers\":[],\"git\":{\"updatedTime\":1727504355000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":4}]},\"filePathRelative\":\"options/Addons/Miscellaneous/Reach.md\"}")
-export { comp, data }

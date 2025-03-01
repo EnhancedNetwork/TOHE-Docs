@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Traitor.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Neutrals/Killing/Traitor.html\",\"title\":\"Traitor\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Traitor\",\"prev\":\"Stalker\",\"next\":\"Virus\"},\"headers\":[],\"git\":{\"updatedTime\":1727503065000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":4},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3}]},\"filePathRelative\":\"options/Neutrals/Killing/Traitor.md\"}")
-export { comp, data }

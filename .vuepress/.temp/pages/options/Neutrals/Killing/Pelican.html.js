@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Neutrals/Killing/Pelican.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Neutrals/Killing/Pelican.html\",\"title\":\"Pelican\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Pelican\",\"prev\":\"Juggernaut\",\"next\":\"Pickpocket\"},\"headers\":[],\"git\":{\"updatedTime\":1736528288000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":5},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":4}]},\"filePathRelative\":\"options/Neutrals/Killing/Pelican.md\"}")
-export { comp, data }

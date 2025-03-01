@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Neutrals/Evil/Jester.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Neutrals/Evil/Jester.html\",\"title\":\"Jester\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Jester\",\"prev\":\"Innocent\",\"next\":\"PunchingBag\"},\"headers\":[],\"git\":{\"updatedTime\":1739720813000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Neutrals/Evil/Jester.md\"}")
-export { comp, data }

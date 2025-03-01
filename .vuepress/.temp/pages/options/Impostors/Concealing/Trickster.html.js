@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Impostors/Concealing/Trickster.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Impostors/Concealing/Trickster.html\",\"title\":\"Trickster\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Trickster\",\"prev\":\"Swooper\",\"next\":\"Undertaker\"},\"headers\":[],\"git\":{\"updatedTime\":1727507016000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":4},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":4}]},\"filePathRelative\":\"options/Impostors/Concealing/Trickster.md\"}")
-export { comp, data }

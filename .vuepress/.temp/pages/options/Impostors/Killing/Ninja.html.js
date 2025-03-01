@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Impostors/Killing/Ninja.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Impostors/Killing/Ninja.html\",\"title\":\"Ninja\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Ninja\",\"prev\":\"Mercenary\",\"next\":\"QuickShooter\"},\"headers\":[],\"git\":{\"updatedTime\":1735713408000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":4},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Impostors/Killing/Ninja.md\"}")
-export { comp, data }

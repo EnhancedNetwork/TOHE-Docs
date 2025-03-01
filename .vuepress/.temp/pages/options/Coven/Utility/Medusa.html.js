@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Coven/Utility/Medusa.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Coven/Utility/Medusa.html\",\"title\":\"Medusa\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Medusa\",\"prev\":\"MoonDancer\",\"next\":\"Necromancer\"},\"headers\":[],\"git\":{\"updatedTime\":1733601152000,\"contributors\":[{\"name\":\"Marg\",\"email\":\"51059123+MargaretTheFool@users.noreply.github.com\",\"commits\":1},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Coven/Utility/Medusa.md\"}")
-export { comp, data }

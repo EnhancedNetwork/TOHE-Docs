@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Addons/Harmful/Statue.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Addons/Harmful/Statue.html\",\"title\":\"Statue\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Statue\",\"prev\":\"Sloth\",\"next\":\"Tired\"},\"headers\":[],\"git\":{\"updatedTime\":1733079553000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3},{\"name\":\"Marg\",\"email\":\"51059123+MargaretTheFool@users.noreply.github.com\",\"commits\":1},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Addons/Harmful/Statue.md\"}")
-export { comp, data }

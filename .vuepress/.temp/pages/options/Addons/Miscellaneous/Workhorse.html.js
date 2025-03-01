@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Addons/Miscellaneous/Workhorse.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Addons/Miscellaneous/Workhorse.html\",\"title\":\"Workhorse\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Workhorse\",\"prev\":\"Reach\",\"next\":\"YouTuber\"},\"headers\":[],\"git\":{\"updatedTime\":1727504355000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Addons/Miscellaneous/Workhorse.md\"}")
-export { comp, data }

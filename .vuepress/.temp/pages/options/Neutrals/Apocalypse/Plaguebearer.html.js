@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Neutrals/Apocalypse/Plaguebearer.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Neutrals/Apocalypse/Plaguebearer.html\",\"title\":\"Plaguebearer\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Plaguebearer\",\"prev\":\"Berserker\",\"next\":\"SoulCollector\"},\"headers\":[],\"git\":{\"updatedTime\":1734206590000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3}]},\"filePathRelative\":\"options/Neutrals/Apocalypse/Plaguebearer.md\"}")
-export { comp, data }

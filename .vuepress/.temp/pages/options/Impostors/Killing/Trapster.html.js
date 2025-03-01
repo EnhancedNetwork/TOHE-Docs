@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Impostors/Killing/Trapster.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Impostors/Killing/Trapster.html\",\"title\":\"Trapster\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Trapster\",\"prev\":\"Sniper\",\"next\":\"Underdog\"},\"headers\":[],\"git\":{\"updatedTime\":1728767165000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Impostors/Killing/Trapster.md\"}")
-export { comp, data }

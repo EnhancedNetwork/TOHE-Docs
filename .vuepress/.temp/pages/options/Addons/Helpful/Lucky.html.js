@@ -1,3 +1,0 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Addons/Helpful/Lucky.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Addons/Helpful/Lucky.html\",\"title\":\"Lucky\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Lucky\",\"prev\":\"Loyal\",\"next\":\"Necroview\"},\"headers\":[],\"git\":{\"updatedTime\":1733079553000,\"contributors\":[{\"name\":\"Marg\",\"email\":\"51059123+MargaretTheFool@users.noreply.github.com\",\"commits\":1},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Addons/Helpful/Lucky.md\"}")
-export { comp, data }

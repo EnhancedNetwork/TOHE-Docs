@@ -21,7 +21,44 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <font size=3em>
 
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 17.1</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.3.0 Alpha 2.1</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix RoleTextCache not clear<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 2</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix strong lag when first load sprites [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix bug in assign roles [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix meetings not blocked in non Standard Gamemodes + Other modifications [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Use Il2CppObjectBase.CastFast to cast game compents [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Multiple othercode and performance improvements [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Exile screen to show converted addons [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix ghost roles is assigned in non standard gamemode [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Added missing descriptions for speed run [sussynba](https://github.com/PEPPERcula)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 1</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Gamemode: Speed Run (Ported from E-H-R) [Niko](https://github.com/NikoCat233) + [sussynba](https://github.com/PEPPERcula)<br>
+\+ <font color=green><b>NEW</b></font>: Reworked Ability Use Limit System (From E-H-R) [TommyXL](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Added more custom buttons [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Reworked Remove Incompatible Add-ons [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Blackmailer not blackmailing players [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Tiebreaker/TieMode.All not working with more than 15 players [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Multiple fixes and performance improvements related to the Crowded Mod [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Set spam CustomRPC to SendOption.None & removed unused RPCs [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed TNA's dying to roles they shouldn't [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed INVALID string for Necromancer [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Blocked guess attempts if the guesser tries to guess a role that is not active [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed player count not being overridden in assigned roles [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Shapeshifters no longer get the Flash Addon [Reborn5537](https://github.com/Reborn5537)<br>
+
+Known issue:
+Speed Run: runner can get ghost roles after death. Temp fix is to disable ghost roles in standard mode and then switch to speed run.
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 17.1</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix game wont start due to IRandom<br>
 </details>

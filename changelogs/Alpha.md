@@ -21,7 +21,20 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <font size=3em>
 
 <details>
-<summary><b><font color=#cf4e8f>v2.3.0 Alpha 2.1</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.3.0 Alpha 2.3</font></b></summary>
+
+Fix empty playernames
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 2.2</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>:Fix GetProgressText for Alchemist [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>:Fix Medic black screen after meeting & Fix errors [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>:Fix player name related issues [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Patch NetworkedPlayerInfo.serialize to serialize smaller packets on custom servers [Niko](https://github.com/NikoCat233)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 2.1</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix RoleTextCache not clear<br>
 </details>

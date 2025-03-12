@@ -179,6 +179,7 @@ export default defineUserConfig({
           ],
           '/options/Coven/Trickery/': [
             { text: 'Back to Coven', link: '/options/Settings/Coven.html' },
+            { text: 'Dreamweaver', link: '/options/Coven/Trickery/Dreamweaver.html' },
             { text: 'Illusionist', link: '/options/Coven/Trickery/Illusionist.html' },
             { text: 'Poisoner', link: '/options/Coven/Trickery/Poisoner.html' }
           ],

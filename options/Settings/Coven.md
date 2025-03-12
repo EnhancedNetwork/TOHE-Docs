@@ -32,7 +32,7 @@ next: /Roles.html
 
 <tr>
 <td><a href="#trickery" style="color:#8d6da2"><b>🎩 Trickery</b></a></td>
-<td align="center">2</td>
+<td align="center">3</td>
 </tr>
 
 <tr>
@@ -63,7 +63,7 @@ next: /Roles.html
 
 ### <font color=#8d6da2><b>Trickery</b></font>
 ---
-[Illusionist](/options/Coven/Trickery/Illusionist.html) | [Poisoner](/options/Coven/Trickery/Poisoner.html)
+[Dreamweaver](/options/Coven/Trickery/Dreamweaver.html) | [Illusionist](/options/Coven/Trickery/Illusionist.html) | [Poisoner](/options/Coven/Trickery/Poisoner.html)
 
 ### <font color=#deb3fa><b>Utility</b></font>
 ---

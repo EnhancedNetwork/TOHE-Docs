@@ -21,16 +21,29 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <font size=3em>
 
 <details>
+<summary><b><font color=#cf4e8f>v2.3.0 Alpha 3</font></b></summary>
+
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent GameMaster from getting addons<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Abyssbringer can't consume Impostors option + Black Hole fixes and changes [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix player tags not syncing in lobby<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some Coven Improvements (Conjurer gets two new settings: Kill Cooldown and Reset Targets After Meetings. Also now all ghosts can see coven icons) [Marg](https://github.com/MargaretTheFool)<br>
+\+ <font color=#12edaf><b>REWORK</b></font>: Coven Leader rework (Check pr#1521 (https://github.com/EnhancedNetwork/TownofHost-Enhanced/issues/1521)) [Marg](https://github.com/MargaretTheFool)<br>
+\+ <font color=green><b>NEW</b></font>: Role Dreamweaver (Coven Trickery) [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Add option show chat in game for ffa [sussynba](https://github.com/PEPPERcula)<br>
+
+Known issue: chat in game option for speedrun and ffa is disabled since Niko cant figure out antiblackout stuffs there.<br>
+</details>
+<details>
 <summary><b><font color=#cf4e8f>v2.3.0 Alpha 2.3</font></b></summary>
 
-Fix empty playernames
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix empty playernames<br>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.3.0 Alpha 2.2</font></b></summary>
 
-= <font color=#1376f0><b>BUG FIX</b></font>:Fix GetProgressText for Alchemist [TommyXL](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>:Fix Medic black screen after meeting & Fix errors [TommyXL](https://github.com/Tommy-XL)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>:Fix player name related issues [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix GetProgressText for Alchemist [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Medic black screen after meeting & Fix errors [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix player name related issues [TommyXL](https://github.com/Tommy-XL)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Patch NetworkedPlayerInfo.serialize to serialize smaller packets on custom servers [Niko](https://github.com/NikoCat233)<br>
 </details>
 <details>

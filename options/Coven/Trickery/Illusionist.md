@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Illusionist
-prev: /options/Settings/Coven.html
+prev: Dreamweaver
 next: Poisoner
 ---
 

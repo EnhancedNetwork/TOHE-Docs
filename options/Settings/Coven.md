@@ -17,7 +17,7 @@ next: /Roles.html
 
 <tr>
 <td><a href="#experimental" style="color:#451a61"><b>🚧 Experimental</b></a></td>
-<td align="center">0</td>
+<td align="center">1</td>
 </tr>
 
 <tr>
@@ -43,7 +43,7 @@ next: /Roles.html
 
 <tr>
 <td><font color=#9b3bda><b>📊 Total:</b></font></td>
-<td align="center"><b>13</b></td>
+<td align="center"><b>15</b></td>
 </tr>
 
 </table>

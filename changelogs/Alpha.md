@@ -21,7 +21,48 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <font size=3em>
 
 <details>
-<summary><b><font color=#cf4e8f>v2.3.0 Alpha 3</font></b></summary>
+<summary><b><font color=#cf4e8>v2.2.1 Alpha 1</font></b></summary>
+
+<b>Why is this alpha build named 2.2.1?</b>
+Due to some serious bugs in the latest alpha that require more time to fix, and the approaching innersloth anticheat deadline, we choose to split newer among us support and alpha development.<br>
+We build on Stable 2.2.0 codebase so that we can fix the urgent things that break from this update. 2.3.0 development will be caught up after we settle everything.<br>
+
+<b>This build is based on Stable Release 2.2.0. It does not have features in latest alpha builds.</b><br>
+
+\+ <font color=green><b>NEW</b></font>: Support Among Us 16.0.0 (2024.8.11 / 2025.3.25) (Tommy fix the build errors and make the mod work; Niko fixed crowded patch and region picker)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Force reset playercount and impostor num on official servers (so you wont get anticheat banned upon join game)<br>
+
+<b>Expect some technique changes following this build.</b>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 4.1</font></b></summary>
+
+\- <font color=red><b>REMOVED</b></font>: Remove duplicated SpawnOneRandomKillingFraction<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Non host players can not see exile message. I dont know what is causing this to happen<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 4</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Coven Role: Harvester [Marg](https://github.com/MargaretTheFool)<br>
+\+ <font color=green><b>NEW</b></font>: Role: Requiter (Knight Hidden Role) [ImpyIsLazy](https://github.com/impostor4291)<br>
+\+ <font color=green><b>NEW</b></font>: Add sounds for some roles venting [sussynba](https://github.com/PEPPERcula)<br>
+\+ <font color=green><b>NEW</b></font>: Neutrals have their own reveal screen option [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Wrap AntiBlackout setroles to same message (Experimental, may have bugs regarding blackout)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Dictator setting typo [WaterPanda](#)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix incorrect tabgroup for option "SeeEjectedRolesInMeeting" and "ShowBetrayalAddonsOnEject" [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix gamemanager serialize<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Transporter/Troller teleporting Blasted players fix [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Prevent vent while antiblackout is active<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Runner can see other players roles and status in Speedrun [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent KillingMachine from getting mare<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix chiefofpolice recruit settings not working<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Change quizmaster mark due to regex failure in Notify Roles<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Chat in game option for speedrun and ffa is disabled since Niko cant figure out antiblackout stuff there.<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Added some experimental features so AntiBlackout can be unstable<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Reverse Skeld is unstable currently<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 3</font></b></summary>
 
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent GameMaster from getting addons<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Abyssbringer can't consume Impostors option + Black Hole fixes and changes [sussynba](https://github.com/PEPPERcula)<br>
@@ -30,11 +71,10 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 \+ <font color=#12edaf><b>REWORK</b></font>: Coven Leader rework (Check pr#1521 (https://github.com/EnhancedNetwork/TownofHost-Enhanced/issues/1521)) [Marg](https://github.com/MargaretTheFool)<br>
 \+ <font color=green><b>NEW</b></font>: Role Dreamweaver (Coven Trickery) [Marg](https://github.com/MargaretTheFool)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Add option show chat in game for ffa [sussynba](https://github.com/PEPPERcula)<br>
-
-Known issue: chat in game option for speedrun and ffa is disabled since Niko cant figure out antiblackout stuffs there.<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: chat in game option for speedrun and ffa is disabled since Niko cant figure out antiblackout stuffs there.<br>
 </details>
 <details>
-<summary><b><font color=#cf4e8f>v2.3.0 Alpha 2.3</font></b></summary>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 2.3</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix empty playernames<br>
 </details>
@@ -79,9 +119,7 @@ Known issue: chat in game option for speedrun and ffa is disabled since Niko can
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Blocked guess attempts if the guesser tries to guess a role that is not active [ImpyIsLazy](https://github.com/impostor4291)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed player count not being overridden in assigned roles [TommyXL](https://github.com/Tommy-XL)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Shapeshifters no longer get the Flash Addon [Reborn5537](https://github.com/Reborn5537)<br>
-
-Known issue:
-Speed Run: runner can get ghost roles after death. Temp fix is to disable ghost roles in standard mode and then switch to speed run.
+= <font color=#de6707><b>KNOWN BUG</b></font>: Speed Run: runner can get ghost roles after death. Temp fix is to disable ghost roles in standard mode and then switch to speed run.
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 17.1</font></b></summary>

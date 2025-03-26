@@ -32,7 +32,7 @@ next: /Roles.html
 
 <tr>
 <td><a href="#killing" style="color:#b22222"><b>🗡️ Killing</b></a></td>
-<td align="center">13</td>
+<td align="center">14</td>
 </tr>
 
 <tr>
@@ -52,7 +52,7 @@ next: /Roles.html
 
 <tr>
 <td><font color=#8cffff><b>📊 Total:</b></font></td>
-<td align="center"><b>81</b></td>
+<td align="center"><b>82</b></td>
 </tr>
 
 </table>

@@ -20,7 +20,7 @@ contributors: false
 <table>
 <tr>
 <td><a href="/changelogs/Alpha.html" style="color:#997d6d"><b>Alpha</b></a></td>
-<td>v2.3.0 Alpha 3</td>
+<td>v2.2.1 Alpha 1</td>
 </tr>
 <tr>
 <td><a href="/changelogs/Beta.html" style="color:#6d7299"><b>Beta</b></a></td>
@@ -43,12 +43,12 @@ contributors: false
 <tr>
 <td><a href="/options/Settings/Coven.html" style="color:#ac42f2"><b>🧙‍♀️ Coven</b></a></td>
 <td>Play together and win via killing/voting out all Crewmates/Neutrals/Impostors</td>
-<td align="center">13</td>
+<td align="center">15</td>
 </tr>
 <tr>
 <td><a href="/options/Settings/Crewmates.html" style="color:#8cffff"><b>🦸‍♂️ Crewmates</b> </a></td>
 <td>Play together and win by completing all tasks/voting out all Evil</td>
-<td align="center">81</td>
+<td align="center">82</td>
 </tr>
 <tr>
 <td><a href="/options/Settings/Impostors.html" style="color:red"><b>🦹‍♂️ Impostors</b></a></td>

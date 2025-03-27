@@ -8,9 +8,14 @@ next: /Roles.html
 # <font color=#ffc0cb>🎮 Mod Settings</font>
 ---
 
-## <font color=#ffc0cb>📃 Standard</font>
+<details>
+<summary><b><font color=#ffc0cb>📃 Standard</font></b></summary>
 
-### <font size=4em color=#ffeee8>Ejection</font>
+Standard is the base Gamemode in TOHE. In Standard, everybody receives a role between 4 Factions; Crewmate; Impostor; Neutral; & Coven, but may also receive some modifiers, known as Add-Ons, to spice up gameplay. Your objective depends on your chosen Faction. You can learn these objectives via each Factions respective page.
+
+<details>
+<summary><b><font color=#ffeee8>Ejection</font></b></summary>
+
   * Confirm Ejections Mode
     * Set how the game will describe ejections
       * None - Ejections will be described as “#### was ejected”
@@ -37,8 +42,9 @@ next: /Roles.html
   * Confirm Lovers on ejection
     * <font color=green>ON</font>: Lovers will be confirmed on ejection
     * <font color=red>OFF</font>: Lovers will not be confirmed on ejection
-
-### <font size=4em color=#ffeb04>Guesser Mode</font>
+</details>
+<details>
+<summary><b><font color=#ffeb04>Guesser Mode</font></b></summary>
 
 * Guesser Mode
   * <font color=green>ON</font>: Guesser Mode will be enabled
@@ -82,9 +88,10 @@ next: /Roles.html
 * Show only enabled roles in Guesser UI
   * <font color=green>ON</font>: Guesser UI will only display the roles that you have toggled on (5%-100%)
   * <font color=red>OFF</font>: Guesser UI will display all roles like before (0%-100%)
+</details>
+<details>
+<summary><b><font color=#13bce9>Maps</font></b></summary>
 
-
-### <font size=4em color=#13bce9>Maps</font>
   * Random Maps Mode
     * <font color=green>ON</font>: Map will be chosen randomly
       * Chance that the map is
@@ -154,7 +161,10 @@ next: /Roles.html
     * Set Random Decoration When Birthday and Halloween is Active on <font color=#66a186>The Skeld</font>
       * <font color=green>ON</font>: The Decorations will be random
       * <font color=red>OFF</font>: The Decorations will not be random
-### <font size=4em color=#f36060>Sabotage</font>
+</details>
+<details>
+<summary><b><font color=#f36060>Sabotage</font></b></summary>
+
   * Camouflage During Comms Sabotage
     * <font color=green>ON</font>: when Comms are sabotaged, everyone will turn into the specified appearance
       * Disable comms camouflage on some maps
@@ -219,8 +229,10 @@ next: /Roles.html
       * Disable Cargo Lights Panel
         * <font color=green>ON</font>: the Cargo Lights Panel will be disabled
         * <font color=red>OFF</font>: the Cargo Lights Panel will be enabled
+</details>
+<details>
+<summary><b><font color=#ff9999>Disable</font></b></summary>
 
-### <font size=4em color=#ff9999>Disable</font>
   * Disable Unnecessary Shield Animations
     * <font color=green>ON</font>: Unnecessary animations will be disabled
     * <font color=red>OFF</font>: All animations will be enabled
@@ -563,7 +575,10 @@ next: /Roles.html
       * <font color=red>OFF</font>: Weather Nodes will be enabled
     </details>
   * <font color=red>OFF</font>: Situational Tasks will be enabled
-### <font size=4em color=#93f1f0>Meeting</font>
+</details>
+<details>
+<summary><b><font color=#93f1f0>Meeting</font></b></summary>
+
   * Sync Buttons Mode
     * <font color=green>ON</font>: the host can control how many buttons are allowed overall
     * <font color=red>OFF</font>: the buttons needed to call a meeting will be normal
@@ -617,7 +632,10 @@ next: /Roles.html
         * <font color=green>ON</font>: The mod will make an attempt to hide the /vote command
         * <font color=red>OFF</font>: The /vote command will be shown to everyone
     * <font color=red>OFF</font>: Players cannot use the /vote command to vote, they can only vote normally
-### <font size=4em color=#c1ffd1>Different</font>
+</details>
+<details>
+<summary><b><font color=#c1ffd1>Different</font></b></summary>
+
   * Fall From Ladders
     * <font color=green>ON</font>: Players will fall from ladders
       * Fall to Death Chance
@@ -643,8 +661,10 @@ next: /Roles.html
     * <font color=red>OFF</font>: Only players with roles that allow them to see death reasons will be able to see it
   * Kill Flash Duration
     * Set how long the kill flash will last
+</details>
+<details>
+<summary><b><font color=#d9daff>Ghost</font></b></summary>
 
-### <font size=4em color=#d9daff>Ghost</font>
   * Ghosts Exempt From Tasks
     * <font color=green>ON</font>: Ghosts will be exempt from tasks
     * <font color=red>OFF</font>: Ghosts will not be exempt from tasks
@@ -669,8 +689,12 @@ next: /Roles.html
     * Set how many Crewmate Ghost Roles can spawn
   * Default Ability Cooldown
     * Set how long the ability cooldown for ghosts will last by default
+</details>
+</details>
+<details>
+<summary><b><font color=#04fca4>⚔️ Free For All</font></b></summary>
 
-## <font color=#ffc0cb>⚔️ Free For All</font>
+Free For All (Abbreviated to FFA) is a Gamemode in TOHE where, everybody's objective is to kill everyone else. You may receive perks or debuffs via random events depending on settings.
 
 * Maximum Game Length
   * Set how long the game will be
@@ -704,164 +728,9 @@ next: /Roles.html
   * <font color=green>ON</font>: Shields will break after 1 kill attempt
   * <font color=red>OFF</font>: Shields will not break after 1 kill attempt
 
-* Random Maps Mode
-  * <font color=green>ON</font>: Map will be chosen randomly
-    * Chance that the map is
-      * <font color=#66a186>The Skeld</font> - Set the chance that the map will be <font color=#66a186>The Skeld</font>
-      * <font color=#e84b56>MIRA HQ</font> - Set the chance that the map will be <font color=#e84b56>MIRA HQ</font>
-      * <font color=#a167c0>Polus</font> - Set the chance that the map will be <font color=#a167c0>Polus</font>
-      * <font color=#66a186>dlekS ehT</font>  - Set the chance that the map will be <font color=#66a186>dlekS ehT</font>
-      * <font color=red>Airship</font> - Set the chance that the map will be <font color=red>Airship</font>
-      * <font color=#ffa646>The Fungle</font> - Set the chance that the map will be <font color=#ffa646>The Fungle</font>
-      * Use a more random map selection
-        * <font color=green>ON</font>: Maps will be selected even more randomly
-        * <font color=red>OFF</font>: Maps will not be selected even more randomly
-* Map Modifications
-  * <font color=green>ON</font>: Mess with Map modifiers to change how you can play on maps
-  * <font color=red>OFF</font>: Map modifiers will not be implemented and will work as Vanilla intended
-    * Variable Electrical (<font color=red>Airship</font>)
-      * The Electrical room will be randomized.
-    * Disable Moving Platform (<font color=red>Airship</font>)
-      * <font color=green>ON</font>: Moving platform will be disabled
-      * <font color=red>OFF</font>: Moving platform will be enabled
-    * Disable Spore Trigger (<font color=#ffa646>Fungle</font>)
-      * <font color=green>ON</font>: Spore Trigger will be disabled
-      * <font color=red>OFF</font>: Spore Trigger will be enabled
-    * Disable Zipline (<font color=#ffa646>Fungle</font>)
-      * <font color=green>ON</font>: Zipline will be disabled
-        * Disable Use From Top
-          * <font color=green>ON</font>: Zipline will be disabled from the top
-          * <font color=red>OFF</font>: Zipline will not be disabled from the top
-        * Disable Use From Bottom
-          * <font color=green>ON</font>: Zipline will be disabled from the bottom
-          * <font color=red>OFF</font>: Zipline will not be disabled from the bottom
-      * <font color=red>OFF</font>: Zipline will be enabled
-* Disable Devices
-  * <font color=green>ON</font>: Devices will be disabled
-    * Disable <font color=#66a186>Skeld</font> Devices
-      * <font color=green>ON</font>: <font color=#66a186>Skeld</font> Devices will be disabled
-        * Disable Admin
-          * <font color=green>ON</font>: Admin will be disabled
-          * <font color=red>OFF</font>: Admin will be enabled
-        * Disable Cameras
-          * <font color=green>ON</font>: Cameras will be disabled
-          * <font color=red>OFF</font>: Cameras will be enabled
-      * <font color=red>OFF</font>: <font color=#66a186>Skeld</font> Devices will be enabled
-    * Disable MiraHQ Devices
-      * <font color=green>ON</font>: MiraHQ Devices will be disabled
-        * Disable Admin
-          * <font color=green>ON</font>: Admin will be disabled
-          * <font color=red>OFF</font>: Admin will be enabled
-        * Disable DoorLog
-          * <font color=green>ON</font>: DoorLog will be disabled
-          * <font color=red>OFF</font>: DoorLog will be enabled
-      * <font color=red>OFF</font>: MiraHQ Devices will be enabled
-    * Disable <font color=#a167c0>Polus</font> Devices
-      * <font color=green>ON</font>: <font color=#a167c0>Polus</font> Devices will be disabled
-        * Disable Admin
-          * <font color=green>ON</font>: Admin will be disabled
-          * <font color=red>OFF</font>: Admin will be enabled
-        * Disable Cameras
-          * <font color=green>ON</font>: Cameras will be disabled
-          * <font color=red>OFF</font>: Cameras will be enabled
-        * Disable Vitals
-          * <font color=green>ON</font>: Vitals will be disabled
-          * <font color=red>OFF</font>: Vitals will be enabled
-      * <font color=red>OFF</font>: <font color=#a167c0>Polus</font> Devices will be enabled
-    * Disable <font color=red>Airship</font> Devices
-      * <font color=green>ON</font>: <font color=red>Airship</font> Devices will be disabled
-        * Disable Cockpit Admin
-          * <font color=green>ON</font>: Cockpit Admin will be disabled
-          * <font color=red>OFF</font>: Cockpit Admin will be enabled
-        * Disable Records Admin
-          * <font color=green>ON</font>: Records Admin will be disabled
-          * <font color=red>OFF</font>: Records Admin will be enabled
-        * Disable Cameras
-          * <font color=green>ON</font>: Cameras will be disabled
-          * <font color=red>OFF</font>: Cameras will be enabled
-        * Disable Vitals
-          * <font color=green>ON</font>: Vitals will be disabled
-          * <font color=red>OFF</font>: Vitals will be enabled
-      * <font color=red>OFF</font>: <font color=red>Airship</font> Devices will be enabled
-    * Disable <font color=#ffa646>Fungle</font> Devices
-      * <font color=green>ON</font>: <font color=#ffa646>Fungle</font> Devices will be disabled
-        * Disable Binoculars (Will Not Work for Vanilla)
-          * <font color=green>ON</font>: Binoculars will be disabled
-          * <font color=red>OFF</font>: Binoculars will be enabled
-        * Disable Vitals
-          * <font color=green>ON</font>: Vitals will be disabled
-          * <font color=red>OFF</font>: Vitals will be enabled
-      * <font color=red>OFF</font>: <font color=#ffa646>Fungle</font> Devices will be enabled
-  * Ignore Conditions
-    * Ignore <font color=red>Impostors</font>
-      * <font color=green>ON</font>: <font color=red>Impostors</font> conditions will be ignored
-      * <font color=red>OFF</font>: <font color=red>Impostors</font> conditions will not be ignored
-    * Ignore <font color=#7f8c8d>Neutrals</font>
-      * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> conditions will be ignored
-      * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> conditions will not be ignored
-    * Ignore <font color="#ac42f2">Coven</font>
-        * <font color=green>ON</font>: <font color="#ac42f2">Coven</font> conditions will be ignored
-        * <font color=red>OFF</font>: <font color="#ac42f2">Coven</font> conditions will not be ignored
-    * Ignore <font color=#8cffff>Crewmates</font>
-      * <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> conditions will be ignored
-      * <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> conditions will not be ignored
-    * Ignore after First Death
-      * <font color=green>ON</font>: Conditions will be ignored after the first death
-      * <font color=red>OFF</font>: Conditions will not be ignored after the first death
+<details>
+<summary><b><font color=#13bce9>Maps</font></b></summary>
 
-## <font color=#ffeb04>⚔️ Speedrun</font>
-
-* Number of Common Tasks
-  * Set the amount of Common Tasks runners will have
-* Number of Short Tasks
-  * Set the amount of Short Tasks runners will have
-* Number of Long Tasks
-  * Set the amount of Long Tasks runners will have
-
-* Initial Speed for Runner
-  * Set how fast the runner's base speed is
-* Initial Kill Cooldown after finishing tasks
-  * Set how long the kill cooldown is on task completion
-* Reduce Kill Cooldown per dead player
-  * Set how much kill cooldown is reduced upon a kill
-* Runner Speed after turning into a Killer
-  * Set how fast killer-turned-runners become
-* Allow closing doors in Speedrun
-  * <font color=green>ON</font>: Doors can be closed in Speedrun
-  * <font color=red>OFF</font>: Doors cannot be closed in Speedrun
-
-* Show arrows after x players left
-  * <font color=green>ON</font>: Arrows are shown after x players are remaining
-    * Amount of players left to show arrows
-      * Set how many players need to remain in order to show arrows
-  * <font color=red>OFF</font>: Arrows are not shown after x players are remaining
-
-* Temporarily Increase Speed after finishing a task
-  * <font color=green>ON</font>: Speed will be granted upon completion of a task
-    * Increased Speed for finishing tasks
-      * Set how much the speed boost increases speed
-    * Boost Duration for finishing tasks
-      * Set how long the speed boost will last for
-  * <font color=red>OFF</font>: Speed will not be granted upon completion of a task
-
-* Temporarily shield players after finishing a task
-  * <font color=green>ON</font>: Shield will be granted upon completion of a task
-    * Shield last for x seconds
-      * Set how long the shield will last for
-    * Shield breaks on single kill attempt
-      * <font color=green>ON</font>: Shield breaks after one kill attempt
-      * <font color=red>OFF</font>: Shield does not break after one kill attempt
-    * Reset Killer's Kill Cooldown to x seconds
-      * Set how long the killers cooldown will be
-  * <font color=red>OFF</font>: Shield will not be granted upon completion of a task
-
-* Force end the game after x seconds
-  * <font color=green>ON</font>: Game will end after a set time
-    * x seconds to end the game
-      * Set how long the game will take to end
-  * <font color=red>OFF</font>: Game will not end after a set time
-
-### <font size=4em color=#13bce9>Maps</font>
   * Random Maps Mode
     * <font color=green>ON</font>: Map will be chosen randomly
       * Chance that the map is
@@ -931,8 +800,236 @@ next: /Roles.html
     * Set Random Decoration When Birthday and Halloween is Active on <font color=#66a186>The Skeld</font>
       * <font color=green>ON</font>: The Decorations will be random
       * <font color=red>OFF</font>: The Decorations will not be random
+</details>
+<details>
+<summary><b><font color=#ff9999>Disable</font></b></summary>
 
-### <font size=4em color=#ff9999>Disable</font>
+  * Disable Unnecessary Shield Animations
+    * <font color=green>ON</font>: Unnecessary animations will be disabled
+    * <font color=red>OFF</font>: All animations will be enabled
+  * Disable Kill Animations on Guesses
+    * <font color=green>ON</font>: Kill animations will be disabled when guessing
+    * <font color=red>OFF</font>: Kill animations will be enabled when guessing
+  * Disable Vanilla Roles
+    * <font color=green>ON</font>: the host can disable Vanilla Roles
+    * <font color=red>OFF</font>: Vanilla Roles will be enabled
+  * Disable Task Win
+    * <font color=green>ON</font>: Task wins will not be possible
+    * <font color=red>OFF</font>: Task wins will be possible
+  * Disable Meetings
+    * <font color=green>ON</font>: Meetings will not be possible
+    * <font color=red>OFF</font>: Meetings will be possible
+  * Disable Sabotages
+    * <font color=green>ON</font>: Sabotages will not be possible
+      * Disable Doors Sabotage
+        * <font color=green>ON</font>: Doors Sabotage will be disabled
+        * <font color=red>OFF</font>: Doors Sabotage will be enabled
+    * <font color=red>OFF</font>: Sabotages will be possible
+  * Disable Devices
+    * <font color=green>ON</font>: Devices will be disabled
+      * Disable <font color=#66a186>Skeld</font> Devices
+        * <font color=green>ON</font>: <font color=#66a186>Skeld</font> Devices will be disabled
+          * Disable Admin
+            * <font color=green>ON</font>: Admin will be disabled
+            * <font color=red>OFF</font>: Admin will be enabled
+          * Disable Cameras
+            * <font color=green>ON</font>: Cameras will be disabled
+            * <font color=red>OFF</font>: Cameras will be enabled
+        * <font color=red>OFF</font>: <font color=#66a186>Skeld</font> Devices will be enabled
+      * Disable MiraHQ Devices
+        * <font color=green>ON</font>: MiraHQ Devices will be disabled
+          * Disable Admin
+            * <font color=green>ON</font>: Admin will be disabled
+            * <font color=red>OFF</font>: Admin will be enabled
+          * Disable DoorLog
+            * <font color=green>ON</font>: DoorLog will be disabled
+            * <font color=red>OFF</font>: DoorLog will be enabled
+        * <font color=red>OFF</font>: MiraHQ Devices will be enabled
+      * Disable <font color=#a167c0>Polus</font> Devices
+        * <font color=green>ON</font>: <font color=#a167c0>Polus</font> Devices will be disabled
+          * Disable Admin
+            * <font color=green>ON</font>: Admin will be disabled
+            * <font color=red>OFF</font>: Admin will be enabled
+          * Disable Cameras
+            * <font color=green>ON</font>: Cameras will be disabled
+            * <font color=red>OFF</font>: Cameras will be enabled
+          * Disable Vitals
+            * <font color=green>ON</font>: Vitals will be disabled
+            * <font color=red>OFF</font>: Vitals will be enabled
+        * <font color=red>OFF</font>: <font color=#a167c0>Polus</font> Devices will be enabled
+      * Disable <font color=red>Airship</font> Devices
+        * <font color=green>ON</font>: <font color=red>Airship</font> Devices will be disabled
+          * Disable Cockpit Admin
+            * <font color=green>ON</font>: Cockpit Admin will be disabled
+            * <font color=red>OFF</font>: Cockpit Admin will be enabled
+          * Disable Records Admin
+            * <font color=green>ON</font>: Records Admin will be disabled
+            * <font color=red>OFF</font>: Records Admin will be enabled
+          * Disable Cameras
+            * <font color=green>ON</font>: Cameras will be disabled
+            * <font color=red>OFF</font>: Cameras will be enabled
+          * Disable Vitals
+            * <font color=green>ON</font>: Vitals will be disabled
+            * <font color=red>OFF</font>: Vitals will be enabled
+        * <font color=red>OFF</font>: <font color=red>Airship</font> Devices will be enabled
+      * Disable <font color=#ffa646>Fungle</font> Devices
+        * <font color=green>ON</font>: <font color=#ffa646>Fungle</font> Devices will be disabled
+          * Disable Binoculars
+            * <font color=green>ON</font>: Binoculars will be disabled
+            * <font color=red>OFF</font>: Binoculars will be enabled
+          * Disable Vitals
+            * <font color=green>ON</font>: Vitals will be disabled
+            * <font color=red>OFF</font>: Vitals will be enabled
+        * <font color=red>OFF</font>: <font color=#ffa646>Fungle</font> Devices will be enabled
+    * Ignore Conditions
+      * Ignore <font color=red>Impostors</font>
+        * <font color=green>ON</font>: <font color=red>Impostors</font> conditions will be ignored
+        * <font color=red>OFF</font>: <font color=red>Impostors</font> conditions will not be ignored
+      * Ignore <font color=#7f8c8d>Neutrals</font>
+        * <font color=green>ON</font>: <font color=#7f8c8d>Neutrals</font> conditions will be ignored
+        * <font color=red>OFF</font>: <font color=#7f8c8d>Neutrals</font> conditions will not be ignored
+      * Ignore <font color="#ac42f2">Coven</font>
+        * <font color=green>ON</font>: <font color="#ac42f2">Coven</font> conditions will be ignored
+        * <font color=red>OFF</font>: <font color="#ac42f2">Coven</font> conditions will not be ignored
+      * Ignore <font color=#8cffff>Crewmates</font>
+        * <font color=green>ON</font>: <font color=#8cffff>Crewmates</font> conditions will be ignored
+        * <font color=red>OFF</font>: <font color=#8cffff>Crewmates</font> conditions will not be ignored
+      * Ignore after First Death
+        * <font color=green>ON</font>: Conditions will be ignored after the first death
+        * <font color=red>OFF</font>: Conditions will not be ignored after the first death
+</details>
+</details>
+<details>
+<summary><b><font color=#ffeb04>👟 Speedrun</font></b></summary>
+
+Speedrun is a Gamemode in TOHE where, everybody's objective is to complete all of their tasks. Once you complete your tasks, you become a Killer, and your new objective is to kill everyone else. You may receive perks for completing tasks depending on settings.
+
+* Number of Common Tasks
+  * Set the amount of Common Tasks runners will have
+* Number of Short Tasks
+  * Set the amount of Short Tasks runners will have
+* Number of Long Tasks
+  * Set the amount of Long Tasks runners will have
+
+* Initial Speed for Runner
+  * Set how fast the runner's base speed is
+* Initial Kill Cooldown after finishing tasks
+  * Set how long the kill cooldown is on task completion
+* Reduce Kill Cooldown per dead player
+  * Set how much kill cooldown is reduced upon a kill
+* Runner Speed after turning into a Killer
+  * Set how fast killer-turned-runners become
+* Allow closing doors in Speedrun
+  * <font color=green>ON</font>: Doors can be closed in Speedrun
+  * <font color=red>OFF</font>: Doors cannot be closed in Speedrun
+
+* Show arrows after x players left
+  * <font color=green>ON</font>: Arrows are shown after x players are remaining
+    * Amount of players left to show arrows
+      * Set how many players need to remain in order to show arrows
+  * <font color=red>OFF</font>: Arrows are not shown after x players are remaining
+
+* Temporarily Increase Speed after finishing a task
+  * <font color=green>ON</font>: Speed will be granted upon completion of a task
+    * Increased Speed for finishing tasks
+      * Set how much the speed boost increases speed
+    * Boost Duration for finishing tasks
+      * Set how long the speed boost will last for
+  * <font color=red>OFF</font>: Speed will not be granted upon completion of a task
+
+* Temporarily shield players after finishing a task
+  * <font color=green>ON</font>: Shield will be granted upon completion of a task
+    * Shield last for x seconds
+      * Set how long the shield will last for
+    * Shield breaks on single kill attempt
+      * <font color=green>ON</font>: Shield breaks after one kill attempt
+      * <font color=red>OFF</font>: Shield does not break after one kill attempt
+    * Reset Killer's Kill Cooldown to x seconds
+      * Set how long the killers cooldown will be
+  * <font color=red>OFF</font>: Shield will not be granted upon completion of a task
+
+* Force end the game after x seconds
+  * <font color=green>ON</font>: Game will end after a set time
+    * x seconds to end the game
+      * Set how long the game will take to end
+  * <font color=red>OFF</font>: Game will not end after a set time
+
+<details>
+<summary><b><font color=#13bce9>Maps</font></b></summary>
+
+  * Random Maps Mode
+    * <font color=green>ON</font>: Map will be chosen randomly
+      * Chance that the map is
+        * <font color=#66a186>The Skeld</font> - Set the chance that the map will be <font color=#66a186>The Skeld</font>
+        * <font color=#e84b56>MIRA HQ</font> - Set the chance that the map will be <font color=#e84b56>MIRA HQ</font>
+        * <font color=#a167c0>Polus</font> - Set the chance that the map will be <font color=#a167c0>Polus</font>
+        * <font color=#66a186>dlekS ehT</font>  - Set the chance that the map will be <font color=#66a186>dlekS ehT</font>
+        * <font color=red>Airship</font> - Set the chance that the map will be <font color=red>Airship</font>
+        * <font color=#ffa646>The Fungle</font> - Set the chance that the map will be <font color=#ffa646>The Fungle</font>
+        * Use a more random map selection
+          * <font color=green>ON</font>: Maps will be selected even more randomly
+          * <font color=red>OFF</font>: Maps will not be selected even more randomly
+    * Random Spawns Mode
+      * <font color=green>ON</font>: Spawn locations will be chosen randomly
+        * Random Spawns in Locations
+          * <font color=green>ON</font>: Spawn locations will be chosen randomly in their respective locations
+            * Additional Spawn Locations (<font color=red>Airship</font>)
+              * <font color=green>ON</font>: More spawn locations will be added
+              * <font color=red>OFF</font>: More spawn locations will not be added
+          * <font color=red>OFF</font>: Spawn locations will be chosen randomly in the entire map
+        * Random Spawns on Vents
+          * <font color=green>ON</font>: Spawn locations will be chosen randomly on vents
+          * <font color=red>OFF</font>: Spawn locations will be chosen normally
+      * <font color=red>OFF</font>: Spawn locations will be chosen normally
+    * Map Modifications
+      * <font color=green>ON</font>: Mess with Map modifiers to change how you can play on maps
+      * <font color=red>OFF</font>: Map modifiers will not be implemented and will work as Vanilla intended
+        * Variable Electrical (<font color=red>Airship</font>)
+          * The Electrical room will be randomized.
+        * Disable Moving Platform (<font color=red>Airship</font>)
+          * <font color=green>ON</font>: Moving platform will be disabled
+          * <font color=red>OFF</font>: Moving platform will be enabled
+        * Disable Spore Trigger (<font color=#ffa646>Fungle</font>)
+          * <font color=green>ON</font>: Spore Trigger will be disabled
+          * <font color=red>OFF</font>: Spore Trigger will be enabled
+        * Disable Zipline (<font color=#ffa646>Fungle</font>)
+          * <font color=green>ON</font>: Zipline will be disabled
+            * Disable Use From Top
+              * <font color=green>ON</font>: Zipline will be disabled from the top
+              * <font color=red>OFF</font>: Zipline will not be disabled from the top
+            * Disable Use From Bottom
+              * <font color=green>ON</font>: Zipline will be disabled from the bottom
+              * <font color=red>OFF</font>: Zipline will not be disabled from the bottom
+          * <font color=red>OFF</font>: Zipline will be enabled
+    * Reset Doors After Meetings (<font color=red>Airship</font>/<font color=#a167c0>Polus</font>/<font color=#ffa646>Fungle</font>)
+      * <font color=green>ON</font>: Doors will be reset after meetings
+        * Reset Doors Mode
+          * Set how Doors will be reset on these maps, choose from:
+          * All Open
+          * All Closed
+          * Closed Random
+        * <font color=red>OFF</font>: Doors will not be reset after meetings
+    * Change Decontamination Time (<font color=#e84b56>MIRA HQ</font>/<font color=#a167c0>Polus</font>)
+      * <font color=green>ON</font>: The time you have to stay in Decontamination will be a set time
+        * Decontamination Time on <font color=#e84b56>MIRA HQ</font>
+        * Decontamination Time on <font color=#a167c0>Polus</font>
+      * <font color=red>OFF</font>: The time you have to stay in Decontamination will be normal
+    * Halloween Decorations (<font color=#66a186>The Skeld</font>/<font color=#e84b56>MIRA HQ</font>/<font color=#66a186>dlekS ehT</font>)
+      * <font color=green>ON</font>: Halloween Decorations will be on the map regardless if it's Halloween or not
+        * Enable on <font color=#66a186>The Skeld</font>
+        * Enable on <font color=#e84b56>MIRA HQ</font>
+        * Enable on <font color=#66a186>dlekS ehT</font>
+      * <font color=red>OFF</font>: Halloween Decorations will only appear if it's Halloween
+    * Birthday Decoration on <font color=#66a186>The Skeld</font>
+      * <font color=green>ON</font>: Among Us Anniversary Decorations will be on the map regardless if it's Anniversary or not
+      * <font color=red>OFF</font>: Among Us Anniversary Decorations will only appear if it's the Anniversary of Among Us
+    * Set Random Decoration When Birthday and Halloween is Active on <font color=#66a186>The Skeld</font>
+      * <font color=green>ON</font>: The Decorations will be random
+      * <font color=red>OFF</font>: The Decorations will not be random
+</details>
+<details>
+<summary><b><font color=#ff9999>Disable</font></b></summary>
+
   * Disable Unnecessary Shield Animations
     * <font color=green>ON</font>: Unnecessary animations will be disabled
     * <font color=red>OFF</font>: All animations will be enabled
@@ -1275,3 +1372,5 @@ next: /Roles.html
       * <font color=red>OFF</font>: Weather Nodes will be enabled
     </details>
   * <font color=red>OFF</font>: Situational Tasks will be enabled
+</details>
+</details>

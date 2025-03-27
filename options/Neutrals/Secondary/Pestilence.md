@@ -5,7 +5,7 @@ prev: Plaguebearer
 next: Plaguebearer
 ---
 
-# <font color=#343136>🧫 <b>Pestilence</b></font> <Badge text="Apocalypse" type="tip" vertical="middle"/>
+# <font color=#343136>🧫 <b>Pestilence</b></font> <Badge text="Secondary" type="tip" vertical="middle"/>
 ---
 
 As Pestilence, you're an unstoppable machine. Any attack towards you will be reflected towards them.<br>

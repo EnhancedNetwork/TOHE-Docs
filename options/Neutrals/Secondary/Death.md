@@ -5,7 +5,7 @@ prev: SoulCollector
 next: SoulCollector
 ---
 
-# <font color=#644661>💀<b>Death</b></font> <Badge text="Apocalypse" type="tip" vertical="middle"/>
+# <font color=#644661>💀<b>Death</b></font> <Badge text="Secondary" type="tip" vertical="middle"/>
 ---
 
 Once the Soul Collector has collected their needed souls, they become Death. Death kills everyone and wins if Death is not ejected by the end of the next meeting.<br>

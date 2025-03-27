@@ -5,7 +5,7 @@ prev: Berserker
 next: Berserker
 ---
 
-# <font color=#2b0804>⚔️ <b>War</b></font> <Badge text="Apocalypse" type="tip" vertical="middle"/>
+# <font color=#2b0804>⚔️ <b>War</b></font> <Badge text="Secondary" type="tip" vertical="middle"/>
 ---
 
 As War, you are invincible, have a lower kill cooldown, and can kill anyone with your

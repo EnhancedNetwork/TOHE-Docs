@@ -204,8 +204,8 @@ export default defineUserConfig({
             { text: 'Lazy Guy', link: '/options/Crewmates/Basic/LazyGuy.html' },
             {
               text: 'Mini', link: '/options/Crewmates/Basic/Mini.html', children: [
-                { text: 'Evil Mini', link: '/options/Crewmates/Basic/MiniEvil.html' },
-                { text: 'Nice Mini', link: '/options/Crewmates/Basic/MiniNice.html' }
+                { text: 'Evil Mini', link: '/options/Crewmates/Secondary/MiniEvil.html' },
+                { text: 'Nice Mini', link: '/options/Crewmates/Secondary/MiniNice.html' }
               ]
             },
             { text: 'Mole', link: '/options/Crewmates/Basic/Mole.html' },
@@ -234,7 +234,7 @@ export default defineUserConfig({
             { text: 'Judge', link: '/options/Crewmates/Killing/Judge.html' },
             {
               text: 'Knight', link: '/options/Crewmates/Killing/Knight.html', children: [
-                { text: 'Requiter', link: '/options/Crewmates/Killing/Requiter.html' },
+                { text: 'Requiter', link: '/options/Crewmates/Secondary/Requiter.html' },
               ]
             },
             { text: 'Nice Guesser', link: '/options/Crewmates/Killing/NiceGuesser.html' },
@@ -346,7 +346,7 @@ export default defineUserConfig({
             { text: 'Back to Impostors', link: '/options/Settings/Impostors.html' },
             {
               text: 'Arrogance', link: '/options/Impostors/Killing/Arrogance.html', children: [
-                { text: 'Bard', link: '/options/Impostors/Killing/Bard.html' },
+                { text: 'Bard', link: '/options/Impostors/Secondary/Bard.html' },
               ]
             },
             { text: 'Bomber', link: '/options/Impostors/Killing/Bomber.html' },
@@ -411,22 +411,22 @@ export default defineUserConfig({
             { text: 'Back to Neutrals', link: '/options/Settings/Neutrals.html' },
             {
               text: 'Baker', link: '/options/Neutrals/Apocalypse/Baker.html', children: [
-                { text: 'Famine', link: '/options/Neutrals/Apocalypse/Famine.html' },
+                { text: 'Famine', link: '/options/Neutrals/Secondary/Famine.html' },
               ]
             },
             {
               text: 'Berserker', link: '/options/Neutrals/Apocalypse/Berserker.html', children: [
-                { text: 'War', link: '/options/Neutrals/Apocalypse/War.html' },
+                { text: 'War', link: '/options/Neutrals/Secondary/War.html' },
               ]
             },
             {
               text: 'Plaguebearer', link: '/options/Neutrals/Apocalypse/Plaguebearer.html', children: [
-                { text: 'Pestilence', link: '/options/Neutrals/Apocalypse/Pestilence.html' },
+                { text: 'Pestilence', link: '/options/Neutrals/Secondary/Pestilence.html' },
               ]
             },
             {
               text: 'Soul Collector', link: '/options/Neutrals/Apocalypse/SoulCollector.html', children: [
-                { text: 'Death', link: '/options/Neutrals/Apocalypse/Death.html' },
+                { text: 'Death', link: '/options/Neutrals/Secondary/Death.html' },
               ]
             },
           ],
@@ -444,8 +444,8 @@ export default defineUserConfig({
             { text: 'Revenant', link: '/options/Neutrals/Benign/Revenant.html'},
             {
               text: 'Romantic', link: '/options/Neutrals/Benign/Romantic.html', children: [
-                { text: 'Vengeful Romantic', link: '/options/Neutrals/Benign/RomanticVengeful.html' },
-                { text: 'Ruthless Romantic', link: '/options/Neutrals/Benign/RomanticRuthless.html' },
+                { text: 'Vengeful Romantic', link: '/options/Neutrals/Secondary/RomanticVengeful.html' },
+                { text: 'Ruthless Romantic', link: '/options/Neutrals/Secondary/RomanticRuthless.html' },
               ]
             },
             { text: 'Shaman', link: '/options/Neutrals/Benign/Shaman.html' },
@@ -474,7 +474,7 @@ export default defineUserConfig({
             { text: 'Innocent', link: '/options/Neutrals/Evil/Innocent.html' },
             {
               text: 'Jester', link: '/options/Neutrals/Evil/Jester.html', children: [
-                { text: 'Sunnyboy', link: '/options/Neutrals/Evil/Sunnyboy.html' },
+                { text: 'Sunnyboy', link: '/options/Neutrals/Secondary/Sunnyboy.html' },
               ]
             },
             { text: 'Punching Bag', link: '/options/Neutrals/Evil/PunchingBag.html' },

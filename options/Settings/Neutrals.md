@@ -67,7 +67,7 @@ next: /Roles.html
 
 ### <font color=#912900><b>Evil</b></font>
 ---
-[Cursed Soul](/options/Neutrals/Evil/CursedSoul.html) | [Doomsayer](/options/Neutrals/Evil/Doomsayer.html) | [Executioner](/options/Neutrals/Evil/Executioner.html) | [Innocent](/options/Neutrals/Evil/Innocent.html) | [Jester](/options/Neutrals/Evil/Jester.html) | [Punching Bag](/options/Neutrals/Evil/PunchingBag.html) | [Seeker](/options/Neutrals/Evil/Seeker.html)
+[Cursed Soul](/options/Neutrals/Evil/CursedSoul.html) | [Doomsayer](/options/Neutrals/Evil/Doomsayer.html) | [Executioner](/options/Neutrals/Evil/Executioner.html) | [Innocent](/options/Neutrals/Evil/Innocent.html) | [Jester](/options/Neutrals/Evil/Jester.html) | [Sunnyboy](/options/Neutrals/Evil/Sunnyboy.html) | [Punching Bag](/options/Neutrals/Evil/PunchingBag.html) | [Seeker](/options/Neutrals/Evil/Seeker.html)
 
 ### <font color=#4d3222><b>Experimental</b></font>
 ---

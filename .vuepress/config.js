@@ -185,6 +185,7 @@ export default defineUserConfig({
           ],
           '/options/Coven/Utility/': [
             { text: 'Back to Coven', link: '/options/Settings/Coven.html' },
+            { text: 'Harvester', link: '/options/Coven/Utility/Harvester.html' },
             { text: 'Medusa', link: '/options/Coven/Utility/Medusa.html' },
             { text: 'Moon Dancer', link: '/options/Coven/Utility/MoonDancer.html' },
             { text: 'Necromancer', link: '/options/Coven/Utility/Necromancer.html' },
@@ -231,7 +232,11 @@ export default defineUserConfig({
             { text: 'Deceiver', link: '/options/Crewmates/Killing/Deceiver.html' },
             { text: 'Jailer', link: '/options/Crewmates/Killing/Jailer.html' },
             { text: 'Judge', link: '/options/Crewmates/Killing/Judge.html' },
-            { text: 'Knight', link: '/options/Crewmates/Killing/Knight.html' },
+            {
+              text: 'Knight', link: '/options/Crewmates/Killing/Knight.html', children: [
+                { text: 'Requiter', link: '/options/Crewmates/Killing/Requiter.html' },
+              ]
+            },
             { text: 'Nice Guesser', link: '/options/Crewmates/Killing/NiceGuesser.html' },
             { text: 'Reverie', link: '/options/Crewmates/Killing/Reverie.html' },
             { text: 'Retributionist', link: '/options/Crewmates/Killing/Retributionist.html' },

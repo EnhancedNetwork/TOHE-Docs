@@ -5,15 +5,17 @@ prev: Knight
 next: Knight
 ---
 
-# <font color="#ff9902">☀️ <b>Requiter</b></font> <Badge text="Hidden" type="tip" vertical="middle"/>
+# <font color="#e2acb5">⚔️ <b>Requiter</b></font> <Badge text="Hidden" type="tip" vertical="middle"/>
 ---
 
-This page is a copy of Sunnyboy, this should be finished so adding this text is useless if it wont appear in the finished product. If it does, I forgot somehow. Everything is prepped MINUS this page.
+The Requiter has no bullets at the beginning. For each crewmate ejected, the Requiter gains one bullet. The Requiter can kill when they have bullets.
 
 * You must have “Disable Hidden Roles” toggled <font color=red>OFF</font> for this to have a chance to appear
-* Despite being listed under Evil, this role is actually Benign. It is only listed as Evil due to Jester being an Evil role.
 
-> From: Idea & Coding: [KARPED1EM](https://github.com/KARPED1EM)
+* Requiter Ignores Shields (Excluding Mini & Solsticer)
+  * Set if Requiter ignores Shields or not
+
+> From: Idea & Coding: [ImpyIsLazy](https://github.com/impostor4291)
 
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

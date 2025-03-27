@@ -67,7 +67,7 @@ next: /Roles.html
 
 ### <font color=#deb3fa><b>Utility</b></font>
 ---
-[Moon Dancer](/options/Coven/Utility/MoonDancer.html) | [Medusa](/options/Coven/Utility/Medusa.html) | [Necromancer](/options/Coven/Utility/Necromancer.html) | [Potion Master](/options/Coven/Utility/PotionMaster.html) | [Sacrifist](/options/Coven/Utility/Sacrifist.html) | [Voodoo Master](/options/Coven/Utility/VoodooMaster.html)
+[Harvester](/options/Coven/Utility/Harvester.html) | [Medusa](/options/Coven/Utility/Medusa.html) | [Moon Dancer](/options/Coven/Utility/MoonDancer.html) | [Necromancer](/options/Coven/Utility/Necromancer.html) | [Potion Master](/options/Coven/Utility/PotionMaster.html) | [Sacrifist](/options/Coven/Utility/Sacrifist.html) | [Voodoo Master](/options/Coven/Utility/VoodooMaster.html)
 
 <br>
 

@@ -811,7 +811,55 @@ next: /Roles.html
 
 ## <font color=#ffeb04>⚔️ Speedrun</font>
 
-Settings here unless I forget like an idiot
+* Number of Common Tasks
+  * Set the amount of Common Tasks runners will have
+* Number of Short Tasks
+  * Set the amount of Short Tasks runners will have
+* Number of Long Tasks
+  * Set the amount of Long Tasks runners will have
+
+* Initial Speed for Runner
+  * Set how fast the runner's base speed is
+* Initial Kill Cooldown after finishing tasks
+  * Set how long the kill cooldown is on task completion
+* Reduce Kill Cooldown per dead player
+  * Set how much kill cooldown is reduced upon a kill
+* Runner Speed after turning into a Killer
+  * Set how fast killer-turned-runners become
+* Allow closing doors in Speedrun
+  * <font color=green>ON</font>: Doors can be closed in Speedrun
+  * <font color=red>OFF</font>: Doors cannot be closed in Speedrun
+
+* Show arrows after x players left
+  * <font color=green>ON</font>: Arrows are shown after x players are remaining
+    * Amount of players left to show arrows
+      * Set how many players need to remain in order to show arrows
+  * <font color=red>OFF</font>: Arrows are not shown after x players are remaining
+
+* Temporarily Increase Speed after finishing a task
+  * <font color=green>ON</font>: Speed will be granted upon completion of a task
+    * Increased Speed for finishing tasks
+      * Set how much the speed boost increases speed
+    * Boost Duration for finishing tasks
+      * Set how long the speed boost will last for
+  * <font color=red>OFF</font>: Speed will not be granted upon completion of a task
+
+* Temporarily shield players after finishing a task
+  * <font color=green>ON</font>: Shield will be granted upon completion of a task
+    * Shield last for x seconds
+      * Set how long the shield will last for
+    * Shield breaks on single kill attempt
+      * <font color=green>ON</font>: Shield breaks after one kill attempt
+      * <font color=red>OFF</font>: Shield does not break after one kill attempt
+    * Reset Killer's Kill Cooldown to x seconds
+      * Set how long the killers cooldown will be
+  * <font color=red>OFF</font>: Shield will not be granted upon completion of a task
+
+* Force end the game after x seconds
+  * <font color=green>ON</font>: Game will end after a set time
+    * x seconds to end the game
+      * Set how long the game will take to end
+  * <font color=red>OFF</font>: Game will not end after a set time
 
 ### <font size=4em color=#13bce9>Maps</font>
   * Random Maps Mode

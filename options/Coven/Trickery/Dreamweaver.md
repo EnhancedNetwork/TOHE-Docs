@@ -5,27 +5,21 @@ prev: /options/Settings/Coven.html
 next: Illusionist
 ---
 
-# <font color="#8a68f5">🪄 <b>Dreamweaver</b></font> <Badge text="Trickery" type="tip" vertical="middle"/>
+# <font color="#8a68f5">💭 <b>Dreamweaver</b></font> <Badge text="Trickery" type="tip" vertical="middle"/>
 ---
 
-This page is a copy of Illusionist, this should be finished so adding this text is useless if it wont appear in the finished product. If it does, I forgot somehow. Everything is prepped MINUS this page.
+The Dreamweaver can dreamweave a player. The dreamwoven players will be notified of this during the next meeting. If the Dreamweaver is not voted out, these players be driven to insomnia and will be unable to use their abilities, and their votes will not count until the
+Dreamweaver dies.
+With the Necronomicon, the Dreamweaver can double-click to kill.
 
-<details>
-<summary><i><b><font color="#8a68f5">Illusionist</font> Cases:</b></i></summary>
-
-* Illusion Cooldown
-  * Set how long the Illusionist has to place an Illusion on a player
-* Max Illusions
-  * Set how many Illusions the Illusionist can place in one game
-* <font color=#b8fb4f>Snitch</font> is Affected by Illusions
-  * <font color=green>ON</font>: Non-<font color=#ac42f2>Coven</font> Illusioned players will be shown as Impostors to the <font color=#b8fb4f>Snitch</font>
-  * <font color=red>OFF</font>: <font color=#b8fb4f>Snitch</font> will work as normal
-* Reset Illusions After Meeting
-  * <font color=green>ON</font>: All Illusions will be cleared after a meeting ends
-  * <font color=red>OFF</font>: Illusions will last the whole game
-* Remove Illusions When Illusionist Dies
-  * <font color=green>ON</font>: All Illusions will be cleared if the Illusionist dies
-  * <font color=red>OFF</font>: Illusions will last past the Illusionist's death
+* Ability Cooldown
+  * Set how long the Dreamweaver has to place an Dreamweaver on a player
+* Neutrals can be Dreamwoven
+  * <font color=green>ON</font>: Neutrals can be Dreamwoven
+  * <font color=red>OFF</font>: Neutrals cannot be Dreamwoven
+* Impostors can be Dreamwoven
+  * <font color=green>ON</font>: Impostors can be Dreamwoven
+  * <font color=red>OFF</font>: Impostors cannot be Dreamwoven
 
 > Idea & Coding: [Marg](https://github.com/MargaretTheFool)
 

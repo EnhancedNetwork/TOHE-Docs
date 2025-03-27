@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Necromancer
-prev: Medusa
+prev: MoonDancer
 next: PotionMaster
 ---
 

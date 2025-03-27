@@ -21,6 +21,20 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <font size=3em>
 
 <details>
+<summary><b><font color=#cf4e8>v2.2.1 Alpha 2</font></b></summary>
+
+<b>This build is based on Stable Release 2.2.0. It does not have features in latest alpha builds.</b><br>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix setting playercount to 127 prevent hosting games<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for flipped skeld<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix completing gamecode wont automatically begin findgame process<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Improved ServerDropDown (thanks to D1GQ for his code)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Wrap setroles rpc into a same writer<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Improve Find a game manager (ported from BAU, hostname by Pietro)<br>
+
+<b>Expect some technique changes following this build.</b>
+</details>
+<details>
 <summary><b><font color=#cf4e8>v2.2.1 Alpha 1</font></b></summary>
 
 <b>Why is this alpha build named 2.2.1?</b>

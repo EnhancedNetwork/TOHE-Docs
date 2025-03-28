@@ -21,21 +21,42 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <font size=3em>
 
 <details>
-<summary><b><font color=#cf4e8>v2.2.1 Alpha 2</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.3.0 Alpha 5</font></b></summary>
+
+<b>This build is based on Alpha Release 2.3.0a4. It has features in latest alpha builds.</b><br>
+
+\+ <font color=green><b>NEW</b></font>: Update to Among Us 16.0.0 [TommyXL](https://github.com/Tommy-XL) + [Niko](https://github.com/NikoCat233)<br>
+\+ <font color=green><b>NEW</b></font>: Add and modify some custom sounds for roles [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix non host players not seeing exile message<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: More Packet size fixes and serialize fix<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix missing "OnRemove"s in Romantic's code [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Crewpostor (Crewpostor tasks are changed to short tasks when it get LastImpostor, tasks reset after meetings) [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Copycat becomes Requiter for copying instigator [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix typo of Requiter option "RequiterCanKillTNA" [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Baker Can Give Bread Again If Breaded Player Dies [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Combine Legacy Version string into 1 string [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Remove duplicated SpawnOneRandomKillingFraction<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Always remove disconnect penalty<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: TOHE won't load if it is installed together with other popular mods [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Antiblackout maybe buggy for non host players. Report bugs in discord channel<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Chat buttons for non-standard gamemodes is disabled due to AntiBlackout issues<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.1 Alpha 2</font></b></summary>
 
 <b>This build is based on Stable Release 2.2.0. It does not have features in latest alpha builds.</b><br>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix setting playercount to 127 prevent hosting games<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for flipped skeld<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix completing gamecode wont automatically begin findgame process<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Improved ServerDropDown (thanks to D1GQ for his code)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved ServerDropDown (thanks to D1GQ for his code)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Wrap setroles rpc into a same writer<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Improve Find a game manager (ported from BAU, hostname by Pietro)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Find a game manager (ported from BAU, hostname by Pietro)<br>
 
 <b>Expect some technique changes following this build.</b>
 </details>
 <details>
-<summary><b><font color=#cf4e8>v2.2.1 Alpha 1</font></b></summary>
+<summary><b><font color=#d395b4>v2.2.1 Alpha 1</font></b></summary>
 
 <b>Why is this alpha build named 2.2.1?</b>
 Due to some serious bugs in the latest alpha that require more time to fix, and the approaching innersloth anticheat deadline, we choose to split newer among us support and alpha development.<br>

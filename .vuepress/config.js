@@ -52,10 +52,6 @@ export default defineUserConfig({
                 text: 'Mod Settings',
                 link: '/options/Settings/Mod.html',
               },
-              {
-                text: 'Game Modifiers',
-                link: '/options/Settings/Modifiers.html',
-              },
             ]
           },
           {
@@ -517,10 +513,10 @@ export default defineUserConfig({
             { text: 'Game Settings', link: '/options/Settings/Game.html' },
             { text: 'System Settings', link: '/options/Settings/System.html' },
             { text: 'Mod Settings', link: '/options/Settings/Mod.html' },
-            { text: 'Game Modifiers', link: '/options/Settings/Modifiers.html' },
             { text: 'Impostors', link: '/options/Settings/Impostors.html' },
             { text: 'Crewmates', link: '/options/Settings/Crewmates.html' },
             { text: 'Neutrals', link: '/options/Settings/Neutrals.html' },
+            { text: 'Coven', link: '/options/Settings/Coven.html' },
             { text: 'Add-ons', link: '/options/Settings/Addons.html' },
           ],
         },

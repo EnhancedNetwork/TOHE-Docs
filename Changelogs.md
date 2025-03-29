@@ -26,7 +26,7 @@ Doesn't matter mod broke ill update this when the anticheat change fixes are imp
 <summary><b><font color=#5ea692>Site Changelogs/Updates</font></b></summary>
 
 * By [**Pyro**](https://sites.google.com/view/notpyro404)<br>
-\+ <font color=green><b>NEW</b></font>: Overhauled Mod.md (Gamemodes are now dropdown menus + their settings, rather than a big text mess.<br>
+\+ <font color=green><b>NEW</b></font>: Overhauled Mod.md (Gamemodes are now dropdown menus + their settings, rather than a big text mess.)<br>
 \+ <font color=green><b>NEW</b></font>: Secondary Roles/Hidden Roles are now under Secondary folders. Secondary is for roles that only appear if one role is enabled. (You can't see Famine without Baker, or Evil Mini without Mini) Hidden Roles technically fall under that ruling. (You can't see Bard without Arrogance, or Requiter without Knight)<br>
 = <font color=#ece218><b>NOTICE</b></font>: If there are any other issues, or you simply have feedback, open a forum in `#website-feedback`! Thank you!<br>
 </details>

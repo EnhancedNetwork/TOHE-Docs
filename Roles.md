@@ -20,11 +20,11 @@ contributors: false
 <table>
 <tr>
 <td><a href="/changelogs/Alpha.html" style="color:#997d6d"><b>Alpha</b></a></td>
-<td>v2.3.0 Alpha 5</td>
+<td>v2.3.0 Alpha 6</td>
 </tr>
 <tr>
 <td><a href="/changelogs/Beta.html" style="color:#6d7299"><b>Beta</b></a></td>
-<td>v2.2.0 Beta 4</td>
+<td>v2.2.1 Beta 1</td>
 </tr>
 <tr>
 <td><a href="/changelogs/Stable.html" style="color:#996d7f"><b>Stable</b></a></td>

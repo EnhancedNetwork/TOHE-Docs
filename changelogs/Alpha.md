@@ -21,7 +21,19 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <font size=3em>
 
 <details>
-<summary><b><font color=#cf4e8f>v2.3.0 Alpha 5</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.3.0 Alpha 6</font></b></summary>
+
+<b>For a more Stable experience, please use v2.2.1 Beta 1</b><br>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed AntiBlackout related issues<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed enable chat button for non standard gamemodes<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent Requiter from killing TNA [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Players randomly get 300 kcd<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Dead players can see exiled player's name as exiled message<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Player role basis not correctly assigned in game<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 5</font></b></summary>
 
 <b>This build is based on Alpha Release 2.3.0a4. It has features in latest alpha builds.</b><br>
 
@@ -861,7 +873,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.1.0 Alpha 3</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: Neutral Chaos Role: [Troller](/options/Neutral/Chaos/Troller.html) (Idea by: `@dx7405`)<br>
+\+ <font color=green><b>NEW</b></font>: Neutral Chaos Role: [Troller](/options/Neutral/Chaos/Troller.html) (Idea by: dx7405`)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Vip/Moderator/Sponsor and ect. shown in game<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the host changed his nickname to his own when he was killed by Doppelganger (hopefully)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Veteran kill Taskinator<br>
@@ -879,7 +891,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 \+ <font color=green><b>NEW</b></font>: Added role info in setting menu<br>
 \+ <font color=green><b>NEW</b></font>: Added search bar in settings<br>
-\+ <font color=green><b>NEW</b></font>: Helpful Add-on: [Spurt](/options/Addons/Helpful/Spurt.html) (Idea by: `@.thediamondstar`)<br>
+\+ <font color=green><b>NEW</b></font>: Helpful Add-on: [Spurt](/options/Addons/Helpful/Spurt.html) (Idea by: `.thediamondstar`)<br>
 =  AddonBase (Port From EHR) (The settings are now sorted alphabetically)<br>
 </details>
 <details>

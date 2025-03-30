@@ -18,10 +18,21 @@ To access Beta Builds, visit TEN's [Discord Server](https://discord.gg/ten) and 
 
 ---
 <font size=3em>
-<details>
-<summary><b><font color=#cf4e8f>v2.2.0 Beta 4</font></b></summary>
 
-We've received a definitive update from the developers at Innersloth regarding the Rate Limit anti-cheat measures.<br>
+<details>
+<summary><b><font color=#cf4e8f>v2.2.1 Beta 1</font></b></summary>
+
+<b>Support Among Us 16.0.0</b><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Rpc wrapping and Packet spliting<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve AntiBlackOut<br>
+<i>Comparing to 2.2.1 Alpha 2</i><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Should have fixed dead alive bug<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed translation problems (using 2.2.0 release translations)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Beta 4</font></b></summary>
+
+<b>We've received a definitive update from the developers at Innersloth regarding the Rate Limit anti-cheat measures.<br>
 Innersloth has decided to temporarily relax these measures, with plans to reinstate them on April 4th. This will give modders ample time to adapt to the changes in the anti-cheat strategy. We're actively working with the team to ensure a smooth transition.<br>
 During this period, we'll be rolling out several test builds to assess the situation and prepare for the eventual reactivation of the anti-cheat measures.<br>
 Please keep in mind that, due to the limitations of the game protocol, we cannot guarantee a fully stable experience on official servers once the Rate Limit anti-cheat measures are reinstated.<br>
@@ -29,7 +40,7 @@ Innersloth recommends that modders who cannot adapt to these changes consider mo
 When playing on InnerSloth official servers, please be aware that the Rate Limit anti-cheat system may cause compatibility issues with most mods, leading to unexpected in-game problems that wouldn't occur on modded regions. There's also a small chance the anti-cheat system could flag you.<br>
 If you experience any of these issues, feel free to submit a bug report through our Discord, and we'll do our best to resolve it.<br>
 Once Innersloth reactivates its Rate Limit anti-cheat, Rate Limit Bypasses will be automatically enforced.<br>
-Remember, this may cause unexpected issues on official servers, such as unhidden messages from guessers, delayed player name updates, packet loss resulting in missed updates, occasional black screens after meetings, and very slow loading times. If you continue to play with this option enabled, please be aware that the server may become unstable, and there is a slight chance of being flagged by the anti-cheat system. We will do our best to address these issues, but please understand that some may be beyond our control.<br>
+Remember, this may cause unexpected issues on official servers, such as unhidden messages from guessers, delayed player name updates, packet loss resulting in missed updates, occasional black screens after meetings, and very slow loading times. If you continue to play with this option enabled, please be aware that the server may become unstable, and there is a slight chance of being flagged by the anti-cheat system. We will do our best to address these issues, but please understand that some may be beyond our control.</b><br>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed all roles using the Unshift ability<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Retributionist and Nemesis can see roles by command, even when the setting is disabled<br>
@@ -47,7 +58,7 @@ Remember, this may cause unexpected issues on official servers, such as unhidden
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Beta 3</font></b></summary>
 
-We've received a definitive update from the developers at Innersloth regarding the Rate Limit anti-cheat measures.<br>
+<b>We've received a definitive update from the developers at Innersloth regarding the Rate Limit anti-cheat measures.<br>
 Innersloth has decided to temporarily relax these measures, with plans to reinstate them on April 4th. This will give modders ample time to adapt to the changes in the anti-cheat strategy. We're actively working with the team to ensure a smooth transition.<br>
 During this period, we'll be rolling out several test builds to assess the situation and prepare for the eventual reactivation of the anti-cheat measures.<br>
 Please keep in mind that, due to the limitations of the game protocol, we cannot guarantee a fully stable experience on official servers once the Rate Limit anti-cheat measures are reinstated.<br>
@@ -55,106 +66,106 @@ Innersloth recommends that modders who cannot adapt to these changes consider mo
 
 = <font color=#ece218><b>NOTICE</b></font>: When playing on InnerSloth official servers, please be aware that the Rate Limit anti-cheat system may cause compatibility issues with most mods, leading to unexpected in-game problems that wouldn't occur on modded regions. There's also a small chance the anti-cheat system could flag you.<br>
 If you experience any of these issues, feel free to submit a bug report through our Discord, and we'll do our best to resolve it.<br>
-Important changes by @Tommy-XL and @NikoCat233<br>
+Important changes by [TommyXL](https://github.com/Tommy-XL) and [Niko](https://github.com/NikoCat233)<br>
 You may experience slower loading times on official servers, missing chat messages, delayed player name updates, and occasional role assignment issues. For the best gaming experience, we recommend playing on modded regions like Niko's or Modded.<br>
 We've added an option to toggle Rate Limit Bypasses on or off in System Settings at the top.<br>
 By default, it’s enabled and will only work on official servers. Since Innersloth has temporarily eased its Rate Limit anti-cheat, you can safely disable it for a more stable experience on official servers. However, we’d greatly appreciate it if you could enable it and help us test its functionality.<br>
 
 = <font color=#ece218><b>NOTICE</b></font>: Once Innersloth reactivates its Rate Limit anti-cheat, Rate Limit Bypasses will be automatically enforced.<br>
-Remember, this may cause unexpected issues on official servers, such as unhidden messages from guessers, delayed player name updates, packet loss resulting in missed updates, occasional black screens after meetings, and very slow loading times. If you continue to play with this option enabled, please be aware that the server may become unstable, and there is a slight chance of being flagged by the anti-cheat system. We will do our best to address these issues, but please understand that some may be beyond our control.<br>
+Remember, this may cause unexpected issues on official servers, such as unhidden messages from guessers, delayed player name updates, packet loss resulting in missed updates, occasional black screens after meetings, and very slow loading times. If you continue to play with this option enabled, please be aware that the server may become unstable, and there is a slight chance of being flagged by the anti-cheat system. We will do our best to address these issues, but please understand that some may be beyond our control.</b><br>
 
-<b>Bug Fixes & Improvements</b>
-Improved Custom Net Object @NikoCat233<br>
-CNO now fully adheres to the rate limit anti-cheat<br>
-More Custom Buttons @PEPPERcula<br>
-18 images added or updated to the mod<br>
-Solsticer and Workaholic won't be Executioner's target @impostor4291 and @Tommy-XL<br>
-Fixed Shapeshift showing the original name for vanilla players @Tommy-XL<br>
-Solsticer can't be Bounty Hunter or Huntsman's target @Bri1101<br>
-Bounty Hunter and Huntsman can no longer target friendly team members (e.g., their lover or romantic partner)<br>
-Fixed CN_Template @Reborn5537<br>
-Madmate impostors can get the last impostor @impostor4291<br>
-Auto start added after a certain time on modded regions @NikoCat233<br>
-Fixed error ending the game when a player disconnects due to an error on modded regions @NikoCat233<br>
-Converted coven team members won't target coven teammates (e.g., BodyGuard) @MargaretTheFool<br>
-Delayed the check of the closest vent and serialized close vent @Tommy-XL<br>
-Fixed additional winners sometimes being missed from final winners @impostor4291<br>
+<b>Bug Fixes & Improvements</b><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Custom Net Object [Niko](https://github.com/NikoCat233)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: CNO now fully adheres to the rate limit anti-cheat<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: More Custom Buttons [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: 18 images added or updated to the mod<br>
+Solsticer and Workaholic won't be Executioner's target [ImpyIsLazy](https://github.com/impostor4291) and [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Shapeshift showing the original name for vanilla players [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Solsticer can't be Bounty Hunter or Huntsman's target [cosbri1101](https://github.com/Bri1101)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Bounty Hunter and Huntsman can no longer target friendly team members (e.g., their lover or romantic partner)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed CN_Template [Reborn5537](https://github.com/Reborn5537)<br>
+Madmate impostors can get the last impostor [ImpyIsLazy](https://github.com/impostor4291)<br>
+Auto start added after a certain time on modded regions [Niko](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed error ending the game when a player disconnects due to an error on modded regions [Niko](https://github.com/NikoCat233)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Converted coven team members won't target coven teammates (e.g., BodyGuard) [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Delayed the check of the closest vent and serialized close vent [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed additional winners sometimes being missed from final winners [ImpyIsLazy](https://github.com/impostor4291)<br>
 
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Beta 2</font></b></summary>
 
-Translations for other languages may be outdated or inaccurate<br>
+<b>Translations for other languages may be outdated or inaccurate<br>
 This is a beta build; there may be some unstable features; please feel free to provide feedback!
-InnerSloth has rolled out a server-side anti-cheating update that randomly kicks modded players on official servers. We have asked InnerSloth and expect a Slothly fix from them. If you don't want to be bothered, you can play on modded regions like Niko's or Official Modded. <br>
+InnerSloth has rolled out a server-side anti-cheating update that randomly kicks modded players on official servers. We have asked InnerSloth and expect a Slothly fix from them. If you don't want to be bothered, you can play on modded regions like Niko's or Official Modded.</b><br>
 
 <b>Major Changes</b><br>
-- Coven Roles are now back! @MargaretTheFool <br>
-  - You can find a detailed document by [clicking here](https://docs.google.com/document/d/1KaBjn6qk5NqUC7Ax7uQxXY1C9wsswWH__rBdzrZCd1I/edit?usp=sharing) until the [Website](https://tohe.weareten.ca/) is updated (PSA, it is updated as of Release 2.2.0)!<br>
-- New Tag System @MargaretTheFool and @NotPyro404 <br>
-  - You can now create a friendcode.txt file from Tag_Template.txt in TOHE-Data/Tags to assign tags and permissions to a player<br>
-- New chat spam system (enable in Mod Settings -> Guess Mode) @NikoCat233<br>
-  - It is much faster and more stable than previous spam<br>
-- Add option NonCrewRandomCommonTasks @NikoCat233 <br>
-  - Non-crew players can have random different common tasks apart from the crew
-  - Managed by options in mod settings<br>
-- /r role and /bt role now support multiple languages (enabled by mod settings/cross-language option) @NikoCat233 <br>
-- RemoveIncompatibleAddOns @MargaretTheFool & @Impostor4291 & @NikoCat233 & @Tommy-XL <br>
-  - When add-ons or roles are changed mid-game, the game will check whether existing add-ons are compatible with the new ones and remove the incompatible ones<br>
-  - Managed by options in add-on tabs<br>
-- Bring back the Old Option Shower (experimental) @NikoCat233<br>
+\+ <font color=green><b>NEW</b></font>: Coven Roles are now back! [Marg](https://github.com/MargaretTheFool) <br>
+<i>  - You can find a detailed document by [clicking here](https://docs.google.com/document/d/1KaBjn6qk5NqUC7Ax7uQxXY1C9wsswWH__rBdzrZCd1I/edit?usp=sharing) until the [Website](https://tohe.weareten.ca/) is updated (PSA, it is updated as of Release 2.2.0)!</i><br>
+\+ <font color=green><b>NEW</b></font>: Tag System [Marg](https://github.com/MargaretTheFool) and [Pyro](https://github.com/NotPyro404) <br>
+<i>  - You can now create a friendcode.txt file from Tag_Template.txt in TOHE-Data/Tags to assign tags and permissions to a player</i><br>
+\+ <font color=green><b>NEW</b></font>: chat spam system (enable in Mod Settings -> Guess Mode) [Niko](https://github.com/NikoCat233)<br>
+<i>  - It is much faster and more stable than previous spam</i><br>
+\+ <font color=green><b>NEW</b></font>: Add option NonCrewRandomCommonTasks [Niko](https://github.com/NikoCat233) <br>
+<i>  - Non-crew players can have random different common tasks apart from the crew</i><br>
+<i>  - Managed by options in mod settings</i><br>
+\+ <font color=green><b>NEW</b></font>: /r role and /bt role now support multiple languages (enabled by mod settings/cross-language option) [Niko](https://github.com/NikoCat233) <br>
+\+ <font color=green><b>NEW</b></font>: RemoveIncompatibleAddOns [Marg](https://github.com/MargaretTheFool) & [ImpyIsLazy](https://github.com/impostor4291) & [Niko](https://github.com/NikoCat233) & [TommyXL](https://github.com/Tommy-XL) <br>
+<i>  - When add-ons or roles are changed mid-game, the game will check whether existing add-ons are compatible with the new ones and remove the incompatible ones</i><br>
+<i>  - Managed by options in add-on tabs</i><br>
+\+ <font color=green><b>NEW</b></font>: Bring back the Old Option Shower (experimental) [Niko](https://github.com/NikoCat233)<br>
 
 <b>Bug Fixes</b><br>
-- Fixed an issue where a modded client Lawyer/Executioner may have tasks @NikoCat233<br>
-- Fixed a bug where the Mechanic was unable to open all doors on The Fungle @NikoCat233<br>
-- Fixed a bug where Godfather would work on dead players @MargaretTheFool <br>
-- Fixed a bug where Torch would be assigned an incorrect Vision Multiplier @impostor4291<br>
-- Fixed a bug where players were able to kill immediately after a meeting @Tommy-XL<br>
-- Fixed Overseer interactions with Trickstar and Illusionist @impostor4291<br>
-- Fix a bug where the Moon Dancer would cause null reference errors @NikoCat233<br>
-- Adjusted roles such as Jester, Jackal, and Sidekick to prevent them from getting ghost roles @Tommy-XL<br>
-- Fixed a bug where modded clients would play shield animations despite "Disable Shield Animations" being off @Tommy-XL<br>
-- Fixed a bug where Madmate Psychic would not see all Neutrals in red names @Bri1101<br>
-- Fixed a bug where the unshapeshifter would see the host shapeshifting into itself during meetings @NikoCat233<br>
-- Fixed a bug where the guesser was unable to guess roles instead of being unable to guess players based on their faction @impostor4291<br>
-- Fixed a bug where the Security Camera ran despite the player being exiled @Tommy-XL<br>
-- Fixed the "Free for All" mode, which was not working @Tommy-XL<br>
-- Fixed Mad/Recruit/Enchanted Amnesiac being able to report bodies after killing @Bri1101<br>
-- Fixed Jackal and Police Chief being able to recruit Neutral Apocalypse @Reborn5537<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed an issue where a modded client Lawyer/Executioner may have tasks [Niko](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed a bug where the Mechanic was unable to open all doors on The Fungle [Niko](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed a bug where Godfather would work on dead players [Marg](https://github.com/MargaretTheFool) <br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed a bug where Torch would be assigned an incorrect Vision Multiplier [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed a bug where players were able to kill immediately after a meeting [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Overseer interactions with Trickstar and Illusionist [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix a bug where the Moon Dancer would cause null reference errors [Niko](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Adjusted roles such as Jester, Jackal, and Sidekick to prevent them from getting ghost roles [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed a bug where modded clients would play shield animations despite "Disable Shield Animations" being off [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed a bug where Madmate Psychic would not see all Neutrals in red names [cosbri1101](https://github.com/Bri1101)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed a bug where the unshapeshifter would see the host shapeshifting into itself during meetings [Niko](https://github.com/NikoCat233)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed a bug where the guesser was unable to guess roles instead of being unable to guess players based on their faction [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed a bug where the Security Camera ran despite the player being exiled [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed the "Free for All" mode, which was not working [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Mad/Recruit/Enchanted Amnesiac being able to report bodies after killing [cosbri1101](https://github.com/Bri1101)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Jackal and Police Chief being able to recruit Neutral Apocalypse [Reborn5537](https://github.com/Reborn5537)<br>
 
 <b>Improvements</b><br>
-- New Option For Low Load: Delay Update Names @Tommy-XL<br>
-  - Previously, names for vanilla clients would update every second. This seemed unnecessary, so we added this option to only update names for vanilla when necessary<br>
-  - If you encounter any issues with name updates, turn off this option and send us a report or open an Issue!<br>
-- New option: Change first kill cool down @Tommy-XL<br>
-  - This means now you can decide whether to reset a killer's KCD to normal or set a shared KCD on game start<br>
-- Added new win Condition for Quizmaster @Bri1101<br>
-- Added more role fallbacks for Lawyer and Executioner when their target would die @Bri1101<br>
-- Added new Chief of Police (COP) Settings @Reborn5537<br>
-- New Option: Eraser can guess an Erased player<br>
-- New Jackal Recruit Options @laikrai<br>
-- Update some strings for consistency and error fixes @NikoCat233 & @PEPPERcula <br>
-- Add Some Crew Roles For Copycat @Tommy-XL<br>
-- Improve Godfather's add-on assignment @impostor4291<br>
-- Disperser, Escapist, Soul Catcher, Miner, Quick Shooter use unshapeshifter @impostor4291 & @Bri1101<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: New Option For Low Load: Delay Update Names [TommyXL](https://github.com/Tommy-XL)<br>
+<i>  - Previously, names for vanilla clients would update every second. This seemed unnecessary, so we added this option to only update names for vanilla when necessary</i><br>
+<i>  - If you encounter any issues with name updates, turn off this option and send us a report or open an Issue!</i><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: New option: Change first kill cool down [TommyXL](https://github.com/Tommy-XL)<br>
+<i>  - This means now you can decide whether to reset a killer's KCD to normal or set a shared KCD on game start</i><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added new win Condition for Quizmaster [cosbri1101](https://github.com/Bri1101)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added more role fallbacks for Lawyer and Executioner when their target would die [cosbri1101](https://github.com/Bri1101)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Added new Chief of Police (COP) Settings [Reborn5537](https://github.com/Reborn5537)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: New Option: Eraser can guess an Erased player<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: New Jackal Recruit Options [laikrai](https://github.com/laikrai)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Update some strings for consistency and error fixes [Niko](https://github.com/NikoCat233) & [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Add Some Crew Roles For Copycat [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Godfather's add-on assignment [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Disperser, Escapist, Soul Catcher, Miner, Quick Shooter use unshapeshifter [ImpyIsLazy](https://github.com/impostor4291) & [cosbri1101](https://github.com/Bri1101)<br>
 
 <b>Silent Tweaks:</b><br>
-- Send failed error on failed murder attempts @NikoCat233<br>
-- Improve code performance @Tommy-XL<br>
-- Improve AntiBlackout @Tommy-XL<br>
-- Repo is now set to use utf-8 crlf as encoding. @NikoCat233<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Send failed error on failed murder attempts [Niko](https://github.com/NikoCat233)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve code performance [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve AntiBlackout [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Repo is now set to use utf-8 crlf as encoding. [Niko](https://github.com/NikoCat233)<br>
 
 We are very sorry if we missed any contributions. Writing such a significant change log is challenging, but everyone's effort is appreciated!<br>
 
 <b>Update on Mod Progress & How You Can Help</b><br>
 
-Our mod updates are moving slower than we'd like because our small team has limited time to work on coding. Our top priority is keeping the mod stable and fixing any bugs so everyone can enjoy it without issues.<br>
+<i>Our mod updates are moving slower than we'd like because our small team has limited time to work on coding. Our top priority is keeping the mod stable and fixing any bugs so everyone can enjoy it without issues.<br>
 
 Volunteers from our community added new roles, features, and improvements, and we thank everyone who contributed! Please remember that these updates often take longer because they rely on volunteers' free time.<br>
 
 Want to help speed things up? We'd love to welcome new contributors! Whether you're comfortable polishing existing code, designing characters, or suggesting creative ideas, your help can make a big difference. No matter your skill level, there's room for you to join in and shape the mod's future.<br>
 
-We're grateful for your patience and support. Let's keep making this mod even better—together!<br>
+We're grateful for your patience and support. Let's keep making this mod even better—together!</i><br>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Beta 1</font></b></summary>
@@ -176,7 +187,7 @@ We're grateful for your patience and support. Let's keep making this mod even be
 \+ <font color=green><b>NEW</b></font>: Experimental Role: Shocker by [laikrai](https://github.com/laikrai)<br>
 \+ <font color=green><b>NEW</b></font>: Role AbyssBringer (ported from EHR)<br>
 \+ <font color=green><b>NEW</b></font>: Role Revenant by [LimeAU](https://github.com/Limeau)<br>
-\+ <font color=green><b>NEW</b></font>: Option: Dictator use /vote command to expel players @hinhinarrrrrr<br>
+\+ <font color=green><b>NEW</b></font>: Option: Dictator use /vote command to expel players [hinhinarrrrrr](https://github.com/hinhinarrrrrr)<br>
 \+ <font color=#12edaf><b>REWORK</b></font>: Deputy (Handcuffed players now have to use the kill button on others to break the handcuff)<br>
 \+ <font color=#12edaf><b>REWORK</b></font>: Baker's role block ability is reworked to reset kill cooldown by [Marg](https://github.com/MargaretTheFool) (Niko doubts whether it works)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Admired interactions for some roles by [ImpyIsLazy](https://github.com/impostor4291) (For example, admired time thief will now add meeting time, gangster and godfather are recruiting correctly (Hopefully, Niko didn't check the code carefully))<br>
@@ -227,16 +238,16 @@ We're grateful for your patience and support. Let's keep making this mod even be
 = <font color=#ece218><b>NOTICE</b></font>: We will focus on merging coven roles after this beta release
 = <font color=#ece218><b>NOTICE</b></font>: There may be some minor fixes for beta builds later<br><br>
 
-Thanks to @NikoCat233  @MargaretTheFool @PEPPERcula @ImpyIsLazy @Laikrai @Pietrodjaowjao @ApeMV @Bri1101 for making this Beta release possible
-Thanks to our translators for their hard work on bringing the mod to everyone
-Thanks to our testers and players for finding bugs and providing useful feedback
-Thanks to everyone that keeps supporting the mod and helps us move further forward!
+Thanks to [Niko](https://github.com/NikoCat233); [Marg](https://github.com/MargaretTheFool); [sussynba](https://github.com/PEPPERcula); [ImpyIsLazy](https://github.com/impostor4291); [laikrai](https://github.com/laikrai); [Pietro](https://github.com/Pietrodjaowjao); [ApeMV](https://github.com/ApeMV); & [cosbri1101](https://github.com/Bri1101) for making this Beta release possible<br>
+Thanks to our translators for their hard work on bringing the mod to everyone<br>
+Thanks to our testers and players for finding bugs and providing useful feedback<br>
+Thanks to everyone that keeps supporting the mod and helps us move further forward!<br>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Beta 3</font></b></summary>
 
 \+ <font color=green><b>NEW</b></font>: Modded players now will see changes in TOHE settings<br>
-\+ <font color=green><b>NEW</b></font>: Added custom "Timer" image for Mercenary, Bounty Hunter and Penguin (Thanks @that_one_missing_pixel (Pixel))<br>
+\+ <font color=green><b>NEW</b></font>: Added custom "Timer" image for Mercenary, Bounty Hunter and Penguin (Thanks [Pixel](https://github.com/WanderingPix))<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed (hopefully) the vanilla bug where players' outfits sometimes didn't change<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when player nicknames were updated during meeting as if it was during the game<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when some players got stuck in walls after meeting<br>
@@ -268,42 +279,42 @@ Thanks to everyone that keeps supporting the mod and helps us move further forwa
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Beta 1</font></b></summary>
 
-\+ <font color=green><b>NEW</b></font>: Sloth (Addon Harmful, Idea & Coded: Pyro) (mostly code borrowed from Flash)<br>
-\+ <font color=green><b>NEW</b></font>: Yin Yanger (Impostor Killing, idea & coded: Drakos)<br>
-\+ <font color=green><b>NEW</b></font>: Troller (Neutral Chaos, idea: dx7405, coded: TommyXL)<br>
-\+ <font color=green><b>NEW</b></font>: Altruist (Crewmate Support, ported: TOHR, coded: TommyXL)<br>
-\+ <font color=green><b>NEW</b></font>: Ventguard (Crewmate Support, ported: EHR, coded by: TommyXL)<br>
-\+ <font color=green><b>NEW</b></font>: Evader (Addon Helpful, idea: Lime, coded: TommyXL)<br>
-\+ <font color=green><b>NEW</b></font>: Rebirth (Addon Helpful, idea & coded: Drakos)<br>
+\+ <font color=green><b>NEW</b></font>: Sloth (Addon Harmful, Idea & Coded: [Pyro](https://github.com/NotPyro404)) (mostly code borrowed from Flash)<br>
+\+ <font color=green><b>NEW</b></font>: Yin Yanger (Impostor Killing, idea & coded: [Drakos](https://github.com/Ultradragon005))<br>
+\+ <font color=green><b>NEW</b></font>: Troller (Neutral Chaos, idea: dx7405, coded: [TommyXL](https://github.com/Tommy-XL))<br>
+\+ <font color=green><b>NEW</b></font>: Altruist (Crewmate Support, ported: TOHR, coded: [TommyXL](https://github.com/Tommy-XL))<br>
+\+ <font color=green><b>NEW</b></font>: Ventguard (Crewmate Support, ported: EHR, coded by: [TommyXL](https://github.com/Tommy-XL))<br>
+\+ <font color=green><b>NEW</b></font>: Evader (Addon Helpful, idea: Lime, coded: [TommyXL](https://github.com/Tommy-XL))<br>
+\+ <font color=green><b>NEW</b></font>: Rebirth (Addon Helpful, idea & coded: [Drakos](https://github.com/Ultradragon005))<br>
 \+ <font color=green><b>NEW</b></font>: Eavesdropper (Addon Helpful, idea by: Crosspost Del Slay, coded: TommyXL)<br>
 \+ <font color=green><b>NEW</b></font>: Spurt (Addon Helpful, idea by: .thediamondstar)<br>
-\+ <font color=green><b>NEW</b></font>: Prohibited (Addon Harmful, by: TommyXL)<br>
-\+ <font color=green><b>NEW</b></font>: New Neutral Team (Faction): Neutral Apocalypse (Can be sets min/max Neutral Apocalypse) (Coded by: Marg)<br>
-\+ <font color=green><b>NEW</b></font>: New role: Baker (Coded by: Marg)<br>
-\+ <font color=green><b>NEW</b></font>: Berserker and PlagueBearer now moved to Neutral Apocalypse (Reworked by: Marg)<br>
-\+ <font color=green><b>NEW</b></font>: Soul Collector reworked (Reworked by: Marg)<br>
-\+ <font color=green><b>NEW</b></font>: Added disabling use vent for vanilla (ported from MoreGamemodes, by TommyXL & NikoCat)<br>
+\+ <font color=green><b>NEW</b></font>: Prohibited (Addon Harmful, by: [TommyXL](https://github.com/Tommy-XL))<br>
+\+ <font color=green><b>NEW</b></font>: New Neutral Team (Faction): Neutral Apocalypse (Can be sets min/max Neutral Apocalypse) (Coded by: [Marg](https://github.com/MargaretTheFool))<br>
+\+ <font color=green><b>NEW</b></font>: New role: Baker (Coded by: [Marg](https://github.com/MargaretTheFool))<br>
+\+ <font color=green><b>NEW</b></font>: Berserker and PlagueBearer now moved to Neutral Apocalypse (Reworked by: [Marg](https://github.com/MargaretTheFool))<br>
+\+ <font color=green><b>NEW</b></font>: Soul Collector reworked (Reworked by: [Marg](https://github.com/MargaretTheFool))<br>
+\+ <font color=green><b>NEW</b></font>: Added disabling use vent for vanilla (ported from MoreGamemodes, by [TommyXL](https://github.com/Tommy-XL) & [Niko](https://github.com/NikoCat233))<br>
 \+ <font color=green><b>NEW</b></font>: When a player does not have access to vents, they will never be able to use it<br>
-\+ <font color=green><b>NEW</b></font>: More fixes for AntiBlackOut (By TommyXL & Drakos)(Note: This will not completely fix black screen issues, but the more players there are in the game, the less chance of black screen occurrences) (To do this, we use revives and base role changes during exile, so that dead players will be alive for a couple of seconds, but will become dead again)<br>
-\+ <font color=green><b>NEW</b></font>: Added support role basic changer mid-game (By TommyXL & Drakos)<br>
+\+ <font color=green><b>NEW</b></font>: More fixes for AntiBlackOut (By [TommyXL](https://github.com/Tommy-XL) & [Drakos](https://github.com/Ultradragon005))(Note: This will not completely fix black screen issues, but the more players there are in the game, the less chance of black screen occurrences) (To do this, we use revives and base role changes during exile, so that dead players will be alive for a couple of seconds, but will become dead again)<br>
+\+ <font color=green><b>NEW</b></font>: Added support role basic changer mid-game (By [TommyXL](https://github.com/Tommy-XL) & [Drakos](https://github.com/Ultradragon005))<br>
 \+ <font color=green><b>NEW</b></font>: CopyCat now support role basis changes<br>
-\+ <font color=green><b>NEW</b></font>: TextBoxPatch (Ported: EHR, coded: TommyXL) (Allows you to write any characters into the chat)<br>
-\+ <font color=green><b>NEW</b></font>: Added custom label ID for modded (Ported: EHR, coded: TommyXL)<br>
-\+ <font color=green><b>NEW</b></font>: Jester: "Can't Move In Vents" (Setting, coded: TommyXL)<br>
-\+ <font color=green><b>NEW</b></font>: Random spawn: Active On Round One (Setting, coded: TommyXL)<br>
+\+ <font color=green><b>NEW</b></font>: TextBoxPatch (Ported: EHR, coded: [TommyXL](https://github.com/Tommy-XL)) (Allows you to write any characters into the chat)<br>
+\+ <font color=green><b>NEW</b></font>: Added custom label ID for modded (Ported: EHR, coded: [TommyXL](https://github.com/Tommy-XL))<br>
+\+ <font color=green><b>NEW</b></font>: Jester: "Can't Move In Vents" (Setting, coded: [TommyXL](https://github.com/Tommy-XL))<br>
+\+ <font color=green><b>NEW</b></font>: Random spawn: Active On Round One (Setting, coded: [TommyXL](https://github.com/Tommy-XL))<br>
 \+ <font color=green><b>NEW</b></font>: Added warning message about enabled setting "No Game End"<br>
 \+ <font color=green><b>NEW</b></font>: Warning only host when he presses the start button<br>
-\+ <font color=green><b>NEW</b></font>: Disable Shapeshift menu for some Reject Shapeshift roles (By: Drakos) (For Pitfall, Bomber, Undertaker)<br>
-\+ <font color=green><b>NEW</b></font>: Return Ability Votes (By: Drakos) (For Cleanser, Eraser, Fortune teller, Keeper, Oracle, Godfather) (First Vote will cancel (Vote Skip) or use the ability, second is normal vote)<br>
-\+ <font color=green><b>NEW</b></font>: Added "/vote" command (By: Drakos)<br>
-\+ <font color=green><b>NEW</b></font>: Added role info in setting menu (By: Drakos)<br>
-\+ <font color=green><b>NEW</b></font>: Added search bar in settings (By: Drakos)<br>
-\+ <font color=green><b>NEW</b></font>: AddonBase (Port From EHR) (By: Drakos)<br>
+\+ <font color=green><b>NEW</b></font>: Disable Shapeshift menu for some Reject Shapeshift roles (By: [Drakos](https://github.com/Ultradragon005)) (For Pitfall, Bomber, Undertaker)<br>
+\+ <font color=green><b>NEW</b></font>: Return Ability Votes (By: [Drakos](https://github.com/Ultradragon005)) (For Cleanser, Eraser, Fortune teller, Keeper, Oracle, Godfather) (First Vote will cancel (Vote Skip) or use the ability, second is normal vote)<br>
+\+ <font color=green><b>NEW</b></font>: Added "/vote" command (By: [Drakos](https://github.com/Ultradragon005))<br>
+\+ <font color=green><b>NEW</b></font>: Added role info in setting menu (By: [Drakos](https://github.com/Ultradragon005))<br>
+\+ <font color=green><b>NEW</b></font>: Added search bar in settings (By: [Drakos](https://github.com/Ultradragon005))<br>
+\+ <font color=green><b>NEW</b></font>: AddonBase (Port From EHR) (By: [Drakos](https://github.com/Ultradragon005))<br>
 \+ <font color=green><b>NEW</b></font>: Settings are now sorted alphabetically<br>
-\+ <font color=green><b>NEW</b></font>: Changed warning message about the API (By: Drakos)<br>
-\+ <font color=green><b>NEW</b></font>: Jester: Reveal Upon Eject (Setting, by: TheDiamondStar)<br>
-\+ <font color=green><b>NEW</b></font>: Executioner: Reveal Target Upon Ejection (Setting, by: TheDiamondStar)<br>
-\+ <font color=green><b>NEW</b></font>: Judge: Max trials per game (Setting, by: hinhinarrrrrr)<br>
+\+ <font color=green><b>NEW</b></font>: Changed warning message about the API (By: [Drakos](https://github.com/Ultradragon005))<br>
+\+ <font color=green><b>NEW</b></font>: Jester: Reveal Upon Eject (Setting, by: [TheDiamondStar](https://github.com/this-dude-codes))<br>
+\+ <font color=green><b>NEW</b></font>: Executioner: Reveal Target Upon Ejection (Setting, by: [TheDiamondStar](https://github.com/this-dude-codes))<br>
+\+ <font color=green><b>NEW</b></font>: Judge: Max trials per game (Setting, by: [hinhinarrrrrr](https://github.com/hinhinarrrrrr))<br>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Phantom Desync: Phantom now plays the invisibility animation instead of teleporting to a random vent for desync roles.<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed issues with Veteran killing Taskinator, Killing Machine calling meetings, and the = <font color=#1376f0><b>BUG FIX</b></font>: Jailed message not showing during the game.<br>
@@ -862,7 +873,7 @@ Gangster and Admirer can no longer get the Egoist role.<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixes for Copycat turning into Retributionist and reverting back into Copycat<br>
 
 + By [**Drakos**](https://github.com/Ultradragon005)<br>
-\+ <font color=green><b>NEW</b></font>: Added new add-on: Statue (idea @spong)<br>
+\+ <font color=green><b>NEW</b></font>: Added new add-on: Statue (idea spong)<br>
 \+ <font color=green><b>NEW</b></font>: New function: Ghost Roles<br>
 \+ <font color=green><b>NEW</b></font>: New Ghost Roles: "Warden" for Crewmates, "Minion" for Impostors<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Retributionist & Nemesis (These roles are now moved in Ghost Roles) (Note: These roles will no longer be ghosts in future versions (1.7.0)) (Note 2.0: This is a heavy WIP, if you notice bugs, please report them!)<br>
@@ -1206,7 +1217,7 @@ v1.5.1 Beta 1(Pre-Release)
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix bug where roles that use vent to trigger power spawning in ehT dlekS<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Many other miscellaneous bug fixes and changes to improve code redability (This is done because vents do not work on ehT dlekS)<br>
 \+ <font color=green><b>NEW</b></font>: Returned Helpful Add-on: [Flash](/options/Addons/Helpful/Flash.html)<br>
-\+ <font color=green><b>NEW</b></font>: Support map dlekS ehT (Thanks sleepyut (@Galster-dev on github))<br>
+\+ <font color=green><b>NEW</b></font>: Support map dlekS ehT (Thanks sleepyut ([Galster-dev](https://github.com/Galster-dev) on github))<br>
 
 * By [**ryuk**](https://github.com/ryuk2098)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix bug necromancer kill animation shown twice<br>

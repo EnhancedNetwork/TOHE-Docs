@@ -2,6 +2,19 @@
 lang: en-US
 title: Frequently Asked Questions
 contributors: false
+sidebar:
+- { text: Welcome, link: /guides/Welcome.html}
+- { text: Installation, link: /guides/Installation.html}
+- { text: Setup, link: /guides/Setup.html}
+- { text: Updating, link: /guides/Updating.html}
+- { text: Features, link: /guides/Features.html}
+- { text: Presets, link: /guides/Presets.html}
+- { text: TOHE-Data, link: /guides/TOHEData.html}
+- { text: Templates, link: /guides/Templates.html}
+- { text: Tags, link: /guides/Tags.html}
+- { text: Gamemodes, link: /guides/Gamemodes.html}
+contributors: false
+---
 ---
 
 # <font color=#f0b6d5>Guide to Town of Host: Enhanced</font>

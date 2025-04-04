@@ -150,6 +150,13 @@ export default defineUserConfig({
             { text: 'All About Tags', link: '/guides/Templates.html' },
             { text: 'All About Gamemodes', link: '/guides/Templates.html' }
           ],
+          '/changelogs/': [
+            { text: 'Latest Changelogs', link: '/Changelogs.html' },
+            { text: 'Changelogs Tags', link: '/changelogs/Tags.html' },
+            { text: 'All Stable Changelogs', link: '/changelogs/Stable.html' },
+            { text: 'All Beta Changelogs', link: '/changelogs/Beta.html' },
+            { text: 'All Alpha Changelogs', link: '/changelogs/Alpha.html' }
+          ],
           '/options/Addons/Experimental/': [
             { text: 'Back to Addons', link: '/options/Settings/Addons.html' },
             { text: 'Glow', link: '/options/Addons/Experimental/Glow.html' },

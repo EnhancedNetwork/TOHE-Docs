@@ -1,13 +1,6 @@
 ---
 lang: en-US
 title: Changelogs
-sidebarDepth: 1
-sidebar:
-- { text: Latest Changelog, link: /Changelogs.html}
-- { text: Changelogs Tags, link: /changelogs/Tags.html}
-- { text: All Stable Changelogs, link: /changelogs/Stable.html}
-- { text: All Beta Changelogs, link: /changelogs/Beta.html}
-- { text: All Alpha Changelogs, link: /changelogs/Alpha.html}
 contributors: false
 ---
 

@@ -20,10 +20,16 @@ Town of Host: Enhanced is the #1 Host-Only mod for Among Us that allows hosts to
 
 <b>Over 300 New Roles:</b> Add unique roles or add-ons with special abilities that keep every match exciting and full of surprises. No two games are ever the same!<br>
 
+<b>3 Different Gamemodes:</b> TOHE offers various gamemodes such as, Standard Classic TOHE, Free For All, & Speedrun!<br>
+
 <b>Fully Customizable Lobbies:</b> Tailor your game settings with options like game modes, roles, tasks, win conditions, and more. Each lobby you create can offer a completely new experience.<br>
 
 <b>Seamless Compatibility:</b> Only the host needs to install the mod, so your friends can join without having to install anything themselves. It’s that easy!<br>
 
 <b>Endless Replayability:</b> Whether you're playing with a small group of friends or hosting a larger game, TOHE lets you fine-tune the experience, keeping the gameplay fresh, fun, and unpredictable every time.<br>
+
+<b>Crowded Built-In:</b> Want to increase the chaos? TOHE lets you play with more than 15 people as long as you are on Modded Regions! <br>
+
+<b>Worked on Actively:</b> TOHE is always being worked on, even if it seems slow! We're actively updating TOHE, as well as the Website that you are browsing right now!<br>
 
 ### Done? Let's Install Town of Host: Enhanced!

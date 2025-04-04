@@ -72,6 +72,25 @@ export default defineUserConfig({
           },
         ],
         sidebar: {
+          '/guides/': [
+            { text: 'Guide to TOHE', link: '/Guide.html' },
+            { text: 'Welcome to TOHE', link: '/guides/Welcome.html' },
+            {
+              text: 'Installing TOHE', link: '/guides/Installation.html', children: [
+                { text: 'Steam Installation', link: '/guides/install/Steam.html' },
+                { text: 'Epic Games Installation', link: '/guides/install/EpicGames.html' },
+                { text: 'Xbox App Installation', link: '/guides/install/XboxApp.html' },
+                { text: 'Thunderstore Installation', link: '/guides/install/Thunderstore.html' },
+                { text: 'Mod Manager Installation', link: '/guides/install/ModManager.html' }
+              ]
+            },
+            { text: 'Setting Up TOHE', link: '/guides/Setup.html' },
+            { text: 'Updating TOHE', link: '/guides/Updating.html' },
+            { text: 'Mod Features', link: '/guides/Features.html' },
+            { text: 'All About Presets', link: '/guides/Presets.html' },
+            { text: 'TOHE-Data Help', link: '/guides/TOHEData.html' },
+            { text: 'Templates Help', link: '/guides/Templates.html' }
+          ],
           '/options/Addons/Experimental/': [
             { text: 'Back to Addons', link: '/options/Settings/Addons.html' },
             { text: 'Glow', link: '/options/Addons/Experimental/Glow.html' },

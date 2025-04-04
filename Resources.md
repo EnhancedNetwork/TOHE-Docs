@@ -6,8 +6,73 @@ contributors: false
 
 # Helpful Resources
 
-Here are some Resources that may help you understand some things relating to the mod. Such as Mod Features, Customization, other Useful Guides/Information, & User Submitted Content.
+Here are some Resources that may assist you with things relating to TOHE, such as Useful Guides, Information, as well as Variables.
 
+<details>
+<summary><b><font color=gray>Valid Variables</font></b></summary>
+
+- `{{ModVersion}}` - Displays the current version of Town of Host: Enhanced.
+- `{{AmongUsVersion}}` - Displays the current Among Us version.
+- `{{InternalVersion}}` - Displays the source code plugin version.
+- `{{Date}}` - Displays the current date.
+- `{{Time}}` - Displays the current time.
+- `{{PlayerName}}` - Displays the readers username.
+- `{{HostName}}` - Displays the hosts username.
+- `{{RoomCode}}` - Displays the Room Code.
+- `{{Map}}` - Displays the Map that is going to be played.
+- `{{KillCooldown}}` - Displays the default Kill Cooldown set in your Among Us settings.
+- `{{NumCommonTasks}}` - Displays the amount of Common Tasks per player.
+- `{{NumLongTasks}}` - Displays the amount of Long Tasks per player.
+- `{{NumShortTasks}}` - Displays the amount of Short Tasks per player.
+- `{{NumEmergencyMeetings}}` - Displays the amount of meetings allowed per player.
+- `{{DiscussionTime}}` - Displays the time period where you can talk before voting.
+- `{{VotingTime}}` - Displays the time period where you vote.
+- `{{EmergencyCooldown}}` - Displays the cooldown before you can call a meeting.
+- `{{PlayerSpeedMod}}` - Displays the speed of players.
+- `{{CrewLightMod}}` - Displays the vision radius of a Crewmate.
+- `{{ImpostorLightMod}}` - Displays the vision radius of an Impostor.
+
+> From: The Enhanced Network + Compiling: NotPyro404
+</details>
+<details>
+<summary><b><font color=gray>Text Formatting</font></b></summary>
+
+- `<color=#[hex]>exampleText</color>` Changes the <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Color </span> of the text/font.
+- `<b>exampleText</b>` Enables <b>Bold</b> for the text/font.
+- `<s>exampleText</s>` Enables <s>Strikethrough</s> for the text/font.
+- `<u>exampleText</u>` Enables <u>Underline</u> for the text/font.
+- `<i>exampleText</i>` Enables <i>Italics</i> for the text/font.
+- `<mark>exampleText</mark>` Enables <mark>Highlight</mark> for the text/font.
+- `<sup>exampleText</sup>` Enables <sup>Superscript</sup> for the text/font.
+- `<sub>exampleText</sub>` Enables <sub>Subscript</sub> for the text/font.
+- `<size=[size][%]>exampleText</size>` Sets the <font size=2em>Size</font> of the text/font. (Can type exact text/font sizes or use percentages.)
+- `\n` Creates a New Line. (Such as `<br>` or <kbd>Return</kbd>/<kbd>Enter</kbd> would.)
+
+> From: The Enhanced Network + Compiling: NotPyro404
+</details>
+<details>
+<summary><b><font color=gray>Supported Rich Text Tags</font></b></summary>
+
+Here's a full list of Rich Text Tags that you can use for formatting. Some may not work, so keep that in mind. There is a `<font>` tag, that will not work with all fonts, it will only work with the Fonts covered in the next dropdown menu.
+[Link to List](https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.2/manual/RichTextSupportedTags.html)<br><br>
+
+> From: Unity Technologies
+</details>
+<details>
+<summary><b><font color=gray>Usable Fonts/Symbols</font></b></summary>
+
+Here's a Doc covering Fonts & Symbols that you can use while creating Templates! This Doc also shows some Sprites which are technically other Symbols, as well as some Icons and what exactly they mean when you see them!<br>
+[Link to Doc](https://docs.google.com/document/d/e/2PACX-1vQh4sc9RL_Byt3kextqngdaAuGovFO_YaxHITZsIKqcd39mUAc6sQ89sfsSRGZsHUCecfIQiDY2WtQ-/pub)<br><br>
+
+> From: Drakos
+</details>
+<details>
+<summary><b><font color=gray>Original Role Colors (Hex Codes)</font></b></summary>
+
+You can find the <i>original</i> Hex Codes of Town of Host: Enhanced Roles [Here](https://github.com/0xDrMoe/TownofHost-Enhanced/blob/main/Resources/roleColor.json).<br><br>
+
+> From: The Enhanced Network
+</details>
 <details>
 <summary><b><font color=gray>Icons: Explained</font></b></summary>
 

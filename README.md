@@ -10,11 +10,11 @@ actions:
   - text: Role Info
     link: /Roles.html
     type: secondary
-  - text: FAQ + Install
-    link: /FAQ.html
+  - text: TOHE Guide
+    link: /Guide.html
     type: primary
-  - text: Resources
-    link: /Resources.html
+  - text: FAQ
+    link: /FAQ.html
     type: secondary
 footer: "© 2023 By The Enhanced Network"
 ---

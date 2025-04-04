@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: Welcome to TOHE
+title: Introduction to TOHE
 prev: /Guide.html
 next: Installation
 contributors: false

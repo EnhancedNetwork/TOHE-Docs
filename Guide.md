@@ -50,4 +50,20 @@ If you are having connection issues, please refer to the FAQ as that covers Tech
 <td>All About Templates!</td>
 <td align="center">#8</td>
 </tr>
+<tr>
+<td><a href="/guides/Tags.html" style="color:#3dedac"><b>Tags</b></a></td>
+<td>All About Tags!</td>
+<td align="center">#9</td>
+</tr>
+<tr>
+<td><a href="/guides/Tags.html" style="color:#3dd6ed"><b>Gamemodes</b></a></td>
+<td>All About Gamemodes!</td>
+<td align="center">#10</td>
+</tr>
+</table>
+<table>
+<tr>
+<td><a href="/Troubleshooting.html" style="color:#f0b6d5"><b>Troubleshooting</b></a></td>
+<td>Running into issues?</td>
+</tr>
 </table>

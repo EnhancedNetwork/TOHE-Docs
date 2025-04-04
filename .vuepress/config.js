@@ -59,6 +59,59 @@ export default defineUserConfig({
             link: '/AboutUs.html',
           },
           {
+            text: 'Guide',
+            children: [
+              {
+                text: 'Guide to TOHE',
+                link: '/Guide.html',
+              },
+              {
+                text: 'Welcome',
+                link: '/guides/Welcome.html',
+              },
+              {
+                text: 'Installation',
+                link: '/guides/Installation.html',
+              },
+              {
+                text: 'Setup',
+                link: '/guides/Setup.html',
+              },
+              {
+                text: 'Updating',
+                link: '/guides/Updating.html',
+              },
+              {
+                text: 'Features',
+                link: '/guides/Features.html',
+              },
+              {
+                text: 'Presets',
+                link: '/guides/Presets.html',
+              },
+              {
+                text: 'TOHE-Data',
+                link: '/guides/TOHEData.html',
+              },
+              {
+                text: 'Templates',
+                link: '/guides/Templates.html',
+              },
+              {
+                text: 'Tags',
+                link: '/guides/Tags.html',
+              },
+              {
+                text: 'Gamemodes',
+                link: '/guides/Gamemodes.html',
+              },
+              {
+                text: 'Troubleshooting',
+                link: '/Troubleshooting.html',
+              },
+            ]
+          },
+          {
             text: 'FAQ',
             link: '/FAQ.html',
           },
@@ -69,6 +122,10 @@ export default defineUserConfig({
           {
             text: 'Resources',
             link: '/Resources.html',
+          },
+          {
+            text: 'User Submitted Content',
+            link: '/USC.html',
           },
         ],
         sidebar: {
@@ -86,10 +143,12 @@ export default defineUserConfig({
             },
             { text: 'Setting Up TOHE', link: '/guides/Setup.html' },
             { text: 'Updating TOHE', link: '/guides/Updating.html' },
-            { text: 'Mod Features', link: '/guides/Features.html' },
+            { text: 'Prime Features in TOHE', link: '/guides/Features.html' },
             { text: 'All About Presets', link: '/guides/Presets.html' },
-            { text: 'TOHE-Data Help', link: '/guides/TOHEData.html' },
-            { text: 'Templates Help', link: '/guides/Templates.html' }
+            { text: 'All About TOHE-Data', link: '/guides/TOHEData.html' },
+            { text: 'All About Templates', link: '/guides/Templates.html' },
+            { text: 'All About Tags', link: '/guides/Templates.html' },
+            { text: 'All About Gamemodes', link: '/guides/Templates.html' }
           ],
           '/options/Addons/Experimental/': [
             { text: 'Back to Addons', link: '/options/Settings/Addons.html' },

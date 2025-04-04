@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: TOHE Features
+title: Prime Features in TOHE
 prev: Updating
 next: Presets
 contributors: false
@@ -11,7 +11,7 @@ contributors: false
 Below are two of the main Features in TOHE<br>
 Hot-Keys + Chat Commands. These are important to know as Hot-Keys can assist for specific functions, and Commands are used for practically everything related to TOHE.
 
-## <font color=#f0b6d5>Section 1: Hot-Keys</font>
+## <font color=#f0b6d5><font color=#edac3d>Section 1:</font> Hot-Keys</font>
 
 Town of Host Enhanced offers players the ability to use hot-keys. Players can use these hot-keys to perform specific actions and enhance their TOHE experience.<br>
 
@@ -213,7 +213,7 @@ Below is a list of hot-keys designed to improve your gameplay and make your expe
 </details>
 </details>
 
-## <font color=#f0b6d5>Section 2: Commands</font>
+## <font color=#f0b6d5><font color=#edac3d>Section 2:</font> Commands</font>
 
 Town of Host Enhanced offers players the ability to use commands. Players can use these commands to perform specific actions and enhance their TOHE experience.<br>
 Below is a list of commands that you can use to enhance your experience while playing Town of Host: Enhanced. You can enter these commands in the chat box to perform specific actions.<br>

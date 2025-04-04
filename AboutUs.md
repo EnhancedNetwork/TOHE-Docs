@@ -44,13 +44,19 @@ I'm 25 years old from the United States. I am a bar certified attorney in contra
 
 I help in role and feature coding, and also help in fixing bugs from time to time. I love listening to music and coding. I usually prefer to code in python whether it may be for competitive coding or a small program. I also love playing action-adventure games with a good story line. <s>I actually coded my first role with 0 knowledge of C# because someone who shall not be named couldn't code Vulture.</s> xV and Solarflare helped me a lot initially in helping me code features and roles.
 
+### [ThisDude](#) - Translation Manager
+
+Born in the US, I am a 19 year old with a love for Minecraft and Among Us, particularly modded. I also occasionally attempt to draw digital art for fun. I’m a Translation Manager for The Enhanced Network, and I manage the Filipino, Korean, & Russian languages.
+
 ### [Sunnyboi](#) - Translation Manager/<font color=#bd0029><b>Japanese</b></font>/<font color=#ffc400><b>Spanish</b></font> Translator
 
 I helped with Japanese and Spanish translations for TOHE. I played Ultimate Frisbee and Soccer at University, and I love traveling, coding, gaming, art and music! 
+I'm a Translation Manager for The Enhanced Network, and I manage the Spanish, LATAM, Japanese, Brazilian, Simple Chinese, & Traditional Chinese languages.
 
 ### [.BerTram](https://linktr.ee/BerTram.at) - Translation Manager/<font color=#ffcf00><b>German</b></font> Translator
 
-I’m a German Translator from Austria, 20, and verified Master of watchmaking. My passion is professional translating, management, moderation and developing on Discord.
+I’m a German Translator from Austria, 21, and verified Master of watchmaking. My passion is professional translating, management, moderation and developing on Discord.<br>
+I’m a Translation Manager for The Enhanced Network, and I manage the German, Dutch, Italian, & French languages.
 
 ### [FieryFlower](#) - Sr. Moderator
 

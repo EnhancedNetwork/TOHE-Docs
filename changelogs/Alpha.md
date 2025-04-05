@@ -278,7 +278,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.2.0 Alpha 10</font></b></summary>
 
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Admired interactions for some roles (for example admired time thief will now add meeting time, gangster and godfather are recruiting correctly (Hopefully, I didnt check the code carefully)) (by [ImpyIsLazy](https://github.com/impostor4291))<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Double Agent now can kill when its the only imp alive (by [ImpyIsLazy](https://github.com/impostor4291))<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Double Agent now can kill when it's the only imp alive (by [ImpyIsLazy](https://github.com/impostor4291))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Baker's role block ability is reworked to reset kill cooldown [Marg](https://github.com/MargaretTheFool) (I doubt whether it works)<br>
 \+ <font color=#12edaf><b>REWORK</b></font>: Deputy (Handcuffed player now have to use kill button on others to break the handcuff)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Recoded Seeker (Fix seeker cause players unable to move in next game)<br>
@@ -433,7 +433,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed playerIdList related bugs (on change role mid game, copycat)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Probably fixed log spam on disconnecting from game<br>
 = <font color=#fdf08e><b>NOTE</b></font>: Modded Intro: Lover, Egoist > Madmate > Neutral, impostor > crewmate<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: MasterMind is still experimental, its experimental for a reason<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: MasterMind is still experimental, it's experimental for a reason<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: impostor count option reverted to 1 - 3, since changing the value range will always reset it to 3 and idk why<br>
 
 = <font color=#ece218><b>NOTICE</b></font>: This build is very experimental and following stuffs need yours help to test:<br>

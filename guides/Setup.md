@@ -8,7 +8,7 @@ contributors: false
 
 # <font color=#f0b6d5>Guide to Town of Host: Enhanced - <font color=#ed543d>Setting Up</font></font>
 
-Now that you’ve installed Town of Host: Enhanced, its time to set up your experience, so let's do that!<br>
+Now that you’ve installed Town of Host: Enhanced, it's time to set up your experience, so let's do that!<br>
 Don’t worry—this guide will walk you through every step, ensuring a smooth setup so you can jump straight into the action.
 
 ### <font color=#f0b6d5><font color=#ed543d>Step 1:</font> Set your Game Settings</font>

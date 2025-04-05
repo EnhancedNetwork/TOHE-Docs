@@ -434,7 +434,7 @@ Gangster and Admirer can no longer get the Egoist role.<br>
 \+ <font color=green><b>NEW</b></font>: Settings to prevent judging task-complete Snitch<br>
 \+ <font color=green><b>NEW</b></font>: Region Menu paging behavior (from TONX)<br>
 \+ <font color=green><b>NEW</b></font>: Added Server Name in ping tracker<br>
-\- <font color=red><b>REMOVED</b></font>: Guess obvious role limits for Councillor since its not a guesser<br>
+\- <font color=red><b>REMOVED</b></font>: Guess obvious role limits for Councillor since it's not a guesser<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Youtuber is alive (again)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Add medic shield and councillor no longer suicide for judging those with a shield<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Judge and Councillor now can not trial those protected by medic<br>

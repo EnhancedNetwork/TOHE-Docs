@@ -28,7 +28,7 @@ Screams from all over the area..
 
 Chapter 2 The Pot hole
 "Ugh!" I wondered where I was..
-Seems... Dirty (Yea its a Sewer Sherlock)
+Seems... Dirty (Yea it's a Sewer Sherlock)
 "Ow" He cried out in pain as his back of the head was bleeding
 "BLEEP" (Censored for not getting banned)
 "Hello there" Said a voice

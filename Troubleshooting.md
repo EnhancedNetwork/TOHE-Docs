@@ -119,7 +119,7 @@ There are a few possibilities
 
 2. You may need to enable more roles or allow more players to be the same role.
 
-3. You may come across this message: "There are incompatible roles in your role list, you may experience vanilla roles", which means you have a certain role & it's addon form enabled. (This should not occur anymore as of 1.2.1 Alpha 3)
+3. You may come across this message: "There are incompatible roles in your role list, you may experience vanilla roles", which means you have a certain role & its addon form enabled. (This should not occur anymore as of 1.2.1 Alpha 3)
 
 4. Eraser might've erased your role, resetting you to your base role (Impostor/Shapeshifter/Crewmate/Engineer/Scientist are all Base Roles (Base Role =/= Team/Role))
 

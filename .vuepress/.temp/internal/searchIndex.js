@@ -1,4 +1,4 @@
-export const SEARCH_INDEX = [
+export const searchIndex = [
   {
     "title": "About Our Team",
     "headers": [
@@ -2059,6 +2059,55 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
+    "title": "Harvester",
+    "headers": [],
+    "path": "/options/Coven/Utility/Harvester.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Medusa",
+    "headers": [],
+    "path": "/options/Coven/Utility/Medusa.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Moon Dancer",
+    "headers": [],
+    "path": "/options/Coven/Utility/MoonDancer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Necromancer",
+    "headers": [],
+    "path": "/options/Coven/Utility/Necromancer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Potion Master",
+    "headers": [],
+    "path": "/options/Coven/Utility/PotionMaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sacrifist",
+    "headers": [],
+    "path": "/options/Coven/Utility/Sacrifist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Voodoo Master",
+    "headers": [],
+    "path": "/options/Coven/Utility/VoodooMaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Addict",
     "headers": [],
     "path": "/options/Crewmates/Basic/Addict.html",
@@ -2153,55 +2202,6 @@ export const SEARCH_INDEX = [
     "title": "Transporter",
     "headers": [],
     "path": "/options/Crewmates/Basic/Transporter.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Harvester",
-    "headers": [],
-    "path": "/options/Coven/Utility/Harvester.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Medusa",
-    "headers": [],
-    "path": "/options/Coven/Utility/Medusa.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Moon Dancer",
-    "headers": [],
-    "path": "/options/Coven/Utility/MoonDancer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Necromancer",
-    "headers": [],
-    "path": "/options/Coven/Utility/Necromancer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Potion Master",
-    "headers": [],
-    "path": "/options/Coven/Utility/PotionMaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sacrifist",
-    "headers": [],
-    "path": "/options/Coven/Utility/Sacrifist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Voodoo Master",
-    "headers": [],
-    "path": "/options/Coven/Utility/VoodooMaster.html",
     "pathLocale": "/",
     "extraFields": []
   },

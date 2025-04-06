@@ -3,7 +3,7 @@
 <p>If you are a new host, or a player looking for a more relaxed experience, try the <b>Starter Presets</b> below. They're also great for veterans needing a break. Once you're familiar with roles and perks, explore <b>Advanced Presets</b> or dive into <b>Expert Presets</b> for more complex setups. You can also check out <i>User Submitted Presets</i>, organized by difficulty.</p>
 <p>For installation instructions, visit the <RouteLink to="/guides/Presets.html">Guide to Presets</RouteLink>.</p>
 <p>Feel free to experiment with roles that catch your interest and adjust them to your liking.</p>
-<p>Want to submit your preset? Join the <a href="https://discord.gg/ten" target="_blank" rel="noopener noreferrer">Discord Server</a>, go to <code v-pre>#website-feedback</code>, and post in the forum with the Preset tag.</p>
+<p>Want to submit your preset? Join the <a href="https://discord.gg/ten" target="_blank" rel="noopener noreferrer">Discord Server<ExternalLinkIcon/></a>, go to <code v-pre>#website-feedback</code>, and post in the forum with the Preset tag.</p>
 <p>Important Note: I'm not a preset expert, so any submissions with suggestions for new hosts are welcome!</p>
 <p><b><font color=#75ffc3>Starter</font></b>: Recommended for New Players.<br>
 <b><font color=#75b2ff>Advanced</font></b>: Recommended for Veteran Players.<br>

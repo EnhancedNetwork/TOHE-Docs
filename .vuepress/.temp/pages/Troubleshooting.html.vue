@@ -68,7 +68,7 @@ If your issue is not listed here, or nothing seems to work, join our <a href="di
 </details>
 <details>
 <summary><b><font color=gray>Why do I have a notice saying <font color=#996d6d>"Wrong Version of Among Us"</font> at the top of my screen?</font></b></summary>
-<p>Make sure you have updated your Among Us game files in your Modded Folder to the latest version. If you have the error afterwards, make sure you are not on any public betas (for Steam Users), or check the <a href="https://discord.com/channels/1094344790910455908/1096633728350040145" target="_blank" rel="noopener noreferrer">Notice Channel</a> in The Enhanced Network's <a href="https://discord.gg/ten" target="_blank" rel="noopener noreferrer">Discord</a>.</p>
+<p>Make sure you have updated your Among Us game files in your Modded Folder to the latest version. If you have the error afterwards, make sure you are not on any public betas (for Steam Users), or check the <a href="https://discord.com/channels/1094344790910455908/1096633728350040145" target="_blank" rel="noopener noreferrer">Notice Channel<ExternalLinkIcon/></a> in The Enhanced Network's <a href="https://discord.gg/ten" target="_blank" rel="noopener noreferrer">Discord<ExternalLinkIcon/></a>.</p>
 </details>
 <details>
 <summary><b><font color=gray>Why did I get a pop-up saying <font color=#996d6d>"You have been kicked by Among Us' official anti-cheat"</font>?</font></b></summary>

@@ -37,7 +37,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: EHR &amp; Coding: <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer">Drakos</a></p>
+<p>From: EHR &amp; Coding: <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer">Drakos<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

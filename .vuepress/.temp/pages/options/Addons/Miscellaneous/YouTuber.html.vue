@@ -14,7 +14,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: <a href="https://space.bilibili.com/1638639993" target="_blank" rel="noopener noreferrer">Night_瓜</a> &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM</a></p>
+<p>From: <a href="https://space.bilibili.com/1638639993" target="_blank" rel="noopener noreferrer">Night_瓜<ExternalLinkIcon/></a> &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

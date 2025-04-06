@@ -15,7 +15,7 @@ Only assigned to <font color=red>Impostors</font>.</p>
 </li>
 </ul>
 <blockquote>
-<p>Idea: <a href="#">Rudyrant</a> &amp; &quot;Coding&quot;: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">TheSkullCreeper</a></p>
+<p>Idea: <a href="#">Rudyrant</a> &amp; &quot;Coding&quot;: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">TheSkullCreeper<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

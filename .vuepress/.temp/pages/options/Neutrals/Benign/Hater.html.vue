@@ -35,7 +35,7 @@
 </li>
 </ul>
 <blockquote>
-<p>Idea: [thewhiskas27] &amp; Coding: <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">NikoCat233</a> (Originally From: SNR &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM</a>)</p>
+<p>Idea: [thewhiskas27] &amp; Coding: <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">NikoCat233<ExternalLinkIcon/></a> (Originally From: SNR &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a>)</p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

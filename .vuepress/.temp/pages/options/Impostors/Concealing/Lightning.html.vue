@@ -27,7 +27,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: <a href="https://space.bilibili.com/1677307793" target="_blank" rel="noopener noreferrer">提米SaMa-</a> &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM</a></p>
+<p>From: <a href="https://space.bilibili.com/1677307793" target="_blank" rel="noopener noreferrer">提米SaMa-<ExternalLinkIcon/></a> &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

@@ -14,7 +14,7 @@
 </li>
 </ul>
 <blockquote>
-<p>Idea: <a href="#">thewhiskas27</a> &amp; Coding: <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer">ryuk</a></p>
+<p>Idea: <a href="#">thewhiskas27</a> &amp; Coding: <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer">ryuk<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

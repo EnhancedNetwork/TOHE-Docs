@@ -8,7 +8,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: <a href="https://space.bilibili.com/511107305" target="_blank" rel="noopener noreferrer">法师</a> &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM</a></p>
+<p>From: <a href="https://space.bilibili.com/511107305" target="_blank" rel="noopener noreferrer">法师<ExternalLinkIcon/></a> &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

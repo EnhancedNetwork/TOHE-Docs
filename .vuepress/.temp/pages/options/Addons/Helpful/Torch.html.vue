@@ -18,12 +18,11 @@
 </ul>
 </li>
 </ul>
-<div class="hint-container tip">
-<p class="hint-container-title">Fun Fact</p>
+<div class="custom-container tip"><p class="custom-container-title">Fun Fact</p>
 <p>Torch was originally called &quot;Lighter&quot; in Build 3.0.0 Alpha 1 and was renamed to &quot;Torch&quot; in Build 3.0.0 Alpha 2!</p>
 </div>
 <blockquote>
-<p>From: TOH &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM</a></p>
+<p>From: TOH &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

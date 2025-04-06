@@ -19,7 +19,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: <a href="https://space.bilibili.com/511107305" target="_blank" rel="noopener noreferrer">法师</a> &amp; Coding: <a href="https://github.com/NCSIMON" target="_blank" rel="noopener noreferrer">NCSIMON</a></p>
+<p>From: <a href="https://space.bilibili.com/511107305" target="_blank" rel="noopener noreferrer">法师<ExternalLinkIcon/></a> &amp; Coding: <a href="https://github.com/NCSIMON" target="_blank" rel="noopener noreferrer">NCSIMON<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

@@ -47,7 +47,7 @@ Note that your skill and vote icon still functions on the player you voted at fi
 </li>
 </ul>
 <blockquote>
-<p>Idea: <a href="#">spong</a> &amp; Coding: <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">NikoCat223</a></p>
+<p>Idea: <a href="#">spong</a> &amp; Coding: <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">NikoCat223<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

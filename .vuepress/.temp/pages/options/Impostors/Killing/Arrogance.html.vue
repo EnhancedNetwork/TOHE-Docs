@@ -29,7 +29,7 @@
 <p><RouteLink to="/options/Impostors/Killing/Bard.html"><font color="red">Bard</font></RouteLink></p>
 </center>
 <blockquote>
-<p>From: TOU &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM</a>、<a href="https://github.com/Huier-Huang" target="_blank" rel="noopener noreferrer">天寸梦初</a></p>
+<p>From: TOU &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a>、<a href="https://github.com/Huier-Huang" target="_blank" rel="noopener noreferrer">天寸梦初<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

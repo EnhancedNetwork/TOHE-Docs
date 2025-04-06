@@ -35,7 +35,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: TOHR &amp; Coding: <a href="https://github.com/TommyXL" target="_blank" rel="noopener noreferrer">TommyXL</a></p>
+<p>From: TOHR &amp; Coding: <a href="https://github.com/TommyXL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

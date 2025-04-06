@@ -477,8 +477,8 @@
 <li>Default</li>
 <li>.NET System Random</li>
 <li>HashRandom</li>
-<li><a href="https://www.programmingalgorithms.com/algorithm/xor-shift/" target="_blank" rel="noopener noreferrer">Xorshift</a></li>
-<li><a href="https://www.programmingalgorithms.com/algorithm/mersenne-twister/" target="_blank" rel="noopener noreferrer">MersenneTwister</a></li>
+<li><a href="https://www.programmingalgorithms.com/algorithm/xor-shift/" target="_blank" rel="noopener noreferrer">Xorshift<ExternalLinkIcon/></a></li>
+<li><a href="https://www.programmingalgorithms.com/algorithm/mersenne-twister/" target="_blank" rel="noopener noreferrer">MersenneTwister<ExternalLinkIcon/></a></li>
 </ul>
 </li>
 </ul>

@@ -17,5 +17,5 @@ User Submitted Content consists of:
 3. <font color=#f0b6d5>More to come:</font> We currently only have Translations + Presets, no real clue what else we'd have though!
 
 <center>
-<a href="/usc/Presets.html" target="_blank"><img src="https://img.shields.io/badge/Presets-E4405F?style=for-the-badge&logo=reacthookform&logoColor=black&color=ebd326"/></a>&nbsp; <a href="/usc/Translations.html" target="_blank"><img src="https://img.shields.io/badge/Translations-E4405F?style=for-the-badge&logo=quip&logoColor=white&color=142cd9"/></a>&nbsp;
+<a href="/usc/Presets.html"><img src="https://img.shields.io/badge/Presets-E4405F?style=for-the-badge&logo=reacthookform&logoColor=black&color=ebd326"/></a>&nbsp; <a href="/usc/Translations.html"><img src="https://img.shields.io/badge/Translations-E4405F?style=for-the-badge&logo=quip&logoColor=white&color=142cd9"/></a>&nbsp;
 </center>

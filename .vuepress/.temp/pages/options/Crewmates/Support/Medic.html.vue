@@ -60,12 +60,11 @@ Depending on the host's settings, the Medic or the target can see if the player 
 </ul>
 </li>
 </ul>
-<div class="hint-container tip">
-<p class="hint-container-title">Did You Know?</p>
-<p>Medic was reworked as of 2.5.1_1, previously it was based on <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM</a>'s code, but now it's based on Town of Us Reactivated</p>
+<div class="custom-container tip"><p class="custom-container-title">Did You Know?</p>
+<p>Medic was reworked as of 2.5.1_1, previously it was based on <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a>'s code, but now it's based on Town of Us Reactivated</p>
 </div>
 <blockquote>
-<p>From: ToUR &amp; Coding: <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">Tommy-XL</a></p>
+<p>From: ToUR &amp; Coding: <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">Tommy-XL<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

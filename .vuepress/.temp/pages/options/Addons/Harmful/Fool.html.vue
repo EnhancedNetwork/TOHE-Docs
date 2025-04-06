@@ -46,7 +46,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: TOHY &amp; Coding: <a href="https://github.com/NCSIMON" target="_blank" rel="noopener noreferrer">NCSIMON</a>、<a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM</a></p>
+<p>From: TOHY &amp; Coding: <a href="https://github.com/NCSIMON" target="_blank" rel="noopener noreferrer">NCSIMON<ExternalLinkIcon/></a>、<a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

@@ -15,7 +15,7 @@ Only assigned to <font color=#8cffff>Crewmates</font> that have an <font color=r
 </li>
 </ul>
 <blockquote>
-<p>From: &quot;Idea &amp; Coding&quot;: <a href="https://github.com/Loonie-Toons/" target="_blank" rel="noopener noreferrer">TheSkullCreeper</a></p>
+<p>From: &quot;Idea &amp; Coding&quot;: <a href="https://github.com/Loonie-Toons/" target="_blank" rel="noopener noreferrer">TheSkullCreeper<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

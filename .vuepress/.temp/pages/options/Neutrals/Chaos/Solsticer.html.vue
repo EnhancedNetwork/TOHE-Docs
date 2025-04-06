@@ -73,7 +73,7 @@ The killer's kill cooldown will be reset to 10 seconds.</p>
 </li>
 </ul>
 <blockquote>
-<p>Idea &amp; Coding: <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">NikoCat233</a></p>
+<p>Idea &amp; Coding: <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">NikoCat233<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

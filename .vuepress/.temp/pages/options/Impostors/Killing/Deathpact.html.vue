@@ -68,7 +68,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: Idea &amp; Coding: <a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer">papercut</a></p>
+<p>From: Idea &amp; Coding: <a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer">papercut<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

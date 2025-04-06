@@ -42,7 +42,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: TOHR &amp; Coding: <a href="https://github.com/NCSIMON" target="_blank" rel="noopener noreferrer">NCSIMON</a></p>
+<p>From: TOHR &amp; Coding: <a href="https://github.com/NCSIMON" target="_blank" rel="noopener noreferrer">NCSIMON<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

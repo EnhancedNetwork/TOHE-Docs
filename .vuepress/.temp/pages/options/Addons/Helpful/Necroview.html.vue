@@ -50,7 +50,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: TOH+ &amp; &quot;Coding&quot;: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">TheSkullCreeper</a></p>
+<p>From: TOH+ &amp; &quot;Coding&quot;: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">TheSkullCreeper<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

@@ -49,7 +49,7 @@
 <details>
 <summary><b><font color=gray>Supported Rich Text Tags</font></b></summary>
 <p>Here's a full list of Rich Text Tags that you can use for formatting. Some may not work, so keep that in mind. There is a <code v-pre>&lt;font&gt;</code> tag, that will not work with all fonts, it will only work with the Fonts covered in the next dropdown menu.
-<a href="https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.2/manual/RichTextSupportedTags.html" target="_blank" rel="noopener noreferrer">Link to List</a><br><br></p>
+<a href="https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.2/manual/RichTextSupportedTags.html" target="_blank" rel="noopener noreferrer">Link to List<ExternalLinkIcon/></a><br><br></p>
 <blockquote>
 <p>From: Unity Technologies</p>
 </blockquote>
@@ -57,14 +57,14 @@
 <details>
 <summary><b><font color=gray>Usable Fonts/Symbols</font></b></summary>
 <p>Here's a Doc covering Fonts &amp; Symbols that you can use while creating Templates! This Doc also shows some Sprites which are technically other Symbols, as well as some Icons and what exactly they mean when you see them!<br>
-<a href="https://docs.google.com/document/d/e/2PACX-1vQh4sc9RL_Byt3kextqngdaAuGovFO_YaxHITZsIKqcd39mUAc6sQ89sfsSRGZsHUCecfIQiDY2WtQ-/pub" target="_blank" rel="noopener noreferrer">Link to Doc</a><br><br></p>
+<a href="https://docs.google.com/document/d/e/2PACX-1vQh4sc9RL_Byt3kextqngdaAuGovFO_YaxHITZsIKqcd39mUAc6sQ89sfsSRGZsHUCecfIQiDY2WtQ-/pub" target="_blank" rel="noopener noreferrer">Link to Doc<ExternalLinkIcon/></a><br><br></p>
 <blockquote>
 <p>From: Drakos</p>
 </blockquote>
 </details>
 <details>
 <summary><b><font color=gray>Original Role Colors (Hex Codes)</font></b></summary>
-<p>You can find the <i>original</i> Hex Codes of Town of Host: Enhanced Roles <a href="https://github.com/0xDrMoe/TownofHost-Enhanced/blob/main/Resources/roleColor.json" target="_blank" rel="noopener noreferrer">Here</a>.<br><br></p>
+<p>You can find the <i>original</i> Hex Codes of Town of Host: Enhanced Roles <a href="https://github.com/0xDrMoe/TownofHost-Enhanced/blob/main/Resources/roleColor.json" target="_blank" rel="noopener noreferrer">Here<ExternalLinkIcon/></a>.<br><br></p>
 <blockquote>
 <p>From: The Enhanced Network</p>
 </blockquote>
@@ -648,7 +648,7 @@ Tricky, Susceptible, &amp; Illusionist will never give this death reason.<br></p
 Tricky, Susceptible, &amp; Illusionist will never give this death reason, but that should be obvious.<br></p>
 </details>
 <blockquote>
-<p>From: <a href="https://docs.google.com/document/d/e/2PACX-1vTD5Qn3DchoADfPjxH1j11wfXzp3Is9GAMYnZYt5RePbM7OS_Iz4mNWgigQvN3rkFHh_QVfBguhV0rb/pub" target="_blank" rel="noopener noreferrer">Marg</a> + Compiling: NotPyro404</p>
+<p>From: <a href="https://docs.google.com/document/d/e/2PACX-1vTD5Qn3DchoADfPjxH1j11wfXzp3Is9GAMYnZYt5RePbM7OS_Iz4mNWgigQvN3rkFHh_QVfBguhV0rb/pub" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a> + Compiling: NotPyro404</p>
 </blockquote>
 </details>
 <details>

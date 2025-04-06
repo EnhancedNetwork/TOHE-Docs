@@ -4,7 +4,7 @@ You can also download custom translations shared by others. If you want to use a
 NOTE: english.dat is only if you are on the English Translation of base game Among Us. If you are using another Translation, please rename the english part to the translation you are using. (ie: <code v-pre>Spanish.dat/SChinese.dat/Latam.dat</code>/so on.)
 A list of all base game supported translations can be found on the <RouteLink to="/usc/Resources.html">Resources</RouteLink> Page.</p>
 <p>Note: You have to put the file in the following directory: <code v-pre>.\Among Us\Language</code> for it to work. (Make sure your file is a <code v-pre>.dat</code> file, otherwise it will not work. Paste it alongside the <code v-pre>template.dat</code> file already in your folder.)</p>
-<p>You can submit your own translation to be featured by joining the <a href="https://discord.gg/ten" target="_blank" rel="noopener noreferrer">Discord Server</a>, heading to <code v-pre>#website-feedback</code>, and creating a forum post with the Translation tag.</p>
+<p>You can submit your own translation to be featured by joining the <a href="https://discord.gg/ten" target="_blank" rel="noopener noreferrer">Discord Server<ExternalLinkIcon/></a>, heading to <code v-pre>#website-feedback</code>, and creating a forum post with the Translation tag.</p>
 <p><b><font color=#75ffc3>Official </font></b>: Official Translations from Events + Partners.<br>
 <b><font color=#75b2ff>Translation</font></b>: Translations to Languages that Vanilla Among Us currently doesn't support.<br>
 <b><font color=#a175ff>Other</font></b>: Joke Translations + Personal Translations.</p>

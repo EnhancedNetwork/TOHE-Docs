@@ -72,7 +72,7 @@ You can see the player's id before the player's name, or use the <code v-pre>/id
 </li>
 </ul>
 <blockquote>
-<p>From: TheOtherRoles, Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM</a></p>
+<p>From: TheOtherRoles, Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

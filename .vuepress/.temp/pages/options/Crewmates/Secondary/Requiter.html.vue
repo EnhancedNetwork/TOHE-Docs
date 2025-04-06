@@ -13,7 +13,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: Idea &amp; Coding: <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a></p>
+<p>From: Idea &amp; Coding: <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

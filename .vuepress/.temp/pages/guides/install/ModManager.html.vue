@@ -1,7 +1,7 @@
 <template><div><h1 id="installation-guide-to-tohe-on-mod-manager" tabindex="-1"><a class="header-anchor" href="#installation-guide-to-tohe-on-mod-manager"><span><font color=#f0b6d5>Installation Guide to TOHE on: <font color=#3004fc>Mod Manager</font></font></span></a></h1>
 <p>(Hey! Mod Manager is <i>currently</i> out of commission at this point in time. Sorry for the inconvenience.)</p>
 <h3 id="step-1-download-and-install-mod-manager" tabindex="-1"><a class="header-anchor" href="#step-1-download-and-install-mod-manager"><span><font color=#f0b6d5><font color=#3004fc>Step 1:</font> Download and Install Mod Manager</font></span></a></h3>
-<p>Download the <a href="https://goodloss.fr/mm/" target="_blank" rel="noopener noreferrer">Mod Manager 7</a> installer.
+<p>Download the <a href="https://goodloss.fr/mm/" target="_blank" rel="noopener noreferrer">Mod Manager 7<ExternalLinkIcon/></a> installer.
 Once the download is complete, open the installer and click <i>install</i>. You can change the destination if you want, but that's not required. Once Mod Manager is installed, close the installer (delete it if you'd like) and open Mod Manager (There should be an icon on your desktop, if not then check around in AppData).</p>
 <h3 id="step-2-verify-among-us-installation" tabindex="-1"><a class="header-anchor" href="#step-2-verify-among-us-installation"><span><font color=#f0b6d5><font color=#3004fc>Step 2:</font> Verify Among Us Installation</font></span></a></h3>
 <p>Notice: If you get a notification like this upon opening Mod Manager, re-install Among Us fully.<br>

@@ -39,7 +39,7 @@ Cannot be assigned to <font color=#7f8c8d>Neutrals</font>.</p>
 </li>
 </ul>
 <blockquote>
-<p>Idea: <a href="#">beep6604</a> &amp; Coding: <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">Tommy-XL</a></p>
+<p>Idea: <a href="#">beep6604</a> &amp; Coding: <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">Tommy-XL<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

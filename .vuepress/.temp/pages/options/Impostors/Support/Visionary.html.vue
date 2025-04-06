@@ -12,12 +12,11 @@ The following info will be displayed on the player:<br>
 </ul>
 </li>
 </ul>
-<div class="hint-container caution">
-<p class="hint-container-title">Fun Fact</p>
+<div class="custom-container danger"><p class="custom-container-title">Fun Fact</p>
 <p>Visionary was originally called Parasight and was an Add-on for Impostors.</p>
 </div>
 <blockquote>
-<p>From: &quot;Idea &amp; Coding&quot;: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">TheSkullCreeper</a></p>
+<p>From: &quot;Idea &amp; Coding&quot;: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">TheSkullCreeper<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

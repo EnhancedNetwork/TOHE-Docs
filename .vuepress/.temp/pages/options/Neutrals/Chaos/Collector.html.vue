@@ -14,7 +14,7 @@
 </li>
 </ul>
 <blockquote>
-<p>Idea &amp; Coding: <a href="https://github.com/NCSIMON" target="_blank" rel="noopener noreferrer">NCSIMON</a></p>
+<p>Idea &amp; Coding: <a href="https://github.com/NCSIMON" target="_blank" rel="noopener noreferrer">NCSIMON<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

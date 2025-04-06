@@ -1,5 +1,5 @@
 <template><div><h2 id="all-alpha-releases-changelogs" tabindex="-1"><a class="header-anchor" href="#all-alpha-releases-changelogs"><span><font color=#f0b6d5>All Alpha Releases/Changelogs:</font></span></a></h2>
-<p>To access Alpha Builds, become a Sponsor on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website</a> (at least Insider), <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank" rel="noopener noreferrer">Contribute</a> to the Mod, or become a <a href="#">Tester</a> (Content Creator with your Town of Host: Enhanced videos having 600+ views on average).</p>
+<p>To access Alpha Builds, become a Sponsor on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website<ExternalLinkIcon/></a> (at least Insider), <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank" rel="noopener noreferrer">Contribute<ExternalLinkIcon/></a> to the Mod, or become a <a href="#">Tester</a> (Content Creator with your Town of Host: Enhanced videos having 600+ views on average).</p>
 <p><b><font color=#cf4e8f>Latest Release</font></b><br>
 <b><font color=#d395b4>Previous Releases</font></b><br>
 <b><font color=#a175ff>Coven Releases</font></b></p>
@@ -10,7 +10,7 @@
 <p><b>For a more Stable experience, please use v2.2.1 Beta 1</b><br></p>
 <p>= <font color=#1376f0><b>BUG FIX</b></font>: Fixed AntiBlackout related issues<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed enable chat button for non standard gamemodes<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent Requiter from killing TNA <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent Requiter from killing TNA <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a><br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Players randomly get 300 kcd<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Dead players can see exiled player's name as exiled message<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Player role basis not correctly assigned in game<br></p>
@@ -18,19 +18,19 @@
 <details>
 <summary><b><font color=#d395b4>v2.3.0 Alpha 5</font></b></summary>
 <p><b>This build is based on Alpha Release 2.3.0a4. It has features in latest alpha builds.</b><br></p>
-<p>+ <font color=green><b>NEW</b></font>: Update to Among Us 16.0.0 <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a> + <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">Niko</a><br>
-+ <font color=green><b>NEW</b></font>: Add and modify some custom sounds for roles <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
+<p>+ <font color=green><b>NEW</b></font>: Update to Among Us 16.0.0 <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a> + <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">Niko<ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Add and modify some custom sounds for roles <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix non host players not seeing exile message<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: More Packet size fixes and serialize fix<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix missing &quot;OnRemove&quot;s in Romantic's code <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a><br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Crewpostor (Crewpostor tasks are changed to short tasks when it get LastImpostor, tasks reset after meetings) <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a><br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Copycat becomes Requiter for copying instigator <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix typo of Requiter option &quot;RequiterCanKillTNA&quot; <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a><br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Baker Can Give Bread Again If Breaded Player Dies <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg</a><br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Combine Legacy Version string into 1 string <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix missing &quot;OnRemove&quot;s in Romantic's code <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Crewpostor (Crewpostor tasks are changed to short tasks when it get LastImpostor, tasks reset after meetings) <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Copycat becomes Requiter for copying instigator <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix typo of Requiter option &quot;RequiterCanKillTNA&quot; <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Baker Can Give Bread Again If Breaded Player Dies <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a><br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Combine Legacy Version string into 1 string <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Remove duplicated SpawnOneRandomKillingFraction<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Always remove disconnect penalty<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: TOHE won't load if it is installed together with other popular mods <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg</a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: TOHE won't load if it is installed together with other popular mods <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a><br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Antiblackout maybe buggy for non host players. Report bugs in discord channel<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Chat buttons for non-standard gamemodes is disabled due to AntiBlackout issues<br></p>
 </details>
@@ -62,17 +62,17 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.3.0 Alpha 4</font></b></summary>
-<p>+ <font color=green><b>NEW</b></font>: Coven Role: Harvester <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg</a><br>
-+ <font color=green><b>NEW</b></font>: Role: Requiter (Knight Hidden Role) <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a><br>
-+ <font color=green><b>NEW</b></font>: Add sounds for some roles venting <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
-+ <font color=green><b>NEW</b></font>: Neutrals have their own reveal screen option <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
+<p>+ <font color=green><b>NEW</b></font>: Coven Role: Harvester <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Role: Requiter (Knight Hidden Role) <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Add sounds for some roles venting <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Neutrals have their own reveal screen option <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Wrap AntiBlackout setroles to same message (Experimental, may have bugs regarding blackout)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Dictator setting typo <a href="#">WaterPanda</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix incorrect tabgroup for option &quot;SeeEjectedRolesInMeeting&quot; and &quot;ShowBetrayalAddonsOnEject&quot; <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix incorrect tabgroup for option &quot;SeeEjectedRolesInMeeting&quot; and &quot;ShowBetrayalAddonsOnEject&quot; <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix gamemanager serialize<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Transporter/Troller teleporting Blasted players fix <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg</a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Transporter/Troller teleporting Blasted players fix <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Prevent vent while antiblackout is active<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Runner can see other players roles and status in Speedrun <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Runner can see other players roles and status in Speedrun <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent KillingMachine from getting mare<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix chiefofpolice recruit settings not working<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Change quizmaster mark due to regex failure in Notify Roles<br>
@@ -83,12 +83,12 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.3.0 Alpha 3</font></b></summary>
 <p>= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent GameMaster from getting addons<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Abyssbringer can't consume Impostors option + Black Hole fixes and changes <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Abyssbringer can't consume Impostors option + Black Hole fixes and changes <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix player tags not syncing in lobby<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Some Coven Improvements (Conjurer gets two new settings: Kill Cooldown and Reset Targets After Meetings. Also now all ghosts can see coven icons) <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg</a><br>
-+ <font color=#12edaf><b>REWORK</b></font>: Coven Leader rework (Check pr#1521 (https://github.com/EnhancedNetwork/TownofHost-Enhanced/issues/1521)) <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg</a><br>
-+ <font color=green><b>NEW</b></font>: Role Dreamweaver (Coven Trickery) <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg</a><br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Add option show chat in game for ffa <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some Coven Improvements (Conjurer gets two new settings: Kill Cooldown and Reset Targets After Meetings. Also now all ghosts can see coven icons) <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a><br>
++ <font color=#12edaf><b>REWORK</b></font>: Coven Leader rework (Check pr#1521 (https://github.com/EnhancedNetwork/TownofHost-Enhanced/issues/1521)) <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Role Dreamweaver (Coven Trickery) <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a><br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Add option show chat in game for ffa <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: chat in game option for speedrun and ffa is disabled since Niko cant figure out antiblackout stuffs there.<br></p>
 </details>
 <details>
@@ -97,10 +97,10 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.3.0 Alpha 2.2</font></b></summary>
-<p>= <font color=#1376f0><b>BUG FIX</b></font>: Fix GetProgressText for Alchemist <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Medic black screen after meeting &amp; Fix errors <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix player name related issues <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a><br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Patch NetworkedPlayerInfo.serialize to serialize smaller packets on custom servers <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">Niko</a><br></p>
+<p>= <font color=#1376f0><b>BUG FIX</b></font>: Fix GetProgressText for Alchemist <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Medic black screen after meeting &amp; Fix errors <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix player name related issues <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a><br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Patch NetworkedPlayerInfo.serialize to serialize smaller packets on custom servers <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">Niko<ExternalLinkIcon/></a><br></p>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.3.0 Alpha 2.1</font></b></summary>
@@ -108,30 +108,30 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.3.0 Alpha 2</font></b></summary>
-<p>= <font color=#1376f0><b>BUG FIX</b></font>: Fix strong lag when first load sprites <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix bug in assign roles <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix meetings not blocked in non Standard Gamemodes + Other modifications <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Use Il2CppObjectBase.CastFast to cast game compents <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a><br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Multiple othercode and performance improvements <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a><br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Exile screen to show converted addons <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix ghost roles is assigned in non standard gamemode <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Added missing descriptions for speed run <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br></p>
+<p>= <font color=#1376f0><b>BUG FIX</b></font>: Fix strong lag when first load sprites <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix bug in assign roles <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix meetings not blocked in non Standard Gamemodes + Other modifications <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Use Il2CppObjectBase.CastFast to cast game compents <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Multiple othercode and performance improvements <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Exile screen to show converted addons <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix ghost roles is assigned in non standard gamemode <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Added missing descriptions for speed run <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br></p>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.3.0 Alpha 1</font></b></summary>
-<p>+ <font color=green><b>NEW</b></font>: Gamemode: Speed Run (Ported from E-H-R) <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">Niko</a> + <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
-+ <font color=green><b>NEW</b></font>: Reworked Ability Use Limit System (From E-H-R) <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a><br>
-+ <font color=green><b>NEW</b></font>: Added more custom buttons <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Reworked Remove Incompatible Add-ons <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Blackmailer not blackmailing players <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Tiebreaker/TieMode.All not working with more than 15 players <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Multiple fixes and performance improvements related to the Crowded Mod <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a><br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Set spam CustomRPC to SendOption.None &amp; removed unused RPCs <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed TNA's dying to roles they shouldn't <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed INVALID string for Necromancer <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a><br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Blocked guess attempts if the guesser tries to guess a role that is not active <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed player count not being overridden in assigned roles <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a><br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Shapeshifters no longer get the Flash Addon <a href="https://github.com/Reborn5537" target="_blank" rel="noopener noreferrer">Reborn5537</a><br>
+<p>+ <font color=green><b>NEW</b></font>: Gamemode: Speed Run (Ported from E-H-R) <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">Niko<ExternalLinkIcon/></a> + <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Reworked Ability Use Limit System (From E-H-R) <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Added more custom buttons <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Reworked Remove Incompatible Add-ons <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Blackmailer not blackmailing players <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Tiebreaker/TieMode.All not working with more than 15 players <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Multiple fixes and performance improvements related to the Crowded Mod <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Set spam CustomRPC to SendOption.None &amp; removed unused RPCs <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed TNA's dying to roles they shouldn't <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed INVALID string for Necromancer <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Blocked guess attempts if the guesser tries to guess a role that is not active <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed player count not being overridden in assigned roles <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Shapeshifters no longer get the Flash Addon <a href="https://github.com/Reborn5537" target="_blank" rel="noopener noreferrer">Reborn5537<ExternalLinkIcon/></a><br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Speed Run: runner can get ghost roles after death. Temp fix is to disable ghost roles in standard mode and then switch to speed run.</p>
 </details>
 <details>
@@ -141,11 +141,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 17</font></b></summary>
 <p>= <font color=#1376f0><b>BUG FIX</b></font>: Fix unshapeshifter messed up host skin on meeting<br>
-+ <font color=green><b>NEW</b></font>: Custom buttons for Glitch <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvements for Romantic <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a><br>
++ <font color=green><b>NEW</b></font>: Custom buttons for Glitch <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvements for Romantic <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: If romantic accidentally kills their partner,romantic will<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: If romantic's partner is ejected,or dies by suicide,or the killer is dead,romantic will become ruthless romantic<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix admired necromancer not winning with crew <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix admired necromancer not winning with crew <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improve random system<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Necromancer and Apocalypse being able to see each other when Necromancer takes Apocalypse role<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Necromancer being unable to see reveals from revealing roles<br>
@@ -158,7 +158,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 16</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br></li>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br></li>
 </ul>
 <p>= <font color=#1376f0><b>BUG FIX</b></font>: Fix &quot;SecurityCameraSystem&quot; Not Cleared After RpcExile<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Free for All not working<br>
@@ -170,9 +170,9 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improve AntiBlackout<br></p>
 <ul>
 <li>By <a href="#"><strong>Others</strong></a><br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve god father's addon assign <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Jackal and Police Chief can recruit Neutral Apocalypse <a href="https://github.com/Reborn5537" target="_blank" rel="noopener noreferrer">Reborn5537</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Mad/Recruit/Enchanted Amnesiac being able to report bodies after killing OIIAI <a href="https://github.com/Bri1101" target="_blank" rel="noopener noreferrer">cosbri1101</a><br></li>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve god father's addon assign <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Jackal and Police Chief can recruit Neutral Apocalypse <a href="https://github.com/Reborn5537" target="_blank" rel="noopener noreferrer">Reborn5537<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Mad/Recruit/Enchanted Amnesiac being able to report bodies after killing OIIAI <a href="https://github.com/Bri1101" target="_blank" rel="noopener noreferrer">cosbri1101<ExternalLinkIcon/></a><br></li>
 </ul>
 </details>
 <details>
@@ -186,41 +186,41 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 15</font></b></summary>
-<p>+ <font color=green><b>NEW</b></font>: Option For Low Load: Delay Update Names by <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a> (Previously names for vanilla updates per second. This seems unnecessary, so we added this option to only update names for vanilla when it is necessary, if you encounter any issues about name updates, try disable this option and report to us)<br>
-+ <font color=green><b>NEW</b></font>: Option: change first kill cool down by <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a> (This means now you can decide whether to reset a killer's kcd to normal, or set a shared kcd, on game start)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Modded Clients Always Play Shield Animation When &quot;Disable Shield Animations&quot; Is off  by <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Madmate Psychic not seeing all Neutrals in red names by <a href="https://github.com/Bri1101" target="_blank" rel="noopener noreferrer">cosbri1101</a><br>
+<p>+ <font color=green><b>NEW</b></font>: Option For Low Load: Delay Update Names by <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a> (Previously names for vanilla updates per second. This seems unnecessary, so we added this option to only update names for vanilla when it is necessary, if you encounter any issues about name updates, try disable this option and report to us)<br>
++ <font color=green><b>NEW</b></font>: Option: change first kill cool down by <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a> (This means now you can decide whether to reset a killer's kcd to normal, or set a shared kcd, on game start)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Modded Clients Always Play Shield Animation When &quot;Disable Shield Animations&quot; Is off  by <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Madmate Psychic not seeing all Neutrals in red names by <a href="https://github.com/Bri1101" target="_blank" rel="noopener noreferrer">cosbri1101<ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix unshapeshifter can see host shapeshifting into itself on meeting<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix converted addons and addons like lover got removed mid game<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix guesser unable to guess roles instead of being unable to guess players based on team by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix guesser unable to guess roles instead of being unable to guess players based on team by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a><br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Assign game master based on tags.txt does not work and will crash game<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: You must create a folder in TOHE-DATA/tags and put tags.txt into that folder for the mod to load tags</p>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 14</font></b></summary>
-<p>= <font color=#e08709><b>IMPROVEMENT</b></font>: Disperser, Escapist, Soul Catcher, Miner, QuickShooter now uses UnShapeShift button by <a href="https://github.com/Bri1101" target="_blank" rel="noopener noreferrer">cosbri1101</a>, <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a>, &amp; <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">Niko</a><br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Jester, Jackal and Sidekick now can't get ghost role by <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a><br>
+<p>= <font color=#e08709><b>IMPROVEMENT</b></font>: Disperser, Escapist, Soul Catcher, Miner, QuickShooter now uses UnShapeShift button by <a href="https://github.com/Bri1101" target="_blank" rel="noopener noreferrer">cosbri1101<ExternalLinkIcon/></a>, <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a>, &amp; <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">Niko<ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Jester, Jackal and Sidekick now can't get ghost role by <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Chat spam system (enable in Mod Settings -&gt; Guess Mode) (It is much faster and stable than previous spams, Niko hope you will like it)</p>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 13</font></b></summary>
-<p>+ <font color=green><b>NEW</b></font>: Jackal Recruit options by <a href="https://github.com/laikrai" target="_blank" rel="noopener noreferrer">laikrai</a><br>
-+ <font color=green><b>NEW</b></font>: Tag manager now reads in all folders in TOHE-DATA/Tags (except vanilla folders) by <a href="https://github.com/NotPyro404" target="_blank" rel="noopener noreferrer">Pyro</a><br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Remove conflicting addons on role change mid game by <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Godfather working on dead players by <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix torch has wrong vision by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix players are able to kill immediately after meeting (maybe) by <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL</a><br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Update some role descriptions (for quiz master mostly) by <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix overseer interactions for Trickstar and Illusionist (maybe, need testing) by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a><br>
+<p>+ <font color=green><b>NEW</b></font>: Jackal Recruit options by <a href="https://github.com/laikrai" target="_blank" rel="noopener noreferrer">laikrai<ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Tag manager now reads in all folders in TOHE-DATA/Tags (except vanilla folders) by <a href="https://github.com/NotPyro404" target="_blank" rel="noopener noreferrer">Pyro<ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Remove conflicting addons on role change mid game by <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Godfather working on dead players by <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix torch has wrong vision by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix players are able to kill immediately after meeting (maybe) by <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">TommyXL<ExternalLinkIcon/></a><br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Update some role descriptions (for quiz master mostly) by <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix overseer interactions for Trickstar and Illusionist (maybe, need testing) by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Maybe fix moon dancer causing null reference<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Added AssignGameMaster in new tag config (Append AssignGameMaster: yes to end of tag file, and target player will be assigned game master on game start) (AntiBlackout not fixed for gamemaster btw)</p>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 12</font></b></summary>
-<p>+ <font color=green><b>NEW</b></font>: Tag system overhaul (You can now create a friendcode.txt file from Tag_Template.txt in TOHE-Data/Tags to assign tags and permissions to a player) (by <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg</a>)<br>
-+ <font color=green><b>NEW</b></font>: New win Condition for Quiz Master (by <a href="https://github.com/Bri1101" target="_blank" rel="noopener noreferrer">cosbri1101</a>)<br>
-+ <font color=green><b>NEW</b></font>: More role choices for Lawyer and Executioner (by <a href="https://github.com/Bri1101" target="_blank" rel="noopener noreferrer">cosbri1101</a>)<br>
-+ <font color=green><b>NEW</b></font>: Settings for Chief of Police by (<a href="https://github.com/Reborn5537" target="_blank" rel="noopener noreferrer">Reborn5537</a>)<br>
+<p>+ <font color=green><b>NEW</b></font>: Tag system overhaul (You can now create a friendcode.txt file from Tag_Template.txt in TOHE-Data/Tags to assign tags and permissions to a player) (by <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a>)<br>
++ <font color=green><b>NEW</b></font>: New win Condition for Quiz Master (by <a href="https://github.com/Bri1101" target="_blank" rel="noopener noreferrer">cosbri1101<ExternalLinkIcon/></a>)<br>
++ <font color=green><b>NEW</b></font>: More role choices for Lawyer and Executioner (by <a href="https://github.com/Bri1101" target="_blank" rel="noopener noreferrer">cosbri1101<ExternalLinkIcon/></a>)<br>
++ <font color=green><b>NEW</b></font>: Settings for Chief of Police by (<a href="https://github.com/Reborn5537" target="_blank" rel="noopener noreferrer">Reborn5537<ExternalLinkIcon/></a>)<br>
 + <font color=green><b>NEW</b></font>: Option for Eraser: can guess erased player<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Added IsPlayer*Team method to get a player's team from playercontrol and playerstate directly (Used on Police Chief currently, need further reviewing)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix mod client lawyer and executioner may have tasks<br>
@@ -232,18 +232,18 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <p>= <font color=#ece218><b>NOTICE</b></font>: Newer than Beta 1<br>
 = <font color=#ece218><b>NOTICE</b></font>: 50% of the strings in other languages are in English<br>
 + <font color=green><b>NEW</b></font>: Merged Coven roles<br>
-= <font color=#32CD32><b>TYPOS</b></font>: More translation fixes (by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a>)<br>
+= <font color=#32CD32><b>TYPOS</b></font>: More translation fixes (by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a>)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added back Niko(EU) custom region<br>
-+ <font color=green><b>NEW</b></font>: Intro Screen for Coven roles (by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a>)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Retributionist settings showing in impostor tab (by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed role type for SunnyBoy and Provocateur (by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a>)<br>
-+ <font color=green><b>NEW</b></font>: Option: Sheriff misfire on admired players (by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a>)</p>
++ <font color=green><b>NEW</b></font>: Intro Screen for Coven roles (by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a>)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Retributionist settings showing in impostor tab (by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed role type for SunnyBoy and Provocateur (by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a>)<br>
++ <font color=green><b>NEW</b></font>: Option: Sheriff misfire on admired players (by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a>)</p>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 10</font></b></summary>
-<p>= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Admired interactions for some roles (for example admired time thief will now add meeting time, gangster and godfather are recruiting correctly (Hopefully, I didnt check the code carefully)) (by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Double Agent now can kill when it's the only imp alive (by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Baker's role block ability is reworked to reset kill cooldown <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg</a> (I doubt whether it works)<br>
+<p>= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Admired interactions for some roles (for example admired time thief will now add meeting time, gangster and godfather are recruiting correctly (Hopefully, I didnt check the code carefully)) (by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Double Agent now can kill when it's the only imp alive (by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Baker's role block ability is reworked to reset kill cooldown <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a> (I doubt whether it works)<br>
 + <font color=#12edaf><b>REWORK</b></font>: Deputy (Handcuffed player now have to use kill button on others to break the handcuff)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Recoded Seeker (Fix seeker cause players unable to move in next game)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Block-Move-In-Vent players enter vent on meeting begin will have nearby vents blocked forever after meeting is finished<br>
@@ -261,7 +261,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 9</font></b></summary>
 <p>+ <font color=green><b>NEW</b></font>: Role Convert log (displayed along with Kill log)<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix Role Description for DollMaster and ChiefOfPolice by (by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy</a>)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Role Description for DollMaster and ChiefOfPolice by (by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">ImpyIsLazy<ExternalLinkIcon/></a>)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Add target mark for Seeker
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Add note for vent for Altruist<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix maverick kill num not syncing<br>
@@ -291,9 +291,9 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#a175ff>v2.2.0 Coven Alpha 8.3</font></b></summary>
 <p>= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Poisoner and Illusionist unable to do second action<br>
 + <font color=green><b>NEW</b></font>: Setting: Coven can know Celebrity<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Win Condition Check (by <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">Niko</a>)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Win Condition Check (by <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">Niko<ExternalLinkIcon/></a>)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Ritualist command showing for host<br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed typos (by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">Impostor4291</a>)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed typos (by <a href="https://github.com/impostor4291" target="_blank" rel="noopener noreferrer">Impostor4291<ExternalLinkIcon/></a>)<br>
 + <font color=green><b>NEW</b></font>: All the changes from Alpha 8.3</p>
 </details>
 </details>
@@ -323,8 +323,8 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.2.0 Alpha 8</font></b></summary>
 <p>= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent dead players from knowing role immediately after death (will know on meeting started)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent Nemesis and Retributionist from seeing roles before skill used up option<br>
-= Change ability button text for some roles by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Some Adjustments for Riftmaker by <a href="https://github.com/laikrai" target="_blank" rel="noopener noreferrer">laikrai</a><br>
+= Change ability button text for some roles by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Some Adjustments for Riftmaker by <a href="https://github.com/laikrai" target="_blank" rel="noopener noreferrer">laikrai<ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Crowded not loading<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed BlackMailer skill not disabled when it turns into ghost roles<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed AbyssBringer Blackhole not despawning correctly<br></p>
@@ -341,13 +341,13 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 7</font></b></summary>
-<p>+ <font color=green><b>NEW</b></font>: Ported Custom Net Object System from MoreGameModes by <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer">Drakos</a><br>
+<p>+ <font color=green><b>NEW</b></font>: Ported Custom Net Object System from MoreGameModes by <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer">Drakos<ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Role AbyssBringer (ported from EHR)<br>
-+ <font color=green><b>NEW</b></font>: Legacy Parasite &amp; Legacy Traitor (can shapeshift) by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
++ <font color=green><b>NEW</b></font>: Legacy Parasite &amp; Legacy Traitor (can shapeshift) by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Famine still have shapeshift button<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Quick Shooter may bug sometimes<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Maybe Fixed Error Spam when a modded client disconnected from game during meeting or other important period<br>
-+ <font color=green><b>NEW</b></font>: Added KN detect (not sure whether it works) by <a href="https://github.com/redphantom1000" target="_blank" rel="noopener noreferrer">red88phantom</a><br>
++ <font color=green><b>NEW</b></font>: Added KN detect (not sure whether it works) by <a href="https://github.com/redphantom1000" target="_blank" rel="noopener noreferrer">red88phantom<ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Parasite and imp can see each other on intro<br>
 + <font color=green><b>NEW</b></font>: Can Set impostors num to 0 - maxplayers/2<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Multiple improvements in codes<br>
@@ -367,7 +367,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 6</font></b></summary>
-<p>+ <font color=green><b>NEW</b></font>: Lover and Egoist IntroCutscene by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
+<p>+ <font color=green><b>NEW</b></font>: Lover and Egoist IntroCutscene by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Impostor and Madmate see each other on Intro<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed playerIdList related bugs (on change role mid game, copycat)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Probably fixed log spam on disconnecting from game<br>
@@ -389,10 +389,10 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 5.1</font></b></summary>
-<p>+ <font color=green><b>NEW</b></font>: Apocalypse Intro Screen by <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg</a><br>
-+ <font color=green><b>NEW</b></font>: Opportunist can vent option by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
-+ <font color=green><b>NEW</b></font>: Pestilence can kill guesser option by <a href="https://github.com/ApeMV" target="_blank" rel="noopener noreferrer">ApeMV</a><br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Baker now uses shapeshift button to transform by <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg</a><br>
+<p>+ <font color=green><b>NEW</b></font>: Apocalypse Intro Screen by <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Opportunist can vent option by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Pestilence can kill guesser option by <a href="https://github.com/ApeMV" target="_blank" rel="noopener noreferrer">ApeMV<ExternalLinkIcon/></a><br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Baker now uses shapeshift button to transform by <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix same task type get assigned repeatedly<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: People will be more likely to share similar tasks from vanilla<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Impostor count option reverted to 1 - 3, since changing the value range will always reset it to 3<br>
@@ -400,9 +400,9 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 5</font></b></summary>
-<p>= <font color=#1376f0><b>BUG FIX</b></font>: Fix Horse Mode and Long Neck Mode by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fix /setplayers setting 15+ players in vanilla regions by <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer">Pietro</a><br>
-+ <font color=green><b>NEW</b></font>: Legacy option for Traitor (traitor can be shapeshifter) by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
+<p>= <font color=#1376f0><b>BUG FIX</b></font>: Fix Horse Mode and Long Neck Mode by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix /setplayers setting 15+ players in vanilla regions by <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer">Pietro<ExternalLinkIcon/></a><br>
++ <font color=green><b>NEW</b></font>: Legacy option for Traitor (traitor can be shapeshifter) by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix stealer addon displaying wrong vote number on display<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix sending chat bug causing blackmailer false spam<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Attempted fix for amnesiac's abnormal vent behavior<br>
@@ -424,10 +424,10 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 4</font></b></summary>
-<p>+ <font color=green><b>NEW</b></font>: Experimental Role: Shocker by <a href="https://github.com/laikrai" target="_blank" rel="noopener noreferrer">laikrai</a><br>
+<p>+ <font color=green><b>NEW</b></font>: Experimental Role: Shocker by <a href="https://github.com/laikrai" target="_blank" rel="noopener noreferrer">laikrai<ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Crowded Mod now included in TOHE (TOHE is now incompatible with CrowdedMod since we included all its features)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Scavenger now has its own death reason by <a href="https://github.com/ApeMV" target="_blank" rel="noopener noreferrer">ApeMV</a><br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed Intro sound for some roles by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba</a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Scavenger now has its own death reason by <a href="https://github.com/ApeMV" target="_blank" rel="noopener noreferrer">ApeMV<ExternalLinkIcon/></a><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Changed Intro sound for some roles by <a href="https://github.com/PEPPERcula" target="_blank" rel="noopener noreferrer">sussynba<ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed converted killer roles sabotage getting banned by EAC (experimental)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: MasterMind now is a experimental role since it causes some bugs<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed mod news not loading<br>
@@ -458,11 +458,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug where Arsonist may not be able to dose someone (maybe)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: CopyCat now cant copy baker<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Temporarily Disable HorseMode from release since it causes game crashes<br>
-+ <font color=green><b>NEW</b></font>: Added some new options for Berserker, PlagueBearer, SoulCollector by <a href="https://github.com/ApeMV" target="_blank" rel="noopener noreferrer">ApeMV</a></p>
++ <font color=green><b>NEW</b></font>: Added some new options for Berserker, PlagueBearer, SoulCollector by <a href="https://github.com/ApeMV" target="_blank" rel="noopener noreferrer">ApeMV<ExternalLinkIcon/></a></p>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.2.0 Alpha 2</font></b></summary>
-<p>+ <font color=green><b>NEW</b></font>: Role: Revenant (By: <a href="https://github.com/Limeau" target="_blank" rel="noopener noreferrer">LimeAU</a>)<br>
+<p>+ <font color=green><b>NEW</b></font>: Role: Revenant (By: <a href="https://github.com/Limeau" target="_blank" rel="noopener noreferrer">LimeAU<ExternalLinkIcon/></a>)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed double spy seeing each other’s orange name<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed rebirth vote-out on Solsticer and Mini<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Host Doomsayer infinite guess<br>
@@ -474,19 +474,19 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.2.0 Alpha 1</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Critical Error Manager<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Huier-Huang" target="_blank" rel="noopener noreferrer"><strong>Huier</strong></a><br>
+<p>By <a href="https://github.com/Huier-Huang" target="_blank" rel="noopener noreferrer"><strong>Huier</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Option: Dictator use /vote command to exp players<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Laikrai" target="_blank" rel="noopener noreferrer"><strong>Laikrai</strong></a><br>
+<p>By <a href="https://github.com/Laikrai" target="_blank" rel="noopener noreferrer"><strong>Laikrai</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Command: /start for moderators to start a game<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Hash Api System (Now the mod calculates its own file hash and use that to interact with Enhanced API)<br>
 + <font color=green><b>NEW</b></font>: Added dictator button for modded clients based on 1237<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed non debug clients can use anti-blackout test<br>
@@ -497,7 +497,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 16.1</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Jailer<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed custom intro for vanilla<br></li>
 </ul>
@@ -506,13 +506,13 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.1.0 Alpha 16</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Judge for modded clients<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Maybe fixed Soul Collector errors<br>
 - <font color=#12edaf><b>REVERT</b></font>: Reverted all changes in Delayed Network Data (means it works same as was 2.0.3)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Huier-Huang" target="_blank" rel="noopener noreferrer"><strong>Huier</strong></a><br>
+<p>By <a href="https://github.com/Huier-Huang" target="_blank" rel="noopener noreferrer"><strong>Huier</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Setting for Judge: Max Trials per game<br></p>
 </li>
 </ul>
@@ -520,7 +520,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 15.2</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<li>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Try fix disconnects<br></li>
 </ul>
 </details>
@@ -528,18 +528,18 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.1.0 Alpha 15.1</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed some errors<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Lawyer icons<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed murders while anti blackout<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when revived player not sets Camouflage skin while Camouflage<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Added notify message about game end (Since RpcEndGame may not be received by certain client on InnerSloth officials. These codes should be necessary to tell those players to quit by themselves)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Huier-Huang" target="_blank" rel="noopener noreferrer"><strong>Huier</strong></a><br>
+<p>By <a href="https://github.com/Huier-Huang" target="_blank" rel="noopener noreferrer"><strong>Huier</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Swapper now show tasks<br></p>
 </li>
 </ul>
@@ -548,18 +548,18 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.1.0 Alpha 15</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>0xDrMoe</strong></a><br>
+<p>By <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>0xDrMoe</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Add-on: Eavesdropper (Helpful Addon)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed conflicts with Terrorist and Workaholic win<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Blackmailer for modded clients<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for Ventguard<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Some changes in code<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for delayed network data<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Altruist for modded clients<br></p>
 </li>
@@ -573,7 +573,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.1.0 Alpha 14</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Role: Ventguard (From EHR)<br>
 + <font color=green><b>NEW</b></font>: Setting for random spawns: Active On Round One<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when modded client not assign custom tasks<br>
@@ -593,12 +593,12 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed mod client not having blue color in lobby<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Recoded Delayed Network Data<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong></a><br>
+<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added ejection message for Death<br></p>
 </li>
 </ul>
@@ -607,7 +607,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.1.0 Alpha 13</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Add-on: Prohibited<br>
 + <font color=green><b>NEW</b></font>: Copycat now supports role basis changes<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Aware not work after Overseer check<br>
@@ -619,12 +619,12 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Merchant can assign converted add-ons<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong></a><br>
+<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Terrorist winning when Death should win<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Baker for modded clients<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong></a><br>
+<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Support &quot;Better Among Us&quot; mod when clients joined in TOHE lobbies<br></p>
 </li>
 </ul>
@@ -632,7 +632,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 12.1</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when kill button not work in FFA<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when modded clients can't use sabotage<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Multiple Player ID<br></li>
@@ -642,15 +642,15 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.1.0 Alpha 12</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a> + <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a> + <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Added disabling vent usage for vanilla (ported from MoreGamemodes) (When a player does not have access to vents, they will never be able to use it)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NotPyro404" target="_blank" rel="noopener noreferrer"><strong>Pyro</strong></a><br>
+<p>By <a href="https://github.com/NotPyro404" target="_blank" rel="noopener noreferrer"><strong>Pyro</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Harmful Add-on: Sloth<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Setting for Jester: &quot;Can't Move In Vents&quot;<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Altruist was improved and removed from Experimental role<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when in FFA assigns crewmate basic<br>
@@ -677,7 +677,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 11</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added custom label ID for modded (from EHR)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when revived player not change custom role when they have ghost role<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when settings not synced<br>
@@ -687,7 +687,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 10.1</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed visual bug in meeting again (I hope)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Some black screen cases are fixed (I hope)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed double intro screen<br></li>
@@ -696,7 +696,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 10</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when &quot;/l&quot; and &quot;/role&quot; not work<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed critical error in FFA<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed visual bug in meeting (I hope)<br>
@@ -707,21 +707,21 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 9.2</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when &quot;BanList.txt&quot; work incorrectly (Sorry, i forgot to remove just one code, lol)</li>
 </ul>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 9.1</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Just fixed problems where the game ends immediately after starting (Optional upgrade if you don't finish the game immediately after starting, lol)</li>
 </ul>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 9</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Dleks not loaded<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bugs with ghost roles<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when blackmailed not work for non-host modded players<br>
@@ -734,21 +734,21 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 8.2</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: =  Well, you really know what I'm trying to fix (Also all builds work fine in new AU version)<br></li>
 </ul>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 8.1</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Another attempt to fix role assign<br></li>
 </ul>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 8</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Experimental Crewmate Role: Altruist (Functions fine, but not fully completed, so i don't recommend using this role yet. I mean revived players can remember all/some the player roles while they were dead)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed disconnects while role assigns<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Lot of fixes for AntiBlackOut<br>
@@ -761,12 +761,12 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.1.0 Alpha 7</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a> + <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a> + <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Added support role basic changer mid-game<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: More fixes for AntiBlackOut (This will not completely fix black screen issues, but the more players there are in the game, the less chance of black screen occurrences (To do this, we use revives and base role changes during exile, so that dead players will be alive for a couple of seconds, but will become dead again))<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Helpful Add-on: Evader<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Optimize intro scene<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Phantom For Desync Roles<br>
@@ -778,12 +778,12 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Rebirth setting<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed YinYanger conflicts and Double Agent message<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NotPyro404" target="_blank" rel="noopener noreferrer"><strong>Pyro</strong></a><br>
+<p>By <a href="https://github.com/NotPyro404" target="_blank" rel="noopener noreferrer"><strong>Pyro</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Update YinYanger info so it doesn't get tagged by Innersloth filter<br></p>
 </li>
 <li>
@@ -796,23 +796,23 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.1.0 Alpha 6</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong></a><br>
+<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Impostor Role: Double Agent<br>
 + <font color=green><b>NEW</b></font>: Impostor Ghost Role: Possessor<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Impostor Role: YinYanger<br>
 + <font color=green><b>NEW</b></font>: Add-on: Rebirth<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Spurt for modded clients<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong></a><br>
+<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: setting: Show NA on eject<br>
 + <font color=green><b>NEW</b></font>: setting: NA can guess NA<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Minus and Plus in settings now always active<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Troller not reset ability<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Fortune Teller show role for FFA<br>
@@ -831,7 +831,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.1.0 Alpha 5</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<li>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken chat for modded players<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed and returned role info in setting menu<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed search in setting<br></li>
@@ -843,15 +843,15 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#de6707><b>KNOWN BUG</b></font>: Role info in setting menu temporarily removed<br></p>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a> &amp; <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a> &amp; <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Support new update AU v2024.8.13<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed FFA stuck meeting<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed missing strings<br></p>
 </li>
 <li>
@@ -864,7 +864,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.1.0 Alpha 3</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Neutral Chaos Role: <RouteLink to="/options/Neutral/Chaos/Troller.html">Troller</RouteLink> (Idea by: dx7405`)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Vip/Moderator/Sponsor and ect. shown in game<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the host changed his nickname to his own when he was killed by Doppelganger (hopefully)<br>
@@ -875,15 +875,15 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Others fixes<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong></a><br>
+<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved region menu when there are a lot of regions<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong></a><br>
+<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Added <code v-pre>/apocinfo</code> command<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Added role info in setting menu<br>
 + <font color=green><b>NEW</b></font>: Added search bar in settings<br>
 + <font color=green><b>NEW</b></font>: Helpful Add-on: <RouteLink to="/options/Addons/Helpful/Spurt.html">Spurt</RouteLink> (Idea by: <code v-pre>.thediamondstar</code>)<br>
@@ -895,7 +895,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.1.0 Alpha 2</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed lot of null errors for Neutral Apocalypse<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed some bugs for Neutral Apocalypse for modded clients<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when F1 show role settings<br>
@@ -904,12 +904,12 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#F6BE00><b>CHANGE</b></font>: Set 300 cd for Nemesis if they cannot use kill button<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong></a><br>
+<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Added new command: /apocalypseinfo<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when setting &quot;Transformed Neutral Apocalypse Can Be Guessed&quot; works incorrectly<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Changed warning message about Api Error Connection (Only in Beta and Stable versions)<br></p>
 </li>
 </ul>
@@ -918,7 +918,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.1.0 Alpha 1</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong></a><br>
+<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Neutral Team: Neutral Apocalypse (Can set min/max Neutral Apocalypse)<br>
 + <font color=green><b>NEW</b></font>: Added Role: Baker<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Berserker is now Neutral Apocalypse<br>
@@ -926,13 +926,13 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 + <font color=#12edaf><b>REWORK</b></font>: Soul Collector was reworked and is now Neutral Apocalypse<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Disable Shapeshift menu for some Reject Shapeshift roles for Pitfall, Bomber, Undertaker (Maybe will used for some more roles)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Return Ability Votes for Cleanser, Eraser, Fortune teller, Keeper, Oracle, Godfather (First Vote will cancel (Vote Skip) or use the ability, second is normal vote)<br>
 + <font color=green><b>NEW</b></font>: Added &quot;/vote&quot; command (Can be disabled in setting)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong></a><br>
+<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a><br>
 + <font color=#12edaf><b>REWORK</b></font>: Rework Setting: Shield Person Died First (Changed it where the player cannot be killed by any means until the shield is removed)<br>
 + <font color=green><b>NEW</b></font>: Added new sub-setting &quot;Reveal shielded player to all&quot;<br>
 + <font color=green><b>NEW</b></font>: Added new sub-setting &quot;Remove shield on first death&quot;<br>
@@ -940,7 +940,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#F6BE00><b>CHANGE</b></font>: Added new RPC to sync the shield info to Modded Clients<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: TextBoxPatch (Ported from EHR) (Allows you to write any characters into the chat)<br></p>
 </li>
 </ul>
@@ -949,7 +949,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 25</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed assign tasks<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when icons not showing for non-host modded players<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Knight Cooldown<br>
@@ -963,15 +963,15 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed some null errors<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong></a><br>
+<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved showing role info for vanilla players<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Evil Tracker and Kamikaze RPC for non-host modded players<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Added delay for sending messages for fortegreen players<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Eraser<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Gangser<br>
@@ -984,7 +984,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.0.0 Alpha 24.1</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken camouflage (temporarily revert some improvements for EAC)<br></li>
 </ul>
 </details>
@@ -992,7 +992,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 24</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed assign Lovers<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Phantom now cannot be Infected by Virus<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Ruthless Romantic is now Neutral Evil<br>
@@ -1001,12 +1001,12 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed uses remaining sprite (for Vector and QuickShooter)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed all Duplicate Icons<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bloodmoon<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvements for EAC<br></p>
 </li>
 <li>
@@ -1019,20 +1019,20 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 23</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Now at the end of the game, players who left the game after death will display the real death reason and after the reason &quot;(Disconnected)&quot;<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed the vent icon for some roles that are based on engineer<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed mimic cooldown for Glitch<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Crusader<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed double icons for shrouded players<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Zombie<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Glitch errors (kill button did not work)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Added lobby timer in &quot;template.txt&quot;<br></p>
 </li>
 </ul>
@@ -1041,14 +1041,14 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 22</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong></a><br>
+<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Simplified some Dollmaster code for OnCheckMurder<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue with burst activating on a possessed player<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Additionally fixed all issues with trapped based add-ons activating on possessed player<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue when other roles called player.RpcMurderPlayer(player) on possessed player (Now if RpcMurderPlayer is called on a Possessed Player or Dollmaster possessing, it will run Dollmasters CheckMurderAsPossessed instead)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Now modded players can see during in meeting who is the host (Only in online game)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Some improvements for Schrodinger's Cat<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Executioner and Innocent would never win<br>
@@ -1061,11 +1061,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Some fix for Jackal<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong></a><br>
+<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Mini-Game Command: &quot;/8ball&quot; (Idea: Pyro)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed error in logs with Split Message (Code ported from: EHR)<br></p>
 </li>
 </ul>
@@ -1074,14 +1074,14 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 21</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed vanilla ghost roles are assigned multiple times (this bug would sometimes make tasks disappear for some players)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Quizmaster showed twice on the victory screen<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Celebrity<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Masochist<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Added missing Dollmaster strings<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Some fix for Ghastly<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Monarch<br>
@@ -1089,7 +1089,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Potion Master<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Settings for Engineer: &quot;Vent Cooldown&quot; and &quot;Max Time In Vents&quot;<br></p>
 </li>
 </ul>
@@ -1098,7 +1098,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 20</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: bug when God was based on Impostor<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Doll Master blocked report dead body<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Mechanic's ability to go into negation every time the task was completed<br>
@@ -1110,11 +1110,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Crewmate Killers becomes Impostor when killing Oiiai<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Аgain fixed bug when sometimes the kill button did not work<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong></a><br>
+<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Added new function to fix issues when a player leaves as Dollmaster or Possessed Player while possessing<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Added more null checks to fix certain issues<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed issue that caused players appearances to swap when possessing right before meeting gets called<br>
@@ -1126,14 +1126,14 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.0.0 Alpha 19.1</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Аgain small fix for Quizmaster (lol)<br></li>
 </ul>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.0.0 Alpha 19</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when everyone got enigma clue during meeting (i hope)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed a lot bugs for Quizmaster<br></li>
 </ul>
@@ -1142,11 +1142,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 18</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Cultist<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when kill button not work<br></p>
 </li>
 </ul>
@@ -1155,17 +1155,17 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 17</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed comms camouflage for modded<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed double icons for some roles<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Pelican<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken RPC (Improvement for the Chronomancer returned again)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a><br>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Automatically ban spoofed friend code (Can be disabled in settings)<br></p>
 </li>
 </ul>
@@ -1173,7 +1173,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.0.0 Alpha 16</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Changing the version display size by 70%<br>
 - <font color=#12edaf><b>REVERT</b></font>: Reverted Re-factor codebase roles because it's very buggy (the improvement for Chronomancer is also temporarily reverted (Sorry))<br></li>
 </ul>
@@ -1181,7 +1181,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.0.0 Alpha 15</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<li>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 - <font color=#12edaf><b>REVERT</b></font>: Blackmailer has been reverted to the old version (since improved has a lot of bugs)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Deputy<br></li>
 </ul>
@@ -1190,13 +1190,13 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 14</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Swooper<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Snitch arrows not shown for non-host modded clients<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed spam errors in logs<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Try to fix Blackmailing<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Trapster error<br></p>
 </li>
@@ -1206,13 +1206,13 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 13</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: The lobby timer now will be displayed for vanilla players<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when non-host modded clients not sync lobby timer<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when non-host modded clients was disconnected<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Chronomancer<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Blackmailer<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Experimental Roles Tab has been removed, and Experimental Roles are now placed into the Tabs of their respective Factions. (Still Marked as Experimental)<br>
@@ -1225,11 +1225,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 12.4</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed message &quot;host does not have a mod&quot;<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong></a><br>
+<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGES</b></font>: Lots of fixes/changes for Dollmaster:<br>
 - <font color=red><b>REMOVED</b></font>: Dollmaster and Possessed player are no longer fragile.<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Dollmaster LongInfo has been updated to compensate the removal above.<br>
@@ -1246,14 +1246,14 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.0.0 Alpha 12.3</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when a lot players got kicked (now for sure)<br></li>
 </ul>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.0.0 Alpha 12.2</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<li>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when a lot players got kicked<br></li>
 </ul>
 </details>
@@ -1261,11 +1261,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 12.1</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Some fix in code<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>0xDrMoe</strong></a><br>
+<p>By <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>0xDrMoe</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Changed Radar color<br></p>
 </li>
 </ul>
@@ -1274,7 +1274,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 12</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Impostor Killing Role: <RouteLink to="/options/Impostors/Killing/EvilHacker.html">Evil Hacker</RouteLink> (Ported from TOH)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Now the message that the host does not have a mod will be constantly checked until it disappears completely<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Some changes in code<br>
@@ -1283,7 +1283,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Arsonist<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved player checking system for the invalid color<br></p>
 </li>
 </ul>
@@ -1292,7 +1292,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 11</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Some optimizations in sync settings and fixed update<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed some null errors in logs<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Chameleon's text about invis in vanilla<br>
@@ -1302,15 +1302,15 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Demon killing instantly<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong></a><br>
+<p>By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Experimental Impostor Role: <RouteLink to="/options/Experimental/Impostor/DollMaster.html">Doll Master</RouteLink><br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Some fix for EAC<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Fortune Teller (This role is now automated in code)<br></p>
 </li>
 </ul>
@@ -1319,20 +1319,20 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 10</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Non-Host Modded Client RPCs<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Added Null checks into EAC<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong></a><br>
+<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: TChinese players can use TChinese to guess other players<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Changed PlayerId == 0 to OwnedByHost() to fix several bugs<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>0xDrMoe</strong></a><br>
+<p>By <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>0xDrMoe</strong><ExternalLinkIcon/></a><br>
 = <font color=#32CD32><b>TYPOS</b></font>: Fixed several typos, inconsistencies and mistakes in the mod itself!<br></p>
 </li>
 </ul>
@@ -1341,11 +1341,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 9</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Workaholic winning before completing tasks<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Plaguebearer (Any interaction between infected and uninfected leads to infection of uninfected players (Same as in TOU-R))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Changed color blind text position<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Doppelganger now can not become Rainbow and Flash<br>
@@ -1361,14 +1361,14 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the settings &quot;Has Impostor Vision&quot; did not work for neutral killers<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Crewmate Ghost Role: <RouteLink to="/options/Crewmates/Ghost/Ghastly.html">Ghastly</RouteLink><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Bring back prefix for addon<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Super Star<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Retributionist kills<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed RPC for non-host modded clients<br></p>
 </li>
 </ul>
@@ -1377,11 +1377,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 8</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Helpful Addon: <RouteLink to="/options/Addons/Helpful/Radar.html">Radar</RouteLink> (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Pyro </span>)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix null exception error on notify roles<br></p>
 </li>
 <li>
@@ -1389,12 +1389,12 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#32CD32><b>TYPOS</b></font>: Fix typos in English translations<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: New look for kill log<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Add notifyroles in checprotect<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix aum and sicko rpc<br></p>
 </li>
 </ul>
@@ -1402,7 +1402,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.0.0 Alpha 7.1</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<li>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed broken RPC<br></li>
 </ul>
 </details>
@@ -1410,12 +1410,12 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 7</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix system message not sending and role not being assigned to players<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix system message cutting off in between of a message<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix glitch rpc sync<br>
 + <font color=green><b>NEW</b></font>: Setting: immediate auto start<br>
 + <font color=green><b>NEW</b></font>: Command: /me (gives id, friendcode and HashedPUID of a player)<br></p>
@@ -1425,7 +1425,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v2.0.0 Alpha 6.1</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<li>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Executioner not spawning at all<br></li>
 </ul>
 </details>
@@ -1433,22 +1433,22 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 6</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a><br>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
 - <font color=red><b>REMOVED</b></font>: Remove limit of rpc call numbers<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Make killog and lastroles colored again<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix blackscreen (hopefully)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix missing string<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix messages not sent vanilla player<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: custom buttons were not sets correctly and they become too bright or, conversely, too dark <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix copycat/monarch interaction<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix null error spamming like crazy for non host modded clients<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Add function for main role getting called when addon is assigned mid game for non host modded clients<br></p>
@@ -1459,17 +1459,17 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 5</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Tricky (Addon) giving Shattered (Death Reason) when Fragile (Addon) is off<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Hawk<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improve code<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Fragile crashing the game<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Grenadier not working<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix EAC list not working when apply banlist is off<br>
 + <font color=green><b>NEW</b></font>: Experimental Add-on: <RouteLink to="/options/Experimental/Addons/Glow.html">Glow</RouteLink> (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Omega </span>)<br></p>
@@ -1480,14 +1480,14 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 4</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Veteran<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix OIIAI Settings<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix error Detective<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Check invalid color for Apply Suffix<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: fix addon % display on /r [addon]<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: fix lawyer not winning after death<br>
 + <font color=green><b>NEW</b></font>: Setting: Amnesiac arrows<br></p>
@@ -1498,14 +1498,14 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 3</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: fix FFA mode getting crewmate instead of killer<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: fix lawyer mark<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: fix witch and hexmaster suffix text<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: fix detective<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed game crash (hopefully)<br></p>
 </li>
 </ul>
@@ -1514,21 +1514,21 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 2.1</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>, &amp; <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>, &amp; <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed many roles (More details you can found in the Alpha-bug-report) <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved random role assign <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Veteran now can't get Fragile <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Unlucky <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Kamikaze causing half dead players<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a><br>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved mod updater <br></p>
 </li>
 </ul>
@@ -1537,17 +1537,17 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 2</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>, &amp; <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>, &amp; <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed many roles (More details you can found in the Alpha-bug-report) <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved random role assign <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Veteran now can't get Fragile <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Unlucky <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a><br>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved mod updater <br></p>
 </li>
 </ul>
@@ -1556,11 +1556,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v2.0.0 Alpha 1</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>, <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a>, &amp; <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>, <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a>, &amp; <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved code base for all roles (Role Base) (Note about translations: In this build, some translations will be reset to English because the translation key or the text itself has been changed (For now, use custom translation)) <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Some roles using their ability with Shapeshift will now never be able to play the Shapeshift animation (but some roles still have the setting: &quot;Show Shapeshift animations&quot;) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Now the settings menu will first open, then will be loaded (there will be a lag of 1-2 seconds) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Ninja was improved <br>
@@ -1574,11 +1574,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Doppelganger name between host and clients <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Mayor can call meeting even when limit is over <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Ghost Roles was returned <br>
 + <font color=green><b>NEW</b></font>: New Crewmate Ghost role: Hawk <br>
 + <font color=green><b>NEW</b></font>: New Impostor Ghost role: Bloodmoon <br>
@@ -1586,11 +1586,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved description of roles, role settings, etc. <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Now Penguin's victim can't vent <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a><br>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: &quot;Horse Mode&quot; was returned <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: April Fool's mode now always displayed <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved dbconnect loading <br></p>
@@ -1605,7 +1605,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v1.6.0 Alpha 6</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br></li>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br></li>
 </ul>
 <ul>
 <li>Support AU v2024.3.5 <br>
@@ -1615,11 +1615,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 </ul>
 <ul>
 <li>
-<p>By <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>0xDrMoe</strong></a><br>
+<p>By <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>0xDrMoe</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixes for Copycat turning into Retributionist and reverting back into Copycat <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Susceptible making role visisble to others <br>
 = <font color=#32CD32><b>TYPO</b></font>: Fixed Plague Scientist typo <br></p>
 </li>
@@ -1629,13 +1629,13 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.6.0 Alpha 5</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed bug when alive players saw all the roles <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when FFA didn't end <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed &quot;*Rate%&quot; <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a> and <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a> and <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Mod updater <br></p>
 </li>
 </ul>
@@ -1644,11 +1644,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.6.0 Alpha 4</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improve announcement patch (Ported from TOH-Y) (Now the announcement will be translated via Crowdin) <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Nice Mini and Evil Mini spawns <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed black screen after meeting <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed role assignment <br>
@@ -1656,7 +1656,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when roles with hidden shapeshift use ability on itself (If this happens again, BE SURE to send the logs (pls)) <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Ghost roles no longer show in Guesser UI <br></p>
 </li>
 </ul>
@@ -1665,24 +1665,24 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.6.0 Alpha 3</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved role spawns (Ported from EHR) (Now for each role you can set the chance of appearance from 0% to 100%) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed &quot;IsAlive&quot; for modded clients <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Make shahpeshifted hangman ignore alerted vetran <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Backgrounds sets in randomly (from art competitions) <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Solsticer's is no longer a member of any team <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Make Penguin victim cannot kill <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Pelican cannot eat grabbing penguin <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: If a user failed dbconnect first login, it will be turned to offline mode and forced to re-login<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Retributionist &amp; Nemesis (These roles are now moved in ghost roles) (Update this if you use either roles or you will not have them in game!) <br></p>
 </li>
 </ul>
@@ -1691,11 +1691,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.6.0 Alpha 2</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a> &amp; <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a> &amp; <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed some bugs with ghost roles (Now &quot;/up&quot; unable to assign ghost-roles bcuz it breaks the game) <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a><br>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: New setting: &quot;Disable VoteKick System&quot; <br></p>
 </li>
 </ul>
@@ -1704,17 +1704,17 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.6.0 Alpha 1</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Progress text and target mark for Pirate <br>
 - <font color=red><b>REMOVED</b></font>: Removed Overtired from enabled addons list <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed some visual bugs with Modded clients <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Bomber and Nuker was banned by EAC after shapeshift <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Added setting client &quot;Dark Theme&quot; (Ported From EHR) (Works only for modded players) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Add-ons display was recoded <br>
 + <font color=green><b>NEW</b></font>: New setting: Impostors can see each other's Add-ons <br>
@@ -1725,11 +1725,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Anti-Blackout didn't work at times <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a> with help from <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a> with help from <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: New function for shapeshift roles: Reject-ShapeShift (All roles that have the ability to use shapeshift will no longer play the shapeshift animation) (This function can be adjusted using the setting &quot;Disable Shapeshift Animations&quot; (The Sniper has a separate setting)) <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a> <br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a> <br>
 + <font color=green><b>NEW</b></font>: Harmful Add-on: <RouteLink to="/options/Addons/Harmful/Statue.html">Statue</RouteLink> (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> spong </span>) <br>
 + <font color=green><b>NEW</b></font>: New function: Ghost Roles <br>
 + <font color=green><b>NEW</b></font>: New roles: &quot;Warden&quot; for Crew, &quot;Minion&quot; for Impostor <br>
@@ -1741,16 +1741,16 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.5.1 Alpha 3</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when RPCVersionCheck not work correctly <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when bombed player cant pass the bomb if host is haunting (Agitator) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed kamikaze key not found error (in logs) <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Quizmaster has tasks <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Plague Scientist not work <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed string for Sleuth | Settings &quot;Neutrals/Crewmates can become Sleuth&quot; was sets in reverse <br>
@@ -1764,12 +1764,12 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.5.1 Alpha 2.1</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>0xDrMoe</strong></a><br>
+<p>By <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>0xDrMoe</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated Monarch Description to include Monarch immunity condition <br>
 = <font color=#32CD32><b>TYPO</b></font>: Fixed <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Rainbow </span> typo in /r <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed <font color=#8708c7><b>TRANSLATION</b></font> issue taking Irish instead of English due to incorrect ID <br></p>
 </li>
 </ul>
@@ -1778,24 +1778,24 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.5.1 Alpha 2</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a> <br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a> <br>
 + <font color=green><b>NEW</b></font>: Added New role: Penguin <br>
 + <font color=green><b>NEW</b></font>: Added New role: Stealth <br>
 + <font color=green><b>NEW</b></font>: Added New role: Plague Scientist <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a><br>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Warn when /dump is used <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Hide tag for Vanilla players <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Added delay teleport after meeting <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Quizmaster not work or Modded Clients <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed display some roles when &quot;Show Only Enabled Roles In Guesser UI&quot; is enabled  <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong></a> AND <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong><ExternalLinkIcon/></a> AND <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: New Add-On -<span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Rainbow </span><br></p>
 </li>
 </ul>
@@ -1804,24 +1804,24 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.5.1 Alpha 1</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong></a> <br>
+<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong><ExternalLinkIcon/></a> <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Some Strings <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Added New role: Schrodinger's Cat (500th PR!) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed color name/symbols for several roles <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Killing Machine using vanilla kill CD <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Coroner not showing arrows for modded players <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Workaholic not working <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Cleanser issues <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Auto-Play Again Game End errors <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a><br>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Prevent bans from InnerSloth servers if not modded host <br></p>
 </li>
 </ul>
@@ -1830,7 +1830,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.4.1 Alpha 3</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Added New setting for copycat to copy team changing addon instead of just copying madmate <br>
 + <font color=green><b>NEW</b></font>: Added New setting for Fortune Teller: Show random active roles in Fortune Teller hints <br>
 + <font color=green><b>NEW</b></font>: Added New setting: Only allow whitelisted players to join lobbies <br>
@@ -1841,7 +1841,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Telecommunication doesnt work when Copycat copies <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Added random skins &amp; colors in Camouflage <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Ported code <code v-pre>Vent.CanUse</code> from TOH <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when some roles can be stuck in vent during comms sabotage <br>
@@ -1849,7 +1849,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed errors in logs when Modded Client left the game <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed when solsticer can be murdered <br></p>
 </li>
 </ul>
@@ -1862,17 +1862,17 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed the bug where Mini could not be exiled <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a> <br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a> <br>
 + <font color=green><b>NEW</b></font>: Added New Alchemist Setting: Potion Of Speed (Ported from EHR) <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong></a><br>
+<p>By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Add /rn for vanilla clients <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Make /rand inclusive <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix bug where /gno and /rand gave same result <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 - <font color=red><b>REMOVED</b></font>: Removed Luckey (Crewmate Role) <br>
 + <font color=green><b>NEW</b></font>: New Impostor Role Rift Maker <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Display sorted role names for all langs in guesser UI  <br>
@@ -1881,7 +1881,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Undertaker for modded clients <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Fix Bug Where Evil Tracker &quot;Can See Kill Flash&quot; Option Sometimes Not Work <br>
 + <font color=green><b>NEW</b></font>: Added New Setting: Show Only Enabled Roles In Guesser UI <br>
 + <font color=green><b>NEW</b></font>: New Quizmaster Setting: Can Give Questions About Past Games <br>
@@ -1897,7 +1897,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v1.4.1 Alpha 1.2</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Possibly fixed bug where sometimes non-modded players don't get teleported <br></li>
 </ul>
 </details>
@@ -1905,11 +1905,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.4.1 Alpha 1.1</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Quizmaster not working <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Sort Options &amp; Remove Unused Options <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix MeetingHud OnDestroy Null Error <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Sort Options &amp; Remove Unused Options <br></p>
@@ -1920,7 +1920,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.4.1 Alpha 1</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Added Support for Vanilla Hide &amp; Seek <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Provocateur can no longer get Bait <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Kamikaze can no longer get Swift <br>
@@ -1932,15 +1932,15 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed check game end <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/FuroYT" target="_blank" rel="noopener noreferrer"><strong>FuroYT</strong></a> <br>
+<p>By <a href="https://github.com/FuroYT" target="_blank" rel="noopener noreferrer"><strong>FuroYT</strong><ExternalLinkIcon/></a> <br>
 + <font color=green><b>NEW</b></font>: Added New Role: Quizmaster <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a> <br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a> <br>
 + <font color=green><b>NEW</b></font>: New Add-On: Susceptible <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a><br>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Added option to hide 'Host♥' text <br>
 = <font color=#8708c7><b>TRANSLATIONS</b></font>: Translated API tags, where translation was available <br></p>
 </li>
@@ -1950,11 +1950,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.3.1 Alpha 2.2</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix meeting button broken<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Workaholic getting Double Shot<br></p>
 </li>
 </ul>
@@ -1967,18 +1967,18 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.3.1 Alpha 2</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Anti first kill Host<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved EAC<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix ChatCommandPatch<br>
 + <font color=green><b>NEW</b></font>: Experimental Neutral role: <RouteLink to="/options/Experimental/Neutral/Solsticer.html">Solsticer</RouteLink><br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a><br>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Added new feature: Update Button (Heavy WIP)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Taskinator killing alive players<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Romantic spamming error<br>
 + <font color=green><b>NEW</b></font>: Crewmate Power role: <RouteLink to="/options/Crewmates/Power/Captain.html">Captain</RouteLink><br></p>
@@ -1989,17 +1989,17 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.3.1 Alpha 1</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Visual Bug With Negative Task<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Neutral Killers Can Be Madmate<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Bug When Players Stuck In Walls After Teleporting<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix bug where roles that use vent to trigger power spawning in ehT dlekS<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Many other miscellaneous bug fixes and changes to improve code redability (This is done because vents do not work on ehT dlekS)<br>
 + <font color=green><b>NEW</b></font>: Re-added Helpful Add-on: <RouteLink to="/options/Addons/Helpful/Flash.html">Flash</RouteLink><br>
-+ <font color=green><b>NEW</b></font>: Support map: dlekS ehT (Thanks <a href="https://github.com/Galster-dev" target="_blank" rel="noopener noreferrer"><strong>sleepyut</strong></a>)<br></p>
++ <font color=green><b>NEW</b></font>: Support map: dlekS ehT (Thanks <a href="https://github.com/Galster-dev" target="_blank" rel="noopener noreferrer"><strong>sleepyut</strong><ExternalLinkIcon/></a>)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Necromancer kill animation shown twice<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Taskinator kicking modded clients<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Console now appears only for people with debugger perms<br>
@@ -2012,11 +2012,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 + <font color=green><b>NEW</b></font>: Crewmate Basic role: <RouteLink to="/options/Crewmates/Basic/Mole.html">Mole</RouteLink> <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Partially Fixed host getting dc'd sometimes because of Fortegreen<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a><br>
+<p>By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Add Region: Modded SA (MSA)<br></p>
 </li>
 </ul>
@@ -2025,13 +2025,13 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.2.1 Alpha 4</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed player names for desync impostor during Mushroom Mixup <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when shapeshift cooldown sets to 0 after Mushroom Mixup (Vanilla Bug) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Desync Impostor Reset Cooldown Sabotages (If setting Sabotage Cooldown Control is enabled, desync impostors resets cooldown sabotages when any sabotage is clicked) <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 - <font color=red><b>REMOVED</b></font>: Removed egoist count as setting from ParityCop <br>
 + <font color=green><b>NEW</b></font>: Added setting for Egoist to be counted as converted neutral <br>
 + <font color=green><b>NEW</b></font>: Added setting for converted madmate to kill without repercussions <br></p>
@@ -2042,19 +2042,19 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.2.1 Alpha 3</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Improved Banning system <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed converted player win conditions <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Remove &quot;Incompatible&quot; role assign <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix bug Hurried can be madmate <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong></a><br>
+<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Some miscellaneous fixes <br>
 + <font color=green><b>NEW</b></font>: Basic Crewmate Role: <RouteLink to="/options/Crewmates/Basic/Randomizer.html">Randomizer</RouteLink> (from Night) <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Doomsayer showing wrong count in message <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Optimized showing settings in the lobby (Host) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Killing Machine Vision <br>
@@ -2063,11 +2063,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 + <font color=green><b>NEW</b></font>: Disable Tasks In Fungle</p>
 </li>
 <li>
-<p>By <a href="https://github.com/NetherDragonTw" target="_blank" rel="noopener noreferrer"><strong>NetherDragonTw</strong></a><br>
+<p>By <a href="https://github.com/NetherDragonTw" target="_blank" rel="noopener noreferrer"><strong>NetherDragonTw</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated default Template message for Traditional Chinese <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Made Vector incompatible with Unlucky <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Lookout, Inspector and Swapper seeing double id with guesser addon <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Improved Trickster (Reverie killing Trickster increases cooldown, Always shows as a check mark for witness) <br>
@@ -2077,7 +2077,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 + <font color=green><b>NEW</b></font>: Role colors are now changable trough a new .dat file (User can change role colors by renaming templateRoleColor.dat to RoleColor.dat and adding hex colors in the file; Custom roles can be exported by pressing&quot;F5+X&quot; (same as custom translations)) <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer"><strong>lars-wu (papercut)</strong></a><br>
+<p>By <a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer"><strong>lars-wu (papercut)</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Crewmate Support Role: <RouteLink to="/options/Crewmates/Support/Enigma.html">Enigma</RouteLink> <br>
 + <font color=green><b>NEW</b></font>: Impostor Killing Role: <RouteLink to="/options/Impostors/Killing/Instigator.html">Instigator</RouteLink> <br></p>
 </li>
@@ -2087,7 +2087,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.2.1 Alpha 2</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat233</strong></a> <br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat233</strong><ExternalLinkIcon/></a> <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Recode admirer for better performance <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Admirer knowrole don't work properly <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix Admired Vrctor win condition check <br>
@@ -2104,7 +2104,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix taskbar always invisible <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a> <br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a> <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Improved code base for better performance <br>
 + <font color=green><b>NEW</b></font>: Camouflage skins (<font color=#ec7578>TommyXL</font> and <font color=#919497>Gurge44</font>) <br></p>
 </li>
@@ -2114,7 +2114,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.2.1 Alpha 1</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed /gno (Fixed wrong message being displayed when player guesses the number on their last guess.) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed preset settings overwritten (It will work after the game has been at least once. If you see the template getting reset after updating (for the first time) change between 2 presets and it will fix) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed copycat judge not able to trial <br>
@@ -2122,11 +2122,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#F6BE00><b>CHANGE</b></font>: Game end code for NKs reworked [Needs a lot of testing] (Please test this as much as possible (for NKs) and make bug reports if something is wrong with LOGS) <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/FuroYT" target="_blank" rel="noopener noreferrer"><strong>FuroYT</strong></a> <br>
+<p>By <a href="https://github.com/FuroYT" target="_blank" rel="noopener noreferrer"><strong>FuroYT</strong><ExternalLinkIcon/></a> <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated Dev tags <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a> <br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a> <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed teleporting bug for Pelican, Scavenger etc.. <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Fool <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Unlucky <br>
@@ -2144,22 +2144,22 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.1.0 Alpha 1</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a> <br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a> <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved «FixedUpdatePatch» <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Renamed Agent To Evil Tracker <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Renamed Disruptor To Anti Adminer <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer"><strong>lars-wu (papercut)</strong></a><br>
+<p>By <a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer"><strong>lars-wu (papercut)</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Added a new setting for Deathpact (Players in active Deathpact can call meeting) <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>Moe</strong></a><br>
+<p>By <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>Moe</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Added Jailer to Fortune Teller list <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Reorganized Options and fixed to adjust to renaming <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Arsonist will be Snitch's target if it can continue the game <br>
 + <font color=green><b>NEW</b></font>: Copycat can copy Spy <br>
 + <font color=green><b>NEW</b></font>: Crewpostor setting to kill after each x tasks completion <br>
@@ -2171,7 +2171,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed President x Doppelganger interaction <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank" rel="noopener noreferrer"><strong>Everyone</strong></a><br>
+<p>By <a href="https://github.com/0xDrMoe/TownofHost-Enhanced" target="_blank" rel="noopener noreferrer"><strong>Everyone</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated default template message for all translations by: <a href="#"><strong>ryuk</strong></a>, <a href="#"><strong>TommyXL</strong></a>, <a href="#"><strong>Dopzy</strong></a>, <a href="#"><strong>Dawson</strong></a>, <a href="#"><strong>LezaiYa</strong></a>, <a href="#"><strong>NetherDragonTw</strong></a> <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Several other bug fixes (Majorily by <a href="#"><strong>TommyXL</strong></a>) <br></p>
 </li>
@@ -2181,7 +2181,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.0.2 Alpha 4</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Ported Rebound from SLE (originally coded by SolarFlare) <br>
 + <font color=green><b>NEW</b></font>: Ported Mercenary from SLE (Vigilante) with a small change (originally coded by SolarFlare) <br>
 + <font color=green><b>NEW</b></font>: Re-added Gradients for Moderator and VIP tags with setting to turn it off <em><strong>Not Recommended to turn ON</strong></em> <br>
@@ -2194,11 +2194,11 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 + <font color=green><b>NEW</b></font>: Camo Skin (<font color=#9e2424>ryuk</font>) <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong></a><br>
+<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated Chinese announcement <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a> <br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a> <br>
 - <font color=red><b>REMOVED</b></font>: Removed Сoven roles in code (Shade, Coven Leader, Ritualist, Banshee) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Tracefinder see arrows when no one was dead <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed position Auto Re-join <br>
@@ -2215,7 +2215,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.0.2 Alpha 3.1</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Added double click to kill setting for Infectious<br>
 + <font color=green><b>NEW</b></font>: Added 2 lobby games /rps and /coinflip for ppl who die to early (lol)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Made Inspector use /cmp &amp; /compare, rather than /cp (ask moe why)<br>
@@ -2227,12 +2227,12 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 + <font color=#12edaf><b>REWORK</b></font>: Reworked Reverie (Idea: <span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Pyro </span>, Original Idea &amp; Code: TronAndRey) (Added increase and Max kill cooldown setting. Reverie misfires and dies with target after reaching Max cooldown)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer"><strong>lars-wu (papercut)</strong></a><br>
+<p>By <a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer"><strong>lars-wu (papercut)</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Added a new setting for Coroner (Inform killer about being tracked)<br>
 + <font color=green><b>NEW</b></font>: Added new setting for Twister (Hide who the players swap places with)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated Whitelist (You can add nicknames for keeping track of friend codes (friendcode#1234, nickname))<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: some other fixes<br></p>
 </li>
@@ -2241,7 +2241,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v1.0.2 Alpha 3</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>Moe</strong></a><br>
+<li>By <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>Moe</strong><ExternalLinkIcon/></a><br>
 = I hate ryuk<br>
 - <font color=red><b>REMOVED</b></font>: Herobrine 😱<br></li>
 </ul>
@@ -2253,7 +2253,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v1.0.2 Alpha 2.1</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<li>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: fixed President (modded clients should not see President without reveal (thanks <a href="#">Julius</a> for helping with testing!))<br></li>
 </ul>
 </details>
@@ -2261,15 +2261,15 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <summary><b><font color=#d395b4>v1.0.2 Alpha 2</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong></a><br>
+<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Crewmate Support Role: <RouteLink to="/options/Crewmates/Support/Spy.html">Spy</RouteLink><br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Tracefinder can no longer see arrows when no one was dead<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: President revealed to everyone Possibly fixed (needs testing) <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Admirer moved to Experimental (because Neutrals can win with og team) <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Reworked CheckEndGamePatch.cs (needs Heavy testing) <br>
@@ -2283,7 +2283,7 @@ We build on Stable 2.2.0 codebase so that we can fix the urgent things that brea
 <details>
 <summary><b><font color=#d395b4>v1.0.2 Alpha 1</font></b></summary>
 <ul>
-<li>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
+<li>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
 + <font color=green><b>NEW</b></font>: Crewmate Power Role: <RouteLink to="/options/Crewmates/Power/President.html">President</RouteLink> from SLE (if this goes well for a few days, we'll release a Beta)</li>
 </ul>
 </details>

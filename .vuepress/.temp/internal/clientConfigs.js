@@ -1,15 +1,12 @@
-import * as clientConfig0 from 'C:/Users/btric/OneDrive/Documents/Robert Important Files/tohedev/node_modules/@vuepress/plugin-active-header-links/lib/client/config.js'
-import * as clientConfig1 from 'C:/Users/btric/OneDrive/Documents/Robert Important Files/tohedev/node_modules/@vuepress/plugin-back-to-top/lib/client/config.js'
-import * as clientConfig2 from 'C:/Users/btric/OneDrive/Documents/Robert Important Files/tohedev/node_modules/@vuepress/plugin-copy-code/lib/client/config.js'
-import * as clientConfig3 from 'C:/Users/btric/OneDrive/Documents/Robert Important Files/tohedev/node_modules/@vuepress/plugin-markdown-hint/lib/client/config.js'
-import * as clientConfig4 from 'C:/Users/btric/OneDrive/Documents/Robert Important Files/tohedev/docs/.vuepress/.temp/git/config.js'
-import * as clientConfig5 from 'C:/Users/btric/OneDrive/Documents/Robert Important Files/tohedev/node_modules/@vuepress/plugin-medium-zoom/lib/client/config.js'
-import * as clientConfig6 from 'C:/Users/btric/OneDrive/Documents/Robert Important Files/tohedev/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
-import * as clientConfig7 from 'C:/Users/btric/OneDrive/Documents/Robert Important Files/tohedev/docs/.vuepress/.temp/prismjs/config.js'
-import * as clientConfig8 from 'C:/Users/btric/OneDrive/Documents/Robert Important Files/tohedev/docs/.vuepress/.temp/markdown-tab/config.js'
-import * as clientConfig9 from 'C:/Users/btric/OneDrive/Documents/Robert Important Files/tohedev/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
-import * as clientConfig10 from 'C:/Users/btric/OneDrive/Documents/Robert Important Files/tohedev/node_modules/@vuepress/theme-default/lib/client/config.js'
-import * as clientConfig11 from 'C:/Users/btric/OneDrive/Documents/Robert Important Files/tohedev/node_modules/@vuepress/plugin-search/lib/client/config.js'
+import clientConfig0 from 'C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/node_modules/@vuepress/plugin-active-header-links/lib/client/config.js'
+import clientConfig1 from 'C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/node_modules/@vuepress/plugin-back-to-top/lib/client/config.js'
+import clientConfig2 from 'C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/node_modules/@vuepress/plugin-copy-code/lib/client/config.js'
+import clientConfig3 from 'C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/node_modules/@vuepress/plugin-external-link-icon/lib/client/config.js'
+import clientConfig4 from 'C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/node_modules/@vuepress/plugin-medium-zoom/lib/client/config.js'
+import clientConfig5 from 'C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
+import clientConfig6 from 'C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
+import clientConfig7 from 'C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/node_modules/@vuepress/theme-default/lib/client/config.js'
+import clientConfig8 from 'C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/node_modules/@vuepress/plugin-search/lib/client/config.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -21,7 +18,4 @@ export const clientConfigs = [
   clientConfig6,
   clientConfig7,
   clientConfig8,
-  clientConfig9,
-  clientConfig10,
-  clientConfig11,
-].map((m) => m.default).filter(Boolean)
+]

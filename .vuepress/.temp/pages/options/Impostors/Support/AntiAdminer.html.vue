@@ -18,7 +18,7 @@ Note: Anti Adminer does not know for sure if someone is using the device while n
 </li>
 </ul>
 <blockquote>
-<p>From: TOHY &amp; Coding: <a href="https://github.com/Yumenopai" target="_blank" rel="noopener noreferrer">Yumenopai</a></p>
+<p>From: TOHY &amp; Coding: <a href="https://github.com/Yumenopai" target="_blank" rel="noopener noreferrer">Yumenopai<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

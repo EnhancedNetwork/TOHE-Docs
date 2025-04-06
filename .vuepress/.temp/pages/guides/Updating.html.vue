@@ -34,9 +34,9 @@ This policy is in place to keep the integrity of our Sponsor, Contributor, &amp;
 <ul>
 <li>To become a <b>Contributor</b>, you need to help with coding in roles/addons/gamemodes/etc related to the mod.<br></li>
 <li>To become a <b>Tester</b>, you must be an active content creator with 4 or more of your <b>Town of Host: Enhanced videos</b> having 600+ views on average.<br></li>
-<li>To become a <b>Sponsor</b>, you need to purchase a package on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website</a> (Insider tier for $5.00 grants Alpha Build access).<br></li>
+<li>To become a <b>Sponsor</b>, you need to purchase a package on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website<ExternalLinkIcon/></a> (Insider tier for $5.00 grants Alpha Build access).<br></li>
 </ul>
-<p>Visit <code v-pre>#alpha-builds</code> in TEN's <a href="https://discord.gg/ten" target="_blank" rel="noopener noreferrer">Discord Server</a> once you have been accepted into one of the above roles, and download the latest <code v-pre>TOHE.dll</code>!</p>
+<p>Visit <code v-pre>#alpha-builds</code> in TEN's <a href="https://discord.gg/ten" target="_blank" rel="noopener noreferrer">Discord Server<ExternalLinkIcon/></a> once you have been accepted into one of the above roles, and download the latest <code v-pre>TOHE.dll</code>!</p>
 </details></div></template>
 
 

@@ -51,7 +51,7 @@
 </li>
 </ul>
 <blockquote>
-<p>Based From: Flash Code (<a href="#">KARPED1EM</a>) &amp; Coding: <a href="https://github.com/NotPyro404" target="_blank" rel="noopener noreferrer">NotPyro404</a></p>
+<p>Based From: Flash Code (<a href="#">KARPED1EM</a>) &amp; Coding: <a href="https://github.com/NotPyro404" target="_blank" rel="noopener noreferrer">NotPyro404<ExternalLinkIcon/></a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

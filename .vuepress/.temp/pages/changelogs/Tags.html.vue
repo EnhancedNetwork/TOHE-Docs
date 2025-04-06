@@ -1,4 +1,4 @@
-<template><div><h2 id="all-changelog-tags" tabindex="-1"><a class="header-anchor" href="#all-changelog-tags"><span><font size=5em><b>All Changelog Tags:</b></font><br></span></a></h2>
+<template><div><h2 id="all-changelog-tags" tabindex="-1"><a class="header-anchor" href="#all-changelog-tags"><span><font color=#f0b6d5>All Changelog Tags:</font></span></a></h2>
 <p>These are Tags to help you differentiate between Bugs &amp; Changes, Additions &amp; Reworks, Removals &amp; Reverts.</p>
 <hr>
 <font size=3em>

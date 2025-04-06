@@ -23,7 +23,7 @@
 </tr>
 <tr>
 <td><a href="#killing" style="color:#6a0000"><b>🔪 Killing</b></a></td>
-<td align="center">29</td>
+<td align="center">28</td>
 </tr>
 <tr>
 <td><a href="#madmate" style="color:red"><b>😡 Madmate</b></a></td>
@@ -36,6 +36,10 @@
 <tr>
 <td><a href="#vanilla" style="color:#8cffff"><b>🍦 Vanilla</b></a> </td>
 <td align="center">3</td>
+</tr>
+<tr>
+<td><a href="#secondary" style="color:#7f8c8d"><b>2️⃣ Secondary</b></a> </td>
+<td align="center">1</td>
 </tr>
 <tr>
 <td><font color=red><b>📊 Total:</b></font></td>
@@ -59,7 +63,7 @@
 <br></p>
 <h3 id="killing" tabindex="-1"><a class="header-anchor" href="#killing"><span><font color=#6a0000><b>Killing</b></font></span></a></h3>
 <hr>
-<p><RouteLink to="/options/Impostors/Killing/Arrogance.html">Arrogance</RouteLink> | <RouteLink to="/options/Impostors/Killing/Bard.html">Bard</RouteLink> | <RouteLink to="/options/Impostors/Killing/Bomber.html">Bomber</RouteLink> | <RouteLink to="/options/Impostors/Killing/BountyHunter.html">Bounty Hunter</RouteLink> | <RouteLink to="/options/Impostors/Killing/Butcher.html">Butcher</RouteLink> | <RouteLink to="/options/Impostors/Killing/Chronomancer.html">Chronomancer</RouteLink> | <RouteLink to="/options/Impostors/Killing/Councillor.html">Councillor</RouteLink> | <RouteLink to="/options/Impostors/Killing/CursedWolf.html">Cursed Wolf</RouteLink> | <RouteLink to="/options/Impostors/Killing/Deathpact.html">Deathpact</RouteLink> | <RouteLink to="/options/Impostors/Killing/EvilGuesser.html">Evil Guesser</RouteLink> | <RouteLink to="/options/Impostors/Killing/EvilHacker.html">Evil Hacker</RouteLink> | <RouteLink to="/options/Impostors/Killing/EvilTracker.html">Evil Tracker</RouteLink> | <RouteLink to="/options/Impostors/Killing/Greedy.html">Greedy</RouteLink> | <RouteLink to="/options/Impostors/Killing/Hangman.html">Hangman</RouteLink> | <RouteLink to="/options/Impostors/Killing/Inhibitor.html">Inhibitor</RouteLink> | <RouteLink to="/options/Impostors/Killing/Instigator.html">Instigator</RouteLink> | <RouteLink to="/options/Impostors/Killing/KillingMachine.html">Killing Machine</RouteLink> | <RouteLink to="/options/Impostors/Killing/Ludopath.html">Ludopath</RouteLink> | <RouteLink to="/options/Impostors/Killing/Lurker.html">Lurker</RouteLink> | <RouteLink to="/options/Impostors/Killing/Mercenary.html">Mercenary</RouteLink> | <RouteLink to="/options/Impostors/Killing/Ninja.html">Ninja</RouteLink> | <RouteLink to="/options/Impostors/Killing/QuickShooter.html">Quick Shooter</RouteLink> | <RouteLink to="/options/Impostors/Killing/Saboteur.html">Saboteur</RouteLink> | <RouteLink to="/options/Impostors/Killing/Sniper.html">Sniper</RouteLink> | <RouteLink to="/options/Impostors/Killing/Trapster.html">Trapster</RouteLink> | <RouteLink to="/options/Impostors/Killing/Underdog.html">Underdog</RouteLink> | <RouteLink to="/options/Impostors/Killing/Witch.html">Witch</RouteLink> | <RouteLink to="/options/Impostors/Killing/YinYanger.html">YinYanger</RouteLink> | <RouteLink to="/options/Impostors/Killing/Zombie.html">Zombie</RouteLink>
+<p><RouteLink to="/options/Impostors/Killing/Arrogance.html">Arrogance</RouteLink> | <RouteLink to="/options/Impostors/Killing/Bomber.html">Bomber</RouteLink> | <RouteLink to="/options/Impostors/Killing/BountyHunter.html">Bounty Hunter</RouteLink> | <RouteLink to="/options/Impostors/Killing/Butcher.html">Butcher</RouteLink> | <RouteLink to="/options/Impostors/Killing/Chronomancer.html">Chronomancer</RouteLink> | <RouteLink to="/options/Impostors/Killing/Councillor.html">Councillor</RouteLink> | <RouteLink to="/options/Impostors/Killing/CursedWolf.html">Cursed Wolf</RouteLink> | <RouteLink to="/options/Impostors/Killing/Deathpact.html">Deathpact</RouteLink> | <RouteLink to="/options/Impostors/Killing/EvilGuesser.html">Evil Guesser</RouteLink> | <RouteLink to="/options/Impostors/Killing/EvilHacker.html">Evil Hacker</RouteLink> | <RouteLink to="/options/Impostors/Killing/EvilTracker.html">Evil Tracker</RouteLink> | <RouteLink to="/options/Impostors/Killing/Greedy.html">Greedy</RouteLink> | <RouteLink to="/options/Impostors/Killing/Hangman.html">Hangman</RouteLink> | <RouteLink to="/options/Impostors/Killing/Inhibitor.html">Inhibitor</RouteLink> | <RouteLink to="/options/Impostors/Killing/Instigator.html">Instigator</RouteLink> | <RouteLink to="/options/Impostors/Killing/KillingMachine.html">Killing Machine</RouteLink> | <RouteLink to="/options/Impostors/Killing/Ludopath.html">Ludopath</RouteLink> | <RouteLink to="/options/Impostors/Killing/Lurker.html">Lurker</RouteLink> | <RouteLink to="/options/Impostors/Killing/Mercenary.html">Mercenary</RouteLink> | <RouteLink to="/options/Impostors/Killing/Ninja.html">Ninja</RouteLink> | <RouteLink to="/options/Impostors/Killing/QuickShooter.html">Quick Shooter</RouteLink> | <RouteLink to="/options/Impostors/Killing/Saboteur.html">Saboteur</RouteLink> | <RouteLink to="/options/Impostors/Killing/Sniper.html">Sniper</RouteLink> | <RouteLink to="/options/Impostors/Killing/Trapster.html">Trapster</RouteLink> | <RouteLink to="/options/Impostors/Killing/Underdog.html">Underdog</RouteLink> | <RouteLink to="/options/Impostors/Killing/Witch.html">Witch</RouteLink> | <RouteLink to="/options/Impostors/Killing/YinYanger.html">YinYanger</RouteLink> | <RouteLink to="/options/Impostors/Killing/Zombie.html">Zombie</RouteLink>
 <br></p>
 <h3 id="madmate" tabindex="-1"><a class="header-anchor" href="#madmate"><span><font color=red><b>Madmate</b></font></span></a></h3>
 <hr>
@@ -71,7 +75,10 @@
 <br></p>
 <h3 id="vanilla" tabindex="-1"><a class="header-anchor" href="#vanilla"><span><font color=#8cffff><b>Vanilla</b></font></span></a></h3>
 <hr>
-<p><RouteLink to="/options/Impostors/Vanilla/Impostor.html">Impostor</RouteLink> | <RouteLink to="/options/Impostors/Vanilla/Phantom.html">Phantom</RouteLink> | <RouteLink to="/options/Impostors/Vanilla/Shapeshifter.html">Shapeshifter</RouteLink>
+<p><RouteLink to="/options/Impostors/Vanilla/Impostor.html">Impostor</RouteLink> | <RouteLink to="/options/Impostors/Vanilla/Phantom.html">Phantom</RouteLink> | <RouteLink to="/options/Impostors/Vanilla/Shapeshifter.html">Shapeshifter</RouteLink></p>
+<h3 id="secondary" tabindex="-1"><a class="header-anchor" href="#secondary"><span><font color=#7f8c8d><b>Secondary</b></font></span></a></h3>
+<hr>
+<p><RouteLink to="/options/Impostors/Secondary/Bard.html">Bard</RouteLink>
 <br></p>
 <br>
 <details>

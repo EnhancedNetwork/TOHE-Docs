@@ -7,11 +7,11 @@
 </tr>
 <tr>
 <td><a href="#apocalypse" style="color:#cc0044"><b>🚨 Apocalypse</b></a></td>
-<td align="center">8</td>
+<td align="center">4</td>
 </tr>
 <tr>
 <td><a href="#benign" style="color:#046300"><b>🕊️ Benign</b></a></td>
-<td align="center">18</td>
+<td align="center">16</td>
 </tr>
 <tr>
 <td><a href="#chaos" style="color:#d4af37"><b>😈 Chaos</b></a></td>
@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td><a href="#evil" style="color:#912900"><b>👹 Evil</b></a></td>
-<td align="center">7</td>
+<td align="center">6</td>
 </tr>
 <tr>
 <td><a href="#experimental" style="color:#4d3222"><b>🚧 Experimental</b></a></td>
@@ -30,6 +30,10 @@
 <td align="center">24</td>
 </tr>
 <tr>
+<td><a href="#secondary" style="color:#7f8c8d"><b>2️⃣ Secondary</b></a></td>
+<td align="center">7</td>
+</tr>
+<tr>
 <td><font color=#7c8c8d><b>📊 Total:</b></font></td>
 <td align="center"><b>70</b></td>
 </tr>
@@ -37,10 +41,10 @@
 <br>
 <h3 id="apocalypse" tabindex="-1"><a class="header-anchor" href="#apocalypse"><span><font color=#cc0044><b>Apocalypse</b></font></span></a></h3>
 <hr>
-<p><RouteLink to="/options/Neutrals/Apocalypse/Baker.html">Baker</RouteLink> | <RouteLink to="/options/Neutrals/Apocalypse/Famine.html">Famine</RouteLink> | <RouteLink to="/options/Neutrals/Apocalypse/Berserker.html">Berserker</RouteLink> | <RouteLink to="/options/Neutrals/Apocalypse/War.html">War</RouteLink> | <RouteLink to="/options/Neutrals/Apocalypse/Plaguebearer.html">Plaguebearer</RouteLink> | <RouteLink to="/options/Neutrals/Apocalypse/Pestilence.html">Pestilence</RouteLink> | <RouteLink to="/options/Neutrals/Apocalypse/SoulCollector.html">Soul Collector</RouteLink> | <RouteLink to="/options/Neutrals/Apocalypse/Death.html">Death</RouteLink></p>
+<p><RouteLink to="/options/Neutrals/Apocalypse/Baker.html">Baker</RouteLink> | <RouteLink to="/options/Neutrals/Apocalypse/Berserker.html">Berserker</RouteLink> | <RouteLink to="/options/Neutrals/Apocalypse/Plaguebearer.html">Plaguebearer</RouteLink> | <RouteLink to="/options/Neutrals/Apocalypse/SoulCollector.html">Soul Collector</RouteLink></p>
 <h3 id="benign" tabindex="-1"><a class="header-anchor" href="#benign"><span><font color=#046300><b>Benign</b></font></span></a></h3>
 <hr>
-<p><RouteLink to="/options/Neutrals/Benign/Amnesiac.html">Amnesiac</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Follower.html">Follower</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Hater.html">Hater</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Lawyer.html">Lawyer</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Maverick.html">Maverick</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Opportunist.html">Opportunist</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Pixie.html">Pixie</RouteLink> | <RouteLink to="/options/Neutrals/Chaos/Provocateur.html">Provocateur</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Pursuer.html">Pursuer</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Revenant.html">Revenant</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Romantic.html">Romantic</RouteLink> | <RouteLink to="/options/Neutrals/Benign/RuthlessRomantic.html">Ruthless Romantic</RouteLink> | <RouteLink to="/options/Neutrals/Benign/VengefulRomantic.html">Vengeful Romantic</RouteLink> | <RouteLink to="/options/Neutrals/Benign/SchrodingersCat.html">Schrodingers Cat</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Shaman.html">Shaman</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Taskinator.html">Taskinator</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Troller.html">Troller</RouteLink></p>
+<p><RouteLink to="/options/Neutrals/Benign/Amnesiac.html">Amnesiac</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Follower.html">Follower</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Hater.html">Hater</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Lawyer.html">Lawyer</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Maverick.html">Maverick</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Opportunist.html">Opportunist</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Pixie.html">Pixie</RouteLink> | <RouteLink to="/options/Neutrals/Chaos/Provocateur.html">Provocateur</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Pursuer.html">Pursuer</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Revenant.html">Revenant</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Romantic.html">Romantic</RouteLink> | <RouteLink to="/options/Neutrals/Benign/SchrodingersCat.html">Schrodingers Cat</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Shaman.html">Shaman</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Taskinator.html">Taskinator</RouteLink> | <RouteLink to="/options/Neutrals/Benign/Troller.html">Troller</RouteLink></p>
 <h3 id="chaos" tabindex="-1"><a class="header-anchor" href="#chaos"><span><font color=#d4af37><b>Chaos</b></font></span></a></h3>
 <hr>
 <p><RouteLink to="/options/Neutrals/Chaos/Collector.html">Collector</RouteLink> | <RouteLink to="/options/Neutrals/Chaos/God.html">God</RouteLink> | <RouteLink to="/options/Neutrals/Chaos/Pirate.html">Pirate</RouteLink> | <RouteLink to="/options/Neutrals/Chaos/Revolutionist.html">Revolutionist</RouteLink> | <RouteLink to="/options/Neutrals/Chaos/Solsticer.html">Solsticer</RouteLink> | <RouteLink to="/options/Neutrals/Chaos/Specter.html">Specter</RouteLink> | <RouteLink to="/options/Neutrals/Chaos/Terrorist.html">Terrorist</RouteLink> | <RouteLink to="/options/Neutrals/Chaos/Vector.html">Vector</RouteLink> | <RouteLink to="/options/Neutrals/Chaos/Vulture.html">Vulture</RouteLink> | <RouteLink to="/options/Neutrals/Chaos/Workaholic.html">Workaholic</RouteLink></p>
@@ -52,7 +56,10 @@
 <p><RouteLink to="/options/Neutrals/Experimental/Imitator.html">Imitator</RouteLink> | <RouteLink to="/options/Neutrals/Experimental/Quizmaster.html">Quizmaster</RouteLink> | <RouteLink to="/options/Neutrals/Experimental/Shocker.html">Shocker</RouteLink></p>
 <h3 id="killing" tabindex="-1"><a class="header-anchor" href="#killing"><span><font color=red><b>Killing</b></font></span></a></h3>
 <hr>
-<p><RouteLink to="/options/Neutrals/Killing/Agitator.html">Agitator</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Arsonist.html">Arsonist</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Bandit.html">Bandit</RouteLink> | <RouteLink to="/options/Neutrals/Killing/BloodKnight.html">Blood Knight</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Cultist.html">Cultist</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Demon.html">Demon</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Glitch.html">Glitch</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Huntsman.html">Huntsman</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Infectious.html">Infectious</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Jackal.html">Jackal</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Juggernaut.html">Juggernaut</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Pelican.html">Pelican</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Pickpocket.html">Pickpocket</RouteLink> | <RouteLink to="/options/Neutrals/Killing/PlagueScientist.html">Plague Scientist</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Pyromaniac.html">Pyromaniac</RouteLink> | <RouteLink to="/options/Neutrals/Killing/SerialKiller.html">Serial Killer</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Shroud.html">Shroud</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Spiritcaller.html">Spiritcaller</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Stalker.html">Stalker</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Traitor.html">Traitor</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Virus.html">Virus</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Werewolf.html">Werewolf</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Wraith.html">Wraith</RouteLink>
+<p><RouteLink to="/options/Neutrals/Killing/Agitator.html">Agitator</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Arsonist.html">Arsonist</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Bandit.html">Bandit</RouteLink> | <RouteLink to="/options/Neutrals/Killing/BloodKnight.html">Blood Knight</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Cultist.html">Cultist</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Demon.html">Demon</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Glitch.html">Glitch</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Huntsman.html">Huntsman</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Infectious.html">Infectious</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Jackal.html">Jackal</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Juggernaut.html">Juggernaut</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Pelican.html">Pelican</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Pickpocket.html">Pickpocket</RouteLink> | <RouteLink to="/options/Neutrals/Killing/PlagueScientist.html">Plague Scientist</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Pyromaniac.html">Pyromaniac</RouteLink> | <RouteLink to="/options/Neutrals/Killing/SerialKiller.html">Serial Killer</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Shroud.html">Shroud</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Spiritcaller.html">Spiritcaller</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Stalker.html">Stalker</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Traitor.html">Traitor</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Virus.html">Virus</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Werewolf.html">Werewolf</RouteLink> | <RouteLink to="/options/Neutrals/Killing/Wraith.html">Wraith</RouteLink></p>
+<h3 id="secondary" tabindex="-1"><a class="header-anchor" href="#secondary"><span><font color=#7f8c8d><b>Secondary</b></font></span></a></h3>
+<hr>
+<p><RouteLink to="/options/Neutrals/Secondary/Famine.html">Famine</RouteLink> | <RouteLink to="/options/Neutrals/Secondary/War.html">War</RouteLink> | <RouteLink to="/options/Neutrals/Apocalypse/Pestilence.html">Pestilence</RouteLink> | <RouteLink to="/options/Neutrals/Secondary/Death.html">Death</RouteLink> | <RouteLink to="/options/Neutrals/Secondary/RuthlessRomantic.html">Ruthless Romantic</RouteLink> | <RouteLink to="/options/Neutrals/Secondary/VengefulRomantic.html">Vengeful Romantic</RouteLink> | <RouteLink to="/options/Neutrals/Secondary/Sunnyboy.html">Sunnyboy</RouteLink>
 <br></p>
 <details>
 <summary><font color=#7f8c8d size='4em'><b> Neutral Settings</b></font></summary>

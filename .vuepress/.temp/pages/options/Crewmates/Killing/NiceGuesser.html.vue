@@ -42,7 +42,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: TheOtherRoles, Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a>、<a href="https://github.com/commandf1" target="_blank" rel="noopener noreferrer">Commandf1<ExternalLinkIcon/></a></p>
+<p>From: TheOtherRoles, Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM</a>、<a href="https://github.com/commandf1" target="_blank" rel="noopener noreferrer">Commandf1</a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

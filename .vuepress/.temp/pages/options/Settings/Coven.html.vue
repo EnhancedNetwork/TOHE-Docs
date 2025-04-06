@@ -7,7 +7,7 @@
 </tr>
 <tr>
 <td><a href="#experimental" style="color:#451a61"><b>🚧 Experimental</b></a></td>
-<td align="center">0</td>
+<td align="center">1</td>
 </tr>
 <tr>
 <td><a href="#killing" style="color:#782ea9"><b>⚔️ Killing</b></a></td>
@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td><a href="#trickery" style="color:#8d6da2"><b>🎩 Trickery</b></a></td>
-<td align="center">2</td>
+<td align="center">3</td>
 </tr>
 <tr>
 <td><a href="#utility" style="color:#deb3fa"><b>🎁 Utility</b></a></td>
@@ -27,7 +27,7 @@
 </tr>
 <tr>
 <td><font color=#9b3bda><b>📊 Total:</b></font></td>
-<td align="center"><b>13</b></td>
+<td align="center"><b>15</b></td>
 </tr>
 </table>
 <br>
@@ -42,10 +42,10 @@
 <p><RouteLink to="/options/Coven/Power/CovenLeader.html">Coven Leader</RouteLink> | <RouteLink to="/options/Coven/Power/Ritualist.html">Ritualist</RouteLink></p>
 <h3 id="trickery" tabindex="-1"><a class="header-anchor" href="#trickery"><span><font color=#8d6da2><b>Trickery</b></font></span></a></h3>
 <hr>
-<p><RouteLink to="/options/Coven/Trickery/Illusionist.html">Illusionist</RouteLink> | <RouteLink to="/options/Coven/Trickery/Poisoner.html">Poisoner</RouteLink></p>
+<p><RouteLink to="/options/Coven/Trickery/Dreamweaver.html">Dreamweaver</RouteLink> | <RouteLink to="/options/Coven/Trickery/Illusionist.html">Illusionist</RouteLink> | <RouteLink to="/options/Coven/Trickery/Poisoner.html">Poisoner</RouteLink></p>
 <h3 id="utility" tabindex="-1"><a class="header-anchor" href="#utility"><span><font color=#deb3fa><b>Utility</b></font></span></a></h3>
 <hr>
-<p><RouteLink to="/options/Coven/Utility/MoonDancer.html">Moon Dancer</RouteLink> | <RouteLink to="/options/Coven/Utility/Medusa.html">Medusa</RouteLink> | <RouteLink to="/options/Coven/Utility/Necromancer.html">Necromancer</RouteLink> | <RouteLink to="/options/Coven/Utility/PotionMaster.html">Potion Master</RouteLink> | <RouteLink to="/options/Coven/Utility/Sacrifist.html">Sacrifist</RouteLink> | <RouteLink to="/options/Coven/Utility/VoodooMaster.html">Voodoo Master</RouteLink></p>
+<p><RouteLink to="/options/Coven/Utility/Harvester.html">Harvester</RouteLink> | <RouteLink to="/options/Coven/Utility/Medusa.html">Medusa</RouteLink> | <RouteLink to="/options/Coven/Utility/MoonDancer.html">Moon Dancer</RouteLink> | <RouteLink to="/options/Coven/Utility/Necromancer.html">Necromancer</RouteLink> | <RouteLink to="/options/Coven/Utility/PotionMaster.html">Potion Master</RouteLink> | <RouteLink to="/options/Coven/Utility/Sacrifist.html">Sacrifist</RouteLink> | <RouteLink to="/options/Coven/Utility/VoodooMaster.html">Voodoo Master</RouteLink></p>
 <br>
 <details>
 <summary><font color=#ac42f2 size='4em'><b>Settings</b></font></summary>

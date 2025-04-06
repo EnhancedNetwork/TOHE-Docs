@@ -17,7 +17,7 @@ next: /Roles.html
 
 <tr>
 <td><a href="#experimental" style="color:#451a61"><b>🚧 Experimental</b></a></td>
-<td align="center">0</td>
+<td align="center">1</td>
 </tr>
 
 <tr>
@@ -32,7 +32,7 @@ next: /Roles.html
 
 <tr>
 <td><a href="#trickery" style="color:#8d6da2"><b>🎩 Trickery</b></a></td>
-<td align="center">2</td>
+<td align="center">3</td>
 </tr>
 
 <tr>
@@ -43,7 +43,7 @@ next: /Roles.html
 
 <tr>
 <td><font color=#9b3bda><b>📊 Total:</b></font></td>
-<td align="center"><b>13</b></td>
+<td align="center"><b>15</b></td>
 </tr>
 
 </table>
@@ -63,11 +63,11 @@ next: /Roles.html
 
 ### <font color=#8d6da2><b>Trickery</b></font>
 ---
-[Illusionist](/options/Coven/Trickery/Illusionist.html) | [Poisoner](/options/Coven/Trickery/Poisoner.html)
+[Dreamweaver](/options/Coven/Trickery/Dreamweaver.html) | [Illusionist](/options/Coven/Trickery/Illusionist.html) | [Poisoner](/options/Coven/Trickery/Poisoner.html)
 
 ### <font color=#deb3fa><b>Utility</b></font>
 ---
-[Moon Dancer](/options/Coven/Utility/MoonDancer.html) | [Medusa](/options/Coven/Utility/Medusa.html) | [Necromancer](/options/Coven/Utility/Necromancer.html) | [Potion Master](/options/Coven/Utility/PotionMaster.html) | [Sacrifist](/options/Coven/Utility/Sacrifist.html) | [Voodoo Master](/options/Coven/Utility/VoodooMaster.html)
+[Harvester](/options/Coven/Utility/Harvester.html) | [Medusa](/options/Coven/Utility/Medusa.html) | [Moon Dancer](/options/Coven/Utility/MoonDancer.html) | [Necromancer](/options/Coven/Utility/Necromancer.html) | [Potion Master](/options/Coven/Utility/PotionMaster.html) | [Sacrifist](/options/Coven/Utility/Sacrifist.html) | [Voodoo Master](/options/Coven/Utility/VoodooMaster.html)
 
 <br>
 

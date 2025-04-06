@@ -54,7 +54,7 @@
 </li>
 </ul>
 <blockquote>
-<p>Idea: <a href="#">FlyFlyTurtle</a> &amp; Coding: <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer">Drakos<ExternalLinkIcon/></a></p>
+<p>Idea: <a href="#">FlyFlyTurtle</a> &amp; Coding: <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer">Drakos</a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

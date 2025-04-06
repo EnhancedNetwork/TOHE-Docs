@@ -13,18 +13,18 @@ sidebar:
 contributors: false
 ---
 
-# Roles
+# <font color=#f0b6d5>Roles</font>
 
 <font size=3em><b>Latest Versions:</b></font><br>
 
 <table>
 <tr>
 <td><a href="/changelogs/Alpha.html" style="color:#997d6d"><b>Alpha</b></a></td>
-<td>v2.2.0 Alpha 17.1</td>
+<td>v2.3.0 Alpha 6</td>
 </tr>
 <tr>
 <td><a href="/changelogs/Beta.html" style="color:#6d7299"><b>Beta</b></a></td>
-<td>v2.2.0 Beta 4</td>
+<td>v2.2.1 Beta 1</td>
 </tr>
 <tr>
 <td><a href="/changelogs/Stable.html" style="color:#996d7f"><b>Stable</b></a></td>
@@ -43,12 +43,12 @@ contributors: false
 <tr>
 <td><a href="/options/Settings/Coven.html" style="color:#ac42f2"><b>🧙‍♀️ Coven</b></a></td>
 <td>Play together and win via killing/voting out all Crewmates/Neutrals/Impostors</td>
-<td align="center">13</td>
+<td align="center">15</td>
 </tr>
 <tr>
 <td><a href="/options/Settings/Crewmates.html" style="color:#8cffff"><b>🦸‍♂️ Crewmates</b> </a></td>
 <td>Play together and win by completing all tasks/voting out all Evil</td>
-<td align="center">81</td>
+<td align="center">83</td>
 </tr>
 <tr>
 <td><a href="/options/Settings/Impostors.html" style="color:red"><b>🦹‍♂️ Impostors</b></a></td>

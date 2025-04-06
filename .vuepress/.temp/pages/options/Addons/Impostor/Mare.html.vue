@@ -18,7 +18,8 @@
 </ul>
 </li>
 </ul>
-<div class="custom-container tip"><p class="custom-container-title">Fun Fact</p>
+<div class="hint-container tip">
+<p class="hint-container-title">Fun Fact</p>
 <p>Mare was originally a Role, but was later changed to an Impostor debuff addon.</p>
 </div>
 <blockquote>

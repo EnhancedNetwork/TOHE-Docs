@@ -67,7 +67,7 @@ A player can only be erased once</p>
 </li>
 </ul>
 <blockquote>
-<p>Idea &amp; Coding: <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">NikoCat223<ExternalLinkIcon/></a></p>
+<p>Idea &amp; Coding: <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">NikoCat223</a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

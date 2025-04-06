@@ -7,7 +7,7 @@
 </tr>
 <tr>
 <td><a href="#basic" style="color:#e69c9c"><b>🧒 Basic</b></a></td>
-<td align="center">16</td>
+<td align="center">14</td>
 </tr>
 <tr>
 <td><a href="#experimental" style="color:#224c4d"><b>🚧 Experimental</b></a></td>
@@ -34,8 +34,12 @@
 <td align="center">6</td>
 </tr>
 <tr>
+<td><a href="#secondary" style="color:#7f8c8d"><b>2️⃣ Secondary</b></a></td>
+<td align="center">3</td>
+</tr>
+<tr>
 <td><font color=#8cffff><b>📊 Total:</b></font></td>
-<td align="center"><b>81</b></td>
+<td align="center"><b>83</b></td>
 </tr>
 </table>
 <br>
@@ -63,7 +67,10 @@
 <br></p>
 <h3 id="vanilla" tabindex="-1"><a class="header-anchor" href="#vanilla"><span><font color=#8cffff><b>Vanilla</b></font></span></a></h3>
 <hr>
-<p><RouteLink to="/options/Crewmates/Vanilla/Crewmate.html">Crewmate</RouteLink> | <RouteLink to="/options/Crewmates/Vanilla/Engineer.html">Engineer</RouteLink> | <RouteLink to="/options/Crewmates/Vanilla/GuardianAngel.html">Guardian Angel</RouteLink> | <RouteLink to="/options/Crewmates/Vanilla/Noisemaker.html">Noisemaker</RouteLink> | <RouteLink to="/options/Crewmates/Vanilla/Scientist.html">Scientist</RouteLink> | <RouteLink to="/options/Crewmates/Vanilla/Tracker.html">Tracker</RouteLink>
+<p><RouteLink to="/options/Crewmates/Vanilla/Crewmate.html">Crewmate</RouteLink> | <RouteLink to="/options/Crewmates/Vanilla/Engineer.html">Engineer</RouteLink> | <RouteLink to="/options/Crewmates/Vanilla/GuardianAngel.html">Guardian Angel</RouteLink> | <RouteLink to="/options/Crewmates/Vanilla/Noisemaker.html">Noisemaker</RouteLink> | <RouteLink to="/options/Crewmates/Vanilla/Scientist.html">Scientist</RouteLink> | <RouteLink to="/options/Crewmates/Vanilla/Tracker.html">Tracker</RouteLink></p>
+<h3 id="secondary" tabindex="-1"><a class="header-anchor" href="#secondary"><span><font color=#7f8c8d><b>Secondary</b></font></span></a></h3>
+<hr>
+<p><RouteLink to="/options/Crewmates/Secondary/MiniNice.html">Nice Mini</RouteLink> | <RouteLink to="/options/Crewmates/Secondary/MiniEvil.html">Evil Mini</RouteLink> | <RouteLink to="/options/Crewmates/Secondary/Requiter.html">Requiter</RouteLink>
 <br></p>
 </div></template>
 

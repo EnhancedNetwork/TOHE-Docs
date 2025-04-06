@@ -35,7 +35,7 @@
 </li>
 </ul>
 <blockquote>
-<p>Idea: [Night] &amp; Coding: <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer">乐崽吖<ExternalLinkIcon/></a></p>
+<p>Idea: [Night] &amp; Coding: <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer">乐崽吖</a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

@@ -24,7 +24,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: <a href="#">我若戏命</a> &amp; Coding: <a href="https://space.bilibili.com/443432765" target="_blank" rel="noopener noreferrer">喜<ExternalLinkIcon/></a></p>
+<p>From: <a href="#">我若戏命</a> &amp; Coding: <a href="https://space.bilibili.com/443432765" target="_blank" rel="noopener noreferrer">喜</a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

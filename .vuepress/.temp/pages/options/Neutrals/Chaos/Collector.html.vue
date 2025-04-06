@@ -14,7 +14,7 @@
 </li>
 </ul>
 <blockquote>
-<p>Idea &amp; Coding: <a href="https://github.com/NCSIMON" target="_blank" rel="noopener noreferrer">NCSIMON<ExternalLinkIcon/></a></p>
+<p>Idea &amp; Coding: <a href="https://github.com/NCSIMON" target="_blank" rel="noopener noreferrer">NCSIMON</a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>
@@ -34,7 +34,7 @@ But then he had an idea what if he replicated his own finger prints?</p>
 Put this in the system recording votes of anyone person...</p>
 <p>Then he got his voted
 14/15...</p>
-<p>What now? Its only 4 people left and 1 killer..
+<p>What now? It's only 4 people left and 1 killer..
 What if he said one of the killers was his medic and Hard cleared him... and self reported?</p>
 <p>Amazing idea...
 And due to this He died...</p>

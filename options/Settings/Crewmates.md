@@ -17,7 +17,7 @@ next: /Roles.html
 
 <tr>
 <td><a href="#basic" style="color:#e69c9c"><b>🧒 Basic</b></a></td>
-<td align="center">16</td>
+<td align="center">14</td>
 </tr>
 
 <tr>
@@ -51,8 +51,13 @@ next: /Roles.html
 </tr>
 
 <tr>
+<td><a href="#secondary" style="color:#7f8c8d"><b>2️⃣ Secondary</b></a></td>
+<td align="center">3</td>
+</tr>
+
+<tr>
 <td><font color=#8cffff><b>📊 Total:</b></font></td>
-<td align="center"><b>81</b></td>
+<td align="center"><b>83</b></td>
 </tr>
 
 </table>
@@ -89,4 +94,8 @@ next: /Roles.html
 ### <font color=#8cffff><b>Vanilla</b></font>
 ---
 [Crewmate](/options/Crewmates/Vanilla/Crewmate.html) | [Engineer](/options/Crewmates/Vanilla/Engineer.html) | [Guardian Angel](/options/Crewmates/Vanilla/GuardianAngel.html) | [Noisemaker](/options/Crewmates/Vanilla/Noisemaker.html) | [Scientist](/options/Crewmates/Vanilla/Scientist.html) | [Tracker](/options/Crewmates/Vanilla/Tracker.html)
+
+### <font color=#7f8c8d><b>Secondary</b></font>
+---
+[Nice Mini](/options/Crewmates/Secondary/MiniNice.html) | [Evil Mini](/options/Crewmates/Secondary/MiniEvil.html) | [Requiter](/options/Crewmates/Secondary/Requiter.html)
 <br>

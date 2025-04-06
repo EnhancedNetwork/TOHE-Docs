@@ -41,7 +41,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: Town of Us Reactivated &amp; Coding: <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">Tommy-XL<ExternalLinkIcon/></a></p>
+<p>From: Town of Us Reactivated &amp; Coding: <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">Tommy-XL</a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

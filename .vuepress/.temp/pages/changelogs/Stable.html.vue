@@ -1,5 +1,5 @@
-<template><div><h2 id="all-stable-releases-changelogs" tabindex="-1"><a class="header-anchor" href="#all-stable-releases-changelogs"><span><font size=5em><b>All Stable Releases/Changelogs:</b></font><br></span></a></h2>
-<p>To access Stable Builds, you can visit TEN's <a href="https://discord.gg/ten" target="_blank" rel="noopener noreferrer">Discord Server<ExternalLinkIcon/></a> and download the latest release in #tohe-release, or go straight to our Releases on <a href="github.com/EnhancedNetwork/TownofHost-Enhanced/releases/latest">GitHub</a>!</p>
+<template><div><h2 id="all-stable-releases-changelogs" tabindex="-1"><a class="header-anchor" href="#all-stable-releases-changelogs"><span><font color=#f0b6d5>All Stable Releases/Changelogs:</font></span></a></h2>
+<p>To access Stable Builds, you can visit TEN's <a href="https://discord.gg/ten" target="_blank" rel="noopener noreferrer">Discord Server</a> and download the latest release in #tohe-release, or go straight to our Releases on <a href="github.com/EnhancedNetwork/TownofHost-Enhanced/releases/latest">GitHub</a>!</p>
 <p><b><font color=#cf4e8f>Latest Release</font></b><br>
 <b><font color=#d395b4>Previous Release</font></b></p>
 <hr>
@@ -16,12 +16,12 @@ When playing on InnerSloth official servers, please be aware that the Rate Limit
 If you experience any of these issues, feel free to submit a bug report through our Discord, and we'll do our best to resolve it.<br>
 Once Innersloth reactivates its Rate Limit anti-cheat, Rate Limit Bypasses will be automatically enforced.<br>
 Remember, this may cause unexpected issues on official servers, such as unhidden messages from guessers, delayed player name updates, packet loss resulting in missed updates, occasional black screens after meetings, and very slow loading times. If you continue to play with this option enabled, please be aware that the server may become unstable, and there is a slight chance of being flagged by the anti-cheat system. We will do our best to address these issues, but please understand that some may be beyond our control.<br></p>
-<h3 id="credits" tabindex="-1"><a class="header-anchor" href="#credits"><span>Credits</span></a></h3>
-<p>Thanks to @NikoCat233 @MargaretTheFool @Tommy-XL @PEPPERcula @NotPyro404 @Impostor4291 @ApeMV @Laikrai @Pietrodjaowjao @ApeMV @Bri1101 @Reborn5537 @Limeau for making this release possible<br>
+<p><b>Credits</b><br>
+Thanks to @NikoCat233 @MargaretTheFool @Tommy-XL @PEPPERcula @NotPyro404 @Impostor4291 @ApeMV @Laikrai @Pietrodjaowjao @ApeMV @Bri1101 @Reborn5537 @Limeau for making this release possible<br>
 Thanks to our translators for their hard work in bringing the mod to everyone<br>
 Thanks to our testers and players for finding bugs and providing helpful feedback<br>
 Thanks to everyone who keeps supporting the mod and helps us move further forward!<br></p>
-<h2 id="major-mod-functions-changes" tabindex="-1"><a class="header-anchor" href="#major-mod-functions-changes"><span>Major Mod Functions Changes:</span></a></h2>
+<p><b>Major Mod Functions Changes:</b><br></p>
 <ul>
 <li>New Tag System @MargaretTheFool and @NotPyro404<br>
 <ul>
@@ -88,11 +88,11 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 </ul>
 </li>
 </ul>
-<h2 id="major-role-changes" tabindex="-1"><a class="header-anchor" href="#major-role-changes"><span>Major Role Changes:<br></span></a></h2>
+<p><b>Major Role Changes:</b><br></p>
 <ul>
 <li>Coven Roles are now back! @MargaretTheFool <br>
 <ul>
-<li>You can find a detailed document by <a href="https://docs.google.com/document/d/1KaBjn6qk5NqUC7Ax7uQxXY1C9wsswWH__rBdzrZCd1I/edit?usp=sharing" target="_blank" rel="noopener noreferrer">clicking here<ExternalLinkIcon/></a> or on the <a href="https://tohe.weareten.ca/" target="_blank" rel="noopener noreferrer">Website<ExternalLinkIcon/></a>!<br></li>
+<li>You can find a detailed document by <a href="https://docs.google.com/document/d/1KaBjn6qk5NqUC7Ax7uQxXY1C9wsswWH__rBdzrZCd1I/edit?usp=sharing" target="_blank" rel="noopener noreferrer">clicking here</a> or on the <a href="https://tohe.weareten.ca/" target="_blank" rel="noopener noreferrer">Website</a>!<br></li>
 </ul>
 </li>
 <li>Chief Of Police (CoP) Returns<br></li>
@@ -136,7 +136,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 <li>Engineer-based roles with 1-second vent duration now can't move in the vent (like jester)<br></li>
 <li>New Option: Dictator use /vote command to expel players @hinhinarrrrrr<br></li>
 </ul>
-<h2 id="minor-role-changes" tabindex="-1"><a class="header-anchor" href="#minor-role-changes"><span>Minor Role Changes<br></span></a></h2>
+<p><b>Minor Role Changes</b><br></p>
 <ul>
 <li>Double Agent now can kill when it's the only imp alive @Impostor4291<br></li>
 <li>Changed the ability button text for some roles @PEPPERcula<br></li>
@@ -156,7 +156,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 <li>Add Legacy option for Traitor and Parasite (Can Shapeshift) by @PEPPERcula<br></li>
 <li>Other Minor changes that are missed from this list<br></li>
 </ul>
-<h2 id="improvements" tabindex="-1"><a class="header-anchor" href="#improvements"><span>Improvements<br></span></a></h2>
+<p><b>Improvements</b><br></p>
 <ul>
 <li>New Option For Low Load: Delay Update Names @Tommy-XL<br>
 <ul>
@@ -184,14 +184,14 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 </ul>
 </li>
 </ul>
-<h2 id="silent-tweaks" tabindex="-1"><a class="header-anchor" href="#silent-tweaks"><span>Silent Tweaks:<br></span></a></h2>
+<p><b>Silent Tweaks:</b><br></p>
 <ul>
 <li>Send failed error on failed murder attempts @NikoCat233<br></li>
 <li>Improve code performance @Tommy-XL<br></li>
 <li>Improve AntiBlackout @Tommy-XL<br></li>
 <li>Repo is now set to use utf-8 crlf as encoding. @NikoCat233<br></li>
 </ul>
-<h2 id="other-bug-fixes-and-improvements" tabindex="-1"><a class="header-anchor" href="#other-bug-fixes-and-improvements"><span>Other Bug Fixes and Improvements<br></span></a></h2>
+<p><b>Other Bug Fixes and Improvements</b><br></p>
 <ul>
 <li>Fixed bug when role name for modded players hide in Mushroom Spore<br></li>
 <li>Fixed Cursed Soul stole the win of Workaholic setting<br></li>
@@ -352,13 +352,14 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.0.3</font></b></summary>
-<div class="custom-container danger"><p class="custom-container-title">Caution</p>
+<div class="hint-container caution">
+<p class="hint-container-title">Caution</p>
 <p>= <font color=#de6707><b>KNOWN BUG</b></font>: (Maybe fixed now) Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, &amp; Imitator are working, but are unstable<br></p>
 </div>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the host changed his nickname to his own when he was killed by Doppelganger (hopefully) <br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when F1 shows role settings<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Veteran kills Taskinator<br>
@@ -368,14 +369,15 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Set 300 CD for Nemesis if they cannot use the kill button<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Changed warning message about Api Error Connection<br></p>
 </li>
 </ul>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.0.2</font></b></summary>
-<div class="custom-container danger"><p class="custom-container-title">Caution</p>
+<div class="hint-container caution">
+<p class="hint-container-title">Caution</p>
 <p>= <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, &amp; Imitator are working, but are unstable<br></p>
 </div>
@@ -383,19 +385,21 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.0.1</font></b></summary>
-<div class="custom-container danger"><p class="custom-container-title">Caution</p>
+<div class="hint-container caution">
+<p class="hint-container-title">Caution</p>
 <p>= <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, &amp; Imitator are working, but are unstable<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Modded clients have some problems, so it is  temporarily recommended that only the host has the mod installed, and players to join on Vanilla.<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Black screen after meeting for vanilla players (This is not fixable at this time as it's an issue with Vanilla, not TOHE)<br></p>
 </div>
-<div class="custom-container tip"><p class="custom-container-title">Extra Info</p>
-<p>= <font color=#ece218><b>NOTICE</b></font>: Support latest version Among Us v2024.6.18 (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>, <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#ece218><b>NOTICE</b></font>: New Settings UI (Base ported from <a href="https://github.com/Yumenopai/TownOfHost_Y" target="_blank" rel="noopener noreferrer">TOH-Y<ExternalLinkIcon/></a>)<br></p>
+<div class="hint-container tip">
+<p class="hint-container-title">Extra Info</p>
+<p>= <font color=#ece218><b>NOTICE</b></font>: Support latest version Among Us v2024.6.18 (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>, <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>, <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>)<br>
+= <font color=#ece218><b>NOTICE</b></font>: New Settings UI (Base ported from <a href="https://github.com/Yumenopai/TownOfHost_Y" target="_blank" rel="noopener noreferrer">TOH-Y</a>)<br></p>
 </div>
 <ul>
 <li>
-<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+<p>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when after guessing, Judge, etc. the meeting status was not checked<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Pelican ended the game when eaten players returned<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Avenger when they try to kill Necromancer<br>
@@ -412,136 +416,138 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Remove unnecessary parenthesis for Lighter<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a><br>
+<p>By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Fortune Teller shows &quot;INVALID:NotAssigned&quot;<br></p>
 </li>
 </ul>
-<h2 id="special-thanks-for-help-developing-this-version" tabindex="-1"><a class="header-anchor" href="#special-thanks-for-help-developing-this-version"><span>Special thanks for help developing this version:</span></a></h2>
-<p><a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>, <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a>, <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a>, <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a>, <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a>, <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>Moe</strong><ExternalLinkIcon/></a>, <a href="#"><strong>WaterPanda</strong></a>, <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>乐崽吖</strong><ExternalLinkIcon/></a>, <a href="https://www.youtube.com/@200iqguy" target="_blank" rel="noopener noreferrer"><strong>Gurge44</strong><ExternalLinkIcon/></a>, <a href="https://sites.google.com/view/notpyro404" target="_blank" rel="noopener noreferrer"><strong>NotPyro404</strong><ExternalLinkIcon/></a>, <a href="https://github.com/GameTechGuides" target="_blank" rel="noopener noreferrer"><strong>GameTechGuides</strong><ExternalLinkIcon/></a></p>
+<p><b>Special thanks for help developing this version:</b>
+<a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>, <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>, <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a>, <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong></a>, <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a>, <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong></a>, <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>Moe</strong></a>, <a href="#"><strong>WaterPanda</strong></a>, <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>乐崽吖</strong></a>, <a href="https://www.youtube.com/@200iqguy" target="_blank" rel="noopener noreferrer"><strong>Gurge44</strong></a>, <a href="https://sites.google.com/view/notpyro404" target="_blank" rel="noopener noreferrer"><strong>NotPyro404</strong></a>, <a href="https://github.com/GameTechGuides" target="_blank" rel="noopener noreferrer"><strong>GameTechGuides</strong></a></p>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.0.0</font></b></summary>
-<div class="custom-container danger"><p class="custom-container-title">Caution</p>
+<div class="hint-container caution">
+<p class="hint-container-title">Caution</p>
 <p>= <font color=#de6707><b>KNOWN BUG</b></font>: Servers may be unstable as the protocol requires fixing on Innersloth's side<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Doppelganger, Swift, &amp; Imitator are working, but are unstable<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Modded clients have some problems, so it is  temporarily recommended that only the host has the mod installed, and players to join on Vanilla.<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: Black screen after meeting for vanilla players (This is not fixable at this time as it's an issue with Vanilla, not TOHE)<br></p>
 </div>
-<div class="custom-container tip"><p class="custom-container-title">Extra Info</p>
-<p>= <font color=#ece218><b>NOTICE</b></font>: Support latest version Among Us v2024.6.18 (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>, <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#ece218><b>NOTICE</b></font>: New Settings UI (Base ported from <a href="https://github.com/Yumenopai/TownOfHost_Y" target="_blank" rel="noopener noreferrer">TOH-Y<ExternalLinkIcon/></a>)<br></p>
+<div class="hint-container tip">
+<p class="hint-container-title">Extra Info</p>
+<p>= <font color=#ece218><b>NOTICE</b></font>: Support latest version Among Us v2024.6.18 (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>, <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>, <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>)<br>
+= <font color=#ece218><b>NOTICE</b></font>: New Settings UI (Base ported from <a href="https://github.com/Yumenopai/TownOfHost_Y" target="_blank" rel="noopener noreferrer">TOH-Y</a>)<br></p>
 </div>
 <ul>
 <li>
 <font color=green><b>NEW ROLES/ADDONS</b></font><br></li>
 </ul>
-<p>+ <font color=green><b>NEW</b></font>: <RouteLink to="/changelogs/options/Impostors/Killing/EvilHacker.html">Evil Hacker</RouteLink> (Impostor Killing - Ported from <a href="https://github.com/tukasa0001/TownOfHost" target="_blank" rel="noopener noreferrer">TOH<ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: <RouteLink to="/changelogs/options/Impostors/Experimental/DollMaster.html">Doll Master</RouteLink> (Experimental Impostor - By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: <RouteLink to="/changelogs/options/Addons/Helpful/Radar.html">Radar</RouteLink> (Helpful Add-On - By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: <RouteLink to="/changelogs/options/Addons/Experimental/Glow.html">Glow</RouteLink> (Experimental Add-On -By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a>)<br></p>
+<p>+ <font color=green><b>NEW</b></font>: <RouteLink to="/changelogs/options/Impostors/Killing/EvilHacker.html">Evil Hacker</RouteLink> (Impostor Killing - Ported from <a href="https://github.com/tukasa0001/TownOfHost" target="_blank" rel="noopener noreferrer">TOH</a>)<br>
++ <font color=green><b>NEW</b></font>: <RouteLink to="/changelogs/options/Impostors/Experimental/DollMaster.html">Doll Master</RouteLink> (Experimental Impostor - By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: <RouteLink to="/changelogs/options/Addons/Helpful/Radar.html">Radar</RouteLink> (Helpful Add-On - By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: <RouteLink to="/changelogs/options/Addons/Experimental/Glow.html">Glow</RouteLink> (Experimental Add-On -By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a>)<br></p>
 <ul>
 <li>
 <font color=#e08709><b>IMPROVED ROLES</b></font><br></li>
 </ul>
-<p>= <font color=#e08709><b>IMPROVEMENT</b></font>: <RouteLink to="/changelogs/options/Impostors/Killing/Ninja.html">Ninja</RouteLink> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: <RouteLink to="/changelogs/options/Impostors/Killing/Chronomancer.html">Chronomancer</RouteLink> (By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: <RouteLink to="/changelogs/options/Impostors/Killing/Councillor.html">Councillor</RouteLink> (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: <RouteLink to="/options/Neutrals/Killing/Plaguebearer.html">Plague Bearer</RouteLink> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: <RouteLink to="/options/Neutrals/Benign/SchrodingersCat.html">Schrodinger's Cat</RouteLink> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: <RouteLink to="/options/Addons/Impostor/Tricky.html">Tricky</RouteLink> (By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>)<br></p>
+<p>= <font color=#e08709><b>IMPROVEMENT</b></font>: <RouteLink to="/changelogs/options/Impostors/Killing/Ninja.html">Ninja</RouteLink> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: <RouteLink to="/changelogs/options/Impostors/Killing/Chronomancer.html">Chronomancer</RouteLink> (By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: <RouteLink to="/changelogs/options/Impostors/Killing/Councillor.html">Councillor</RouteLink> (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: <RouteLink to="/options/Neutrals/Killing/Plaguebearer.html">Plague Bearer</RouteLink> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: <RouteLink to="/options/Neutrals/Benign/SchrodingersCat.html">Schrodinger's Cat</RouteLink> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: <RouteLink to="/options/Addons/Impostor/Tricky.html">Tricky</RouteLink> (By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>)<br></p>
 <ul>
 <li>
 <font color=#12edaf><b>GHOST ROLES RETURNED</b></font><br></li>
 </ul>
-<p>+ <font color=#12edaf><b>RETURNED</b></font>: <RouteLink to="/options/Crewmates/Ghost/Ghastly.html">Ghastly</RouteLink> (Crewmate Ghost - By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=#12edaf><b>RETURNED</b></font>: <RouteLink to="/options/Crewmates/Ghost/Hawk.html">Hawk</RouteLink> (Crewmate Ghost - By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=#12edaf><b>RETURNED</b></font>: <RouteLink to="/options/Crewmates/Ghost/Warden.html">Warden</RouteLink> (Crewmate Ghost - By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=#12edaf><b>RETURNED</b></font>: <RouteLink to="/options/Impostors/Ghost/Bloodmoon.html">Bloodmoon</RouteLink> (Impostor Ghost - By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=#12edaf><b>RETURNED</b></font>: <RouteLink to="/options/Impostors/Ghost/Minion.html">Minion</RouteLink> (Impostor Ghost - By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=#12edaf><b>RETURNED</b></font>: <RouteLink to="/options/Crewmates/Vanilla/GuardianAngel.html">Guardian Angel</RouteLink> (Support Vanilla Role - By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>)<br></p>
+<p>+ <font color=#12edaf><b>RETURNED</b></font>: <RouteLink to="/options/Crewmates/Ghost/Ghastly.html">Ghastly</RouteLink> (Crewmate Ghost - By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>)<br>
++ <font color=#12edaf><b>RETURNED</b></font>: <RouteLink to="/options/Crewmates/Ghost/Hawk.html">Hawk</RouteLink> (Crewmate Ghost - By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>)<br>
++ <font color=#12edaf><b>RETURNED</b></font>: <RouteLink to="/options/Crewmates/Ghost/Warden.html">Warden</RouteLink> (Crewmate Ghost - By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>)<br>
++ <font color=#12edaf><b>RETURNED</b></font>: <RouteLink to="/options/Impostors/Ghost/Bloodmoon.html">Bloodmoon</RouteLink> (Impostor Ghost - By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>)<br>
++ <font color=#12edaf><b>RETURNED</b></font>: <RouteLink to="/options/Impostors/Ghost/Minion.html">Minion</RouteLink> (Impostor Ghost - By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>)<br>
++ <font color=#12edaf><b>RETURNED</b></font>: <RouteLink to="/options/Crewmates/Vanilla/GuardianAngel.html">Guardian Angel</RouteLink> (Support Vanilla Role - By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>)<br></p>
 <ul>
 <li>
 <font color=green><b>NEW COMMANDS</b></font><br></li>
 </ul>
-<p>+ <font color=green><b>NEW</b></font>: <code v-pre>/poll</code> (By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: <code v-pre>/8ball</code> (By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: <code v-pre>/me</code> (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>)<br>
+<p>+ <font color=green><b>NEW</b></font>: <code v-pre>/poll</code> (By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: <code v-pre>/8ball</code> (By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: <code v-pre>/me</code> (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>)<br>
 + <font color=green><b>NEW</b></font>: <code v-pre>/icon</code> (By <a href="#"><strong>WaterPanda</strong></a>)<br></p>
 <ul>
 <li>
 <font color=green><b>NEW SETTINGS</b></font><br></li>
 </ul>
-<p>+ <font color=green><b>NEW</b></font>: Client Setting: <code v-pre>Disable Lobby Music</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: Amnesiac: <code v-pre>Has Arrows pointing toward bodies</code> (By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: Engineer: <code v-pre>Vent Cooldown</code> and <code v-pre>Max Time In Vents</code> (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: Councillor: <code v-pre>Show Trial as Councillor Murder</code> (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: Councillor: <code v-pre>Suicide when judge Impostors Team Wrongly</code> (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: Councillor: <code v-pre>Can Murder Snitch with All Tasks Done</code> (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: <code v-pre>Instant Auto-Start</code> (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: <code v-pre>Everyone Can See Death Reason</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: <code v-pre>Hide All Tags (for AutoMuteUs)</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: Pickpocket, Stealer and Paranoia: <code v-pre>Hide Additional Vote(s)</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: Monarch: <code v-pre>Hide additional vote for Knighted players</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: Maverick: <code v-pre>Minimum number of kills to win</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: YouTuber: <code v-pre>The Killer Wins with YouTuber</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: <code v-pre>Disable Task Win If All Crews Are Dead</code> (Ported from <a href="https://github.com/Gurge44/EndlessHostRoles" target="_blank" rel="noopener noreferrer">EHR<ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: <code v-pre>Disable Task Win If All Crews Are Converted</code> (Ported from <a href="https://github.com/Gurge44/EndlessHostRoles" target="_blank" rel="noopener noreferrer">EHR<ExternalLinkIcon/></a>)<br></p>
+<p>+ <font color=green><b>NEW</b></font>: Client Setting: <code v-pre>Disable Lobby Music</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: Amnesiac: <code v-pre>Has Arrows pointing toward bodies</code> (By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: Engineer: <code v-pre>Vent Cooldown</code> and <code v-pre>Max Time In Vents</code> (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: Councillor: <code v-pre>Show Trial as Councillor Murder</code> (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: Councillor: <code v-pre>Suicide when judge Impostors Team Wrongly</code> (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: Councillor: <code v-pre>Can Murder Snitch with All Tasks Done</code> (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: <code v-pre>Instant Auto-Start</code> (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: <code v-pre>Everyone Can See Death Reason</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: <code v-pre>Hide All Tags (for AutoMuteUs)</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: Pickpocket, Stealer and Paranoia: <code v-pre>Hide Additional Vote(s)</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: Monarch: <code v-pre>Hide additional vote for Knighted players</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: Maverick: <code v-pre>Minimum number of kills to win</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: YouTuber: <code v-pre>The Killer Wins with YouTuber</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: <code v-pre>Disable Task Win If All Crews Are Dead</code> (Ported from <a href="https://github.com/Gurge44/EndlessHostRoles" target="_blank" rel="noopener noreferrer">EHR</a>)<br>
++ <font color=green><b>NEW</b></font>: <code v-pre>Disable Task Win If All Crews Are Converted</code> (Ported from <a href="https://github.com/Gurge44/EndlessHostRoles" target="_blank" rel="noopener noreferrer">EHR</a>)<br></p>
 <ul>
 <li>
 <font color=#e08709><b>NEW/IMPROVED FEATURES</b></font><br></li>
 </ul>
-<p>= <font color=#e08709><b>IMPROVEMENT</b></font>: Some roles based on Shapeshift will never play the Shapeshift animation (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Lobby timer displayed for vanilla players (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Modded players can see the host during meetings (Online Only - By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Vanilla players can see the roles of the winning players at game end (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Real death reason displayed for players who left the game after death (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved role and add-on assign (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Auto-Updater (By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Horse Mode returned (By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved API Connection loading (By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Automatically ban spoofed friend codes (Can be disabled in settings - By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Re-added colors to kill log and last roles commands (By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: TOHE Dropship Decorations (Can be disabled in client settings - By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: Vanilla player based on impostor show real team in intro scene (By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved showing role info for vanilla players (By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: EAC improvements (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: Added custom sounds for Eraser and Oiiai after erased role (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: Region Menu paging behavior (From TONX - By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>)<br></p>
+<p>= <font color=#e08709><b>IMPROVEMENT</b></font>: Some roles based on Shapeshift will never play the Shapeshift animation (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Lobby timer displayed for vanilla players (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Modded players can see the host during meetings (Online Only - By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Vanilla players can see the roles of the winning players at game end (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Real death reason displayed for players who left the game after death (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved role and add-on assign (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Auto-Updater (By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Horse Mode returned (By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved API Connection loading (By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Automatically ban spoofed friend codes (Can be disabled in settings - By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Re-added colors to kill log and last roles commands (By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: TOHE Dropship Decorations (Can be disabled in client settings - By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: Vanilla player based on impostor show real team in intro scene (By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved showing role info for vanilla players (By <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: EAC improvements (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: Added custom sounds for Eraser and Oiiai after erased role (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: Region Menu paging behavior (From TONX - By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>)<br></p>
 <ul>
 <li>
 <font color=#F6BE00><b>SOME CHANGES/IMPROVEMENTS</b></font><br></li>
 </ul>
-<p>= <font color=#F6BE00><b>CHANGE</b></font>: Penguin's victim can no longer vent (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Enigma max name length increased from 8 to 10 (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Eraser can't guess erased players (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Block Punching Bag guessing if a player tries to guess it again (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Optimized Fortune Teller (By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Version display size reduced by 70% (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Lobby timer in <code v-pre>template.txt</code> (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Added Server Name in ping tracker (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Updated background images: Main Menu now features art winners (By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Changed role name size for modded and vanilla (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Hide report button for Killing Machine (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-- <font color=red><b>REMOVED</b></font>: Client Settings: <code v-pre>Small Screen Mode</code> and <code v-pre>Enable it if you use AutoMuteUs</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-Added <code v-pre>F3</code> and <code v-pre>F4</code> to show role and add-ons settings, respectively (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Changed Kamikaze symbol (By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>)<br>
-+ <font color=green><b>NEW</b></font>: Added icon for Jailer (By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: When Mayor use portable button it shows as a button pressed (By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Allow players to be banned by only using the first name in <code v-pre>BanList.txt</code> (By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Updated Ability button text for Seeker, Coroner, Romantic, and Werewolf (By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#F6BE00><b>CHANGE</b></font>: Moved Double Shot and Rebound to <code v-pre>Game Modifiers</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>)<br>
+<p>= <font color=#F6BE00><b>CHANGE</b></font>: Penguin's victim can no longer vent (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Enigma max name length increased from 8 to 10 (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Eraser can't guess erased players (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Block Punching Bag guessing if a player tries to guess it again (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Optimized Fortune Teller (By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Version display size reduced by 70% (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Lobby timer in <code v-pre>template.txt</code> (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Added Server Name in ping tracker (By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Updated background images: Main Menu now features art winners (By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a>)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed role name size for modded and vanilla (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Hide report button for Killing Machine (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
+- <font color=red><b>REMOVED</b></font>: Client Settings: <code v-pre>Small Screen Mode</code> and <code v-pre>Enable it if you use AutoMuteUs</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
+Added <code v-pre>F3</code> and <code v-pre>F4</code> to show role and add-ons settings, respectively (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Changed Kamikaze symbol (By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>)<br>
++ <font color=green><b>NEW</b></font>: Added icon for Jailer (By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: When Mayor use portable button it shows as a button pressed (By <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Allow players to be banned by only using the first name in <code v-pre>BanList.txt</code> (By <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a>)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Updated Ability button text for Seeker, Coroner, Romantic, and Werewolf (By <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong></a>)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Moved Double Shot and Rebound to <code v-pre>Game Modifiers</code> (By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>)<br>
 + <font color=#12edaf><b>RENAMED</b></font>: Masochist renamed to <RouteLink to="/options/Neutrals/Evil/PunchingBag.html">Punching Bag</RouteLink> (By <a href="#"><strong>WaterPanda</strong></a>)<br>
 + <font color=#12edaf><b>RENAMED</b></font>: Bloodlust renamed to <RouteLink to="/options/Addons/Mixed/Bloodthirst.html">Bloodthirst</RouteLink> (By <a href="#"><strong>WaterPanda</strong></a>)<br>
 + <font color=#12edaf><b>RENAMED</b></font>: Schizophrenic renamed to <RouteLink to="/options/Addons/Mixed/Paranoia.html">Paranoia</RouteLink> (By <a href="#"><strong>WaterPanda</strong></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of <code v-pre>tohre.dev</code> updated to <code v-pre>weareten.ca</code> (By <a href="https://sites.google.com/view/notpyro404" target="_blank" rel="noopener noreferrer"><strong>NotPyro404</strong><ExternalLinkIcon/></a>)<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of <code v-pre>ko-fi.com/tohe</code> updated to <code v-pre>weareten.ca/tohe/</code> (By <a href="https://sites.google.com/view/notpyro404" target="_blank" rel="noopener noreferrer"><strong>NotPyro404</strong><ExternalLinkIcon/></a>)<br><br></p>
-<h2 id="special-thanks-for-help-developing-this-version-1" tabindex="-1"><a class="header-anchor" href="#special-thanks-for-help-developing-this-version-1"><span>Special thanks for help developing this version:</span></a></h2>
-<p><a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>, <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a>, <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a>, <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a>, <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a>, <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>Moe</strong><ExternalLinkIcon/></a>, <a href="#"><strong>WaterPanda</strong></a>, <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>乐崽吖</strong><ExternalLinkIcon/></a>, <a href="https://www.youtube.com/@200iqguy" target="_blank" rel="noopener noreferrer"><strong>Gurge44</strong><ExternalLinkIcon/></a>, <a href="https://sites.google.com/view/notpyro404" target="_blank" rel="noopener noreferrer"><strong>NotPyro404</strong><ExternalLinkIcon/></a>, <a href="https://github.com/GameTechGuides" target="_blank" rel="noopener noreferrer"><strong>GameTechGuides</strong><ExternalLinkIcon/></a>.<br></p>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of <code v-pre>tohre.dev</code> updated to <code v-pre>weareten.ca</code> (By <a href="https://sites.google.com/view/notpyro404" target="_blank" rel="noopener noreferrer"><strong>NotPyro404</strong></a>)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of <code v-pre>ko-fi.com/tohe</code> updated to <code v-pre>weareten.ca/tohe/</code> (By <a href="https://sites.google.com/view/notpyro404" target="_blank" rel="noopener noreferrer"><strong>NotPyro404</strong></a>)<br><br></p>
+<p><b>Special thanks for help developing this version:</b>
+<a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong></a>, <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>, <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong></a>, <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong></a>, <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a>, <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong></a>, <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>Moe</strong></a>, <a href="#"><strong>WaterPanda</strong></a>, <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>乐崽吖</strong></a>, <a href="https://www.youtube.com/@200iqguy" target="_blank" rel="noopener noreferrer"><strong>Gurge44</strong></a>, <a href="https://sites.google.com/view/notpyro404" target="_blank" rel="noopener noreferrer"><strong>NotPyro404</strong></a>, <a href="https://github.com/GameTechGuides" target="_blank" rel="noopener noreferrer"><strong>GameTechGuides</strong></a>.<br></p>
 <ul>
-<li>Check out all of our translators on our <a href="https://tohe.weareten.ca/AboutUs.html" target="_blank" rel="noopener noreferrer"><strong>Website</strong><ExternalLinkIcon/></a><br></li>
+<li>Check out all of our translators on our <a href="https://tohe.weareten.ca/AboutUs.html" target="_blank" rel="noopener noreferrer"><strong>Website</strong></a><br></li>
 </ul>
 <ul>
-<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.6.0...v2.0.0" target="_blank" rel="noopener noreferrer"><strong>Full v2.0.0 Changelog</strong><ExternalLinkIcon/></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website<ExternalLinkIcon/></a> to get access to early features!</li>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.6.0...v2.0.0" target="_blank" rel="noopener noreferrer"><strong>Full v2.0.0 Changelog</strong></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website</a> to get access to early features!</li>
 </ul>
 </details>
 <details>
@@ -625,10 +631,10 @@ Added <code v-pre>F3</code> and <code v-pre>F4</code> to show role and add-ons s
 + <font color=#ffc400><b>Spanish</b></font>: (Dawson, Sunnyboi, thewhiskas27, xxSShadow)<br>
 + <font color=#de2910><b>Traditional Chinese</b></font>: (FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)<br></p>
 <ul>
-<li>Check out all of our translators on our <a href="https://tohe.weareten.ca/AboutUs.html" target="_blank" rel="noopener noreferrer"><strong>Website</strong><ExternalLinkIcon/></a></li>
+<li>Check out all of our translators on our <a href="https://tohe.weareten.ca/AboutUs.html" target="_blank" rel="noopener noreferrer"><strong>Website</strong></a></li>
 </ul>
 <ul>
-<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.5.0...v1.6.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.6.0 Changelog</strong><ExternalLinkIcon/></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website<ExternalLinkIcon/></a> to get access to early features!</li>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.5.0...v1.6.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.6.0 Changelog</strong></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website</a> to get access to early features!</li>
 </ul>
 </details>
 <details>
@@ -782,10 +788,10 @@ Added <code v-pre>F3</code> and <code v-pre>F4</code> to show role and add-ons s
 + <font color=#ffc400><b>Spanish</b></font> (By: Dawson, Sunnyboi, thewhiskas27, xxSShadow) <br>
 + <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)<br></p>
 <ul>
-<li>Check out all of our translators on our <a href="https://tohe.weareten.ca/AboutUs.html" target="_blank" rel="noopener noreferrer"><strong>Website</strong><ExternalLinkIcon/></a></li>
+<li>Check out all of our translators on our <a href="https://tohe.weareten.ca/AboutUs.html" target="_blank" rel="noopener noreferrer"><strong>Website</strong></a></li>
 </ul>
 <ul>
-<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.4.0...v1.5.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.5.0 Changelog</strong><ExternalLinkIcon/></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website<ExternalLinkIcon/></a> to get access to early features!</li>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.4.0...v1.5.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.5.0 Changelog</strong></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website</a> to get access to early features!</li>
 </ul>
 </details>
 <details>
@@ -849,21 +855,21 @@ Added <code v-pre>F3</code> and <code v-pre>F4</code> to show role and add-ons s
 + <font color=#ffc400><b>Spanish</b></font> (By: Dawson, Sunnyboi, thewhiskas27, xxSShadow) <br>
 + <font color=#de2910><b>Traditional Chinese</b></font>: (By: FlyFlyTurtle, Hinharrrrr, netherdragontw, Pomelo_)<br></p>
 <ul>
-<li>Check out all of our translators on our <a href="https://tohe.weareten.ca/AboutUs.html" target="_blank" rel="noopener noreferrer"><strong>Website</strong><ExternalLinkIcon/></a></li>
+<li>Check out all of our translators on our <a href="https://tohe.weareten.ca/AboutUs.html" target="_blank" rel="noopener noreferrer"><strong>Website</strong></a></li>
 </ul>
 <ul>
-<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.3.0...v1.4.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.4.0 Changelog</strong><ExternalLinkIcon/></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website<ExternalLinkIcon/></a> to get access to early features!</li>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.3.0...v1.4.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.4.0 Changelog</strong></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website</a> to get access to early features!</li>
 </ul>
 </details>
 <details>
 <summary><b><font color=#d395b4>v1.3.0</font></b></summary>
 <ul>
 <li>
-<p>By <a href="https://github.com/NetherDragonTw" target="_blank" rel="noopener noreferrer"><strong>NetherDragonTw</strong><ExternalLinkIcon/></a><br>
+<p>By <a href="https://github.com/NetherDragonTw" target="_blank" rel="noopener noreferrer"><strong>NetherDragonTw</strong></a><br>
 + <font color=green><b>NEW</b></font>: Added anti-spam feature on Lava Chat (Fixed by: ryuk)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a><br>
 + <font color=green><b>NEW</b></font>: <RouteLink to="/options/Neutrals/Benign/Pixie.html">Pixie</RouteLink> (Benign Neutral - Idea: Azanthiel)<br>
 + <font color=green><b>NEW</b></font>: <RouteLink to="/options/Neutrals/Benign/Taskinator.html">Taskinator</RouteLink> (Benign Neutral - Idea: Dx)<br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Converted Reverie can kill anyone without repercussions<br>
@@ -877,7 +883,7 @@ Added <code v-pre>F3</code> and <code v-pre>F4</code> to show role and add-ons s
 </li>
 </ul>
 <ul>
-<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+<li>By <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
 + <font color=green><b>NEW</b></font>: Added New Camouflage Skins<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Codebase Significantly<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved Sync Settings<br>
@@ -885,16 +891,16 @@ Added <code v-pre>F3</code> and <code v-pre>F4</code> to show role and add-ons s
 </ul>
 <ul>
 <li>
-<p>By <a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer"><strong>lars-wu (papercut)</strong><ExternalLinkIcon/></a><br>
+<p>By <a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer"><strong>lars-wu (papercut)</strong></a><br>
 + <font color=green><b>NEW</b></font>: Support Crewmate Role: <RouteLink to="/options/Crewmates/Support/Enigma.html">Enigma</RouteLink> <br>
 + <font color=green><b>NEW</b></font>: Killing Impostor Role: <RouteLink to="/options/Impostors/Killing/Instigator.html">Instigator</RouteLink> <br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong><ExternalLinkIcon/></a> <br>
+<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong></a> <br>
 + <font color=green><b>NEW</b></font>: <RouteLink to="/options/Crewmates/Basic/Randomizer.html">Randomizer</RouteLink> (Basic Crewmate - Idea: Night)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a><br>
+<p>By <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a><br>
 + <font color=green><b>NEW</b></font>: <RouteLink to="/options/Addons/Harmful/Influenced.html">Influenced</RouteLink> (Harmful Addon - Idea: spong)<br>
 + <font color=green><b>NEW</b></font>: <RouteLink to="/options/Addons/Harmful/Hurried.html">Hurried</RouteLink> (Harmful Addon - Idea: Pyro)<br>
 + <font color=green><b>NEW</b></font>: <RouteLink to="/options/Experimental/Addon/OiiaiCat.html">Oiiai Cat (Oiiai)</RouteLink> (Experimental Addon)<br>
@@ -904,15 +910,15 @@ Added <code v-pre>F3</code> and <code v-pre>F4</code> to show role and add-ons s
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed /death by host showing to all players<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong><ExternalLinkIcon/></a> &amp; <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a> <br>
+<p>By <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>LezaiYa</strong></a> &amp; <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a> <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Count grow up time in meeting (for Mini)<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a>, <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>, &amp; <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a><br>
+<p>By <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong></a>, <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong></a>, &amp; <a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong></a><br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed several roles, addons, teleport bugs<br></p>
 </li>
 <li>
-<p>By <a href="https://github.com/FuroYT" target="_blank" rel="noopener noreferrer"><strong>FuroYT</strong><ExternalLinkIcon/></a> <br>
+<p>By <a href="https://github.com/FuroYT" target="_blank" rel="noopener noreferrer"><strong>FuroYT</strong></a> <br>
 = <font color=#F6BE00><b>CHANGE</b></font>: Updated Dev Tags<br></p>
 </li>
 <li>
@@ -925,10 +931,10 @@ Added <code v-pre>F3</code> and <code v-pre>F4</code> to show role and add-ons s
 + <font color=#ffc400><b>Spanish</b></font> by <a href="#"><strong>xxSShadow</strong></a>(New Translator), <a href="#"><strong>Sunnyboi</strong></a>, <a href="#"><strong>Dawson</strong></a>, &amp; <a href="#"><strong>thewhiskas</strong></a>.<br>
 + <font color=#de2910><b>Traditional Chinese</b></font> by <a href="#"><strong>Pomelo_</strong></a>(New Translator), <a href="#"><strong>FlyFlyTurtle</strong></a>(New Translator), <a href="#"><strong>NikoCat223</strong></a>, &amp; <a href="#"><strong>NetherDragonTw</strong></a>.<br></p>
 <ul>
-<li>Check out all of our translators on our <a href="https://tohe.weareten.ca/AboutUs.html" target="_blank" rel="noopener noreferrer"><strong>Website</strong><ExternalLinkIcon/></a></li>
+<li>Check out all of our translators on our <a href="https://tohe.weareten.ca/AboutUs.html" target="_blank" rel="noopener noreferrer"><strong>Website</strong></a></li>
 </ul>
 <ul>
-<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.2.0...v1.3.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.3.0 Changelog</strong><ExternalLinkIcon/></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website<ExternalLinkIcon/></a> to get access to early features!</li>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.2.0...v1.3.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.3.0 Changelog</strong></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website</a> to get access to early features!</li>
 </ul>
 </details>
 <details>
@@ -937,7 +943,7 @@ Added <code v-pre>F3</code> and <code v-pre>F4</code> to show role and add-ons s
 = <font color=#1376f0><b>BUG FIX</b></font>: Several Bug Fixes<br>
 = <font color=#dc4585><b>THE</b></font> <font color=#fe5ca8><b>FUNGLE</b></font>: Fun and all! Let's get ready to enter The Fungle 🌲<br></p>
 <ul>
-<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.1.1...v1.2.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.2.0 Changelog</strong><ExternalLinkIcon/></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website<ExternalLinkIcon/></a> to get access to early features!</li>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.1.1...v1.2.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.2.0 Changelog</strong></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website</a> to get access to early features!</li>
 </ul>
 </details>
 <details>
@@ -950,7 +956,7 @@ Added <code v-pre>F3</code> and <code v-pre>F4</code> to show role and add-ons s
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improved overkiller in PlayerControls<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Reworked End Game Checks (again) to optimize it<br></p>
 <ul>
-<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.1.0...v1.1.1" target="_blank" rel="noopener noreferrer"><strong>Full v1.1.1 Changelog</strong><ExternalLinkIcon/></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website<ExternalLinkIcon/></a> to get access to early features!</li>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.1.0...v1.1.1" target="_blank" rel="noopener noreferrer"><strong>Full v1.1.1 Changelog</strong></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website</a> to get access to early features!</li>
 </ul>
 </details>
 <details>
@@ -1039,20 +1045,20 @@ Updated en_US.json for some neutral killers (by Moe) <br>
 = New variables for template file = {{HostName}} (host's name), ({{PlayerName}} is for any player.) <br>
 = Several Misc Bug Fixes and code enhancements by TommyXL, ryuk, Moe and Gurge44<br></p>
 <ul>
-<li>Check out all of our translators on our <a href="https://tohe.weareten.ca/AboutUs.html" target="_blank" rel="noopener noreferrer"><strong>Website</strong><ExternalLinkIcon/></a></li>
+<li>Check out all of our translators on our <a href="https://tohe.weareten.ca/AboutUs.html" target="_blank" rel="noopener noreferrer"><strong>Website</strong></a></li>
 </ul>
 <ul>
-<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.0.1...v1.1.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.1.0 Changelog</strong><ExternalLinkIcon/></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website<ExternalLinkIcon/></a> to get access to early features!</li>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.0.1...v1.1.0" target="_blank" rel="noopener noreferrer"><strong>Full v1.1.0 Changelog</strong></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website</a> to get access to early features!</li>
 </ul>
 </details>
 <details>
 <summary><b><font color=#d395b4>v1.0.1</font></b></summary>
-<p>= <font color=#e08709><b>IMPROVEMENT</b></font>: Removed spray of TheSkullCreeper and replaced it <a href="https://github.com/0xDrMoe/TownofHost-Enhanced/pull/6" target="_blank" rel="noopener noreferrer">#6<ExternalLinkIcon/></a><br>
-+ <font color=green><b>NEW</b></font>: Added an updated clue in Fortune Teller <a href="https://github.com/0xDrMoe/TownofHost-Enhanced/pull/5" target="_blank" rel="noopener noreferrer">#5<ExternalLinkIcon/></a><br>
-= <font color=#1376f0><b>BUG FIX</b></font>: Fixed templates and VIP List not generating <a href="https://github.com/0xDrMoe/TownofHost-Enhanced/pull/5" target="_blank" rel="noopener noreferrer">#5<ExternalLinkIcon/></a> <a href="https://github.com/0xDrMoe/TownofHost-Enhanced/pull/6" target="_blank" rel="noopener noreferrer">#6<ExternalLinkIcon/></a><br>
+<p>= <font color=#e08709><b>IMPROVEMENT</b></font>: Removed spray of TheSkullCreeper and replaced it <a href="https://github.com/0xDrMoe/TownofHost-Enhanced/pull/6" target="_blank" rel="noopener noreferrer">#6</a><br>
++ <font color=green><b>NEW</b></font>: Added an updated clue in Fortune Teller <a href="https://github.com/0xDrMoe/TownofHost-Enhanced/pull/5" target="_blank" rel="noopener noreferrer">#5</a><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed templates and VIP List not generating <a href="https://github.com/0xDrMoe/TownofHost-Enhanced/pull/5" target="_blank" rel="noopener noreferrer">#5</a> <a href="https://github.com/0xDrMoe/TownofHost-Enhanced/pull/6" target="_blank" rel="noopener noreferrer">#6</a><br>
 + <font color=green><b>NEW</b></font>: A new tease...for a new role...? (try /r President)<br></p>
 <ul>
-<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/Release...v1.0.1" target="_blank" rel="noopener noreferrer"><strong>Full v1.0.1 Changelog</strong><ExternalLinkIcon/></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website<ExternalLinkIcon/></a> to get access to early features!</li>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/compare/Release...v1.0.1" target="_blank" rel="noopener noreferrer"><strong>Full v1.0.1 Changelog</strong></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website</a> to get access to early features!</li>
 </ul>
 </details>
 <details>
@@ -1062,7 +1068,7 @@ Updated en_US.json for some neutral killers (by Moe) <br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Updated default templates to include all appropriate strings/variables<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed Bandit Text String<br></p>
 <ul>
-<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/commits/Release" target="_blank" rel="noopener noreferrer"><strong>Full v1.0.0 Changelog</strong><ExternalLinkIcon/></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website<ExternalLinkIcon/></a> to get access to early features!</li>
+<li><a href="https://github.com/0xDrMoe/TownofHost-Enhanced/commits/Release" target="_blank" rel="noopener noreferrer"><strong>Full v1.0.0 Changelog</strong></a> or support us on our <a href="https://weareten.ca/TOHE/" target="_blank" rel="noopener noreferrer">Website</a> to get access to early features!</li>
 </ul>
 </details>
 </font></div></template>

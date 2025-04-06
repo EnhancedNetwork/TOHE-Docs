@@ -27,7 +27,7 @@
 </li>
 </ul>
 <blockquote>
-<p>Idea: <a href="#">Cristos</a> &amp; Coding: <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a></p>
+<p>Idea: <a href="#">Cristos</a> &amp; Coding: <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg</a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

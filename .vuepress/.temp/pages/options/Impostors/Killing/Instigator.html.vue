@@ -24,7 +24,7 @@
 </li>
 </ul>
 <blockquote>
-<p>Idea &amp; Coding: <a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer">lars-wu (papercut)<ExternalLinkIcon/></a></p>
+<p>Idea &amp; Coding: <a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer">lars-wu (papercut)</a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

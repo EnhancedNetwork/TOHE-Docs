@@ -15,7 +15,7 @@ Minimum it can be is 1 second, while the maximum is your default kill cooldown.<
 </li>
 </ul>
 <blockquote>
-<p>Idea: <a href="#">Dawson</a> &amp; &quot;Coding&quot;: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">TheSkullCreeper<ExternalLinkIcon/></a></p>
+<p>Idea: <a href="#">Dawson</a> &amp; &quot;Coding&quot;: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">TheSkullCreeper</a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

@@ -22,8 +22,8 @@
 </li>
 </ul>
 <blockquote>
-<p>Original &quot;Idea &amp; Coding&quot;: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">TheSkullCreeper<ExternalLinkIcon/></a><br>
-Reworked Idea &amp; Coding: <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg<ExternalLinkIcon/></a></p>
+<p>Original &quot;Idea &amp; Coding&quot;: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">TheSkullCreeper</a><br>
+Reworked Idea &amp; Coding: <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer">Marg</a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

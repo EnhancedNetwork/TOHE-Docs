@@ -15,7 +15,7 @@ Speaking by the blackmailed player will trigger the confusion command, please do
 </li>
 </ul>
 <blockquote>
-<p>From: ToUR &amp; Coding: <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer">LezaiYa<ExternalLinkIcon/></a></p>
+<p>From: ToUR &amp; Coding: <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer">LezaiYa</a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

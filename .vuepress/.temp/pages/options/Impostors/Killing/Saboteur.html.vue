@@ -13,11 +13,12 @@
 </ul>
 </li>
 </ul>
-<div class="custom-container danger"><p class="custom-container-title">Fun Fact</p>
+<div class="hint-container caution">
+<p class="hint-container-title">Fun Fact</p>
 <p>This role was formerly a Hidden Role under <a href="Inhibitor">Inhibitor</a></p>
 </div>
 <blockquote>
-<p>Idea: <a href="#">Pyro</a> &amp; &quot;Coding&quot;: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">TheSkullCreeper<ExternalLinkIcon/></a></p>
+<p>Idea: <a href="#">Pyro</a> &amp; &quot;Coding&quot;: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">TheSkullCreeper</a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

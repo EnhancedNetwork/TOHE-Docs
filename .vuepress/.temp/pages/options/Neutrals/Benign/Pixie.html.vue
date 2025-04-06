@@ -33,7 +33,7 @@ You win with the winning team when you have certain amounts of points set by the
 </li>
 </ul>
 <blockquote>
-<p>Idea: [Azanthiel] &amp; Coding: <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer">ryuk<ExternalLinkIcon/></a></p>
+<p>Idea: [Azanthiel] &amp; Coding: <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer">ryuk</a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

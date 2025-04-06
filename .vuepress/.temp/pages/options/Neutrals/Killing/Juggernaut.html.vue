@@ -36,7 +36,7 @@ Kill everyone to win.</p>
 </li>
 </ul>
 <blockquote>
-<p>From: Town of Us Reactivated &amp; &quot;Coding&quot;: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">TheSkullCreeper<ExternalLinkIcon/></a></p>
+<p>From: Town of Us Reactivated &amp; &quot;Coding&quot;: <a href="https://github.com/Loonie-Toons" target="_blank" rel="noopener noreferrer">TheSkullCreeper</a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

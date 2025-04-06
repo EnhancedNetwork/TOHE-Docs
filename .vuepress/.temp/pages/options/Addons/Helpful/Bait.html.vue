@@ -72,7 +72,7 @@
 </li>
 </ul>
 <blockquote>
-<p>From: TOH &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a></p>
+<p>From: TOH &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM</a></p>
 </blockquote>
 <details>
 <summary><b><font color=gray>Unofficial Lore</font></b></summary>

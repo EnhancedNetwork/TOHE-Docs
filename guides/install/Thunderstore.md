@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Installing on Thunderstore Mod Manager
-prev: 2Installation
-next: 3Setup
+prev: ../Installation
+next: ../Setup
 contributors: false
 ---
 

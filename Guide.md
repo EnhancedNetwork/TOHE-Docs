@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: Frequently Asked Questions
+title: Guide To TOHE
 contributors: false
 sidebar:
 - { text: Welcome, link: /guides/Welcome.html}
@@ -13,8 +13,6 @@ sidebar:
 - { text: Templates, link: /guides/Templates.html}
 - { text: Tags, link: /guides/Tags.html}
 - { text: Gamemodes, link: /guides/Gamemodes.html}
-contributors: false
----
 ---
 
 # <font color=#f0b6d5>Guide to Town of Host: Enhanced</font>

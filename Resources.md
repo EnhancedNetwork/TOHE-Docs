@@ -4,7 +4,7 @@ title: Resources
 contributors: false
 ---
 
-# Helpful Resources
+# <font color=#f0b6d5>Helpful Resources</font>
 
 Here are some Resources that may assist you with things relating to TOHE, such as Useful Guides, Information, as well as Variables.
 

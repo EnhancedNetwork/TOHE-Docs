@@ -13,7 +13,7 @@ sidebar:
 contributors: false
 ---
 
-# Roles
+# <font color=#f0b6d5>Roles</font>
 
 <font size=3em><b>Latest Versions:</b></font><br>
 

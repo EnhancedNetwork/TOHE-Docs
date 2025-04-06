@@ -21,7 +21,7 @@ You can edit these templates, or add your own on new-lines!
 To add your own templates, you can either follow the text below, or use the Template Editor.<br>
 On a new-line, you want to add your trigger word and your message. Such as: `example:this is an example template!` <i>(The trigger word being `example` and the message being `this is an example template!`. (YOU NEED THE `:`!))</i> You can add as many of these as you want. You can then save the file, boot up the mod, and run `/t example` in your chat box to see if it's set up to your liking!<br>
 If you create copies of the trigger word on new-lines, it will send them in seperate messages. Here's an example:<br>
-![image](./images/TemplateNewLines.png)
+![image](../images/TemplateNewLines.png)
 
 Alternatively, you may also use this [Template Editor](https://ultradragon005.github.io/AmongUs-Utilities/editor.html) put together by one of TOHE's Contributors, [Drakos](https://github.com/Ultradragon005).<br>
 
@@ -31,7 +31,7 @@ Alternatively, you may also use this [Template Editor](https://ultradragon005.gi
 There is a Tutorial at the bottom of the Template Editor's page if you need it. If you do not want to watch it, here's a small guide about how to use it.
 
 1. Enter a Title for the template. This title will be displayed at the top of the template when it's activated in game. Here's what the title will look like by default:
-![image](./images/TemplateTitle.png)
+![image](../images/TemplateTitle.png)
 1. Enter in what you want the template to display. You can edit the Font Size & Text Colors, but it is recommended to do it last. (From: Drakos)
 2. Enter in the name for this template. This name will also be the trigger word for this template. `[example]:this is an example template!` (`[example]` being the name/trigger word)
 3. Click the "Copy as HTML Formatted" to copy your template to your clipboard.

@@ -1,9 +1,11 @@
 ---
 lang: en-US
 title: Stable Changelogs
+contributors: false
 ---
 
-## <font size=5em><b>All Stable Releases/Changelogs:</b></font><br>
+## <font color=#f0b6d5>All Stable Releases/Changelogs:</font>
+
 To access Stable Builds, you can visit TEN's [Discord Server](https://discord.gg/ten) and download the latest release in #tohe-release, or go straight to our Releases on [GitHub](github.com/EnhancedNetwork/TownofHost-Enhanced/releases/latest)!
 
 <b><font color=#cf4e8f>Latest Release</font></b><br>

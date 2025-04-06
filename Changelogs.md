@@ -1,18 +1,29 @@
 ---
 lang: en-US
 title: Changelogs
+sidebar:
+- { text: 'Latest Changelogs', link: '/Changelogs.html' }
+- { text: 'Changelogs Tags', link: '/changelogs/Tags.html' }
+- { text: 'All Stable Changelogs', link: '/changelogs/Stable.html' }
+- { text: 'All Beta Changelogs', link: '/changelogs/Beta.html' }
+- { text: 'All Alpha Changelogs', link: '/changelogs/Alpha.html' }
 contributors: false
 ---
 
-## <font size=5em><b>Latest Changelogs:</b></font><br>
+## <font color=#f0b6d5>Latest Changelogs:</font>
+
 (Only the Latest Changes to Mod/Site will be displayed.)
 
 <font size=3em>
 <details>
-<summary><b><font color=#a65a80>TOHE v2.2.0 Changelogs</font></b></summary>
+<summary><b><font color=#a65a80>TOHE v2.2.1 Beta 1 Changelogs</font></b></summary>
 
-<b><font color=#cf4e8f>v0.0.0 Stable Release</font></b>
-Doesn't matter mod broke ill update this when the anticheat change fixes are implemented probably
+<b>Support Among Us 16.0.0</b><br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Rpc wrapping and Packet spliting<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve AntiBlackOut<br>
+<i>Comparing to 2.2.1 Alpha 2</i><br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Should have fixed dead alive bug<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed translation problems (using 2.2.0 release translations)<br>
 </details>
 <br>
 <details>

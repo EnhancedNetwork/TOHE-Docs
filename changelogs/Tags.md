@@ -3,7 +3,8 @@ lang: en-US
 title: Changelogs Tags
 ---
 
-## <font size=5em><b>All Changelog Tags:</b></font><br>
+## <font color=#f0b6d5>All Changelog Tags:</font>
+
 These are Tags to help you differentiate between Bugs & Changes, Additions & Reworks, Removals & Reverts.
 
 ---

@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Installing on Mod Manager
-prev: 2Installation
-next: 3Setup
+prev: ../Installation
+next: ../Setup
 contributors: false
 ---
 
@@ -18,7 +18,7 @@ Once the download is complete, open the installer and click <i>install</i>. You 
 ### <font color=#f0b6d5><font color=#3004fc>Step 2:</font> Verify Among Us Installation</font>
 
 Notice: If you get a notification like this upon opening Mod Manager, re-install Among Us fully.<br>
-![image](./images/ModManagerFail.png)
+![image](../../images/ModManagerFail.png)
 
 ### <font color=#f0b6d5><font color=#3004fc>Step 3:</font> Select + Download TOHE</font>
 

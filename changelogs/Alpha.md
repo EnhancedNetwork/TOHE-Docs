@@ -1,9 +1,11 @@
 ---
 lang: en-US
 title: Alpha Changelogs
+contributors: false
 ---
 
-## <font size=5em><b>All Alpha Releases/Changelogs:</b></font><br>
+## <font color=#f0b6d5>All Alpha Releases/Changelogs:</font>
+
 To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE/) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester](#) (Content Creator with your Town of Host: Enhanced videos having 600+ views on average).
 
 <b><font color=#cf4e8f>Latest Release</font></b><br>

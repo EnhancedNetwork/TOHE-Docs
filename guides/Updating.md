@@ -10,11 +10,11 @@ contributors: false
 
 Now that you’ve set-up Town of Host: Enhanced, it's important to know that TOHE is always updating, and so should you! Keeping your mod up to date ensures you have the latest features and improvements. Here’s how to update your TOHE files:<br>
 
-## <font color=#ed803d>Before  Updating:</font>
+### <font color=#ed803d>Before  Updating:</font>
 Make sure you don't have your Modded Client open when you attempt to do this, please close TOHE beforehand, otherwise you will get a pop-up which looks something like this:<br>
-![image](./images/pluginsInUse.png)
+![image](../images/pluginsInUse.png)
 
-## <font color=#ed803d>Updating:</font>
+### <font color=#ed803d>Updating:</font>
 There are 4 ways to update TOHE, these are the following:<br>
 
 1. Manual Update: Check GitHub for the latest Stable/Beta release. Download the updated `TOHE.dll` file and paste it into the `...\BepInEx\plugins` directory.<br>
@@ -25,10 +25,11 @@ There are 4 ways to update TOHE, these are the following:<br>
 
 4. Mod Managers: Most Mod Managers will notify you when updates are available. Simply follow the instructions provided by your mod manager to update TOHE.<br>
 
-## <font color=#ed803d>After Updating:</font>
+### <font color=#ed803d>After Updating:</font>
 Within the TOHE folder, run Among Us like you usually would. Once it finishes loading, you should get a popup with TOHE news. If you do not see anything about TOHE, double check that your files are all in the same folder, & that you launched from your modded folder.
 
 #### You have successfully updated TOHE!
+
 <details>
 <summary><b><font color=#f0b6d5>How to obtain</font> <font color=#ed803d>Alpha Builds</font></b></summary>
 

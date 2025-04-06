@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Installing on Steam
-prev: 2Installation
-next: 3Setup
+prev: ../Installation
+next: ../Setup
 contributors: false
 ---
 
@@ -24,10 +24,10 @@ Once the download is complete, extract it into a new empty folder somewhere, lik
 ### <font color=#f0b6d5><font color=#14356a>Step 3:</font> Copy + Paste your Mod Files into Game Directory</font>
 
 Locate your AmongUs install. For example, if you own the game on Steam, you can find this by right clicking on the game in your library, selecting <i>Manage</i>, and finally selecting <i>Browse local files.</i><br>
-![image](./images/SteamGetFolder.png)
+![image](../../images/SteamGetFolder.png)
 
 Select all of the files in your Among Us installation and copy them to the folder that now has the files from the TOHE release. The folder should now look something like this:<br>
-![image](./images/ResultFolder.png)
+![image](../../images/ResultFolder.png)
 
 ### <font color=#f0b6d5><font color=#14356a>Step 4:</font> Run Among Us to Set Up the Mod</font>
 

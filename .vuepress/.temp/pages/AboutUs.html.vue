@@ -1,0 +1,165 @@
+<template><div><div class="hint-container warning">
+<p class="hint-container-title">Regarding this mod</p>
+<p>This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.</p>
+</div>
+<h3 id="moe-president" tabindex="-1"><a class="header-anchor" href="#moe-president"><span><font color=#ff8000><a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer">Moe</a> - President</font></span></a></h3>
+<p>I'm a young developer who loves coding and gaming. I started coding when I was in High School, and I've been coding for 6 years. I'm currently learning several coding languages, but I speak English, French and Arabic verbally! I started playing Among Us when it released, and I've been playing it ever since. I stopped when the game died down after Airship, but I stumbled upon TOHE and I loved it. I decided to help out with the mod, and somehow I'm currently the President.</p>
+<p>I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++. I graduated from College with a degree in Computer Science, and I'm currently working as a freelance web developer. My main goal is to become a full-stack developer, focusing on Cybersecurity. and I'm working towards that goal.</p>
+<h3 id="sarha-co-president" tabindex="-1"><a class="header-anchor" href="#sarha-co-president"><span><font color=#e0b0ff><a href="#">Sarha</a> - Co-President</font></span></a></h3>
+<p>Sarha has a curious mind and a talent for tackling challenges head-on, turning ideas into real results. Whether it’s coming up with creative solutions, sorting through tricky data, or finding the best approach for any task, she’s always ready to adapt and get things done. With a love for learning and creating, Sarha brings energy and expertise to everything she works on.</p>
+<h3 id="pyro-website-maintainer-moderator" tabindex="-1"><a class="header-anchor" href="#pyro-website-maintainer-moderator"><span><font color=#49e6ac><a href="https://www.youtube.com/notpyro404" target="_blank" rel="noopener noreferrer">Pyro</a> - Website Maintainer + Moderator</font></span></a></h3>
+<p>I'm also mostly known online as NotPyro404. I am a Moderator in TEN's Discord Server, as well as a Website Maintainer for <a href="https://weareten.ca/" target="_blank" rel="noopener noreferrer">T.E.N.</a> (Mainly TOHE Documentation). I've &quot;coded&quot; a bit for Town of Host: Enhanced, but not a lot.<br>
+I'm a terrible Content Creator &amp; Minecraft Builder.<br>
+<span style="background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;"> Have a Good Day! </span></p>
+<h3 id="lauryn-head-of-human-resources" tabindex="-1"><a class="header-anchor" href="#lauryn-head-of-human-resources"><span><font color=#f0b6d5><a href="#">Lauryn</a> - Head of Human Resources</font></span></a></h3>
+<p>I'm just a girl who loves to play video games and is obsessed with everything <font color=#f0b6d5>pink</font>! My job is to keep all aspects of The Enhanced Network (and TOHE itself) a fun and welcoming place for all. This means I'm keeping everyone in check, including your very own project lead! 😉</p>
+<h3 id="jackler-head-of-tech-ops" tabindex="-1"><a class="header-anchor" href="#jackler-head-of-tech-ops"><span><font color=#ff8000><a href="https://linktr.ee/Jackler" target="_blank" rel="noopener noreferrer">Jackler</a> - Head of Tech Ops</font></span></a></h3>
+<p>Helping out with Tickets, bot related things... basically anything to do with the Discord.</p>
+<h3 id="matt-head-of-legal" tabindex="-1"><a class="header-anchor" href="#matt-head-of-legal"><span><font color=#0000ff><a href="#">Matt</a> - Head of Legal</font></span></a></h3>
+<p>I'm 25 years old from the United States. I am a bar certified attorney in contract law as well as professional broadcast engineer working full time for ESPN. In my free time, I run a non-profit food ministry in Louisiana as well as enjoy watching sports.</p>
+<h3 id="ryuk-head-of-development" tabindex="-1"><a class="header-anchor" href="#ryuk-head-of-development"><span><font color=#9e2424><a href="https://github.com/ryuk201198" target="_blank" rel="noopener noreferrer">ryuk</a> - Head of Development</font></span></a></h3>
+<p>I help in role and feature coding, and also help in fixing bugs from time to time. I love listening to music and coding. I usually prefer to code in python whether it may be for competitive coding or a small program. I also love playing action-adventure games with a good story line. <s>I actually coded my first role with 0 knowledge of C# because someone who shall not be named couldn't code Vulture.</s> xV and Solarflare helped me a lot initially in helping me code features and roles.</p>
+<h3 id="thisdude-translation-manager" tabindex="-1"><a class="header-anchor" href="#thisdude-translation-manager"><span><a href="#">ThisDude</a> - Translation Manager</span></a></h3>
+<p>Born in the US, I am a 19 year old with a love for Minecraft and Among Us, particularly modded. I also occasionally attempt to draw digital art for fun. I’m a Translation Manager for The Enhanced Network, and I manage the Filipino, Korean, &amp; Russian languages.</p>
+<h3 id="sunnyboi-translation-manager-japanese-spanish-translator" tabindex="-1"><a class="header-anchor" href="#sunnyboi-translation-manager-japanese-spanish-translator"><span><a href="#">Sunnyboi</a> - Translation Manager/<font color=#bd0029><b>Japanese</b></font>/<font color=#ffc400><b>Spanish</b></font> Translator</span></a></h3>
+<p>I helped with Japanese and Spanish translations for TOHE. I played Ultimate Frisbee and Soccer at University, and I love traveling, coding, gaming, art and music!
+I'm a Translation Manager for The Enhanced Network, and I manage the Spanish, LATAM, Japanese, Brazilian, Simple Chinese, &amp; Traditional Chinese languages.</p>
+<h3 id="bertram-translation-manager-german-translator" tabindex="-1"><a class="header-anchor" href="#bertram-translation-manager-german-translator"><span><a href="https://linktr.ee/BerTram.at" target="_blank" rel="noopener noreferrer">.BerTram</a> - Translation Manager/<font color=#ffcf00><b>German</b></font> Translator</span></a></h3>
+<p>I’m a German Translator from Austria, 21, and verified Master of watchmaking. My passion is professional translating, management, moderation and developing on Discord.<br>
+I’m a Translation Manager for The Enhanced Network, and I manage the German, Dutch, Italian, &amp; French languages.</p>
+<h3 id="fieryflower-sr-moderator" tabindex="-1"><a class="header-anchor" href="#fieryflower-sr-moderator"><span><a href="#">FieryFlower</a> - Sr. Moderator</span></a></h3>
+<p>I help out with ensuring the server stays a welcoming and fun community for all who join it. I enjoy painting in my spare time while my dogs try to steal my paintbrushes! When I'm not on Among Us I enjoy playing cozy or scary games! I have 2 dogs and 1 cat who I love more than words could describe.</p>
+<h3 id="lilpea-sr-moderator" tabindex="-1"><a class="header-anchor" href="#lilpea-sr-moderator"><span><a href="#">LiLPEA</a> - Sr. Moderator</span></a></h3>
+<p>I help keep the community of The Enhanced Network a safe and welcoming place for everyone. So if there’s an issue, please feel free to reach out! I love to play video games (but I’m a sore loser lol) and spend time with my family.</p>
+<h3 id="laikrai-moderator" tabindex="-1"><a class="header-anchor" href="#laikrai-moderator"><span><a href="#">Laikrai</a> - Moderator</span></a></h3>
+<p>I help out in TEN's Discord Server. I'm working on the Modded Among Us Queue bot. Some hobbies I have are playing games &amp; programming. <s>My favorite game is probably Valorant.</s> My favorite game is probably Lethal Company.</p>
+<h3 id="tasha-moderator" tabindex="-1"><a class="header-anchor" href="#tasha-moderator"><span><a href="#">Tasha</a> - Moderator</span></a></h3>
+<p>I am a Helper in TEN's Discord Server, aiming to ensure that it is a welcoming and supportive community for everyone to enjoy! I enjoy playing video games, taking midday naps, watching UFC and making pickles!</p>
+<h3 id="flashy-moderator" tabindex="-1"><a class="header-anchor" href="#flashy-moderator"><span><a href="#">Flashy</a> - Moderator</span></a></h3>
+<p>Helping to ensure the safety of the community, answering questions about the server and TOHE.</p>
+<h3 id="fish-king-helper" tabindex="-1"><a class="header-anchor" href="#fish-king-helper"><span><a href="#">Fish King </a> - Helper</span></a></h3>
+<p>Passionate about chemistry, politics and gaming, working hard to be able to give my children and wife the life they deserve.
+Feel free to drop me an @ for a chat!</p>
+<h3 id="cayla-helper" tabindex="-1"><a class="header-anchor" href="#cayla-helper"><span><a href="#">Cayla</a> - Helper</span></a></h3>
+<p>Hey! I am Cayla, I love the ocean and anything nautical. My favorite animal is a narwhal, and yes they are real! Love playing different video games, currently obsessed with TOHE. I am an up and coming moderator here and I hope that I can bring some positive vibes to the community. Two truths and a lie: I danced on stage with Cyndi Lauper to Girls Just Want to have fun and tossed my shirt into the crowd. I am terrified of ketchup. I skinny dipped in Mexico with Rob Thomas of Matchbox Twenty.</p>
+<h3 id="nikocat233-lead-developer-town-of-host-enhanced" tabindex="-1"><a class="header-anchor" href="#nikocat233-lead-developer-town-of-host-enhanced"><span><font color=#ffff00><a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer">NikoCat233</a> - Lead Developer @ Town of Host: Enhanced</font></span></a></h3>
+<p>I initially started coding for mod to host public modded rooms, especially when mods was being banned from public matchmaking. I helped with role coding and feature development. Now, I'm actively fixing bugs and improving the mod's performance. &quot;Coding for play&quot; has always been my source of passion, driving me to keep working on this project.</p>
+<h3 id="d1gq-lead-developer-better-among-us-the-better-role" tabindex="-1"><a class="header-anchor" href="#d1gq-lead-developer-better-among-us-the-better-role"><span><font color=#1a5a91><a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer">D1GQ</a> - Lead Developer @ Better Among Us/The Better Role</font></span></a></h3>
+<p>Sup... I recently got into coding in the last two years, mostly C# and Python.
+and I also do 3D art design as a hobby! Glad to meet everyone here and can't wait to work with y'all. ❤️</p>
+<h3 id="dan-lead-developer-town-of-host-enhanced-ranked" tabindex="-1"><a class="header-anchor" href="#dan-lead-developer-town-of-host-enhanced-ranked"><span><font color=#a99a86><a href="#">Dan</a> - Lead Developer @ Town of Host: Enhanced <b>RANKED</b></font></span></a></h3>
+<p>uhhidk</p>
+<h3 id="jarne-lead-developer-mod-manager" tabindex="-1"><a class="header-anchor" href="#jarne-lead-developer-mod-manager"><span><font color=#0000ff><a href="#">Jarne</a> - Lead Developer @ Mod Manager</font></span></a></h3>
+<p>Hi, I'm Jarne, Lead Developer for Mod Manager. My ultimate goal is to make Mod Manager the best software for Among Us players, bringing all mods together in one seamless, user-friendly experience.<br></p>
+<p>I'm determined to do whatever it takes to make this vision a reality. From designing intuitive interfaces to ensuring smooth mod integration, I'm focused on creating a platform that's as fun to use as the game itself.</p>
+<h3 id="tommy-xl-senior-contributor-russian-translator" tabindex="-1"><a class="header-anchor" href="#tommy-xl-senior-contributor-russian-translator"><span><a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer">Tommy-XL</a> - Senior Contributor/<font color=#0036a7><b>Russian</b></font> Translator</span></a></h3>
+<p>I love playing games (I mostly play all games on PlayStation). I especially pay attention to the soundtracks in games/anime, for example in the game &quot;Undertale&quot; and in the anime &quot;Death Note&quot;, they are very good. I'm interested in programming, but I really started programming after Karped stopped being a TOHE developer.</p>
+<h3 id="marg-senior-contributor-role-coding-feature-coding" tabindex="-1"><a class="header-anchor" href="#marg-senior-contributor-role-coding-feature-coding"><span><a href="https://margsbuttons.carrd.co/" target="_blank" rel="noopener noreferrer">Marg</a> - Senior Contributor/Role Coding/Feature Coding</span></a></h3>
+<p>I plan to port most of the roles from Town of Salem 2 in some form because I love that game. I have literally never coded in C# before I started working on the mod, but it's close enough to Java that I made it work <code v-pre>:)</code>. Some of my hobbies are playing video games (of course), bowling, and playing the guitar.</p>
+<h3 id="papercut-role-coding" tabindex="-1"><a class="header-anchor" href="#papercut-role-coding"><span><a href="https://github.com/lars-wu" target="_blank" rel="noopener noreferrer">Papercut</a> - Role Coding</span></a></h3>
+<p>Coded many Roles and Features. (placeholder)</p>
+<h3 id="furoyt-feature-coding-french-translator" tabindex="-1"><a class="header-anchor" href="#furoyt-feature-coding-french-translator"><span><a href="https://github.com/FuroYT" target="_blank" rel="noopener noreferrer">FuroYT</a> - Feature Coding/<font color=#002654><b>French</b></font> Translator</span></a></h3>
+<p>I am a part of the TOHE French Translation team. I enjoy programming and gaming. I suck at drawing. I'm learning music creation.</p>
+<h3 id="乐崽吖-role-coding-simplified-chinese-translator" tabindex="-1"><a class="header-anchor" href="#乐崽吖-role-coding-simplified-chinese-translator"><span><a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer">乐崽吖</a> - Role Coding/<font color=#de2910><b>Simplified Chinese</b></font> Translator</span></a></h3>
+<p>Hello everyone. I'm a Simplified Chinese Translator and Contributor to this mod. I also post videos on bilibili, I recently checked into YouTube and started posting videos to YouTube. I'm glad to meet you guys!</p>
+<h3 id="阿龍-feature-coding-traditional-chinese-translator" tabindex="-1"><a class="header-anchor" href="#阿龍-feature-coding-traditional-chinese-translator"><span><a href="https://www.youtube.com/@dragontw6945" target="_blank" rel="noopener noreferrer">阿龍</a> - Feature Coding/<font color=#de2910><b>Traditional Chinese</b></font> Translator</span></a></h3>
+<p>TChinese Translator for in TOHE since April 2023. I'm a casual gamer, playing games such as Minecraft, Among Us, Project Sekai. Nice to meet you! (Also known as NetherDragon_Tw &amp; 地獄龍)</p>
+<h3 id="drakos-role-feature-coding" tabindex="-1"><a class="header-anchor" href="#drakos-role-feature-coding"><span><a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer">Drakos</a>：Role/Feature Coding</span></a></h3>
+<p>I'm a TOHE Contributor.
+The voices? Nah I'd win.
+I play chess when I'm bored, and catch crypto pumps 😼. I also workout and try to run very fast, so that's cool I guess.</p>
+<h3 id="pietro-feature-coding-brazilian-portuguese-brazil-translator" tabindex="-1"><a class="header-anchor" href="#pietro-feature-coding-brazilian-portuguese-brazil-translator"><span><a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer">Pietro</a> - Feature Coding/<font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font> Translator</span></a></h3>
+<p>I code general things like game updates, mod features, api, bugfixes, anticheat and many other things<br>
+Never coded a role yet, but i plan to code some!<br>
+I also know how to mainly code in C++, Java, Kotlin, &amp; Python<br>
+(I studied all these to feature my games like Modding Us)<br><br></p>
+<p>Very busy currently because i have school and i also go to the gym.</p>
+<h3 id="huier-feature-coding" tabindex="-1"><a class="header-anchor" href="#huier-feature-coding"><span><a href="https://github.com/Huier-Huang" target="_blank" rel="noopener noreferrer">Huier</a> - Feature Coding</span></a></h3>
+<p>Used to use names like &quot;Huier&quot; and &quot;天寸梦初&quot;. KPD, NiKoCat, Commandf1 are my friends. I love programming and animation as well as games like Honkai: StarRail, Among Us, Minecraft and others. I'm learning C# because of Modding, but I've also been into Java, TS, PYTHON, GO, RUST but I haven't learned it yet. Has worked on SChinese translations for TownOfHost. In the spring of 2023 I met TOHE and KPD and contributed some code. I have accounts on X, YouTube, TikTok but I'm not online often, I'm mainly active on Chinese apps! Currently not involved in development.</p>
+<h3 id="gurge44-role-coding-english-translator" tabindex="-1"><a class="header-anchor" href="#gurge44-role-coding-english-translator"><span><a href="https://www.youtube.com/@200iqguy" target="_blank" rel="noopener noreferrer">Gurge44</a>：Role Coding/<font color=#cf192b><b>English</b></font> Translator</span></a></h3>
+<p>I help with performance improvements &amp; bug fixes, sometimes I add new roles. I also coded a customized wordle game and my own Among Us mod which are both available on my <a href="https://github.com/Gurge44" target="_blank" rel="noopener noreferrer">github</a>. I really like Among Us mods and I have a lot of motivation to keep coding and playing. I enjoy coding challenges, like roles that are very complex and/or take a while to make. I like traffic lights more than anything else, especially those in the city I live in, since they also speak and have counters. I like everything timer related.</p>
+<h3 id="xv-contributor" tabindex="-1"><a class="header-anchor" href="#xv-contributor"><span><a href="#">xV</a> - Contributor</span></a></h3>
+<p>Goes by xV and Peck<br>
+I am most definitely not a developer, i just kept trying things and it kept working!<br>
+Have been inactive!</p>
+<h3 id="mogekonik-russian-translator" tabindex="-1"><a class="header-anchor" href="#mogekonik-russian-translator"><span><a href="https://github.com/mogekonik1" target="_blank" rel="noopener noreferrer">MogekoNik</a> - <font color=#0036a7><b>Russian</b></font> Translator</span></a></h3>
+<p>A Veteran in TOHE, pretty good at photoshop, sadly still searching for work</p>
+<h3 id="toxa-russian-translator" tabindex="-1"><a class="header-anchor" href="#toxa-russian-translator"><span><a href="https://www.youtube.com/@chill_ultimated" target="_blank" rel="noopener noreferrer">Toxa</a>：<font color=#0036a7><b>Russian</b></font> Translator</span></a></h3>
+<p>I'm a TOHE Translator. I like funny stuff that doesn't make any sense for anyone but me. I love drawing and sometimes making music. I'm also known as &quot;Тøха&quot; for some people.</p>
+<h3 id="flyflyturtle-traditional-chinese-translator" tabindex="-1"><a class="header-anchor" href="#flyflyturtle-traditional-chinese-translator"><span><a href="https://www.youtube.com/@FlyFlyCat_" target="_blank" rel="noopener noreferrer">FlyFlyTurtle</a> - <font color=#de2910><b>Traditional Chinese</b></font> Translator</span></a></h3>
+<p>I am a Translator of TOHE.I enjoy playing games like Minecraft (doing redstone/Hypixel Skyblock/ManaMetal) &amp; modded Among Us(TOHE/TONX) Quite good at different subjects in school. Played TOHE since 2.5.0. I like to find bugs/glitches.</p>
+<h3 id="pomelo-traditional-chinese-translator" tabindex="-1"><a class="header-anchor" href="#pomelo-traditional-chinese-translator"><span><a href="#">Pomelo</a> - <font color=#de2910><b>Traditional Chinese</b></font> Translator</span></a></h3>
+<p>I enjoy playing games, I have played Project Sekai, Among Us, &amp; Mahjong Soul. (Also known as 柚子)</p>
+<h3 id="船员小青-simplified-chinese-translator" tabindex="-1"><a class="header-anchor" href="#船员小青-simplified-chinese-translator"><span><a href="https://qm.qq.com/q/Zo6h4cchma" target="_blank" rel="noopener noreferrer">船员小青</a> - <font color=#de2910><b>Simplified Chinese</b></font> Translator</span></a></h3>
+<p>Hello everyone, I am from mainland China. I am one of the Simplified Chinese Translators of this mod. I am a middle school student. I usually like to sleep in, listen to music, or play video games. Nice to meet you. (Also known as CrewCyan)</p>
+<h3 id="thewhiskas27-spanish-translator" tabindex="-1"><a class="header-anchor" href="#thewhiskas27-spanish-translator"><span><a href="https://github.com/Thewhiskas27" target="_blank" rel="noopener noreferrer">thewhiskas27</a> - <font color=#ffc400><b>Spanish</b></font> Translator</span></a></h3>
+<p>I am a Translator in TEN's Discord Server, I enjoy gaming, drawing and going on walks. Also school competitively is what drives me insane.</p>
+<h3 id="dx-brazilian-portuguese-brazil-translator" tabindex="-1"><a class="header-anchor" href="#dx-brazilian-portuguese-brazil-translator"><span><a href="#"><em>Dx</em>_</a> - <font color=#009b3a><b>Brazilian (Portuguese Brazil)</b></font> Translator</span></a></h3>
+<p>I'm a Portuguese Brazil Translator. I'm also a Friday Night Funkin' coder, &amp; I make Android ports. I post videos on YouTube about games. Playing minecraft almost every day lmao.</p>
+<h3 id="kevout-french-translator" tabindex="-1"><a class="header-anchor" href="#kevout-french-translator"><span><a href="#">KevOut</a> - <font color=#002654><b>French</b></font> Translator</span></a></h3>
+<p>Helped Translate TOHE into French. (placeholder)</p>
+<h3 id="sansationnelle-french-translator" tabindex="-1"><a class="header-anchor" href="#sansationnelle-french-translator"><span><a href="https://steamcommunity.com/profiles/76561199403547166" target="_blank" rel="noopener noreferrer">Sansationnelle</a> - <font color=#002654><b>French</b></font> Translator</span></a></h3>
+<p>Well I'm having a bad time at school. I like gaming as Undertale and being lazy as a certain skeleton. (Also known as Shapmaster)</p>
+<h3 id="spacemonkey-french-translator" tabindex="-1"><a class="header-anchor" href="#spacemonkey-french-translator"><span><a href="#">SpaceMonkey</a> - <font color=#002654><b>French</b></font> Translator</span></a></h3>
+<p>Helped Translate TOHE into French. (placeholder)</p>
+<h3 id="xxsshadow-latam-latin-american-translator-spanish-translator" tabindex="-1"><a class="header-anchor" href="#xxsshadow-latam-latin-american-translator-spanish-translator"><span><a href="https://www.youtube.com/@xxSShadow" target="_blank" rel="noopener noreferrer">xxSShadow</a> - <font color=#009b3a><b>Latam (Latin American)</b></font> Translator/<font color=#ffc400><b>Spanish</b></font> Translator</span></a></h3>
+<p>I am a college student majoring in computer science. Some hobbies I have are programming, gaming, playing/learning guitar, playing/learning drums, and swimming. I enjoy listening to any type of music, and plan on trying to start making youtube videos alongside streaming on both twitch and youtube. (Also known as Shadow)</p>
+<h3 id="mattix606-italian-translator" tabindex="-1"><a class="header-anchor" href="#mattix606-italian-translator"><span><a href="#">Mattix606</a> - <font color=#009344><b>Italian</b></font> Translator</span></a></h3>
+<p>I play some videogames (Minecraft, Among Us, Brawl Stars and etc...), but I also love board games and card games. I also enjoy listening music (videogame music rocks) and also watching Netflix, Prime and especially YouTube.</p>
+<h3 id="spirit-dutch-translator" tabindex="-1"><a class="header-anchor" href="#spirit-dutch-translator"><span><a href="#">Spirit</a> - <font color=#1e448b><b>Dutch</b></font> Translator</span></a></h3>
+<p>Had done some Dutch translation, but have been inactive lately cause I've been busy with other stuff, &amp; haven't found time to do so. Also I haven't been thinking about Among Us much. When I have free time I'd rather spent time with my family and not work even more and get less time to fix/keep up my relationships.</p>
+<h3 id="victor-dutch-translator" tabindex="-1"><a class="header-anchor" href="#victor-dutch-translator"><span><a href="https://www.youtube.com/@victor007" target="_blank" rel="noopener noreferrer">Victor</a> - <font color=#1e448b><b>Dutch</b></font> Translator</span></a></h3>
+<p>I did a little Dutch translation. Have been inactive recently. (Also known as Lankyjuice)</p>
+<h3 id="eispfote-german-translator" tabindex="-1"><a class="header-anchor" href="#eispfote-german-translator"><span><a href="#">Eispfote</a> - <font color=#ffcf00><b>German</b></font> Translator</span></a></h3>
+<p>I'm a German Junior Translator. I love cats, anime, and sometimes being alone. I like to learn a bit of everything, piano, (very little) Japanese, and programming in C#</p>
+<h3 id="smokin-portuguese-portuguese-portugal-translator" tabindex="-1"><a class="header-anchor" href="#smokin-portuguese-portuguese-portugal-translator"><span><a href="#">smokin</a> - <font color=#056306><b>Portuguese (Portuguese Portugal)</b></font> Translator</span></a></h3>
+<p>I'm a Portuguese Portugal Translator (maybe the only one 😓). I mostly like to listen to and make music in my freetime. I LOVE CATS! Nice to meet y'all. 🤝</p>
+<h3 id="賣蟑螂-nk-art-ability-skill-buttons" tabindex="-1"><a class="header-anchor" href="#賣蟑螂-nk-art-ability-skill-buttons"><span><a href="https://www.youtube.com/@notkomi_lol" target="_blank" rel="noopener noreferrer">賣蟑螂(NK)</a> - Art (Ability/Skill Buttons)</span></a></h3>
+<p>Hello, I am a senior high school from Taiwan. I like to play Minecraft PvP, Among Us, Project Sekai. Nice to meet you! 😄</p>
+<h3 id="iridescent-art-tab-images" tabindex="-1"><a class="header-anchor" href="#iridescent-art-tab-images"><span><a href="https://space.bilibili.com/434079598" target="_blank" rel="noopener noreferrer">IRIDESCENT</a> - Art (Tab Images)</span></a></h3>
+<p>Created most of the Images that TOHE uses (Such as Tab Images)</p>
+<h3 id="karped1em-original-tohe-creator" tabindex="-1"><a class="header-anchor" href="#karped1em-original-tohe-creator"><span><a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM</a> - Original TOHE Creator</span></a></h3>
+<p>The original creator of TOH: Edited, now being worked on again as TONX/Town of Next.</p>
+<h2 id="credited-mods" tabindex="-1"><a class="header-anchor" href="#credited-mods"><span>Credited Mods</span></a></h2>
+<h3 id="town-of-host-edited-restored-loonietoons" tabindex="-1"><a class="header-anchor" href="#town-of-host-edited-restored-loonietoons"><span><a href="https://github.com/Loonie-Toons/Re-Edited" target="_blank" rel="noopener noreferrer">Town Of Host Edited: Restored</a> - LoonieToons</span></a></h3>
+<p>Repository Deleted by Owner.<br>
+Town of Host: Enhanced is a continuation of TOHE: Restored. (Later renamed to TOH: Re-Edited)</p>
+<h3 id="town-of-next-karped1em" tabindex="-1"><a class="header-anchor" href="#town-of-next-karped1em"><span><a href="https://github.com/KARPED1EM/TownOfNext" target="_blank" rel="noopener noreferrer">Town Of Next</a> - KARPED1EM</span></a></h3>
+<p>Previously known as Town of Host Edited, now being maintained again under the name Town of Next! (TONX) This was the Original Base for TOHE: Restored &amp; Town of Host: Enhanced.</p>
+<h3 id="town-of-host-tukasa0001" tabindex="-1"><a class="header-anchor" href="#town-of-host-tukasa0001"><span><a href="https://github.com/tukasa0001/TownOfHost" target="_blank" rel="noopener noreferrer">Town Of Host</a> - tukasa0001</span></a></h3>
+<p>The Original Town of Host Mod. This is the Original Base for Most/All Town of Host Mods.</p>
+<h3 id="town-of-host-y-yumenopai" tabindex="-1"><a class="header-anchor" href="#town-of-host-y-yumenopai"><span><a href="https://github.com/Yumenopai/TownOfHost_Y" target="_blank" rel="noopener noreferrer">Town Of Host Y</a> - Yumenopai</span></a></h3>
+<p>Mutliple Ideas such as: AntiAdminer, CursedWolf, Workaholic, Greedy (Greedier), Stalker (DarkHide).</p>
+<h3 id="town-of-host-the-other-roles-discussions" tabindex="-1"><a class="header-anchor" href="#town-of-host-the-other-roles-discussions"><span><a href="https://github.com/music-discussion/TownOfHost-TheOtherRoles" target="_blank" rel="noopener noreferrer">Town Of Host: The Other Roles</a> - Discussions</span></a></h3>
+<p>MANY Role Ideas, also Exile Confirm, &amp; Split RPC Pack.</p>
+<h3 id="town-of-plus-tugaru1975" tabindex="-1"><a class="header-anchor" href="#town-of-plus-tugaru1975"><span><a href="https://github.com/tugaru1975/TownOfPlus" target="_blank" rel="noopener noreferrer">Town Of Plus</a> - tugaru1975</span></a></h3>
+<p>Reference: Zoom.</p>
+<h3 id="town-of-host-loonietoons" tabindex="-1"><a class="header-anchor" href="#town-of-host-loonietoons"><span><a href="https://github.com/Loonie-Toons/TownOfHostPlus" target="_blank" rel="noopener noreferrer">Town Of Host +</a> - LoonieToons</span></a></h3>
+<p>Multiple Ideas such as: Marshall, Poisoner, Necroview, &amp; Sidekick.</p>
+<h3 id="endless-host-roles-gurge44" tabindex="-1"><a class="header-anchor" href="#endless-host-roles-gurge44"><span><a href="https://github.com/Gurge44/EndlessHostRoles" target="_blank" rel="noopener noreferrer">Endless Host Roles</a> - Gurge44</span></a></h3>
+<p>Previously known as Town of Host Edited +<br>
+Multiple Ideas such as: Many Role Ideas, Free For All, &amp; Speedrun.</p>
+<h3 id="town-of-host-edited-xi-tohex-official" tabindex="-1"><a class="header-anchor" href="#town-of-host-edited-xi-tohex-official"><span><a href="https://github.com/TOHEX-Official/TownOfHostEdited-Xid" target="_blank" rel="noopener noreferrer">Town Of Host Edited Xi</a> - TOHEX-Official</span></a></h3>
+<p>Some Ideas such as: Swapper.</p>
+<h3 id="project-lotus-imamapletree" tabindex="-1"><a class="header-anchor" href="#project-lotus-imamapletree"><span><a href="https://github.com/ImaMapleTree/Lotus" target="_blank" rel="noopener noreferrer">Project Lotus</a> - ImaMapleTree</span></a></h3>
+<p>Multiple Ideas such as: Crusader.</p>
+<h3 id="stellar-roles-mr-fluuff" tabindex="-1"><a class="header-anchor" href="#stellar-roles-mr-fluuff"><span><a href="https://github.com/Mr-Fluuff/StellarRolesAU" target="_blank" rel="noopener noreferrer">Stellar Roles</a> - Mr-Fluuff</span></a></h3>
+<p>Multiple Ideas such as: Inspector (ParityCop).</p>
+<h3 id="super-new-roles-supernewroles" tabindex="-1"><a class="header-anchor" href="#super-new-roles-supernewroles"><span><a href="https://github.com/SuperNewRoles/SuperNewRoles" target="_blank" rel="noopener noreferrer">Super New Roles</a> - SuperNewRoles</span></a></h3>
+<p>Reference: Credentials menu, Switch Horse Mode, Search Mod Game, &amp; Custom Button.</p>
+<h3 id="revolutionary-host-roles-sansaaaaai" tabindex="-1"><a class="header-anchor" href="#revolutionary-host-roles-sansaaaaai"><span><a href="https://github.com/sansaaaaai/Revolutionary-host-roles" target="_blank" rel="noopener noreferrer">Revolutionary Host Roles</a> - sansaaaaai</span></a></h3>
+<p>Reference: Modify settings menu.</p>
+<h3 id="town-of-us-reactivated-edonnes124" tabindex="-1"><a class="header-anchor" href="#town-of-us-reactivated-edonnes124"><span><a href="https://github.com/eDonnes124/Town-Of-Us-R" target="_blank" rel="noopener noreferrer">Town of Us Reactivated</a> - eDonnes124</span></a></h3>
+<p>Multiple Ideas such as: Witness (Detective), Medic, &amp; Tracker.</p>
+<h3 id="the-other-roles-theotherrolesau" tabindex="-1"><a class="header-anchor" href="#the-other-roles-theotherrolesau"><span><a href="https://github.com/TheOtherRolesAU/TheOtherRoles" target="_blank" rel="noopener noreferrer">The Other Roles</a> - TheOtherRolesAU</span></a></h3>
+<p>Multiple Ideas such as: Evil Guesser, Nice Guesser, and more included in TOH: TOR.</p>
+<hr>
+<p align="right">Feedback & Contact</p>
+<p align="right">
+<a href="https://discord.gg/ten" target="_blank"><img src="https://img.shields.io/badge/Discord -%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6"/></a>&nbsp;
+<a href="https://github.com/EnhancedNetwork/TownofHost-Enhanced" target="_blank"><img src="https://img.shields.io/badge/Github -%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
+</p>
+<hr>
+</div></template>
+
+

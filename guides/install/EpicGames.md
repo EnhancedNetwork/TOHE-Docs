@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Installing on Epic Games
-prev: /Guide.html
-next: Setting Up TOHE
+prev: ../Installation
+next: ../Setup
 contributors: false
 ---
 
@@ -24,10 +24,10 @@ Once the download is complete, extract it into a new empty folder somewhere, lik
 ### <font color=#f0b6d5><font color=#343434>Step 3:</font> Copy + Paste your Mod Files into Game Directory</font>
 
 Locate your AmongUs install. Find Among Us and click on the 3 dots `...` > click the folder icon button on the installation bar.<br>
-![image](./images/EpicInstallation.png)
+![image](../../images/EpicInstallation.png)
 
 Select all of the files in your TOHE folder and copy them over to the Among Us installation folder. The folder should now look something like this:<br>
-![image](./images/EpicFiles.png)
+![image](../../images/EpicFiles.png)
 
 ### <font color=#f0b6d5><font color=#343434>Step 4:</font> Run EpicGamesStarter to Set Up the Mod</font>
 

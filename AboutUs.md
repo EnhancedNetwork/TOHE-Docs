@@ -16,8 +16,6 @@ I'm a young developer who loves coding and gaming. I started coding when I was i
 
 I specialize in HTML, CSS, SQL, and JavaScript, but I'm learning Python and C++. I graduated from College with a degree in Computer Science, and I'm currently working as a freelance web developer. My main goal is to become a full-stack developer, focusing on Cybersecurity. and I'm working towards that goal.
 
-</details>
-
 ### <font color=#e0b0ff>[Sarha](#) - Co-President</font>
 
 Sarha has a curious mind and a talent for tackling challenges head-on, turning ideas into real results. Whether it’s coming up with creative solutions, sorting through tricky data, or finding the best approach for any task, she’s always ready to adapt and get things done. With a love for learning and creating, Sarha brings energy and expertise to everything she works on.
@@ -51,7 +49,7 @@ Born in the US, I am a 19 year old with a love for Minecraft and Among Us, parti
 ### [Sunnyboi](#) - Translation Manager/<font color=#bd0029><b>Japanese</b></font>/<font color=#ffc400><b>Spanish</b></font> Translator
 
 I helped with Japanese and Spanish translations for TOHE. I played Ultimate Frisbee and Soccer at University, and I love traveling, coding, gaming, art and music! 
-I'm a Translation Manager for The Enhanced Network, and I manage the Spanish, LATAM, Japanese, Brazilian, Simple Chinese, & Traditional Chinese languages.
+I'm a Translation Manager for The Enhanced Network, and I manage the Spanish, LATAM, Japanese, Brazilian, Simplified Chinese, & Traditional Chinese languages.
 
 ### [.BerTram](https://linktr.ee/BerTram.at) - Translation Manager/<font color=#ffcf00><b>German</b></font> Translator
 

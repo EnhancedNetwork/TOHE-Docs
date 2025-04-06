@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Installing on Xbox App
-prev: 2Installation
-next: 3Setup
+prev: ../Installation
+next: ../Setup
 contributors: false
 ---
 
@@ -24,10 +24,10 @@ Once the download is complete, extract it into a new empty folder somewhere, lik
 ### <font color=#f0b6d5><font color=#0e7a0d>Step 3:</font> Copy + Paste your Mod Files into Game Directory</font>
 
 Locate your AmongUs install. Firstly you need to go to Xbox App, then you can find this by right clicking on the game in your Library, selecting <i>Manage</i>, then <i>Files</i>, and finally selecting <i>Browse files</i>.<br>
-![image](./images/MSGetFolder.png)
+![image](../../images/MSGetFolder.png)
 
 Select all of the files in your TOHE folder and copy them to the Among Us installation folder. The folder should now look something like this:<br>
-![image](./images/MSResultFolder.png)
+![image](../../images/MSResultFolder.png)
 
 ### <font color=#f0b6d5><font color=#0e7a0d>Step 4:</font> Run Among Us to Set Up the Mod</font>
 

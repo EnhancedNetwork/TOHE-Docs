@@ -18,7 +18,7 @@ sidebar:
 # <font color=#f0b6d5>Guide to Town of Host: Enhanced</font>
 
 New to Town of Host: Enhanced? Perfect, this Guide is meant to assist new hosts along their hosting journey. We'll cover the basics, such as Installing + Setting Up TOHE, all the way to Sharing Presets & Customizing Lobbies!<br>
-If you are having connection issues, please refer to the FAQ as that covers Technical + Connection Issues, as well as common questions.
+If you are having connection issues, please refer to the Troubleshooting page, as that covers Technical + Connection Issues.
 
 <table>
 <tr>

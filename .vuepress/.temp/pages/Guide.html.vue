@@ -1,6 +1,6 @@
 <template><div><h1 id="guide-to-town-of-host-enhanced" tabindex="-1"><a class="header-anchor" href="#guide-to-town-of-host-enhanced"><span><font color=#f0b6d5>Guide to Town of Host: Enhanced</font></span></a></h1>
 <p>New to Town of Host: Enhanced? Perfect, this Guide is meant to assist new hosts along their hosting journey. We'll cover the basics, such as Installing + Setting Up TOHE, all the way to Sharing Presets &amp; Customizing Lobbies!<br>
-If you are having connection issues, please refer to the FAQ as that covers Technical + Connection Issues, as well as common questions.</p>
+If you are having connection issues, please refer to the Troubleshooting page, as that covers Technical + Connection Issues.</p>
 <table>
 <tr>
 <td><a href="/guides/Welcome.html" style="color:#f0b6d5"><b>Welcome</b></a></td>

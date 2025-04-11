@@ -1667,62 +1667,6 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "Circumvent",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Circumvent.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Clumsy",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Clumsy.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Last Impostor",
-    "headers": [],
-    "path": "/options/Addons/Impostor/LastImpostor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Madmate",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Madmate.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mare",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Mare.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mimic",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Mimic.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Stealer",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Stealer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Tricky",
-    "headers": [],
-    "path": "/options/Addons/Impostor/Tricky.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Autopsy",
     "headers": [],
     "path": "/options/Addons/Helpful/Autopsy.html",
@@ -1887,6 +1831,62 @@ export const SEARCH_INDEX = [
     "title": "Watcher",
     "headers": [],
     "path": "/options/Addons/Helpful/Watcher.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Circumvent",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Circumvent.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Clumsy",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Clumsy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Last Impostor",
+    "headers": [],
+    "path": "/options/Addons/Impostor/LastImpostor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Madmate",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Madmate.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mare",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Mare.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mimic",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Mimic.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Stealer",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Stealer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Tricky",
+    "headers": [],
+    "path": "/options/Addons/Impostor/Tricky.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2444,48 +2444,6 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "Crewmate",
-    "headers": [],
-    "path": "/options/Crewmates/Vanilla/Crewmate.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Engineer",
-    "headers": [],
-    "path": "/options/Crewmates/Vanilla/Engineer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Guardian Angel",
-    "headers": [],
-    "path": "/options/Crewmates/Vanilla/GuardianAngel.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Noisemaker",
-    "headers": [],
-    "path": "/options/Crewmates/Vanilla/Noisemaker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Scientist",
-    "headers": [],
-    "path": "/options/Crewmates/Vanilla/Scientist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Tracker",
-    "headers": [],
-    "path": "/options/Crewmates/Vanilla/Tracker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Altruist",
     "headers": [],
     "path": "/options/Crewmates/Support/Altruist.html",
@@ -2685,6 +2643,48 @@ export const SEARCH_INDEX = [
     "title": "Witness",
     "headers": [],
     "path": "/options/Crewmates/Support/Witness.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Crewmate",
+    "headers": [],
+    "path": "/options/Crewmates/Vanilla/Crewmate.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Engineer",
+    "headers": [],
+    "path": "/options/Crewmates/Vanilla/Engineer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Guardian Angel",
+    "headers": [],
+    "path": "/options/Crewmates/Vanilla/GuardianAngel.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Noisemaker",
+    "headers": [],
+    "path": "/options/Crewmates/Vanilla/Noisemaker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Scientist",
+    "headers": [],
+    "path": "/options/Crewmates/Vanilla/Scientist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Tracker",
+    "headers": [],
+    "path": "/options/Crewmates/Vanilla/Tracker.html",
     "pathLocale": "/",
     "extraFields": []
   },

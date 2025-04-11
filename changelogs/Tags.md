@@ -1,16 +1,10 @@
 ---
 lang: en-US
 title: Changelogs Tags
-sidebarDepth: 1
-sidebar:
-- { text: Latest Changelogs, link: /Changelogs.html}
-- { text: Changelogs Tags, link: /changelogs/Tags.html}
-- { text: All Stable Changelogs, link: /changelogs/Stable.html}
-- { text: All Beta Changelogs, link: /changelogs/Beta.html}
-- { text: All Alpha Changelogs, link: /changelogs/Alpha.html}
 ---
 
-## <font size=5em><b>All Changelog Tags:</b></font><br>
+## <font color=#f0b6d5>All Changelog Tags:</font>
+
 These are Tags to help you differentiate between Bugs & Changes, Additions & Reworks, Removals & Reverts.
 
 ---

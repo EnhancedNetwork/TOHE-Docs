@@ -37,7 +37,7 @@ next: /Roles.html
 
 <tr>
 <td><a href="#killing" style="color:#6a0000"><b>🔪 Killing</b></a></td>
-<td align="center">29</td>
+<td align="center">28</td>
 </tr>
 
 <tr>
@@ -53,6 +53,11 @@ next: /Roles.html
 <tr>
 <td><a href="#vanilla" style="color:#8cffff"><b>🍦 Vanilla</b></a> </td>
 <td align="center">3</td>
+</tr>
+
+<tr>
+<td><a href="#secondary" style="color:#7f8c8d"><b>2️⃣ Secondary</b></a> </td>
+<td align="center">1</td>
 </tr>
 
 <tr>
@@ -83,7 +88,7 @@ next: /Roles.html
 
 ### <font color=#6a0000><b>Killing</b></font>
 ---
-[Arrogance](/options/Impostors/Killing/Arrogance.html) | [Bard](/options/Impostors/Killing/Bard.html) | [Bomber](/options/Impostors/Killing/Bomber.html) | [Bounty Hunter](/options/Impostors/Killing/BountyHunter.html) | [Butcher](/options/Impostors/Killing/Butcher.html) | [Chronomancer](/options/Impostors/Killing/Chronomancer.html) | [Councillor](/options/Impostors/Killing/Councillor.html) | [Cursed Wolf](/options/Impostors/Killing/CursedWolf.html) | [Deathpact](/options/Impostors/Killing/Deathpact.html) | [Evil Guesser](/options/Impostors/Killing/EvilGuesser.html) | [Evil Hacker](/options/Impostors/Killing/EvilHacker.html) | [Evil Tracker](/options/Impostors/Killing/EvilTracker.html) | [Greedy](/options/Impostors/Killing/Greedy.html) | [Hangman](/options/Impostors/Killing/Hangman.html) | [Inhibitor](/options/Impostors/Killing/Inhibitor.html) | [Instigator](/options/Impostors/Killing/Instigator.html) | [Killing Machine](/options/Impostors/Killing/KillingMachine.html) | [Ludopath](/options/Impostors/Killing/Ludopath.html) | [Lurker](/options/Impostors/Killing/Lurker.html) | [Mercenary](/options/Impostors/Killing/Mercenary.html) | [Ninja](/options/Impostors/Killing/Ninja.html) | [Quick Shooter](/options/Impostors/Killing/QuickShooter.html) | [Saboteur](/options/Impostors/Killing/Saboteur.html) | [Sniper](/options/Impostors/Killing/Sniper.html) | [Trapster](/options/Impostors/Killing/Trapster.html) | [Underdog](/options/Impostors/Killing/Underdog.html) | [Witch](/options/Impostors/Killing/Witch.html) | [YinYanger](/options/Impostors/Killing/YinYanger.html) | [Zombie](/options/Impostors/Killing/Zombie.html)
+[Arrogance](/options/Impostors/Killing/Arrogance.html) | [Bomber](/options/Impostors/Killing/Bomber.html) | [Bounty Hunter](/options/Impostors/Killing/BountyHunter.html) | [Butcher](/options/Impostors/Killing/Butcher.html) | [Chronomancer](/options/Impostors/Killing/Chronomancer.html) | [Councillor](/options/Impostors/Killing/Councillor.html) | [Cursed Wolf](/options/Impostors/Killing/CursedWolf.html) | [Deathpact](/options/Impostors/Killing/Deathpact.html) | [Evil Guesser](/options/Impostors/Killing/EvilGuesser.html) | [Evil Hacker](/options/Impostors/Killing/EvilHacker.html) | [Evil Tracker](/options/Impostors/Killing/EvilTracker.html) | [Greedy](/options/Impostors/Killing/Greedy.html) | [Hangman](/options/Impostors/Killing/Hangman.html) | [Inhibitor](/options/Impostors/Killing/Inhibitor.html) | [Instigator](/options/Impostors/Killing/Instigator.html) | [Killing Machine](/options/Impostors/Killing/KillingMachine.html) | [Ludopath](/options/Impostors/Killing/Ludopath.html) | [Lurker](/options/Impostors/Killing/Lurker.html) | [Mercenary](/options/Impostors/Killing/Mercenary.html) | [Ninja](/options/Impostors/Killing/Ninja.html) | [Quick Shooter](/options/Impostors/Killing/QuickShooter.html) | [Saboteur](/options/Impostors/Killing/Saboteur.html) | [Sniper](/options/Impostors/Killing/Sniper.html) | [Trapster](/options/Impostors/Killing/Trapster.html) | [Underdog](/options/Impostors/Killing/Underdog.html) | [Witch](/options/Impostors/Killing/Witch.html) | [YinYanger](/options/Impostors/Killing/YinYanger.html) | [Zombie](/options/Impostors/Killing/Zombie.html)
 <br>
 
 ### <font color=red><b>Madmate</b></font>
@@ -99,6 +104,10 @@ next: /Roles.html
 ### <font color=#8cffff><b>Vanilla</b></font>
 ---
 [Impostor](/options/Impostors/Vanilla/Impostor.html) | [Phantom](/options/Impostors/Vanilla/Phantom.html) | [Shapeshifter](/options/Impostors/Vanilla/Shapeshifter.html)
+
+### <font color=#7f8c8d><b>Secondary</b></font>
+---
+[Bard](/options/Impostors/Secondary/Bard.html)
 <br>
 
 <br>

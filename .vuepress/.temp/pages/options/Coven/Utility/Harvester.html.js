@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Coven/Utility/Harvester.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Coven/Utility/Harvester.html\",\"title\":\"Harvester\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Harvester\",\"prev\":\"/options/Settings/Coven.html\",\"next\":\"Medusa\"},\"headers\":[],\"git\":{\"updatedTime\":1743100131000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Coven/Utility/Harvester.md\"}")
+export { comp, data }

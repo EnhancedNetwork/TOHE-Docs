@@ -1,8 +1,8 @@
 ---
 lang: en-US
 title: Medusa
-prev: MoonDancer
-next: Necromancer
+prev: Harvester
+next: MoonDancer
 ---
 
 # <font color="#9900cc">🐍 <b>Medusa</b></font> <Badge text="Utility" type="tip" vertical="middle"/>

@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Crewmates/Secondary/Requiter.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Crewmates/Secondary/Requiter.html\",\"title\":\"Requiter\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Requiter\",\"prev\":\"Knight\",\"next\":\"Knight\"},\"headers\":[],\"git\":{\"updatedTime\":1743109625000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Crewmates/Secondary/Requiter.md\"}")
+export { comp, data }

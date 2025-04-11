@@ -1,16 +1,11 @@
 ---
 lang: en-US
 title: Alpha Changelogs
-sidebarDepth: 1
-sidebar:
-- { text: Latest Changelogs, link: /Changelogs.html}
-- { text: Changelogs Tags, link: /changelogs/Tags.html}
-- { text: All Stable Changelogs, link: /changelogs/Stable.html}
-- { text: All Beta Changelogs, link: /changelogs/Beta.html}
-- { text: All Alpha Changelogs, link: /changelogs/Alpha.html}
+contributors: false
 ---
 
-## <font size=5em><b>All Alpha Releases/Changelogs:</b></font><br>
+## <font color=#f0b6d5>All Alpha Releases/Changelogs:</font>
+
 To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TOHE/) (at least Insider), [Contribute](https://github.com/0xDrMoe/TownofHost-Enhanced) to the Mod, or become a [Tester](#) (Content Creator with your Town of Host: Enhanced videos having 600+ views on average).
 
 <b><font color=#cf4e8f>Latest Release</font></b><br>
@@ -21,7 +16,155 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <font size=3em>
 
 <details>
-<summary><b><font color=#cf4e8f>v2.2.0 Alpha 17.1</font></b></summary>
+<summary><b><font color=#cf4e8f>v2.3.0 Alpha 6</font></b></summary>
+
+<b>For a more Stable experience, please use v2.2.1 Beta 1</b><br>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed AntiBlackout related issues<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed enable chat button for non standard gamemodes<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent Requiter from killing TNA [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Players randomly get 300 kcd<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Dead players can see exiled player's name as exiled message<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Player role basis not correctly assigned in game<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 5</font></b></summary>
+
+<b>This build is based on Alpha Release 2.3.0a4. It has features in latest alpha builds.</b><br>
+
+\+ <font color=green><b>NEW</b></font>: Update to Among Us 16.0.0 [TommyXL](https://github.com/Tommy-XL) + [Niko](https://github.com/NikoCat233)<br>
+\+ <font color=green><b>NEW</b></font>: Add and modify some custom sounds for roles [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix non host players not seeing exile message<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: More Packet size fixes and serialize fix<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix missing "OnRemove"s in Romantic's code [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Crewpostor (Crewpostor tasks are changed to short tasks when it get LastImpostor, tasks reset after meetings) [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Copycat becomes Requiter for copying instigator [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix typo of Requiter option "RequiterCanKillTNA" [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Baker Can Give Bread Again If Breaded Player Dies [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Combine Legacy Version string into 1 string [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Remove duplicated SpawnOneRandomKillingFraction<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Always remove disconnect penalty<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: TOHE won't load if it is installed together with other popular mods [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Antiblackout maybe buggy for non host players. Report bugs in discord channel<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Chat buttons for non-standard gamemodes is disabled due to AntiBlackout issues<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.1 Alpha 2</font></b></summary>
+
+<b>This build is based on Stable Release 2.2.0. It does not have features in latest alpha builds.</b><br>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix setting playercount to 127 prevent hosting games<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Some fixes for flipped skeld<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix completing gamecode wont automatically begin findgame process<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improved ServerDropDown (thanks to D1GQ for his code)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Wrap setroles rpc into a same writer<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Find a game manager (ported from BAU, hostname by Pietro)<br>
+
+<b>Expect some technique changes following this build.</b>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.1 Alpha 1</font></b></summary>
+
+<b>Why is this alpha build named 2.2.1?</b>
+Due to some serious bugs in the latest alpha that require more time to fix, and the approaching innersloth anticheat deadline, we choose to split newer among us support and alpha development.<br>
+We build on Stable 2.2.0 codebase so that we can fix the urgent things that break from this update. 2.3.0 development will be caught up after we settle everything.<br>
+
+<b>This build is based on Stable Release 2.2.0. It does not have features in latest alpha builds.</b><br>
+
+\+ <font color=green><b>NEW</b></font>: Support Among Us 16.0.0 (2024.8.11 / 2025.3.25) (Tommy fix the build errors and make the mod work; Niko fixed crowded patch and region picker)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Force reset playercount and impostor num on official servers (so you wont get anticheat banned upon join game)<br>
+
+<b>Expect some technique changes following this build.</b>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 4.1</font></b></summary>
+
+\- <font color=red><b>REMOVED</b></font>: Remove duplicated SpawnOneRandomKillingFraction<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Non host players can not see exile message. I dont know what is causing this to happen<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 4</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Coven Role: Harvester [Marg](https://github.com/MargaretTheFool)<br>
+\+ <font color=green><b>NEW</b></font>: Role: Requiter (Knight Hidden Role) [ImpyIsLazy](https://github.com/impostor4291)<br>
+\+ <font color=green><b>NEW</b></font>: Add sounds for some roles venting [sussynba](https://github.com/PEPPERcula)<br>
+\+ <font color=green><b>NEW</b></font>: Neutrals have their own reveal screen option [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Wrap AntiBlackout setroles to same message (Experimental, may have bugs regarding blackout)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Dictator setting typo [WaterPanda](#)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix incorrect tabgroup for option "SeeEjectedRolesInMeeting" and "ShowBetrayalAddonsOnEject" [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix gamemanager serialize<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Transporter/Troller teleporting Blasted players fix [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Prevent vent while antiblackout is active<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Runner can see other players roles and status in Speedrun [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent KillingMachine from getting mare<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix chiefofpolice recruit settings not working<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Change quizmaster mark due to regex failure in Notify Roles<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Chat in game option for speedrun and ffa is disabled since Niko cant figure out antiblackout stuff there.<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Added some experimental features so AntiBlackout can be unstable<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Reverse Skeld is unstable currently<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 3</font></b></summary>
+
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Prevent GameMaster from getting addons<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Abyssbringer can't consume Impostors option + Black Hole fixes and changes [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix player tags not syncing in lobby<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Some Coven Improvements (Conjurer gets two new settings: Kill Cooldown and Reset Targets After Meetings. Also now all ghosts can see coven icons) [Marg](https://github.com/MargaretTheFool)<br>
+\+ <font color=#12edaf><b>REWORK</b></font>: Coven Leader rework (Check pr#1521 (https://github.com/EnhancedNetwork/TownofHost-Enhanced/issues/1521)) [Marg](https://github.com/MargaretTheFool)<br>
+\+ <font color=green><b>NEW</b></font>: Role Dreamweaver (Coven Trickery) [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Add option show chat in game for ffa [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: chat in game option for speedrun and ffa is disabled since Niko cant figure out antiblackout stuffs there.<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 2.3</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix empty playernames<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 2.2</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix GetProgressText for Alchemist [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix Medic black screen after meeting & Fix errors [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix player name related issues [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#F6BE00><b>CHANGE</b></font>: Patch NetworkedPlayerInfo.serialize to serialize smaller packets on custom servers [Niko](https://github.com/NikoCat233)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 2.1</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix RoleTextCache not clear<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 2</font></b></summary>
+
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix strong lag when first load sprites [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix bug in assign roles [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix meetings not blocked in non Standard Gamemodes + Other modifications [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Use Il2CppObjectBase.CastFast to cast game compents [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Multiple othercode and performance improvements [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Exile screen to show converted addons [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fix ghost roles is assigned in non standard gamemode [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Added missing descriptions for speed run [sussynba](https://github.com/PEPPERcula)<br>
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.3.0 Alpha 1</font></b></summary>
+
+\+ <font color=green><b>NEW</b></font>: Gamemode: Speed Run (Ported from E-H-R) [Niko](https://github.com/NikoCat233) + [sussynba](https://github.com/PEPPERcula)<br>
+\+ <font color=green><b>NEW</b></font>: Reworked Ability Use Limit System (From E-H-R) [TommyXL](https://github.com/Tommy-XL)<br>
+\+ <font color=green><b>NEW</b></font>: Added more custom buttons [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Reworked Remove Incompatible Add-ons [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Blackmailer not blackmailing players [sussynba](https://github.com/PEPPERcula)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed Tiebreaker/TieMode.All not working with more than 15 players [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Multiple fixes and performance improvements related to the Crowded Mod [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Set spam CustomRPC to SendOption.None & removed unused RPCs [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed TNA's dying to roles they shouldn't [Marg](https://github.com/MargaretTheFool)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed INVALID string for Necromancer [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Blocked guess attempts if the guesser tries to guess a role that is not active [ImpyIsLazy](https://github.com/impostor4291)<br>
+= <font color=#1376f0><b>BUG FIX</b></font>: Fixed player count not being overridden in assigned roles [TommyXL](https://github.com/Tommy-XL)<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Shapeshifters no longer get the Flash Addon [Reborn5537](https://github.com/Reborn5537)<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: Speed Run: runner can get ghost roles after death. Temp fix is to disable ghost roles in standard mode and then switch to speed run.
+</details>
+<details>
+<summary><b><font color=#d395b4>v2.2.0 Alpha 17.1</font></b></summary>
 
 = <font color=#1376f0><b>BUG FIX</b></font>: Fix game wont start due to IRandom<br>
 </details>
@@ -137,7 +280,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <summary><b><font color=#d395b4>v2.2.0 Alpha 10</font></b></summary>
 
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Improve Admired interactions for some roles (for example admired time thief will now add meeting time, gangster and godfather are recruiting correctly (Hopefully, I didnt check the code carefully)) (by [ImpyIsLazy](https://github.com/impostor4291))<br>
-= <font color=#e08709><b>IMPROVEMENT</b></font>: Double Agent now can kill when its the only imp alive (by [ImpyIsLazy](https://github.com/impostor4291))<br>
+= <font color=#e08709><b>IMPROVEMENT</b></font>: Double Agent now can kill when it's the only imp alive (by [ImpyIsLazy](https://github.com/impostor4291))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: Baker's role block ability is reworked to reset kill cooldown [Marg](https://github.com/MargaretTheFool) (I doubt whether it works)<br>
 \+ <font color=#12edaf><b>REWORK</b></font>: Deputy (Handcuffed player now have to use kill button on others to break the handcuff)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Recoded Seeker (Fix seeker cause players unable to move in next game)<br>
@@ -292,7 +435,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed playerIdList related bugs (on change role mid game, copycat)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Probably fixed log spam on disconnecting from game<br>
 = <font color=#fdf08e><b>NOTE</b></font>: Modded Intro: Lover, Egoist > Madmate > Neutral, impostor > crewmate<br>
-= <font color=#de6707><b>KNOWN BUG</b></font>: MasterMind is still experimental, its experimental for a reason<br>
+= <font color=#de6707><b>KNOWN BUG</b></font>: MasterMind is still experimental, it's experimental for a reason<br>
 = <font color=#de6707><b>KNOWN BUG</b></font>: impostor count option reverted to 1 - 3, since changing the value range will always reset it to 3 and idk why<br>
 
 = <font color=#ece218><b>NOTICE</b></font>: This build is very experimental and following stuffs need yours help to test:<br>
@@ -725,7 +868,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 <summary><b><font color=#d395b4>v2.1.0 Alpha 3</font></b></summary>
 
 * By [**TommyXL**](https://github.com/Tommy-XL)<br>
-\+ <font color=green><b>NEW</b></font>: Neutral Chaos Role: [Troller](/options/Neutral/Chaos/Troller.html) (Idea by: `@dx7405`)<br>
+\+ <font color=green><b>NEW</b></font>: Neutral Chaos Role: [Troller](/options/Neutral/Chaos/Troller.html) (Idea by: dx7405`)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Vip/Moderator/Sponsor and ect. shown in game<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when the host changed his nickname to his own when he was killed by Doppelganger (hopefully)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Veteran kill Taskinator<br>
@@ -743,7 +886,7 @@ To access Alpha Builds, become a Sponsor on our [Website](https://weareten.ca/TO
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 \+ <font color=green><b>NEW</b></font>: Added role info in setting menu<br>
 \+ <font color=green><b>NEW</b></font>: Added search bar in settings<br>
-\+ <font color=green><b>NEW</b></font>: Helpful Add-on: [Spurt](/options/Addons/Helpful/Spurt.html) (Idea by: `@.thediamondstar`)<br>
+\+ <font color=green><b>NEW</b></font>: Helpful Add-on: [Spurt](/options/Addons/Helpful/Spurt.html) (Idea by: `.thediamondstar`)<br>
 =  AddonBase (Port From EHR) (The settings are now sorted alphabetically)<br>
 </details>
 <details>

@@ -17,6 +17,11 @@ The Knight has no tasks. They can kill any person but they can only do it once t
   * <font color=green>ON</font>: the Knight can Vent
   * <font color=red>OFF</font>: the Knight cannot Vent
 
+<center>
+
+[<font color="#e2acb5">Requiter</font>](./Requiter.html)
+</center>
+
 > From: Goose Goose Duck & Coding: [Commandf1](https://github.com/commandf1)
 
 <details>

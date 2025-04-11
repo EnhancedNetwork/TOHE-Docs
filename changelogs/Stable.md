@@ -1,16 +1,11 @@
 ---
 lang: en-US
 title: Stable Changelogs
-sidebarDepth: 1
-sidebar:
-- { text: Latest Changelogs, link: /Changelogs.html}
-- { text: Changelogs Tags, link: /changelogs/Tags.html}
-- { text: All Stable Changelogs, link: /changelogs/Stable.html}
-- { text: All Beta Changelogs, link: /changelogs/Beta.html}
-- { text: All Alpha Changelogs, link: /changelogs/Alpha.html}
+contributors: false
 ---
 
-## <font size=5em><b>All Stable Releases/Changelogs:</b></font><br>
+## <font color=#f0b6d5>All Stable Releases/Changelogs:</font>
+
 To access Stable Builds, you can visit TEN's [Discord Server](https://discord.gg/ten) and download the latest release in #tohe-release, or go straight to our Releases on [GitHub](github.com/EnhancedNetwork/TownofHost-Enhanced/releases/latest)!
 
 <b><font color=#cf4e8f>Latest Release</font></b><br>
@@ -32,13 +27,13 @@ If you experience any of these issues, feel free to submit a bug report through 
 Once Innersloth reactivates its Rate Limit anti-cheat, Rate Limit Bypasses will be automatically enforced.<br>
 Remember, this may cause unexpected issues on official servers, such as unhidden messages from guessers, delayed player name updates, packet loss resulting in missed updates, occasional black screens after meetings, and very slow loading times. If you continue to play with this option enabled, please be aware that the server may become unstable, and there is a slight chance of being flagged by the anti-cheat system. We will do our best to address these issues, but please understand that some may be beyond our control.<br>
 
-### Credits 
+<b>Credits</b><br>
 Thanks to @NikoCat233 @MargaretTheFool @Tommy-XL @PEPPERcula @NotPyro404 @Impostor4291 @ApeMV @Laikrai @Pietrodjaowjao @ApeMV @Bri1101 @Reborn5537 @Limeau for making this release possible<br>
 Thanks to our translators for their hard work in bringing the mod to everyone<br>
 Thanks to our testers and players for finding bugs and providing helpful feedback<br>
 Thanks to everyone who keeps supporting the mod and helps us move further forward!<br>
 
-## Major Mod Functions Changes:
+<b>Major Mod Functions Changes:</b><br>
 - New Tag System @MargaretTheFool and @NotPyro404<br>
   - You can now create a friendcode.txt file from Tag_Template.txt in TOHE-Data/Tags to assign tags and permissions to a player<br>
 - New chat spam system (enable in Mod Settings -> Guess Mode) @NikoCat233<br>
@@ -74,7 +69,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 - Hash API System<br>
   - Now the mod calculates its file hash and uses that to interact with Enhanced API<br>
 
-## Major Role Changes:<br>
+<b>Major Role Changes:</b><br>
 - Coven Roles are now back! @MargaretTheFool <br>
   - You can find a detailed document by [clicking here](https://docs.google.com/document/d/1KaBjn6qk5NqUC7Ax7uQxXY1C9wsswWH__rBdzrZCd1I/edit?usp=sharing) or on the [Website](https://tohe.weareten.ca/)!<br>
 - Chief Of Police (CoP) Returns<br>
@@ -100,7 +95,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 - Engineer-based roles with 1-second vent duration now can't move in the vent (like jester)<br>
 - New Option: Dictator use /vote command to expel players @hinhinarrrrrr<br>
 
-## Minor Role Changes<br>
+<b>Minor Role Changes</b><br>
 - Double Agent now can kill when it's the only imp alive @Impostor4291<br>
 - Changed the ability button text for some roles @PEPPERcula<br>
 - Fix Role Description for DollMaster and ChiefOfPolice by @Impostor4291<br>
@@ -119,7 +114,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 - Add Legacy option for Traitor and Parasite (Can Shapeshift) by @PEPPERcula<br>
 - Other Minor changes that are missed from this list<br>
 
-## Improvements<br>
+<b>Improvements</b><br>
 - New Option For Low Load: Delay Update Names @Tommy-XL<br>
   - Previously, names for vanilla clients would update every second. This seemed unnecessary, so we added this option to only update names for vanilla when necessary<br>
   - If you have any issues with name updates, please turn off this option and send us a report or open an Issue!<br>
@@ -137,13 +132,13 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 - More Custom Buttons @PEPPERcula<br>
   - 18 images added or updated to the mod<br>
 
-## Silent Tweaks:<br>
+<b>Silent Tweaks:</b><br>
 - Send failed error on failed murder attempts @NikoCat233<br>
 - Improve code performance @Tommy-XL<br>
 - Improve AntiBlackout @Tommy-XL<br>
 - Repo is now set to use utf-8 crlf as encoding. @NikoCat233<br>
 
-## Other Bug Fixes and Improvements<br>
+<b>Other Bug Fixes and Improvements</b><br>
 - Fixed bug when role name for modded players hide in Mushroom Spore<br>
 - Fixed Cursed Soul stole the win of Workaholic setting<br>
 - Fixed Cursed Soul setting "know role" not work<br>
@@ -354,7 +349,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 * By [**Drakos**](https://github.com/Ultradragon005)<br>
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Fortune Teller shows "INVALID:NotAssigned"<br>
 
-## Special thanks for help developing this version:
+<b>Special thanks for help developing this version:</b>
 [**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), [**NikoCat223**](https://github.com/NikoCat233), [**Pietro**](https://github.com/Pietrodjaowjao), [**D1GQ**](https://github.com/D1GQ), [**ryuk**](https://github.com/ryuk2098), [**Marg**](https://github.com/MargaretTheFool), [**Moe**](https://github.com/0xDrMoe), [**WaterPanda**](#), [**乐崽吖**](https://github.com/LezaiYa), [**Gurge44**](https://www.youtube.com/@200iqguy), [**NotPyro404**](https://sites.google.com/view/notpyro404), [**GameTechGuides**](https://github.com/GameTechGuides)
 </details>
 <details>
@@ -462,7 +457,7 @@ Added `F3` and `F4` to show role and add-ons settings, respectively (By [**Tommy
 = <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of `tohre.dev` updated to `weareten.ca` (By [**NotPyro404**](https://sites.google.com/view/notpyro404))<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of `ko-fi.com/tohe` updated to `weareten.ca/tohe/` (By [**NotPyro404**](https://sites.google.com/view/notpyro404))<br><br>
 
-## Special thanks for help developing this version:
+<b>Special thanks for help developing this version:</b>
 [**TommyXL**](https://github.com/Tommy-XL), [**Drakos**](https://github.com/Ultradragon005), [**NikoCat223**](https://github.com/NikoCat233), [**Pietro**](https://github.com/Pietrodjaowjao), [**D1GQ**](https://github.com/D1GQ), [**ryuk**](https://github.com/ryuk2098), [**Marg**](https://github.com/MargaretTheFool), [**Moe**](https://github.com/0xDrMoe), [**WaterPanda**](#), [**乐崽吖**](https://github.com/LezaiYa), [**Gurge44**](https://www.youtube.com/@200iqguy), [**NotPyro404**](https://sites.google.com/view/notpyro404), [**GameTechGuides**](https://github.com/GameTechGuides).<br>
 - Check out all of our translators on our [**Website**](https://tohe.weareten.ca/AboutUs.html)<br>
 * [**Full v2.0.0 Changelog**](https://github.com/0xDrMoe/TownofHost-Enhanced/compare/v1.6.0...v2.0.0) or support us on our [Website](https://weareten.ca/TOHE/) to get access to early features!

@@ -1,0 +1,3 @@
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/usc/Presets.html.vue"
+const data = JSON.parse("{\"path\":\"/usc/Presets.html\",\"title\":\"User Submitted Presets\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"User Submitted Presets\",\"prev\":\"Translations\",\"next\":\"Translations\",\"contributors\":false},\"headers\":[],\"git\":{\"updatedTime\":1743747841000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2}]},\"filePathRelative\":\"usc/Presets.md\"}")
+export { comp, data }

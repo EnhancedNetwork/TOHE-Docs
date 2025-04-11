@@ -3,166 +3,360 @@ export const searchIndex = [
     "title": "About Our Team",
     "headers": [
       {
-        "level": 2,
-        "title": "President",
-        "slug": "president",
-        "link": "#president",
+        "level": 3,
+        "title": "Moe - President",
+        "slug": "moe-president",
+        "link": "#moe-president",
         "children": []
       },
       {
-        "level": 2,
-        "title": "Co-President",
-        "slug": "co-president",
-        "link": "#co-president",
+        "level": 3,
+        "title": "Sarha - Co-President",
+        "slug": "sarha-co-president",
+        "link": "#sarha-co-president",
         "children": []
       },
       {
-        "level": 2,
-        "title": "Website Maintainer",
-        "slug": "website-maintainer",
-        "link": "#website-maintainer",
+        "level": 3,
+        "title": "Pyro - Website Maintainer + Moderator",
+        "slug": "pyro-website-maintainer-moderator",
+        "link": "#pyro-website-maintainer-moderator",
         "children": []
       },
       {
-        "level": 2,
-        "title": "Department Heads",
-        "slug": "department-heads",
-        "link": "#department-heads",
+        "level": 3,
+        "title": "Lauryn - Head of Human Resources",
+        "slug": "lauryn-head-of-human-resources",
+        "link": "#lauryn-head-of-human-resources",
         "children": []
       },
       {
-        "level": 2,
-        "title": "Translation Manager",
-        "slug": "translation-manager",
-        "link": "#translation-manager",
+        "level": 3,
+        "title": "Jackler - Head of Tech Ops",
+        "slug": "jackler-head-of-tech-ops",
+        "link": "#jackler-head-of-tech-ops",
         "children": []
       },
       {
-        "level": 2,
-        "title": "Staff Team",
-        "slug": "staff-team",
-        "link": "#staff-team",
+        "level": 3,
+        "title": "Matt - Head of Legal",
+        "slug": "matt-head-of-legal",
+        "link": "#matt-head-of-legal",
         "children": []
       },
       {
-        "level": 2,
-        "title": "Lead Developers",
-        "slug": "lead-developers",
-        "link": "#lead-developers",
+        "level": 3,
+        "title": "ryuk - Head of Development",
+        "slug": "ryuk-head-of-development",
+        "link": "#ryuk-head-of-development",
         "children": []
       },
       {
-        "level": 2,
-        "title": "TOHE Team",
-        "slug": "tohe-team",
-        "link": "#tohe-team",
-        "children": [
-          {
-            "level": 3,
-            "title": "Contributors",
-            "slug": "contributors",
-            "link": "#contributors",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "Translators",
-        "slug": "translators",
-        "link": "#translators",
-        "children": [
-          {
-            "level": 3,
-            "title": "Russian",
-            "slug": "russian",
-            "link": "#russian",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Chinese",
-            "slug": "chinese",
-            "link": "#chinese",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Spanish",
-            "slug": "spanish",
-            "link": "#spanish",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Brazilian (Portuguese Brazil)",
-            "slug": "brazilian-portuguese-brazil",
-            "link": "#brazilian-portuguese-brazil",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "French",
-            "slug": "french",
-            "link": "#french",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Japanese",
-            "slug": "japanese",
-            "link": "#japanese",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Latam (Latin American)",
-            "slug": "latam-latin-american",
-            "link": "#latam-latin-american",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Italian",
-            "slug": "italian",
-            "link": "#italian",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Dutch",
-            "slug": "dutch",
-            "link": "#dutch",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "German",
-            "slug": "german",
-            "link": "#german",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Portuguese (Portuguese Portugal)",
-            "slug": "portuguese-portuguese-portugal",
-            "link": "#portuguese-portuguese-portugal",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "MVPs",
-        "slug": "mvps",
-        "link": "#mvps",
+        "level": 3,
+        "title": "ThisDude - Translation Manager",
+        "slug": "thisdude-translation-manager",
+        "link": "#thisdude-translation-manager",
         "children": []
       },
       {
-        "level": 2,
-        "title": "Original Creator",
-        "slug": "original-creator",
-        "link": "#original-creator",
+        "level": 3,
+        "title": "Sunnyboi - Translation Manager/Japanese/Spanish Translator",
+        "slug": "sunnyboi-translation-manager-japanese-spanish-translator",
+        "link": "#sunnyboi-translation-manager-japanese-spanish-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": ".BerTram - Translation Manager/German Translator",
+        "slug": "bertram-translation-manager-german-translator",
+        "link": "#bertram-translation-manager-german-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "FieryFlower - Sr. Moderator",
+        "slug": "fieryflower-sr-moderator",
+        "link": "#fieryflower-sr-moderator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "LiLPEA - Sr. Moderator",
+        "slug": "lilpea-sr-moderator",
+        "link": "#lilpea-sr-moderator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Laikrai - Moderator",
+        "slug": "laikrai-moderator",
+        "link": "#laikrai-moderator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Tasha - Moderator",
+        "slug": "tasha-moderator",
+        "link": "#tasha-moderator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Flashy - Moderator",
+        "slug": "flashy-moderator",
+        "link": "#flashy-moderator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Fish King  - Helper",
+        "slug": "fish-king-helper",
+        "link": "#fish-king-helper",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Cayla - Helper",
+        "slug": "cayla-helper",
+        "link": "#cayla-helper",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "NikoCat233 - Lead Developer @ Town of Host: Enhanced",
+        "slug": "nikocat233-lead-developer-town-of-host-enhanced",
+        "link": "#nikocat233-lead-developer-town-of-host-enhanced",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "D1GQ - Lead Developer @ Better Among Us/The Better Role",
+        "slug": "d1gq-lead-developer-better-among-us-the-better-role",
+        "link": "#d1gq-lead-developer-better-among-us-the-better-role",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Dan - Lead Developer @ Town of Host: Enhanced RANKED",
+        "slug": "dan-lead-developer-town-of-host-enhanced-ranked",
+        "link": "#dan-lead-developer-town-of-host-enhanced-ranked",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Jarne - Lead Developer @ Mod Manager",
+        "slug": "jarne-lead-developer-mod-manager",
+        "link": "#jarne-lead-developer-mod-manager",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Tommy-XL - Senior Contributor/Russian Translator",
+        "slug": "tommy-xl-senior-contributor-russian-translator",
+        "link": "#tommy-xl-senior-contributor-russian-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Marg - Senior Contributor/Role Coding/Feature Coding",
+        "slug": "marg-senior-contributor-role-coding-feature-coding",
+        "link": "#marg-senior-contributor-role-coding-feature-coding",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Papercut - Role Coding",
+        "slug": "papercut-role-coding",
+        "link": "#papercut-role-coding",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "FuroYT - Feature Coding/French Translator",
+        "slug": "furoyt-feature-coding-french-translator",
+        "link": "#furoyt-feature-coding-french-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "乐崽吖 - Role Coding/Simplified Chinese Translator",
+        "slug": "乐崽吖-role-coding-simplified-chinese-translator",
+        "link": "#乐崽吖-role-coding-simplified-chinese-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "阿龍 - Feature Coding/Traditional Chinese Translator",
+        "slug": "阿龍-feature-coding-traditional-chinese-translator",
+        "link": "#阿龍-feature-coding-traditional-chinese-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Drakos：Role/Feature Coding",
+        "slug": "drakos-role-feature-coding",
+        "link": "#drakos-role-feature-coding",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Pietro - Feature Coding/Brazilian (Portuguese Brazil) Translator",
+        "slug": "pietro-feature-coding-brazilian-portuguese-brazil-translator",
+        "link": "#pietro-feature-coding-brazilian-portuguese-brazil-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Huier - Feature Coding",
+        "slug": "huier-feature-coding",
+        "link": "#huier-feature-coding",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Gurge44：Role Coding/English Translator",
+        "slug": "gurge44-role-coding-english-translator",
+        "link": "#gurge44-role-coding-english-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "xV - Contributor",
+        "slug": "xv-contributor",
+        "link": "#xv-contributor",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "MogekoNik - Russian Translator",
+        "slug": "mogekonik-russian-translator",
+        "link": "#mogekonik-russian-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Toxa：Russian Translator",
+        "slug": "toxa-russian-translator",
+        "link": "#toxa-russian-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "FlyFlyTurtle - Traditional Chinese Translator",
+        "slug": "flyflyturtle-traditional-chinese-translator",
+        "link": "#flyflyturtle-traditional-chinese-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Pomelo - Traditional Chinese Translator",
+        "slug": "pomelo-traditional-chinese-translator",
+        "link": "#pomelo-traditional-chinese-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "船员小青 - Simplified Chinese Translator",
+        "slug": "船员小青-simplified-chinese-translator",
+        "link": "#船员小青-simplified-chinese-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "thewhiskas27 - Spanish Translator",
+        "slug": "thewhiskas27-spanish-translator",
+        "link": "#thewhiskas27-spanish-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Dx_ - Brazilian (Portuguese Brazil) Translator",
+        "slug": "dx-brazilian-portuguese-brazil-translator",
+        "link": "#dx-brazilian-portuguese-brazil-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "KevOut - French Translator",
+        "slug": "kevout-french-translator",
+        "link": "#kevout-french-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Sansationnelle - French Translator",
+        "slug": "sansationnelle-french-translator",
+        "link": "#sansationnelle-french-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "SpaceMonkey - French Translator",
+        "slug": "spacemonkey-french-translator",
+        "link": "#spacemonkey-french-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "xxSShadow - Latam (Latin American) Translator/Spanish Translator",
+        "slug": "xxsshadow-latam-latin-american-translator-spanish-translator",
+        "link": "#xxsshadow-latam-latin-american-translator-spanish-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Mattix606 - Italian Translator",
+        "slug": "mattix606-italian-translator",
+        "link": "#mattix606-italian-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Spirit - Dutch Translator",
+        "slug": "spirit-dutch-translator",
+        "link": "#spirit-dutch-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Victor - Dutch Translator",
+        "slug": "victor-dutch-translator",
+        "link": "#victor-dutch-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Eispfote - German Translator",
+        "slug": "eispfote-german-translator",
+        "link": "#eispfote-german-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "smokin - Portuguese (Portuguese Portugal) Translator",
+        "slug": "smokin-portuguese-portuguese-portugal-translator",
+        "link": "#smokin-portuguese-portuguese-portugal-translator",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "賣蟑螂(NK) - Art (Ability/Skill Buttons)",
+        "slug": "賣蟑螂-nk-art-ability-skill-buttons",
+        "link": "#賣蟑螂-nk-art-ability-skill-buttons",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "IRIDESCENT - Art (Tab Images)",
+        "slug": "iridescent-art-tab-images",
+        "link": "#iridescent-art-tab-images",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "KARPED1EM - Original TOHE Creator",
+        "slug": "karped1em-original-tohe-creator",
+        "link": "#karped1em-original-tohe-creator",
         "children": []
       },
       {
@@ -170,7 +364,113 @@ export const searchIndex = [
         "title": "Credited Mods",
         "slug": "credited-mods",
         "link": "#credited-mods",
-        "children": []
+        "children": [
+          {
+            "level": 3,
+            "title": "Town Of Host Edited: Restored - LoonieToons",
+            "slug": "town-of-host-edited-restored-loonietoons",
+            "link": "#town-of-host-edited-restored-loonietoons",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Town Of Next - KARPED1EM",
+            "slug": "town-of-next-karped1em",
+            "link": "#town-of-next-karped1em",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Town Of Host - tukasa0001",
+            "slug": "town-of-host-tukasa0001",
+            "link": "#town-of-host-tukasa0001",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Town Of Host Y - Yumenopai",
+            "slug": "town-of-host-y-yumenopai",
+            "link": "#town-of-host-y-yumenopai",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Town Of Host: The Other Roles - Discussions",
+            "slug": "town-of-host-the-other-roles-discussions",
+            "link": "#town-of-host-the-other-roles-discussions",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Town Of Plus - tugaru1975",
+            "slug": "town-of-plus-tugaru1975",
+            "link": "#town-of-plus-tugaru1975",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Town Of Host + - LoonieToons",
+            "slug": "town-of-host-loonietoons",
+            "link": "#town-of-host-loonietoons",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Endless Host Roles - Gurge44",
+            "slug": "endless-host-roles-gurge44",
+            "link": "#endless-host-roles-gurge44",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Town Of Host Edited Xi - TOHEX-Official",
+            "slug": "town-of-host-edited-xi-tohex-official",
+            "link": "#town-of-host-edited-xi-tohex-official",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Project Lotus - ImaMapleTree",
+            "slug": "project-lotus-imamapletree",
+            "link": "#project-lotus-imamapletree",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Stellar Roles - Mr-Fluuff",
+            "slug": "stellar-roles-mr-fluuff",
+            "link": "#stellar-roles-mr-fluuff",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Super New Roles - SuperNewRoles",
+            "slug": "super-new-roles-supernewroles",
+            "link": "#super-new-roles-supernewroles",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Revolutionary Host Roles - sansaaaaai",
+            "slug": "revolutionary-host-roles-sansaaaaai",
+            "link": "#revolutionary-host-roles-sansaaaaai",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Town of Us Reactivated - eDonnes124",
+            "slug": "town-of-us-reactivated-edonnes124",
+            "link": "#town-of-us-reactivated-edonnes124",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "The Other Roles - TheOtherRolesAU",
+            "slug": "the-other-roles-theotherrolesau",
+            "link": "#the-other-roles-theotherrolesau",
+            "children": []
+          }
+        ]
       }
     ],
     "path": "/AboutUs.html",
@@ -185,56 +485,6 @@ export const searchIndex = [
         "title": "Latest Changelogs:",
         "slug": "latest-changelogs",
         "link": "#latest-changelogs",
-        "children": [
-          {
-            "level": 3,
-            "title": "Credits",
-            "slug": "credits",
-            "link": "#credits",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "Major Mod Functions Changes:",
-        "slug": "major-mod-functions-changes",
-        "link": "#major-mod-functions-changes",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Major Role Changes:",
-        "slug": "major-role-changes",
-        "link": "#major-role-changes",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Minor Role Changes",
-        "slug": "minor-role-changes",
-        "link": "#minor-role-changes",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Improvements",
-        "slug": "improvements",
-        "link": "#improvements",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Silent Tweaks:",
-        "slug": "silent-tweaks",
-        "link": "#silent-tweaks",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Other Bug Fixes and Improvements",
-        "slug": "other-bug-fixes-and-improvements",
-        "link": "#other-bug-fixes-and-improvements",
         "children": []
       }
     ],
@@ -244,16 +494,15 @@ export const searchIndex = [
   },
   {
     "title": "Frequently Asked Questions",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Distribution Policy",
-        "slug": "distribution-policy",
-        "link": "#distribution-policy",
-        "children": []
-      }
-    ],
+    "headers": [],
     "path": "/FAQ.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Guide To TOHE",
+    "headers": [],
+    "path": "/Guide.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -275,6 +524,20 @@ export const searchIndex = [
     "title": "Roles",
     "headers": [],
     "path": "/Roles.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Troubleshooting",
+    "headers": [],
+    "path": "/Troubleshooting.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "User Submitted Content",
+    "headers": [],
+    "path": "/USC.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -302,56 +565,6 @@ export const searchIndex = [
         "slug": "all-beta-releases-changelogs",
         "link": "#all-beta-releases-changelogs",
         "children": []
-      },
-      {
-        "level": 2,
-        "title": "Bug Fixes & Improvements",
-        "slug": "bug-fixes-improvements",
-        "link": "#bug-fixes-improvements",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Major Changes",
-        "slug": "major-changes",
-        "link": "#major-changes",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Bug Fixes",
-        "slug": "bug-fixes",
-        "link": "#bug-fixes",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Improvements",
-        "slug": "improvements",
-        "link": "#improvements",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Silent Tweaks:",
-        "slug": "silent-tweaks",
-        "link": "#silent-tweaks",
-        "children": [
-          {
-            "level": 3,
-            "title": "Update on Mod Progress & How You Can Help",
-            "slug": "update-on-mod-progress-how-you-can-help",
-            "link": "#update-on-mod-progress-how-you-can-help",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "For Sponsors - Changes From Alpha 3 to this version:",
-            "slug": "for-sponsors-changes-from-alpha-3-to-this-version",
-            "link": "#for-sponsors-changes-from-alpha-3-to-this-version",
-            "children": []
-          }
-        ]
       }
     ],
     "path": "/changelogs/Beta.html",
@@ -366,70 +579,6 @@ export const searchIndex = [
         "title": "All Stable Releases/Changelogs:",
         "slug": "all-stable-releases-changelogs",
         "link": "#all-stable-releases-changelogs",
-        "children": [
-          {
-            "level": 3,
-            "title": "Credits",
-            "slug": "credits",
-            "link": "#credits",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "Major Mod Functions Changes:",
-        "slug": "major-mod-functions-changes",
-        "link": "#major-mod-functions-changes",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Major Role Changes:",
-        "slug": "major-role-changes",
-        "link": "#major-role-changes",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Minor Role Changes",
-        "slug": "minor-role-changes",
-        "link": "#minor-role-changes",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Improvements",
-        "slug": "improvements",
-        "link": "#improvements",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Silent Tweaks:",
-        "slug": "silent-tweaks",
-        "link": "#silent-tweaks",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Other Bug Fixes and Improvements",
-        "slug": "other-bug-fixes-and-improvements",
-        "link": "#other-bug-fixes-and-improvements",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Special thanks for help developing this version:",
-        "slug": "special-thanks-for-help-developing-this-version",
-        "link": "#special-thanks-for-help-developing-this-version",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Special thanks for help developing this version:",
-        "slug": "special-thanks-for-help-developing-this-version-1",
-        "link": "#special-thanks-for-help-developing-this-version-1",
         "children": []
       }
     ],
@@ -449,6 +598,611 @@ export const searchIndex = [
       }
     ],
     "path": "/changelogs/Tags.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Prime Features in TOHE",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Section 1: Hot-Keys",
+        "slug": "section-1-hot-keys",
+        "link": "#section-1-hot-keys",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Section 2: Commands",
+        "slug": "section-2-commands",
+        "link": "#section-2-commands",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Now that you are familiar with two of TOHE's Features, it's time to learn what Presets are!",
+        "slug": "now-that-you-are-familiar-with-two-of-tohe-s-features-it-s-time-to-learn-what-presets-are",
+        "link": "#now-that-you-are-familiar-with-two-of-tohe-s-features-it-s-time-to-learn-what-presets-are",
+        "children": []
+      }
+    ],
+    "path": "/guides/Features.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "All About Gamemodes",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Standard",
+        "slug": "standard",
+        "link": "#standard",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Free For All",
+        "slug": "free-for-all",
+        "link": "#free-for-all",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Speedrun",
+        "slug": "speedrun",
+        "link": "#speedrun",
+        "children": []
+      }
+    ],
+    "path": "/guides/Gamemodes.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Installing TOHE",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Before  Installation: Make sure you have the following prepared",
+        "slug": "before-installation-make-sure-you-have-the-following-prepared",
+        "link": "#before-installation-make-sure-you-have-the-following-prepared",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 0: Decide what Game Platform you want TOHE on",
+        "slug": "step-0-decide-what-game-platform-you-want-tohe-on",
+        "link": "#step-0-decide-what-game-platform-you-want-tohe-on",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Once you finish Installation, it's time to Set-Up TOHE!",
+        "slug": "once-you-finish-installation-it-s-time-to-set-up-tohe",
+        "link": "#once-you-finish-installation-it-s-time-to-set-up-tohe",
+        "children": []
+      }
+    ],
+    "path": "/guides/Installation.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "All About Presets",
+    "headers": [
+      {
+        "level": 2,
+        "title": "How do you use someone else's Preset?",
+        "slug": "how-do-you-use-someone-else-s-preset",
+        "link": "#how-do-you-use-someone-else-s-preset",
+        "children": [
+          {
+            "level": 3,
+            "title": "Step 1: Download + Rename Preset File",
+            "slug": "step-1-download-rename-preset-file",
+            "link": "#step-1-download-rename-preset-file",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Step 2: Put Options.json in SaveData folder",
+            "slug": "step-2-put-options-json-in-savedata-folder",
+            "link": "#step-2-put-options-json-in-savedata-folder",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Step 3: Select Preset in TOHE",
+            "slug": "step-3-select-preset-in-tohe",
+            "link": "#step-3-select-preset-in-tohe",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "How do you share your own Preset?",
+        "slug": "how-do-you-share-your-own-preset",
+        "link": "#how-do-you-share-your-own-preset",
+        "children": [
+          {
+            "level": 3,
+            "title": "Step 1: Locate your SaveData folder",
+            "slug": "step-1-locate-your-savedata-folder",
+            "link": "#step-1-locate-your-savedata-folder",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Step 2: Copy Options.json",
+            "slug": "step-2-copy-options-json",
+            "link": "#step-2-copy-options-json",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Step 3: Rename Options.json",
+            "slug": "step-3-rename-options-json",
+            "link": "#step-3-rename-options-json",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Step 4: Share your Preset!",
+            "slug": "step-4-share-your-preset",
+            "link": "#step-4-share-your-preset",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "Now that you are familiar with Presets, you should learn how you can customize your lobbies, to make them stand out!",
+            "slug": "now-that-you-are-familiar-with-presets-you-should-learn-how-you-can-customize-your-lobbies-to-make-them-stand-out",
+            "link": "#now-that-you-are-familiar-with-presets-you-should-learn-how-you-can-customize-your-lobbies-to-make-them-stand-out",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/guides/Presets.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Setting Up TOHE",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Step 1: Set your Game Settings",
+        "slug": "step-1-set-your-game-settings",
+        "link": "#step-1-set-your-game-settings",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 2: Set your System Settings",
+        "slug": "step-2-set-your-system-settings",
+        "link": "#step-2-set-your-system-settings",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 3: Select your Gamemode",
+        "slug": "step-3-select-your-gamemode",
+        "link": "#step-3-select-your-gamemode",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 4: Set your Mod Settings",
+        "slug": "step-4-set-your-mod-settings",
+        "link": "#step-4-set-your-mod-settings",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 5: Select Roles",
+        "slug": "step-5-select-roles",
+        "link": "#step-5-select-roles",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 6: Select Add-Ons",
+        "slug": "step-6-select-add-ons",
+        "link": "#step-6-select-add-ons",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 7: Finalize Settings",
+        "slug": "step-7-finalize-settings",
+        "link": "#step-7-finalize-settings",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Once you finish Setting Up, it's time to get familiar with some of TOHE's Features!",
+        "slug": "once-you-finish-setting-up-it-s-time-to-get-familiar-with-some-of-tohe-s-features",
+        "link": "#once-you-finish-setting-up-it-s-time-to-get-familiar-with-some-of-tohe-s-features",
+        "children": []
+      }
+    ],
+    "path": "/guides/Setup.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "All About Tags",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Now that you've how Tags work, we can check out other Gamemodes!",
+        "slug": "now-that-you-ve-how-tags-work-we-can-check-out-other-gamemodes",
+        "link": "#now-that-you-ve-how-tags-work-we-can-check-out-other-gamemodes",
+        "children": []
+      }
+    ],
+    "path": "/guides/Tags.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "All About Templates",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Now that you've how Templates work, let's understand Tags, and how to use them!",
+        "slug": "now-that-you-ve-how-templates-work-let-s-understand-tags-and-how-to-use-them",
+        "link": "#now-that-you-ve-how-templates-work-let-s-understand-tags-and-how-to-use-them",
+        "children": []
+      }
+    ],
+    "path": "/guides/Templates.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "All About TOHE-Data",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Now that you've seen TOHE-Data, let's start setting up some Templates!",
+        "slug": "now-that-you-ve-seen-tohe-data-let-s-start-setting-up-some-templates",
+        "link": "#now-that-you-ve-seen-tohe-data-let-s-start-setting-up-some-templates",
+        "children": []
+      }
+    ],
+    "path": "/guides/TOHEData.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Updating TOHE",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Before  Updating:",
+        "slug": "before-updating",
+        "link": "#before-updating",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Updating:",
+        "slug": "updating",
+        "link": "#updating",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "After Updating:",
+        "slug": "after-updating",
+        "link": "#after-updating",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Distribution Policy",
+        "slug": "distribution-policy",
+        "link": "#distribution-policy",
+        "children": []
+      }
+    ],
+    "path": "/guides/Updating.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Introduction to TOHE",
+    "headers": [
+      {
+        "level": 3,
+        "title": "What is Town of Host: Enhanced?",
+        "slug": "what-is-town-of-host-enhanced",
+        "link": "#what-is-town-of-host-enhanced",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Why Town of Host: Enhanced?",
+        "slug": "why-town-of-host-enhanced",
+        "link": "#why-town-of-host-enhanced",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Done? Let's Install Town of Host: Enhanced!",
+        "slug": "done-let-s-install-town-of-host-enhanced",
+        "link": "#done-let-s-install-town-of-host-enhanced",
+        "children": []
+      }
+    ],
+    "path": "/guides/Welcome.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "User Submitted Presets",
+    "headers": [],
+    "path": "/usc/Presets.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "User Submitted Translations",
+    "headers": [],
+    "path": "/usc/Translations.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Installing on Epic Games",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Step 1: Download the Latest Release",
+        "slug": "step-1-download-the-latest-release",
+        "link": "#step-1-download-the-latest-release",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 2: Extract the Mod Folder",
+        "slug": "step-2-extract-the-mod-folder",
+        "link": "#step-2-extract-the-mod-folder",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 3: Copy + Paste your Mod Files into Game Directory",
+        "slug": "step-3-copy-paste-your-mod-files-into-game-directory",
+        "link": "#step-3-copy-paste-your-mod-files-into-game-directory",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 4: Run EpicGamesStarter to Set Up the Mod",
+        "slug": "step-4-run-epicgamesstarter-to-set-up-the-mod",
+        "link": "#step-4-run-epicgamesstarter-to-set-up-the-mod",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 5: Whitelist TOHE",
+        "slug": "step-5-whitelist-tohe",
+        "link": "#step-5-whitelist-tohe",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 6: Create a Shortcut [OPTIONAL]",
+        "slug": "step-6-create-a-shortcut-optional",
+        "link": "#step-6-create-a-shortcut-optional",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "You have now installed Town of Host: Enhanced on Epic Games! Now, it's time to Set-Up TOHE!",
+        "slug": "you-have-now-installed-town-of-host-enhanced-on-epic-games-now-it-s-time-to-set-up-tohe",
+        "link": "#you-have-now-installed-town-of-host-enhanced-on-epic-games-now-it-s-time-to-set-up-tohe",
+        "children": []
+      }
+    ],
+    "path": "/guides/install/EpicGames.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Installing on Mod Manager",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Step 1: Download and Install Mod Manager",
+        "slug": "step-1-download-and-install-mod-manager",
+        "link": "#step-1-download-and-install-mod-manager",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 2: Verify Among Us Installation",
+        "slug": "step-2-verify-among-us-installation",
+        "link": "#step-2-verify-among-us-installation",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 3: Select + Download TOHE",
+        "slug": "step-3-select-download-tohe",
+        "link": "#step-3-select-download-tohe",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 4: Launch TOHE",
+        "slug": "step-4-launch-tohe",
+        "link": "#step-4-launch-tohe",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "You have now installed Town of Host: Enhanced on Mod Manager! Now, it's time to Set-Up TOHE!",
+        "slug": "you-have-now-installed-town-of-host-enhanced-on-mod-manager-now-it-s-time-to-set-up-tohe",
+        "link": "#you-have-now-installed-town-of-host-enhanced-on-mod-manager-now-it-s-time-to-set-up-tohe",
+        "children": []
+      }
+    ],
+    "path": "/guides/install/ModManager.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Installing on Steam",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Step 1: Download the Latest Release",
+        "slug": "step-1-download-the-latest-release",
+        "link": "#step-1-download-the-latest-release",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 2: Extract the Mod Folder",
+        "slug": "step-2-extract-the-mod-folder",
+        "link": "#step-2-extract-the-mod-folder",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 3: Copy + Paste your Mod Files into Game Directory",
+        "slug": "step-3-copy-paste-your-mod-files-into-game-directory",
+        "link": "#step-3-copy-paste-your-mod-files-into-game-directory",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 4: Run Among Us to Set Up the Mod",
+        "slug": "step-4-run-among-us-to-set-up-the-mod",
+        "link": "#step-4-run-among-us-to-set-up-the-mod",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 5: Create a Shortcut [OPTIONAL]",
+        "slug": "step-5-create-a-shortcut-optional",
+        "link": "#step-5-create-a-shortcut-optional",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "You have now installed Town of Host: Enhanced on Steam! Now, it's time to Set-Up TOHE!",
+        "slug": "you-have-now-installed-town-of-host-enhanced-on-steam-now-it-s-time-to-set-up-tohe",
+        "link": "#you-have-now-installed-town-of-host-enhanced-on-steam-now-it-s-time-to-set-up-tohe",
+        "children": []
+      }
+    ],
+    "path": "/guides/install/Steam.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Installing on Thunderstore Mod Manager",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Step 1: Download and Install Thunderstore Mod Manager",
+        "slug": "step-1-download-and-install-thunderstore-mod-manager",
+        "link": "#step-1-download-and-install-thunderstore-mod-manager",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 2: Select Among Us from the Game List",
+        "slug": "step-2-select-among-us-from-the-game-list",
+        "link": "#step-2-select-among-us-from-the-game-list",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 3: Choose or Create a Profile for TOHE",
+        "slug": "step-3-choose-or-create-a-profile-for-tohe",
+        "link": "#step-3-choose-or-create-a-profile-for-tohe",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 4: Download the TOHE Mod",
+        "slug": "step-4-download-the-tohe-mod",
+        "link": "#step-4-download-the-tohe-mod",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 5: Select Modded or Vanilla Mode",
+        "slug": "step-5-select-modded-or-vanilla-mode",
+        "link": "#step-5-select-modded-or-vanilla-mode",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "You have now installed Town of Host: Enhanced on Thunderstore Mod Manager! Now, it's time to Set-Up TOHE!",
+        "slug": "you-have-now-installed-town-of-host-enhanced-on-thunderstore-mod-manager-now-it-s-time-to-set-up-tohe",
+        "link": "#you-have-now-installed-town-of-host-enhanced-on-thunderstore-mod-manager-now-it-s-time-to-set-up-tohe",
+        "children": []
+      }
+    ],
+    "path": "/guides/install/Thunderstore.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Installing on Xbox App",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Step 1: Download the Latest Release",
+        "slug": "step-1-download-the-latest-release",
+        "link": "#step-1-download-the-latest-release",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 2: Extract the Mod Folder",
+        "slug": "step-2-extract-the-mod-folder",
+        "link": "#step-2-extract-the-mod-folder",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 3: Copy + Paste your Mod Files into Game Directory",
+        "slug": "step-3-copy-paste-your-mod-files-into-game-directory",
+        "link": "#step-3-copy-paste-your-mod-files-into-game-directory",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 4: Run Among Us to Set Up the Mod",
+        "slug": "step-4-run-among-us-to-set-up-the-mod",
+        "link": "#step-4-run-among-us-to-set-up-the-mod",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 5: Create a Shortcut [OPTIONAL]",
+        "slug": "step-5-create-a-shortcut-optional",
+        "link": "#step-5-create-a-shortcut-optional",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "You have now installed Town of Host: Enhanced on Xbox App! Now, it's time to Set-Up TOHE!",
+        "slug": "you-have-now-installed-town-of-host-enhanced-on-xbox-app-now-it-s-time-to-set-up-tohe",
+        "link": "#you-have-now-installed-town-of-host-enhanced-on-xbox-app-now-it-s-time-to-set-up-tohe",
+        "children": []
+      }
+    ],
+    "path": "/guides/install/XboxApp.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -603,6 +1357,13 @@ export const searchIndex = [
         "slug": "vanilla",
         "link": "#vanilla",
         "children": []
+      },
+      {
+        "level": 3,
+        "title": "Secondary",
+        "slug": "secondary",
+        "link": "#secondary",
+        "children": []
       }
     ],
     "path": "/options/Settings/Crewmates.html",
@@ -674,6 +1435,13 @@ export const searchIndex = [
         "slug": "vanilla",
         "link": "#vanilla",
         "children": []
+      },
+      {
+        "level": 3,
+        "title": "Secondary",
+        "slug": "secondary",
+        "link": "#secondary",
+        "children": []
       }
     ],
     "path": "/options/Settings/Impostors.html",
@@ -682,87 +1450,8 @@ export const searchIndex = [
   },
   {
     "title": "Mod Settings",
-    "headers": [
-      {
-        "level": 2,
-        "title": "📃 Standard",
-        "slug": "📃-standard",
-        "link": "#📃-standard",
-        "children": [
-          {
-            "level": 3,
-            "title": "Ejection",
-            "slug": "ejection",
-            "link": "#ejection",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Guesser Mode",
-            "slug": "guesser-mode",
-            "link": "#guesser-mode",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Maps",
-            "slug": "maps",
-            "link": "#maps",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Sabotage",
-            "slug": "sabotage",
-            "link": "#sabotage",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Disable",
-            "slug": "disable",
-            "link": "#disable",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Meeting",
-            "slug": "meeting",
-            "link": "#meeting",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Different",
-            "slug": "different",
-            "link": "#different",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "Ghost",
-            "slug": "ghost",
-            "link": "#ghost",
-            "children": []
-          }
-        ]
-      },
-      {
-        "level": 2,
-        "title": "⚔️ Free For All",
-        "slug": "⚔️-free-for-all",
-        "link": "#⚔️-free-for-all",
-        "children": []
-      }
-    ],
-    "path": "/options/Settings/Mod.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Game Modifiers",
     "headers": [],
-    "path": "/options/Settings/Modifiers.html",
+    "path": "/options/Settings/Mod.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -809,6 +1498,13 @@ export const searchIndex = [
         "title": "Killing",
         "slug": "killing",
         "link": "#killing",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Secondary",
+        "slug": "secondary",
+        "link": "#secondary",
         "children": []
       }
     ],
@@ -1342,6 +2038,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Dreamweaver",
+    "headers": [],
+    "path": "/options/Coven/Trickery/Dreamweaver.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Illusionist",
     "headers": [],
     "path": "/options/Coven/Trickery/Illusionist.html",
@@ -1352,6 +2055,13 @@ export const searchIndex = [
     "title": "Poisoner",
     "headers": [],
     "path": "/options/Coven/Trickery/Poisoner.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Harvester",
+    "headers": [],
+    "path": "/options/Coven/Utility/Harvester.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1394,27 +2104,6 @@ export const searchIndex = [
     "title": "Voodoo Master",
     "headers": [],
     "path": "/options/Coven/Utility/VoodooMaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Ghastly",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Ghastly.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hawk",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Hawk.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Warden",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Warden.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1475,20 +2164,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Evil Mini",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/MiniEvil.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Nice Mini",
-    "headers": [],
-    "path": "/options/Crewmates/Basic/MiniNice.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Mole",
     "headers": [],
     "path": "/options/Crewmates/Basic/Mole.html",
@@ -1527,6 +2202,27 @@ export const searchIndex = [
     "title": "Transporter",
     "headers": [],
     "path": "/options/Crewmates/Basic/Transporter.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Ghastly",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/Ghastly.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hawk",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/Hawk.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Warden",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/Warden.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1716,6 +2412,27 @@ export const searchIndex = [
     "title": "Telecommunication",
     "headers": [],
     "path": "/options/Crewmates/Power/Telecommunication.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Evil Mini",
+    "headers": [],
+    "path": "/options/Crewmates/Secondary/MiniEvil.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Nice Mini",
+    "headers": [],
+    "path": "/options/Crewmates/Secondary/MiniNice.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Requiter",
+    "headers": [],
+    "path": "/options/Crewmates/Secondary/Requiter.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1965,496 +2682,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Baker",
-    "headers": [],
-    "path": "/options/Neutrals/Apocalypse/Baker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Berserker",
-    "headers": [],
-    "path": "/options/Neutrals/Apocalypse/Berserker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Death",
-    "headers": [],
-    "path": "/options/Neutrals/Apocalypse/Death.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Famine",
-    "headers": [],
-    "path": "/options/Neutrals/Apocalypse/Famine.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pestilence",
-    "headers": [],
-    "path": "/options/Neutrals/Apocalypse/Pestilence.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Plaguebearer",
-    "headers": [],
-    "path": "/options/Neutrals/Apocalypse/Plaguebearer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Soul Collector",
-    "headers": [],
-    "path": "/options/Neutrals/Apocalypse/SoulCollector.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "War",
-    "headers": [],
-    "path": "/options/Neutrals/Apocalypse/War.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Amnesiac",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Amnesiac.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Follower",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Follower.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hater",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Hater.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lawyer",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Lawyer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Maverick",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Maverick.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Opportunist",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Opportunist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pixie",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Pixie.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Provocateur",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Provocateur.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pursuer",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Pursuer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Revenant",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Revenant.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Romantic",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Romantic.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Ruthless Romantic",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/RomanticRuthless.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vengeful Romantic",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/RomanticVengeful.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Schrodingers Cat",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/SchrodingersCat.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Shaman",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Shaman.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Taskinator",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Taskinator.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Troller",
-    "headers": [],
-    "path": "/options/Neutrals/Benign/Troller.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Collector",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Collector.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "God",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/God.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pirate",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Pirate.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Revolutionist",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Revolutionist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Solsticer",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Solsticer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Specter",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Specter.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Terrorist",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Terrorist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vector",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Vector.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vulture",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Vulture.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Workaholic",
-    "headers": [],
-    "path": "/options/Neutrals/Chaos/Workaholic.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Cursed Soul",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/CursedSoul.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Doomsayer",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Doomsayer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Executioner",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Executioner.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Innocent",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Innocent.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Jester",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Jester.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Punching Bag",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/PunchingBag.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Seeker",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Seeker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sunnyboy",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Sunnyboy.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Imitator",
-    "headers": [],
-    "path": "/options/Neutrals/Experimental/Imitator.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Quizmaster",
-    "headers": [],
-    "path": "/options/Neutrals/Experimental/Quizmaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Shocker",
-    "headers": [],
-    "path": "/options/Neutrals/Experimental/Shocker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Agitator",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Agitator.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Arsonist",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Arsonist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bandit",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Bandit.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Blood Knight",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/BloodKnight.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Cultist",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Cultist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Demon",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Demon.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Doppelganger",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Doppelganger.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Glitch",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Glitch.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Huntsman",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Huntsman.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Infectious",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Infectious.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Jackal",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Jackal.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Juggernaut",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Juggernaut.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pelican",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Pelican.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pickpocket",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Pickpocket.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Plague Scientist",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/PlagueScientist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pyromaniac",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Pyromaniac.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Serial Killer",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/SerialKiller.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Shroud",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Shroud.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Spiritcaller",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Spiritcaller.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Stalker",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Stalker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Traitor",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Traitor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Virus",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Virus.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Werewolf",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Werewolf.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Wraith",
-    "headers": [],
-    "path": "/options/Neutrals/Killing/Wraith.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Abyssbringer",
     "headers": [],
     "path": "/options/Impostors/Concealing/Abyssbringer.html",
@@ -2661,13 +2888,6 @@ export const searchIndex = [
     "title": "Arrogance",
     "headers": [],
     "path": "/options/Impostors/Killing/Arrogance.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bard",
-    "headers": [],
-    "path": "/options/Impostors/Killing/Bard.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2882,6 +3102,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Bard",
+    "headers": [],
+    "path": "/options/Impostors/Secondary/Bard.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Anti Adminer",
     "headers": [],
     "path": "/options/Impostors/Support/AntiAdminer.html",
@@ -3004,6 +3231,496 @@ export const searchIndex = [
     "title": "Shapeshifter",
     "headers": [],
     "path": "/options/Impostors/Vanilla/Shapeshifter.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Baker",
+    "headers": [],
+    "path": "/options/Neutrals/Apocalypse/Baker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Berserker",
+    "headers": [],
+    "path": "/options/Neutrals/Apocalypse/Berserker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Plaguebearer",
+    "headers": [],
+    "path": "/options/Neutrals/Apocalypse/Plaguebearer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Soul Collector",
+    "headers": [],
+    "path": "/options/Neutrals/Apocalypse/SoulCollector.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Amnesiac",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Amnesiac.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Follower",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Follower.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hater",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Hater.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lawyer",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Lawyer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Maverick",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Maverick.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Opportunist",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Opportunist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Pixie",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Pixie.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Provocateur",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Provocateur.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Pursuer",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Pursuer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Revenant",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Revenant.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Romantic",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Romantic.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Schrodingers Cat",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/SchrodingersCat.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Shaman",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Shaman.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Taskinator",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Taskinator.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Troller",
+    "headers": [],
+    "path": "/options/Neutrals/Benign/Troller.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Collector",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Collector.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "God",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/God.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Pirate",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Pirate.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Revolutionist",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Revolutionist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Solsticer",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Solsticer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Specter",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Specter.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Terrorist",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Terrorist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vector",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Vector.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vulture",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Vulture.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Workaholic",
+    "headers": [],
+    "path": "/options/Neutrals/Chaos/Workaholic.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Cursed Soul",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/CursedSoul.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Doomsayer",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Doomsayer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Executioner",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Executioner.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Innocent",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Innocent.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Jester",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Jester.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Punching Bag",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/PunchingBag.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Seeker",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Seeker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Imitator",
+    "headers": [],
+    "path": "/options/Neutrals/Experimental/Imitator.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Quizmaster",
+    "headers": [],
+    "path": "/options/Neutrals/Experimental/Quizmaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Shocker",
+    "headers": [],
+    "path": "/options/Neutrals/Experimental/Shocker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Agitator",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Agitator.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Arsonist",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Arsonist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bandit",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Bandit.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Blood Knight",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/BloodKnight.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Cultist",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Cultist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Demon",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Demon.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Doppelganger",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Doppelganger.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Glitch",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Glitch.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Huntsman",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Huntsman.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Infectious",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Infectious.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Jackal",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Jackal.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Juggernaut",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Juggernaut.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Pelican",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Pelican.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Pickpocket",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Pickpocket.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Plague Scientist",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/PlagueScientist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Pyromaniac",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Pyromaniac.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Serial Killer",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/SerialKiller.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Shroud",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Shroud.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Spiritcaller",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Spiritcaller.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Stalker",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Stalker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Traitor",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Traitor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Virus",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Virus.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Werewolf",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Werewolf.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Wraith",
+    "headers": [],
+    "path": "/options/Neutrals/Killing/Wraith.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Death",
+    "headers": [],
+    "path": "/options/Neutrals/Secondary/Death.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Famine",
+    "headers": [],
+    "path": "/options/Neutrals/Secondary/Famine.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Pestilence",
+    "headers": [],
+    "path": "/options/Neutrals/Secondary/Pestilence.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Ruthless Romantic",
+    "headers": [],
+    "path": "/options/Neutrals/Secondary/RomanticRuthless.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vengeful Romantic",
+    "headers": [],
+    "path": "/options/Neutrals/Secondary/RomanticVengeful.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sunnyboy",
+    "headers": [],
+    "path": "/options/Neutrals/Secondary/Sunnyboy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "War",
+    "headers": [],
+    "path": "/options/Neutrals/Secondary/War.html",
     "pathLocale": "/",
     "extraFields": []
   },

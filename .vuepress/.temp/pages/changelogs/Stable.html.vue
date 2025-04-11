@@ -1,4 +1,4 @@
-<template><div><h2 id="all-stable-releases-changelogs" tabindex="-1"><a class="header-anchor" href="#all-stable-releases-changelogs"><span><font size=5em><b>All Stable Releases/Changelogs:</b></font><br></span></a></h2>
+<template><div><h2 id="all-stable-releases-changelogs" tabindex="-1"><a class="header-anchor" href="#all-stable-releases-changelogs"><span><font color=#f0b6d5>All Stable Releases/Changelogs:</font></span></a></h2>
 <p>To access Stable Builds, you can visit TEN's <a href="https://discord.gg/ten" target="_blank" rel="noopener noreferrer">Discord Server<ExternalLinkIcon/></a> and download the latest release in #tohe-release, or go straight to our Releases on <a href="github.com/EnhancedNetwork/TownofHost-Enhanced/releases/latest">GitHub</a>!</p>
 <p><b><font color=#cf4e8f>Latest Release</font></b><br>
 <b><font color=#d395b4>Previous Release</font></b></p>
@@ -16,12 +16,12 @@ When playing on InnerSloth official servers, please be aware that the Rate Limit
 If you experience any of these issues, feel free to submit a bug report through our Discord, and we'll do our best to resolve it.<br>
 Once Innersloth reactivates its Rate Limit anti-cheat, Rate Limit Bypasses will be automatically enforced.<br>
 Remember, this may cause unexpected issues on official servers, such as unhidden messages from guessers, delayed player name updates, packet loss resulting in missed updates, occasional black screens after meetings, and very slow loading times. If you continue to play with this option enabled, please be aware that the server may become unstable, and there is a slight chance of being flagged by the anti-cheat system. We will do our best to address these issues, but please understand that some may be beyond our control.<br></p>
-<h3 id="credits" tabindex="-1"><a class="header-anchor" href="#credits"><span>Credits</span></a></h3>
-<p>Thanks to @NikoCat233 @MargaretTheFool @Tommy-XL @PEPPERcula @NotPyro404 @Impostor4291 @ApeMV @Laikrai @Pietrodjaowjao @ApeMV @Bri1101 @Reborn5537 @Limeau for making this release possible<br>
+<p><b>Credits</b><br>
+Thanks to @NikoCat233 @MargaretTheFool @Tommy-XL @PEPPERcula @NotPyro404 @Impostor4291 @ApeMV @Laikrai @Pietrodjaowjao @ApeMV @Bri1101 @Reborn5537 @Limeau for making this release possible<br>
 Thanks to our translators for their hard work in bringing the mod to everyone<br>
 Thanks to our testers and players for finding bugs and providing helpful feedback<br>
 Thanks to everyone who keeps supporting the mod and helps us move further forward!<br></p>
-<h2 id="major-mod-functions-changes" tabindex="-1"><a class="header-anchor" href="#major-mod-functions-changes"><span>Major Mod Functions Changes:</span></a></h2>
+<p><b>Major Mod Functions Changes:</b><br></p>
 <ul>
 <li>New Tag System @MargaretTheFool and @NotPyro404<br>
 <ul>
@@ -88,7 +88,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 </ul>
 </li>
 </ul>
-<h2 id="major-role-changes" tabindex="-1"><a class="header-anchor" href="#major-role-changes"><span>Major Role Changes:<br></span></a></h2>
+<p><b>Major Role Changes:</b><br></p>
 <ul>
 <li>Coven Roles are now back! @MargaretTheFool <br>
 <ul>
@@ -136,7 +136,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 <li>Engineer-based roles with 1-second vent duration now can't move in the vent (like jester)<br></li>
 <li>New Option: Dictator use /vote command to expel players @hinhinarrrrrr<br></li>
 </ul>
-<h2 id="minor-role-changes" tabindex="-1"><a class="header-anchor" href="#minor-role-changes"><span>Minor Role Changes<br></span></a></h2>
+<p><b>Minor Role Changes</b><br></p>
 <ul>
 <li>Double Agent now can kill when it's the only imp alive @Impostor4291<br></li>
 <li>Changed the ability button text for some roles @PEPPERcula<br></li>
@@ -156,7 +156,7 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 <li>Add Legacy option for Traitor and Parasite (Can Shapeshift) by @PEPPERcula<br></li>
 <li>Other Minor changes that are missed from this list<br></li>
 </ul>
-<h2 id="improvements" tabindex="-1"><a class="header-anchor" href="#improvements"><span>Improvements<br></span></a></h2>
+<p><b>Improvements</b><br></p>
 <ul>
 <li>New Option For Low Load: Delay Update Names @Tommy-XL<br>
 <ul>
@@ -184,14 +184,14 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 </ul>
 </li>
 </ul>
-<h2 id="silent-tweaks" tabindex="-1"><a class="header-anchor" href="#silent-tweaks"><span>Silent Tweaks:<br></span></a></h2>
+<p><b>Silent Tweaks:</b><br></p>
 <ul>
 <li>Send failed error on failed murder attempts @NikoCat233<br></li>
 <li>Improve code performance @Tommy-XL<br></li>
 <li>Improve AntiBlackout @Tommy-XL<br></li>
 <li>Repo is now set to use utf-8 crlf as encoding. @NikoCat233<br></li>
 </ul>
-<h2 id="other-bug-fixes-and-improvements" tabindex="-1"><a class="header-anchor" href="#other-bug-fixes-and-improvements"><span>Other Bug Fixes and Improvements<br></span></a></h2>
+<p><b>Other Bug Fixes and Improvements</b><br></p>
 <ul>
 <li>Fixed bug when role name for modded players hide in Mushroom Spore<br></li>
 <li>Fixed Cursed Soul stole the win of Workaholic setting<br></li>
@@ -416,8 +416,8 @@ Thanks to everyone who keeps supporting the mod and helps us move further forwar
 = <font color=#1376f0><b>BUG FIX</b></font>: Fixed bug when Fortune Teller shows &quot;INVALID:NotAssigned&quot;<br></p>
 </li>
 </ul>
-<h2 id="special-thanks-for-help-developing-this-version" tabindex="-1"><a class="header-anchor" href="#special-thanks-for-help-developing-this-version"><span>Special thanks for help developing this version:</span></a></h2>
-<p><a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>, <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a>, <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a>, <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a>, <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a>, <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>Moe</strong><ExternalLinkIcon/></a>, <a href="#"><strong>WaterPanda</strong></a>, <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>乐崽吖</strong><ExternalLinkIcon/></a>, <a href="https://www.youtube.com/@200iqguy" target="_blank" rel="noopener noreferrer"><strong>Gurge44</strong><ExternalLinkIcon/></a>, <a href="https://sites.google.com/view/notpyro404" target="_blank" rel="noopener noreferrer"><strong>NotPyro404</strong><ExternalLinkIcon/></a>, <a href="https://github.com/GameTechGuides" target="_blank" rel="noopener noreferrer"><strong>GameTechGuides</strong><ExternalLinkIcon/></a></p>
+<p><b>Special thanks for help developing this version:</b>
+<a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>, <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a>, <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a>, <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a>, <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a>, <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>Moe</strong><ExternalLinkIcon/></a>, <a href="#"><strong>WaterPanda</strong></a>, <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>乐崽吖</strong><ExternalLinkIcon/></a>, <a href="https://www.youtube.com/@200iqguy" target="_blank" rel="noopener noreferrer"><strong>Gurge44</strong><ExternalLinkIcon/></a>, <a href="https://sites.google.com/view/notpyro404" target="_blank" rel="noopener noreferrer"><strong>NotPyro404</strong><ExternalLinkIcon/></a>, <a href="https://github.com/GameTechGuides" target="_blank" rel="noopener noreferrer"><strong>GameTechGuides</strong><ExternalLinkIcon/></a></p>
 </details>
 <details>
 <summary><b><font color=#d395b4>v2.0.0</font></b></summary>
@@ -535,8 +535,8 @@ Added <code v-pre>F3</code> and <code v-pre>F4</code> to show role and add-ons s
 + <font color=#12edaf><b>RENAMED</b></font>: Schizophrenic renamed to <RouteLink to="/options/Addons/Mixed/Paranoia.html">Paranoia</RouteLink> (By <a href="#"><strong>WaterPanda</strong></a>)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of <code v-pre>tohre.dev</code> updated to <code v-pre>weareten.ca</code> (By <a href="https://sites.google.com/view/notpyro404" target="_blank" rel="noopener noreferrer"><strong>NotPyro404</strong><ExternalLinkIcon/></a>)<br>
 = <font color=#e08709><b>IMPROVEMENT</b></font>: All instances of <code v-pre>ko-fi.com/tohe</code> updated to <code v-pre>weareten.ca/tohe/</code> (By <a href="https://sites.google.com/view/notpyro404" target="_blank" rel="noopener noreferrer"><strong>NotPyro404</strong><ExternalLinkIcon/></a>)<br><br></p>
-<h2 id="special-thanks-for-help-developing-this-version-1" tabindex="-1"><a class="header-anchor" href="#special-thanks-for-help-developing-this-version-1"><span>Special thanks for help developing this version:</span></a></h2>
-<p><a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>, <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a>, <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a>, <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a>, <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a>, <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>Moe</strong><ExternalLinkIcon/></a>, <a href="#"><strong>WaterPanda</strong></a>, <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>乐崽吖</strong><ExternalLinkIcon/></a>, <a href="https://www.youtube.com/@200iqguy" target="_blank" rel="noopener noreferrer"><strong>Gurge44</strong><ExternalLinkIcon/></a>, <a href="https://sites.google.com/view/notpyro404" target="_blank" rel="noopener noreferrer"><strong>NotPyro404</strong><ExternalLinkIcon/></a>, <a href="https://github.com/GameTechGuides" target="_blank" rel="noopener noreferrer"><strong>GameTechGuides</strong><ExternalLinkIcon/></a>.<br></p>
+<p><b>Special thanks for help developing this version:</b>
+<a href="https://github.com/Tommy-XL" target="_blank" rel="noopener noreferrer"><strong>TommyXL</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Ultradragon005" target="_blank" rel="noopener noreferrer"><strong>Drakos</strong><ExternalLinkIcon/></a>, <a href="https://github.com/NikoCat233" target="_blank" rel="noopener noreferrer"><strong>NikoCat223</strong><ExternalLinkIcon/></a>, <a href="https://github.com/Pietrodjaowjao" target="_blank" rel="noopener noreferrer"><strong>Pietro</strong><ExternalLinkIcon/></a>, <a href="https://github.com/D1GQ" target="_blank" rel="noopener noreferrer"><strong>D1GQ</strong><ExternalLinkIcon/></a>, <a href="https://github.com/ryuk2098" target="_blank" rel="noopener noreferrer"><strong>ryuk</strong><ExternalLinkIcon/></a>, <a href="https://github.com/MargaretTheFool" target="_blank" rel="noopener noreferrer"><strong>Marg</strong><ExternalLinkIcon/></a>, <a href="https://github.com/0xDrMoe" target="_blank" rel="noopener noreferrer"><strong>Moe</strong><ExternalLinkIcon/></a>, <a href="#"><strong>WaterPanda</strong></a>, <a href="https://github.com/LezaiYa" target="_blank" rel="noopener noreferrer"><strong>乐崽吖</strong><ExternalLinkIcon/></a>, <a href="https://www.youtube.com/@200iqguy" target="_blank" rel="noopener noreferrer"><strong>Gurge44</strong><ExternalLinkIcon/></a>, <a href="https://sites.google.com/view/notpyro404" target="_blank" rel="noopener noreferrer"><strong>NotPyro404</strong><ExternalLinkIcon/></a>, <a href="https://github.com/GameTechGuides" target="_blank" rel="noopener noreferrer"><strong>GameTechGuides</strong><ExternalLinkIcon/></a>.<br></p>
 <ul>
 <li>Check out all of our translators on our <a href="https://tohe.weareten.ca/AboutUs.html" target="_blank" rel="noopener noreferrer"><strong>Website</strong><ExternalLinkIcon/></a><br></li>
 </ul>

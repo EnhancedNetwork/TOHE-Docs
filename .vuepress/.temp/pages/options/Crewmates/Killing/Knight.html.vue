@@ -21,6 +21,9 @@
 </ul>
 </li>
 </ul>
+<center>
+<p><RouteLink to="/options/Crewmates/Killing/Requiter.html"><font color="#e2acb5">Requiter</font></RouteLink></p>
+</center>
 <blockquote>
 <p>From: Goose Goose Duck &amp; Coding: <a href="https://github.com/commandf1" target="_blank" rel="noopener noreferrer">Commandf1<ExternalLinkIcon/></a></p>
 </blockquote>

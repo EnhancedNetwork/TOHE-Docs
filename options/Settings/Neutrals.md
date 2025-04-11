@@ -17,12 +17,12 @@ next: /Roles.html
 
 <tr>
 <td><a href="#apocalypse" style="color:#cc0044"><b>🚨 Apocalypse</b></a></td>
-<td align="center">8</td>
+<td align="center">4</td>
 </tr>
 
 <tr>
 <td><a href="#benign" style="color:#046300"><b>🕊️ Benign</b></a></td>
-<td align="center">18</td>
+<td align="center">16</td>
 </tr>
 
 <tr>
@@ -32,7 +32,7 @@ next: /Roles.html
 
 <tr>
 <td><a href="#evil" style="color:#912900"><b>👹 Evil</b></a></td>
-<td align="center">7</td>
+<td align="center">6</td>
 </tr>
 
 <tr>
@@ -46,6 +46,11 @@ next: /Roles.html
 </tr>
 
 <tr>
+<td><a href="#secondary" style="color:#7f8c8d"><b>2️⃣ Secondary</b></a></td>
+<td align="center">7</td>
+</tr>
+
+<tr>
 <td><font color=#7c8c8d><b>📊 Total:</b></font></td>
 <td align="center"><b>70</b></td>
 </tr>
@@ -55,11 +60,11 @@ next: /Roles.html
 
 ### <font color=#cc0044><b>Apocalypse</b></font>
 ---
-[Baker](/options/Neutrals/Apocalypse/Baker.html) | [Famine](/options/Neutrals/Apocalypse/Famine.html) | [Berserker](/options/Neutrals/Apocalypse/Berserker.html) | [War](/options/Neutrals/Apocalypse/War.html) | [Plaguebearer](/options/Neutrals/Apocalypse/Plaguebearer.html) | [Pestilence](/options/Neutrals/Apocalypse/Pestilence.html) | [Soul Collector](/options/Neutrals/Apocalypse/SoulCollector.html) | [Death](/options/Neutrals/Apocalypse/Death.html)
+[Baker](/options/Neutrals/Apocalypse/Baker.html) | [Berserker](/options/Neutrals/Apocalypse/Berserker.html) | [Plaguebearer](/options/Neutrals/Apocalypse/Plaguebearer.html) | [Soul Collector](/options/Neutrals/Apocalypse/SoulCollector.html)
 
 ### <font color=#046300><b>Benign</b></font>
 ---
-[Amnesiac](/options/Neutrals/Benign/Amnesiac.html) | [Follower](/options/Neutrals/Benign/Follower.html) | [Hater](/options/Neutrals/Benign/Hater.html) | [Lawyer](/options/Neutrals/Benign/Lawyer.html) | [Maverick](/options/Neutrals/Benign/Maverick.html) | [Opportunist](/options/Neutrals/Benign/Opportunist.html) | [Pixie](/options/Neutrals/Benign/Pixie.html) | [Provocateur](/options/Neutrals/Chaos/Provocateur.html) | [Pursuer](/options/Neutrals/Benign/Pursuer.html) | [Revenant](/options/Neutrals/Benign/Revenant.html) | [Romantic](/options/Neutrals/Benign/Romantic.html) | [Ruthless Romantic](/options/Neutrals/Benign/RuthlessRomantic.html) | [Vengeful Romantic](/options/Neutrals/Benign/VengefulRomantic.html) | [Schrodingers Cat](/options/Neutrals/Benign/SchrodingersCat.html) | [Shaman](/options/Neutrals/Benign/Shaman.html) | [Taskinator](/options/Neutrals/Benign/Taskinator.html) | [Troller](/options/Neutrals/Benign/Troller.html)
+[Amnesiac](/options/Neutrals/Benign/Amnesiac.html) | [Follower](/options/Neutrals/Benign/Follower.html) | [Hater](/options/Neutrals/Benign/Hater.html) | [Lawyer](/options/Neutrals/Benign/Lawyer.html) | [Maverick](/options/Neutrals/Benign/Maverick.html) | [Opportunist](/options/Neutrals/Benign/Opportunist.html) | [Pixie](/options/Neutrals/Benign/Pixie.html) | [Provocateur](/options/Neutrals/Chaos/Provocateur.html) | [Pursuer](/options/Neutrals/Benign/Pursuer.html) | [Revenant](/options/Neutrals/Benign/Revenant.html) | [Romantic](/options/Neutrals/Benign/Romantic.html) | [Schrodingers Cat](/options/Neutrals/Benign/SchrodingersCat.html) | [Shaman](/options/Neutrals/Benign/Shaman.html) | [Taskinator](/options/Neutrals/Benign/Taskinator.html) | [Troller](/options/Neutrals/Benign/Troller.html)
 
 ### <font color=#d4af37><b>Chaos</b></font>
 ---
@@ -76,6 +81,10 @@ next: /Roles.html
 ### <font color=red><b>Killing</b></font>
 ---
 [Agitator](/options/Neutrals/Killing/Agitator.html) | [Arsonist](/options/Neutrals/Killing/Arsonist.html) | [Bandit](/options/Neutrals/Killing/Bandit.html) | [Blood Knight](/options/Neutrals/Killing/BloodKnight.html) | [Cultist](/options/Neutrals/Killing/Cultist.html) | [Demon](/options/Neutrals/Killing/Demon.html) | [Glitch](/options/Neutrals/Killing/Glitch.html) | [Huntsman](/options/Neutrals/Killing/Huntsman.html) | [Infectious](/options/Neutrals/Killing/Infectious.html) | [Jackal](/options/Neutrals/Killing/Jackal.html) | [Juggernaut](/options/Neutrals/Killing/Juggernaut.html) | [Pelican](/options/Neutrals/Killing/Pelican.html) | [Pickpocket](/options/Neutrals/Killing/Pickpocket.html) | [Plague Scientist](/options/Neutrals/Killing/PlagueScientist.html) | [Pyromaniac](/options/Neutrals/Killing/Pyromaniac.html) | [Serial Killer](/options/Neutrals/Killing/SerialKiller.html) | [Shroud](/options/Neutrals/Killing/Shroud.html) | [Spiritcaller](/options/Neutrals/Killing/Spiritcaller.html) | [Stalker](/options/Neutrals/Killing/Stalker.html) | [Traitor](/options/Neutrals/Killing/Traitor.html) | [Virus](/options/Neutrals/Killing/Virus.html) | [Werewolf](/options/Neutrals/Killing/Werewolf.html) | [Wraith](/options/Neutrals/Killing/Wraith.html)
+
+### <font color=#7f8c8d><b>Secondary</b></font>
+---
+[Famine](/options/Neutrals/Secondary/Famine.html) | [War](/options/Neutrals/Secondary/War.html) | [Pestilence](/options/Neutrals/Apocalypse/Pestilence.html) | [Death](/options/Neutrals/Secondary/Death.html) | [Ruthless Romantic](/options/Neutrals/Secondary/RuthlessRomantic.html) | [Vengeful Romantic](/options/Neutrals/Secondary/VengefulRomantic.html) | [Sunnyboy](/options/Neutrals/Secondary/Sunnyboy.html)
 <br>
 
 <details>

@@ -147,8 +147,8 @@ export default defineUserConfig({
             { text: 'All About Presets', link: '/guides/Presets.html' },
             { text: 'All About TOHE-Data', link: '/guides/TOHEData.html' },
             { text: 'All About Templates', link: '/guides/Templates.html' },
-            { text: 'All About Tags', link: '/guides/Templates.html' },
-            { text: 'All About Gamemodes', link: '/guides/Templates.html' }
+            { text: 'All About Tags', link: '/guides/Tags.html' },
+            { text: 'All About Gamemodes', link: '/guides/Gamemodes.html' }
           ],
           '/changelogs/': [
             { text: 'Latest Changelogs', link: '/Changelogs.html' },

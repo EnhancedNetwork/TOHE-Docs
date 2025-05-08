@@ -24,7 +24,7 @@ You can submit your own translation to be featured by joining the [Discord Serve
 <details>
 <summary><b><font color=#75ffc3>TOHE x MAUL Christmas Event 2024</font></b></summary>
 
-<a href="/translations/Christmas24.dat" download>Download this Translation</a><br>
+<a href="../.vuepress/public/translations/Christmas24.dat" download>Download this Translation</a><br>
 Important Notes: This translation is what was used for the TOHE x MAUL Christmas Event in 2024 (12/29/24). This only affects some roles.
 
 > Provided by: Sarhadactyl

@@ -27,8 +27,8 @@ Important Note: I'm not a preset expert, so any submissions with suggestions for
 <details>
 <summary><b><font color=75ffc3>Introduction to TOHE</font></b></summary>
 
-<a href="../.vuepress/public/presets/StarterIntroTOHE.json" download>Download this Preset</a><br>
-Important Notes: This Preset is as simple as they come, well, besides just being default Impostors & Crewmates, but it's to get you familiar with the very base Mechanics.
+<a href="../.vuepress/public/presets/StarterIntroTOHE.json" download>Download this Preset</a><br
+Important Notes: This Preset is as simple as they come, well, besides just being default Impostors & Crewmates, but it is to get you familiar with the very base Mechanics.
 
 > Provided by: NotPyro404
 </details>
@@ -58,7 +58,7 @@ Important Notes: This Preset is to get you into a few Impostor Roles. These will
 > Provided by: NotPyro404
 </details>
 <details>
-<summary><b><font color=75b2ff>Ed's Recommendations</font></b></summary>
+<summary><b><font color=75b2ff>Recommendations from Ed</font></b></summary>
 
 <a href="../.vuepress/public/presets/AdvancedEd.json" download>Download this Preset</a><br>
 Important Notes: This Preset is what Ed (holmes3) uses in their lobbies and recommends to familiar hosts.

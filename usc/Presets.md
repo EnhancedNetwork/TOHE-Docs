@@ -1,8 +1,6 @@
 ---
 lang: en-US
 title: User Submitted Presets
-prev: Translations
-next: Translations
 contributors: false
 ---
 

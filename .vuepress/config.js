@@ -137,7 +137,7 @@ export default defineUserConfig({
                 { text: 'Steam Installation', link: '/guides/install/Steam.html' },
                 { text: 'Epic Games Installation', link: '/guides/install/EpicGames.html' },
                 { text: 'Xbox App Installation', link: '/guides/install/XboxApp.html' },
-                { text: 'Thunderstore Installation', link: '/guides/install/Thunderstore.html' },
+                { text: 'Thunderstore/r2modman Installation', link: '/guides/install/Thunderstore.html' },
                 { text: 'Mod Manager Installation', link: '/guides/install/ModManager.html' }
               ]
             },

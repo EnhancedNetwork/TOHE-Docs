@@ -1,3 +1,32 @@
 {
-  "middleware": true
+  "rewrites": [
+    {
+      "source": "/AboutUs",
+      "destination": "/aboutus"
+    },
+    {
+      "source": "/Changelogs",
+      "destination": "/changelogs"
+    },
+    {
+      "source": "/Guide",
+      "destination": "/guide"
+    },
+    {
+      "source": "/FAQ",
+      "destination": "/faq"
+    },
+    {
+      "source": "/Resources",
+      "destination": "/resources"
+    },
+    {
+      "source": "/USC",
+      "destination": "/usc"
+    },
+    {
+      "source": "/Troubleshooting",
+      "destination": "/troubleshooting"
+    }
+  ]
 }

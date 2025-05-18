@@ -1948,27 +1948,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Conjurer",
-    "headers": [],
-    "path": "/options/Coven/Killing/Conjurer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hex Master",
-    "headers": [],
-    "path": "/options/Coven/Killing/HexMaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Jinx",
-    "headers": [],
-    "path": "/options/Coven/Killing/Jinx.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Antidote",
     "headers": [],
     "path": "/options/Addons/Mixed/Antidote.html",
@@ -2042,6 +2021,27 @@ export const searchIndex = [
     "title": "Susceptible",
     "headers": [],
     "path": "/options/Addons/Mixed/Susceptible.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Conjurer",
+    "headers": [],
+    "path": "/options/Coven/Killing/Conjurer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hex Master",
+    "headers": [],
+    "path": "/options/Coven/Killing/HexMaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Jinx",
+    "headers": [],
+    "path": "/options/Coven/Killing/Jinx.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2126,27 +2126,6 @@ export const searchIndex = [
     "title": "Voodoo Master",
     "headers": [],
     "path": "/options/Coven/Utility/VoodooMaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Ghastly",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Ghastly.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hawk",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Hawk.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Warden",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Warden.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2245,6 +2224,27 @@ export const searchIndex = [
     "title": "Transporter",
     "headers": [],
     "path": "/options/Crewmates/Basic/Transporter.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Ghastly",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/Ghastly.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hawk",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/Hawk.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Warden",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/Warden.html",
     "pathLocale": "/",
     "extraFields": []
   },

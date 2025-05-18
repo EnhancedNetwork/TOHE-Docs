@@ -32,7 +32,7 @@ Once you collect the configurable amount of souls, you become Death. If the gain
 </li>
 </ul>
 <center>
-<p><RouteLink to="/options/Neutrals/Apocalypse/Death.html"><font color="#644661">Death</font></RouteLink></p>
+<p><RouteLink to="/options/neutrals/apocalypse/Death.html"><font color="#644661">Death</font></RouteLink></p>
 </center>
 <blockquote>
 <p>From: <a href="#">ryuk</a> &amp; Reworked by: Marg</p>

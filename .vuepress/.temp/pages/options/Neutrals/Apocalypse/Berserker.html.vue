@@ -119,7 +119,7 @@ After a certain level you become War.</p>
 </li>
 </ul>
 <center>
-<p><RouteLink to="/options/Neutrals/Apocalypse/War.html"><font color="#2b0804">War</font></RouteLink></p>
+<p><RouteLink to="/options/neutrals/apocalypse/War.html"><font color="#2b0804">War</font></RouteLink></p>
 </center>
 <blockquote>
 <p>From: TOHEX &amp; Reworked by: Marg</p>

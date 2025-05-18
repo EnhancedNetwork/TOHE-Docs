@@ -32,7 +32,7 @@ You win by killing everyone.</p>
 </li>
 </ul>
 <center>
-<p><RouteLink to="/options/Neutrals/Apocalypse/Pestilence.html"><font color="#343136">Pestilence</font></RouteLink></p>
+<p><RouteLink to="/options/neutrals/apocalypse/Pestilence.html"><font color="#343136">Pestilence</font></RouteLink></p>
 </center>
 <blockquote>
 <p>From: ToUR &amp; Coding: <a href="#">ryuk</a></p>

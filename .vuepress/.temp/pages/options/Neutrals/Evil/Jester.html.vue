@@ -44,7 +44,7 @@
 <font color=#f46f4e>(Hidden Role) Sunnyboy - Has a % chance of replacing Jester</font></li>
 </ul>
 <center>
-<p><RouteLink to="/options/Neutrals/Evil/Sunnyboy.html"><font color="#ff9902">Sunnyboy</font></RouteLink></p>
+<p><RouteLink to="/options/neutrals/evil/Sunnyboy.html"><font color="#ff9902">Sunnyboy</font></RouteLink></p>
 </center>
 <blockquote>
 <p>From: TOH</p>

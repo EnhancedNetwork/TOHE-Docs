@@ -47,8 +47,8 @@
 </li>
 </ul>
 <center>
-<p><RouteLink to="/options/Crewmates/Basic/MiniEvil.html"><font color=red>Evil Mini Settings</font></RouteLink><br>
-<RouteLink to="/options/Crewmates/Basic/MiniNice.html"><font color="#dddddd">Nice Mini Settings</font></RouteLink></p>
+<p><RouteLink to="/options/crewmates/basic/MiniEvil.html"><font color=red>Evil Mini Settings</font></RouteLink><br>
+<RouteLink to="/options/crewmates/basic/MiniNice.html"><font color="#dddddd">Nice Mini Settings</font></RouteLink></p>
 </center>
 <blockquote>
 <p>Idea &amp; Coding: <a href="#">LezaiYa</a></p>

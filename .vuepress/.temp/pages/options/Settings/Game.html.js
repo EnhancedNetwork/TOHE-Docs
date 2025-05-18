@@ -1,3 +1,3 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Settings/Game.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Settings/Game.html\",\"title\":\"Game Settings\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Game Settings\",\"prev\":\"/Roles.html\",\"next\":\"/Roles.html\"},\"headers\":[],\"git\":{\"updatedTime\":1721112969000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Settings/Game.md\"}")
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Settings/game.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Settings/game.html\",\"title\":\"Game Settings\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Game Settings\",\"prev\":\"/Roles.html\",\"next\":\"/Roles.html\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"options/Settings/game.md\"}")
 export { comp, data }

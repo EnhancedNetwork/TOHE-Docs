@@ -1,3 +1,3 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Impostors/Killing/YinYanger.html.vue"
-const data = JSON.parse("{\"path\":\"/options/Impostors/Killing/YinYanger.html\",\"title\":\"YinYanger\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"YinYanger\",\"prev\":\"Witch\",\"next\":\"Zombie\"},\"headers\":[],\"git\":{\"updatedTime\":1728767165000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3}]},\"filePathRelative\":\"options/Impostors/Killing/YinYanger.md\"}")
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Impostors/Killing/yinyanger.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Impostors/Killing/yinyanger.html\",\"title\":\"YinYanger\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"YinYanger\",\"prev\":\"Witch\",\"next\":\"Zombie\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"options/Impostors/Killing/yinyanger.md\"}")
 export { comp, data }

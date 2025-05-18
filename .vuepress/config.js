@@ -5,6 +5,7 @@ import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
   bundler: viteBundler(),
+  cleanUrls: true,
   theme: defaultTheme({
     locales: {
       '/': {
@@ -647,5 +648,5 @@ export default defineUserConfig({
         },
       },
     }),
-  ],
+  ]
 })

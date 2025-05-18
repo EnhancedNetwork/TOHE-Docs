@@ -545,7 +545,7 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/servers.html",
+    "path": "/Servers.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -979,6 +979,256 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Installing on Epic Games",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Step 1: Download the Latest Release",
+        "slug": "step-1-download-the-latest-release",
+        "link": "#step-1-download-the-latest-release",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 2: Extract the Mod Folder",
+        "slug": "step-2-extract-the-mod-folder",
+        "link": "#step-2-extract-the-mod-folder",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 3: Copy + Paste your Mod Files into Game Directory",
+        "slug": "step-3-copy-paste-your-mod-files-into-game-directory",
+        "link": "#step-3-copy-paste-your-mod-files-into-game-directory",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 4: Run EpicGamesStarter to Set Up the Mod",
+        "slug": "step-4-run-epicgamesstarter-to-set-up-the-mod",
+        "link": "#step-4-run-epicgamesstarter-to-set-up-the-mod",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 5: Whitelist TOHE",
+        "slug": "step-5-whitelist-tohe",
+        "link": "#step-5-whitelist-tohe",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 6: Create a Shortcut [OPTIONAL]",
+        "slug": "step-6-create-a-shortcut-optional",
+        "link": "#step-6-create-a-shortcut-optional",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "You have now installed Town of Host: Enhanced on Epic Games! Now, it's time to Set-Up TOHE!",
+        "slug": "you-have-now-installed-town-of-host-enhanced-on-epic-games-now-it-s-time-to-set-up-tohe",
+        "link": "#you-have-now-installed-town-of-host-enhanced-on-epic-games-now-it-s-time-to-set-up-tohe",
+        "children": []
+      }
+    ],
+    "path": "/guides/install/EpicGames.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Installing on Mod Manager",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Step 1: Download and Install Mod Manager",
+        "slug": "step-1-download-and-install-mod-manager",
+        "link": "#step-1-download-and-install-mod-manager",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 2: Verify Among Us Installation",
+        "slug": "step-2-verify-among-us-installation",
+        "link": "#step-2-verify-among-us-installation",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 3: Select + Download TOHE",
+        "slug": "step-3-select-download-tohe",
+        "link": "#step-3-select-download-tohe",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 4: Launch TOHE",
+        "slug": "step-4-launch-tohe",
+        "link": "#step-4-launch-tohe",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "You have now installed Town of Host: Enhanced on Mod Manager! Now, it's time to Set-Up TOHE!",
+        "slug": "you-have-now-installed-town-of-host-enhanced-on-mod-manager-now-it-s-time-to-set-up-tohe",
+        "link": "#you-have-now-installed-town-of-host-enhanced-on-mod-manager-now-it-s-time-to-set-up-tohe",
+        "children": []
+      }
+    ],
+    "path": "/guides/install/ModManager.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Installing on Steam",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Step 1: Download the Latest Release",
+        "slug": "step-1-download-the-latest-release",
+        "link": "#step-1-download-the-latest-release",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 2: Extract the Mod Folder",
+        "slug": "step-2-extract-the-mod-folder",
+        "link": "#step-2-extract-the-mod-folder",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 3: Copy + Paste your Mod Files into Game Directory",
+        "slug": "step-3-copy-paste-your-mod-files-into-game-directory",
+        "link": "#step-3-copy-paste-your-mod-files-into-game-directory",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 4: Run Among Us to Set Up the Mod",
+        "slug": "step-4-run-among-us-to-set-up-the-mod",
+        "link": "#step-4-run-among-us-to-set-up-the-mod",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 5: Create a Shortcut [OPTIONAL]",
+        "slug": "step-5-create-a-shortcut-optional",
+        "link": "#step-5-create-a-shortcut-optional",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "You have now installed Town of Host: Enhanced on Steam! Now, it's time to Set-Up TOHE!",
+        "slug": "you-have-now-installed-town-of-host-enhanced-on-steam-now-it-s-time-to-set-up-tohe",
+        "link": "#you-have-now-installed-town-of-host-enhanced-on-steam-now-it-s-time-to-set-up-tohe",
+        "children": []
+      }
+    ],
+    "path": "/guides/install/Steam.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Installing on Thunderstore Mod Manager + r2modman",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Step 1: Download and Install Thunderstore Mod Manager or r2modman",
+        "slug": "step-1-download-and-install-thunderstore-mod-manager-or-r2modman",
+        "link": "#step-1-download-and-install-thunderstore-mod-manager-or-r2modman",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 2: Select Among Us from the Game List",
+        "slug": "step-2-select-among-us-from-the-game-list",
+        "link": "#step-2-select-among-us-from-the-game-list",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 3: Choose or Create a Profile for TOHE",
+        "slug": "step-3-choose-or-create-a-profile-for-tohe",
+        "link": "#step-3-choose-or-create-a-profile-for-tohe",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 4: Download the TOHE Mod",
+        "slug": "step-4-download-the-tohe-mod",
+        "link": "#step-4-download-the-tohe-mod",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 5: Select Modded or Vanilla Mode",
+        "slug": "step-5-select-modded-or-vanilla-mode",
+        "link": "#step-5-select-modded-or-vanilla-mode",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "You have now installed Town of Host: Enhanced on Thunderstore Mod Manager &/or r2modman! Now, it's time to Set-Up TOHE!",
+        "slug": "you-have-now-installed-town-of-host-enhanced-on-thunderstore-mod-manager-or-r2modman-now-it-s-time-to-set-up-tohe",
+        "link": "#you-have-now-installed-town-of-host-enhanced-on-thunderstore-mod-manager-or-r2modman-now-it-s-time-to-set-up-tohe",
+        "children": []
+      }
+    ],
+    "path": "/guides/install/Thunderstore.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Installing on Xbox App",
+    "headers": [
+      {
+        "level": 3,
+        "title": "Step 1: Download the Latest Release",
+        "slug": "step-1-download-the-latest-release",
+        "link": "#step-1-download-the-latest-release",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 2: Extract the Mod Folder",
+        "slug": "step-2-extract-the-mod-folder",
+        "link": "#step-2-extract-the-mod-folder",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 3: Copy + Paste your Mod Files into Game Directory",
+        "slug": "step-3-copy-paste-your-mod-files-into-game-directory",
+        "link": "#step-3-copy-paste-your-mod-files-into-game-directory",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 4: Run Among Us to Set Up the Mod",
+        "slug": "step-4-run-among-us-to-set-up-the-mod",
+        "link": "#step-4-run-among-us-to-set-up-the-mod",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "Step 5: Create a Shortcut [OPTIONAL]",
+        "slug": "step-5-create-a-shortcut-optional",
+        "link": "#step-5-create-a-shortcut-optional",
+        "children": []
+      },
+      {
+        "level": 3,
+        "title": "You have now installed Town of Host: Enhanced on Xbox App! Now, it's time to Set-Up TOHE!",
+        "slug": "you-have-now-installed-town-of-host-enhanced-on-xbox-app-now-it-s-time-to-set-up-tohe",
+        "link": "#you-have-now-installed-town-of-host-enhanced-on-xbox-app-now-it-s-time-to-set-up-tohe",
+        "children": []
+      }
+    ],
+    "path": "/guides/install/XboxApp.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Add-ons",
     "headers": [
       {
@@ -1292,256 +1542,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Installing on Epic Games",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Step 1: Download the Latest Release",
-        "slug": "step-1-download-the-latest-release",
-        "link": "#step-1-download-the-latest-release",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 2: Extract the Mod Folder",
-        "slug": "step-2-extract-the-mod-folder",
-        "link": "#step-2-extract-the-mod-folder",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 3: Copy + Paste your Mod Files into Game Directory",
-        "slug": "step-3-copy-paste-your-mod-files-into-game-directory",
-        "link": "#step-3-copy-paste-your-mod-files-into-game-directory",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 4: Run EpicGamesStarter to Set Up the Mod",
-        "slug": "step-4-run-epicgamesstarter-to-set-up-the-mod",
-        "link": "#step-4-run-epicgamesstarter-to-set-up-the-mod",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 5: Whitelist TOHE",
-        "slug": "step-5-whitelist-tohe",
-        "link": "#step-5-whitelist-tohe",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 6: Create a Shortcut [OPTIONAL]",
-        "slug": "step-6-create-a-shortcut-optional",
-        "link": "#step-6-create-a-shortcut-optional",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "You have now installed Town of Host: Enhanced on Epic Games! Now, it's time to Set-Up TOHE!",
-        "slug": "you-have-now-installed-town-of-host-enhanced-on-epic-games-now-it-s-time-to-set-up-tohe",
-        "link": "#you-have-now-installed-town-of-host-enhanced-on-epic-games-now-it-s-time-to-set-up-tohe",
-        "children": []
-      }
-    ],
-    "path": "/guides/install/EpicGames.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Installing on Mod Manager",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Step 1: Download and Install Mod Manager",
-        "slug": "step-1-download-and-install-mod-manager",
-        "link": "#step-1-download-and-install-mod-manager",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 2: Verify Among Us Installation",
-        "slug": "step-2-verify-among-us-installation",
-        "link": "#step-2-verify-among-us-installation",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 3: Select + Download TOHE",
-        "slug": "step-3-select-download-tohe",
-        "link": "#step-3-select-download-tohe",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 4: Launch TOHE",
-        "slug": "step-4-launch-tohe",
-        "link": "#step-4-launch-tohe",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "You have now installed Town of Host: Enhanced on Mod Manager! Now, it's time to Set-Up TOHE!",
-        "slug": "you-have-now-installed-town-of-host-enhanced-on-mod-manager-now-it-s-time-to-set-up-tohe",
-        "link": "#you-have-now-installed-town-of-host-enhanced-on-mod-manager-now-it-s-time-to-set-up-tohe",
-        "children": []
-      }
-    ],
-    "path": "/guides/install/ModManager.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Installing on Steam",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Step 1: Download the Latest Release",
-        "slug": "step-1-download-the-latest-release",
-        "link": "#step-1-download-the-latest-release",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 2: Extract the Mod Folder",
-        "slug": "step-2-extract-the-mod-folder",
-        "link": "#step-2-extract-the-mod-folder",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 3: Copy + Paste your Mod Files into Game Directory",
-        "slug": "step-3-copy-paste-your-mod-files-into-game-directory",
-        "link": "#step-3-copy-paste-your-mod-files-into-game-directory",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 4: Run Among Us to Set Up the Mod",
-        "slug": "step-4-run-among-us-to-set-up-the-mod",
-        "link": "#step-4-run-among-us-to-set-up-the-mod",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 5: Create a Shortcut [OPTIONAL]",
-        "slug": "step-5-create-a-shortcut-optional",
-        "link": "#step-5-create-a-shortcut-optional",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "You have now installed Town of Host: Enhanced on Steam! Now, it's time to Set-Up TOHE!",
-        "slug": "you-have-now-installed-town-of-host-enhanced-on-steam-now-it-s-time-to-set-up-tohe",
-        "link": "#you-have-now-installed-town-of-host-enhanced-on-steam-now-it-s-time-to-set-up-tohe",
-        "children": []
-      }
-    ],
-    "path": "/guides/install/Steam.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Installing on Thunderstore Mod Manager + r2modman",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Step 1: Download and Install Thunderstore Mod Manager or r2modman",
-        "slug": "step-1-download-and-install-thunderstore-mod-manager-or-r2modman",
-        "link": "#step-1-download-and-install-thunderstore-mod-manager-or-r2modman",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 2: Select Among Us from the Game List",
-        "slug": "step-2-select-among-us-from-the-game-list",
-        "link": "#step-2-select-among-us-from-the-game-list",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 3: Choose or Create a Profile for TOHE",
-        "slug": "step-3-choose-or-create-a-profile-for-tohe",
-        "link": "#step-3-choose-or-create-a-profile-for-tohe",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 4: Download the TOHE Mod",
-        "slug": "step-4-download-the-tohe-mod",
-        "link": "#step-4-download-the-tohe-mod",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 5: Select Modded or Vanilla Mode",
-        "slug": "step-5-select-modded-or-vanilla-mode",
-        "link": "#step-5-select-modded-or-vanilla-mode",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "You have now installed Town of Host: Enhanced on Thunderstore Mod Manager &/or r2modman! Now, it's time to Set-Up TOHE!",
-        "slug": "you-have-now-installed-town-of-host-enhanced-on-thunderstore-mod-manager-or-r2modman-now-it-s-time-to-set-up-tohe",
-        "link": "#you-have-now-installed-town-of-host-enhanced-on-thunderstore-mod-manager-or-r2modman-now-it-s-time-to-set-up-tohe",
-        "children": []
-      }
-    ],
-    "path": "/guides/install/Thunderstore.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Installing on Xbox App",
-    "headers": [
-      {
-        "level": 3,
-        "title": "Step 1: Download the Latest Release",
-        "slug": "step-1-download-the-latest-release",
-        "link": "#step-1-download-the-latest-release",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 2: Extract the Mod Folder",
-        "slug": "step-2-extract-the-mod-folder",
-        "link": "#step-2-extract-the-mod-folder",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 3: Copy + Paste your Mod Files into Game Directory",
-        "slug": "step-3-copy-paste-your-mod-files-into-game-directory",
-        "link": "#step-3-copy-paste-your-mod-files-into-game-directory",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 4: Run Among Us to Set Up the Mod",
-        "slug": "step-4-run-among-us-to-set-up-the-mod",
-        "link": "#step-4-run-among-us-to-set-up-the-mod",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "Step 5: Create a Shortcut [OPTIONAL]",
-        "slug": "step-5-create-a-shortcut-optional",
-        "link": "#step-5-create-a-shortcut-optional",
-        "children": []
-      },
-      {
-        "level": 3,
-        "title": "You have now installed Town of Host: Enhanced on Xbox App! Now, it's time to Set-Up TOHE!",
-        "slug": "you-have-now-installed-town-of-host-enhanced-on-xbox-app-now-it-s-time-to-set-up-tohe",
-        "link": "#you-have-now-installed-town-of-host-enhanced-on-xbox-app-now-it-s-time-to-set-up-tohe",
-        "children": []
-      }
-    ],
-    "path": "/guides/install/XboxApp.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Glow",
     "headers": [],
     "path": "/options/Addons/Experimental/Glow.html",
@@ -1580,6 +1580,104 @@ export const searchIndex = [
     "title": "Rebound",
     "headers": [],
     "path": "/options/Addons/Guesser/Rebound.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Disregarded",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Disregarded.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Fool",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Fool.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Fragile",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Fragile.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hurried",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Hurried.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Influenced",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Influenced.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mundane",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Mundane.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Oblivious",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Oblivious.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Prohibited",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Prohibited.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Rascal",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Rascal.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sloth",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Sloth.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Statue",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Statue.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Tired",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Tired.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Unlucky",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Unlucky.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Void Ballot",
+    "headers": [],
+    "path": "/options/Addons/Harmful/VoidBallot.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1748,104 +1846,6 @@ export const searchIndex = [
     "title": "Watcher",
     "headers": [],
     "path": "/options/Addons/Helpful/Watcher.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Disregarded",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Disregarded.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Fool",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Fool.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Fragile",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Fragile.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hurried",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Hurried.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Influenced",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Influenced.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mundane",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Mundane.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Oblivious",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Oblivious.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Prohibited",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Prohibited.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Rascal",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Rascal.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sloth",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Sloth.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Statue",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Statue.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Tired",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Tired.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Unlucky",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Unlucky.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Void Ballot",
-    "headers": [],
-    "path": "/options/Addons/Harmful/VoidBallot.html",
     "pathLocale": "/",
     "extraFields": []
   },

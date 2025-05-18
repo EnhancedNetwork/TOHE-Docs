@@ -8,19 +8,19 @@ heroText: null
 tagline: null
 actions:
   - text: Role Info
-    link: /Roles.html
+    link: /Roles
     type: secondary
   - text: Servers
-    link: /Servers.html
+    link: /Servers
     type: secondary
   - text: TOHE Guide
-    link: /Guide.html
+    link: /Guide
     type: primary
   - text: USC
-    link: /USC.html
+    link: /USC
     type: secondary
   - text: FAQ
-    link: /FAQ.html
+    link: /FAQ
     type: secondary
 footer: "© 2023 By The Enhanced Network"
 ---

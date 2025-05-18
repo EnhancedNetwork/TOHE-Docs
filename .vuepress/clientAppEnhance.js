@@ -1,3 +1,4 @@
+// Ignore case sensitivity for all routes
 export default ({ router }) => {
   router.beforeEach((to, from, next) => {
     const normalized = to.path.toLowerCase();

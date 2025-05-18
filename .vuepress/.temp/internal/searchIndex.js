@@ -3390,6 +3390,55 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Cursed Soul",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/CursedSoul.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Doomsayer",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Doomsayer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Executioner",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Executioner.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Innocent",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Innocent.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Jester",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Jester.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Punching Bag",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/PunchingBag.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Seeker",
+    "headers": [],
+    "path": "/options/Neutrals/Evil/Seeker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Collector",
     "headers": [],
     "path": "/options/Neutrals/Chaos/Collector.html",
@@ -3456,55 +3505,6 @@ export const searchIndex = [
     "title": "Workaholic",
     "headers": [],
     "path": "/options/Neutrals/Chaos/Workaholic.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Cursed Soul",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/CursedSoul.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Doomsayer",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Doomsayer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Executioner",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Executioner.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Innocent",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Innocent.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Jester",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Jester.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Punching Bag",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/PunchingBag.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Seeker",
-    "headers": [],
-    "path": "/options/Neutrals/Evil/Seeker.html",
     "pathLocale": "/",
     "extraFields": []
   },

@@ -564,66 +564,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Alpha Changelogs",
-    "headers": [
-      {
-        "level": 2,
-        "title": "All Alpha Releases/Changelogs:",
-        "slug": "all-alpha-releases-changelogs",
-        "link": "#all-alpha-releases-changelogs",
-        "children": []
-      }
-    ],
-    "path": "/changelogs/alpha.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Beta Changelogs",
-    "headers": [
-      {
-        "level": 2,
-        "title": "All Beta Releases/Changelogs:",
-        "slug": "all-beta-releases-changelogs",
-        "link": "#all-beta-releases-changelogs",
-        "children": []
-      }
-    ],
-    "path": "/changelogs/beta.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Stable Changelogs",
-    "headers": [
-      {
-        "level": 2,
-        "title": "All Stable Releases/Changelogs:",
-        "slug": "all-stable-releases-changelogs",
-        "link": "#all-stable-releases-changelogs",
-        "children": []
-      }
-    ],
-    "path": "/changelogs/stable.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Changelogs Tags",
-    "headers": [
-      {
-        "level": 2,
-        "title": "All Changelog Tags:",
-        "slug": "all-changelog-tags",
-        "link": "#all-changelog-tags",
-        "children": []
-      }
-    ],
-    "path": "/changelogs/tags.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Prime Features in TOHE",
     "headers": [
       {
@@ -961,6 +901,66 @@ export const searchIndex = [
       }
     ],
     "path": "/guides/welcome.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Alpha Changelogs",
+    "headers": [
+      {
+        "level": 2,
+        "title": "All Alpha Releases/Changelogs:",
+        "slug": "all-alpha-releases-changelogs",
+        "link": "#all-alpha-releases-changelogs",
+        "children": []
+      }
+    ],
+    "path": "/changelogs/alpha.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Beta Changelogs",
+    "headers": [
+      {
+        "level": 2,
+        "title": "All Beta Releases/Changelogs:",
+        "slug": "all-beta-releases-changelogs",
+        "link": "#all-beta-releases-changelogs",
+        "children": []
+      }
+    ],
+    "path": "/changelogs/beta.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Stable Changelogs",
+    "headers": [
+      {
+        "level": 2,
+        "title": "All Stable Releases/Changelogs:",
+        "slug": "all-stable-releases-changelogs",
+        "link": "#all-stable-releases-changelogs",
+        "children": []
+      }
+    ],
+    "path": "/changelogs/stable.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Changelogs Tags",
+    "headers": [
+      {
+        "level": 2,
+        "title": "All Changelog Tags:",
+        "slug": "all-changelog-tags",
+        "link": "#all-changelog-tags",
+        "children": []
+      }
+    ],
+    "path": "/changelogs/tags.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2228,27 +2228,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Ghastly",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/ghastly.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hawk",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/hawk.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Warden",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/warden.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Bastion",
     "headers": [],
     "path": "/options/Crewmates/Killing/bastion.html",
@@ -2336,6 +2315,27 @@ export const searchIndex = [
     "title": "Vigilante",
     "headers": [],
     "path": "/options/Crewmates/Killing/vigilante.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Ghastly",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/ghastly.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hawk",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/hawk.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Warden",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/warden.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2977,6 +2977,174 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Death",
+    "headers": [],
+    "path": "/options/Neutrals/Secondary/death.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Famine",
+    "headers": [],
+    "path": "/options/Neutrals/Secondary/famine.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Pestilence",
+    "headers": [],
+    "path": "/options/Neutrals/Secondary/pestilence.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Ruthless Romantic",
+    "headers": [],
+    "path": "/options/Neutrals/Secondary/romanticruthless.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vengeful Romantic",
+    "headers": [],
+    "path": "/options/Neutrals/Secondary/romanticvengeful.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sunnyboy",
+    "headers": [],
+    "path": "/options/Neutrals/Secondary/sunnyboy.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "War",
+    "headers": [],
+    "path": "/options/Neutrals/Secondary/war.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Doll Master",
+    "headers": [],
+    "path": "/options/Impostors/Experimental/dollmaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mastermind",
+    "headers": [],
+    "path": "/options/Impostors/Experimental/mastermind.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Abyssbringer",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/abyssbringer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Escapist",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/escapist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lightning",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/lightning.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Miner",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/miner.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Puppeteer",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/puppeteer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Rift Maker",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/riftmaker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Scavenger",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/scavenger.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Shapemaster",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/shapemaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Soul Catcher",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/soulcatcher.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Swooper",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/swooper.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Trickster",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/trickster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Undertaker",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/undertaker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Vampire",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/vampire.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Warlock",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/warlock.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Wildling",
+    "headers": [],
+    "path": "/options/Impostors/Concealing/wildling.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Agitator",
     "headers": [],
     "path": "/options/Neutrals/Killing/agitator.html",
@@ -3145,174 +3313,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Death",
-    "headers": [],
-    "path": "/options/Neutrals/Secondary/death.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Famine",
-    "headers": [],
-    "path": "/options/Neutrals/Secondary/famine.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Pestilence",
-    "headers": [],
-    "path": "/options/Neutrals/Secondary/pestilence.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Ruthless Romantic",
-    "headers": [],
-    "path": "/options/Neutrals/Secondary/romanticruthless.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vengeful Romantic",
-    "headers": [],
-    "path": "/options/Neutrals/Secondary/romanticvengeful.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sunnyboy",
-    "headers": [],
-    "path": "/options/Neutrals/Secondary/sunnyboy.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "War",
-    "headers": [],
-    "path": "/options/Neutrals/Secondary/war.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Abyssbringer",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/abyssbringer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Escapist",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/escapist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lightning",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/lightning.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Miner",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/miner.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Puppeteer",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/puppeteer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Rift Maker",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/riftmaker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Scavenger",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/scavenger.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Shapemaster",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/shapemaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Soul Catcher",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/soulcatcher.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Swooper",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/swooper.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Trickster",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/trickster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Undertaker",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/undertaker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Vampire",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/vampire.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Warlock",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/warlock.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Wildling",
-    "headers": [],
-    "path": "/options/Impostors/Concealing/wildling.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Doll Master",
-    "headers": [],
-    "path": "/options/Impostors/Experimental/dollmaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mastermind",
-    "headers": [],
-    "path": "/options/Impostors/Experimental/mastermind.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Bloodmoon",
     "headers": [],
     "path": "/options/Impostors/Ghost/bloodmoon.html",
@@ -3393,6 +3393,27 @@ export const searchIndex = [
     "title": "Twister",
     "headers": [],
     "path": "/options/Impostors/Hindering/twister.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Crewpostor",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/crewpostor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Parasite",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/parasite.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Refugee",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/refugee.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -3593,34 +3614,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Crewpostor",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/crewpostor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Parasite",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/parasite.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Refugee",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/refugee.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Bard",
-    "headers": [],
-    "path": "/options/Impostors/Secondary/bard.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Anti Adminer",
     "headers": [],
     "path": "/options/Impostors/Support/antiadminer.html",
@@ -3722,6 +3715,13 @@ export const searchIndex = [
     "title": "Visionary",
     "headers": [],
     "path": "/options/Impostors/Support/visionary.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Bard",
+    "headers": [],
+    "path": "/options/Impostors/Secondary/bard.html",
     "pathLocale": "/",
     "extraFields": []
   },

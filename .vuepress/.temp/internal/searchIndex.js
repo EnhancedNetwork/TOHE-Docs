@@ -528,6 +528,28 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Servers Installation",
+    "headers": [
+      {
+        "level": 2,
+        "title": "On Windows:",
+        "slug": "on-windows",
+        "link": "#on-windows",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "On Mobile:",
+        "slug": "on-mobile",
+        "link": "#on-mobile",
+        "children": []
+      }
+    ],
+    "path": "/Servers.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Troubleshooting",
     "headers": [],
     "path": "/Troubleshooting.html",
@@ -1107,13 +1129,13 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Installing on Thunderstore Mod Manager",
+    "title": "Installing on Thunderstore Mod Manager + r2modman",
     "headers": [
       {
         "level": 3,
-        "title": "Step 1: Download and Install Thunderstore Mod Manager",
-        "slug": "step-1-download-and-install-thunderstore-mod-manager",
-        "link": "#step-1-download-and-install-thunderstore-mod-manager",
+        "title": "Step 1: Download and Install Thunderstore Mod Manager or r2modman",
+        "slug": "step-1-download-and-install-thunderstore-mod-manager-or-r2modman",
+        "link": "#step-1-download-and-install-thunderstore-mod-manager-or-r2modman",
         "children": []
       },
       {
@@ -1146,9 +1168,9 @@ export const searchIndex = [
       },
       {
         "level": 3,
-        "title": "You have now installed Town of Host: Enhanced on Thunderstore Mod Manager! Now, it's time to Set-Up TOHE!",
-        "slug": "you-have-now-installed-town-of-host-enhanced-on-thunderstore-mod-manager-now-it-s-time-to-set-up-tohe",
-        "link": "#you-have-now-installed-town-of-host-enhanced-on-thunderstore-mod-manager-now-it-s-time-to-set-up-tohe",
+        "title": "You have now installed Town of Host: Enhanced on Thunderstore Mod Manager &/or r2modman! Now, it's time to Set-Up TOHE!",
+        "slug": "you-have-now-installed-town-of-host-enhanced-on-thunderstore-mod-manager-or-r2modman-now-it-s-time-to-set-up-tohe",
+        "link": "#you-have-now-installed-town-of-host-enhanced-on-thunderstore-mod-manager-or-r2modman-now-it-s-time-to-set-up-tohe",
         "children": []
       }
     ],
@@ -1926,6 +1948,27 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Conjurer",
+    "headers": [],
+    "path": "/options/Coven/Killing/Conjurer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hex Master",
+    "headers": [],
+    "path": "/options/Coven/Killing/HexMaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Jinx",
+    "headers": [],
+    "path": "/options/Coven/Killing/Jinx.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Antidote",
     "headers": [],
     "path": "/options/Addons/Mixed/Antidote.html",
@@ -1999,27 +2042,6 @@ export const searchIndex = [
     "title": "Susceptible",
     "headers": [],
     "path": "/options/Addons/Mixed/Susceptible.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Conjurer",
-    "headers": [],
-    "path": "/options/Coven/Killing/Conjurer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hex Master",
-    "headers": [],
-    "path": "/options/Coven/Killing/HexMaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Jinx",
-    "headers": [],
-    "path": "/options/Coven/Killing/Jinx.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2104,6 +2126,27 @@ export const searchIndex = [
     "title": "Voodoo Master",
     "headers": [],
     "path": "/options/Coven/Utility/VoodooMaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Ghastly",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/Ghastly.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hawk",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/Hawk.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Warden",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/Warden.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2202,27 +2245,6 @@ export const searchIndex = [
     "title": "Transporter",
     "headers": [],
     "path": "/options/Crewmates/Basic/Transporter.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Ghastly",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Ghastly.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hawk",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Hawk.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Warden",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Warden.html",
     "pathLocale": "/",
     "extraFields": []
   },

@@ -6,7 +6,7 @@
 <p>To all the amazing players that keep supporting us & Town of Host Enhanced after these few months: Thank you!</p>
 <p>Moe will still be maintaining the website with Pyro's assistance.</p>
 <p>We appreciate your patience while we continue to work on Town of Host: <i><b>Enhanced</b></i>, as we try our absolute hardest to make sure that you get a great experience as bug free as possible.</p>
-<p>Please be sure to read the FAQ/Install + Resources pages. If you need further assistance, don't be afraid to contact us.</p>
+<p>Please be sure to read the FAQ page for questions, and the Guide to TOHE for help installing. If you need further assistance, don't be afraid to join our Discord and head to the proper channels.</p>
 <p>Visit Changelogs for the latest Mod + Website Updates.</p>
 <p>Submit your Unofficial Lore Theories in TEN's Discord Server for the ongoing Lore Event!</p>
 <p>Have a Great Day!</p></div></template>

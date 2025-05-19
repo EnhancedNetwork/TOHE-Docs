@@ -1542,6 +1542,20 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Glow",
+    "headers": [],
+    "path": "/options/Addons/Experimental/Glow.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Swift",
+    "headers": [],
+    "path": "/options/Addons/Experimental/Swift.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Double Shot",
     "headers": [],
     "path": "/options/Addons/Guesser/DoubleShot.html",
@@ -1566,20 +1580,6 @@ export const searchIndex = [
     "title": "Rebound",
     "headers": [],
     "path": "/options/Addons/Guesser/Rebound.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Glow",
-    "headers": [],
-    "path": "/options/Addons/Experimental/Glow.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Swift",
-    "headers": [],
-    "path": "/options/Addons/Experimental/Swift.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1906,6 +1906,48 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Egoist",
+    "headers": [],
+    "path": "/options/Addons/Miscellaneous/Egoist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lovers",
+    "headers": [],
+    "path": "/options/Addons/Miscellaneous/Lovers.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Rainbow",
+    "headers": [],
+    "path": "/options/Addons/Miscellaneous/Rainbow.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Reach",
+    "headers": [],
+    "path": "/options/Addons/Miscellaneous/Reach.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Workhorse",
+    "headers": [],
+    "path": "/options/Addons/Miscellaneous/Workhorse.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "YouTuber",
+    "headers": [],
+    "path": "/options/Addons/Miscellaneous/YouTuber.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Antidote",
     "headers": [],
     "path": "/options/Addons/Mixed/Antidote.html",
@@ -1979,48 +2021,6 @@ export const searchIndex = [
     "title": "Susceptible",
     "headers": [],
     "path": "/options/Addons/Mixed/Susceptible.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Egoist",
-    "headers": [],
-    "path": "/options/Addons/Miscellaneous/Egoist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lovers",
-    "headers": [],
-    "path": "/options/Addons/Miscellaneous/Lovers.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Rainbow",
-    "headers": [],
-    "path": "/options/Addons/Miscellaneous/Rainbow.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Reach",
-    "headers": [],
-    "path": "/options/Addons/Miscellaneous/Reach.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Workhorse",
-    "headers": [],
-    "path": "/options/Addons/Miscellaneous/Workhorse.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "YouTuber",
-    "headers": [],
-    "path": "/options/Addons/Miscellaneous/YouTuber.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2130,6 +2130,27 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Ghastly",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/Ghastly.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hawk",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/Hawk.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Warden",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/Warden.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Addict",
     "headers": [],
     "path": "/options/Crewmates/Basic/Addict.html",
@@ -2224,27 +2245,6 @@ export const searchIndex = [
     "title": "Transporter",
     "headers": [],
     "path": "/options/Crewmates/Basic/Transporter.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Ghastly",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Ghastly.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hawk",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Hawk.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Warden",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Warden.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2809,20 +2809,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Doll Master",
-    "headers": [],
-    "path": "/options/Impostors/Experimental/DollMaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mastermind",
-    "headers": [],
-    "path": "/options/Impostors/Experimental/Mastermind.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Bloodmoon",
     "headers": [],
     "path": "/options/Impostors/Ghost/Bloodmoon.html",
@@ -2840,6 +2826,20 @@ export const searchIndex = [
     "title": "Possessor",
     "headers": [],
     "path": "/options/Impostors/Ghost/Possessor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Doll Master",
+    "headers": [],
+    "path": "/options/Impostors/Experimental/DollMaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mastermind",
+    "headers": [],
+    "path": "/options/Impostors/Experimental/Mastermind.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2903,6 +2903,27 @@ export const searchIndex = [
     "title": "Twister",
     "headers": [],
     "path": "/options/Impostors/Hindering/Twister.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Crewpostor",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/Crewpostor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Parasite",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/Parasite.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Refugee",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/Refugee.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -3099,27 +3120,6 @@ export const searchIndex = [
     "title": "Zombie",
     "headers": [],
     "path": "/options/Impostors/Killing/Zombie.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Crewpostor",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/Crewpostor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Parasite",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/Parasite.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Refugee",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/Refugee.html",
     "pathLocale": "/",
     "extraFields": []
   },

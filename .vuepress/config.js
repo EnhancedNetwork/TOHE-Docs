@@ -126,7 +126,7 @@ export default defineUserConfig({
           },
           {
             text: 'Modded Servers',
-            link: '/Servers.html',
+            link: '/servers.html',
           },
           {
             text: 'User Submitted Content',

@@ -2130,6 +2130,27 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Ghastly",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/Ghastly.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hawk",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/Hawk.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Warden",
+    "headers": [],
+    "path": "/options/Crewmates/Ghost/Warden.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Addict",
     "headers": [],
     "path": "/options/Crewmates/Basic/Addict.html",
@@ -2224,27 +2245,6 @@ export const searchIndex = [
     "title": "Transporter",
     "headers": [],
     "path": "/options/Crewmates/Basic/Transporter.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Ghastly",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Ghastly.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hawk",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Hawk.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Warden",
-    "headers": [],
-    "path": "/options/Crewmates/Ghost/Warden.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2907,6 +2907,27 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Crewpostor",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/Crewpostor.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Parasite",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/Parasite.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Refugee",
+    "headers": [],
+    "path": "/options/Impostors/Madmate/Refugee.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Arrogance",
     "headers": [],
     "path": "/options/Impostors/Killing/Arrogance.html",
@@ -3099,27 +3120,6 @@ export const searchIndex = [
     "title": "Zombie",
     "headers": [],
     "path": "/options/Impostors/Killing/Zombie.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Crewpostor",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/Crewpostor.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Parasite",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/Parasite.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Refugee",
-    "headers": [],
-    "path": "/options/Impostors/Madmate/Refugee.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -3460,27 +3460,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Imitator",
-    "headers": [],
-    "path": "/options/Neutrals/Experimental/Imitator.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Quizmaster",
-    "headers": [],
-    "path": "/options/Neutrals/Experimental/Quizmaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Shocker",
-    "headers": [],
-    "path": "/options/Neutrals/Experimental/Shocker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Cursed Soul",
     "headers": [],
     "path": "/options/Neutrals/Evil/CursedSoul.html",
@@ -3526,6 +3505,27 @@ export const searchIndex = [
     "title": "Seeker",
     "headers": [],
     "path": "/options/Neutrals/Evil/Seeker.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Imitator",
+    "headers": [],
+    "path": "/options/Neutrals/Experimental/Imitator.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Quizmaster",
+    "headers": [],
+    "path": "/options/Neutrals/Experimental/Quizmaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Shocker",
+    "headers": [],
+    "path": "/options/Neutrals/Experimental/Shocker.html",
     "pathLocale": "/",
     "extraFields": []
   },

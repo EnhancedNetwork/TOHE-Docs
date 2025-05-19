@@ -11,7 +11,7 @@ actions:
     link: /Roles
     type: secondary
   - text: Servers
-    link: /Servers
+    link: /servers
     type: secondary
   - text: TOHE Guide
     link: /Guide

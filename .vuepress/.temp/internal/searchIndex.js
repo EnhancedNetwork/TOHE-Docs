@@ -545,7 +545,7 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/Servers.html",
+    "path": "/servers.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1542,20 +1542,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Glow",
-    "headers": [],
-    "path": "/options/Addons/Experimental/Glow.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Swift",
-    "headers": [],
-    "path": "/options/Addons/Experimental/Swift.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Double Shot",
     "headers": [],
     "path": "/options/Addons/Guesser/DoubleShot.html",
@@ -1584,100 +1570,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Disregarded",
+    "title": "Glow",
     "headers": [],
-    "path": "/options/Addons/Harmful/Disregarded.html",
+    "path": "/options/Addons/Experimental/Glow.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "Fool",
+    "title": "Swift",
     "headers": [],
-    "path": "/options/Addons/Harmful/Fool.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Fragile",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Fragile.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hurried",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Hurried.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Influenced",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Influenced.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Mundane",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Mundane.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Oblivious",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Oblivious.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Prohibited",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Prohibited.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Rascal",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Rascal.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sloth",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Sloth.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Statue",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Statue.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Tired",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Tired.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Unlucky",
-    "headers": [],
-    "path": "/options/Addons/Harmful/Unlucky.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Void Ballot",
-    "headers": [],
-    "path": "/options/Addons/Harmful/VoidBallot.html",
+    "path": "/options/Addons/Experimental/Swift.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1850,6 +1752,104 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Disregarded",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Disregarded.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Fool",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Fool.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Fragile",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Fragile.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hurried",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Hurried.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Influenced",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Influenced.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Mundane",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Mundane.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Oblivious",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Oblivious.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Prohibited",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Prohibited.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Rascal",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Rascal.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sloth",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Sloth.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Statue",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Statue.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Tired",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Tired.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Unlucky",
+    "headers": [],
+    "path": "/options/Addons/Harmful/Unlucky.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Void Ballot",
+    "headers": [],
+    "path": "/options/Addons/Harmful/VoidBallot.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Circumvent",
     "headers": [],
     "path": "/options/Addons/Impostor/Circumvent.html",
@@ -1902,48 +1902,6 @@ export const searchIndex = [
     "title": "Tricky",
     "headers": [],
     "path": "/options/Addons/Impostor/Tricky.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Egoist",
-    "headers": [],
-    "path": "/options/Addons/Miscellaneous/Egoist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Lovers",
-    "headers": [],
-    "path": "/options/Addons/Miscellaneous/Lovers.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Rainbow",
-    "headers": [],
-    "path": "/options/Addons/Miscellaneous/Rainbow.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Reach",
-    "headers": [],
-    "path": "/options/Addons/Miscellaneous/Reach.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Workhorse",
-    "headers": [],
-    "path": "/options/Addons/Miscellaneous/Workhorse.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "YouTuber",
-    "headers": [],
-    "path": "/options/Addons/Miscellaneous/YouTuber.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2021,6 +1979,153 @@ export const searchIndex = [
     "title": "Susceptible",
     "headers": [],
     "path": "/options/Addons/Mixed/Susceptible.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Egoist",
+    "headers": [],
+    "path": "/options/Addons/Miscellaneous/Egoist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Lovers",
+    "headers": [],
+    "path": "/options/Addons/Miscellaneous/Lovers.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Rainbow",
+    "headers": [],
+    "path": "/options/Addons/Miscellaneous/Rainbow.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Reach",
+    "headers": [],
+    "path": "/options/Addons/Miscellaneous/Reach.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Workhorse",
+    "headers": [],
+    "path": "/options/Addons/Miscellaneous/Workhorse.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "YouTuber",
+    "headers": [],
+    "path": "/options/Addons/Miscellaneous/YouTuber.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Conjurer",
+    "headers": [],
+    "path": "/options/Coven/Killing/Conjurer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Hex Master",
+    "headers": [],
+    "path": "/options/Coven/Killing/HexMaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Jinx",
+    "headers": [],
+    "path": "/options/Coven/Killing/Jinx.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Coven Leader",
+    "headers": [],
+    "path": "/options/Coven/Power/CovenLeader.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Ritualist",
+    "headers": [],
+    "path": "/options/Coven/Power/Ritualist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Dreamweaver",
+    "headers": [],
+    "path": "/options/Coven/Trickery/Dreamweaver.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Illusionist",
+    "headers": [],
+    "path": "/options/Coven/Trickery/Illusionist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Poisoner",
+    "headers": [],
+    "path": "/options/Coven/Trickery/Poisoner.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Harvester",
+    "headers": [],
+    "path": "/options/Coven/Utility/Harvester.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Medusa",
+    "headers": [],
+    "path": "/options/Coven/Utility/Medusa.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Moon Dancer",
+    "headers": [],
+    "path": "/options/Coven/Utility/MoonDancer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Necromancer",
+    "headers": [],
+    "path": "/options/Coven/Utility/Necromancer.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Potion Master",
+    "headers": [],
+    "path": "/options/Coven/Utility/PotionMaster.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sacrifist",
+    "headers": [],
+    "path": "/options/Coven/Utility/Sacrifist.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Voodoo Master",
+    "headers": [],
+    "path": "/options/Coven/Utility/VoodooMaster.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2235,27 +2340,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Evil Mini",
-    "headers": [],
-    "path": "/options/Crewmates/Secondary/MiniEvil.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Nice Mini",
-    "headers": [],
-    "path": "/options/Crewmates/Secondary/MiniNice.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Requiter",
-    "headers": [],
-    "path": "/options/Crewmates/Secondary/Requiter.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Admirer",
     "headers": [],
     "path": "/options/Crewmates/Power/Admirer.html",
@@ -2350,6 +2434,27 @@ export const searchIndex = [
     "title": "Telecommunication",
     "headers": [],
     "path": "/options/Crewmates/Power/Telecommunication.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Evil Mini",
+    "headers": [],
+    "path": "/options/Crewmates/Secondary/MiniEvil.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Nice Mini",
+    "headers": [],
+    "path": "/options/Crewmates/Secondary/MiniNice.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Requiter",
+    "headers": [],
+    "path": "/options/Crewmates/Secondary/Requiter.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -2595,111 +2700,6 @@ export const searchIndex = [
     "title": "Tracker",
     "headers": [],
     "path": "/options/Crewmates/Vanilla/Tracker.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Conjurer",
-    "headers": [],
-    "path": "/options/Coven/Killing/Conjurer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Hex Master",
-    "headers": [],
-    "path": "/options/Coven/Killing/HexMaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Jinx",
-    "headers": [],
-    "path": "/options/Coven/Killing/Jinx.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Coven Leader",
-    "headers": [],
-    "path": "/options/Coven/Power/CovenLeader.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Ritualist",
-    "headers": [],
-    "path": "/options/Coven/Power/Ritualist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Dreamweaver",
-    "headers": [],
-    "path": "/options/Coven/Trickery/Dreamweaver.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Illusionist",
-    "headers": [],
-    "path": "/options/Coven/Trickery/Illusionist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Poisoner",
-    "headers": [],
-    "path": "/options/Coven/Trickery/Poisoner.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Harvester",
-    "headers": [],
-    "path": "/options/Coven/Utility/Harvester.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Medusa",
-    "headers": [],
-    "path": "/options/Coven/Utility/Medusa.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Moon Dancer",
-    "headers": [],
-    "path": "/options/Coven/Utility/MoonDancer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Necromancer",
-    "headers": [],
-    "path": "/options/Coven/Utility/Necromancer.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Potion Master",
-    "headers": [],
-    "path": "/options/Coven/Utility/PotionMaster.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Sacrifist",
-    "headers": [],
-    "path": "/options/Coven/Utility/Sacrifist.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Voodoo Master",
-    "headers": [],
-    "path": "/options/Coven/Utility/VoodooMaster.html",
     "pathLocale": "/",
     "extraFields": []
   },

@@ -125,6 +125,10 @@ export default defineUserConfig({
             link: '/Resources.html',
           },
           {
+            text: 'Modded Servers',
+            link: '/Servers.html',
+          },
+          {
             text: 'User Submitted Content',
             link: '/USC.html',
           },

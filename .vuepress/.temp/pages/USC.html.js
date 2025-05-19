@@ -1,3 +1,3 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/usc.html.vue"
-const data = JSON.parse("{\"path\":\"/usc.html\",\"title\":\"User Submitted Content\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"User Submitted Content\",\"contributors\":false},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"usc.md\"}")
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/USC.html.vue"
+const data = JSON.parse("{\"path\":\"/USC.html\",\"title\":\"User Submitted Content\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"User Submitted Content\",\"contributors\":false},\"headers\":[],\"git\":{\"updatedTime\":1743972840000,\"contributors\":[{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1},{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":1}]},\"filePathRelative\":\"USC.md\"}")
 export { comp, data }

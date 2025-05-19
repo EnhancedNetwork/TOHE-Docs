@@ -26,7 +26,7 @@
 <font color=#f46f4e>(Hidden Role) Bard - Has a % Chance of replacing Arrogance.</font></li>
 </ul>
 <center>
-<p><RouteLink to="/options/impostors/killing/Bard.html"><font color="red">Bard</font></RouteLink></p>
+<p><RouteLink to="/options/Impostors/Killing/Bard.html"><font color="red">Bard</font></RouteLink></p>
 </center>
 <blockquote>
 <p>From: TOU &amp; Coding: <a href="https://github.com/KARPED1EM" target="_blank" rel="noopener noreferrer">KARPED1EM<ExternalLinkIcon/></a>、<a href="https://github.com/Huier-Huang" target="_blank" rel="noopener noreferrer">天寸梦初<ExternalLinkIcon/></a></p>

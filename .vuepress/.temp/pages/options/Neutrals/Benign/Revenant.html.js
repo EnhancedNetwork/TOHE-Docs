@@ -1,3 +1,3 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/neutrals/benign/revenant.html.vue"
-const data = JSON.parse("{\"path\":\"/options/neutrals/benign/revenant.html\",\"title\":\"Revenant\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Revenant\",\"prev\":\"Pursuer\",\"next\":\"Romantic\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"options/neutrals/benign/revenant.md\"}")
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Revenant.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Neutrals/Benign/Revenant.html\",\"title\":\"Revenant\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Revenant\",\"prev\":\"Pursuer\",\"next\":\"Romantic\"},\"headers\":[],\"git\":{\"updatedTime\":1735692497000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2}]},\"filePathRelative\":\"options/Neutrals/Benign/Revenant.md\"}")
 export { comp, data }

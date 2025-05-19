@@ -1,3 +1,3 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/neutrals/evil/punchingbag.html.vue"
-const data = JSON.parse("{\"path\":\"/options/neutrals/evil/punchingbag.html\",\"title\":\"Punching Bag\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Punching Bag\",\"prev\":\"Jester\",\"next\":\"Seeker\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"options/neutrals/evil/punchingbag.md\"}")
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Neutrals/Evil/PunchingBag.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Neutrals/Evil/PunchingBag.html\",\"title\":\"Punching Bag\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Punching Bag\",\"prev\":\"Jester\",\"next\":\"Seeker\"},\"headers\":[],\"git\":{\"updatedTime\":1739720813000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3}]},\"filePathRelative\":\"options/Neutrals/Evil/PunchingBag.md\"}")
 export { comp, data }

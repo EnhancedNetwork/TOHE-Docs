@@ -1,3 +1,3 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/addons/helpful/flash.html.vue"
-const data = JSON.parse("{\"path\":\"/options/addons/helpful/flash.html\",\"title\":\"Flash\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Flash\",\"prev\":\"Evader\",\"next\":\"Lazy\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"options/addons/helpful/flash.md\"}")
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Addons/Helpful/Flash.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Addons/Helpful/Flash.html\",\"title\":\"Flash\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Flash\",\"prev\":\"Evader\",\"next\":\"Lazy\"},\"headers\":[],\"git\":{\"updatedTime\":1727504355000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":4}]},\"filePathRelative\":\"options/Addons/Helpful/Flash.md\"}")
 export { comp, data }

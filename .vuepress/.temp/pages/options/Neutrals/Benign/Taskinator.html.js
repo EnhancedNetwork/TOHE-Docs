@@ -1,3 +1,3 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/neutrals/benign/taskinator.html.vue"
-const data = JSON.parse("{\"path\":\"/options/neutrals/benign/taskinator.html\",\"title\":\"Taskinator\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Taskinator\",\"prev\":\"Shaman\",\"next\":\"Troller\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"options/neutrals/benign/taskinator.md\"}")
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Neutrals/Benign/Taskinator.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Neutrals/Benign/Taskinator.html\",\"title\":\"Taskinator\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Taskinator\",\"prev\":\"Shaman\",\"next\":\"Troller\"},\"headers\":[],\"git\":{\"updatedTime\":1735752147000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":6}]},\"filePathRelative\":\"options/Neutrals/Benign/Taskinator.md\"}")
 export { comp, data }

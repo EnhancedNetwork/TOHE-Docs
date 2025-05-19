@@ -1,3 +1,3 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/addons/helpful/torch.html.vue"
-const data = JSON.parse("{\"path\":\"/options/addons/helpful/torch.html\",\"title\":\"Torch\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Torch\",\"prev\":\"Tiebreaker\",\"next\":\"Watcher\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"options/addons/helpful/torch.md\"}")
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Addons/Helpful/Torch.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Addons/Helpful/Torch.html\",\"title\":\"Torch\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Torch\",\"prev\":\"Tiebreaker\",\"next\":\"Watcher\"},\"headers\":[],\"git\":{\"updatedTime\":1727504355000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":3},{\"name\":\"Moe\",\"email\":\"moebstergaming@hotmail.com\",\"commits\":1}]},\"filePathRelative\":\"options/Addons/Helpful/Torch.md\"}")
 export { comp, data }

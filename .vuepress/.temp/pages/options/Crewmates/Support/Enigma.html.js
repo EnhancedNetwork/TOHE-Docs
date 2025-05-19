@@ -1,3 +1,3 @@
-import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/crewmates/support/enigma.html.vue"
-const data = JSON.parse("{\"path\":\"/options/crewmates/support/enigma.html\",\"title\":\"Enigma\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Enigma\",\"prev\":\"Detective\",\"next\":\"FortuneTeller\"},\"headers\":[],\"git\":{\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"options/crewmates/support/enigma.md\"}")
+import comp from "C:/Users/moebs/OneDrive/Bureau/Dev Tools/The Enhanced Network/TOHE Docs Site/docs/.vuepress/.temp/pages/options/Crewmates/Support/Enigma.html.vue"
+const data = JSON.parse("{\"path\":\"/options/Crewmates/Support/Enigma.html\",\"title\":\"Enigma\",\"lang\":\"en-US\",\"frontmatter\":{\"lang\":\"en-US\",\"title\":\"Enigma\",\"prev\":\"Detective\",\"next\":\"FortuneTeller\"},\"headers\":[],\"git\":{\"updatedTime\":1727503862000,\"contributors\":[{\"name\":\"Pyro\",\"email\":\"btriche.sots@gmail.com\",\"commits\":2}]},\"filePathRelative\":\"options/Crewmates/Support/Enigma.md\"}")
 export { comp, data }

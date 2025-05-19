@@ -28,7 +28,7 @@ If the Bread gives additional effects setting is on, then you can vent to change
 </li>
 </ul>
 <center>
-<p><RouteLink to="/options/neutrals/apocalypse/Famine.html"><font color="#83461c">Famine</font></RouteLink></p>
+<p><RouteLink to="/options/Neutrals/Apocalypse/Famine.html"><font color="#83461c">Famine</font></RouteLink></p>
 </center>
 <blockquote>
 <p>From: Marg</p>

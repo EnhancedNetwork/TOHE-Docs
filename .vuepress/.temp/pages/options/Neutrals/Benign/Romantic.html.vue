@@ -42,8 +42,8 @@ Note : If your role changes your win condition will be changed accordingly</p>
 </li>
 </ul>
 <center>
-<p><RouteLink to="/options/neutrals/benign/RomanticVengeful.html"><font color="#8b0000">Vengeful Romantic Settings</font></RouteLink><br>
-<RouteLink to="/options/neutrals/benign/RomanticRuthless.html"><font color="#d2691e">Ruthless Romantic Settings</font></RouteLink></p>
+<p><RouteLink to="/options/Neutrals/Benign/RomanticVengeful.html"><font color="#8b0000">Vengeful Romantic Settings</font></RouteLink><br>
+<RouteLink to="/options/Neutrals/Benign/RomanticRuthless.html"><font color="#d2691e">Ruthless Romantic Settings</font></RouteLink></p>
 </center>
 <blockquote>
 <p>From: Stellar Roles &amp; Coding: [Gurge44] &amp; [ryuk]</p>
